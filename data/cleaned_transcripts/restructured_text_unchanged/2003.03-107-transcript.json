@@ -1,0 +1,2116 @@
+{
+    "title": "United States v. Lara",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 8.854,
+                    "stop": 76.299,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: 14 years ago in the Duro decision this Court held that under the state of Indian law, as it then stood, and Indian tribe could not prosecute an Indian who was not a member of that tribe. The Court recognized, though, that its decision might create a jurisdictional gap on many reservations, but the Court concluded that if the present jurisdictional regime proves insufficient to meet the needs of reservation law enforcement, the proper body to address that concern is Congress, which has plenary power over Indian affairs. Congress responded immediately to this Court's decision. It... it conducted an extensive inquiry and heard hearings about the consequences of the Court's decision and heard strong expressions of concern by many Indian tribes, by the Federal Government, and by numerous States about the law enforcement vacuum that would be created over many misdemeanor offenses on Indian reservations. And there was widespread support for Congress to restore the power to Indian tribes to exercise their sovereign power to prosecute non-member Indians."
+                },
+                {
+                    "start": 76.299,
+                    "stop": 95.712,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why didn't... why didn't they extend it to non-Indians? I mean, if it's a problem when a... a non-member Indian commits an offense on an Indian reservation, why isn't it an equivalent problem when a... a white man commits the same crime on an Indian reservation?"
+                },
+                {
+                    "start": 95.712,
+                    "stop": 128.1,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think the answer lies in... in the longstanding jurisdictional regime on Indian reservations. Going back to 1817, the general Indian crimes statute has authorized prosecutions by the Federal Government over crimes committed by non-Indians, including misdemeanor crimes, and so there was not a jurisdictional void. The difficulty came... the... the most acute difficulty came from the fact that that statute, again since the earliest times, had... has exempted crimes committed by one Indian against the person or property of another."
+                },
+                {
+                    "start": 128.1,
+                    "stop": 135.087,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why couldn't they have changed that? They could have solved the problem by simply treating non-member Indians the same way they treat non-Indians."
+                },
+                {
+                    "start": 135.087,
+                    "stop": 159.12,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Congress could have done so, but Congress, with the plenary power over Indian affairs, chose... decided that the proper course or the most appropriate course was to have that jurisdiction exercised by the Indian tribes. And Congress heard considerable... considerable evidence that that power had long, in fact, been exercised by Indian tribes over other Indians who were not members of the particular tribe."
+                },
+                {
+                    "start": 159.12,
+                    "stop": 174.731,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's-- --There's some ambiguity about what Indian refers to. Is it... must it be someone who is enrolled in an Indian tribe or can it be anyone who is the child of Indian parents?"
+                },
+                {
+                    "start": 174.731,
+                    "stop": 193.109,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It... generally, it has been understood to require a tribal affiliation. First of all, the definition under... under the Indian Civil Rights Act for tribal power, Congress adopted the same meaning of Indian that is applied under the Federal criminal statutes for the purpose of having the two mesh completely."
+                },
+                {
+                    "start": 193.109,
+                    "stop": 194.243,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but what is that? What is that definition?"
+                },
+                {
+                    "start": 194.243,
+                    "stop": 231.315,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And under that, obviously, someone who is an enrolled... formally enrolled member would be an Indian, but as this Court pointed out in footnote 7 of its Antelope decision, the... that provision has not been construed to require that strictly, that ordinarily someone who is an Indian and has a tribal affiliation and is recognized by the tribe is also regarded as an Indian. In this case, though, we have a situation where someone who is an enrolled member of another tribe. So questions about the... about the... how the statute should be construed or applied in situations where there's not one... someone who's formally a member are... are not present in this case."
+                },
+                {
+                    "start": 231.315,
+                    "stop": 250.729,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, is it the case that the Bill of Rights is... has not been thought applicable to criminal defendants who are members of the tribe in a tribal court or to non-tribal Indian... non-tribal member Indians?"
+                },
+                {
+                    "start": 250.729,
+                    "stop": 252.345,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. Under this Court's decision, this--"
+                },
+                {
+                    "start": 252.345,
+                    "stop": 253.581,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In... in tribal court."
+                },
+                {
+                    "start": 253.581,
+                    "stop": 262.437,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. This Court's decision in Talton v. Mayes said that the Fifth Amendment did not apply to the exercise of powers by Indian tribes, and that's been understood to apply to--"
+                },
+                {
+                    "start": 262.437,
+                    "stop": 272.393,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would that be perhaps one reason why Congress didn't go ahead and subject non-Indians to tribal prosecution?"
+                },
+                {
+                    "start": 272.393,
+                    "stop": 285.7,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, it... it may be, but... but it's important to recognize what... what Congress has also done here was to enact the Indian Civil Rights Act which extends to Indian tribes many of the requirements of the Bill of Rights."
+                },
+                {
+                    "start": 285.7,
+                    "stop": 286.218,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But not all."
+                },
+                {
+                    "start": 286.218,
+                    "stop": 305.78,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not all of them, but Congress in 1968 examined the question of the... of the rights of... of Indians and others subject to tribal jurisdiction and... and applied the... the provisions of the... of the Indian Civil Rights Act. So there... the... the--"
+                },
+                {
+                    "start": 305.78,
+                    "stop": 313.536,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Should we consider in this case the due process and equal protection arguments that are--"
+                },
+                {
+                    "start": 313.536,
+                    "stop": 339.77,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't... I don't believe they are before the Court. What was before the... those... those questions go to what restraints are on the tribe itself when it's exercising its own power. That was not the basis of the court of appeals decision in this case. The court of appeals decision was really on the separate ground of what happens when you have, first, the tribe exercising its sovereign power and then the United States exercising power after that under the Double Jeopardy Clause."
+                },
+                {
+                    "start": 339.77,
+                    "stop": 357.481,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, I suppose under one view of the case... and it's... it's not your view... if this were deemed to be a delegated power, then the absence or the... the presence of obligations under the Bill of Rights would become very important."
+                },
+                {
+                    "start": 357.481,
+                    "stop": 385.899,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I... it depends what one means by delegation. The word delegation is... is used in a variety of ways. I mean, for... for example, it's common to speak of Congress delegating power to an executive agency to carry out a certain function, but when the executive agency does this, it's not exercising congressional power. It's exercising power that Congress in its plenary authority has... has conferred on the executive branch to--"
+                },
+                {
+                    "start": 385.899,
+                    "stop": 386.834,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but it--"
+                },
+                {
+                    "start": 386.834,
+                    "stop": 388.284,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--to then execute those laws."
+                },
+                {
+                    "start": 388.284,
+                    "stop": 403.294,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But it is exercising the power of the United States as distinct from the power of some other sovereign. And... and the issue in this case is whether the... as I understand it, is... is whether the tribe is exercising its own power or the power of the United States."
+                },
+                {
+                    "start": 403.294,
+                    "stop": 417.301,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. I... I was using that by analogy to say that the word delegate is... is often used, including in this Court's opinions I think, in a... in a somewhat looser sense in terms of... of authorizing someone else to act. But I think... I think--"
+                },
+                {
+                    "start": 417.301,
+                    "stop": 427.075,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if it's authorized... exercising its own power, how then can Congress make the Bill of Rights applicable. As... as a condition to the exercise of sovereignty? Is that the way it works?"
+                },
+                {
+                    "start": 427.075,
+                    "stop": 445.971,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. And that's... I think that's exactly what Congress did in the Indian Civil Rights Act. It... it require... and... and this Court said in Wheeler and has said in numerous other decisions that Congress has plenary power over the exercise of a tribe's own sovereign powers. And what Congress did in the Indian Civil Rights Act was precisely to regulate that."
+                },
+                {
+                    "start": 445.971,
+                    "stop": 557.644,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, may I raise the... the point that is... is the greatest trouble for me so... so you perhaps could address that? Because it follows from what Justice Kennedy has raised. As I understand what we held... forget our language about delegation for a minute. As I understand what we held in Oliphant, which we followed in Duro, was that the very concept of... of this dependent or subordinate sovereignty that tribes are... are understood to have, the way we look at Indian issues, is inconsistent with the exercise of tribal jurisdiction over a... a non-member. Whether that notion of subordinate or... or dependent sovereignty is constitutional or common law doesn't really matter. As long as we're going to have that concept, that concept is inconsistent with the exercise of the tribe's own sovereign jurisdiction over a... a non-tribal member. If we are going to stick with that concept then, it seems to me that we have got to understand the statute in question here as a statute that confers Federal power on the tribe as distinct from one that restores the tribe's sovereign power because the tribe can't have the sovereign power as long as we are going to understand that tribe to have this subordinate sovereignty. And therefore, for me the concepts that we're using pretty much force the conclusion that the... that the power that's being exercised is Federal not Indian. Could you comment on... on that analysis?"
+                },
+                {
+                    "start": 557.644,
+                    "stop": 571.969,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. I... I think there... there are several responses to that point. First of all, I think it matters a lot whether one views the limitations on tribal power as mandated by the Constitution or as a product of Federal common law. And in... and--"
+                },
+                {
+                    "start": 571.969,
+                    "stop": 585.961,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it may have a great deal to do with whether we can change our conceptualization about dependent sovereignty, but as long as we keep that conceptualization, it seems to me we've got to accept the conclusion that... that I suggested."
+                },
+                {
+                    "start": 585.961,
+                    "stop": 603.775,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. I... I... with respect, I don't think that's correct because I think if it... if it is not... if this conception is not constitutionally mandated, then Congress has the authority, the plenary authority, over Indian affairs to regulate, to modify tribal jurisdiction. And... and in fact, I think that... that--"
+                },
+                {
+                    "start": 603.775,
+                    "stop": 617.515,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, but if it does so, we have to accept the... if we're going to follow that route, we will have to accept the conclusion that the whole concept of dependent sovereignty has... has been modified in... in some way because you can't have it both ways."
+                },
+                {
+                    "start": 617.515,
+                    "stop": 637.512,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. I... I believe that's... that's an expression of the dependency or a manifestation of the dependency, not in derogation of it, because dependent means that your ability to exercise authority... in this case, the Indian tribe is always subject to the overriding powers of the Federal Government. And what this Court said precisely in the--"
+                },
+                {
+                    "start": 637.512,
+                    "stop": 652.672,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if that... if that were all we meant in Oliphant, we would have said the... the Federal Government could take away this power by statute. We didn't say the Federal Government could take away the power by statute. We said it is gone by virtue of the... the sovereignty relationship."
+                },
+                {
+                    "start": 652.672,
+                    "stop": 719.88,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But it... if... if one looks back at the Oliphant decision, what the Court there described its... its undertaking was was essentially a... a... an articulation of what it called Indian law which is a... a combination of judge-made law but against the backdrop of treaties and statutes. Those treaties and statutes are not themselves embodying constitutionally mandated rules. They are the product of the political branches. They sometimes don't answer precise questions, and this Court is required to articulate judicial principles as best it can against the backdrop of those principles. But because those principles themselves are traced to treaties and statutes, it must be up to... Congress must have the authority to modify those rules, and that's consistent with its plenary power over Indian affairs. What this Court said in the Montana decision, which... which has been identified as the path-marking decision over... concerning jurisdiction over non-tribal members, was what tribes lost by virtue of their dependent status was the power independently to determine their external relations. This is not what we have here--"
+                },
+                {
+                    "start": 719.88,
+                    "stop": 722.249,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't... isn't that what we're talking about--"
+                },
+                {
+                    "start": 722.249,
+                    "stop": 723.116,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. No, it isn't--"
+                },
+                {
+                    "start": 723.116,
+                    "stop": 724.268,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--when we talk about sovereign power?"
+                },
+                {
+                    "start": 724.268,
+                    "stop": 777.419,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--This is not a unilateral assertion of tribal power. This Court held in... in Oliphant and Duro, by looking at the... at the backdrop of... of statutory enactments, that its power had been limited, but... and the tribe did not unilaterally overcome that. What Congress did was lift the limits so that the tribe... the tribe would then be authorized to exercise sovereign power that it previously had... had had. And it's in that... it's directly analogous to two important examples that I think are very instructive here. One is that Constitution itself in the Commerce Clause has been held to, of its own force, preempt State laws in the interstate commerce and also in the Indian Commerce Clause area. But Congress can, in the exercise of its authority over commerce under either one, lift those restrictions and authorize States to regulate in areas they otherwise could not do."
+                },
+                {
+                    "start": 777.419,
+                    "stop": 789.893,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that has always been thought to be a great anomaly that a constitutional requirement could be eliminated by a Federal statute. I... I hope you're not urging that as... as a rule which should be followed."
+                },
+                {
+                    "start": 789.893,
+                    "stop": 801.718,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, but... but the point is that in that situation, even when the Constitution itself has, as a matter of constitutional law, limited State authority, Congress can lift that. The other... the other example--"
+                },
+                {
+                    "start": 801.718,
+                    "stop": 806.003,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's... let's apply that across the board then. I guess Congress can lift the Fifth Amendment?"
+                },
+                {
+                    "start": 806.003,
+                    "stop": 807.605,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. It's--"
+                },
+                {
+                    "start": 807.605,
+                    "stop": 808.455,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Clearly you're not going to urge--"
+                },
+                {
+                    "start": 808.455,
+                    "stop": 809.255,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. It's--"
+                },
+                {
+                    "start": 809.255,
+                    "stop": 810.974,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Congress can lift the Double Jeopardy Clause?"
+                },
+                {
+                    "start": 810.974,
+                    "stop": 816.294,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. I'm... I'm not speaking of Bill... Bill of Rights provisions. I'm speaking of Congress' Article I power."
+                },
+                {
+                    "start": 816.294,
+                    "stop": 818.412,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's... there's a distinction between the Bill of Rights and the rest of the Constitution."
+                },
+                {
+                    "start": 818.412,
+                    "stop": 861.589,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, under... under this Court's decision... decisions, Congress has been authorized to allow States to regulate in areas it... it would otherwise not be able to, and when it does so, it's exercising its own sovereign power, not power delegated by the Federal Government. The other... the other instructive example is Public Law 280. Since the outset of the Constitution, really by the... by carrying forward arrangements of... in Indian law prior to the adoption of the Constitution, States have not been able to exercise jurisdiction over matters involving Indians in Indian country absent an affirmative authorization by Congress. In Public Law 280 Congress lifted those limitations and authorized tribes to exercise jurisdiction over Indians and others in Indian country."
+                },
+                {
+                    "start": 861.589,
+                    "stop": 861.989,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Authorized States."
+                },
+                {
+                    "start": 861.989,
+                    "stop": 862.505,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Pardon me?"
+                },
+                {
+                    "start": 862.505,
+                    "stop": 863.455,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Authorized States."
+                },
+                {
+                    "start": 863.455,
+                    "stop": 878.599,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Excuse me. Authorized States. And in doing so, those States are not exercising delegated Federal power. Congress lifted a barrier to the exercise by States of their own sovereign power to prosecute according to their laws."
+                },
+                {
+                    "start": 878.599,
+                    "stop": 916.457,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So in saying that, what you're doing... is what you're doing taking the word dependent in domestic dependent nation and saying that Congress has a degree of leeway to define what is and what is not encompassed by the word dependent so that if Congress wants to, it can say that whereas previously an exercise of pre-1650, your Indian jurisdiction, because they could have, you know... which was removed by the word dependent is not removed--"
+                },
+                {
+                    "start": 916.457,
+                    "stop": 916.89,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 916.89,
+                    "stop": 921.111,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--because Congress... Congress can redefine the term dependent?"
+                },
+                {
+                    "start": 921.111,
+                    "stop": 929.531,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I... I agree with your result. I... I think conceptually what I would say is dependent defines the relationship between the tribe and the National Government--"
+                },
+                {
+                    "start": 929.531,
+                    "stop": 929.966,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 929.966,
+                    "stop": 944.291,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--in this case Congress. And... and Congress in the... in the exercise of its superior sovereignty is... is defining the contours of the dependent sovereign's authority. So it... it is a manifestation of the dependent relationship."
+                },
+                {
+                    "start": 944.291,
+                    "stop": 956.165,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So when you look at Duro, it... it said that what it found the exercise of criminal jurisdiction inconsistent with was the notion of dependency in the phrase, domestic dependent nation."
+                },
+                {
+                    "start": 956.165,
+                    "stop": 957.817,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. And--"
+                },
+                {
+                    "start": 957.817,
+                    "stop": 964.787,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And... and therefore... and... and there... so Congress has the authority to say no, at least as to future, it is not inconsistent."
+                },
+                {
+                    "start": 964.787,
+                    "stop": 965.306,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 965.306,
+                    "stop": 996.308,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that right? And... and since this has nothing to do with prior Indian tribal power but simply with arrangements that Congress chooses to adopt, it necessarily follows that Congress could provide that anyone in this room, whether an Indian... whether an enrolled Indian or not, could be subjected to trial by a... a tribal court and then subjected to a second trial, despite the Double Jeopardy Clause, by a court of the United States. Right? Congress could provide that."
+                },
+                {
+                    "start": 996.308,
+                    "stop": 997.708,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. I... I think that's right. And--"
+                },
+                {
+                    "start": 997.708,
+                    "stop": 1002.212,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I find it hard to think that that's all that the Double Jeopardy Clause means."
+                },
+                {
+                    "start": 1002.212,
+                    "stop": 1025.558,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the... this Court held in Wheeler that prosecution by an Indian tribe of a... of a member of the tribe in that situation, followed by a prosecution by the Federal Government for what would... the same conduct, was not the same offense because the ultimate authority to prosecute derived from different sources. And we think the same--"
+                },
+                {
+                    "start": 1025.558,
+                    "stop": 1042.02,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But derived from inherent tribal authority, which had not been taken away. What's different here is that it had been taken away and was given back, and it's hard to decide... it's hard to consider that inherent tribal authority, even though the... the statute refers to it that way."
+                },
+                {
+                    "start": 1042.02,
+                    "stop": 1061.334,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, it... I... I think by inherent what the Court meant in both Oliphant and... and in Duro was original sovereignty that has continued unlimited or unrestricted down to the present day. In other words, it... it has been... it has been allowed to continue, and in that sense it's inherent in being--"
+                },
+                {
+                    "start": 1061.334,
+                    "stop": 1074.974,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That provides a limitation. That provides a limitation to... you know, to jurisdiction over the... over the tribal members, and that was a very important limitation. Now you're saying that limitation doesn't exist."
+                },
+                {
+                    "start": 1074.974,
+                    "stop": 1075.641,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I... I--"
+                },
+                {
+                    "start": 1075.641,
+                    "stop": 1090.168,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It doesn't matter what has been allowed to... to continue down to the present day. Congress can change all of that and permit jurisdiction over non-tribal members and, it necessarily follows, permit jurisdiction over non-Indians without violating the Double Jeopardy Clause."
+                },
+                {
+                    "start": 1090.168,
+                    "stop": 1105.862,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If... if we... if we look at the reality of the nature of the prosecutions here, this was a prosecution brought by tribal officials in a tribally constituted court enforcing provisions of tribal law, not title 18, under a tribal constitution. That--"
+                },
+                {
+                    "start": 1105.862,
+                    "stop": 1113.699,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you saying that Congress could require the trial of non-Indians before a... an Indian tribal court?"
+                },
+                {
+                    "start": 1113.699,
+                    "stop": 1143.904,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. I... I believe the... this Court's decision in... in Oliphant says so in several respects. What the Court... in several locations. What the Court said in Oliphant is that the... the tribes necessarily lost their dependent... excuse me... by virtue of their dependent status, lost their ability to prosecute non-Indians except in a manner acceptable to Congress. So the... the Court necessarily assumed that Congress could revest this authority in the Indian tribes."
+                },
+                {
+                    "start": 1143.904,
+                    "stop": 1190.949,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is maybe... it's very interesting. Suppose... I would think on your approach then that the rights that the individual tribe gets is a function of the Due Process Clause. And... and is there any basis? After all, Indian tribal members are persons within the United States to whom the Due Process Clause is applicable. Imagine a tribe that does not give you counsel in a criminal trial. That could happen. All right? Now, is there a basis under the Due Process Clause for distinguishing between whether the defendant in such a case is, A, a member of that tribe; B, a non-tribe member but an Indian; C, a non-Indian?"
+                },
+                {
+                    "start": 1190.949,
+                    "stop": 1214.648,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, several things. First of all, the... the Due Process Clause of the Fifth Amendment under this Court's decision in Talton probably would not apply of its own force to the tribe. But what does apply is the Indian Civil Rights Act. What... Congress filled that void by... by... as a statutory matter requiring that certain rights be--"
+                },
+                {
+                    "start": 1214.648,
+                    "stop": 1219.219,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the statute isn't going to help in terms of my question because I'm interested in Congress' power."
+                },
+                {
+                    "start": 1219.219,
+                    "stop": 1220.719,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. I... I think--"
+                },
+                {
+                    "start": 1220.719,
+                    "stop": 1224.521,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And... and maybe we don't have to reach that in this case."
+                },
+                {
+                    "start": 1224.521,
+                    "stop": 1225.372,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... I think--"
+                },
+                {
+                    "start": 1225.372,
+                    "stop": 1228.574,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And maybe the answer to this case makes no difference in respect to that."
+                },
+                {
+                    "start": 1228.574,
+                    "stop": 1237.013,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... I think... I think in asking a due process question, you might be asking... a procedural due process question, you might be asking an equal protection type question."
+                },
+                {
+                    "start": 1237.013,
+                    "stop": 1240.132,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm asking a question in respect to right to counsel, for example."
+                },
+                {
+                    "start": 1240.132,
+                    "stop": 1256.408,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right... right to counsel is not... is not expressly guaranteed by the Indian Civil Rights Act. If there is a particular prosecution that is found to violate fundamental fairness because of the absence of counsel, the Indian Civil Rights Act would... would provide a vehicle for that argument."
+                },
+                {
+                    "start": 1256.408,
+                    "stop": 1277.588,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, except... except with respect to the Indian Civil Rights Act, you can... you can... and I think this solves due process problems. You... you can assert the maxim of volenti non fit injuria. You... you are not subject to... to this kind of trial unless you choose to be an enrolled member of the tribe. You can withdraw from that at any time."
+                },
+                {
+                    "start": 1277.588,
+                    "stop": 1278.257,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1278.257,
+                    "stop": 1296.469,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But to now extend the Government's power to subject people to this kind of trial beyond members of the... of the tribe that... that has the tribal court to members of other tribes and, as you necessarily acknowledge, even to non-Indians, that's a... that's a step I'm... I'm not prepared to contemplate."
+                },
+                {
+                    "start": 1296.469,
+                    "stop": 1317.132,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, with... first of all, with respect to members of tribes other than the prosecuting tribe, Congress in the exercise of its plenary authority over tribes we think certainly should have the power to regulate the relationship among tribes, tribes with each other, and relationships of tribes and their respective members with each other."
+                },
+                {
+                    "start": 1317.132,
+                    "stop": 1317.782,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, would it--"
+                },
+                {
+                    "start": 1317.782,
+                    "stop": 1319.098,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's what Congress has done here."
+                },
+                {
+                    "start": 1319.098,
+                    "stop": 1327.238,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Would it be a defense, say, to someone charged with a crime in Wisconsin to say volenti non fit... you move to Minnesota. They don't treat you--"
+                },
+                {
+                    "start": 1327.238,
+                    "stop": 1352.721,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, it would not. And that's... that is another... there... there are really two different questions. One, can someone be subjected to the jurisdiction of a court when he's not participating in the... in the process there? And that happens all the time when people are prosecuted in another jurisdiction. There's a separate question of... of what procedural protections would be afforded in such a trial, and that's where the Indian Civil Rights Act steps in."
+                },
+                {
+                    "start": 1352.721,
+                    "stop": 1365.463,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Kneedler, just to bring it back to this case, as I understand it, there was no due process or equal protection challenge by Mr. Lara. He's contesting the second proceeding."
+                },
+                {
+                    "start": 1365.463,
+                    "stop": 1373.219,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's... that's correct. In fact, it's a necessary... he has to accept the validity of his... of his prior prosecution and... and leave it standing in order to--"
+                },
+                {
+                    "start": 1373.219,
+                    "stop": 1375.652,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because if it's not valid, then he's being prosecuted for the first time."
+                },
+                {
+                    "start": 1375.652,
+                    "stop": 1377.221,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. That... that's correct."
+                },
+                {
+                    "start": 1377.221,
+                    "stop": 1396.648,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but all these questions are very relevant to whether we should accept your... or... or the Government's assertion of what Congress can do. Those... if... if your... your proposal raises all of these serious constitutional questions, we're less inclined, it seems to me, to adopt that proposal."
+                },
+                {
+                    "start": 1396.648,
+                    "stop": 1427.937,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, there... there's I think another important point to be made about the nature of Congress' powers in this area. To say that an Indian tribe could only prosecute a non-member... a non-member Indian through the exercise of delegated Federal power would itself be a... a substantial constitutional anomaly. I think it's important to... to consider the scope of Congress' plenary powers within the framework of the structure of the Constitution itself. The--"
+                },
+                {
+                    "start": 1427.937,
+                    "stop": 1464.626,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but... so... so what you're saying is that if the Court has very substantial concerns over the Government's proposition that within the territorial United States a non-constitutional entity can be allowed to try a United States citizen, if we have concerns about that, you're giving us no ability to draw a line so that you can prevail in this case. You are... it seems to me that you are conceding, by your last statement, that if we rule in favor of your position, it must necessarily apply to non-Indians."
+                },
+                {
+                    "start": 1464.626,
+                    "stop": 1465.21,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, I... I--"
+                },
+                {
+                    "start": 1465.21,
+                    "stop": 1467.162,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And this is an astounding proposition."
+                },
+                {
+                    "start": 1467.162,
+                    "stop": 1497.014,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I did not... I did not mean to say... to say that. I mean, first of all, I think Oliphant contemplates that. What rights would attach is... is a separate question. But I... but I do think that there is a distinct authority for Congress to regulate or to permit a tribe to exercise jurisdiction over members of other tribes. This is a power that has historically been left to tribes by the Federal statutory regime in Indian country since 1817 down to the present time. There is still an exception--"
+                },
+                {
+                    "start": 1497.014,
+                    "stop": 1500.883,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but that was before Indians were citizens of the United States."
+                },
+                {
+                    "start": 1500.883,
+                    "stop": 1505.686,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But... no. That has continued up to the present time. There is still an exception in the statutory regime for tribes to--"
+                },
+                {
+                    "start": 1505.686,
+                    "stop": 1516.126,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but one wonders if you go beyond members of the tribe itself to outsiders, whether that distinction between citizens of the United States is valid."
+                },
+                {
+                    "start": 1516.126,
+                    "stop": 1530.367,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... I believe it is. In... in Duro itself, the Court said that citizenship does not detract from Congress' plenary power over Indian affairs. The... the last point I wanted to make and then I would like to reserve the--"
+                },
+                {
+                    "start": 1530.367,
+                    "stop": 1534.188,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that was... that was not in the context of regulating non-Indians."
+                },
+                {
+                    "start": 1534.188,
+                    "stop": 1556.817,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. Here we're talking about... this case involves non-member Indians, and as I said, the ability of Congress to regulate relationships between tribes and... and their members would seem to be at the core of the power. And as this Court has said in its federalism cases, it would be a... a mixing of sovereignty to regard the States as mere agents of the Federal Government. They are separate sovereigns, and we think the same is true--"
+                },
+                {
+                    "start": 1556.817,
+                    "stop": 1558.119,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but they are also not dependent sovereigns."
+                },
+                {
+                    "start": 1558.119,
+                    "stop": 1558.503,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's--"
+                },
+                {
+                    "start": 1558.503,
+                    "stop": 1561.155,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, there's an entirely different conceptualization involved."
+                },
+                {
+                    "start": 1561.155,
+                    "stop": 1573.213,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But again, in our... in our view, the dependency describes Congress' power to regulate and limit and prescribe the rights available in tribal courts. If I may reserve the balance of my time."
+                },
+                {
+                    "start": 1573.213,
+                    "stop": 1576.415,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Kneedler. Mr. Reichert, we'll hear from you."
+                }
+            ],
+            "start": 8.854,
+            "stop": 1624.578
+        },
+        {
+            "turns": [
+                {
+                    "start": 1576.415,
+                    "stop": 1624.578,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: When Congress amended the Indian Civil rights Act in response to this Court's invitation in Duro, Congress exceeded its power by overruling this... this Court's determination on the limits of tribal sovereignty. The tribal power that Congress can give and take away cannot by definition be a sovereign power. The tribal court, acting without its own sovereign authority, prosecuted Billy Jo Lara using this Federal authority, and his subsequent Federal prosecution, therefore, double... violated the Double Jeopardy Clause."
+                },
+                {
+                    "start": 1624.578,
+                    "stop": 1696.088,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we take your approach then in trying to carry out what was the will of Congress, I think we'd have to say that the first prosecution doesn't count because the one thing is... seems to me pretty clear from this record, that Congress did not want to have a situation where there was a delegation of Federal authority. The whole idea was that you would have the Federal... the possibility of the Federal prosecution and the tribal prosecution. I... I think that it's... it's inescapably clear that that's what Congress wanted to do, to preserve the possibility of a U.S. attorney prosecution. So if you're right, then I think making the... the bottom line what would Congress do if it couldn't accomplish what it set out to accomplish, one would say, well, all bets are off and not adopt your position that Congress chose to delegate Federal authority when it seems to me pretty clear that it didn't."
+                },
+                {
+                    "start": 1696.088,
+                    "stop": 1731.829,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, I believe that Congress' intent was clear on two points. The first point was that they were attempting to restore tribal sovereignty, which they cannot do by its definition. But they were also clearly trying to close a jurisdictional gap, a jurisdictional loophole. Under the Government's contention, the entire statute should be thrown out and neither one of those clear intents from Congress can be saved. But under the... under what the Eighth Circuit did and under what I'm asking this Court to do, the... one of those intents can be saved and that is--"
+                },
+                {
+                    "start": 1731.829,
+                    "stop": 1774.188,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you can't do that. You can't... you can't achieve the end by a means other than the means which Congress provided to that end. It did, indeed, intend to close a gap, but the means which it selected to close that gap was the reconferral... the attempted reconferral of inherent sovereignty upon the Indian tribes. There's no delegation language in that. They clearly chose the means to the end of... of covering the gap, the means of reconferring sovereignty. And if that is invalid, then the statute is invalid. We... we have no power to transmogrify it into a... a delegation when it clearly is not that."
+                },
+                {
+                    "start": 1774.188,
+                    "stop": 1804.623,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And if this Court was to determine that this is a... that this is not a delegation and that this Court determines that the statute cannot be saved, then Mr. Lara still was prosecuted in the tribal court. He was still prosecuted under color of law. He served 90 days in the tribal jail on this offense, 155 days total. The tribal court believed it was acting properly. It was told by Congress. Congress is the body which tells the tribe what to do."
+                },
+                {
+                    "start": 1804.623,
+                    "stop": 1816.948,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you... do you have authority for the proposition that if you're tried by a court without jurisdiction, it's nevertheless sufficient to invoke double jeopardy, if we have to reach that here? Do you have authority for that or is that a novel proposition?"
+                },
+                {
+                    "start": 1816.948,
+                    "stop": 1842.665,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe that it's novel. There is... this Court has not ruled that a court without jurisdiction can, therefore, subject some... can subject somebody to initial jeopardy in the double jeopardy sense. But the Fifth Amendment clearly... the Fifth Amendment does not protect against dual investigations or dual prosecutions. It protects against dual punishment, and Mr. Lara has been punished. He served 90 days in jail. Congress can't now--"
+                },
+                {
+                    "start": 1842.665,
+                    "stop": 1852.838,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if... what if he'd been prosecuted in France and served 90 days there and then he was tried here? Would that be double jeopardy?"
+                },
+                {
+                    "start": 1852.838,
+                    "stop": 1854.556,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't believe so, Your Honor."
+                },
+                {
+                    "start": 1854.556,
+                    "stop": 1886.525,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, and... and furthermore, you have a habeas remedy after the first... after the first trial to... to object to the sentence. Getting back to the... to the point, why is it... let's assume for the moment... it's just an assumption... that the... that the tribes had as a historical matter the sovereign authority to try non-member Indians and that Congress took that away. Could Congress then give it back?"
+                },
+                {
+                    "start": 1886.525,
+                    "stop": 1891.293,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Congress can... could always give it back under a delegation. Congress always has the power to--"
+                },
+                {
+                    "start": 1891.293,
+                    "stop": 1900.333,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... why would it be a delegation? Why couldn't they say we... we define the scope of Indian sovereignty and we... we ratchet it up and we ratchet it down?"
+                },
+                {
+                    "start": 1900.333,
+                    "stop": 1910.79,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What Congress takes away and Congress gives back is a power of Congress. It can't be a reaffirmation of a tribal sovereign power. That which--"
+                },
+                {
+                    "start": 1910.79,
+                    "stop": 1928.466,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May... may I interrupt you on that? Supposing they had a... a procedure for electing their chiefs and Congress said that's unfair to women or something, so you can't do it anymore, and then 10 years later just repealed the statute. Would they then have delegated the power to elect the chiefs the way they did it for 100 years?"
+                },
+                {
+                    "start": 1928.466,
+                    "stop": 1968.091,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think technically they would, but in that situation it's... it's not so important whether they're using a delegated power or a sovereign power because this case presents unique facts where sovereignty becomes of paramount importance because of this Court's adoption of the dual sovereignty doctrine. In many instances, Congress delegates authority and it... the importance of whether it be a delegation or whether it be a... a re-recognition or a restoration of inherent tribal sovereignty is not nearly as important. And in that case, I think it would be a delegation of Federal power, but I don't think it would affect the election of the tribal chairmen."
+                },
+                {
+                    "start": 1968.091,
+                    "stop": 2011.553,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Reichert-- --They could do it with Puerto Rico, couldn't they? Sorry. With Puerto Rico, can't Congress, for example, define the sovereign relation between the United States and the Commonwealth of Puerto Rico. I would have thought it had considerable power there. And if it can do it there, why can't it do it here? I mean, you could enter into a treaty changing the nature of the sovereign power and the House of Representatives and the Senate have basically taken to themselves through statute the treaty-making authority. And so what's... why is this any different from... from redefining the nature of the sovereign relationship between, say, Guam, Puerto Rico, a whole... you know, those entities that are not States?"
+                },
+                {
+                    "start": 2011.553,
+                    "stop": 2023.81,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "When Congress acts with... as it acts towards Puerto Rico, it can use its treaty powers and not be conferring sovereign power on Puerto Rico. And Puerto Rico is considerably--"
+                },
+                {
+                    "start": 2023.81,
+                    "stop": 2092.002,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose it does. Suppose it says the commonwealth, which is a totally uncertain concept, henceforth means A, B, C, D, and E. All right? Now... now, whether that's wise or not wise I have no idea, but I don't see anything in the Constitution that would stop Congress from doing that. And if there is nothing there, why is there here where, in fact... I don't want to repeat myself. But my understanding of this is that over the years Congress has, through legislation... or Congress has changed the making of the treaty to define the relationship into a situation where we define the relationship with the Indian tribes through legislation. What about Philippines? At least I don't see why they-- --I assume we did precisely that with the Philippines, and I... I guess Justice Breyer is suggesting that we can simply revoke Philippine independence, which we... which we graciously gave them, and now, since it was all done through the treaty power, we can just revoke it. But this is the opposite. I suppose we could--"
+                },
+                {
+                    "start": 2092.002,
+                    "stop": 2127.942,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--To address that, Puerto Rico is different than a State and Puerto Rico and States are very different from tribes. Tribes are dependent nations. They are a unique body within our constitutional framework. And when Congress acts in relation to tribes, they can act in a number of different ways. In fact, Congress can completely take away a tribe's sovereignty, but it cannot restore that sovereignty once it's... it has taken it away. The reason that this... the reason that this is--"
+                },
+                {
+                    "start": 2127.942,
+                    "stop": 2162.915,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Can I just... it seems to me that's a critical part of the case where the... supposing the tribe had a... a criminal statute and saying you cannot cut trees above 5,000 feet on the mountains because that's sacred land or something like that. And Congress decided they wanted to build a road up there, so they preempted the... the Indian statute and said we cannot enforce that statute. Then after they built the road, they decided, well, they'd let them go back to the way they did, and they said we repeal the preempting statute. Now, would that be a delegation of power to... to protect those religious grounds, or would that be just a restoration of a preexisting sovereign power?"
+                },
+                {
+                    "start": 2162.915,
+                    "stop": 2173.787,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I believe that that would be a delegation of Congress' power. Once it has taken something away, it cannot give it back. And powers which are... which are sovereign cannot be defined as sovereign when--"
+                },
+                {
+                    "start": 2173.787,
+                    "stop": 2186.78,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where... where do you get the authority for that one-way ratcheting when we've said that Congress has plenary power over the tribes? What opinion of this Court do you look to for that proposition?"
+                },
+                {
+                    "start": 2186.78,
+                    "stop": 2216.733,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I would look to Oliphant or to United States v. Sioux Nation or the Alcea Band of the Tillamook Tribe wherein this Court said Congress' plenary power is not absolute. Congress... this Court has often said Congress has plenary power, but that plenary power is not absolute. And one of the... one of the most important limitations on Congress' power with regard to Indian tribes is that it must be subject to the limitations of the Constitution."
+                },
+                {
+                    "start": 2216.733,
+                    "stop": 2295.918,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Mr. Reichert, may I interrupt you there? Because I... I think... I think there are two different arguments in play in... in what's going on here, and I thought you had started out with one and now you seem to be going to a different one. One argument is Congress didn't take away this power over... the tribal power to... to prosecute non-tribal members. There's no act of Congress that said they can't do that. The reason they can't do that is there's a sovereignty relationship. There's no act of Congress that articulated that sovereignty relationship. It's just the way we understand things. The tribes are dependent sovereigns. And on that theory... that's where I... I thought you were coming from originally, and... and on that theory, Congress can't restore it because it can't change that relationship, or at least it hasn't changed that relationship of... of dependent sovereignty. A second way that... that is being explored here is... is on the assumption that Congress by some act took away the sovereignty to prosecute non-tribal members and now wants to give it back. I'm not sure what the answer should be in the second case, but I thought your argument depended on the first case or the first example. Is... is that correct?"
+                },
+                {
+                    "start": 2295.918,
+                    "stop": 2298.954,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The--"
+                },
+                {
+                    "start": 2298.954,
+                    "stop": 2306.123,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, it's... it's the sovereign relationship rather than an act of Congress that takes away that is crucial for understanding the issue here."
+                },
+                {
+                    "start": 2306.123,
+                    "stop": 2321.05,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If I could just... it's this Court that said that that... that recognized... and its role is to say what the law is... looked at the dependent nature of the Indian tribes and said this does not exist. This power to prosecute--"
+                },
+                {
+                    "start": 2321.05,
+                    "stop": 2322.319,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We said that in Oliphant, among other things."
+                },
+                {
+                    "start": 2322.319,
+                    "stop": 2322.952,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct."
+                },
+                {
+                    "start": 2322.952,
+                    "stop": 2329.056,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, okay. So it's a power always to take away, but never to give back that's--"
+                },
+                {
+                    "start": 2329.056,
+                    "stop": 2339.729,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, but Congress can always give back using their plenary power. Congress can always delegate powers back to the tribes. It simply cannot make sovereign that which is not. That which is--"
+                },
+                {
+                    "start": 2339.729,
+                    "stop": 2376.954,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But do we... I'm sorry. Can I interrupt-- --Do we... we have to get-- --What transformed the tribes from independent sovereigns to dependent sovereigns was not a decision of this Court and the act of Congress. It was the acts of the legislature and they took over a lot of things that were previously independent sovereignty of the tribes. And if you go back a couple hundred years, they clearly had their own inherent power to try non-members. Maybe they lost it in the change in the relationship between the United States and the tribe, but that's not as a result of an act of Congress or a decision of this Court. It's the result of historical events."
+                },
+                {
+                    "start": 2376.954,
+                    "stop": 2396.2,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's a result, Your Honor, of their accepting the dependent... accepting the protection and the benefits and the burdens of the United States. And that boils down to the essential question which is who has the... who has the final authority on what the limits on inherent sovereignty are. Is it this body or is it Congress? And--"
+                },
+                {
+                    "start": 2396.2,
+                    "stop": 2451.968,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Essentially the trouble I have with your case is that it depends on making a distinction between the status of... of Indian sovereignty which hasn't yet been taken away but which exists totally the whim of Congress. And that, you say, is not... is... that does not allow the Double Jeopardy Clause to be invoked because... I don't know what. You call that sovereignty, that dependent sovereignty? But you say, however, if Congress acts to take it away, then it can't give it back. It seems to me in both cases whatever power the Indian tribe has is power that exists at the pleasure of the United States, and I don't know why in... the one case is any better than the other as far as the Double Jeopardy Clause is concerned. Whatever power they exercise, they exercise because we let them exercise it. Isn't that right?"
+                },
+                {
+                    "start": 2451.968,
+                    "stop": 2452.804,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right, and--"
+                },
+                {
+                    "start": 2452.804,
+                    "stop": 2459.291,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why shouldn't the... I mean, I... I... if the Double Jeopardy Clause doesn't apply in one situation, it seems to me it shouldn't apply in the other."
+                },
+                {
+                    "start": 2459.291,
+                    "stop": 2471.998,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And Billy Jo Lara was prosecuted using Federal power, and that's... and that's the premise. He... when he was prosecuted by the tribe, he was prosecuted using Federal power. And then his subsequent prosecution in the Federal court--"
+                },
+                {
+                    "start": 2471.998,
+                    "stop": 2477.585,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... why doesn't Gideon v. Wainwright and all the other provisions of the Bill of Rights apply?"
+                },
+                {
+                    "start": 2477.585,
+                    "stop": 2482.223,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--To Billy Jo Lara as a non-member of the tribe? I think that it should apply."
+                },
+                {
+                    "start": 2482.223,
+                    "stop": 2487.441,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To... to any Indian tribal prosecution of its own... even of its own members."
+                },
+                {
+                    "start": 2487.441,
+                    "stop": 2522.18,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because this Court said in United States v. Wheeler that the... the member of a tribe has accepted the benefits and the burdens of being a member of that tribe, and one of the burdens is that the Bill of Rights does not apply. And at any time that tribal member can decide to leave his or her tribe and no longer be a member, no longer accept the benefits and no longer accept the burdens, which is the fundamental unfairness of either placing a non-Indian or a non-member Indian before a tribal court which does not give that person their full constitutional rights."
+                },
+                {
+                    "start": 2522.18,
+                    "stop": 2602.233,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So... so the answer then to the due process problem, which you've just given, is that the... the member... the tribal member, the non-tribal Indian, and the non-Indian are all persons subject to the Due Process Clause, but what counts is due process may vary between whether you are a tribal member or not because of the argument you just gave. Now, if that's so, that solves that problem. Then we're back to the question of why not allow Congress to define sovereignty. I thought Justice Scalia's point was a very good point to mention the Philippines. If you reverse it, don't we have the authority in the United States to give the Philippines independence? And if in fact, we get into the habit of making that kind of decision through a congressional law, why could we not do the same to the Indian tribes? And if there is a boundary there, it must have to do with the nature of a Constitution of the United States, not some language. And I can't find anything here that would suggest that in doing this, that boundary is passed. So what's... what's the answer to that kind of argument?"
+                },
+                {
+                    "start": 2602.233,
+                    "stop": 2611.155,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, as I understand your question, you're looking for where in the Constitution Congress has the power or this... or this body has the power."
+                },
+                {
+                    "start": 2611.155,
+                    "stop": 2662.355,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To the contrary. I'm saying naturally Congress has the power to take, let's say, something that is not a State... it is like Puerto Rico or the Philippines... and to say we are changing the status of that entity. Now, I would think you'd start from the proposition that they do have the power to define the relationship of entities that are not States to the United States. Now, if there is a limit on that, it must be found either explicitly, which I can't find, or implicitly in the nature of the constitutional document itself. So I am looking to you to tell me any kind of limit like that which might prevent what Congress tried to do here."
+                },
+                {
+                    "start": 2662.355,
+                    "stop": 2674.146,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Congress has specific enumerated powers in the Constitution. Nowhere in those specific enumerated powers... and the Government has pointed to no specific enumerated powers that allows Congress to take the action they did."
+                },
+                {
+                    "start": 2674.146,
+                    "stop": 2699.88,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I want to turn the question then. Which is the power that allowed us to give independence to the Philippines? Which is the power that allowed us to pass the Federal Relations Act or the Commonwealth Relations Act that defines the relationship with Puerto Rico? Which is the power... where... where are these powers in the... I'm not saying they're not there. I'm saying that I'm not an expert in this area and I... I'd like you to make this argument of where they are."
+                },
+                {
+                    "start": 2699.88,
+                    "stop": 2732.767,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In the Treaty Clause. And Congress and the executive branch can have relations with other nations through the Treaty Clause and can define their relation. But this Court has said that dealings with the tribe is more than treaties and more than statutes, that it also depends on the relationship of the tribes to this dependent nation. And in giving their... in... in accepting the protection of the United States, the tribes accepted the burdens and necessarily gave up certain aspects of their sovereignty."
+                },
+                {
+                    "start": 2732.767,
+                    "stop": 2757.067,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, my impression is that we used to do this through treaty, but at some point the House of Representatives was somewhat unhappy about not having a role in this and therefore it became changed such that the relationship with the Indian tribes is defined through agreement ratified and enacted into law by both houses of Congress. Now, was that unconstitutional to do that?"
+                },
+                {
+                    "start": 2757.067,
+                    "stop": 2778.682,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not sure that it was... if it was unconstitutional or not, but I don't think that's the important distinction, Your Honor. What the important distinction is is where does this power to now deal with Indian tribes and to... what they're trying to do is define sovereignty and take any role that this Court has in defining sovereignty away. Under the Government's analysis--"
+                },
+                {
+                    "start": 2778.682,
+                    "stop": 2794.675,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I... I suppose that if this Court said that the nature of sovereignty is such that it has certain limits and that this is imposed because of the Constitution and because of long use, perhaps Congress couldn't change it. But we haven't said that."
+                },
+                {
+                    "start": 2794.675,
+                    "stop": 2795.794,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But Congress--"
+                },
+                {
+                    "start": 2795.794,
+                    "stop": 2809.201,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We have not said that. Duro didn't say that. Duro said we'll look at the statute. Congress didn't give this power. End of case. That's all. Insofar as the territories, because that's under Article IV of the Constitution, it has nothing to do with this case."
+                },
+                {
+                    "start": 2809.201,
+                    "stop": 2820.259,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And Congress is already attempting to... with the Hicks fix to overrule Hicks, Montana, and Oliphant. And if this Court gives to Congress all the powers that the Government is asking them to--"
+                },
+                {
+                    "start": 2820.259,
+                    "stop": 2850.428,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That may well be a different case because then we're concerned with the powers of... of Indian tribes as a historical matter of their sovereignty over citizens of the United States who have direct relations, responsibilities, obligations, and rights both with their States and with the National Government, and under the insular cases, the Constitution applies with full force to the territory of the United States. So that's a very different... that's a very different case."
+                },
+                {
+                    "start": 2850.428,
+                    "stop": 2863.086,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But Mr. Lara owes no allegiance whatsoever to the Spirit Lake Sioux Tribe. He's a member of a different tribe. Using... he is a citizen of the United States just like any other Indian. He receives no benefits from the Spirit Lake Sioux Tribe."
+                },
+                {
+                    "start": 2863.086,
+                    "stop": 2886.368,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then you're making a... then you're making a constitutional argument and it's an appropriate argument. But I... I don't think it follows from that that within the realm where Congress does have authority, i.e., the relations of Indian tribes with their own members, that it can't give in one year and take away the... the other year. I... I just don't think you need that argument to prevail in your case."
+                },
+                {
+                    "start": 2886.368,
+                    "stop": 2916.686,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In... and thank you. [Laughter] The... and it is... it is critically important to look at what a tribe... what powers a tribe exerts over its members and what... what somebody who is a member of a tribe traveling across the country, traveling across an interstate highway and is not a member of that tribe, comes onto a reservation for no reason other than to get through that reservation--"
+                },
+                {
+                    "start": 2916.686,
+                    "stop": 2941.552,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about someone who lives on the reservation, marries a woman who is a member of the tribe? Why doesn't the tribe have at least the sovereign authority... it's always at the sufferance of Congress, but to say when things go wrong on our reservation, when our people are hurt, we are entitled to prosecute the wrongdoer?"
+                },
+                {
+                    "start": 2941.552,
+                    "stop": 2951.693,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Because if the Court were to adopt that position, then there would be no reason not to subject non-Indians to tribal jurisdiction as well. That's a contact--"
+                },
+                {
+                    "start": 2951.693,
+                    "stop": 2957.144,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how do you distinguish Brendale with a zoning ordinance and so forth? Is criminal jurisdiction different?"
+                },
+                {
+                    "start": 2957.144,
+                    "stop": 2960.882,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Criminal... criminal jurisdiction is significantly different than civil jurisdiction."
+                },
+                {
+                    "start": 2960.882,
+                    "stop": 2962.832,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And... and what's... what's the authority for that?"
+                },
+                {
+                    "start": 2962.832,
+                    "stop": 2997.638,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe that that's in my brief, Your Honor. I don't have that cite in front of me. The... but in... in Duro this Court said that in the criminal... that the criminal context is unique, and that in the... in the realm of criminal law, we must first look... no matter what we think of history, no matter what our interpretation is of history and statutes and treaties, this must be examined under the guise that Billy Jo Lara, or in that case Albert Duro, is a citizen first and foremost of the United States."
+                },
+                {
+                    "start": 2997.638,
+                    "stop": 3056.86,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But then you've given the answer to your own question. If you're right... if you're right that this does... is absolutely, you know, a violation of due process to subject the non-tribal member, say, to a trial without a lawyer, well, then you would win, but not this case. What you would win is a case where there was an appeal from the tribal prosecution, and under those circumstances, they had raised the question just as you phrased it, say it may not violate due process, for the reasons you gave, not to give the tribal member a lawyer, but it does violate due process for Congress to pass a law which subjects me to this criminal trial without a lawyer because I am not a tribal member. So if you are right, there is a vehicle to make that claim and you will win or your client will. But he didn't take advantage of that vehicle in this case."
+                },
+                {
+                    "start": 3056.86,
+                    "stop": 3087.796,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And... and it's interesting. The Government says in numerous instances that habeas relief is an appropriate remedy. This Court recognized in Duro that habeas is not an appropriate remedy, and it's not for two reasons, the first being habeas relief requires an in-custody... has an in-custody requirement. Mr. Lara is quickly out of custody. And without a lawyer, how can one be expected to raise complex Federal rights such as habeas? When one walks into a courtroom, one does not walk in and say--"
+                },
+                {
+                    "start": 3087.796,
+                    "stop": 3095.218,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we do it all the time. We have a lot of pro se applicants that make very complex arguments. That's not new."
+                },
+                {
+                    "start": 3095.218,
+                    "stop": 3109.042,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But it's not required to step into a courtroom in the United States and say before this proceeding starts, I want to invoke all of my rights. Those rights must be waived. And at no point were these... were these rights waived by Mr. Lara."
+                },
+                {
+                    "start": 3109.042,
+                    "stop": 3115.631,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, he'd be subjected to the same thing on his own reservation, on the reservation of his own tribe, and you say that's okay."
+                },
+                {
+                    "start": 3115.631,
+                    "stop": 3123.119,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This Court has said that... that prosecuting a member on his own tribe is okay because he has... he has consented to that."
+                },
+                {
+                    "start": 3123.119,
+                    "stop": 3131.975,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mightn't there be such a thing as, you know, when... when you enroll in any tribe, you subject yourself to what might be call Indian law--"
+                },
+                {
+                    "start": 3131.975,
+                    "stop": 3132.691,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No--"
+                },
+                {
+                    "start": 3132.691,
+                    "stop": 3147.15,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--the law of your tribal council and the law of... of other tribal councils? And just as you're not entitled to an attorney before your own tribal council, you're not entitled to an attorney before another one. Why... that... that would be a sensible resolution it seems to me."
+                },
+                {
+                    "start": 3147.15,
+                    "stop": 3171.283,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It would be wonderful if tribes were the same, but tribes are not. Tribes are distinctly different. To say that the... that somebody in... an Indian in Alaska is going to know what the criminal laws in the State of Florida are going to be is simply not the case. He's not going to understand the customs. He... this person would not have had any input into the tribal council, what the laws were, who the judges--"
+                },
+                {
+                    "start": 3171.283,
+                    "stop": 3184.924,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How does that differ from somebody from Virginia who caused some trouble in Louisiana and doesn't want to go to the Louisiana courts because they have this mixed civil/common law system?"
+                },
+                {
+                    "start": 3184.924,
+                    "stop": 3209.658,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Because a criminal defendant in Louisiana under your... under your example would have the full benefit of the Bill of Rights which a... which an Indian does not have in tribal courts. And that's the difference. They would... he would... that person would have a Louisiana lawyer who understood Louisiana law and could speak on his behalf. Gideon v. Wainwright is... there is wonderful language in there, talking about how important it is to have a lawyer."
+                },
+                {
+                    "start": 3209.658,
+                    "stop": 3231.571,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this is-- --Yes, but if... if-- --this is so hypothetical because there's nothing in this record to show that he asked for a lawyer, was denied a lawyer. We have to assume that... that's... that's not an issue in this case. You're... you're not forced to have a lawyer. But even beyond that, if you convince us that the other... the other conviction is void, what's the basis for double jeopardy?"
+                },
+                {
+                    "start": 3231.571,
+                    "stop": 3237.725,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because Mr. Lara was prosecuted under the color of law. He was prosecuted. He went to jail for 90 days, and he--"
+                },
+                {
+                    "start": 3237.725,
+                    "stop": 3239.51,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but there's no valid judgment if you're right."
+                },
+                {
+                    "start": 3239.51,
+                    "stop": 3253.337,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And Mr. Lara never attacked his... his judgment. The Government is attacking his judgment, coming in... he... he never attacked his judgment. Now the Government is coming in attacking his judgment collaterally in order to exact a more harsh sentence in Federal court."
+                },
+                {
+                    "start": 3253.337,
+                    "stop": 3261.674,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. They're relying on the dual sovereignty doctrine. And you... you don't seem to me to challenge that either, do you? You're not asking us to reexamine the basic double jeopardy doctrine."
+                },
+                {
+                    "start": 3261.674,
+                    "stop": 3312.007,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I am not, Your Honor. No, I am not. And... and the tribe, acting under the direction of Congress which has control over the Indian reservations, acting under what they thought was a valid statute, acting under a statute that would not be invalid until this Court speaks, was placed in jail and has suffered the constraints of being in jail, then was subsequently prosecuted by that same body by Congress and was indicted and now is going to be prosecuted a second time. The Government can't rewrite the logs of the jail. He was there and he... and the fact that he was punished is clear. For these reasons, I ask this Court to affirm the decision of the Eighth Circuit and to find that Billy Jo's... Billy Jo Lara's subsequent Federal prosecution violated double jeopardy. Thank you."
+                },
+                {
+                    "start": 3312.007,
+                    "stop": 3315.226,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I ask just one question? Of what tribe is Lara a member?"
+                },
+                {
+                    "start": 3315.226,
+                    "stop": 3319.694,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The... the--"
+                },
+                {
+                    "start": 3319.694,
+                    "stop": 3328.549,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it will be in the record. Do you know if there is a... any kind of an agreement between his tribe and the prosecuting tribe?"
+                },
+                {
+                    "start": 3328.549,
+                    "stop": 3338.007,
+                    "speaker": {
+                        "name": "Alexander F. Reichert",
+                        "ID": 16812,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. In fact... no, there is not. And historically there wouldn't have been. They are two tribes that were bitter enemies throughout history and--"
+                },
+                {
+                    "start": 3338.007,
+                    "stop": 3342.043,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Reichert. Mr. Kneedler, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3342.043,
+            "stop": 3380.951
+        }
+    ]
+}

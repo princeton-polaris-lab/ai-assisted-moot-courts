@@ -1,0 +1,2682 @@
+{
+    "title": "Kansas v. Colorado",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 8.9,
+                    "stop": 29.297,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Article III makes a clear distinction between the Court's appellate and original jurisdiction, and expressly grants Congress power to make exceptions and regulations for appellate jurisdiction, but Congress is not granted the same power over original jurisdiction."
+                },
+                {
+                    "start": 29.297,
+                    "stop": 37.467,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's an extremely sensitive clause in Article III. We can decide this case without relying on the distinction you just discussed, can't we?"
+                },
+                {
+                    "start": 37.467,
+                    "stop": 108.451,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think can you, and the Court certainly can interpret the statute not to even reach the original jurisdiction of the Supreme Court and avoid that constitutional conflict. And I think the stronger reading of the statute arrives at that very result. The statute at issue, the cost provision, 28 U.S.C. section 1920, states: \"A judge or clerk of any court of the United States may tax as costs the following. \" And it lists six subparagraphs, including subparagraph 3 at issue here, Fees and Disbursements for Printing and Witnesses. The statute has two terms in it that are defined, 28 U.S.C. section 451 that is defined but does not appear in the cost provision, and that is \"Justice of the United States\". \"Justice of the United States\" is defined as \"the Chief Justice and the Associate Justices of the Supreme Court. \" The cost provision says \"a judge\". III judges."
+                },
+                {
+                    "start": 108.451,
+                    "stop": 133.551,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, on the other hand, \"court of the United States\" is defined specifically to include the Supreme Court. So you have a contradiction no matter which way you flip it. On the one hand, it says \"judge\", which does not include the Justices of the Supreme Court. On the other hand, it says \"court of the United States\", which does include the Supreme Court. So why should we pick one -- one answer to the contradiction rather than the other?"
+                },
+                {
+                    "start": 133.551,
+                    "stop": 160.508,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You don't have to pick. And you're correct, \"the court of the United States. \" is defined to include the Supreme Court. But the strongest reading of the statute gives meaning to all of the words in the statute, and it says you can be a judge who appears in the court of the United States. And if you think about it, there's a circle of judges that are defined here and a circle of courts that are defined here, and where the two overlap, where you are both a judge and in the court of the United States, the statute should apply."
+                },
+                {
+                    "start": 160.508,
+                    "stop": 161.526,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about--"
+                },
+                {
+                    "start": 161.526,
+                    "stop": 161.931,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And that--"
+                },
+                {
+                    "start": 161.931,
+                    "stop": 165.913,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It also says \"clerk\". We may not be judges, but we certainly have a clerk."
+                },
+                {
+                    "start": 165.913,
+                    "stop": 180.83,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--You do, and 28 U.S.C. section 1911, another provision in title 28, specifically deals with the Supreme Court Clerk. And throughout title 28, the Supreme Court is treated differently than the lower courts."
+                },
+                {
+                    "start": 180.83,
+                    "stop": 188.952,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is 1911 a stand-alone provision that would justify relief for you, or do we have to also refer to the general cost statute?"
+                },
+                {
+                    "start": 188.952,
+                    "stop": 199.761,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think the Court would refer to the general cost statute in its original jurisdiction cases at all or any authorization from Congress. 28 U.S.C. 19--"
+                },
+                {
+                    "start": 199.761,
+                    "stop": 217.722,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but let's assume that we think Congress can control this -- this issue, this question. Now, I'm asking if 911 isn't a stand-alone section so that you can interpret it without reference to 1920."
+                },
+                {
+                    "start": 217.722,
+                    "stop": 235.699,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I mean, I would -- if your assumption is Congress has the power to do it and has done so through 1911, I read 1911 more as simply a grant of the discretion the Court already has. They are turning over to the Supreme Court the power to have the clerk set costs."
+                },
+                {
+                    "start": 235.699,
+                    "stop": 242.398,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If I think this case is controlled by 1911, do I have to refer to 1920?"
+                },
+                {
+                    "start": 242.398,
+                    "stop": 246.13,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. I don't believe you have to refer to 1920."
+                },
+                {
+                    "start": 246.13,
+                    "stop": 248.926,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why can't you rest your case just on 1911?"
+                },
+                {
+                    "start": 248.926,
+                    "stop": 266.061,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because in the original jurisdiction of the Supreme Court, Congress isn't given power to make exceptions or regulations over original jurisdiction. And in the 219 years of the Court's original practice, they have never referred to a congressional cost provision, and--"
+                },
+                {
+                    "start": 266.061,
+                    "stop": 273.462,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you saying that 1911 doesn't cover expert witness fees because it's not included within the term \"other necessary disbursements\"?"
+                },
+                {
+                    "start": 273.462,
+                    "stop": 281.055,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I believe the expert witness fees in this case were vital to the resolution. They were--"
+                },
+                {
+                    "start": 281.055,
+                    "stop": 283.211,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Were they within 1911?"
+                },
+                {
+                    "start": 283.211,
+                    "stop": 287.036,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't believe they were other incidental disbursements. That's not our position."
+                },
+                {
+                    "start": 287.036,
+                    "stop": 288.74,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Other necessary disbursements."
+                },
+                {
+                    "start": 288.74,
+                    "stop": 289.941,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Other necessary disbursements."
+                },
+                {
+                    "start": 289.941,
+                    "stop": 292.706,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Incidental to the case. You don't that think that covers expert witness fees?"
+                },
+                {
+                    "start": 292.706,
+                    "stop": 313.152,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If -- if this Court determines that Congress has the power, and it's done so through -- since 1911 -- has the power and done it from 1911, I certainly would accept that position as the result. However, I would point out to the Court that I think the expert witness costs and the work was vital to the resolution of the case here."
+                },
+                {
+                    "start": 313.152,
+                    "stop": 321.633,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If your reading of the statute is correct, then I take it we would have the discretion to decide what would be appropriate expert fees. Is that correct?"
+                },
+                {
+                    "start": 321.633,
+                    "stop": 322.864,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely, and--"
+                },
+                {
+                    "start": 322.864,
+                    "stop": 353.449,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if that were -- if that's so, why shouldn't we exercise that discretion by saying that the expert fees that are available in a case in the original jurisdiction of this Court should be the same as the expert fees that would be available in a district court? Maybe they are too low in the district court, but why should there be -- why should we, as a discretionary matter if we have the discretion, provide for radically different fees depending on the court in which the case originates?"
+                },
+                {
+                    "start": 353.449,
+                    "stop": 384.918,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Clearly, the Court has the power to make that rule for original cases. However, the original jurisdiction was developed when the States agreed to submit and ratify the Constitution, submit their sovereign immunity to resolution in the original jurisdiction to handle unique disputes between the sovereign States. And as the Court said in Florida v. Georgia in 1854, \"The analogies and rules and foundations of law that apply to private parties are not necessarily a good fit for sovereign States. \""
+                },
+                {
+                    "start": 384.918,
+                    "stop": 403.331,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but Justice Alito is saying we have discretion, we look for guidance, we have guidance from Congress. They have adhered to the $40 a day limit in very important cases; why don't we just say, Justice Alito is suggesting, that this is -- that this is a good guidepost for us and we will follow it?"
+                },
+                {
+                    "start": 403.331,
+                    "stop": 414.765,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because what Colorado's position is, is they are telling you that the Special Master's hands were tied; that the Special Master couldn't even exercise that discretion in a bright-line rule that would say $40 a day."
+                },
+                {
+                    "start": 414.765,
+                    "stop": 423.227,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We are saying it's our discretion, and our discretion is guided by what Congress has suggested so there is uniformity in the system and so forth."
+                },
+                {
+                    "start": 423.227,
+                    "stop": 433.724,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Clearly, the Court would have the power to do that. However, there has only been approximately 200 original jurisdiction cases in the 219 years of the Court. To suggest that the rules--"
+                },
+                {
+                    "start": 433.724,
+                    "stop": 467.117,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In all those -- in all those cases has the Special Master ever called a court witness, that is a court expert, appointed a court expert, and if so what is the pay rate for such a witness? I mean, courts of the United States, district courts, occasionally appoint witnesses, court witnesses as distinguished from parties' witnesses. Do you know if that's happened in Special Master situations?"
+                },
+                {
+                    "start": 467.117,
+                    "stop": 519.814,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I can tell you it didn't happen in this case. I certainly can't speak to whether it's happened in other cases involving Special Masters, so I don't know the answer to that. Certainly 1920 makes a distinction for court-appointed experts rather than the expert witnesses appearing under subsection 3 of 1920. I think the important point to consider, though, is in the original jurisdiction the Court in its 219 years of developing essentially an interstate common law in these cases has never relied on the trilogy of cost statutes that the Court discussed in Crawford Fitting, which is essentially Colorado's position: You have to apply Rule 54(d) first to have the Court even have the discretion to award costs; then you get to 1920, which the Court has said is the arena of costs; and only after that do you get down to 1821, which tells you the limit is $40 a day."
+                },
+                {
+                    "start": 519.814,
+                    "stop": 529.874,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do we -- how do Special Master fees work? The Special Master always has fees, and the parties I think usually divide them. How does that -- how is their authority to order them--"
+                },
+                {
+                    "start": 529.874,
+                    "stop": 548.585,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure. Rule 53 of the Federal Rules of Civil Procedure deals with Special Masters in the lower courts. It has no application here and wasn't used. The Special Master's fees, which total approximately a million dollars, just shy of that, were resolved by the parties after the Special Master was allowed to exercise discretion on that area of cost--"
+                },
+                {
+                    "start": 548.585,
+                    "stop": 551.49,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what if they hadn't -- what if the parties hadn't resolved it?"
+                },
+                {
+                    "start": 551.49,
+                    "stop": 553.287,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If they hasn't resolved the Special Master's--"
+                },
+                {
+                    "start": 553.287,
+                    "stop": 562.501,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. How would -- how would the Special -- what would be the authority of this Court to make an order that the Special Master be paid X dollars?"
+                },
+                {
+                    "start": 562.501,
+                    "stop": 571.388,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think the authority of the Court comes from the order appointing the Special Master to handle the case and to do the specific things that were--"
+                },
+                {
+                    "start": 571.388,
+                    "stop": 576.275,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. We just -- we just regressed one step. Where does the authority come from?"
+                },
+                {
+                    "start": 576.275,
+                    "stop": 578.681,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--To appoint a Special Master?"
+                },
+                {
+                    "start": 578.681,
+                    "stop": 579.196,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 579.196,
+                    "stop": 583.118,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's an inherent authority the Court has in original jurisdiction cases."
+                },
+                {
+                    "start": 583.118,
+                    "stop": 585.509,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that the authority to compensate is inherent?"
+                },
+                {
+                    "start": 585.509,
+                    "stop": 589.241,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The authority to compensate is inherent. In the Judiciary--"
+                },
+                {
+                    "start": 589.241,
+                    "stop": 592.645,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you making -- would you make an inherent authority argument here?"
+                },
+                {
+                    "start": 592.645,
+                    "stop": 594.739,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. The--"
+                },
+                {
+                    "start": 594.739,
+                    "stop": 606.906,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Regardless of original jurisdiction and appellate jurisdiction, would you say that this Court simply has the inherent authority to -- to -- in effect to decree these sorts of things?"
+                },
+                {
+                    "start": 606.906,
+                    "stop": 628.52,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, again there is a distinction between appellate and original. And, focusing on original, I think the Court has entirely the authority. The Judiciary Act of 1789, which gave the Court exclusive jurisdiction over these disputes, didn't set forth any procedures to govern the disputes. That's always been carefully preserved to the discretion of the Court to apply to each unique dispute."
+                },
+                {
+                    "start": 628.52,
+                    "stop": 639.174,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "General Six, under your reading of the statute, 1911 particularly, would the Court have authority to charge your fees to your adversary, shift attorney's fees?"
+                },
+                {
+                    "start": 639.174,
+                    "stop": 644.06,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. In the original jurisdiction the Court would have the inherent authority to do fee-shifting if the--"
+                },
+                {
+                    "start": 644.06,
+                    "stop": 653.84,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you make such a request in this case? Why should -- why should attorney's fees be treated differently from expert witness fees? Let me put it that way. Or should it be treated differently?"
+                },
+                {
+                    "start": 653.84,
+                    "stop": 661.881,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Special Master should have the discretion to consider all the costs and the unique circumstances of the case. In this case, we chose expert witness fees--"
+                },
+                {
+                    "start": 661.881,
+                    "stop": 671.486,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We should have the discretion. Why do you keep talking about the Special Master? He's just -- he's just our amanuensis. Ultimately it's our discretion, isn't it?"
+                },
+                {
+                    "start": 671.486,
+                    "stop": 682.841,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is, and the benefit of having the Special Master make a recommendation is we could have gone through these different categories of costs and come up with a recommendation. The Court certainly could have learned--"
+                },
+                {
+                    "start": 682.841,
+                    "stop": 691.946,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I take it the usual practice is for the parties to settle this matter and submit an agreed amount to the Special Master; is that correct?"
+                },
+                {
+                    "start": 691.946,
+                    "stop": 710.703,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The way it's worked in this case is the Special Master has provided guidance, like on the Special Master's fees. The Special Master suggested it wouldn't be unfair to award them two-thirds Colorado, one-third Kansas. After that the parties resolved it, just like we resolved every other issue of cost where the Special Master was allowed to apply that discretion."
+                },
+                {
+                    "start": 710.703,
+                    "stop": 730.474,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So why didn't -- then why are we here? I mean, we are talking about limited amounts. So much more is at stake on the merits, and why wouldn't the parties just say, well, when it comes to Special Master fees this is what we are going to agree to. It doesn't have to be limited to $40. You can agree as part of a global settlement to whatever you want."
+                },
+                {
+                    "start": 730.474,
+                    "stop": 748.576,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the Special Master's fees we resolved. The experts fees at issue here, of course that bright-line rule was drawn by the Special Master, and he never was allowed to make a recommendation to the Court to consider that. In balancing -- the remedies in these cases are highly equitable remedies that--"
+                },
+                {
+                    "start": 748.576,
+                    "stop": 754.431,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you just answer my question of a moment ago? Why should expert witness fees be treated differently from attorney's fees?"
+                },
+                {
+                    "start": 754.431,
+                    "stop": 766.349,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, in this case they should be treated differently because the model at issue that the experts for Kansas developed, the H-I model, was used to prove our claims at trial, which would have--"
+                },
+                {
+                    "start": 766.349,
+                    "stop": 767.847,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You used lawyers to prove your case, too."
+                },
+                {
+                    "start": 767.847,
+                    "stop": 768.24,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Excuse me?"
+                },
+                {
+                    "start": 768.24,
+                    "stop": 772.939,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You used lawyers to prove your case, too. Why should they not be compensated?"
+                },
+                {
+                    "start": 772.939,
+                    "stop": 798.883,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because we considered the special circumstances of the model. It proved the claims at trial. It was adopted by the Court in 2004 in Kansas v. Colorado to monitor compliance in the Arkansas River Basin. It's the water use -- it's applied by the Colorado State water use rule. So it was special features like that that we wanted to present to the Special Master to explain why the fees should be fairly balanced and divided in a way other than he did."
+                },
+                {
+                    "start": 798.883,
+                    "stop": 804.053,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't understand that to be an answer to why you didn't also ask for attorney's fees."
+                },
+                {
+                    "start": 804.053,
+                    "stop": 824.027,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in a particular case where perhaps a order of the Supreme Court wasn't followed or some other situation developed, fee shifting may be appropriate. In this case we felt the expert model we developed was so vital that it would be persuasive to the Special Master and fair and equitable to award it to us."
+                },
+                {
+                    "start": 824.027,
+                    "stop": 825.684,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you know whether any other--"
+                },
+                {
+                    "start": 825.684,
+                    "stop": 825.918,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So that was the distinction."
+                },
+                {
+                    "start": 825.918,
+                    "stop": 846.145,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You didn't know, in answer to my last question, what the practice had been, but with respect to expert fees in other original jurisdiction cases, has the Court ever deviated from the $40 or, when it was $30, $30?"
+                },
+                {
+                    "start": 846.145,
+                    "stop": 852.906,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In original cases the Court has never referred to any of that trilogy of cost statutes discussed in Crawford Fitting."
+                },
+                {
+                    "start": 852.906,
+                    "stop": 866.372,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But have they ever approved a Special Master's recommendation of a rate for the expert witness that deviates from the $40?"
+                },
+                {
+                    "start": 866.372,
+                    "stop": 899.451,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think the answer to that is yes and I would direct the Court to New Jersey v. New York in 1931, which was a division of the waters of the Delaware River. And the Court pointed out in that opinion that a mass of evidence was presented to the Special Master, and on costs the Court said: \"The cost of the cause shall be divided 35 percent to New Jersey, 35 to City of New York. \" and so on. The \"cost of the cause\" I would argue is the cost to get the case to the point where it was resolved. In the boundary dispute--"
+                },
+                {
+                    "start": 899.451,
+                    "stop": 904.965,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you know -- do you know whether there were expert witnesses in that case?"
+                },
+                {
+                    "start": 904.965,
+                    "stop": 944.994,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It does not say in the published opinion exactly what the cost of the cause is. However, from a fair reading of the -- the water distribution issues, I wouldn't imagine it would be possible to do that without experts. But I would point the Court to the boundary dispute cases where the Court has discussed the costs of surveyors, mappers, geographers, historians, and divided the costs in boundary disputes equally between the States -- not each State to bear their own cost, but divided them equally. And the -- the experts that are involved in resolving a boundary dispute, I think, are no different than the hydrologists and engineers and the type of experts that we used in this case."
+                },
+                {
+                    "start": 944.994,
+                    "stop": 992.883,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're right. They -- all different -- they did a lot of work on this. I -- I know they did a lot of work on this. Congress has a statute, and the statute is: We don't care if the witness is Albert Einstein, Steven Spielberg, or the local zookeeper. Okay. We don't care. We don't care if they did a lot of work or a little work. We want them to be paid $40 a day, period. It's too much trouble to figure out how much work they did. That's what we want. That's the law. Now, Justice Alito said: I agree with you for argument's sake; we are not bound by that rule. But I take it his question, which I heard no answer to, is: Assume you are right; we are not bound by the law; still, why shouldn't we follow it?"
+                },
+                {
+                    "start": 992.883,
+                    "stop": 997.567,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because in the original cases the Court has always tried to reach an equitable balance--"
+                },
+                {
+                    "start": 997.567,
+                    "stop": 1016.046,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have you any example where Congress had a statute which says every court in the United States must pay da-da-da, whatever that number is; it's $382.50, okay. Now, despite that clear statute, this Court for exactly the same thing paid a different amount. Is there any such case?"
+                },
+                {
+                    "start": 1016.046,
+                    "stop": 1018.23,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm not aware of that--"
+                },
+                {
+                    "start": 1018.23,
+                    "stop": 1055.81,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Is there anything in the -- in the nature of litigation? And there might be. I'm not asking it as a rhetorical question. Is there anything in the nature of original jurisdiction lawsuits that, as a general matter, would call for higher fees to be paid for witnesses, or to make a distinction between expert witnesses and others, or to do other things that would complicate it? I'm not speaking of your case. You have a wonderfully strong case in your case. I want to know about in general, in original actions."
+                },
+                {
+                    "start": 1055.81,
+                    "stop": 1061.604,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I would suggest the only difference is the parties. And the Court in its 219 years--"
+                },
+                {
+                    "start": 1061.604,
+                    "stop": 1066.261,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If anything, the parties are in a better position to pay the money than the average person."
+                },
+                {
+                    "start": 1066.261,
+                    "stop": 1084.611,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I assume -- I assume your answer is that -- that it's our business, and we don't have to agree with Congress; that we -- we may think $40 a day for the zookeeper and for Albert Einstein is ridiculous. And, therefore, if it's up to us, we would adopt a different rule. Isn't that your answer?"
+                },
+                {
+                    "start": 1084.611,
+                    "stop": 1088.359,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's exactly my answer. And if you think -- if Congress can adopt a congressional--"
+                },
+                {
+                    "start": 1088.359,
+                    "stop": 1137.788,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, I'm not sure that answer is -- is at all adequate. Number one, what is there, as Justice Breyer pointed out, that's so different about this case? Let's say one landowner secretly and intentionally is stealing another landowner's water, and -- and he has no legal right to do that. And the only way the injured landowner can recover is to hire a very, very expensive expert, a hydrologist. And by the time he goes to court, he is already going to lose the benefit of the damages. Congress has said too bad. That's the way it is. Why isn't it that way with States, especially, as Justice Breyer said, when States can really afford the -- afford it better than the landowner. What's the difference?"
+                },
+                {
+                    "start": 1137.788,
+                    "stop": 1156.467,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The difference is the Court has indicated for original cases: These are such disputes of a serious magnitude that can affect whole populations that the model case for even taking a case is where the acts between the States would be a causus belli, a type of thing that would lead to war. The rules--"
+                },
+                {
+                    "start": 1156.467,
+                    "stop": 1177.224,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I haven't seen -- I mean the $40 limitation makes absolutely no sense, does it? I mean I never saw an expert who would agree to spend the day appearing in court worth being called an $40. I mean the fact that -- I guess I'm just repeating Justice Scalia's question. The fact that Congress has picked an arbitrary number with no basis in reality doesn't mean that we should do the same."
+                },
+                {
+                    "start": 1177.224,
+                    "stop": 1195.168,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I would agree. The Special Master's fees, for example, for one person -- and he was an excellent Special Master -- were almost a million dollars. The appearance fees for the 22 experts Kansas had amounted to approximately $30,000. So that difference there, I think, demonstrates the very unfairness of the fact--"
+                },
+                {
+                    "start": 1195.168,
+                    "stop": 1202.851,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not unfair to have a rule which says each party pays his own experts, win or lose. That's the rule, isn't it?"
+                },
+                {
+                    "start": 1202.851,
+                    "stop": 1206.022,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think that's the rule in original jurisdiction cases."
+                },
+                {
+                    "start": 1206.022,
+                    "stop": 1206.786,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 1206.786,
+                    "stop": 1207.912,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "At least the Court has never said that. The Court has--"
+                },
+                {
+                    "start": 1207.912,
+                    "stop": 1223.219,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If you lose this case, if we were to follow Congress, we would have adopted a rule where, because the $40 is trivial, each party pays his own experts. Is that right or wrong?"
+                },
+                {
+                    "start": 1223.219,
+                    "stop": 1233.416,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that's correct, but we didn't lose. And the Court found that Kansas proved that Colorado violated the compact for over -- for over 50 years by clear and convincing evidence. But one point I'd like to make--"
+                },
+                {
+                    "start": 1233.416,
+                    "stop": 1242.836,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, can we do this then? I think maybe in many cases that are technical of nature it might be quite a good thing for the losing party to pay the winning side's lawyers."
+                },
+                {
+                    "start": 1242.836,
+                    "stop": 1246.584,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Court would have that ability to do that in original jurisdiction--"
+                },
+                {
+                    "start": 1246.584,
+                    "stop": 1252.769,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, should we do that, too? If we are going to have them pay the experts, why don't we have them, the losing side, pay the lawyers' fees? That would be quite a revolution, but--"
+                },
+                {
+                    "start": 1252.769,
+                    "stop": 1277.461,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because in the original jurisdiction cases involving prevailing parties or litigious cases, the Court has traditionally and historically awarded the prevailing party costs. And if Congress can make a congressional limitation on cost, Congress could pass a statute that says: You have to take all original jurisdiction cases, or you can't use Special Masters, or you can't use certain Special Masters in cases involving Colorado and Kansas."
+                },
+                {
+                    "start": 1277.461,
+                    "stop": 1289.768,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could it say that for the lower courts? I mean, you are -- you are trying to distinguish what it can say for the Supreme Court when the Supreme Court is the trial court vis-a-vis what it can say, and has said, for the lower courts."
+                },
+                {
+                    "start": 1289.768,
+                    "stop": 1291.69,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, it could say that for the lower courts."
+                },
+                {
+                    "start": 1291.69,
+                    "stop": 1292.158,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 1292.158,
+                    "stop": 1293.285,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because--"
+                },
+                {
+                    "start": 1293.285,
+                    "stop": 1304.294,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You think that, so long as Congress could not create the lower courts at all, once it creates them it can -- it can tie their hands to any sort of absurd rules?"
+                },
+                {
+                    "start": 1304.294,
+                    "stop": 1317.118,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think they could pass a rule like they did, Rule 54 -- 53, which allows for Special Masters, and they could through the Rules Enabling Act pass a rule that says you can't use Special Masters. I think you get into whether that's--"
+                },
+                {
+                    "start": 1317.118,
+                    "stop": 1331.66,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I -- I just don't agree with your assumption that just because Congress need not have created any lower Federal courts, the only Federal court required by the Constitution is this Court, therefore once Congress creates them, it can do whatever it wants with them. I -- I don't agree with that."
+                },
+                {
+                    "start": 1331.66,
+                    "stop": 1341.109,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I would certainly focus more on the original jurisdiction issue here and haven't focused as much on that issue, but--"
+                },
+                {
+                    "start": 1341.109,
+                    "stop": 1348.494,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When we award the -- the Special Master's fees in original cases, do we specify who will bear those fees?"
+                },
+                {
+                    "start": 1348.494,
+                    "stop": 1362.52,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, you do. And -- you do in the cases that have discussed costs. For instance, in boundary dispute cases you have suggested that the cost -- the costs will be divided equally; in litigious cases, that they will be awarded to the prevailing party."
+                },
+                {
+                    "start": 1362.52,
+                    "stop": 1367.095,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we include the Special Master's fees as part of the costs that are allocated?"
+                },
+                {
+                    "start": 1367.095,
+                    "stop": 1371.391,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, and in this case the parties have agreed to that and never made an issue about that. And there is no--"
+                },
+                {
+                    "start": 1371.391,
+                    "stop": 1381.605,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why -- why did the parties agree to it if we do it? In other words, if we say in our orders who bears the Special Master's fees, why -- why would the parties agree to it?"
+                },
+                {
+                    "start": 1381.605,
+                    "stop": 1387.961,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, in this case -- maybe I misheard your question. The order appointing the Special Master did not resolve the issue of fees."
+                },
+                {
+                    "start": 1387.961,
+                    "stop": 1388.573,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1388.573,
+                    "stop": 1395.6,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And the parties did not agree to that ahead of time. It was an issue to be determined and decided at the end of the litigation."
+                },
+                {
+                    "start": 1395.6,
+                    "stop": 1413.265,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't it -- isn't it customary for it to be divided 50/50? I mean, we periodically will approve the fees that the Special Master charges, and then they are divided between the parties. And I thought that they were divided 50/50. Is that not so?"
+                },
+                {
+                    "start": 1413.265,
+                    "stop": 1439.906,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, as the case progressed, the Special Master submitted bills that were divided 50/50. At the conclusion of the case the parties suggested reasons and special circumstances that should allow the Special Master to apply discretion. He then suggested it wouldn't be unfair to award the Special Master fee costs two-thirds Colorado, one-third Kansas because of the unique features of the case. And the parties then settled the Special Master fees with that guidance."
+                },
+                {
+                    "start": 1439.906,
+                    "stop": 1468.443,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, I think you gave the answer earlier. Rule 53 allows for the -- an order to say that one or both parties shall pay the Special Master fee. So if we are going to follow other analogies, we don't have much problem here with expert witness fees -- pardon me -- with Special Master fees. It's under Rule 53. Of course, you say we don't have to follow that as a model, but it is a model if we -- if we were to look to congressional and -- and to other rules."
+                },
+                {
+                    "start": 1468.443,
+                    "stop": 1509.91,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is a model; however, the Court has always carefully preserved its discretion to treat each dispute between the sovereign States as a unique dispute. And the Court never even enacted an original action rule until 1939, so after 150 years. And in 1939 the Court enacted Rule 5, which just set up the bare minimums of commencing the action. And Rule 17 today has essentially the same framework that tells the parties how to start the action but reserves all the other rules to the discretion of the Special Master. It does point to the Federal Rules of Civil Procedure and the Rules of Evidence as guides but not binding, mandatory rules that tie the Court's hand."
+                },
+                {
+                    "start": 1509.91,
+                    "stop": 1539.71,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is magical about original actions? I mean, what -- what is magical is that we are the only court that is required by the Constitution. But we are -- we are not just the only court for original actions in -- in -- in all appeals. Can Congress prescribe division of costs and expenses in the appeals that come to us from the lower Federal courts?"
+                },
+                {
+                    "start": 1539.71,
+                    "stop": 1557.25,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the Court has, in 1913, determined that -- excuse me, in 1912, that when a case is affirmed, the Supreme Court can adjudge costs for damages and delay. So they have directed, I think, a -- a regulation at the appellate jurisdiction, but never at the original jurisdiction."
+                },
+                {
+                    "start": 1557.25,
+                    "stop": 1558.545,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean Congress has done that?"
+                },
+                {
+                    "start": 1558.545,
+                    "stop": 1562.417,
+                    "speaker": {
+                        "name": "Steve N. Six",
+                        "ID": 26043,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Congress, I'm sorry. I would like to reserve the remainder of my time for rebuttal."
+                },
+                {
+                    "start": 1562.417,
+                    "stop": 1568.524,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, General. General Suthers."
+                }
+            ],
+            "start": 8.9,
+            "stop": 1615.802
+        },
+        {
+            "turns": [
+                {
+                    "start": 1568.524,
+                    "stop": 1615.802,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The Special Master in this case found clear direction from the statutes and rightly so. Section 1821 of title 28 is unambiguous. It provides that a witness in attendance at any court of the United States shall be paid an attendance fee of $40 per day in addition to travel and accommodation allowances. Section 451 of title 28 defines 1948. Because witness fees are only at issue in the Supreme Court in cases of original jurisdiction, it's apparent that Congress intended the limits set forth in 1821 to apply in such cases."
+                },
+                {
+                    "start": 1615.802,
+                    "stop": 1623.347,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what if they said, in original actions no fees shall be allowed to any Special Master appointed by the Supreme Court?"
+                },
+                {
+                    "start": 1623.347,
+                    "stop": 1629.968,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Chief Justice, it would then be up to the Court to decide whether that's somehow an intrusion into your--"
+                },
+                {
+                    "start": 1629.968,
+                    "stop": 1632.078,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we allow--"
+                },
+                {
+                    "start": 1632.078,
+                    "stop": 1632.39,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--authority--"
+                },
+                {
+                    "start": 1632.39,
+                    "stop": 1643.2,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--If we allow Congress to regulate fees in our original jurisdiction in that matter, it seems to me that we've given up the principle and we are just negotiating over price."
+                },
+                {
+                    "start": 1643.2,
+                    "stop": 1661.956,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It would not be the first time that you've allowed Congress to legislate some aspects of your original jurisdiction. Congress has told you in what is now section 1251 that your original jurisdiction is not entirely exclusive. Only State versus State is exclusive, and all the rest of your original jurisdiction is nonexclusive."
+                },
+                {
+                    "start": 1661.956,
+                    "stop": 1691.032,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't this an area, though, where we should be particularly sensitive? In other words, one reason that we were given original jurisdiction in these cases is that the States were afraid of what Congress would do in its own courts, the courts it set up -- might set up under the Constitution. I think it would be surprising if you told the States at the framing that Congress gets to regulate this original jurisdiction where you, for example, can sue the Federal Government, that -- I think that would be surprising. It would not be regarded by them as a significant safeguard."
+                },
+                {
+                    "start": 1691.032,
+                    "stop": 1701.45,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Chief Justice, if it was such a sensitive issue, why is it we are now in 2008 and this Court has never decided to enact any kind of rules--"
+                },
+                {
+                    "start": 1701.45,
+                    "stop": 1703.217,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But we don't know--"
+                },
+                {
+                    "start": 1703.217,
+                    "stop": 1703.888,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--as to actual witness fees."
+                },
+                {
+                    "start": 1703.888,
+                    "stop": 1730.202,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--General Suthers, do we know what has happened in past original jurisdiction cases? Maybe it hasn't come up because other Special Masters have said, we'll give the expert witness a reasonable fee for services commensurate with the qualifications and the work that the expert has done. We don't know if that has or hasn't happened in the past, do we?"
+                },
+                {
+                    "start": 1730.202,
+                    "stop": 1746.681,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, we -- we looked at it very carefully -- and it's difficult to research -- but we could not find an original jurisdiction case where there was an award of witness fees outside the -- this $40 per day limitation."
+                },
+                {
+                    "start": 1746.681,
+                    "stop": 1757.694,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you find any cases where the Special Master had appointed his own witness as distinguished from the parties?"
+                },
+                {
+                    "start": 1757.694,
+                    "stop": 1759.99,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. We did not. But--"
+                },
+                {
+                    "start": 1759.99,
+                    "stop": 1773.217,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you -- but you recognize that if the Special Master appointed a witness, or the Court, that that witness would be paid a compensatory fee?"
+                },
+                {
+                    "start": 1773.217,
+                    "stop": 1776.388,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Whatever the Special Master determined was appropriate. That's correct."
+                },
+                {
+                    "start": 1776.388,
+                    "stop": 1813.87,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, in a -- in a case like this one, where the nature of the work that the expert did seemed to be very helpful to both sides, isn't it odd that if the Special Master chose the court expert, that expert would be compensated fairly, but if you have one party calls an expert who renders great service to the Court, to both sides, doesn't get compensated, isn't that an anomaly?"
+                },
+                {
+                    "start": 1813.87,
+                    "stop": 1846.997,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The Special Master, Justice Ginsburg, found clear direction from the statute and did not believe that he had an option in the matter. If you're talking about the unfairness of it, number one, this situation here is no more unfair to Kansas than any litigant in Federal court. And, number two, it's an appropriate matter to take to Congress. The last time they changed it was 1990 from $30 to $40. I think it's time to revisit it. But it is, in fact, what Congress has dictated should be the compensation--"
+                },
+                {
+                    "start": 1846.997,
+                    "stop": 1852.65,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not a matter of unfairness to Einstein anyway. I mean, you know, the expert witness is going to get his money."
+                },
+                {
+                    "start": 1852.65,
+                    "stop": 1856.137,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct, Justice. They certainly did in this case."
+                },
+                {
+                    "start": 1856.137,
+                    "stop": 1856.932,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The question is--"
+                },
+                {
+                    "start": 1856.932,
+                    "stop": 1858.726,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Both sides can vouch for that. [Laughter]"
+                },
+                {
+                    "start": 1858.726,
+                    "stop": 1874.363,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The question is whether one side can get some money from the other to help pay for it. Do you happen to know whether at the time the original jurisdiction of this Court was established, there was such a thing as the charging of expert witness fees?"
+                },
+                {
+                    "start": 1874.363,
+                    "stop": 1880.953,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Scalia, I do not. We do know--"
+                },
+                {
+                    "start": 1880.953,
+                    "stop": 1881.608,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't either."
+                },
+                {
+                    "start": 1881.608,
+                    "stop": 1893.791,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that it's 1853 when for the first time Congress, desiring to have uniform fees, began the structure of expert witness fees. It started at $1.50 a day, in 1853."
+                },
+                {
+                    "start": 1893.791,
+                    "stop": 1986.626,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you -- may I ask you a statutory question, just about the application of the statute? As -- as you have pointed out, if the $40 applies, it's because it is, in effect, a determination of a particular item under section 1920: Judge and clerk of any court of the United States may tax its cost. My question is this: One of the items covered by 1920, one of the items that a judge or clerk may tax, is fees of the clerk. Under section 1911, which relates entirely to the Supreme Court, there is a provision that the Supreme Court may fix the fees to be charged by its clerk. That is totally redundant if 1920 covers the Supreme Court of the United States. Doesn't it follow, therefore, that section 1920 was -- despite its reference to any court of the United States, doesn't it follow that that statute was not intended to apply to the Supreme Court? And doesn't it follow from that that either the Supreme Court's authority is to fix the fees if this is a fee to be charged by the clerk or, in the alternative, that there is no statute on it at all? But the main point is, unless 1911 is totally redundant in -- in referring to fixing the fees to be charged by its clerk, then 1920 must not cover the Supreme Court."
+                },
+                {
+                    "start": 1986.626,
+                    "stop": 1989.625,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, 1920--"
+                },
+                {
+                    "start": 1989.625,
+                    "stop": 1991.595,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm greatly flattered. [Laughter]"
+                },
+                {
+                    "start": 1991.595,
+                    "stop": 1996.687,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Souter. Justice Souter, sorry. Justice Souter."
+                },
+                {
+                    "start": 1996.687,
+                    "stop": 1999.031,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're not the first to have done that. [Laughter]"
+                },
+                {
+                    "start": 1999.031,
+                    "stop": 2011.321,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "1920 -- there may be some redundancies in it, but it's much more expansive than is 1911. It talks about court reporter fees, printing--"
+                },
+                {
+                    "start": 2011.321,
+                    "stop": 2029.408,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, we didn't -- no question about that. I recognize 1920 goes a lot further. But there's no -- there's no need in 1911 to say that the Supreme Court may -- may fix the fees to be charged by its clerk if the Supreme Court is already covered by 1920."
+                },
+                {
+                    "start": 2029.408,
+                    "stop": 2047.463,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Souter, I think if you look at the history of it, 1911 was enacted at the same -- there's a separate statute -- statute that applies to the court of appeals and to the district courts. I think it's like 1913 and 1914. So I -- I -- I don't think that you can--"
+                },
+                {
+                    "start": 2047.463,
+                    "stop": 2051.757,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, if it's redundancy, it proves too much, is what you're saying?"
+                },
+                {
+                    "start": 2051.757,
+                    "stop": 2052.193,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2052.193,
+                    "stop": 2052.383,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 2052.383,
+                    "stop": 2066.925,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the important thing about 1911, in response to Justice Kennedy's question, it is limited to fees charged by the Supreme Court clerk, costs of serving process, and incidental disbursements. It does not address witness fees. In Arlington--"
+                },
+                {
+                    "start": 2066.925,
+                    "stop": 2068.766,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think it includes printing fees?"
+                },
+                {
+                    "start": 2068.766,
+                    "stop": 2073.297,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--1911 does not, unless--"
+                },
+                {
+                    "start": 2073.297,
+                    "stop": 2074.795,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't -- you don't think that--"
+                },
+                {
+                    "start": 2074.795,
+                    "stop": 2076.42,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Incidental disbursements?"
+                },
+                {
+                    "start": 2076.42,
+                    "stop": 2082.512,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--what number here? You don't think that 1911 would allow the clerk to charge for printing fees?"
+                },
+                {
+                    "start": 2082.512,
+                    "stop": 2088.072,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "As an incidental disbursement, it may. But it clearly does not address witness fees."
+                },
+                {
+                    "start": 2088.072,
+                    "stop": 2097.863,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but the reason I ask is because printing -- in 1920, printing and witness fees are in -- in the same sentence."
+                },
+                {
+                    "start": 2097.863,
+                    "stop": 2103.518,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And I -- I don't know whether printing would be considered incidental disbursements."
+                },
+                {
+                    "start": 2103.518,
+                    "stop": 2106.485,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if you allowed printing, then I think you would allow witnesses under 1911."
+                },
+                {
+                    "start": 2106.485,
+                    "stop": 2120.294,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I do know that in Arlington Central School District v. Murphy, citing Crawford Fitting, this Court made clear that no statute will be construed to authorize taxing witness fees and costs, unless it refers explicitly to witness fees."
+                },
+                {
+                    "start": 2120.294,
+                    "stop": 2213.816,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is -- I mean, if you want to really get a little complicated, the -- you have -- you have 11, and 11 talks about the Supreme Court fees. And then we have 20 and that talks about all the other fees, right? Okay. So the thing is, you can't pay money in the United States unless have you some authorization, but 1911 gives the Supreme Court some authorization to fix fees. Now, we look back at 1821. And 1821 tells you how much mileage per diem and subsistence will be. It says he will be paid an attendance fee of $40 per day. Doesn't say you couldn't pay him more. Just says that's what he is entitled to. Now, of course, in the lower courts, you can't pay him more because there is no authority to pay him more. But in the Supreme Court, there is authority to pay him more. That comes out of 1911. I mean, I grant you that this is -- what I'm actually doing here is I'm trying to avoid this problem of whether Congress can start legislating the details of original jurisdiction rules and so forth. Just -- there is some desirability here constitutionally to prevent ourselves from going down that road. That's -- I'm deliberately being gimmicky, but what do you think of this gimmick?"
+                },
+                {
+                    "start": 2213.816,
+                    "stop": 2216.44,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, not much. [Laughter]"
+                },
+                {
+                    "start": 2216.44,
+                    "stop": 2218.674,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's fair. [Laughter]"
+                },
+                {
+                    "start": 2218.674,
+                    "stop": 2226.921,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This Court -- this Court has decided three cases regarding the application of 1821."
+                },
+                {
+                    "start": 2226.921,
+                    "stop": 2227.358,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2227.358,
+                    "stop": 2250.069,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Cases in which litigants, like Kansas, were trying to get around, in Federal court, this witness fee limitation, starting with Crawford Fitting. In that case, you held that a prevailing seeks -- who seeks reimbursements for fees paid to its own expert, is limited by the statute unless we're talking about a contract or express statutory authority to the contrary."
+                },
+                {
+                    "start": 2250.069,
+                    "stop": 2253.443,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which part did they think limited it? Was it 1821 they thought limited it?"
+                },
+                {
+                    "start": 2253.443,
+                    "stop": 2260.204,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. And by the way, there is a contract here. It's the compact between -- the 1949 compact between Kansas and Colorado, and--"
+                },
+                {
+                    "start": 2260.204,
+                    "stop": 2277.963,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In an ordinary case, if a witness doesn't -- never does go to court, but just goes to a deposition, that's the only thing, he goes to a deposition, does he get paid the 40 dollars? He goes to a lawyer's office; he's never in attendance at a court. But do they count that as being in attendance at a court?"
+                },
+                {
+                    "start": 2277.963,
+                    "stop": 2279.507,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't believe so, Justice Breyer."
+                },
+                {
+                    "start": 2279.507,
+                    "stop": 2279.978,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, where is this--"
+                },
+                {
+                    "start": 2279.978,
+                    "stop": 2280.836,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But it is liberally construed."
+                },
+                {
+                    "start": 2280.836,
+                    "stop": 2281.257,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What?"
+                },
+                {
+                    "start": 2281.257,
+                    "stop": 2283.352,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's liberally construed. You don't have to--"
+                },
+                {
+                    "start": 2283.352,
+                    "stop": 2286.631,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that isn't attendance at a court, where did these witnesses show up?"
+                },
+                {
+                    "start": 2286.631,
+                    "stop": 2289.49,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--These witnesses show up for trial."
+                },
+                {
+                    "start": 2289.49,
+                    "stop": 2296.08,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where? Where did they have this proceeding? I don't know. It wasn't here; it wasn't in this--"
+                },
+                {
+                    "start": 2296.08,
+                    "stop": 2297.346,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It was in California."
+                },
+                {
+                    "start": 2297.346,
+                    "stop": 2297.83,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Where?"
+                },
+                {
+                    "start": 2297.83,
+                    "stop": 2302.17,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Pasadena, California, for 272 days."
+                },
+                {
+                    "start": 2302.17,
+                    "stop": 2302.981,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the courthouse?"
+                },
+                {
+                    "start": 2302.981,
+                    "stop": 2314.996,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. Tenth Circuit Court of Appeals. They show up; they are in attendance; it's not just on the stand; all they time they're there, all the time they're traveling back and forth. It is liberally construed."
+                },
+                {
+                    "start": 2314.996,
+                    "stop": 2337.719,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask -- just to put one thing on the table if I could. How do you deal with the problem that Justice Ginsburg raises: If a court wants to appoint an independent expert and pay him more than $40 a day? Do you say that's flatly prohibited? And if it's not flatly prohibited, what is the authority for doing so, other than 1911?"
+                },
+                {
+                    "start": 2337.719,
+                    "stop": 2346.028,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Stevens, nothing prevents higher compensation for a court-appointed expert. We are talking about--"
+                },
+                {
+                    "start": 2346.028,
+                    "stop": 2349.526,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what authorizes it? Doesn't 1911 authorize it?"
+                },
+                {
+                    "start": 2349.526,
+                    "stop": 2351.948,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't believe 1911 does."
+                },
+                {
+                    "start": 2351.948,
+                    "stop": 2352.931,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then what does?"
+                },
+                {
+                    "start": 2352.931,
+                    "stop": 2354.947,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The inherent authority of the Court."
+                },
+                {
+                    "start": 2354.947,
+                    "stop": 2358.994,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why don't you have inherent authority to pay expert witness fees a little more money, then?"
+                },
+                {
+                    "start": 2358.994,
+                    "stop": 2362.695,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because the statute addresses that. It does not address--"
+                },
+                {
+                    "start": 2362.695,
+                    "stop": 2374.628,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Constitution says that no money shall be -- shall be withdrawn from the Treasury except by appropriation made by law. I think -- I think you need a law to spend -- to spend the government's money."
+                },
+                {
+                    "start": 2374.628,
+                    "stop": 2381.264,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're not spending the government's money; you're spending the litigant's money."
+                },
+                {
+                    "start": 2381.264,
+                    "stop": 2407.052,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, in the case of the -- of the Court appointing an expert, it is typical at the conclusion of the case as part of the costs for the judge to determine what was an appropriate award the losing party -- what they should pay as part of that expert's expense. But that's not what we are dealing with in 1821."
+                },
+                {
+                    "start": 2407.052,
+                    "stop": 2436.992,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what about -- I mean now, as long as I'm starting down the road to outer space, why not -- could we say, look, they were very impressive models these people did; on both sides they had terrific experts, very expensive. And would we have the authority to say to the master, although you didn't treat them as your experts, you should have done, for purposes of paying them."
+                },
+                {
+                    "start": 2436.992,
+                    "stop": 2443.785,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Breyer, you are the Supreme Court and if you found that this statute ---- [Laughter]"
+                },
+                {
+                    "start": 2443.785,
+                    "stop": 2446.113,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't want to be unreasonable about this. [Laughter]"
+                },
+                {
+                    "start": 2446.113,
+                    "stop": 2465.871,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. If you found that this statute was an intrusion which somehow violated your, you know, authority as a Court, you could do that. But why would you want to get into the business -- going to Justice Alito's point -- you have so far refrained from enacting your own rules on this highly procedural matter of expert witness fees."
+                },
+                {
+                    "start": 2465.871,
+                    "stop": 2476.085,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we would want to get into the business because it's our business; and it seems to me that if you yield on a basic point like this, that you're giving up, who knows how much?"
+                },
+                {
+                    "start": 2476.085,
+                    "stop": 2513.025,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Roberts, I'm not -- you have done it before in -- in highly procedural matters where you do not -- no one here is doing anything that prevents your exercise of original jurisdiction, that expands your exercise of original jurisdiction. The cases also say that your original jurisdiction is self-executing, doesn't need any statutory implementation; but this is a -- a totally procedural matter, much as -- in fact, I think less of an intrusion, when the -- when the Congress said to you these cases will not be exclusive jurisdiction. Even though they are part of your original jurisdiction. This is a very procedural matter."
+                },
+                {
+                    "start": 2513.025,
+                    "stop": 2546.338,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could I ask you what -- what are the fees to be charged by its clerk, referred to in 1911. \"Supreme Court may fix the fees to be charged by its clerk. \" and then the next paragraph says \"the fees of the clerk\". Is that what the first paragraph refers to, the fees of the clerk? Or does it mean other fees that the clerk charges which could include costs? Are the costs part of the fees to be charged by the clerk?"
+                },
+                {
+                    "start": 2546.338,
+                    "stop": 2548.634,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe so, Justice Scalia."
+                },
+                {
+                    "start": 2548.634,
+                    "stop": 2579.555,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They are not? Fees of the clerk -- in 1920 says \"fees of the clerk and marshal. \" but that's to be taxed as costs. Right? A judge or clerk can tax as costs the following. 1911 says Supreme Court may fix \"the fees to be charged by its clerk. \" And you say that doesn't include costs. Boy, it's a messy, messy bunch of statutes, don't you think?"
+                },
+                {
+                    "start": 2579.555,
+                    "stop": 2584.507,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not -- not a whole lot more so than others I've seen. [Laughter]"
+                },
+                {
+                    "start": 2584.507,
+                    "stop": 2584.928,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2584.928,
+                    "stop": 2586.163,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "By the way--"
+                },
+                {
+                    "start": 2586.163,
+                    "stop": 2586.881,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, that's no comfort."
+                },
+                {
+                    "start": 2586.881,
+                    "stop": 2605.45,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--it has been pointed out to me in response to this compensation of court-appointed experts that that is specifically addressed in section 1920, paragraph 6, compensation of court-appointed experts is covered there. So there is that statutory authority which you indicated there should be."
+                },
+                {
+                    "start": 2605.45,
+                    "stop": 2615.18,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but that taxes costs, and it doesn't say the Supreme Court may fix costs. May fix the fees to be charged by its clerk, which you say don't include costs."
+                },
+                {
+                    "start": 2615.18,
+                    "stop": 2617.041,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe they do."
+                },
+                {
+                    "start": 2617.041,
+                    "stop": 2618.635,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that wouldn't allow to us fix that."
+                },
+                {
+                    "start": 2618.635,
+                    "stop": 2634.471,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, except 1911 may do two things: Number one, it may authorize the Supreme Court to fix the fees to be charged by the clerk. And then in the second paragraph it provides for taxing of those fees, the cost of serving process, and other necessary disbursements. So it does two things."
+                },
+                {
+                    "start": 2634.471,
+                    "stop": 2654.011,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it tells you how they are to be taxed. It doesn't say what their level is to be. May be taxed against the litigants as the court directs, but I don't see any authority to fix them -- fix the amounts. It's not a very good statute, really."
+                },
+                {
+                    "start": 2654.011,
+                    "stop": 2693.993,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If I may, once again going to the issue of why I think some uniformity is important in original jurisdiction cases, is because so many of the cases are not exclusive jurisdiction, and there is in fact a need for uniformity here. And the fact that this Court has not chosen to issue a conflicting rule, I think, is very significant. If in fact you had set an appropriate fee for expert witness fees in case original jurisdiction, and Congress came along and said, gee, no; it shouldn't be that, you should be stuck with $40, then we might have some kind of a constitutional issue here, but absent that, I simply don't--"
+                },
+                {
+                    "start": 2693.993,
+                    "stop": 2694.804,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if--"
+                },
+                {
+                    "start": 2694.804,
+                    "stop": 2695.728,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would urge you not--"
+                },
+                {
+                    "start": 2695.728,
+                    "stop": 2703.535,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What if Congress had done nothing? In other words, let's say they haven't addressed costs at all. Would we be able to set what we think are reasonable attendance costs?"
+                },
+                {
+                    "start": 2703.535,
+                    "stop": 2706.846,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I would concede that you -- you probably could. But--"
+                },
+                {
+                    "start": 2706.846,
+                    "stop": 2708.128,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Pursuant to what authority?"
+                },
+                {
+                    "start": 2708.128,
+                    "stop": 2712.25,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your inherent authority over original jurisdiction cases."
+                },
+                {
+                    "start": 2712.25,
+                    "stop": 2720.341,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if we have inherent authority in original jurisdiction cases, where does it -- how come it disappears whenever Congress decides to legislate in the area?"
+                },
+                {
+                    "start": 2720.341,
+                    "stop": 2754.376,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because Congress is entitled -- you've recognized their right to deal with certain types of issues. I find it very interesting that Kansas cited Florida v. Georgia, because that case says Congress has undoubtedly the right to prescribe the process and mode of proceeding in original jurisdiction cases as fully as in other Federal courts, but that the omission to legislate such process does not deprive the Court of its constitutionally conferred jurisdiction. This is something that you have historically--"
+                },
+                {
+                    "start": 2754.376,
+                    "stop": 2758.264,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is the substantive level of fees a mode of proceeding?"
+                },
+                {
+                    "start": 2758.264,
+                    "stop": 2775.133,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Chief Justice, I would argue that the setting of fees is a procedural matter, and it is -- and has to do with the mode of proceeding in a case. That's correct."
+                },
+                {
+                    "start": 2775.133,
+                    "stop": 2785.97,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any -- do you think $40 a day for an expert is a realistic assessment of what experts charge?"
+                },
+                {
+                    "start": 2785.97,
+                    "stop": 2805.745,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Absolutely not, Chief Justice. And in fact, of course, as I think Justice Breyer pointed out, Einstein does not only get $40 a day. We pay them a lot of money, but Congress has decided $40 is what they -- what they get. Congress ought to revisit it. There's no question about it."
+                },
+                {
+                    "start": 2805.745,
+                    "stop": 2829.625,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Parties pay a lot -- a lot of expenses, and then they may be -- may or not be reimbursed to the prevailing party, but the prevailing party in our system certainly doesn't get anything like the full cost of the litigation."
+                },
+                {
+                    "start": 2829.625,
+                    "stop": 2843.324,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Justice Ginsburg. They certainly do not. Experts in this case were paid lots and lots of money, and they don't even get that when the court has -- it's not -- at least the trial courts--"
+                },
+                {
+                    "start": 2843.324,
+                    "stop": 2847.083,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe lawyers get even more. And you don't get that back either--"
+                },
+                {
+                    "start": 2847.083,
+                    "stop": 2847.988,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right. That's exactly right."
+                },
+                {
+                    "start": 2847.988,
+                    "stop": 2885.284,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just get clear on your view of inherent power? As I understand it, you're -- when you answered it, in a situation in which the slate is completely clean, we would have inherent power, you're using \"inherent power\" in effect to be a kind of default power. If Congress hasn't acted, somebody has got to do something. That's got to be us, so -- so we would have the authority. But you are not using the term \"inherent power\" in the sense of being a power which is sort of essential and indefeasible by Congress in any respect. Is that correct?"
+                },
+                {
+                    "start": 2885.284,
+                    "stop": 2904.777,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Justice Souter, to the extent that there was nothing applicable to this and it came before you, should expert witnesses get compensated some -- some amount, Congress hasn't spoken on it, I would think, as a matter of default, you could say yes. And -- but--"
+                },
+                {
+                    "start": 2904.777,
+                    "stop": 2925.473,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think there is -- there is any inherent power in, let's say, this Court -- just keep to it simple -- that Congress in effect could not eliminate? For example, if Congress passed a statute saying the Supreme Court of the United States shall not have authority to punish direct contempt, would that statute be constitutional in your view?"
+                },
+                {
+                    "start": 2925.473,
+                    "stop": 2934.234,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Justice Souter, it would not be because then it's interfering with your ability to do what courts do as a central matter. You--"
+                },
+                {
+                    "start": 2934.234,
+                    "stop": 2963.952,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't that a pretty slippery slope then that you're on? Because if in fact parties are going to be reluctant to -- to hire the kind of experts that are necessary, unless they think that at the end of the day there is going to be some kind of an equitable disposition of the expense, at that point that starts interfering with the conduct of the kind of business that the Court ought to be engaged in."
+                },
+                {
+                    "start": 2963.952,
+                    "stop": 2981.543,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Souter, it's not telling you how to decide cases. And there is another case before the Court in which Congress reinstated time-barred cases. That's the kind of thing that intrudes on your judicial function. Setting witness fees doesn't come close to doing that."
+                },
+                {
+                    "start": 2981.543,
+                    "stop": 3001.828,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What if Congress -- really you think Congress could set any -- there's not some point at which it is so destructive of the process here? What if Congress provides that the winning -- that the winning party shall pay the costs of the losing party? Can Congress do that?"
+                },
+                {
+                    "start": 3001.828,
+                    "stop": 3020.027,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's -- I think the question would be, Justice Scalia, is that a fundamental interference with the Court's ability to decide cases? I would suggest it might be to the -- that they do something wholly irrational like that."
+                },
+                {
+                    "start": 3020.027,
+                    "stop": 3025.273,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that would be a matter of due process, not a matter of inherent power, I take it."
+                },
+                {
+                    "start": 3025.273,
+                    "stop": 3067.352,
+                    "speaker": {
+                        "name": "John W. Suthers",
+                        "ID": 26080,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe that's correct. That's correct. Members of the Court, Special Master Littleworth spent a lot of time on this case. He has been fair, competent, and conscientious in resolving all the issues before this Court, including this issue of expert witness fees. It was the plain language of the statute and the clear direction of the case law that led him to his conclusion that the expert witnesses' fees were limited by statute in this case. We would ask you to deny Kansas' exception to the final report, and that the Court should enter the proposed judgment and decree. Mr. Chief Justice, if there are no other questions from the Court, I'll conclude my argument."
+                },
+                {
+                    "start": 3067.352,
+                    "stop": 3072.785,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, General. General Six, you have four minutes remaining."
+                }
+            ],
+            "start": 3072.785,
+            "stop": 3145.958
+        }
+    ]
+}

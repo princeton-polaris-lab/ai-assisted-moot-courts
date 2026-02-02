@@ -1,0 +1,3709 @@
+{
+    "title": "Hope v. Pelzer",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 9.855,
+                    "stop": 66.491,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court. Under United States versus Lanier, the law was clearly established for purposes of qualified immunity when it gives officials fair warning that their conduct is unlawful. The fair warning standard is met when a rule laid out by prior law applies with obvious clarity to the conduct in question, even if the rule arises from a case involving different facts. The materially similar facts requirement of the Eleventh Circuit is an unwarranted gloss upon the fair warning standard, just like the fundamentally similar facts requirement which this Court unanimously rejected in Lanier. It it is an impermissible gloss because it emphasizes similarity of fact over clarity of ruling."
+                },
+                {
+                    "start": 66.491,
+                    "stop": 82.99,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what what should be the rule th- that was that you say was violated here? Wh- if we write out the opinion, we say the rule that the officer should have known is, then we have to fill in the blank. What what is that rule?"
+                },
+                {
+                    "start": 82.99,
+                    "stop": 102.29,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The rule established by the Eleventh Circuit's own precedent is that it is unconstitutional to punish an inmate through the use of restraint, and restraint is punitive if it goes beyond the point in time which is necessary to quell a disturbance or immediate threat."
+                },
+                {
+                    "start": 102.29,
+                    "stop": 105.374,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "D- does restraint include solitary confinement?"
+                },
+                {
+                    "start": 105.374,
+                    "stop": 117.732,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor. Restraint inc- involves total physical immobility coupled with the pain and discomfort attendant to that."
+                },
+                {
+                    "start": 117.732,
+                    "stop": 121.648,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wha- and what what case establishes that proposition?"
+                },
+                {
+                    "start": 121.648,
+                    "stop": 123.572,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, there is a body... That any any..."
+                },
+                {
+                    "start": 123.572,
+                    "stop": 127.642,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "physical restraint is unlawful."
+                },
+                {
+                    "start": 127.642,
+                    "stop": 133.856,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Physical restraint, the precedents speak of physical restraint to a fixed object."
+                },
+                {
+                    "start": 133.856,
+                    "stop": 134.956,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, and..."
+                },
+                {
+                    "start": 134.956,
+                    "stop": 136.877,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "wha- wha- what precedent in particular?"
+                },
+                {
+                    "start": 136.877,
+                    "stop": 158.181,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Gates V Collier is the first case of a body of law which has developed in our circuit, Justice Scalia."
+                },
+                {
+                    "start": 158.181,
+                    "stop": 159.992,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "did..."
+                },
+                {
+                    "start": 159.992,
+                    "stop": 186.431,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "was a whole variety."
+                },
+                {
+                    "start": 186.431,
+                    "stop": 200.751,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, the the Fifth Circuit decision in Gates affirmed the dis- district court decision which specifically enjoined each and every one of those punishments, and the fact that..."
+                },
+                {
+                    "start": 200.751,
+                    "stop": 207.02,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you think that amounts to a holding that any single one of them would have violated the Eighth Amendment?"
+                },
+                {
+                    "start": 207.02,
+                    "stop": 210.375,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, if used punitively, that is correct,"
+                },
+                {
+                    "start": 210.375,
+                    "stop": 210.935,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "and..."
+                },
+                {
+                    "start": 210.935,
+                    "stop": 220.768,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the court ordered st- stopping each and every one of those measures."
+                },
+                {
+                    "start": 220.768,
+                    "stop": 235.599,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Justice Ginsburg."
+                },
+                {
+                    "start": 235.599,
+                    "stop": 235.868,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the..."
+                },
+                {
+                    "start": 235.868,
+                    "stop": 236.573,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "reasoning..."
+                },
+                {
+                    "start": 236.573,
+                    "stop": 247.796,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "did the reasoning follow n- that that line? of the opinion, did it examine each one individually and say each one individually was cruel and unusual?"
+                },
+                {
+                    "start": 247.796,
+                    "stop": 272.255,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It examined a variety of practices, and and and and those practices were discussed in a subsection called corporal punishment."
+                },
+                {
+                    "start": 272.255,
+                    "stop": 272.905,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah..."
+                },
+                {
+                    "start": 272.905,
+                    "stop": 278.394,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "d- drew multiple bright lines as opposed to a single bright line..."
+                },
+                {
+                    "start": 278.394,
+                    "stop": 279.848,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "does not mak- -- Yes."
+                },
+                {
+                    "start": 279.848,
+                    "stop": 292.884,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "this case, do we need do we need to get into the issue, Mr. Jones of what this co- this Court's holdings amount to on this subject, or are we are we just limiting ourself to the the Eleventh Circuit, perhaps the the old Fifth Circuit?"
+                },
+                {
+                    "start": 292.884,
+                    "stop": 299.364,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "With respect to the underlying constitutional violation, or with respect to qualified immunity analysis?"
+                },
+                {
+                    "start": 299.364,
+                    "stop": 300.956,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "With respect to each."
+                },
+                {
+                    "start": 300.956,
+                    "stop": 320.645,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, Your Honor, this Court has never squarely addressed the constitutionality of continued restraint as a form of corporal punishment."
+                },
+                {
+                    "start": 320.645,
+                    "stop": 322.667,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose you one would have to do that, yeah."
+                },
+                {
+                    "start": 322.667,
+                    "stop": 324.62,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, that's correct."
+                },
+                {
+                    "start": 324.62,
+                    "stop": 324.95,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you..."
+                },
+                {
+                    "start": 324.95,
+                    "stop": 325.591,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "relying..."
+                },
+                {
+                    "start": 325.591,
+                    "stop": 345.28,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "on anything beyond the restraint itself? I mean, in the facts that have been recited, the the facts include leaving the individual in in the sun without a shirt on, and not giving him bathroom breaks, and pouring water out in front of him to taunt him."
+                },
+                {
+                    "start": 345.28,
+                    "stop": 356.935,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Not as not for the proposition that the law was clearly established, with regard to those facts."
+                },
+                {
+                    "start": 356.935,
+                    "stop": 358.028,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "suffered by the..."
+                },
+                {
+                    "start": 358.028,
+                    "stop": 366.115,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "to assume that the facts as alleged are true for purposes of deciding whether summary judgment is appropriate?"
+                },
+                {
+                    "start": 366.115,
+                    "stop": 373.839,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Based Justice O'Connor, based upon the grant of certiorari by the Court, the issues raised in the petition, and the grant,"
+                },
+                {
+                    "start": 375.253,
+                    "stop": 382.108,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I- I I gather we just assume those are c- correct for purposes of evaluating the summary judgment question."
+                },
+                {
+                    "start": 382.108,
+                    "stop": 383.208,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think that is..."
+                },
+                {
+                    "start": 383.208,
+                    "stop": 383.641,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "correct."
+                },
+                {
+                    "start": 383.641,
+                    "stop": 388.317,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the Eleventh Circuit decided there was a constitutional violation?"
+                },
+                {
+                    "start": 388.317,
+                    "stop": 389.468,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 389.468,
+                    "stop": 391.571,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And there was no cross-appeal on that."
+                },
+                {
+                    "start": 391.571,
+                    "stop": 392.564,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct, Your Honor."
+                },
+                {
+                    "start": 392.564,
+                    "stop": 395.258,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So do we take that as a given, too?"
+                },
+                {
+                    "start": 395.258,
+                    "stop": 411.501,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think that this case is like Saucier, where the Court acknowledged that the first step the the inquiry of whether there was a constitutional violation made out by the the facts."
+                },
+                {
+                    "start": 411.501,
+                    "stop": 449.153,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that gets back to the Chief Justice's question, and I'm wondering again if the Court writes the opinion giving you the judgment that you seek, isn't it necessary for us to say, A this law was clearly established, and B it is a correct interpretation, a a correct exposition of the Cruel and Unusual Punishment Clause, so we are it would be a rather odd holding for us to say, well, this was established in the Eleventh Circuit, but we're not telling you whether or not that was right."
+                },
+                {
+                    "start": 449.153,
+                    "stop": 475.51,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think, bec- j- Justice Kennedy, because the the the the certiorari was only granted on the second part of the Saucier test, that is, on the clearly established inquiry, the Court could limit its ruling to the issue of whether the law was clearly established a- and whether, specifically whether the Eleventh Circuit applied the proper standard..."
+                },
+                {
+                    "start": 475.51,
+                    "stop": 477.859,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "in determining whether the law should be established..."
+                },
+                {
+                    "start": 477.859,
+                    "stop": 500.591,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that it's fairly included within the within the question granted, that it's quite impossible for a a judge to say that it does or does not violate a clearly established constitutional principle if he doesn't think that it violates a constitutional principle at all, clearly established or otherwise."
+                },
+                {
+                    "start": 500.591,
+                    "stop": 506.195,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, I think that I think that it is fairly included."
+                },
+                {
+                    "start": 507.348,
+                    "stop": 524.102,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "position, though, is that all we have to decide is whether the substantially similar standard is is the proper standard, and and if we say no, it's not, it's that's like Lanier, which was what was it? Substantially identical, I guess, wasn't it,"
+                },
+                {
+                    "start": 524.102,
+                    "stop": 528.001,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "something like that? Fundamentally, yeah."
+                },
+                {
+                    "start": 528.001,
+                    "stop": 553.289,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And and if we say that that gloss, the substantially similar gloss was wrong, what you want us to do is simply vacate and send the thing back, or do you want us to go further and say, no, in fact, there we we determined that there can be no sovereign that there can be no i- qualified immunity here, because if we have to go to the second step, then we have to get into the issue, it seems to me, that Justice Kennedy is raising."
+                },
+                {
+                    "start": 553.289,
+                    "stop": 607.392,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I I believe that the first the issue of whether there's a constitutional violation is fairly included within the the questions which were granted by by the Court. Yes, Your Honor, because the conduct of these defendants was to restrain this man as a form of punishment..."
+                },
+                {
+                    "start": 607.392,
+                    "stop": 608.287,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "and..."
+                },
+                {
+                    "start": 608.287,
+                    "stop": 626.816,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the allegations of the facts have been questioned, I mea- one point was about the lack of bathroom breaks."
+                },
+                {
+                    "start": 626.816,
+                    "stop": 634.628,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I I think it got into the case because the respondents wanted to argue the case rather than the law."
+                },
+                {
+                    "start": 634.628,
+                    "stop": 641.788,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that had not been found below, as i- and it hadn't been as- even asserted in the in the complaint, is that correct?"
+                },
+                {
+                    "start": 641.788,
+                    "stop": 653.024,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, that is correct, except to the extent that the the affidavit of the plaintiff was referenced, I think incorporated by reference into the pleadings."
+                },
+                {
+                    "start": 653.024,
+                    "stop": 658.846,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the his the plaintiff's affidavit said that specifically, that he wasn't allowed bathroom breaks?"
+                },
+                {
+                    "start": 658.846,
+                    "stop": 699.542,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The the plaintiff's affidavit sai- is that he was left on the hitching post for seven hours, and the fair inference that can be drawn from that is that he was restrained for seven hours without breaks, and there's certainly no evidence rebutting that with respect to the second incident, which he was on the hitching post."
+                },
+                {
+                    "start": 699.542,
+                    "stop": 700.434,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "itself is..."
+                },
+                {
+                    "start": 700.434,
+                    "stop": 749.268,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that, we got into that."
+                },
+                {
+                    "start": 749.268,
+                    "stop": 750.097,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Ginsburg."
+                },
+                {
+                    "start": 750.097,
+                    "stop": 756.653,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "him on there for seven hours, as far as we know."
+                },
+                {
+                    "start": 756.653,
+                    "stop": 778.271,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We do not know that, Your Honor, although we do know that it was their expectation that he be restrained indefinitely."
+                },
+                {
+                    "start": 778.271,
+                    "stop": 796.779,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say indefinitely."
+                },
+                {
+                    "start": 796.779,
+                    "stop": 797.91,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah Justice..."
+                },
+                {
+                    "start": 797.91,
+                    "stop": 799.758,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's what the prison policy says, anyway."
+                },
+                {
+                    "start": 799.758,
+                    "stop": 800.157,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Now, i-"
+                },
+                {
+                    "start": 800.157,
+                    "stop": 814.714,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "d- is is is it a contention in this in this case that that he was prepared to go you see, I don't understand what they could have done."
+                },
+                {
+                    "start": 814.714,
+                    "stop": 816.463,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct."
+                },
+                {
+                    "start": 816.463,
+                    "stop": 836.93,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the allegation is that this prisoner refused refused to work in one case, and disrupted a work crew in another case, and according to the prison policy I mean, you have to do something when he does that."
+                },
+                {
+                    "start": 836.93,
+                    "stop": 842.276,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, Justice Scalia, he in both instances he was being punished for fighting."
+                },
+                {
+                    "start": 842.276,
+                    "stop": 843.471,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "punished  for..."
+                },
+                {
+                    "start": 843.471,
+                    "stop": 844.4,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "disrupting the work..."
+                },
+                {
+                    "start": 844.4,
+                    "stop": 846.867,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "For an altercation. An altercation..."
+                },
+                {
+                    "start": 846.867,
+                    "stop": 873.683,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "which subsided at the work site, which was miles away from the prison property, and after he wa- in each instant after he was restrained and subdued, and whatever disruption he was a part of had abated, he was put into a van for twenty minutes without incident, s- another twenty minutes were spent transporting him to the facility without incident, he was then walked without incident, without the necessity for the use of any force,"
+                },
+                {
+                    "start": 873.683,
+                    "stop": 874.922,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "to the post."
+                },
+                {
+                    "start": 874.922,
+                    "stop": 889.117,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the work rules were not brought up by the State as a The Eleventh Circuit said specifically, we are not going to consider these work rules because they were never put in the district court record as a reason for the officer's behavior in question."
+                },
+                {
+                    "start": 889.117,
+                    "stop": 900.6,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct, Justice Ginsburg, and if they were in the record, the evidence would also be they were not followed, which was also consistent with the finding of the Middle District of Alabama in the case of Austin V Hopper."
+                },
+                {
+                    "start": 900.6,
+                    "stop": 902.262,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "just wondering quickly, what are..."
+                },
+                {
+                    "start": 902.262,
+                    "stop": 908.003,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "what are we supposed to take as the facts? Do we take the facts in the second affidavit of Larry Hope?"
+                },
+                {
+                    "start": 908.003,
+                    "stop": 908.485,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes..."
+                },
+                {
+                    "start": 908.814,
+                    "stop": 909.854,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Justice Breyer."
+                },
+                {
+                    "start": 909.854,
+                    "stop": 911.089,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "bathroom breaks in there."
+                },
+                {
+                    "start": 911.089,
+                    "stop": 912.106,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct, but..."
+                },
+                {
+                    "start": 912.106,
+                    "stop": 912.482,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the..."
+                },
+                {
+                    "start": 912.482,
+                    "stop": 914.201,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "critical time element here is..."
+                },
+                {
+                    "start": 914.201,
+                    "stop": 915.096,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the time..."
+                },
+                {
+                    "start": 915.096,
+                    "stop": 921.976,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "it took them between the time that the disruption had abated and the time that they decided to..."
+                },
+                {
+                    "start": 921.976,
+                    "stop": 922.526,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "punish..."
+                },
+                {
+                    "start": 922.526,
+                    "stop": 925.527,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "him for past conduct which had occurred..."
+                },
+                {
+                    "start": 925.527,
+                    "stop": 925.817,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "an..."
+                },
+                {
+                    "start": 925.817,
+                    "stop": 928.275,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "hour earlier and ten miles away."
+                },
+                {
+                    "start": 928.275,
+                    "stop": 928.561,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That..."
+                },
+                {
+                    "start": 928.561,
+                    "stop": 930.698,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "is the critical time element, not the amount of time..."
+                },
+                {
+                    "start": 930.698,
+                    "stop": 931.33,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "he..."
+                },
+                {
+                    "start": 931.33,
+                    "stop": 938.335,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "wha- you say it's criti- Wh- why is that critical? I mean, must they decide to punish him instantaneously or never?"
+                },
+                {
+                    "start": 938.335,
+                    "stop": 947.872,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It's critical, Your Honor, because restraint is not a proper form of punishment under those circumstances."
+                },
+                {
+                    "start": 947.872,
+                    "stop": 949.334,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "TV..."
+                },
+                {
+                    "start": 949.334,
+                    "stop": 952.072,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you say no kind of restraint is is permissible?"
+                },
+                {
+                    "start": 952.072,
+                    "stop": 962.195,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Not as a form of punishment."
+                },
+                {
+                    "start": 962.195,
+                    "stop": 982.233,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or to make him go back to work."
+                },
+                {
+                    "start": 982.233,
+                    "stop": 987.331,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, because if you fight with five prison guards, you're not going to be able to escape punishment..."
+                },
+                {
+                    "start": 987.331,
+                    "stop": 990.133,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "simply by saying you'll go back to work..."
+                },
+                {
+                    "start": 990.133,
+                    "stop": 1007.47,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "even if we decide in your favor, you want us to lead leave open the question of whether this prison could follow the policy that it that that it has in effect, namely, only restraining people this way as a means of inducing them to agree to go back to the work crew."
+                },
+                {
+                    "start": 1007.47,
+                    "stop": 1014.908,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 1014.908,
+                    "stop": 1018.784,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Jones."
+                }
+            ],
+            "start": 9.855,
+            "stop": 1042.555
+        },
+        {
+            "turns": [
+                {
+                    "start": 1018.784,
+                    "stop": 1042.555,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: An official is immune from personal liability for violating Federal rights unless it the violation would have been clear to a reasonable officer."
+                },
+                {
+                    "start": 1042.555,
+                    "stop": 1046.351,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What, in your view, is the governing legal standard that you just referred to?"
+                },
+                {
+                    "start": 1046.351,
+                    "stop": 1052.35,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The the overarching standard would be the Harlow versus Fitzgerald, where the law was clearly established."
+                },
+                {
+                    "start": 1052.35,
+                    "stop": 1056.576,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I th- I thought yo- you're not talking, then, about a substantive standard?"
+                },
+                {
+                    "start": 1056.576,
+                    "stop": 1072.605,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I- this in in that, in the particular context where one looks to case law, this Court's decision in Saucier versus Katz uses the formulation whether the facts were distinguishable in a fair way, and that would be an appropriate gloss as well."
+                },
+                {
+                    "start": 1074.099,
+                    "stop": 1085.675,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean we we start with a pro- prohibition for substantive law, pra- the prohibition against cruel and unusual punishment."
+                },
+                {
+                    "start": 1085.675,
+                    "stop": 1101.783,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 1101.783,
+                    "stop": 1109.904,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then we don't get into the question of of our own view of whether what this what the law might, or the result might be in this case?"
+                },
+                {
+                    "start": 1109.904,
+                    "stop": 1125.902,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Even under that approach, the first step would be to ask whether this Court's decisions themselves gave clear notice, and the answer to that in our view would be no."
+                },
+                {
+                    "start": 1125.902,
+                    "stop": 1131.258,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So then the result could be one thing in the Eleventh Circuit and another thing in the Fourth Circuit?"
+                },
+                {
+                    "start": 1131.258,
+                    "stop": 1151.824,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, it it could be."
+                },
+                {
+                    "start": 1151.824,
+                    "stop": 1153.179,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "did."
+                },
+                {
+                    "start": 1153.179,
+                    "stop": 1178.575,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the standard that the officers should have been aware of, first in the Eleventh Circuit, and then, assuming that we think we that this case presents either the necessity or the proper opportunity for us to say what the national standard ought to be, what is the standard at a more specific level of abstraction than cruel and unusual punishment clause that we should be dealing with?"
+                },
+                {
+                    "start": 1178.575,
+                    "stop": 1199.324,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Justice Kennedy, let me address the Eleventh Circuit first."
+                },
+                {
+                    "start": 1199.324,
+                    "stop": 1215.307,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even even even if i- d- d- do you maintain that that the issue of whether it was done only to get him to return to the work crew is not in the case? that he was just put on there to punish him, and he couldn't have been released if he had said I'm ready to go back to the work crew?"
+                },
+                {
+                    "start": 1215.307,
+                    "stop": 1235.812,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Justice Scalia."
+                },
+                {
+                    "start": 1235.812,
+                    "stop": 1236.474,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "If..."
+                },
+                {
+                    "start": 1236.474,
+                    "stop": 1237.87,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "purposes of punishment?"
+                },
+                {
+                    "start": 1237.87,
+                    "stop": 1240.979,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "For purposes of punishment. Yes, Your Honor."
+                },
+                {
+                    "start": 1240.979,
+                    "stop": 1251.861,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A- and you're content to have us hold these officers liable when a few years down the line we may find that the Eleventh Circuit's opinion was wrong?"
+                },
+                {
+                    "start": 1251.861,
+                    "stop": 1261.458,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, we don't suggest a view one way or the other on liability."
+                },
+                {
+                    "start": 1261.458,
+                    "stop": 1263.381,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "second question,"
+                },
+                {
+                    "start": 1263.381,
+                    "stop": 1274.748,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "they they would be stripped of their qualified immunity even though the Eleventh Circuit's opinion was wrong, and we find it to have been wrong w- when we finally confront that issue."
+                },
+                {
+                    "start": 1274.748,
+                    "stop": 1281.739,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I I I I think that suggests Justice Kennedy's second question, which was, absent Gates, how would the case be viewed, and i- in that situation..."
+                },
+                {
+                    "start": 1281.739,
+                    "stop": 1309.788,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And don't you think we have to reach that? Well, it's not defending Regulation four twenty-nine, according to you."
+                },
+                {
+                    "start": 1309.788,
+                    "stop": 1313.119,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That's right. My point, Justice Scalia -- is that..."
+                },
+                {
+                    "start": 1313.119,
+                    "stop": 1321.966,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "respondants have briefed the case as if they were acting in compliance with regulation four twenty-nine which is is not our in in our view how the case must be taken."
+                },
+                {
+                    "start": 1321.966,
+                    "stop": 1322.49,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Now..."
+                },
+                {
+                    "start": 1322.49,
+                    "stop": 1344.777,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "case in the Eleventh Circuit, because it wasn't in the case."
+                },
+                {
+                    "start": 1344.777,
+                    "stop": 1345.949,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct, Justice Ginsburg."
+                },
+                {
+                    "start": 1345.949,
+                    "stop": 1348.404,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the regulation is not before us, you're saying."
+                },
+                {
+                    "start": 1348.404,
+                    "stop": 1391.054,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct. To answer Justice St- Kennedy's second question, how would this Court address the issue if Gates versus Collier did not exist, in that case, a reasonable officer the question would be, what would a reasonable off- what would've been clear to a reasonable officer."
+                },
+                {
+                    "start": 1391.054,
+                    "stop": 1398.505,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you think deliberately indifferent is a sufficient standard for the imposition of liability..."
+                },
+                {
+                    "start": 1398.505,
+                    "stop": 1399.368,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "This..."
+                },
+                {
+                    "start": 1399.368,
+                    "stop": 1410.371,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "without more specificity. All officers must be a- a- aware that their specific acts can be challenged under the general standard of deliberately indifferent."
+                },
+                {
+                    "start": 1410.371,
+                    "stop": 1449.885,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, we think it would be sufficient to estab- to establish a a substantive violation of the Eighth Amendment, although as the facts must be taken here, qualified immunity would attach, because there's a colorable argument that the threshold was not crossed, but I I I want to say that this Court has not resolved whether it's this deliberate indifference standard or rather the Hudson versus McMillian test, the excessive force test of whether force was used maliciously and sadistically to inflict harm, and that is an unresolved question, is, it's that is that very absence o- of certainty that that would be most relevant absent the Gates versus Collier decision."
+                },
+                {
+                    "start": 1449.885,
+                    "stop": 1467.058,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "S- Suppose I think that I have to reach the question of whether it would violate the Constitution, not just whether the Eleventh Circuit said it would."
+                },
+                {
+                    "start": 1467.058,
+                    "stop": 1468.531,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "go stand in the corner."
+                },
+                {
+                    "start": 1468.531,
+                    "stop": 1470.224,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "not in not in all cases, no, Your Honor."
+                },
+                {
+                    "start": 1470.224,
+                    "stop": 1480.008,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "S- so what makes the difference is , you you say stand in the corner, and I'm going to handcuff you."
+                },
+                {
+                    "start": 1480.008,
+                    "stop": 1486.324,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The relevant considerations, Justice Scalia, would be the degree of pain and and the threat to the safety of..."
+                },
+                {
+                    "start": 1486.324,
+                    "stop": 1487.747,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the inmates as well as..."
+                },
+                {
+                    "start": 1487.747,
+                    "stop": 1495.23,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "degree of pain."
+                },
+                {
+                    "start": 1495.23,
+                    "stop": 1529.437,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The the overarching question of whether the pain was wanton and unnecessary would focus on the degree of pain, the penological justification, and the threat to the inmate's safety."
+                },
+                {
+                    "start": 1529.437,
+                    "stop": 1541.394,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I didn't understand your last statement."
+                },
+                {
+                    "start": 1541.394,
+                    "stop": 1542.288,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor."
+                },
+                {
+                    "start": 1542.288,
+                    "stop": 1543.19,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That's petitioner's..."
+                },
+                {
+                    "start": 1543.19,
+                    "stop": 1545.79,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It's petitioner's position, but not the position of the United States."
+                },
+                {
+                    "start": 1545.79,
+                    "stop": 1547.343,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ah."
+                },
+                {
+                    "start": 1547.343,
+                    "stop": 1550.357,
+                    "speaker": {
+                        "name": "Austin C. Schlick",
+                        "ID": 16899,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If the Court has no further questions."
+                },
+                {
+                    "start": 1550.357,
+                    "stop": 1553.382,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Schlick."
+                }
+            ],
+            "start": 1018.784,
+            "stop": 1576.722
+        },
+        {
+            "turns": [
+                {
+                    "start": 1553.382,
+                    "stop": 1576.722,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "[NS] Mr. Chief Justice, and may it please the Court."
+                },
+                {
+                    "start": 1576.722,
+                    "stop": 1585.655,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have they discussed Gates? In in I didn't go to look at the district court opinions, though you cited them, but did those opinions discuss Gates?"
+                },
+                {
+                    "start": 1585.655,
+                    "stop": 1588.598,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Justice Souter, they didn't pointedly cite Gates."
+                },
+                {
+                    "start": 1588.598,
+                    "stop": 1595.591,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did they just ignore the the the pre-Eleventh Circuit precedent? I mean, w- how did they get by..."
+                },
+                {
+                    "start": 1595.591,
+                    "stop": 1596.317,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "without..."
+                },
+                {
+                    "start": 1596.317,
+                    "stop": 1614.154,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "they they refer to the subsequent authority in Williams V Burton and Ort V White, and I don't think that we can presume that they saw Gates and ignored it, or that they sl- just thought that case really had been largely superseded by this subsequent clarifying authority."
+                },
+                {
+                    "start": 1614.154,
+                    "stop": 1632.363,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What was the subsequent clarifying authority? Ga- Gates was a specific injunction."
+                },
+                {
+                    "start": 1632.363,
+                    "stop": 1678.586,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, the proposition for which the petitioner's amici wish this Court to read Gates and say that our respondents should have read Gates is this very broad proposition that any form of restraint f- as a as a form of punishment is unconstitutional, although that proposition has clearly been narrowed not just by the Eleventh Circuit's rulings in Williams V Burton and Ort, which indicated that certainly in an excessive force context you could restrain a prisoner for a period of time, but also by this Court's rulings in Wilson V Seiter and Whitley V Albers, and the clarifying ruling in Farmer V Brennan, where this Court indicated that the fact that a restraint was po- possibly objectively problematic is not enough to create an Eighth Amendment right."
+                },
+                {
+                    "start": 1678.586,
+                    "stop": 1679.126,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There had to be..."
+                },
+                {
+                    "start": 1679.126,
+                    "stop": 1705.308,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we are assuming the the fact as alleged, that it was used here, not to quell a riot, not to keep things calm in an interim, but as a means of punishment because that's what as I understood the injunction in Gates was, not, you couldn't use restraint in a temporary situation, but that you could not use it si- strictly for punishment purposes..."
+                },
+                {
+                    "start": 1705.308,
+                    "stop": 1706.259,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well..."
+                },
+                {
+                    "start": 1706.259,
+                    "stop": 1709.704,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And and that, as a- far as I know, hasn't been modified."
+                },
+                {
+                    "start": 1709.704,
+                    "stop": 1737.021,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I have a a a couple responses to that."
+                },
+                {
+                    "start": 1737.021,
+                    "stop": 1742.674,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you didn't bring up the regulations in the district court."
+                },
+                {
+                    "start": 1742.674,
+                    "stop": 1767.059,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, f- first of all we think that the the Court's entitled to dat- t- to take judicial notice of it, because it is the law that you don't have to act- actually introduce the law into the record, but on top of that, it was always in the mix."
+                },
+                {
+                    "start": 1767.594,
+                    "stop": 1790.953,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "got to do with it, that reg? I mean, so what? That is, his allegation is that he was left for seven hours on a very hot day with his arms about over his head, standing up, and given no water, except once, so the- three hours at least without any water."
+                },
+                {
+                    "start": 1790.953,
+                    "stop": 1796.573,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, because, for [: Your] Honor, the the the the most important fact there is that he could have gotten off the..."
+                },
+                {
+                    "start": 1796.573,
+                    "stop": 1797.985,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "bar at any time..."
+                },
+                {
+                    "start": 1797.985,
+                    "stop": 1803.279,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that he said that was so."
+                },
+                {
+                    "start": 1803.279,
+                    "stop": 1804.627,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The regulation..."
+                },
+                {
+                    "start": 1804.627,
+                    "stop": 1825.772,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "a regulation? Did you move, did you say did you say I don't see in these papers in front of me, say that the reason we're entitled to summary judgment is, it was ordinary practice to let the person off and then you'd cite that, and here they're following ordinary practice."
+                },
+                {
+                    "start": 1825.772,
+                    "stop": 1827.733,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor, we didn't we didn't say that, but it..."
+                },
+                {
+                    "start": 1827.733,
+                    "stop": 1829.044,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Then why isn't it in..."
+                },
+                {
+                    "start": 1829.044,
+                    "stop": 1832.826,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "petitioner's burden, as the plaintiff, to set forth the facts that..."
+                },
+                {
+                    "start": 1832.826,
+                    "stop": 1834.956,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "made that his claim. And once we..."
+                },
+                {
+                    "start": 1834.956,
+                    "stop": 1867.608,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "set forth facts, and the question is, why doesn't that per- th- these I gave you the facts, and why doesn't that present I would have thought a as a trial judge you'd say, of course that's an issue for trial, unless, of course, there's something unusual here, something unusual that maybe w- well all right and you're saying wh- where where is this counter thing in the in the in the in the trial court? I I don't see it."
+                },
+                {
+                    "start": 1867.608,
+                    "stop": 1871.143,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Th- the activity log that is in the record is..."
+                },
+                {
+                    "start": 1871.143,
+                    "stop": 1876.532,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right what page should I look at? I'll look at whatever you tell me to look at in the trial court."
+                },
+                {
+                    "start": 1876.532,
+                    "stop": 1879.166,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I've read through once, and I could find nothing..."
+                },
+                {
+                    "start": 1879.166,
+                    "stop": 1883.502,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I'm sorry, Your Honor."
+                },
+                {
+                    "start": 1883.502,
+                    "stop": 1883.902,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay..."
+                },
+                {
+                    "start": 1885.619,
+                    "stop": 1887.042,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Of the of the joint appendix."
+                },
+                {
+                    "start": 1887.042,
+                    "stop": 1887.632,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "thirty-eight and..."
+                },
+                {
+                    "start": 1887.632,
+                    "stop": 1888.36,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "thirty-nine?"
+                },
+                {
+                    "start": 1888.36,
+                    "stop": 1888.731,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor."
+                },
+                {
+                    "start": 1888.731,
+                    "stop": 1892.528,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that of the second incident? I thought there was no activity log..."
+                },
+                {
+                    "start": 1892.528,
+                    "stop": 1893.91,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "entry for the..."
+                },
+                {
+                    "start": 1893.91,
+                    "stop": 1902.211,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "first incident. Yes, Your Honor, it..."
+                },
+                {
+                    "start": 1902.211,
+                    "stop": 1903.644,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "well it refers to the two..."
+                },
+                {
+                    "start": 1903.644,
+                    "stop": 1904.925,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "at it now."
+                },
+                {
+                    "start": 1904.925,
+                    "stop": 1909.842,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It refers to the two conditions that are the conditions for using the restraining bar under reg four twenty-nine."
+                },
+                {
+                    "start": 1909.842,
+                    "stop": 1911.109,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wh- wh- why don't you read that?"
+                },
+                {
+                    "start": 1911.109,
+                    "stop": 1911.863,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That would be..."
+                },
+                {
+                    "start": 1911.863,
+                    "stop": 1914.069,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "to work and being disruptive to the work squad."
+                },
+                {
+                    "start": 1914.069,
+                    "stop": 1916.873,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what it says is, refusing to work, fight."
+                },
+                {
+                    "start": 1916.873,
+                    "stop": 1917.886,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That's the reason..."
+                },
+                {
+                    "start": 1917.886,
+                    "stop": 1919.819,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "they put him on the bar."
+                },
+                {
+                    "start": 1919.819,
+                    "stop": 1935.473,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 1935.473,
+                    "stop": 1936.481,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "twenty-nine..."
+                },
+                {
+                    "start": 1936.481,
+                    "stop": 1944.995,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "right after it says, restraining bar to be used only during daylight hours, Annex A to A R one nineteen, so now, what has that to do with it?"
+                },
+                {
+                    "start": 1944.995,
+                    "stop": 1947.557,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That refers that's actually four twenty-nine, and that is..."
+                },
+                {
+                    "start": 1947.557,
+                    "stop": 1948.378,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the regulation..."
+                },
+                {
+                    "start": 1948.378,
+                    "stop": 1963.78,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that you're a genius as a trial judge, and you happen to know that when it says here A R one nineteen it means A R four two nine, okay."
+                },
+                {
+                    "start": 1963.78,
+                    "stop": 1970.622,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, reg four twenty-nine is is is what these respondents were following when they put him on the..."
+                },
+                {
+                    "start": 1970.622,
+                    "stop": 1972.377,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "bar, and this petitioner..."
+                },
+                {
+                    "start": 1972.377,
+                    "stop": 1976.069,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "has not alleged that when he was put on the bar he could not have gotten off."
+                },
+                {
+                    "start": 1977.816,
+                    "stop": 1979.102,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "My other question..."
+                },
+                {
+                    "start": 1979.102,
+                    "stop": 2014.755,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "is w- whether or not it is the case that any human being would know that it is cruel and unusual to keep a person, if that's what happened it's what he's alleged keep a person chained with his arms over his head, handcuffed to a bar, for seven hours, in the hot sun, give not giving him water but for once, so he goes at least three hours without water."
+                },
+                {
+                    "start": 2014.755,
+                    "stop": 2034.266,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2034.266,
+                    "stop": 2035.791,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It starts at..."
+                },
+                {
+                    "start": 2035.791,
+                    "stop": 2041.97,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "of my pictures happens to show it's slightly up here, his hands, and the others show it's about eye level."
+                },
+                {
+                    "start": 2041.97,
+                    "stop": 2122.475,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And he's slumping."
+                },
+                {
+                    "start": 2122.475,
+                    "stop": 2122.876,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is th-"
+                },
+                {
+                    "start": 2122.876,
+                    "stop": 2124.117,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "this was..."
+                },
+                {
+                    "start": 2124.117,
+                    "stop": 2138.608,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "post post Gates? Well then it it seems to me exceedingly careless for the counsel who was appointed n- not to bring that to the magistrate judge's attention."
+                },
+                {
+                    "start": 2138.608,
+                    "stop": 2165.185,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I thin- Your Honor, and i- to to be in twenty-eight years since Gates V Collier, no Federal court of which we are aware has ever read it for the broad principle that petitioner now seeks to to read it in this case."
+                },
+                {
+                    "start": 2165.185,
+                    "stop": 2166.098,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "whatsoever."
+                },
+                {
+                    "start": 2166.098,
+                    "stop": 2180.039,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the the m- more drastic episode in this case was the second episode, and there you can't even point to an activity loge. [:log] They didn't even write it up."
+                },
+                {
+                    "start": 2180.039,
+                    "stop": 2184.222,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, Your Honor, it's it's not clear that they didn't write it up."
+                },
+                {
+                    "start": 2184.222,
+                    "stop": 2186.902,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "its wasn't respondent's responsibility."
+                },
+                {
+                    "start": 2186.902,
+                    "stop": 2204.872,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "whose burden would it be to show an entry in the activity log? After all, the prisoner doesn't is not the custodian of that log."
+                },
+                {
+                    "start": 2219.521,
+                    "stop": 2223.555,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And they they weren't responsible for how long he was left on the bar,"
+                },
+                {
+                    "start": 2223.555,
+                    "stop": 2224.221,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Correct, Your Honor."
+                },
+                {
+                    "start": 2224.221,
+                    "stop": 2261.117,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which which makes me wonder whether it was your burden to bring in the regulation or, w- rather, whether it was the burden of the plaintiff to show that these defendants, when they put him on the bar, knew that he would be left on the bar for seven hours."
+                },
+                {
+                    "start": 2262.258,
+                    "stop": 2291.637,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's your position, I take it, that so long as the regulation was in place so that he could go back to work, that the State could legitimately keep him... hanging to this rail for as long as it takes, no matter how hot it is, and without water, for as long as the State chooses to do it, just so long as the regulation is there that says, he can go back to work?"
+                },
+                {
+                    "start": 2291.637,
+                    "stop": 2292.244,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, no,"
+                },
+                {
+                    "start": 2292.244,
+                    "stop": 2293.476,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "no, Your Honor. No..."
+                },
+                {
+                    "start": 2293.476,
+                    "stop": 2295.047,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor, not hanging from the rail."
+                },
+                {
+                    "start": 2295.047,
+                    "stop": 2297.183,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, like this."
+                },
+                {
+                    "start": 2297.183,
+                    "stop": 2300.171,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Chest high like this... can stand fully..."
+                },
+                {
+                    "start": 2300.171,
+                    "stop": 2301.629,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "In this case,"
+                },
+                {
+                    "start": 2301.629,
+                    "stop": 2304.116,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "handcuffed to the rail..."
+                },
+                {
+                    "start": 2304.116,
+                    "stop": 2304.757,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor..."
+                },
+                {
+                    "start": 2304.757,
+                    "stop": 2315.794,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "long as the State wishes without administration of water or bathroom breaks, just because there's a regulation that says he can go back to work."
+                },
+                {
+                    "start": 2315.794,
+                    "stop": 2320.016,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, no Your Honor."
+                },
+                {
+                    "start": 2320.016,
+                    "stop": 2321.383,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "and bathroom breaks."
+                },
+                {
+                    "start": 2321.383,
+                    "stop": 2330.165,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that he was not given water and not given bathroom breaks."
+                },
+                {
+                    "start": 2330.165,
+                    "stop": 2350.831,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor, he did not allege, ever, nor present evidence that he was denied a bathroom break."
+                },
+                {
+                    "start": 2350.831,
+                    "stop": 2352.322,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "in acts that are clear-"
+                },
+                {
+                    "start": 2352.322,
+                    "stop": 2359.471,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "then that i- certainly in the hot sun for three hours without water is fine."
+                },
+                {
+                    "start": 2359.471,
+                    "stop": 2367.168,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If it is being done because he has refused to work and I would hasten to add,"
+                },
+                {
+                    "start": 2367.168,
+                    "stop": 2368.305,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, this is..."
+                },
+                {
+                    "start": 2368.305,
+                    "stop": 2393.367,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "record, that I understand it, to indicate that."
+                },
+                {
+                    "start": 2393.367,
+                    "stop": 2421.878,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2421.878,
+                    "stop": 2424.362,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "petitioners are arguing and it isn't."
+                },
+                {
+                    "start": 2424.362,
+                    "stop": 2450.836,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Forrester? Th- the assumption seems to be i- in the State's argument that if you you restrain a person in order to then choose the word, convince, coerce him to do something, that is not punishment."
+                },
+                {
+                    "start": 2450.836,
+                    "stop": 2451.907,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2451.907,
+                    "stop": 2460.569,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "isn't this punishment if you're doing this in order to have him comply with your w- command?"
+                },
+                {
+                    "start": 2460.569,
+                    "stop": 2481.042,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, it it is certainly punishment in the broad sense."
+                },
+                {
+                    "start": 2481.042,
+                    "stop": 2481.952,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but Mr. Schlick,"
+                },
+                {
+                    "start": 2481.952,
+                    "stop": 2482.85,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "can I just ask you..."
+                },
+                {
+                    "start": 2482.85,
+                    "stop": 2503.407,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "about the case you called our attention to on page eighty-nine ninety of the there, according to the m- magistrate judge's opinion, Judge Putnam, in that case the plaintiff was refusing to check out in his work detail, defendant Gates gave him the choice of either working or being handcuffed to the security bar."
+                },
+                {
+                    "start": 2503.407,
+                    "stop": 2506.913,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Petitioner never alleged..."
+                },
+                {
+                    "start": 2506.913,
+                    "stop": 2509.327,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "that he couldn't have gotten off the bar..."
+                },
+                {
+                    "start": 2509.327,
+                    "stop": 2510.386,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "him the choice, did you?"
+                },
+                {
+                    "start": 2510.386,
+                    "stop": 2515.674,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The petitioner petitioner bears the burden, as the plaintiff, to say I could not have gotten off the bar if I had asked..."
+                },
+                {
+                    "start": 2515.674,
+                    "stop": 2516.387,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "for it."
+                },
+                {
+                    "start": 2516.387,
+                    "stop": 2529.101,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I can't understand why why that wasn't put in by the State."
+                },
+                {
+                    "start": 2529.101,
+                    "stop": 2529.926,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "what's your explanation for that?"
+                },
+                {
+                    "start": 2529.926,
+                    "stop": 2531.107,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it is a regrettable..."
+                },
+                {
+                    "start": 2531.107,
+                    "stop": 2533.4,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Regrettable, it's incomprehensible."
+                },
+                {
+                    "start": 2533.4,
+                    "stop": 2605.248,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why why doesn't the why doesn't the Ort, which you say he's s- s- the magistrate on eigh- page eighty-nine and ninety, supports your position."
+                },
+                {
+                    "start": 2605.248,
+                    "stop": 2605.797,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "it?"
+                },
+                {
+                    "start": 2605.797,
+                    "stop": 2611.911,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I would hasten to add, Your Honor, that tho- those allegations that you keep reading again are not alleged against our three..."
+                },
+                {
+                    "start": 2611.911,
+                    "stop": 2613.084,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "respondents."
+                },
+                {
+                    "start": 2613.084,
+                    "stop": 2654.225,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "of course, what you say, but what the allegation says is that it was your three respondents."
+                },
+                {
+                    "start": 2654.225,
+                    "stop": 2656.044,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "An- and he alleges they were."
+                },
+                {
+                    "start": 2656.044,
+                    "stop": 2660.765,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "burden to say, I was not responsible, or is it the plaintiff's burden to say, you were..."
+                },
+                {
+                    "start": 2660.765,
+                    "stop": 2663.032,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "responsible for not giving me mo- wa-"
+                },
+                {
+                    "start": 2663.032,
+                    "stop": 2668.264,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I read was the plaintiff's affidavit saying they were responsible in his opinion."
+                },
+                {
+                    "start": 2668.264,
+                    "stop": 2670.5,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Responsible for putting him onto the post."
+                },
+                {
+                    "start": 2670.5,
+                    "stop": 2671.176,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We- I-"
+                },
+                {
+                    "start": 2671.176,
+                    "stop": 2671.945,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "we- e- we we..."
+                },
+                {
+                    "start": 2671.945,
+                    "stop": 2689.957,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "do believe it was the plaintiff's burden, Your Hon- y- d- Justice Breyer."
+                },
+                {
+                    "start": 2689.957,
+                    "stop": 2697.887,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's an important point for me."
+                },
+                {
+                    "start": 2697.887,
+                    "stop": 2725.713,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "You- a- b- we d- we d- we do think it's punishment in a broad sense."
+                },
+                {
+                    "start": 2725.713,
+                    "stop": 2726.191,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It wasn't..."
+                },
+                {
+                    "start": 2726.191,
+                    "stop": 2751.505,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "says, and we must take this as true I think at this stage, I have no reason to say I'm willing to go back to work because I never for a moment said I wouldn't work."
+                },
+                {
+                    "start": 2751.505,
+                    "stop": 2763.063,
+                    "speaker": {
+                        "name": "Nathan A. Forrester",
+                        "ID": 37094,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, but by bu- but getting into the altercation, actually getting to the point where he had his blade raised and was ready to strike another inmate, is d- certainly disruptive to the work squad."
+                },
+                {
+                    "start": 2763.063,
+                    "stop": 2778.42,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank thank you, Mr. Forrester."
+                }
+            ],
+            "start": 1553.382,
+            "stop": 2848.428
+        },
+        {
+            "turns": [
+                {
+                    "start": 2778.42,
+                    "stop": 2848.428,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court."
+                },
+                {
+                    "start": 2848.428,
+                    "stop": 2860.904,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let me let me ask you a different question, though."
+                },
+                {
+                    "start": 2860.904,
+                    "stop": 2870.705,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, as I understand, it the fundamentally similar requirement required a a much tighter fit between the facts of the two cases than mat- than the materially similar standard does, and I think..."
+                },
+                {
+                    "start": 2870.705,
+                    "stop": 2884.459,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May- hi- I mean, maybe you're right."
+                },
+                {
+                    "start": 2884.459,
+                    "stop": 2887.382,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's it's it's it's you're  you got it I..."
+                },
+                {
+                    "start": 2887.382,
+                    "stop": 2906.12,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "mean, but it's splitting it's splitting it pretty fine, it seems to me, and I i- in- wouldn't it be better, wouldn't it be serve clarity better if we in effect said in this case, look, b- stop paraphrasing the standard, and just stick to the basic standard, and that wa- is, would it be clear to a reasonable officer?"
+                },
+                {
+                    "start": 2906.12,
+                    "stop": 2919.373,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it seems to me, Justice Souter, the way you answer that question is you is you look at the case law, and that's what at issue here."
+                },
+                {
+                    "start": 2919.373,
+                    "stop": 2919.943,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So..."
+                },
+                {
+                    "start": 2919.943,
+                    "stop": 2933.205,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "so you're saying regardless of how they paraphrased it, when you get down to the district court cases, on any standard, they ought to win."
+                },
+                {
+                    "start": 2933.205,
+                    "stop": 2966.344,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think I think it is important and useful for this Court to to make the link to the habeas context, because I think that would provide greater clarity in the law."
+                },
+                {
+                    "start": 2966.344,
+                    "stop": 2998.179,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't that a c- isn't it a concern for the State courts that, because m- i- i- i- here we're talking about an officer, and did he follow what was an Eleventh Circuit decision. we're talking about a Federal court overriding a determination by a State court, so I don't think the settings are similar."
+                },
+                {
+                    "start": 2998.179,
+                    "stop": 3060.087,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Sure, but and I agree the two situations are not entirely identical, but if anything it seems to me the the section nineteen eighty-three context raises even greater federalism concerns, because as this Court a- as this Court recognized a couple of terms ago in Geyer versus Honda, litigation can often be the functional equivalent of a of a statutor- of a statute or a regulation, and so what happens in the nineteen eighty-three context, as illustrated in this case, is that courts articulate broad rules that purport to govern the conduct, the day-to-day conduct of elected and nonelected State officials, and so it seems to me if anything the the federalism concerns are greater."
+                },
+                {
+                    "start": 3060.087,
+                    "stop": 3061.342,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "sometimes to a..."
+                },
+                {
+                    "start": 3061.342,
+                    "stop": 3065.227,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "this is not split-second."
+                },
+                {
+                    "start": 3065.227,
+                    "stop": 3073.462,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I I agree with that, Justice O'Connor, but the s- but the standard, it seems to me, needs to apply to the full range of gov- of official action that would be covered..."
+                },
+                {
+                    "start": 3073.462,
+                    "stop": 3074.384,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "by nineteen eighty-three."
+                },
+                {
+                    "start": 3074.384,
+                    "stop": 3085.675,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "ask whether a reasonable officer in these circumstances would've known that what was done was unconstitutional."
+                },
+                {
+                    "start": 3085.675,
+                    "stop": 3100.792,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I I think that ultimately is the answer, and it seems to me the way you answer that is asking the question posed in Saucier, is wha- of whether the two cases are materially are well, are whether there's a fair distinction between the two cases, which seems to me amounts to material distinctions."
+                },
+                {
+                    "start": 3100.792,
+                    "stop": 3118.271,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If if you are requested to advise the correctional officers in your State as to the standard, the constitutional standard they must observe with reference to restraining inmates, and circumstances like these, what is the standard that you tell them they must follow?"
+                },
+                {
+                    "start": 3118.271,
+                    "stop": 3121.73,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I don't think that's clear from this Court's depi- decisions at this point, as the..."
+                },
+                {
+                    "start": 3121.73,
+                    "stop": 3123.037,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "as the United States co-"
+                },
+                {
+                    "start": 3123.037,
+                    "stop": 3126.919,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you're their attorney, and you have to figure out what we mean up here that's all."
+                },
+                {
+                    "start": 3126.919,
+                    "stop": 3192.413,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, at At worst at worst I would tell them they have to fol- they have to follow the standard in Farmer."
+                },
+                {
+                    "start": 3192.413,
+                    "stop": 3206.159,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, well I I don't see in Gates and I'm reading from page thirteen oh six, where they talk about the e- t- b- being put in awkward positions, though. And I don't see any requirement of serious harm to the inmate."
+                },
+                {
+                    "start": 3206.159,
+                    "stop": 3217.89,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, that that's right."
+                },
+                {
+                    "start": 3217.89,
+                    "stop": 3219.416,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "petition suggests..."
+                },
+                {
+                    "start": 3219.416,
+                    "stop": 3223.631,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Court do you rely on as changing what Gates said?"
+                },
+                {
+                    "start": 3223.631,
+                    "stop": 3258.66,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, f- Farmer added a new requirement."
+                },
+                {
+                    "start": 3258.66,
+                    "stop": 3258.879,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "thi-"
+                },
+                {
+                    "start": 3258.879,
+                    "stop": 3266.389,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "even if that were a requirement, e- you think the allegations here don't suffice?"
+                },
+                {
+                    "start": 3266.389,
+                    "stop": 3270.603,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I i- No, I don't."
+                },
+                {
+                    "start": 3270.603,
+                    "stop": 3270.797,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The..."
+                },
+                {
+                    "start": 3270.797,
+                    "stop": 3286.329,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "one would not a reasonable person would not be aware that you couldn't restrain someone on a post or rail for seven hours in the heat, without water more than every three hours?"
+                },
+                {
+                    "start": 3286.329,
+                    "stop": 3301.81,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think the question is whether the harm that you could for- foresee from that and i and he- and the record does not suggest that he was without water."
+                },
+                {
+                    "start": 3301.81,
+                    "stop": 3304.315,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "for twenty-four hours. I'm sorry..."
+                },
+                {
+                    "start": 3304.315,
+                    "stop": 3306.408,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Also no bathroom breaks for seven hours."
+                },
+                {
+                    "start": 3306.408,
+                    "stop": 3307.656,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "There's no allegation of that in..."
+                },
+                {
+                    "start": 3307.656,
+                    "stop": 3308.547,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "his affidavit."
+                },
+                {
+                    "start": 3308.547,
+                    "stop": 3310.092,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "appeals said there was."
+                },
+                {
+                    "start": 3310.092,
+                    "stop": 3310.992,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And the court of appeals..."
+                },
+                {
+                    "start": 3310.992,
+                    "stop": 3312.232,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "made a mistake, and..."
+                },
+                {
+                    "start": 3312.232,
+                    "stop": 3320.413,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "this Court has the ability to review the summary j- judgment record de novo, and it's not a long record."
+                },
+                {
+                    "start": 3320.413,
+                    "stop": 3321.386,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "is that a..."
+                },
+                {
+                    "start": 3321.386,
+                    "stop": 3366.629,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "public official shouldn't be held liable under section nineteen eighty-three, or shouldn't be stripped of his his or her qualified immunity except on the basis of his or her own actions based on reasonable inferences from the summary judgment record."
+                },
+                {
+                    "start": 3366.629,
+                    "stop": 3367.851,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "be on a motion to dismiss."
+                },
+                {
+                    "start": 3367.851,
+                    "stop": 3368.28,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "just ask you a..."
+                },
+                {
+                    "start": 3368.28,
+                    "stop": 3369.04,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "specific point?"
+                },
+                {
+                    "start": 3369.04,
+                    "stop": 3380.317,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because he's right about my my thing about the defendants was not June seventh, it was, the he alleges it."
+                },
+                {
+                    "start": 3380.317,
+                    "stop": 3390.834,
+                    "speaker": {
+                        "name": "Gene C. Schaerr",
+                        "ID": 26148,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "With respect to some of the activity, yes."
+                },
+                {
+                    "start": 3390.834,
+                    "stop": 3396.071,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Schaerr."
+                }
+            ],
+            "start": 2778.42,
+            "stop": 3406.355
+        },
+        {
+            "turns": [
+                {
+                    "start": 3396.071,
+                    "stop": 3406.355,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court."
+                },
+                {
+                    "start": 3406.355,
+                    "stop": 3413.099,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well."
+                }
+            ],
+            "start": 3396.071
+        }
+    ]
+}

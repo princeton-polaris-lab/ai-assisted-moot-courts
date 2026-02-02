@@ -1,0 +1,3794 @@
+{
+    "title": "New York v. Federal Energy Regulatory Commission",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 12.54,
+                    "stop": 106.491,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court. From nineteen ten until the issuance of the FERC decision under review, all fifty States regulated transmissions of electricity to retail customers. You didn't see the rates, terms, and conditions of that regulation, with a few exceptions, because the rates were bundled in bills that charged customers for all of the elements of retail service which are basically the energy itself, or the commodity, its delivery over transmission high voltage and distribution low voltage lines, and metering and billing. The issue in this case is whether the nineteen thirty-five Congress intended the Federal Power Commission, now FERC, to displace the State laws that required that regulation from nineteen ten until nineteen ninety-six if the commodity, the energy not the transmission, but the commodity is unbundled from the retail customers' bills. The FERC, while conceding that unbundling was never contemplated by the nineteen thirty-five Congress, nonetheless has taken the position that if the commodity comes out of the bill, in order to give the customer knowledge to effect a choice to buy energy from a utility or a non-utility, then the transmission, although it still remains bundled with other elements and is never shown on the bill, except in the State of California, becomes a new and separate service and that that transmission is subject to preemption so that the States have to leave the scene... for only FERC... What if there, what if there..."
+                },
+                {
+                    "start": 106.491,
+                    "stop": 123.985,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "were no statute at all? And , do you think that under the Commerce Clause, with today's multi-state grids for transmission of power, that the States could have directly regulated energy transmission as a separate service?"
+                },
+                {
+                    "start": 123.985,
+                    "stop": 161.875,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think there's any question, Your Honor, that under today's Commerce Clause jurisprudence, the States would be able to regulate retail deliveries over transmission facilities, particularly within their own States."
+                },
+                {
+                    "start": 161.875,
+                    "stop": 175.195,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the statute does give the FERC jurisdiction over the transmission of electric energy in interstate commerce."
+                },
+                {
+                    "start": 175.195,
+                    "stop": 188.695,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Exactly."
+                },
+                {
+                    "start": 188.695,
+                    "stop": 191.281,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "attempting to fill..."
+                },
+                {
+                    "start": 191.281,
+                    "stop": 222.137,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "we didn't have these interstate grids, and isn't it conceivable that you could have a power company producing power within a State and distributing it to customers within the State, everything totally intrastate? That may have been a common occurrence at the time the statute was passed."
+                },
+                {
+                    "start": 222.137,
+                    "stop": 272.003,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, the rate of interaconnection[:interconnection] from nineteen twenty to nineteen thirty-five was actually greater than the rate of interconnection that we have seen since."
+                },
+                {
+                    "start": 272.003,
+                    "stop": 272.87,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Now that, that..."
+                },
+                {
+                    "start": 272.87,
+                    "stop": 295.722,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "are you saying o- one o- either of these two things? Either transmission regardless of the rate at which it is billed is is not essentially interstate commerce, or are you saying that you simply cannot read the act to pick up that activity in interstate commerce?"
+                },
+                {
+                    "start": 295.722,
+                    "stop": 300.581,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm saying that the l- the latter with with one caveat."
+                },
+                {
+                    "start": 300.581,
+                    "stop": 309.059,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, you, w- do you admit then that th- that it is interstate commerce."
+                },
+                {
+                    "start": 309.059,
+                    "stop": 312.684,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It clearly is subject to regulation by Congress if it wants to."
+                },
+                {
+                    "start": 312.684,
+                    "stop": 313.505,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 313.505,
+                    "stop": 330.091,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We don't need th- the States do not need to get into the question of which transmissions are in interstate commerce and which aren't in order to preserve its jurisdiction over retail transmissions because Congress wanted the States to be able to continue to regulate retail transmissions."
+                },
+                {
+                    "start": 330.091,
+                    "stop": 405.097,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "w- w- This is what I don't understand."
+                },
+                {
+                    "start": 405.097,
+                    "stop": 406.133,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why isn't..."
+                },
+                {
+                    "start": 406.133,
+                    "stop": 408.379,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "why isn't that the way to look at it rather than..."
+                },
+                {
+                    "start": 408.379,
+                    "stop": 418.582,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Be- Because the th- a- as the Colton case held, there's a there's a bright line here between retail and wholesale."
+                },
+                {
+                    "start": 418.582,
+                    "stop": 419.475,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "said."
+                },
+                {
+                    "start": 419.475,
+                    "stop": 455.23,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 455.23,
+                    "stop": 465.385,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you you seem to concede and I don't see why you do it that the right to regulate transmission includes the right to regulate sale."
+                },
+                {
+                    "start": 465.385,
+                    "stop": 466.383,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, we we we don't."
+                },
+                {
+                    "start": 466.383,
+                    "stop": 467.836,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "We don't concede that."
+                },
+                {
+                    "start": 467.836,
+                    "stop": 478.856,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "What what I'm saying is that when unbundles when one unbundles transmission, the States don't lose it, even if it's out there by itself, if it's part of retail."
+                },
+                {
+                    "start": 478.856,
+                    "stop": 480.622,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "L- Let Let me give an example."
+                },
+                {
+                    "start": 480.622,
+                    "stop": 512.591,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "depend on what sale means? If it's sale of the commodity, it says, sale of such energy at wholesale in interstate commerce."
+                },
+                {
+                    "start": 512.591,
+                    "stop": 538.511,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because when le- le- let's go back to nineteen thirty-five, Your Honor."
+                },
+                {
+                    "start": 538.511,
+                    "stop": 540.608,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "bill, you mean the bill that the customer gets."
+                },
+                {
+                    "start": 540.608,
+                    "stop": 540.961,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 540.961,
+                    "stop": 541.53,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 541.53,
+                    "stop": 559.886,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Now now, now this Court has said many time, Your Honor, your, times, Your Honor I know, Justice Scalia, you don't like reference to legislative history, but you do accept ref- reading provisions in harmony."
+                },
+                {
+                    "start": 559.886,
+                    "stop": 560.672,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Those prov-"
+                },
+                {
+                    "start": 560.672,
+                    "stop": 562.403,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where do we find these?"
+                },
+                {
+                    "start": 562.403,
+                    "stop": 568.984,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They ar- they are I'm sorry, Your Honor."
+                },
+                {
+                    "start": 568.984,
+                    "stop": 573.68,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And whereabouts? Is i- do we Starting with six fifty-two A?"
+                },
+                {
+                    "start": 573.68,
+                    "stop": 603.171,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The I d- I don't have the the the page reference off the top of my head."
+                },
+                {
+                    "start": 603.171,
+                    "stop": 608.18,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you're you're summarizing a st- a series of statutory provisions in those words?"
+                },
+                {
+                    "start": 608.18,
+                    "stop": 637.6,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 637.6,
+                    "stop": 638.262,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "over..."
+                },
+                {
+                    "start": 638.262,
+                    "stop": 648.909,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "give us the USC cites of those things? I, It's crazy when you people who spend your whole life in this one statute use the old the old numbers instead of the United States Code numbers."
+                },
+                {
+                    "start": 648.909,
+                    "stop": 653.026,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You're talking about sixteen USC eight twenty-four A and B. Right?"
+                },
+                {
+                    "start": 653.026,
+                    "stop": 672.575,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 672.575,
+                    "stop": 674.468,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're talking now about section A?"
+                },
+                {
+                    "start": 674.468,
+                    "stop": 694.524,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 694.524,
+                    "stop": 717.52,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, just on that, is it the case that if in nineteen thirty-five Duke Power owns generating facilities in West Virginia, owns lines from West Virginia to North Carolina, and owns a distribution company in North Carolina, all one company, does the FPC have any jurisdiction at all in your opinion?"
+                },
+                {
+                    "start": 717.52,
+                    "stop": 719.257,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If there's a sale for resale..."
+                },
+                {
+                    "start": 719.257,
+                    "stop": 721.442,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no no."
+                },
+                {
+                    "start": 721.442,
+                    "stop": 721.884,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 721.884,
+                    "stop": 722.566,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you're saying."
+                },
+                {
+                    "start": 722.566,
+                    "stop": 732.455,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The the, there is a case in nineteen thirty-four at two PUR second, where it's it's almost your iden- your hypothetical."
+                },
+                {
+                    "start": 732.455,
+                    "stop": 756.63,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 756.63,
+                    "stop": 757.57,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 757.57,
+                    "stop": 758.366,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's your argument."
+                },
+                {
+                    "start": 758.366,
+                    "stop": 759.389,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 759.389,
+                    "stop": 760.904,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 760.904,
+                    "stop": 761.404,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mist-, Mr."
+                },
+                {
+                    "start": 761.404,
+                    "stop": 761.994,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Malone, it..."
+                },
+                {
+                    "start": 761.994,
+                    "stop": 764.767,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "would seem to..."
+                },
+                {
+                    "start": 764.767,
+                    "stop": 765.487,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "is that you're done?"
+                },
+                {
+                    "start": 765.487,
+                    "stop": 773.616,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I just wanted to add, Justice Breyer, that if you look at two oh six D, that calls on FERC to provide costs in your hypothetical..."
+                },
+                {
+                    "start": 773.616,
+                    "stop": 775.777,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "from West Virginia to the North Carolina..."
+                },
+                {
+                    "start": 775.777,
+                    "stop": 791.141,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then I would say if that's your argument, the response to that argument will be this is an unforeseen case in thirty-five, the possibility of Enron supplanting Duke, and it's close enough to wholesale sales."
+                },
+                {
+                    "start": 791.141,
+                    "stop": 842.611,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If Enron supplants Duke and sells directly to a retail customer, it's going to be purchasing electricity, selling retail, over a delivery system that Enron does not own."
+                },
+                {
+                    "start": 842.611,
+                    "stop": 843.622,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "May I ask you one..."
+                },
+                {
+                    "start": 843.622,
+                    "stop": 881.134,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "question about the words in the statute? The statute uses an and."
+                },
+                {
+                    "start": 881.134,
+                    "stop": 915.439,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not quite, Your Honor."
+                },
+                {
+                    "start": 915.439,
+                    "stop": 917.799,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Malone, could I come back..."
+                },
+                {
+                    "start": 917.799,
+                    "stop": 920.401,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "to Justice Ginsburg's earlier question..."
+                },
+                {
+                    "start": 920.401,
+                    "stop": 920.944,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "which..."
+                },
+                {
+                    "start": 920.944,
+                    "stop": 1003.158,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "focused on section eight twenty-four B two, which says that the provisions shall not apply to any other sale of electric energy."
+                },
+                {
+                    "start": 1003.158,
+                    "stop": 1004.155,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Including the transmission."
+                },
+                {
+                    "start": 1004.155,
+                    "stop": 1005.531,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Including the transmission."
+                },
+                {
+                    "start": 1005.531,
+                    "stop": 1006.277,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I think..."
+                },
+                {
+                    "start": 1006.277,
+                    "stop": 1011.999,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "that is a valid reading of the statute."
+                },
+                {
+                    "start": 1011.999,
+                    "stop": 1014.146,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's up to you."
+                },
+                {
+                    "start": 1014.146,
+                    "stop": 1099.547,
+                    "speaker": {
+                        "name": "Lawrence G. Malone",
+                        "ID": 34852,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, we have situations in New York State, for example, where we have, FERC has regulated ha- curtailments u- over transmission systems."
+                },
+                {
+                    "start": 1099.547,
+                    "stop": 1114.364,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Malone."
+                }
+            ],
+            "start": 12.54,
+            "stop": 1198.859
+        },
+        {
+            "turns": [
+                {
+                    "start": 1114.364,
+                    "stop": 1198.859,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court."
+                },
+                {
+                    "start": 1198.859,
+                    "stop": 1200.912,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "from the rules of the road."
+                },
+                {
+                    "start": 1200.912,
+                    "stop": 1205.438,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "just chose, in its discretion, not to regulate them?"
+                },
+                {
+                    "start": 1205.438,
+                    "stop": 1237.55,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It said that the transmissions should not be considered within the interstate transmission clause giving FERC jurisdiction over interstate transmissions, but rather, in the case of transmissions bundled with retail sales, should be considered part of the bundled retail sale."
+                },
+                {
+                    "start": 1237.55,
+                    "stop": 1238.359,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "said..."
+                },
+                {
+                    "start": 1238.359,
+                    "stop": 1240.605,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which means that it doesn't have jurisdiction."
+                },
+                {
+                    "start": 1240.605,
+                    "stop": 1241.502,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "When you say should be..."
+                },
+                {
+                    "start": 1241.502,
+                    "stop": 1243.915,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "considered part of, you mean discretionarily should be..."
+                },
+                {
+                    "start": 1243.915,
+                    "stop": 1245.671,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "considered or must be..."
+                },
+                {
+                    "start": 1245.671,
+                    "stop": 1251.643,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "called it a permissible policy choice, and but..."
+                },
+                {
+                    "start": 1251.643,
+                    "stop": 1254.018,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And you agree with that?"
+                },
+                {
+                    "start": 1254.018,
+                    "stop": 1256.017,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You agree it was a policy choice and not a jurisdiction..."
+                },
+                {
+                    "start": 1256.017,
+                    "stop": 1260.939,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think FERC made a jurisdictional mistake and I think the DC Circuit..."
+                },
+                {
+                    "start": 1260.939,
+                    "stop": 1266.389,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It misconstrued its statute. It didn't simply withdraw its hand. It misconstrued the act."
+                },
+                {
+                    "start": 1266.389,
+                    "stop": 1274.624,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1274.624,
+                    "stop": 1276.758,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "transmission and that it should, therefore,"
+                },
+                {
+                    "start": 1276.758,
+                    "stop": 1278.805,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "solve the problem that it foun-"
+                },
+                {
+                    "start": 1278.805,
+                    "stop": 1287.88,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In your view, if FERC does have jurisdiction of this this part of the problem, must it exercise that jurisdiction or can it allow the States to regulate?"
+                },
+                {
+                    "start": 1287.88,
+                    "stop": 1309.821,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "What it must do under section two oh six, which is section eight twenty-four E, is cure the undue discrimination that it found."
+                },
+                {
+                    "start": 1309.821,
+                    "stop": 1310.289,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, then it's..."
+                },
+                {
+                    "start": 1310.289,
+                    "stop": 1326.764,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "pretty much a Pyrrhic victory for you if you persuade us that the the s- CADC was wrong in saying it was just a policy choice, it was a jurisdictional decision."
+                },
+                {
+                    "start": 1326.764,
+                    "stop": 1353.209,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm hoping that what I had was a Pyrrhic defeat in the in the in the DC Circuit and that and that FERC, once told that it has jurisdiction, and having recognized that it has the obligation to cure undue discrimination, will exercise that jurisdiction properly."
+                },
+                {
+                    "start": 1353.209,
+                    "stop": 1368.44,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We we usually have cases in which the agency is alleged to go too far."
+                },
+                {
+                    "start": 1368.44,
+                    "stop": 1412.007,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, actually in the Louisiana Power and Light case, which we cite a- and think is very much in point here, which arises under the same parallel provisions of the Natural Gas Act, FERC's initial position was that it I believe FERC's initial position was that it did not have jurisdiction to regulate bundled direct retail sales of o- o- of gas and that that included u- u- a a lack of jurisdiction over the transportation of that gas."
+                },
+                {
+                    "start": 1412.007,
+                    "stop": 1442.88,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess th- what would , suppose FERC says or suppose I read it as saying, since you're whipsawing them between you and New York, look, in nineteen thirty-five yours is the case where Congress would have never dreamt they had jurisdiction."
+                },
+                {
+                    "start": 1442.88,
+                    "stop": 1475.544,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "What happened in nineteen thirty-five was that, recognizing that interconnection was coming, Congress granted FERC jurisdiction over transportation of electric energy in interstate commerce without limitation."
+                },
+                {
+                    "start": 1475.544,
+                    "stop": 1497.127,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It gave them, without limitation, authority over transportation of energy, but not without limitation authority over sale of energy."
+                },
+                {
+                    "start": 1497.127,
+                    "stop": 1501.282,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Isn't that an essential part of your argument? Well, where does it where does it..."
+                },
+                {
+                    "start": 1501.282,
+                    "stop": 1531.651,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "the States have plenary power to regulate who may serve their retail customers and at what rates and at what and on what other terms and conditions."
+                },
+                {
+                    "start": 1531.651,
+                    "stop": 1532.538,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What do you mean sa-"
+                },
+                {
+                    "start": 1532.538,
+                    "stop": 1542.32,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "take into account? I thought you're saying that that FERC has the power to determine a a a component of the retail sale."
+                },
+                {
+                    "start": 1542.32,
+                    "stop": 1543.669,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It has the power to..."
+                },
+                {
+                    "start": 1543.669,
+                    "stop": 1574.327,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "determine the the cost of transmission of electricity insofar as that and and and and that may be one of the costs that the retail utility i- incurs for which the retail utility has the right under State law to recover."
+                },
+                {
+                    "start": 1574.327,
+                    "stop": 1574.984,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 1574.984,
+                    "stop": 1575.78,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the transmission..."
+                },
+                {
+                    "start": 1575.78,
+                    "stop": 1580.911,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "has authority to regulate the the wholesale sale."
+                },
+                {
+                    "start": 1580.911,
+                    "stop": 1585.618,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "sale. I mean, yeah, but transmission..."
+                },
+                {
+                    "start": 1585.618,
+                    "stop": 1591.317,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "by the statute, as I read it, is separated from sale."
+                },
+                {
+                    "start": 1591.317,
+                    "stop": 1592.11,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Where are you reading f-"
+                },
+                {
+                    "start": 1592.11,
+                    "stop": 1600.495,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm reading from B one."
+                },
+                {
+                    "start": 1600.495,
+                    "stop": 1604.285,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's eight twenty-four..."
+                },
+                {
+                    "start": 1604.285,
+                    "stop": 1607.632,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Six, sixteen. Yes."
+                },
+                {
+                    "start": 1607.632,
+                    "stop": 1630.114,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The provisions of this chapter shall apply to the transmission of electric energy in interstate commerce."
+                },
+                {
+                    "start": 1630.114,
+                    "stop": 1630.456,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's..."
+                },
+                {
+                    "start": 1630.456,
+                    "stop": 1641.227,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "drawing a dichotomy between transmission and sale."
+                },
+                {
+                    "start": 1641.227,
+                    "stop": 1699.719,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And we have stressed whereas the s- the the the nine States have tried to blur this distinction, we have stressed the distinction between FERC's jurisdiction over transmission and FERC's jurisdiction over wholesale sales."
+                },
+                {
+                    "start": 1699.719,
+                    "stop": 1700.926,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Must be taken into account."
+                },
+                {
+                    "start": 1700.926,
+                    "stop": 1720.567,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "is i- i- is, n- does not encroach upon the States' retail sale authority, but it is something that the States must respect in setting retail rates, so FERC's regulation of the cost of transmission."
+                },
+                {
+                    "start": 1720.567,
+                    "stop": 1741.502,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But FERC's regulation of the cost of of of interstate transmission at wholesale comes about not because of its authority over the transmission of el- of electric energy, but because of its authority over the sale of electric energy at wholesale."
+                },
+                {
+                    "start": 1741.502,
+                    "stop": 1746.495,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "to take that into a- I, Yes. I don't I don't agree with that. that that..."
+                },
+                {
+                    "start": 1746.495,
+                    "stop": 1748.289,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "that is that is the statutory..."
+                },
+                {
+                    "start": 1748.289,
+                    "stop": 1749.575,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah. The statute..."
+                },
+                {
+                    "start": 1749.575,
+                    "stop": 1758.114,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "says, shall apply to transmission of electric energy in interstate commerce."
+                },
+                {
+                    "start": 1758.114,
+                    "stop": 1761.391,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well it says, doesn't it? and, two,"
+                },
+                {
+                    "start": 1761.391,
+                    "stop": 1768.856,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the sale of electric energy at wholesale in interstate commerce, which you take to be a second grant of authority."
+                },
+                {
+                    "start": 1768.856,
+                    "stop": 1770.748,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, and the basic..."
+                },
+                {
+                    "start": 1770.748,
+                    "stop": 1794.432,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The basic structure of our argument is that just as your opinion for the Court, Justice O'Connor, explained in Nantahala, that m- the States must take into account the wholesale cost of energy, so the States can be required to to take into account FERC's regulation of transmission..."
+                },
+                {
+                    "start": 1794.432,
+                    "stop": 1804.337,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What difference does it make whether the transmission component is bundled or unbundled at retail sale?"
+                },
+                {
+                    "start": 1804.337,
+                    "stop": 1827.812,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We don't think it should make any because transmissions , whether for wholesale or retail, whether bundled or unbundled, compete for use of the interstate grid."
+                },
+                {
+                    "start": 1827.812,
+                    "stop": 1828.942,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Can you sell at..."
+                },
+                {
+                    "start": 1828.942,
+                    "stop": 1835.546,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "retail in States which are which are un- bundled?"
+                },
+                {
+                    "start": 1835.546,
+                    "stop": 1836.893,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely not."
+                },
+                {
+                    "start": 1836.893,
+                    "stop": 1837.899,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What we want..."
+                },
+                {
+                    "start": 1837.899,
+                    "stop": 1840.097,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "then why is there then why is there a problem?"
+                },
+                {
+                    "start": 1840.097,
+                    "stop": 1860.546,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because what we want the right to do is to use the transmission system through those States without the retail the traditional monopoly utility that owns the facilities in those States being able to hog those facilities for its own use and keep us off the road."
+                },
+                {
+                    "start": 1860.546,
+                    "stop": 1862.151,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "let me try an example."
+                },
+                {
+                    "start": 1862.151,
+                    "stop": 1865.596,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "trying to reach retail..."
+                },
+                {
+                    "start": 1865.596,
+                    "stop": 1891.476,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Even though we're not trying to reach retail customers, we may be trying to sell e- energy to the utility in Minneso- in in in in in Wisconsin."
+                },
+                {
+                    "start": 1891.476,
+                    "stop": 1893.146,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The traditional..."
+                },
+                {
+                    "start": 1893.146,
+                    "stop": 1895.857,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "then that wholesale sale can be regulated."
+                },
+                {
+                    "start": 1895.857,
+                    "stop": 1927.322,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The wholesale sale can be regulated, but the traditional utility in Minnesota, which owns the facilities and mostly makes bundled retail sales to its customers in Minnesota, can say, our bundled retail sales are not subject to FERC's OATT."
+                },
+                {
+                    "start": 1927.322,
+                    "stop": 1927.756,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm..."
+                },
+                {
+                    "start": 1927.756,
+                    "stop": 1948.732,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "very surprised that FERC is saying that they have no jurisdiction over that."
+                },
+                {
+                    "start": 1948.732,
+                    "stop": 1950.386,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "of this statute, isn't it?"
+                },
+                {
+                    "start": 1950.386,
+                    "stop": 1958.946,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if B puts something up on those lines that blocks the transmission, I'm very surprised that FERC would say they don't have jurisdiction to stop..."
+                },
+                {
+                    "start": 1958.946,
+                    "stop": 1959.509,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, we were a..."
+                },
+                {
+                    "start": 1959.509,
+                    "stop": 1960.873,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "little surprised too."
+                },
+                {
+                    "start": 1960.873,
+                    "stop": 1962.756,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's what this case is about in your view."
+                },
+                {
+                    "start": 1962.756,
+                    "stop": 1971.866,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "From our s- from our standpoint, that's what our side of this case is about."
+                },
+                {
+                    "start": 1971.866,
+                    "stop": 1972.573,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "They said..."
+                },
+                {
+                    "start": 1972.573,
+                    "stop": 1976.855,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that would be an interference with the transmission, not with the sale."
+                },
+                {
+                    "start": 1976.855,
+                    "stop": 1978.472,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "authority over that because they have..."
+                },
+                {
+                    "start": 1978.472,
+                    "stop": 1979.23,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "have authority over..."
+                },
+                {
+                    "start": 1979.23,
+                    "stop": 1980.152,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "transmission,"
+                },
+                {
+                    "start": 1980.152,
+                    "stop": 1982.312,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "both interstate and intrastate."
+                },
+                {
+                    "start": 1982.312,
+                    "stop": 2011.229,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "All that I'm asking the Court to say is that FERC has the ability to a-, the jurisdiction to apply its general open access transmission tariff not only to our sales a- f- at wholesale and to s- but but also to the bundled retail sales that compete with us for use of the o- of the transmission grids."
+                },
+                {
+                    "start": 2011.229,
+                    "stop": 2023.78,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if if the , FERC can regulate your transmissions and you go to FERC and say, you know, our transmissions are being blocked, why can't they say, we will exercise jurisdiction over y- y- your transmission and we will unblock you?"
+                },
+                {
+                    "start": 2023.78,
+                    "stop": 2075.288,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice Kennedy, the the answer to that i- is, first of all, that it's it's not just blockage."
+                },
+                {
+                    "start": 2075.288,
+                    "stop": 2075.983,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "transmission."
+                },
+                {
+                    "start": 2075.983,
+                    "stop": 2087.782,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "thought you wanted the particular reg there's a particular reg that New York has been talking about, and I thought you wanted that applied to the , a- bundled sales as well."
+                },
+                {
+                    "start": 2087.782,
+                    "stop": 2089.291,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "e- Particular regulation."
+                },
+                {
+                    "start": 2089.291,
+                    "stop": 2089.645,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 2089.645,
+                    "stop": 2090.1,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2090.1,
+                    "stop": 2099.108,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And and and and that seems to me a different issue than somebody climbing up a pole, for example, and cutting the wire so that you can't get your electricity between State A and State..."
+                },
+                {
+                    "start": 2099.108,
+                    "stop": 2099.557,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "C."
+                },
+                {
+                    "start": 2099.557,
+                    "stop": 2148.426,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "the ideal example is the curtailment example."
+                },
+                {
+                    "start": 2148.426,
+                    "stop": 2149.801,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "customers, and that's..."
+                },
+                {
+                    "start": 2149.801,
+                    "stop": 2158.435,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Government to determine which which will be the emergency users and the preferred users in each State and locality."
+                },
+                {
+                    "start": 2158.435,
+                    "stop": 2161.184,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "We want the Federal Government..."
+                },
+                {
+                    "start": 2161.184,
+                    "stop": 2188.755,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "to regulate the transmission of electric energy in interstate commerce, and that has become a more complicated problem than it was in nineten thirty-five."
+                },
+                {
+                    "start": 2188.755,
+                    "stop": 2199.308,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's always been a product."
+                },
+                {
+                    "start": 2199.308,
+                    "stop": 2202.516,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's it's it's a lesser percentage now than it used to..."
+                },
+                {
+                    "start": 2202.516,
+                    "stop": 2207.038,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "on average it's now about it's now about ten percent."
+                },
+                {
+                    "start": 2207.038,
+                    "stop": 2217.185,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know about you, but when I look at my utility rate, it's a very small amount for transmission and a substantially larger amount for the energy."
+                },
+                {
+                    "start": 2217.185,
+                    "stop": 2254.814,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is."
+                },
+                {
+                    "start": 2254.814,
+                    "stop": 2275.578,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't even see how this works."
+                },
+                {
+                    "start": 2275.578,
+                    "stop": 2280.012,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in order to have the the the electricity flows..."
+                },
+                {
+                    "start": 2280.012,
+                    "stop": 2282.771,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the the the power flows generally over the system, but..."
+                },
+                {
+                    "start": 2282.771,
+                    "stop": 2306.682,
+                    "speaker": {
+                        "name": "Louis R. Cohen",
+                        "ID": 34284,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "but in order to have the right to turn on, to ramp up your generator to to produce some additional electricity which your customer a- a- a- at a time when your customer is going to take electricity off the system at some other point, y- you need to have a contractual arrangement or other right to do that."
+                },
+                {
+                    "start": 2306.682,
+                    "stop": 2308.261,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Justice."
+                },
+                {
+                    "start": 2308.261,
+                    "stop": 2309.901,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, we'll hear from you."
+                }
+            ],
+            "start": 1114.364,
+            "stop": 2417.481
+        },
+        {
+            "turns": [
+                {
+                    "start": 2309.901,
+                    "stop": 2417.481,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court."
+                },
+                {
+                    "start": 2417.481,
+                    "stop": 2446.019,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, it it if I understand it correctly, it is i- the position of the agency hinges on the proposition that the the power conferred by by section eight twenty-four to regulate the transmission of electrical energy includes includes the power to regulate the sale of the transmission of elec- electrical energy."
+                },
+                {
+                    "start": 2446.019,
+                    "stop": 2447.116,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Isn't that what..."
+                },
+                {
+                    "start": 2447.116,
+                    "stop": 2448.404,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "the sale of the transmission,"
+                },
+                {
+                    "start": 2448.404,
+                    "stop": 2449.97,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The sale of the transmission."
+                },
+                {
+                    "start": 2449.97,
+                    "stop": 2452.446,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "does not in- what it does not include is the retail sale."
+                },
+                {
+                    "start": 2452.446,
+                    "stop": 2499.572,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, if that were true, it seems to me that eight twenty-four B one, instead of reading the way it does, should read this way, The provisions of this subchapter shall apply to the transmission of electric energy in interstate commerce which would include the sale of that transmission, right? And to the sale of the commodity portion of electrical energy at wholesale in interstate commerce."
+                },
+                {
+                    "start": 2499.572,
+                    "stop": 2500.343,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well th-"
+                },
+                {
+                    "start": 2500.343,
+                    "stop": 2501.012,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And but..."
+                },
+                {
+                    "start": 2501.012,
+                    "stop": 2509.087,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "so, it should have gone on to say, and to the sale of the of the commodity at wholesale in interstate commerce."
+                },
+                {
+                    "start": 2509.087,
+                    "stop": 2511.678,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But th- but that is what it says I believe because..."
+                },
+                {
+                    "start": 2511.678,
+                    "stop": 2608.947,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "electric energy is the commodity."
+                },
+                {
+                    "start": 2608.947,
+                    "stop": 2610.172,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "FERC, that's been..."
+                },
+                {
+                    "start": 2610.172,
+                    "stop": 2614.249,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm sorry."
+                },
+                {
+                    "start": 2614.249,
+                    "stop": 2615.018,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "B one?"
+                },
+                {
+                    "start": 2615.018,
+                    "stop": 2631.199,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "B one, yes."
+                },
+                {
+                    "start": 2631.199,
+                    "stop": 2632.273,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And and and you think..."
+                },
+                {
+                    "start": 2632.273,
+                    "stop": 2644.782,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that that sale of electric energy at wholesale in in the first portion of it, in in one, only referred to the sale of regulating the sale of the commodity at wholesale."
+                },
+                {
+                    "start": 2644.782,
+                    "stop": 2655.946,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, yes, but it, but for example, in setting a wholesale cost or excuse me a wholesale rate, FERC could take into account the costs of transmission..."
+                },
+                {
+                    "start": 2655.946,
+                    "stop": 2656.592,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Because..."
+                },
+                {
+                    "start": 2656.592,
+                    "stop": 2658.601,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "wholesale rate, just as the State could."
+                },
+                {
+                    "start": 2658.601,
+                    "stop": 2659.144,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Because of its..."
+                },
+                {
+                    "start": 2659.144,
+                    "stop": 2661.544,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "authority over the transmission of energy."
+                },
+                {
+                    "start": 2661.544,
+                    "stop": 2685.71,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Either one."
+                },
+                {
+                    "start": 2685.71,
+                    "stop": 2687.074,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "transmission service."
+                },
+                {
+                    "start": 2687.074,
+                    "stop": 2708.692,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "very unrealistic reading of what Congress thought it was doing when it wrote this thing, that that when it when it spoke of the sale of electric energy at wholesale in interstate commerce, it had in mind only only the sale of the the the commodity and not the sale of, you know, the transmission and the entire cost."
+                },
+                {
+                    "start": 2708.692,
+                    "stop": 2724.381,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, absolute-."
+                },
+                {
+                    "start": 2724.381,
+                    "stop": 2724.803,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "part of it."
+                },
+                {
+                    "start": 2724.803,
+                    "stop": 2743.887,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "can't say that because if if you say that that that that that that the reason you have that authority is because of the phrase, the sale of electric energy at wholesale, you would also have to say that in the very next phrase, the sale of elect- electric energy any other sale of electric energy, sale at retail, would also include the transmission component."
+                },
+                {
+                    "start": 2743.887,
+                    "stop": 2745.125,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay, and if I can..."
+                },
+                {
+                    "start": 2745.125,
+                    "stop": 2747.298,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "to exclude the transmission component from both of..."
+                },
+                {
+                    "start": 2747.298,
+                    "stop": 2748.391,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "them it seems to me."
+                },
+                {
+                    "start": 2748.391,
+                    "stop": 2760.088,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "if if I could answer that."
+                },
+                {
+                    "start": 2760.088,
+                    "stop": 2760.566,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I don't think..."
+                },
+                {
+                    "start": 2760.566,
+                    "stop": 2761.791,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that's unquestionable at all."
+                },
+                {
+                    "start": 2761.791,
+                    "stop": 2891.662,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But well, it's it's an independent grant of authority."
+                },
+                {
+                    "start": 2891.662,
+                    "stop": 2910.772,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, suppose you have have a condition, as des- described by u- uh counsel for Enron, and they say, we just can't transmit our gas through this State."
+                },
+                {
+                    "start": 2910.772,
+                    "stop": 2913.101,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yeah, we, absolutely."
+                },
+                {
+                    "start": 2913.101,
+                    "stop": 2913.938,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "FERC's..."
+                },
+                {
+                    "start": 2913.938,
+                    "stop": 2915.161,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "discretionary..."
+                },
+                {
+                    "start": 2915.161,
+                    "stop": 2916.954,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "yeah, Well, there are..."
+                },
+                {
+                    "start": 2916.954,
+                    "stop": 2952.606,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "two different things, and I and I think it was maybe you who put the question."
+                },
+                {
+                    "start": 2952.606,
+                    "stop": 2954.829,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "been handled so, but but that..."
+                },
+                {
+                    "start": 2954.829,
+                    "stop": 2961.517,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "different things."
+                },
+                {
+                    "start": 2961.517,
+                    "stop": 2963.043,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right. And and as..."
+                },
+                {
+                    "start": 2963.043,
+                    "stop": 2963.801,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that you have that?"
+                },
+                {
+                    "start": 2963.801,
+                    "stop": 2970.988,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yea- w-, We n-- don't just concede, we affirmatively assert that we do have authority."
+                },
+                {
+                    "start": 2970.988,
+                    "stop": 2971.948,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "States..."
+                },
+                {
+                    "start": 2971.948,
+                    "stop": 2974.152,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "jurisdiction case."
+                },
+                {
+                    "start": 2974.152,
+                    "stop": 2978.749,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not in that respect, no, because I I think that all that,"
+                },
+                {
+                    "start": 2978.749,
+                    "stop": 2980.113,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "with respect to this order..."
+                },
+                {
+                    "start": 2980.113,
+                    "stop": 2992.72,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "objection to our saying and I don't know quite how we'd say it, that the FCC has jurisdiction over transmissions of bundled sales at retail."
+                },
+                {
+                    "start": 2992.72,
+                    "stop": 3017.547,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, l- let me let me just modify that with in in one respect."
+                },
+                {
+                    "start": 3017.547,
+                    "stop": 3018.343,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "service..."
+                },
+                {
+                    "start": 3018.343,
+                    "stop": 3021.965,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "just a two-step pro- say, you s- say, first, unbundle, and now that you've unbundled,"
+                },
+                {
+                    "start": 3021.965,
+                    "stop": 3023.883,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "we're going to regulate it. Th- that's..."
+                },
+                {
+                    "start": 3023.883,
+                    "stop": 3030.312,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Exa- and and the court of ap- the, and the, what the cou- the court of appeals analysis in this case essentially looked at the at the at the..."
+                },
+                {
+                    "start": 3030.312,
+                    "stop": 3031.171,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "transaction..."
+                },
+                {
+                    "start": 3031.171,
+                    "stop": 3041.259,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "we can get back to my quest-."
+                },
+                {
+                    "start": 3041.259,
+                    "stop": 3077.065,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3077.065,
+                    "stop": 3077.586,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And that..."
+                },
+                {
+                    "start": 3077.586,
+                    "stop": 3091.965,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "jurisdiction is is thought of in in in constitutional terms, I, th- the answer is pretty clear."
+                },
+                {
+                    "start": 3091.965,
+                    "stop": 3093.829,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I believe FERC does. I..."
+                },
+                {
+                    "start": 3093.829,
+                    "stop": 3094.805,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe FERC does."
+                },
+                {
+                    "start": 3094.805,
+                    "stop": 3096.153,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I mean, that's essentially what FERC..."
+                },
+                {
+                    "start": 3096.153,
+                    "stop": 3098.342,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "ultimately did in the natural gas area."
+                },
+                {
+                    "start": 3098.342,
+                    "stop": 3099.681,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But aren't aren't you..."
+                },
+                {
+                    "start": 3099.681,
+                    "stop": 3114.221,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "but l- let me be clear."
+                },
+                {
+                    "start": 3114.221,
+                    "stop": 3115.852,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the traditional... What FERC has..."
+                },
+                {
+                    "start": 3115.852,
+                    "stop": 3127.968,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "puzzled because I th- I mu- I must have misread the papers."
+                },
+                {
+                    "start": 3127.968,
+                    "stop": 3131.277,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "wants it to take. Yes."
+                },
+                {
+                    "start": 3131.277,
+                    "stop": 3167.966,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That that may well have been an an an implicit understanding of FERC, but if you look at the order, it actually never says that."
+                },
+                {
+                    "start": 3167.966,
+                    "stop": 3168.812,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "permissible..."
+                },
+                {
+                    "start": 3168.812,
+                    "stop": 3185.763,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "position of the Government is, in respect to Enron's case, not New York's, Enron is right."
+                },
+                {
+                    "start": 3185.763,
+                    "stop": 3187.882,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "what happened here. That, is that..."
+                },
+                {
+                    "start": 3187.882,
+                    "stop": 3189.271,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "is that your position or not?"
+                },
+                {
+                    "start": 3189.271,
+                    "stop": 3204.364,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Th-, I I I cannot speak for FERC on that question because FERC did not address that in this order."
+                },
+                {
+                    "start": 3204.364,
+                    "stop": 3245.631,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I want to know what I I have an argument in some briefs made by Enron , and perhaps I misread them and I'll go back to them."
+                },
+                {
+                    "start": 3245.631,
+                    "stop": 3298.972,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, i- if there are really two points about FERC's power here, or a- authority here and that that that I would would like to separate."
+                },
+                {
+                    "start": 3298.972,
+                    "stop": 3300.267,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "any impediments to use..."
+                },
+                {
+                    "start": 3300.267,
+                    "stop": 3330.695,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "how do I answer this question from your question presented? Number two, in oh oh eight oh nine, the question presented is whether the court of appeals properly deferred to the commission's determination that it lacks jurisdiction over retail transmission service that is sold together with electric energy in a single bundled transaction, et cetera."
+                },
+                {
+                    "start": 3330.695,
+                    "stop": 3331.618,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "properly defer?"
+                },
+                {
+                    "start": 3331.618,
+                    "stop": 3341.278,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "did properly defer because the predicate is that there is a single transaction."
+                },
+                {
+                    "start": 3341.278,
+                    "stop": 3343.277,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "of the one bundled transaction."
+                },
+                {
+                    "start": 3343.277,
+                    "stop": 3369.793,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that i- a- are you drawing this line? You're saying that FERC has the authority to order unbundling."
+                },
+                {
+                    "start": 3369.793,
+                    "stop": 3384.687,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3384.687,
+                    "stop": 3385.557,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "and under the..."
+                },
+                {
+                    "start": 3385.557,
+                    "stop": 3402.129,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "saying that you see nothing in the act that would prevent FERC from doing just what Mr. Cohen wants it to do so long as it takes two steps, so long as it orders unbundling first."
+                },
+                {
+                    "start": 3402.129,
+                    "stop": 3406.651,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I- i- i- Assuming that FERC has this authority as they stated, they didn't disclaim it, but FERC in this order..."
+                },
+                {
+                    "start": 3406.651,
+                    "stop": 3409.669,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "did not did not stress that. I'm a I'm a I'm a I see..."
+                },
+                {
+                    "start": 3409.669,
+                    "stop": 3413.331,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "nothing in in the act in the parallel provisions of the Natural Gas Act..."
+                },
+                {
+                    "start": 3413.331,
+                    "stop": 3432.945,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, a- a- again, r- referring to the question presented that you drafted, question two, the question presented is whether the court of appeals properly referred to the commission's determination that it lacks jurisdiction over retail transmission."
+                },
+                {
+                    "start": 3432.945,
+                    "stop": 3442.057,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "i- But the rest of the question is, when it is sold together with electric energy in a single bundled transaction."
+                },
+                {
+                    "start": 3442.057,
+                    "stop": 3443.851,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "transaction that exists by..."
+                },
+                {
+                    "start": 3443.851,
+                    "stop": 3446.554,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "yes, it lacks jurisdiction."
+                },
+                {
+                    "start": 3446.554,
+                    "stop": 3447.59,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, yes."
+                },
+                {
+                    "start": 3447.59,
+                    "stop": 3449.736,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "In that circumstance. Therefore,"
+                },
+                {
+                    "start": 3449.736,
+                    "stop": 3472.273,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "when Mr. Cohen put the example that he did of a grid, and the grid covers several States, and there are many sales for wholesales between sales for resale between A and C and D and F, but there's one in the middle, C, where it in fact is all bundled."
+                },
+                {
+                    "start": 3472.273,
+                    "stop": 3472.573,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 3472.573,
+                    "stop": 3492.39,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And and if in fact they are scheduling deliveries, the State commission, in that C so that the wrong people are getting the energy and so that the wholesales the sales for resale in A, E, and F are all mucked up, the answer is, of course, the commission has jurisdiction..."
+                },
+                {
+                    "start": 3492.39,
+                    "stop": 3494.473,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. Yes. Absolutely."
+                },
+                {
+                    "start": 3494.473,
+                    "stop": 3511.844,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Even even even under Order eight eighty-eight, and a- what Order eight eighty-eight does is decline to extend the plenary rate jurisdi- the plenary jurisdiction of Order eight eighty-eight itself over the transmission component of..."
+                },
+                {
+                    "start": 3511.844,
+                    "stop": 3513.107,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "bundled sales."
+                },
+                {
+                    "start": 3513.107,
+                    "stop": 3536.315,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "thing it doesn't have jurisdiction over, in your opinion, is to make this kind of nondiscriminatory order applicable in our middle State C where the transactions are all run from generating to distribution to transmission, everything is run by one company, P G and E."
+                },
+                {
+                    "start": 3536.315,
+                    "stop": 3538.576,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right. The Right. As long as they..."
+                },
+                {
+                    "start": 3538.576,
+                    "stop": 3545.935,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "as long as they are bun- as long as the State hasn't unbundled it, the utility has not unbundled it, and FERC has not exercised whatever authority it would have..."
+                },
+                {
+                    "start": 3545.935,
+                    "stop": 3546.981,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "to unbundle it..."
+                },
+                {
+                    "start": 3546.981,
+                    "stop": 3548.989,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Even though they are in the grid."
+                },
+                {
+                    "start": 3548.989,
+                    "stop": 3550.467,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "See, I didn't know that..."
+                },
+                {
+                    "start": 3550.467,
+                    "stop": 3586.67,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "let me let me let me make let make clear."
+                },
+                {
+                    "start": 3586.67,
+                    "stop": 3587.866,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So and your reason,"
+                },
+                {
+                    "start": 3587.866,
+                    "stop": 3606.06,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "as I interpret it, in a sentence is if we go back to nineteen thirty-five, even if the New York situation was something they never would have dreamt of, the Enron situation is something that they certainly did dream of."
+                },
+                {
+                    "start": 3606.06,
+                    "stop": 3606.894,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "They..."
+                },
+                {
+                    "start": 3606.894,
+                    "stop": 3607.627,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "covering that."
+                },
+                {
+                    "start": 3607.627,
+                    "stop": 3612.085,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 3612.085,
+                    "stop": 3613.607,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I right? Don't say I'm right if I'm not."
+                },
+                {
+                    "start": 3613.607,
+                    "stop": 3617.413,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3617.413,
+                    "stop": 3621.481,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where? Where where where does the statute you you say the statute leaves the retail rates."
+                },
+                {
+                    "start": 3621.481,
+                    "stop": 3622.975,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "are you referring to?"
+                },
+                {
+                    "start": 3622.975,
+                    "stop": 3628.199,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "in the clause in two oh one B that you were referring to, shall not apply to any other sale of electric energy."
+                },
+                {
+                    "start": 3628.199,
+                    "stop": 3628.502,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 3628.502,
+                    "stop": 3640.225,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is leaving to the States the the authority to set the rates for the retail sale of electric energy, which is essentially what was left to them under the Pennsylvania Gas case as a as a matter of the Interstate Commerce Clause."
+                },
+                {
+                    "start": 3640.225,
+                    "stop": 3682.137,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, would you please clarify what FERC has no jurisdiction that is, no authority Congress gave them no authority to do what versus what they can do or decline to do as a matter of policy? As I read Judge Sentelle's portion of the per curiam opinion, those two were put together, and they're two quite different things."
+                },
+                {
+                    "start": 3682.137,
+                    "stop": 3708.585,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I I think what is no power is where the the transaction remains bundled, FERC may characterize that in the same way that it has always been treated, as as a single retail rate, and that FERC cannot require, as long as the transaction remains bundled, that the that that a separate cost component for retail transmission be stated."
+                },
+                {
+                    "start": 3708.585,
+                    "stop": 3711.794,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean ma-? You say, may characterize it."
+                },
+                {
+                    "start": 3711.794,
+                    "stop": 3712.969,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Y- Yes."
+                },
+                {
+                    "start": 3712.969,
+                    "stop": 3713.31,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "point."
+                },
+                {
+                    "start": 3713.31,
+                    "stop": 3715.546,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "if you're going to say it has no power, you have to say must..."
+                },
+                {
+                    "start": 3715.546,
+                    "stop": 3717.782,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "characterize it, not may characterize it."
+                },
+                {
+                    "start": 3717.782,
+                    "stop": 3728.206,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I I don't have to say it depends what you mean by must because the cou- the the co- the court of appeals did not say that was the only way to read the statute."
+                },
+                {
+                    "start": 3728.206,
+                    "stop": 3729.899,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "have as a statue of appeal..."
+                },
+                {
+                    "start": 3729.899,
+                    "stop": 3741.322,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you- your your position, and it's it's it's a very odd answer to a question to say that we may say we may have no jurisdiction, I've, we have no jurisdiction."
+                },
+                {
+                    "start": 3741.322,
+                    "stop": 3742.473,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "jurisdiction."
+                },
+                {
+                    "start": 3742.473,
+                    "stop": 3794.882,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "point."
+                },
+                {
+                    "start": 3794.882,
+                    "stop": 3803.758,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If you have the power to characterize it one way or the other, it seems to me you have the power to assert jurisdiction."
+                },
+                {
+                    "start": 3803.758,
+                    "stop": 3805.236,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "jurisdiction."
+                },
+                {
+                    "start": 3805.236,
+                    "stop": 3812.805,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "matter, FERC has has concluded has construed the statute not to authorize it to under Chevron, the the the agency..."
+                },
+                {
+                    "start": 3812.805,
+                    "stop": 3814.144,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "could go either way."
+                },
+                {
+                    "start": 3814.144,
+                    "stop": 3816.661,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "done differently, it could move in to regulate it all."
+                },
+                {
+                    "start": 3816.661,
+                    "stop": 3827.813,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But but FERC has con- now construed the statute, in a statutorily permissible way, that does not give it jurisdiction over the transmission component of bundled retail sales."
+                },
+                {
+                    "start": 3827.813,
+                    "stop": 3830.065,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "May I ask this question?"
+                },
+                {
+                    "start": 3830.065,
+                    "stop": 3834.594,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the power on that reading unless Congress gave it to them."
+                },
+                {
+                    "start": 3834.594,
+                    "stop": 3834.988,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right,"
+                },
+                {
+                    "start": 3834.988,
+                    "stop": 3859.3,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "as long as the transaction remains bundled."
+                },
+                {
+                    "start": 3859.3,
+                    "stop": 3860.641,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "which..."
+                },
+                {
+                    "start": 3860.641,
+                    "stop": 3880.9,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you this question? If we assume we assume that the commission has said that they do not have jurisdiction when the transaction remains bundled, because it wasn't voluntarily unbundled or compelled to be unbundled by State or Federal authority."
+                },
+                {
+                    "start": 3880.9,
+                    "stop": 3881.62,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "jurisdiction?"
+                },
+                {
+                    "start": 3881.62,
+                    "stop": 3940.135,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "think I think FERC would have great authority in deciding how to identify discrimination and how to deal with it."
+                },
+                {
+                    "start": 3940.135,
+                    "stop": 3941.304,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's all at the sufferance of..."
+                },
+                {
+                    "start": 3941.304,
+                    "stop": 3953.591,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "FERC, however."
+                },
+                {
+                    "start": 3953.591,
+                    "stop": 3982.195,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I I the- there may well be limitations on that because, among other things, the the the act preserves to the States the authority over local distribution systems and over retail rates."
+                },
+                {
+                    "start": 3982.195,
+                    "stop": 3983.501,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "power a- allocation..."
+                },
+                {
+                    "start": 3983.501,
+                    "stop": 3996.548,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "has has determined, after a hearing, that there is discrimination going on in the allocation of transmission services, must it then order a remedy?"
+                },
+                {
+                    "start": 3996.548,
+                    "stop": 4005.97,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think if it finds discrimination, it has to order appropriate relief."
+                },
+                {
+                    "start": 4005.97,
+                    "stop": 4018.122,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And are there still some intrastate electric producers that also transmit their energy totally within the State and FERC has no jurisdiction over..."
+                },
+                {
+                    "start": 4018.122,
+                    "stop": 4019.538,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "that at all?"
+                },
+                {
+                    "start": 4019.538,
+                    "stop": 4025.844,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "if they if you- if a util- if such utility is connected to the grid, it cannot transmit..."
+                },
+                {
+                    "start": 4025.844,
+                    "stop": 4027.093,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But probably..."
+                },
+                {
+                    "start": 4027.093,
+                    "stop": 4029.088,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "there are some that are not connected..."
+                },
+                {
+                    "start": 4029.088,
+                    "stop": 4030.149,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Very, I'm informed..."
+                },
+                {
+                    "start": 4030.149,
+                    "stop": 4083.442,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "by FERC that there are virtually none anymore, and that that that while the the act does preserve intrastate transmission to the to the States, there's virtually none that isn't connected to the grid."
+                },
+                {
+                    "start": 4083.442,
+                    "stop": 4085.304,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "remain..."
+                },
+                {
+                    "start": 4085.304,
+                    "stop": 4093.886,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "regulates a bundled retail sale, it is, in, all, for all practical purposes, in part regulating transmission?"
+                },
+                {
+                    "start": 4093.886,
+                    "stop": 4111.836,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would say it is not regulating transmission, and and I and I think that that is what the Court said in in Pennsylvania in Pennsylvania Gas."
+                },
+                {
+                    "start": 4111.836,
+                    "stop": 4115.108,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Kneedler."
+                }
+            ],
+            "start": 4115.108,
+            "stop": 4116.194
+        }
+    ]
+}

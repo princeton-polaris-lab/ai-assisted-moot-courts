@@ -1,0 +1,3013 @@
+{
+    "title": "Rousey v. Jacoway",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 7.826,
+                    "stop": 33.231,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Justice Stevens, and may it please the Court: Yesterday in Koons Buick against Nigh, this Court emphasized once again that statutory interpretation is a holistic process based on common sense, that the reading of the statute should look at all the words to avoid a passing strange or an anomalous result when the text does not dictate it and the statutory history suggests otherwise."
+                },
+                {
+                    "start": 33.231,
+                    "stop": 34.947,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was a case I dissented in, wasn't it?"
+                },
+                {
+                    "start": 34.947,
+                    "stop": 39.444,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, but actually, Justice Scalia, I think even you will find our case more appealing."
+                },
+                {
+                    "start": 39.444,
+                    "stop": 43.625,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but... but it is true you have a strong textual--"
+                },
+                {
+                    "start": 43.625,
+                    "stop": 45.808,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We have an excellent textual argument."
+                },
+                {
+                    "start": 45.808,
+                    "stop": 48.734,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I was a little bit surprised at your opening because it seems to me you have a strong textual argument you're now defending."
+                },
+                {
+                    "start": 48.734,
+                    "stop": 53.873,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We do. A holistic reading of the text shows that section 522(d)(10)(E) of the Bankruptcy Code--"
+                },
+                {
+                    "start": 53.873,
+                    "stop": 56.034,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What does a holistic reading mean? Can you stay within the--"
+                },
+                {
+                    "start": 56.034,
+                    "stop": 56.913,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely."
+                },
+                {
+                    "start": 56.913,
+                    "stop": 57.599,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--text and still be holistic?"
+                },
+                {
+                    "start": 57.599,
+                    "stop": 65.998,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm not going to look outside the text at all. A holistic reading of section 522(d)(10)(E) of the Bankruptcy Code, which is on... in the petitioners' brief at pages 1 through 2--"
+                },
+                {
+                    "start": 65.998,
+                    "stop": 67.389,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What does the word holistic mean? [Laughter]"
+                },
+                {
+                    "start": 67.389,
+                    "stop": 90.386,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think it means read all the words in the sense that makes the most sense to you rather than plucking words at random or rather than looking at a word artificially. For example, when you look at a phrase like on account of in the Bankruptcy Code, as the Court did in North LaSalle, account means a lot of different things, but there it clearly meant because of, as it does in this statute."
+                },
+                {
+                    "start": 90.386,
+                    "stop": 93.08,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the antonym would be parsimonious or something like that?"
+                },
+                {
+                    "start": 93.08,
+                    "stop": 95.455,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it'd be partial, but I'm not sure."
+                },
+                {
+                    "start": 95.455,
+                    "stop": 96.315,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let... let me ask--"
+                },
+                {
+                    "start": 96.315,
+                    "stop": 96.735,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure."
+                },
+                {
+                    "start": 96.735,
+                    "stop": 117.849,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--ask you this. The... the statute does say that the right to receive a payment is on account of age, and that seems to me to be an argument somewhat in respondent's favor because the... the payment has to be triggered by the age, if you read it that way, and it seems to me that's a fair way to read it."
+                },
+                {
+                    "start": 117.849,
+                    "stop": 128.116,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, and I think payments are triggered by age because section 522(d)(10)(e) is a statute eminently about the protection in bankruptcy of retirement payments. For individuals--"
+                },
+                {
+                    "start": 128.116,
+                    "stop": 137.525,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the problem for the court below was that the person covered can ask for it in a lump sum and pay a penalty."
+                },
+                {
+                    "start": 137.525,
+                    "stop": 139.501,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right, and that's not--"
+                },
+                {
+                    "start": 139.501,
+                    "stop": 146.956,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And... and that isn't then on the basis of age. Am I right? Is that... that was the problem the court had below."
+                },
+                {
+                    "start": 146.956,
+                    "stop": 168.842,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, that's the problem the court had below. I think it's an illusory problem for the following reason. It's clear that the right to receive full enjoyment of payments under an IRA does not attach until one of the triggering events occurs. The trigger events are age 59 and a half, disability, illness, or for the estate, death. And that's the right that we're talking about here, and that's why--"
+                },
+                {
+                    "start": 168.842,
+                    "stop": 188.681,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, when you say full enjoyment, you... you think when... when I'm taxed on something, I... I don't have full enjoyment of it? The only thing triggered by age, as far as I can tell... the only thing triggered by age... is your obtaining of a tax benefit. That's all. Once you reach a certain age, you can withdraw it without... without paying the 10 percent tax."
+                },
+                {
+                    "start": 188.681,
+                    "stop": 194.574,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, but the 10 percent tax here is designed and does, in fact, operate as a deterrent and a penalty."
+                },
+                {
+                    "start": 194.574,
+                    "stop": 209.278,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm sure it does, but... but it's... it's hard to accept the notion that simply because after a certain age I get a tax benefit, I'm receiving the money on account of my age. That doesn't make any sense to me."
+                },
+                {
+                    "start": 209.278,
+                    "stop": 236.686,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Justice Scalia, the way that I would view that is prior to 59 and a half, you pay a penalty. And Congress put that penalty in there because the holistic sense, the full reading of section 522(d)(10)(e) is it is designed to protect retirement savings, replacement income of the elderly, the disabled, or ill people, once they get to the point where those triggering events, which are in 522(d)(10)(e), occur. Those are the same triggering events--"
+                },
+                {
+                    "start": 236.686,
+                    "stop": 274.169,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Karlan, the... as long as this money was in the plan, it was shielded from bankruptcy, and there are... there was not unlimited access even with the penalty when it was in the plan. One thing that I don't know and may be of some significance, did the Rouseys have a chance, even though they lost their employment, to keep their money in the plan where it would be shielded from bankruptcy or did they have to roll it over?"
+                },
+                {
+                    "start": 274.169,
+                    "stop": 297.183,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Northrop Grumman's policy is to require individuals who leave the company's employment to roll their pension plans into an IRA. The Rouseys tried to get work in Arkansas when they moved there. Had they gotten a job there that they were able to keep, which they were unable to do because of their health, they could have rolled that money back into an undeniably, completely exemptible pension plan."
+                },
+                {
+                    "start": 297.183,
+                    "stop": 297.988,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Another employer's plan."
+                },
+                {
+                    "start": 297.988,
+                    "stop": 298.483,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 298.483,
+                    "stop": 301.425,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they could not have kept it in this employer's plan?"
+                },
+                {
+                    "start": 301.425,
+                    "stop": 308.597,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. This employer did not permit individuals to keep the money in the plan. They were told they had to remove the money when they lost their jobs."
+                },
+                {
+                    "start": 308.597,
+                    "stop": 313.502,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was a term of the plan that it... you can remain in it only so long as you're employed?"
+                },
+                {
+                    "start": 313.502,
+                    "stop": 314.364,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Apparently so."
+                },
+                {
+                    "start": 314.364,
+                    "stop": 331.815,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are there any other plans that are... are entities clearly covered by the statute in which the only effect of age is to enable you to avoid a tax?"
+                },
+                {
+                    "start": 331.815,
+                    "stop": 333.286,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 333.286,
+                    "stop": 334.304,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Well, then--"
+                },
+                {
+                    "start": 334.304,
+                    "stop": 335.309,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Let me give you a couple--"
+                },
+                {
+                    "start": 335.309,
+                    "stop": 335.729,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--then you might persuade me."
+                },
+                {
+                    "start": 335.729,
+                    "stop": 337.174,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Let me give you a couple of examples--"
+                },
+                {
+                    "start": 337.174,
+                    "stop": 337.402,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 337.402,
+                    "stop": 384.908,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that I think will be quite familiar. A 401(k) plan allows you to get access to money before you turn 59 and a half on account of hardship, and you pay a 10 percent tax penalty if you do so. The Federal Government's thrift savings plan for Federal employees allows you to take a loan out of the plan and to pay the interest back into your own account before you turn 59 and a half, thereby essentially giving you free use of the money. If you don't pay the loan back, it's then treated as a... as a distribution, and you pay the 10 percent tax penalty on it. So that if you read this statute to... not to include IRA's, to deny exemption to IRA's, you read this statute to deny exemption to virtually all of the modern forms of defined contribution pension plans or savings plans."
+                },
+                {
+                    "start": 384.908,
+                    "stop": 396.867,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. That was what I was going... aren't most of the pension profit-sharing, stock bonus plans, and annuities similar to the IRA's in terms of allowing withdrawal on the payment of a penalty?"
+                },
+                {
+                    "start": 396.867,
+                    "stop": 398.013,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely, Your Honor."
+                },
+                {
+                    "start": 398.013,
+                    "stop": 411.039,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. I thought they were all in the same boat. So what the effect of this rule is... of the Ninth Circuit is that they would all fail to qualify under the bankruptcy--"
+                },
+                {
+                    "start": 411.039,
+                    "stop": 415.247,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, that's correct. You would render section 522(d)(10)(e) essentially a nullity."
+                },
+                {
+                    "start": 415.247,
+                    "stop": 416.874,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Oh, it's the Eighth Circuit. Excuse me."
+                },
+                {
+                    "start": 416.874,
+                    "stop": 421.339,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. I... I can see why you might have thought it was the Ninth Circuit. [Laughter]"
+                },
+                {
+                    "start": 421.339,
+                    "stop": 424.123,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It... it might be wrong anyway. [Laughter]"
+                },
+                {
+                    "start": 424.123,
+                    "stop": 424.95,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, yes."
+                },
+                {
+                    "start": 424.95,
+                    "stop": 434.304,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the percentage amount of the payments that are taken out of all IRA plans before people are 59 and a half?"
+                },
+                {
+                    "start": 434.304,
+                    "stop": 448.634,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in the Cilek case from the Seventh Circuit, which is cited in our brief, the court there cited statistics that suggested it was between 1.2 and 1.7 percent of funds in IRA's were removed early under the penalty process."
+                },
+                {
+                    "start": 448.634,
+                    "stop": 459.335,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the... the payment here... it says... the statute uses the word payment. So suppose you simply have an IRA plan but you don't take money out of it. Then is it exempt from bankruptcy?"
+                },
+                {
+                    "start": 459.335,
+                    "stop": 465.113,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It would be because it's the right to the future payments and not just the present payments, Justice Breyer."
+                },
+                {
+                    "start": 465.113,
+                    "stop": 487.194,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So... so... but I'm trying... what I'm trying to figure out is if a person were to take... just reading it in English, it sounds as if a person were to take the plan out before he's 59 and a half and pay the penalty, that that amount that he took out would not be a... a payment because of age, but one that he took out after he's 59 and a half and didn't pay the penalty would be."
+                },
+                {
+                    "start": 487.194,
+                    "stop": 511.849,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Justice Breyer. But in order to protect the ability to take money out after someone turns 59, you have to protect the corpus of the IRA now because otherwise, when he turns 59 and a half, there won't be any money there for him to take out. And that's why the exemption extends not just to present payments, as the Third Circuit erroneously held, but also to the corpus when it is necessary for the support of the debtor. And I can't emphasize--"
+                },
+                {
+                    "start": 511.849,
+                    "stop": 526.709,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Karlan, let me ask something about that very point because the statute says that to the extent reasonably necessary for the support of the debtor it's allowable."
+                },
+                {
+                    "start": 526.709,
+                    "stop": 528.521,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Justice O'Connor."
+                },
+                {
+                    "start": 528.521,
+                    "stop": 538.584,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you aware of cases where the bankruptcy court has said, well, you don't need all that money? That's a big plan. You don't need all that. We'll just let you deduct X amount."
+                },
+                {
+                    "start": 538.584,
+                    "stop": 554.777,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely, Justice O'Connor. We cite a number of them in both the opening brief and in the yellow brief on pages 19 through... to 20, I think is where we... where we talk about--"
+                },
+                {
+                    "start": 554.777,
+                    "stop": 562.025,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can we take this concrete case? Hers was something over $12,000; his, something over $42,000."
+                },
+                {
+                    "start": 562.025,
+                    "stop": 562.367,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 562.367,
+                    "stop": 571.434,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What was the claim here as to... was part or all of that... it would be some $54,000."
+                },
+                {
+                    "start": 571.434,
+                    "stop": 608.919,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The claim was all that all of that was necessary. If I could give an example that I think Justice O'Connor might find instructive here. When a debtor, for example, is 40 years old, they generally require turnover of the entire IRA because people have time to earn the money back again. When the debtor has other retirement savings, for example, in a case from Virginia called Abate, because the person also had a 401(k) plan, they were required to turn over the entire IRA. When a debtor is able to work, even if the debtor is in his or her 50's, courts will often require exclusion of at... will also require turnover of at least part of the IRA. In this case--"
+                },
+                {
+                    "start": 608.919,
+                    "stop": 613.207,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What... what do the courts do if they say, well, my client might be ill or something like that? It seems to me--"
+                },
+                {
+                    "start": 613.207,
+                    "stop": 615.042,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, if the client is ill now, they get to keep it--"
+                },
+                {
+                    "start": 615.042,
+                    "stop": 621.183,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--No, no. They... they say my client is able-bodied now, but we... we need something because... I don't know... there's a history of family illness or something."
+                },
+                {
+                    "start": 621.183,
+                    "stop": 628.46,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There isn't a reported case that talks about the possibility of future illness as a reason of exempting the money."
+                },
+                {
+                    "start": 628.46,
+                    "stop": 675.827,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's... I'm trying to figure out how... how... what the theory is. Is... you say I have a right to receive payments because of age. And you say, well, here I have a body of money and 99 percent comes out of it after you're 60. 1 percent comes out before. So it's very tempting to say that that corpus there, of course, is a body of money that you're going to have a right to receive because of age because the practical effect of the 10 percent is... is... stops the... the younger person getting the money. So does the case then turn on that? I mean, suppose... suppose it were a 3 percent penalty and 40 percent of the people took out the money before they were 60 or a 1 percent penalty and 80 percent did it. Then should I reach the other result? I'm just trying to think of how does this analysis work. What's the right analysis?"
+                },
+                {
+                    "start": 675.827,
+                    "stop": 694.77,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would say at the 1 percent and 80 percent of the people are taking the money out, it wouldn't operate really as a retirement plan anymore. But if I can give another statistic that might be helpful in thinking about this. 18 percent of the participants in large 401(k) plans who are under the age of 50 are taking loans out against those plans today."
+                },
+                {
+                    "start": 694.77,
+                    "stop": 695.345,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What percent?"
+                },
+                {
+                    "start": 695.345,
+                    "stop": 702.117,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "18 percent in one of the surveys. And yet, those plans are undeniably, absolutely exempt under the bankruptcy--"
+                },
+                {
+                    "start": 702.117,
+                    "stop": 705.056,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, they're taking out loans against it. They're... they're not withdrawing the money."
+                },
+                {
+                    "start": 705.056,
+                    "stop": 715.207,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, but the loans because... for example, in the Federal thrift savings plan, the interest is being paid back into your own account, it's essentially as close to taking out the money as you can get."
+                },
+                {
+                    "start": 715.207,
+                    "stop": 733.126,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I still don't have your answer to the problem that bothered me at the first. How... how do you reconcile your positions with on account of language? If the... if your clients can take the money... just take the money out of the IRA at any time, then why is it on account of age?"
+                },
+                {
+                    "start": 733.126,
+                    "stop": 755.701,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It... it's not the... if you look at the statute... and let me just work my way through it with you. It's the right to a payment under a stock bonus, profit-sharing, annuity, or similar plan on account of illness. And the question is what does on account of modify there. I think the most natural and sensible reading of the statute is a plan that is because of age, a plan that is because of disability, and the like."
+                },
+                {
+                    "start": 755.701,
+                    "stop": 759.778,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you say that payment doesn't... on account of doesn't modify payment."
+                },
+                {
+                    "start": 759.778,
+                    "stop": 764.444,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't... I don't think you need to read it that way, and I think the most sensible reading here, especially given that the statute--"
+                },
+                {
+                    "start": 764.444,
+                    "stop": 767.585,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I... I think the logical reading is that it... it modifies payment."
+                },
+                {
+                    "start": 767.585,
+                    "stop": 771.349,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I... I'm not sure that it does, but even if it did, Your Honor--"
+                },
+                {
+                    "start": 771.349,
+                    "stop": 779.425,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's too holistic for me. What... what does it... what does it modify? I mean, if you had to diagram it, on account of goes to what noun?"
+                },
+                {
+                    "start": 779.425,
+                    "stop": 784.089,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, this is again... I know you dissented yesterday, but this is a less than meticulously crafted statute."
+                },
+                {
+                    "start": 784.089,
+                    "stop": 786.409,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. I thought I was being holistic yesterday, to tell you the truth. [Laughter]"
+                },
+                {
+                    "start": 786.409,
+                    "stop": 787.32,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 787.32,
+                    "stop": 787.791,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But--"
+                },
+                {
+                    "start": 787.791,
+                    "stop": 788.229,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 788.229,
+                    "stop": 789.931,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but what does on account of modify?"
+                },
+                {
+                    "start": 789.931,
+                    "stop": 795.546,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think what on account of modifies here is the kind of plan out of which the payment is coming."
+                },
+                {
+                    "start": 795.546,
+                    "stop": 797.501,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where... where is that noun?"
+                },
+                {
+                    "start": 797.501,
+                    "stop": 801.399,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There are a variety of plans, stock bonus, pension--"
+                },
+                {
+                    "start": 801.399,
+                    "stop": 805.004,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The right to receive a payment under a stock bonus, pension--"
+                },
+                {
+                    "start": 805.004,
+                    "stop": 805.244,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 805.244,
+                    "stop": 810.93,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--profit sharing, annuity, or similar plan or... or contract. It's a plan on account of illness, an annuity?"
+                },
+                {
+                    "start": 810.93,
+                    "stop": 811.145,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Plans--"
+                },
+                {
+                    "start": 811.145,
+                    "stop": 813.561,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... why isn't it a right on account of?"
+                },
+                {
+                    "start": 813.561,
+                    "stop": 814.806,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's the right on account of."
+                },
+                {
+                    "start": 814.806,
+                    "stop": 834.512,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think you can read it either way and you'll get to exactly the same result. So let me read it the way that you've been reading it, which is if you want to protect the ability of people who have IRA's to withdraw money on account of age, you have to protect the IRA now or there will be no money in it for them to exercise their right to withdraw on account of age."
+                },
+                {
+                    "start": 834.512,
+                    "stop": 837.087,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but... but there still is a right to take payments at any time."
+                },
+                {
+                    "start": 837.087,
+                    "stop": 839.953,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice... Justice Kennedy, we don't believe--"
+                },
+                {
+                    "start": 839.953,
+                    "stop": 840.507,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So... so then you're... you're--"
+                },
+                {
+                    "start": 840.507,
+                    "stop": 841.189,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that that's actually a right."
+                },
+                {
+                    "start": 841.189,
+                    "stop": 844.069,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Under that, you're giving the... the language that follows it no meaning."
+                },
+                {
+                    "start": 844.069,
+                    "stop": 859.934,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Justice Kennedy, I don't think that's what I'm doing here, and the reason I don't think that's what I'm doing is because this statute clearly refers to IRA's by name as one of the plans that's entitled to exemption."
+                },
+                {
+                    "start": 859.934,
+                    "stop": 886.252,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But as purely English... as purely English, I read it as saying it's a right. What is that right? The right is a right to receive a payment on account of age. That's the... a plan. That's the right. Now, your argument, I take it, was... is that yes, it's true you also have a right under certain conditions to take it without respect to age. So what we have here is a plan that gives you both kind of rights."
+                },
+                {
+                    "start": 886.252,
+                    "stop": 887.434,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 887.434,
+                    "stop": 899.819,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a kind that gives you a right to take it with a penalty and a right to take it because of age without a penalty. And thus, the question is, is that kind of plan which gives you both kind of rights covered? And the language doesn't answer it. So--"
+                },
+                {
+                    "start": 899.819,
+                    "stop": 902.66,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But under Justice Breyer's hypothetical, that's just like a savings account."
+                },
+                {
+                    "start": 902.66,
+                    "stop": 903.11,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 903.11,
+                    "stop": 903.62,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 903.62,
+                    "stop": 923.552,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, because the savings account doesn't have... I mean, the savings account doesn't have the... the penalty. Isn't your argument that you've got to read the right as meaning a right without penalty, because if you don't read it that way, then every one of these other retirement instruments is likewise going to fail? Isn't that your... your strong point?"
+                },
+                {
+                    "start": 923.552,
+                    "stop": 923.879,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's your strong point."
+                },
+                {
+                    "start": 923.879,
+                    "stop": 927.589,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. That's... that's our strong point and we're sticking with it. [Laughter]"
+                },
+                {
+                    "start": 927.589,
+                    "stop": 932.223,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. Right... it's not a right if you have to pay a penalty for it."
+                },
+                {
+                    "start": 932.223,
+                    "stop": 940.524,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. It's not a right, as we say in the reply brief, to park on the sidewalk because if you pay the parking ticket, you can park there."
+                },
+                {
+                    "start": 940.524,
+                    "stop": 940.884,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 940.884,
+                    "stop": 942.48,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And I think no matter how--"
+                },
+                {
+                    "start": 942.48,
+                    "stop": 943.429,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's a good argument. I like that."
+                },
+                {
+                    "start": 943.429,
+                    "stop": 956.24,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Thank you. [Laughter] No matter how you read the statute, it's designed to cover IRA's, and any reading of the statute that ends up not covering IRA's will also not cover many of the other--"
+                },
+                {
+                    "start": 956.24,
+                    "stop": 960.571,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why didn't Congress just put in IRA's along with the other things?"
+                },
+                {
+                    "start": 960.571,
+                    "stop": 964.97,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--They did, Justice Ginsburg. They did in the last line of the statute."
+                },
+                {
+                    "start": 964.97,
+                    "stop": 971.008,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but that's sort of an oblique way to get it there. I mean, why didn't they put it together with the other string of plans?"
+                },
+                {
+                    "start": 971.008,
+                    "stop": 983.363,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, my best guess as to why they didn't do that is they started drafting the exemptions statute in 1973 and they enacted IRA's in 1974, so they stuck it in at the end of the list. That's my best guess."
+                },
+                {
+                    "start": 983.363,
+                    "stop": 983.732,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What--"
+                },
+                {
+                    "start": 983.732,
+                    "stop": 1008.628,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What your... what your opponents say is that the... the thing at the end doesn't prove anything because they're willing to acknowledge that some IRA's can be so structured that you cannot withdraw until... until you reach a certain age. And if they're structured that way, they would be covered. So you had to mention 408 in the... in the exceptions. What's wrong with that argument?"
+                },
+                {
+                    "start": 1008.628,
+                    "stop": 1029.55,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, what's wrong with that, Justice Scalia, is that all IRA's are designed and they're administered on forms that the Internal Revenue Service sets out and you buy the forms to allow for early withdrawal. So under their theory, there has... there is not now and there has never been a single IRA anywhere in the United States--"
+                },
+                {
+                    "start": 1029.55,
+                    "stop": 1030.49,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1030.49,
+                    "stop": 1036.398,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that had that inability to take the money out subject to penalty prior to the age 59 and a half."
+                },
+                {
+                    "start": 1036.398,
+                    "stop": 1077.774,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Do... do we know that? I mean, couldn't someone... I... I don't think this is a very plausible basis for construing the statute, but just as a technical matter, couldn't someone go to the bank or brokerage firm and say I want to set up an IRA, but I want the IRA to be, in... in effect, like an irrevocable trust in which withdrawals can only be made on certain, specific conditions? And couldn't someone, using both the IRA mechanism and a State irrevocable trust document, create an IRA that would be as restricted as... as the circuit suggested it might be?"
+                },
+                {
+                    "start": 1077.774,
+                    "stop": 1141.221,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't necessarily think so for the following reason. IRA's are off-the-rack products. They're a basic consumer product that 40 million people buy. People don't usually negotiate the terms. If you did negotiate the terms, though, here's the second problem. Anytime you deviate from the form that the Internal Revenue Service gives you, which also gives you these rights to withdraw early subject to penalty, you run the risk that your plan will then be held to be a nonqualifying plan under section 408 of the tax code. You then lose the ability to deduct the contributions going in. You then lose the ability to defer the payments on the income as it accrues in the account. Now, to answer the last part of your question, one of the things that has occurred over the last, say, 5 to 10 years is more and more States are passing laws that essentially protect IRA's in bankruptcy and out, as a matter of State law, from any attachment by creditors. Why do they do that? Because they recognize that IRA's are a fundamental piece of the retirement system today."
+                },
+                {
+                    "start": 1141.221,
+                    "stop": 1144.271,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And some don't. The... the State systems vary."
+                },
+                {
+                    "start": 1144.271,
+                    "stop": 1150.598,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, but only four States offer no protection to IRA's from creditors the other--"
+                },
+                {
+                    "start": 1150.598,
+                    "stop": 1152.177,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As opposed to how many who do?"
+                },
+                {
+                    "start": 1152.177,
+                    "stop": 1166.196,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--46 States offer some kind of protection. 23 States protect them without limit in bankruptcy and out. 6 of them protect them inside of bankruptcy using the State exemptions as long as the amount is reasonable and necessary for the debtor's support."
+                },
+                {
+                    "start": 1166.196,
+                    "stop": 1168.221,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's what... with the purpose that we're talking about now--"
+                },
+                {
+                    "start": 1168.221,
+                    "stop": 1168.459,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1168.459,
+                    "stop": 1173.775,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--if it's only 6 that, faced with a bankruptcy, would shelter the IRA."
+                },
+                {
+                    "start": 1173.775,
+                    "stop": 1212.418,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. No. 23 of them would protect all IRA's. 6 would protect all IRA's if the money in them is necessary to the debtor's support, an additional 6. 6 more would protect all the money in an IRA as long as it was deposited 120 days or a year or 3 years before the debtor filed for bankruptcy. 3 of them will protect all IRA's up to a dollar amount. In Nevada, the dollar amount is $500,000. 8 States use, as their State exemption law, an IRA that... a statute that has exactly the same language as the Federal statute. 6 of those State statutes have been interpreted by Federal courts to protect IRA's."
+                },
+                {
+                    "start": 1212.418,
+                    "stop": 1215.783,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But here there was no choice of picking up on the State?"
+                },
+                {
+                    "start": 1215.783,
+                    "stop": 1247.004,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There's a... there's a weird anomaly in Arkansas, Your Honor, which is Arkansas law does, in fact, protect IRA's, but the Federal bankruptcy courts in Arkansas have interpreted that law only to protect the IRA up to $500 because of a provision in the Arkansas constitution, article 9, section 2, that means that you can only save up to $500. So any bankrupt person in Arkansas who wants to keep any money in his... in his IRA has to elect the Federal exemptions rather than electing the State exemptions."
+                },
+                {
+                    "start": 1247.004,
+                    "stop": 1263.87,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And one train that we didn't finish before. You were explaining that in this case the entire $55,000... that entire sum would be needed... would be necessary for the support of the debtors."
+                },
+                {
+                    "start": 1263.87,
+                    "stop": 1272.751,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. The bankruptcy court did not rule on our claim that it was all reasonably necessary because they decided first that IRA's didn't come within the meaning of section 522."
+                },
+                {
+                    "start": 1272.751,
+                    "stop": 1274.603,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you... that was your claim, and I--"
+                },
+                {
+                    "start": 1274.603,
+                    "stop": 1275.277,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 1275.277,
+                    "stop": 1282.058,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--How did you come to that conclusion, that the entire amount?"
+                },
+                {
+                    "start": 1282.058,
+                    "stop": 1307.409,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, if you take, say, $55,000 and you ask what sort of annuity could you purchase when you hit age 59 and a half with that money, it will be an annuity that, I would guess... you know, I... I hate to do math in my head like this. I'd guess it would throw off a couple of hundred dollars a month in additional income. And so if you ask will the Rouseys need that money for their support, I think the answer is yes because their only other support--"
+                },
+                {
+                    "start": 1307.409,
+                    "stop": 1308.336,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, yes."
+                },
+                {
+                    "start": 1308.336,
+                    "stop": 1331.978,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--is Social Security and a $2,000 a month defined benefit plan that will never go up and against which their Social Security will be offset. So when they start becoming eligible, as Mr. Rousey is about to be, for Social Security, that defined benefit plan reduces their benefits. So if the Rouseys are to have an old age in which they can afford to live in any kind of reasonable circumstance at all, they need this money."
+                },
+                {
+                    "start": 1331.978,
+                    "stop": 1356.778,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I go back and just nail down one lose end in... in an answer that you... you gave to my question, can you set up a kind of irrevocable? I assume clearly from what you say is that there is not only no statute, but no IRS reg or ruling to the effect that you can make your IRA terms more restrictive without jeopardizing your qualification."
+                },
+                {
+                    "start": 1356.778,
+                    "stop": 1358.371,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I was unable to find one, Your Honor."
+                },
+                {
+                    "start": 1358.371,
+                    "stop": 1358.912,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1358.912,
+                    "stop": 1360.316,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'd like to reserve the remainder of my time."
+                },
+                {
+                    "start": 1360.316,
+                    "stop": 1364.869,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why didn't the Government come in here, just as a matter of curiosity? We don't have an amicus brief here from the Government, do we?"
+                },
+                {
+                    "start": 1364.869,
+                    "stop": 1367.064,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I... no, we do not have one, and I don't--"
+                },
+                {
+                    "start": 1367.064,
+                    "stop": 1368.353,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Government has no position on the matter."
+                },
+                {
+                    "start": 1368.353,
+                    "stop": 1377.691,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I... I don't think they've taken a position here. I will say that in Patterson against Shumate, they referred to IRA's in a footnote in their brief, I believe, as pension plans under section 408."
+                },
+                {
+                    "start": 1377.691,
+                    "stop": 1383.067,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There... they never go bankrupt, so the position they usually take is against any exemption from the-- [Laughter]"
+                },
+                {
+                    "start": 1383.067,
+                    "stop": 1388.265,
+                    "speaker": {
+                        "name": "Pamela S. Karlan",
+                        "ID": 38065,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well... well, that's correct. The United States trustee may have wanted them to... I'd like to reserve the remainder of my time."
+                },
+                {
+                    "start": 1388.265,
+                    "stop": 1394.017,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. McKiever."
+                }
+            ],
+            "start": 7.826,
+            "stop": 1422.696
+        },
+        {
+            "turns": [
+                {
+                    "start": 1394.017,
+                    "stop": 1422.696,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Stevens, may it please the Court: Pursuant to section 522(d)(10)(e) of the Bankruptcy Code, a debtor's right to receive a payment is not exempt unless two requirements are met. First, the right to receive the payment must be on account of illness, disability, death, age or length of service, and the right must come from a specified similar plan or contract. Because neither of those elements is satisfied in this case, the petitioners' IRA's are not exempt."
+                },
+                {
+                    "start": 1422.696,
+                    "stop": 1438.246,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it... is it the case that other plans that are clearly covered by the text of this statute also permit early withdrawal for certain reasons?"
+                },
+                {
+                    "start": 1438.246,
+                    "stop": 1457.549,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes and no, and let me explain that. Yes, they do permit withdrawals based upon certain factors. Those are enumerated based... based upon each individual plan. However, they do not permit withdrawals for any reason at any time for any purpose."
+                },
+                {
+                    "start": 1457.549,
+                    "stop": 1458.57,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not a single one of them."
+                },
+                {
+                    "start": 1458.57,
+                    "stop": 1472.787,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not a single one of them. Now, of course, I've not read every plan ever created, but none of the plans that I have ever seen, as the specified plans, the pension plans, the profit-sharing plans, any of those, allow withdrawal for any reason at any time."
+                },
+                {
+                    "start": 1472.787,
+                    "stop": 1476.3,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you'd say that if one of them did, it would also not be covered."
+                },
+                {
+                    "start": 1476.3,
+                    "stop": 1478.639,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. It... it is thought--"
+                },
+                {
+                    "start": 1478.639,
+                    "stop": 1480.162,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What... what--"
+                },
+                {
+                    "start": 1480.162,
+                    "stop": 1501.374,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I take it... in... in answering Justice Scalia, I take it from what you didn't say that none of the... we'll call them kind of the paradigm example plans are, however, as... as restricted as the language in this... the statute would suggest that it had to be if you read it in a... in a very literal way."
+                },
+                {
+                    "start": 1501.374,
+                    "stop": 1503.449,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There are--"
+                },
+                {
+                    "start": 1503.449,
+                    "stop": 1511.521,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, they're all a little bit sinful, at least, even if they're not as sinful as... as you say the... the 401... the... the IRA is."
+                },
+                {
+                    "start": 1511.521,
+                    "stop": 1528.581,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That... that is correct. The... there probably are plans out there... once again, there are so many plans. And those are created by financial institutions, by employers, by different entities. So therefore there are thousands of variations of those."
+                },
+                {
+                    "start": 1528.581,
+                    "stop": 1598.686,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Now, why? Okay. Once you're down that road, you have conceded, as you must, that a plan that says you get the money because of age but you also can get the money without respect to age in certain circumstances can be a plan covered by the act. Now, that's the kind of a plan that's right in front of you. So, therefore, literally it falls just as much within the language as the other that you want to say even though that is literally true, this plan is very different from the others in terms of the purposes of the act. That's what I would like to hear because to me, I'm not so moved by holistic as I am by purposes, which is part of holistic. So... so the... the point that I would like to know is why, since ordinary people think of IRA's as pensions... I do. I think of it that way. I don't know much about it. It's designed to help in the future, help when you're old and sick. But there is this extra thing in it which you point to. So why, in terms of purposes is this different from the others?"
+                },
+                {
+                    "start": 1598.686,
+                    "stop": 1606.439,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This is different because this is the only kind of plan where you can access the funds at any time for any purpose. It is also--"
+                },
+                {
+                    "start": 1606.439,
+                    "stop": 1610.076,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know that, but... but... and you do it with a penalty. We agree about the facts."
+                },
+                {
+                    "start": 1610.076,
+                    "stop": 1610.395,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 1610.395,
+                    "stop": 1621.415,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I want to know why that difference makes a difference in a world where only 1 or less 2 percent of the people do access it before they're 60, 59 and a half."
+                },
+                {
+                    "start": 1621.415,
+                    "stop": 1633.495,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because the right to... to receive the payment, the right to access the money at any time exists no matter if it is exercised or not, and it does not meet the language of the statute. The statute very specifically--"
+                },
+                {
+                    "start": 1633.495,
+                    "stop": 1639.27,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. I... you've missed my point and I'm sorry. I put you on the wrong track with my following up. I shouldn't have."
+                },
+                {
+                    "start": 1639.27,
+                    "stop": 1640.236,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry. Yes."
+                },
+                {
+                    "start": 1640.236,
+                    "stop": 1662.487,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My question is we all agree that there can be plans where you can get the money not having to do with age, and they fall within the language of the act, and indeed, you say some are covered. But this one you say is worse than the others in terms of the purposes of the act, and that's what I want to hear why."
+                },
+                {
+                    "start": 1662.487,
+                    "stop": 1671.176,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because there is no causal connection between any of the factors that are enumerated in the statute and the right to receive the money. And that is--"
+                },
+                {
+                    "start": 1671.176,
+                    "stop": 1672.181,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I--"
+                },
+                {
+                    "start": 1672.181,
+                    "stop": 1682.867,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this question? Supposing instead of a 10 percent penalty, there was an absolute prohibition, would you agree... on getting the money before you're 59 and a half, would then that qualify?"
+                },
+                {
+                    "start": 1682.867,
+                    "stop": 1684.764,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Absolutely, yes, it would."
+                },
+                {
+                    "start": 1684.764,
+                    "stop": 1686.249,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, what if there were a 50 percent penalty?"
+                },
+                {
+                    "start": 1686.249,
+                    "stop": 1692.244,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Clearly, there's a point at which it would qualify as a prohibition more than just--"
+                },
+                {
+                    "start": 1692.244,
+                    "stop": 1705.365,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what is it that makes it a prohibition? Is it... is it because the purpose is to deter withdrawals, or it is that it becomes economically unacceptable? What... what is the reason for drawing the line somewhere above 10 percent?"
+                },
+                {
+                    "start": 1705.365,
+                    "stop": 1718.401,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The reason for drawing the line is because at 10 percent, as the Eighth Circuit has stated in... in the Huebner case, it... it said that it's a minimal penalty. However, there is still the unfettered access that's available."
+                },
+                {
+                    "start": 1718.401,
+                    "stop": 1720.759,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what is the purpose of imposing any penalty at all?"
+                },
+                {
+                    "start": 1720.759,
+                    "stop": 1728.635,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would assume as a disincentive to... to withdraw, but it's clearly not a prohibition, such as the... the parking--"
+                },
+                {
+                    "start": 1728.635,
+                    "stop": 1732.191,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But 50 percent would not be a prohibition and neither would 90 percent."
+                },
+                {
+                    "start": 1732.191,
+                    "stop": 1737.227,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It would not be a prohibition, but it would operate more as a prohibition than 10 percent."
+                },
+                {
+                    "start": 1737.227,
+                    "stop": 1739.347,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it's a matter of degree rather than a difference in kind."
+                },
+                {
+                    "start": 1739.347,
+                    "stop": 1747.819,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Clearly that... it's a very difficult line to draw. I... I can't make that call at this moment, but--"
+                },
+                {
+                    "start": 1747.819,
+                    "stop": 1766.875,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems to me the easiest black letter rule is no tax or some tax. I mean, if it was totally free like an ordinary bank account, then you'd be dead right. But the fact that for a... an important purpose there is a 10 percent penalty put in seems to me puts it into the category of things that are... you're not supposed to have an absolute right to get."
+                },
+                {
+                    "start": 1766.875,
+                    "stop": 1775.616,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But the... the hallmark difference here is that it... it is the only type of account that you can access paying the penalty for any reason--"
+                },
+                {
+                    "start": 1775.616,
+                    "stop": 1776.11,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I assume--"
+                },
+                {
+                    "start": 1776.11,
+                    "stop": 1777.095,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--regardless of the specified reason."
+                },
+                {
+                    "start": 1777.095,
+                    "stop": 1807.127,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that... that your answer to Justice Breyer as to why that makes a difference with regard to the purpose of the statute is that the purpose of the statute is to make sure that people have money for their retirement, and that if you can withdraw it for any reason whatever, there is no security that that money will be there for their retirement; whereas if you limit the reasons to sickness and... and a certain other number of emergency reasons, the chances the money will be there for the retirement are much higher."
+                },
+                {
+                    "start": 1807.127,
+                    "stop": 1808.032,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that... that's--"
+                },
+                {
+                    "start": 1808.032,
+                    "stop": 1808.492,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't that the answer?"
+                },
+                {
+                    "start": 1808.492,
+                    "stop": 1811.782,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if that's the answer, excellent. So now we have-- [Laughter] --let's say--"
+                },
+                {
+                    "start": 1811.782,
+                    "stop": 1813.768,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Thank you, Justice Scalia."
+                },
+                {
+                    "start": 1813.768,
+                    "stop": 1822.687,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Let's try... let's try a million percent tax and nobody in history has ever withdrawn the money. Now, would... that you would say would fall within this."
+                },
+                {
+                    "start": 1822.687,
+                    "stop": 1824.615,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1824.615,
+                    "stop": 1824.991,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Fine, yes."
+                },
+                {
+                    "start": 1824.991,
+                    "stop": 1825.171,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1825.171,
+                    "stop": 1853.196,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Now, if that would fall within this, going back to Justice Stevens, because that operates as a bar to prevent the bad world that Justice Scalia mentioned, why doesn't a tax that operates as a bar that's good enough to stop 98.5 percent of the people from withdrawing their money and having nothing left for old age... why isn't that just as good as the million percent tax in a world that is imperfect?"
+                },
+                {
+                    "start": 1853.196,
+                    "stop": 1872.306,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because clearly the... the access of money and the ability to use it prior to retirement, just as... as Justice Scalia just stated, that allows the... the debtors to... to access freely for any purpose, clearly not showing that... that it would be for retirement purposes."
+                },
+                {
+                    "start": 1872.306,
+                    "stop": 1872.681,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But attachment of the--"
+                },
+                {
+                    "start": 1872.681,
+                    "stop": 1877.852,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right, but it's acquired. Say... say retirement, not old age. I mean, you know, 60... it's not that bad-- [Laughter]"
+                },
+                {
+                    "start": 1877.852,
+                    "stop": 1879.167,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "93."
+                },
+                {
+                    "start": 1879.167,
+                    "stop": 1944.369,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--If... if that is going to be your criterion, the... the total freedom for any purpose, then why, if we accept your argument, why... why don't we face sort of a daunting run or the courts face sort of daunting future? Because the... the question then is going to be, well, what purposes are sufficiently close to old age to... to allow for a continued exemption and how free may the purposes be before a plan falls into the IRA category. You told us a few moments ago... and I'm sure you... you were right... that the kind of the paradigm example plans vary enormously depending on the terms in which employers set them up. So if... if we say that the... the dividing line is going to be between plans under which withdrawal can be for any purpose versus plans in which withdrawal is going to be somehow limited, then we're going to have to litigate an awful lot of plans. Aren't we?"
+                },
+                {
+                    "start": 1944.369,
+                    "stop": 1962.29,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not necessarily. The... the line that we're really looking to is that there has to be a direct causation factor between one of the five specified factors such as on... on account of factors, age, disability, death, length of service, and the right to receive the payment."
+                },
+                {
+                    "start": 1962.29,
+                    "stop": 1988.63,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but typically these plans like 401(k) plans permit hardship withdrawals, and other plans that are mentioned in the act allow withdrawals for medical reasons or to buy housing or something like that. I mean, you... we would just have endless cases trying to figure out what qualifies and what doesn't. It seems like such a hard line for you to try to draw here."
+                },
+                {
+                    "start": 1988.63,
+                    "stop": 1989.481,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1989.481,
+                    "stop": 1995.13,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And every plan that I know of allows withdrawal if you terminate employment."
+                },
+                {
+                    "start": 1995.13,
+                    "stop": 1996.433,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And that's typically--"
+                },
+                {
+                    "start": 1996.433,
+                    "stop": 2003.47,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In fact, that's what happened to these people. So I just don't see how your argument is going to work."
+                },
+                {
+                    "start": 2003.47,
+                    "stop": 2034.513,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the... the ability to access the funds, oftentimes with termination, has to do with the length of service, the years in service because they accumulate and oftentimes are not payable at the full percentage. They're not fully vested until that time. Also, with the... when there are multiple factors existing in the right to receive the payments, each multiple factor can be a cause of the... of the ability to reach the money. When there are no meaningful factors imposed, though--"
+                },
+                {
+                    "start": 2034.513,
+                    "stop": 2060.647,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't it simpler to just recognize that these plans are covered despite the right to withdraw and then rely on the provision in the statute that only permits the deduction to the extent reasonably necessary for the support? I mean, that... that seems to me a fall-back position that's provided for in the statute."
+                },
+                {
+                    "start": 2060.647,
+                    "stop": 2095.411,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I understand that... that may appear to be correct, but the problem with that is that as... taxpayer status is not the hallmark in this case of if it is or is not exempt. Therefore, all types of accounts, whether they are truly retirement accounts or... or if they're just savings accounts, could potentially qualify under this statute. If... if you want to open it up and... and allow all kinds of accounts to be exemptible under 522(d)(10)(e), the problem is that there is no limit on what can be potentially exempt under that statute."
+                },
+                {
+                    "start": 2095.411,
+                    "stop": 2107.018,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. Well, obviously, it's... it's governed by the statutory provision that it has to be a stock bonus, pension, profit-sharing, annuity, or similar plan or contract on account of, and so on."
+                },
+                {
+                    "start": 2107.018,
+                    "stop": 2107.794,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2107.794,
+                    "stop": 2121.206,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it includes IRA's apparently because of the last provision in the statute referring back to individual retirement acts under section 408 of the Internal Revenue Code."
+                },
+                {
+                    "start": 2121.206,
+                    "stop": 2142.479,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The section 408 reference is... does not in any way expand the exemption. In fact, it is a further condition to place on the... the exemption. First of all, section 408 sets out only the minimum requirements for an IRA to qualify as a... as a tax-favored plan. That--"
+                },
+                {
+                    "start": 2142.479,
+                    "stop": 2164.441,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms.... Ms. Karlan says she doesn't know of any... of any IRA that did place a... a restriction which would bring it within that exemption even though the ordinary IRA wouldn't be within the exemption. Do you know of any IRA, a single IRA that... that has a provision in it restricting withdrawal?"
+                },
+                {
+                    "start": 2164.441,
+                    "stop": 2169.2,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Absolutely. Those are customizable plans. Any person can go into--"
+                },
+                {
+                    "start": 2169.2,
+                    "stop": 2172.727,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They can, but do... do you know that there's... there's one out there? I don't know--"
+                },
+                {
+                    "start": 2172.727,
+                    "stop": 2174.554,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I... I do know of several out there."
+                },
+                {
+                    "start": 2174.554,
+                    "stop": 2176.643,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You didn't just draw one up for this case, did you? [Laughter]"
+                },
+                {
+                    "start": 2176.643,
+                    "stop": 2210.146,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I did not create one for this case. No, I did not. But they... they definitely exist. In fact, in the Andersen case out of the Eighth Circuit Bankruptcy Appellate Panel, the debtor had an annuity and prior to the filing of the bankruptcy petition, she elected that she would only receive periodic payments based upon her age, and that was found to be exempt by the Bankruptcy Appellate Panel because that qualified. The payments were based upon her age, and it was then a similar plan because she could not access the funds at any time but only for the specified reason such as age."
+                },
+                {
+                    "start": 2210.146,
+                    "stop": 2212.498,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that... was that an IRA that she had? It was an IRA?"
+                },
+                {
+                    "start": 2212.498,
+                    "stop": 2219.339,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "My understanding is, yes, it was under section 408(b) was... that's my understanding based upon that case."
+                },
+                {
+                    "start": 2219.339,
+                    "stop": 2236.104,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me... let me ask you. Maybe this is irrelevant, but were... were these restrictive IRA's that you're aware of set up under those terms in contemplation of bankruptcy? If the answer is no, why would anyone so restrict his... his IRA?"
+                },
+                {
+                    "start": 2236.104,
+                    "stop": 2243.576,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I... I do not know if that one specifically was, but no. These have not been set up through--"
+                },
+                {
+                    "start": 2243.576,
+                    "stop": 2253.257,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But why... why would anyone do that? They're... they're qualified without these restrictions. Why would anyone want to cut off his... his rights to... to withdraw?"
+                },
+                {
+                    "start": 2253.257,
+                    "stop": 2257.058,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Clearly to protect the money potentially for retirement and... and just as--"
+                },
+                {
+                    "start": 2257.058,
+                    "stop": 2259.783,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, like setting up a personal spendthrift trust?"
+                },
+                {
+                    "start": 2259.783,
+                    "stop": 2260.65,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's--"
+                },
+                {
+                    "start": 2260.65,
+                    "stop": 2264.636,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I want to make it tough so that I... I will not be tempted to withdraw. Is that the motivation?"
+                },
+                {
+                    "start": 2264.636,
+                    "stop": 2282.438,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that would potentially be a motivation because clearly the money is there readily accessible at any time to... to buy anything that the debtor chooses throughout their life. So someone who's 30 or 40 years old can liquidate their... their IRA account, whereas with a pension or profit-sharing plan, they don't have that kind of access--"
+                },
+                {
+                    "start": 2282.438,
+                    "stop": 2306.729,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Should we put any weight on the title, on the name? I mean, I... I can't but thinking it's an individual retirement account. Was Congress trying to fool people? [Laughter] Was the Federal Trade Commission? Should they investigate? What... I mean, the... the... I think of it as an account that's basically aimed, at least Congress thought it was aimed, at retirement, which has usually to do with age."
+                },
+                {
+                    "start": 2306.729,
+                    "stop": 2312.972,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the... the name is clearly not determinative. Also, Congress in the... in the--"
+                },
+                {
+                    "start": 2312.972,
+                    "stop": 2339.745,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm reading the statute and if I were voting on it and put in the 408 reference and think of the word individual retirement account, is there any... I would have thought, knowing not that much about it, that of course, they'd be included. Now, is there any indication, when people passed this, that they didn't think they would be? Any... any reference in the terrible words, legislative history, that might shed light on it?"
+                },
+                {
+                    "start": 2339.745,
+                    "stop": 2361.92,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. First of all, Congress did historically reject, first of all, just tax-favored status overall, such as what an IRA account is. An IRA account is set up just for tax-favored status. Congress set forth, instead, the (d)(10)(e)... 522(d)(10)(e) requirements that... that are much more stringent in the requirements of the traditional IRA."
+                },
+                {
+                    "start": 2361.92,
+                    "stop": 2391.735,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, are they? Because there was one statement... I think it was in Ms. Karlan's brief... that the Fifth Circuit said profit-sharing plans permit participants to withdraw up to the entire amount on payment of the penalty. So a profit-sharing plan, which was one of the ones on the list, seems to be substantially identical if you can also take out, whenever you like, as long as you're willing to pay the penalty."
+                },
+                {
+                    "start": 2391.735,
+                    "stop": 2421.883,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's a misnomer that that's a... a right to payment. That is rather the right to borrow as a loan. And a loan is very different than a right to payment. They have the right to borrow the funds. However... for example, in the New York Police Department pension plan, which she referenced in the reply brief, the police officers can borrow up to 90 percent of their pension plan funds. However, they... as long as they're employed there, they have to continue to repay that."
+                },
+                {
+                    "start": 2421.883,
+                    "stop": 2424.675,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What... what if they don't repay it? What's the sanction?"
+                },
+                {
+                    "start": 2424.675,
+                    "stop": 2429.15,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There is a 10 percent penalty. However, as the bankruptcy--"
+                },
+                {
+                    "start": 2429.15,
+                    "stop": 2439.369,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what... where... where would the... where would the principal repayment come from? I assume it would come from deducting whatever the balance was from the... the person's account."
+                },
+                {
+                    "start": 2439.369,
+                    "stop": 2441.185,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That would be correct."
+                },
+                {
+                    "start": 2441.185,
+                    "stop": 2461.342,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, we call it... the... the loan feature then boils down to a... a withdrawal subject to a periodic repayment obligation, but if that obligation is not satisfied, the bottom line will be exactly like a withdrawal because they will simply deduct whatever the balance is from the person's rights under the plan."
+                },
+                {
+                    "start": 2461.342,
+                    "stop": 2463.115,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Plus 10 percent you say."
+                },
+                {
+                    "start": 2463.115,
+                    "stop": 2464.818,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. However--"
+                },
+                {
+                    "start": 2464.818,
+                    "stop": 2465.927,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it's just... just like an IRA."
+                },
+                {
+                    "start": 2465.927,
+                    "stop": 2544.277,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But... but this is in the bankruptcy context, which makes it completely different. The bankruptcy filing of a chapter VII bankruptcy is a picture in time. At the time that the debtor files the bankruptcy petition, you look to the assets that the debtor has possession of and the interest that the debtor has at that moment. There's also, for some things, a 1-year look-back period. But because it's a picture in time, it's what the... the debtor can reach is what the... the bankruptcy trustee looks to, the types of assets that... that the debtor owns. This is very different than the pension plan which, of course, the debtor could not have... have exhausted to pay the creditors prior to filing the bankruptcy, but any other type of account would be there, would be present at the retirement. But because they could have liquidated their IRA's to pay off their creditors prior to filing the bankruptcy, the bankruptcy trustee steps into the shoes of that debtor and has the ability to reach the funds that the debtor can potentially reach. There are other exemptions, of course, set forth in... in section 522(d), you know, for a home or jewelry, but the assets that are not exempt are readily available to repay creditors, for... for the benefit of the creditors. Therefore, that... that makes it significantly--"
+                },
+                {
+                    "start": 2544.277,
+                    "stop": 2547.415,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Subject to the 10 percent if the bankruptcy trustee does that?"
+                },
+                {
+                    "start": 2547.415,
+                    "stop": 2549.56,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. That's correct."
+                },
+                {
+                    "start": 2549.56,
+                    "stop": 2555.26,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The... the penalty still has to be paid even if it's the trustee who takes money out to pay the creditors, on your view."
+                },
+                {
+                    "start": 2555.26,
+                    "stop": 2593.83,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. Yes, they do. They do. Additionally, the petitioners' IRA's are... by allowing unfettered access, are unlike any of the other plans because the petitioners' standard IRA is much more like a savings account. It's not any form of deferred compensation. They can't look to that to fill a salary void after they retire because the money may not be there. Unlike in the pension plans or a profit-sharing plan, they could have liquidated those funds prior to their reaching any age or any illness that... that may befall them."
+                },
+                {
+                    "start": 2593.83,
+                    "stop": 2602.336,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But there... there is no penalty attached to withdrawing from a savings account, and there's also no limit on the annual contribution."
+                },
+                {
+                    "start": 2602.336,
+                    "stop": 2609.148,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. That is correct. But the... the key here--"
+                },
+                {
+                    "start": 2609.148,
+                    "stop": 2630.751,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me just get... get straight what... what the... what the universe of plans we have in front of us here. Do you assert that there are no other plans, clearly covered by this statute, that permit withdrawal for any reason but with a penalty?"
+                },
+                {
+                    "start": 2630.751,
+                    "stop": 2637.21,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. None of the specified plans listed, the... the ones enumerated."
+                },
+                {
+                    "start": 2637.21,
+                    "stop": 2640.837,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would permit withdrawal for any reason whatever provided that a penalty is paid."
+                },
+                {
+                    "start": 2640.837,
+                    "stop": 2641.404,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2641.404,
+                    "stop": 2642.627,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "None of them is like that."
+                },
+                {
+                    "start": 2642.627,
+                    "stop": 2668.636,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "None of them is like that. They all have specific factors. There has to be a causal connection between the ability to access the money. Additionally, it's very important that... that an account or plan that qualifies under the statute... it has to be determined on a case-by-case basis. And there's no question that there are definitely IRA's that... that could and do qualify for this exemption. It is, instead, that--"
+                },
+                {
+                    "start": 2668.636,
+                    "stop": 2683.492,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do... do you disagree with Ms. Karlan that this is... this is a standardized product so the people, the Rouseys of this world, really couldn't get a tailor-made IRA? They would have to take the standard product."
+                },
+                {
+                    "start": 2683.492,
+                    "stop": 2736.147,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's not... that's not correct. There are many customizable products that are... are out there. In fact, for example, when employers set up different kinds of plans for their employees, they go and they can choose from many different options. For example, they can choose if they even have a... a loan provision built into a... a 401(k) or a pension plan, just like the IRA. They... they can be customized because section 408 only sets forth the minimum requirements for it to qualify for tax-favored status. That... that is an Internal Revenue Code section, and it does not in any way prohibit additional factors being placed into the plan. Rather, it allows the... the individual or the employer because some... there are two different types of IRA's that can be set up by an employer... to go and customize those so that they could potentially meet the statutory requirements."
+                },
+                {
+                    "start": 2736.147,
+                    "stop": 2745.808,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "These... these other plans that allow you to withdraw for certain reasons but not for any reason... what happens if you withdraw for any reason?"
+                },
+                {
+                    "start": 2745.808,
+                    "stop": 2748.467,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That--"
+                },
+                {
+                    "start": 2748.467,
+                    "stop": 2758.432,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the sanction against... I mean, you just go in. You withdraw the money for... for a reason that is not allowed by the employer plan. What... what is the sanction?"
+                },
+                {
+                    "start": 2758.432,
+                    "stop": 2823.333,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--My understanding is that... is that you cannot access the funds for a reason not allowed by those plans, that that is prohibited. And that... that is similar to Ms. Andersen's IRA in the Bankruptcy Appellate Panel case. She could no longer reach the funds in the... she could no longer reach the corpus of the account. The... the lump sum of money was there for her retirement years. Whereas, in the IRA situation, the money is not protected at any time. There's no prohibition at all whatsoever on withdrawing the funds from the account other than the payment of the penalty. But whether an account or plan qualifies under the statute, it... it... you look at the language of the plan on a plan-by-plan basis. The petitioners' argument renders the terms of the statute superfluous because, first of all, it is dissimilar from the enumerated plans, and secondly, it is not on account of any factors that the money can be reached. The right to receive the payment is not based upon any factor other than the... the account holder wanting to withdraw the funds."
+                },
+                {
+                    "start": 2823.333,
+                    "stop": 2827.914,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but the right to receive 100 percent is... is dependent on a factor, isn't it?"
+                },
+                {
+                    "start": 2827.914,
+                    "stop": 2830.817,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, it is."
+                },
+                {
+                    "start": 2830.817,
+                    "stop": 2837.049,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. At least as to the 10 percent that would be penalty, there's no right to get that money unless you have a certain age."
+                },
+                {
+                    "start": 2837.049,
+                    "stop": 2862.399,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. Unless you have... or another factor such as for education or for a home loan, something like that. There are several different reasons that you can... you can reach the money and not pay a penalty. However, the penalty is not... is not the deciding factor. It's their ability to access the funds at any time that... that makes that a right of payment. It's not a right of payment without a penalty. It's just that the right to payment exists at all times."
+                },
+                {
+                    "start": 2862.399,
+                    "stop": 2877.568,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't dispute that... that a very small percentage of people who have IRA's, in fact, exercise the right to withdraw, given the penalty."
+                },
+                {
+                    "start": 2877.568,
+                    "stop": 2960.74,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That... that... that is... appears to be correct. I don't have those exact statistics, but yes, that... that appears to be correct, that they have... that they may not exercise that at... in great numbers. First of all, going back to the causation factor about the... the ability of the debtors to withdraw the funds for any reason or no reason, this Court in the 203 North LaSalle case determined that on account of must mean because of, and that... that is a key point here because if the debtors can reach the funds for any reason, it is not because of any other factor. And in the LaSalle case, this Court found that that reading, the because of reading, absolutely applies to this section of the... the Bankruptcy Code, that means that the result is that a direct causal connection is required between the right to receive the payment in the on account of requirements. In... in this case there is no causal connection whatsoever between the right to receive the payments and... and any of the factors enumerated in the statute."
+                },
+                {
+                    "start": 2960.74,
+                    "stop": 2985.79,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, the words, on account of, in this... this statute are sort of unusual, no matter how you construe them, because really the payment is on account of the years of service or it's on account of a lot of things. You may become eligible at a certain time. It would be better if it said a payment for which you became eligible for one of these reasons because the payment isn't really on account of all of these things. You may get the same amount whether you're disabled or not depending on what the terms of the plan are."
+                },
+                {
+                    "start": 2985.79,
+                    "stop": 3030.81,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. There are, of course, always some other factors, such as you have to first deposit the money, you have to become eligible. But once those barriers are passed, then... then the right to receive the payment has to be at least... one of the causes must be one of these factors. And it has to be enumerated in the plan. It cannot be for any reason, but must be an enumerated reason in the plan. And the... with the penalty, only the avoidance of a penalty is based upon the... the age of the debtor or the... or any of the factors. It's... section 522(d)(10)(e) is void of any reference to the tax status or to the right to receive the payment without penalty. It's only the right to receive the payment overall."
+                },
+                {
+                    "start": 3030.81,
+                    "stop": 3047.357,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does your argument draw a ring around IRA's? It was suggested that if your argument prevails, then these other plans would be affected as well."
+                },
+                {
+                    "start": 3047.357,
+                    "stop": 3159.253,
+                    "speaker": {
+                        "name": "Colli C. McKiever",
+                        "ID": 19651,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Only to the extent that... that they are not payable for any of the reasons enumerated in the statute. If... if they are available for payment at any time for any reason, then... then they would not qualify. But the specified accounts, so long as they're payable for... for one of the factors and that there's a direct nexus between the right to receive the payment and... and the factors, then... then they would qualify for the exemption. It is not, by any stretch, all IRA's. It is just the types that... currently that the petitioners would have or that people would have that would allow the access at any time for any purpose. So it's not that the trustee is looking to have IRA's not be eligible for exemption. It's just the types of accounts from which all the funds can be withdrawn at any time for any purpose. There are many qualifying IRA's that do exist, that can exist. It's just that people have set these up from standard plans allowing them access. Whether they access the funds or not is not the key, but the ability to access the money because it doesn't meet the statutory requirements. There are several IRA's, though, that can and do meet the statutory requirements. It's just that the petitioners' don't. The case law in the Eighth Circuit was well settled, prior to the filing of this bankruptcy, that for approximately 12 years, that the definition of similar plan or contract did not include IRA's such as this, and that the on account of factors had to be satisfied to claim this exemption. The... the debtors knew or... or potentially should have known that... that their IRA's were likely not exempt out of Eighth Circuit at the time that they filed because of the way that... that these had been construed for a long period of time. So that they could have set up accounts that did qualify for such exemption, but... but they did not restrict their access in that way. Thank you."
+                },
+                {
+                    "start": 3159.253,
+                    "stop": 3165.611,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. McKiever. Ms. Karlan, you have about 7 minutes. You're not required to use it all."
+                }
+            ],
+            "start": 3165.611,
+            "stop": 3205.634
+        }
+    ]
+}

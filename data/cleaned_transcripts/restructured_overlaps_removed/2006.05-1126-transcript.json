@@ -1,0 +1,2374 @@
+{
+    "title": "Bell Atlantic Corp. v. Twombly",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 6.57,
+                    "stop": 89.391,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: I think the most important point that I can make today is that this is a case about the substantive requirements of antitrust law, and just as in Dura and in Blue Chip Stamps, the Court articulated the substantive requirements for pleading a claim under the securities law, and just as in Anza, it did so under RICO, so too in Associated General Contractors, in Trinko. And in the instant case, the Court is faced with the question of what a plaintiff needs to plead in order to state a claim and show an entitlement to relief under the antitrust laws. In that regard, I'd like to direct the Court's attention to paragraph 51 of the plaintiff's complaint in this case, which is at page 27 of the joint appendix, and which summarizes the grounds for plaintiffs' allegation that there is a contract combination or conspiracy in restraint of trade. The complaint states, and I quote, \"in the absence of any meaningful competition among the defendants. \" and, quote, in light of the parallel course of conduct that each engaged in to prevent competition, the plaintiffs... the defendants conspired."
+                },
+                {
+                    "start": 89.391,
+                    "stop": 117.557,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but isn't the next sentence, the substance of the sentence is \"plaintiffs allege upon information and belief that defendants have entered into a contract combination or conspiracy to prevent competitive entry in their respective telephone and/or high speed interstate markets, and agreed not to compete with one another and otherwise allocated customers and markets to one another. \" Now, does that state a violation of the Sherman Act?"
+                },
+                {
+                    "start": 117.557,
+                    "stop": 118.907,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does not, Your Honor."
+                },
+                {
+                    "start": 118.907,
+                    "stop": 119.407,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It does not?"
+                },
+                {
+                    "start": 119.407,
+                    "stop": 120.843,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does not state a claim."
+                },
+                {
+                    "start": 120.843,
+                    "stop": 134.853,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, you could leave out everything before plaintiff, the part you quoted, that's not part of the declaration in the sentence. But the sentence itself alleges a garden variety of the violation of the Sherman Act, doesn't it?"
+                },
+                {
+                    "start": 134.853,
+                    "stop": 142.173,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The sentence recites the language of the Sherman Act, that is correct. But what this Court's cases indicate and what Rule 8 requires--"
+                },
+                {
+                    "start": 142.173,
+                    "stop": 154.915,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's got the language of the Sherman Act, a conspiracy to prevent competitive entry in their respective telephone and/or high speed markets. That's not in the Sherman Act, that's a description of the alleged conspiracy in this case."
+                },
+                {
+                    "start": 154.915,
+                    "stop": 170.14,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is true that they have described the alleged conspiracy, but what Dura, Associated General Contractors, and other cases of this Court require is a statement of facts that warrants the legal conclusion that the plaintiffs wish to--"
+                },
+                {
+                    "start": 170.14,
+                    "stop": 202.161,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kellogg, the Federal Rules of Civil Procedure assiduously avoid using the word fact throughout. And from 1938 on, it has been repeated that it is not necessary to plead facts. The index of forms, the appendix of forms shows how simple the plain statement of a claim is, and you're not required to plead facts. And yet that's the central... seems to be the central thrust of your argument."
+                },
+                {
+                    "start": 202.161,
+                    "stop": 221.892,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, every case of this Court dealing with pleading standards has indicated that it is not sufficient merely to recite a legal conclusion, and claim an entitlement to relief therefore. In Dura, for example, the plaintiffs claimed proximate cause and loss causation, and the Court said--"
+                },
+                {
+                    "start": 221.892,
+                    "stop": 236.468,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Mr. Kellogg, that's not a legal conclusion, it's an allegation of fact that there was an agreement to prevent competitive entry into respective markets. There are dozens of antitrust complaints that are no more specific than that."
+                },
+                {
+                    "start": 236.468,
+                    "stop": 268.69,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, in the context in which this claim is made, the allegation of agreement or conspiracy is not a statement of fact. It is an inference that the plaintiffs seek to draw from the facts that they allege in the complaint. Context here is everything. In form 9, for example, Justice Ginsburg, or in the case of Sherkovitz, you had a specific context. You had a time, a place, individual participants named, a clear injury in form 9, a broken leg as a report--"
+                },
+                {
+                    "start": 268.69,
+                    "stop": 278.545,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But negligently drove. It doesn't say whether it went through a stop light. Doesn't say whether it was speeding. It doesn't say any one of the umpteen ways one could be negligent."
+                },
+                {
+                    "start": 278.545,
+                    "stop": 306.815,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is correct, Justice O'Connor, but you have a direct context... Justice Ginsburg, you had a direct context in which an eyewitness participant in the event is claiming negligence on behalf of the driver of the car. In the instant case, we have no injury that's separate from the alleged conspiracy, and we have no time, place or participants for the alleged conspirators."
+                },
+                {
+                    "start": 306.815,
+                    "stop": 337.25,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you do have a case... anywhere, forget antitrust. Suppose it's a tort case, and the following complaint is filed. My foot hurts. I've gone to Dr. Smith for 15 years. I claim he is negligent. Is that valid? All right. Now, if you think that's valid, I understand that you think this complaint does just what I said in the field of antitrust. But is there any case that you've come across which would say a complaint just as I have described it--"
+                },
+                {
+                    "start": 337.25,
+                    "stop": 337.717,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 337.717,
+                    "stop": 346.506,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Either is valid or is not valid. You'd like to find one that says it's not valid, so what's your best effort in any field of law."
+                },
+                {
+                    "start": 346.506,
+                    "stop": 367.603,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would cite, for example, the Court's decision in the Papasan case, where the plaintiffs claimed that they were not getting a minimally adequate education. That sounds like a factual statement. But what the Court expressly said in that case is that we do not have to accept legal conclusions in the guise of factual allegations."
+                },
+                {
+                    "start": 367.603,
+                    "stop": 387.683,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But of course, there the legal standard was not clear. And the Dura case, I looked at, and perhaps you disagree based on what you... what I have just heard, and I thought Dura was a lack of proximate cause. They just didn't show any relation between the injury they alleged to have suffered, and their own. And that's the way I read Dura."
+                },
+                {
+                    "start": 387.683,
+                    "stop": 410.732,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think Dura is an exact analogy. In Dura, they allege proximate cause, they allege loss causation. And the Court said, well, let's look at their statement of facts, which only showed that they had bought at an inflated price. And the Court said there was a fatal gap between that factual allegation and the legal conclusion that they wished to draw."
+                },
+                {
+                    "start": 410.732,
+                    "stop": 432.712,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You can get into trouble by alleging too much, I guess, because if you allege a lot, you might leave something out. And you say, well, what about that one. But suppose we keep it very, very minimal. And a person just says, I'm hurt and the defendant, I claim, negligently injured me. Period. Well, why not?"
+                },
+                {
+                    "start": 432.712,
+                    "stop": 434.664,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The grounds upon which the claim is based."
+                },
+                {
+                    "start": 434.664,
+                    "stop": 438.616,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the only thing that's missing there are some facts."
+                },
+                {
+                    "start": 438.616,
+                    "stop": 442.703,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Some facts indicative that the defendant is responsible for the--"
+                },
+                {
+                    "start": 442.703,
+                    "stop": 446.071,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. So now you're saying a complaint has to have facts?"
+                },
+                {
+                    "start": 446.071,
+                    "stop": 446.888,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely."
+                },
+                {
+                    "start": 446.888,
+                    "stop": 513.116,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I thought you were also making a different argument. I thought you were making the argument that they have, by their pleadings, in effect, affirmatively indicated that they don't have enough facts to support a general allegation. I thought you were saying that because of the preface that you began reading, that in view simply of the fact that they are not competing, and in view of parallel conduct, they have violated the Act. So I guess my question is, would your position be different if there were no allegation simply of an absence of competition and parallel action if... would your position be different if they had simply alleged, as Justice Stevens emphasized, that here were these parties and they had... they had taken some action, not specified, which resulted in violation of the Act?"
+                },
+                {
+                    "start": 513.116,
+                    "stop": 531.327,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Our position would not be different. It's the uniform view of the cases that I cited, the Courts of Appeals and a requirement of Rule... Rule 8 that you do more than simply parrot the words of the cause of action or announce legal conclusions. But as you point out, in this case--"
+                },
+                {
+                    "start": 531.327,
+                    "stop": 545.069,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that would not be good enough, but are you saying that this is worse because, in effect, they have gone some steps towards specification. And the specifications that they have made affirmatively show that they don't have enough for the agreement."
+                },
+                {
+                    "start": 545.069,
+                    "stop": 555.277,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is certainly true that all they have alleged is conduct from which they seek to draw an inference of conspiracy. And they have made that quite clear, that they have made no direct allegation."
+                },
+                {
+                    "start": 555.277,
+                    "stop": 561.347,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you're saying that inference cannot be drawn from the particular facts that they have alleged."
+                },
+                {
+                    "start": 561.347,
+                    "stop": 587.248,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct. Our position is that as a matter of substantive antitrust law, what this Court said in Matsushita is that antitrust law limits the range of permissible inferences that can be drawn from parallel conduct. And if all you have is parallel conduct that's consistent, on the one hand, with conspiracy, or on the other hand, with ordinary business judgment, you cannot draw an inference of the sort that the plaintiffs depend upon in this case."
+                },
+                {
+                    "start": 587.248,
+                    "stop": 598.472,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, that may be true on summary judgment, you may be dead right on the merits, but are you telling me that an allegation that the defendants have agreed not to compete with one another is not a statement of fact?"
+                },
+                {
+                    "start": 598.472,
+                    "stop": 603.34,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I am. I would say that that's a... that's a conclusion--"
+                },
+                {
+                    "start": 603.34,
+                    "stop": 613.565,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what if they said they agreed in writing not to compete with one another, would that be sufficient? Or if they have agreed orally not to compete with one another, would that be sufficient?"
+                },
+                {
+                    "start": 613.565,
+                    "stop": 616.933,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If there were a specific context and they said--"
+                },
+                {
+                    "start": 616.933,
+                    "stop": 631.527,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If they said they have agreed orally not to compete with one another, would that be a statement of fact, an allegation of fact? Then why did you leave the words orally out? Why is it not a statement, allegation of fact?"
+                },
+                {
+                    "start": 631.527,
+                    "stop": 641.483,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because the plaintiffs here were very careful, in light of Rule 11, not to make any direct allegations of conspiracy, not to suggest that there was a time and place--"
+                },
+                {
+                    "start": 641.483,
+                    "stop": 645.1,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's a direct allegation of conspiracy, that very statement."
+                },
+                {
+                    "start": 645.1,
+                    "stop": 648.571,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But they make it clear in that paragraph that it's an inference."
+                },
+                {
+                    "start": 648.571,
+                    "stop": 662.462,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They make it fairly clear that they may only have the evidence of parallel conduct that you describe, and that may not be sufficient, and maybe for that reason, you get a summary judgment. But how you can say this is not an allegation of fact, I find mind-boggling."
+                },
+                {
+                    "start": 662.462,
+                    "stop": 677.306,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm saying that it's not sufficient to state a claim. Just as the allegation that there was lost causation in Dura, or that there was harm to the union in Associated General Contractors or there, that there was harm--"
+                },
+                {
+                    "start": 677.306,
+                    "stop": 693.6,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now you're, that's the part precisely which you're following that I don't, that I actually don't know, is the extent to which you have to put in a complaint, in whatever field of law, you can allege a fact. You say the person ran over me--"
+                },
+                {
+                    "start": 693.6,
+                    "stop": 694.083,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 694.083,
+                    "stop": 724.553,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Or you say, they treated me negligently. That's a fact. That means something happened there. But suppose you write the complaint and there is just no notion that you have a what and when, how, under what circumstances. It's just totally out of thin air, and the defendant doesn't know what, what period of time he is supposed to be thinking about, what, what happens to such a complaint? There must be some law on it in torts or someplace?"
+                },
+                {
+                    "start": 724.553,
+                    "stop": 730.873,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, ordinarily in a complaint like that, you could file a 12(e) motion and ask for more specificity. Our problem--"
+                },
+                {
+                    "start": 730.873,
+                    "stop": 731.992,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why couldn't you do the same?"
+                },
+                {
+                    "start": 731.992,
+                    "stop": 749.604,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Our problem with the current complaint is not a lack of specificity, it's quite specific. It provides color maps and such. The problem is that the facts specifically alleged simply don't amount to an antitrust violation because they don't support the inference that the plaintiffs ask the Court to draw."
+                },
+                {
+                    "start": 749.604,
+                    "stop": 778.021,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, but they're... they're using the fact that there was parallel behavior as a basis for thinking there was more than parallel behavior. They are using it as a basis for thinking that once, on some occasion that's relevant, there were people meeting in a room and saying things to each other. So they are not just saying that it's sufficient. They are saying it's evidence that something else occurred."
+                },
+                {
+                    "start": 778.021,
+                    "stop": 790.429,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. That's exactly what they are saying and what Matsushita and the other courses, cases of this Court dealing with parallel conduct indicate, is that that's not a fair inference from parallel conduct."
+                },
+                {
+                    "start": 790.429,
+                    "stop": 796.835,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wasn't that a summary judgment case and hadn't there been discovery before? The Matsushita decision?"
+                },
+                {
+                    "start": 796.835,
+                    "stop": 813.727,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct. But the Court announced that as a principle of substantive law. They said substantive antitrust law limits the range of permissible inferences. We are not suggesting that the plaintiffs need the sort of specificity or certainly any evidence at the pleadings stage. For example--"
+                },
+                {
+                    "start": 813.727,
+                    "stop": 856.804,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They just have to say orally, I wish you would reconsider that? Because if that's, if that's all you're arguing, I don't see anything to be gained by... by such a holding. It doesn't tell you... you know, this is a suit against a number of large corporations, nationwide businesses, thousands of employees. And on this complaint you have no idea who agreed with whom, where, when, any of that. I can understand that you're saying that does not give us enough notice to prepare a defense. But if you say oh, but it would be perfectly all right so long as they said orally. I mean... forget about it."
+                },
+                {
+                    "start": 856.804,
+                    "stop": 885.423,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... I should not agree to that. That's simply adding the word orally. It's certainly fair when you are talking about a nationwide class over a period of 10 years attacking an entire industry to suggest that the plaintiffs have to give some indication of what it is that the defendants have done that is wrong. Some concrete basis for the Court to believe there is a reason to go forward to the--"
+                },
+                {
+                    "start": 885.423,
+                    "stop": 903.218,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So in the negligently drove case, the plaintiff negligently drove over... the defendant negligently drove over the plaintiff, if it's not specific as to time and place it must be dismissed? If it's specific as to time and place it's, it withstands the motion?"
+                },
+                {
+                    "start": 903.218,
+                    "stop": 909.269,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well certainly, Form 9 is very specific. It gives a specific corner, it gives a time, it gives the names of the participants."
+                },
+                {
+                    "start": 909.269,
+                    "stop": 911.002,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if it does say within the last 10 years."
+                },
+                {
+                    "start": 911.002,
+                    "stop": 916.023,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think that's sufficient, Your Honor. But with a... with a--"
+                },
+                {
+                    "start": 916.023,
+                    "stop": 921.16,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you have a case, do you have a case I can look to that tells me that?"
+                },
+                {
+                    "start": 921.16,
+                    "stop": 943.673,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--With a negligence case a 12(e) motion could then specify the actual time and place, but the plaintiffs here have had ample opportunity to amend their complaint to supplement. If they had any specifics indicating that there was such an agreement as opposed to lawyer speculation and a desire to engage in expensive discovery they would have produced that."
+                },
+                {
+                    "start": 943.673,
+                    "stop": 947.477,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you seek a more specific statement?"
+                },
+                {
+                    "start": 947.477,
+                    "stop": 948.394,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We did not, Your Honor."
+                },
+                {
+                    "start": 948.394,
+                    "stop": 953.798,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why not? Why didn't you ask when and where was this agreement."
+                },
+                {
+                    "start": 953.798,
+                    "stop": 977.263,
+                    "speaker": {
+                        "name": "Michael K. Kellogg",
+                        "ID": 36128,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well again the whole way this was litigated below by the plaintiffs was that they, they acknowledged they had no specifics. They simply asked that an inference be drawn from the parallel conduct they alleged. And that is our central point that you simply cannot infer an agreement from this conduct. If the Court has no questions, I reserve my time."
+                },
+                {
+                    "start": 977.263,
+                    "stop": 993.456,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Kellogg. Mr. Barnett."
+                }
+            ],
+            "start": 6.57,
+            "stop": 1023.475
+        },
+        {
+            "turns": [
+                {
+                    "start": 993.456,
+                    "stop": 1023.475,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court. The fundamental concern of the United States is that the decision of the Second Circuit can be read to hold that a Section 1 Sherman Act complaint will survive a motion to dismiss merely by alleging parallel action or inaction in attaching the bare assertion of an agreement. Such a result fails to appreciate that parallel action or inaction is ubiquitous in our economy and often reflects beneficial competitive forces."
+                },
+                {
+                    "start": 1023.475,
+                    "stop": 1030.045,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do you mean can be held, can be thought to hold that? Is there any interpretation of what they did."
+                },
+                {
+                    "start": 1030.045,
+                    "stop": 1060.064,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well there are certain portions of the decision that talk about a plausibility requirement but when it turns to the specific area of a Section 1 complaint and a complaint alleged on parallel conduct, I agree with you, Justice Scalia, that that's the only interpretation I can draw from that passage. The Court held that if you allege parallel action unless there are no set of facts that can be proved, and it's always possible to hypothesize an agreement, you cannot dismiss that complaint."
+                },
+                {
+                    "start": 1060.064,
+                    "stop": 1128.625,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is that really what they... I thought, and correct me if I'm wrong, but I thought that the, that the Court spoke of no set of facts, only on the assumption that there had been a pleading which did raise a plausible, possible inference of forbidden conduct, and I thought the Court was saying if the, if the plausibility criterion has been satisfied, then the only way that the defendant can get a dismissal is by showing that there is no set of facts which would actually support the action. And I'm not sure that that can be done at the, at the, at the stage of simply pleading a dismissal as opposed to summary judgment or something like that. But I thought the Court did not get to its no set of facts point until it had first assumed that there had been a, a pleading on the basis of which a plausible inference of forbidden conduct could be drawn. Am I about that?"
+                },
+                {
+                    "start": 1128.625,
+                    "stop": 1174.523,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Justice Souter, I read that passage of the Second Circuit decision as not expressly referencing the plausibility requirement. There is language saying that the allegation needs to be plausible but when you get to this specific passage it says that if you allege parallel conduct a court cannot dismiss the claim unless there could be no set of facts that could be proved. But regardless, even if I am, your interpretation is potentially permissible interpretation, the fundamental concern of the United States is that this Court, having the case now, clarify that a Section 1 Sherman Act complaint should not be able to survive a motion to dismiss unless it alleges some facts beyond mere generic parallel action."
+                },
+                {
+                    "start": 1174.523,
+                    "stop": 1180.593,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, so that if plausibility is the standard this does not meet the standard of plausibility, that's your argument?"
+                },
+                {
+                    "start": 1180.593,
+                    "stop": 1195.57,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we prefer the formulation that, from the Court's opinion in Dura that says that the facts need to demonstrate some reasonably founded expectation that there is an unlawful agreement within the meaning of Section 1 of the Sherman Act."
+                },
+                {
+                    "start": 1195.57,
+                    "stop": 1213.481,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And some parallel action would indicate that wouldn't it? I mean, if for example they, you have nine companies that change their price at the same hour of the same day, 10 months in a row."
+                },
+                {
+                    "start": 1213.481,
+                    "stop": 1215.497,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely, Justice Scalia. I agree."
+                },
+                {
+                    "start": 1215.497,
+                    "stop": 1221.235,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're, you're not saying that parallel action can never create this, this kind of--"
+                },
+                {
+                    "start": 1221.235,
+                    "stop": 1290.145,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct. If all you know is that there is parallel action or inaction, that in and of itself tells you nothing. Once you start to add the facts and circumstances surrounding it, particular parallel action can be suspicious enough, and the example you give is a good one, that demonstrates a reasonably founded expectation for believing that discovery may yield evidence showing that that parallel price increase at the same time by nine different companies was the result of an unlawful conspiracy. If I can turn to, in... in deciding whether or not there is such a reasonably founded expectation, you do need to look to the substantive law. Here the issue is the law on agreement under Section 1 of the Sherman Act. Some of the questions I think I've heard go to this issue. Section 1 law specifically limits the kinds of facts that can be used to establish an agreement that is cognizable under the Sherman Act. In particular, the Court's rulings made clear that conscious parallelism which some economists might argue is a form of an agreement, is not an agreement within the meaning of Section 1."
+                },
+                {
+                    "start": 1290.145,
+                    "stop": 1294.013,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's clear it's not sufficient to prove it, but is it admissible evidence?"
+                },
+                {
+                    "start": 1294.013,
+                    "stop": 1298.501,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It may be admissible evidence but depending on the facts and circumstances--"
+                },
+                {
+                    "start": 1298.501,
+                    "stop": 1304.821,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Should a plaintiffs's complaint fail because it includes unnecessary, verbose, admissible evidence?"
+                },
+                {
+                    "start": 1304.821,
+                    "stop": 1311.242,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. It should fail if it fail... if it does not allege facts that indicate reasonable found--"
+                },
+                {
+                    "start": 1311.242,
+                    "stop": 1316.127,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is not it an allegation that they've agreed not to compete with one another an allegation of fact?"
+                },
+                {
+                    "start": 1316.127,
+                    "stop": 1329.703,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is a combined question of law and fact in our view, because as I said the Section 1 law limits the kinds of facts that can be used to establish an agreement. If all they have alleged is parallel action without more--"
+                },
+                {
+                    "start": 1329.703,
+                    "stop": 1332.655,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they have alleged more. They have alleged an actual agreement."
+                },
+                {
+                    "start": 1332.655,
+                    "stop": 1343.861,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But as paragraph 51 of the complaint is, as you were discussing, in some ways even worse. Because it specifically relies upon parallel action and alleged parallel inaction."
+                },
+                {
+                    "start": 1343.861,
+                    "stop": 1356.787,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But what if it didn't? I mean, I mean face the question that Justice Stevens puts. Suppose you have a complaint that says nothing else except that these defendants entered into an agreement in... in restraint of trade."
+                },
+                {
+                    "start": 1356.787,
+                    "stop": 1365.542,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And that is not sufficient because in our view the complaint needs to allege some facts that demonstrate a basis for believing there was an unlawful agreement within--"
+                },
+                {
+                    "start": 1365.542,
+                    "stop": 1381.252,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if the complaint in addition to that alleged that up to a certain date, it was unlawful for the companies to compete with one another but the law was changed and after that change took place they were advised by their lawyers they could compete, but they agreed not to. Would that be sufficient?"
+                },
+                {
+                    "start": 1381.252,
+                    "stop": 1388.422,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. Every business, every day fails to enter some new line of business or take some potential competitive action. The mere--"
+                },
+                {
+                    "start": 1388.422,
+                    "stop": 1398.361,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Justice Stevens's question was that the allegation was that after that date they agreed not to compete. That states... that states a cause of action under the Sherman Act, doesn't it?"
+                },
+                {
+                    "start": 1398.361,
+                    "stop": 1413.303,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. I would, with respect, Mr. Chief Justice, I would disagree with that. There still needs in our view to be some allegation that indicates... a factual allegation that indicates a reason for believing there may have been unlawful agreement."
+                },
+                {
+                    "start": 1413.303,
+                    "stop": 1427.711,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can they say on the 14th of January, 2004, we believe that in the city of New York, they agreed upon this course of action? That would surely be sufficient?"
+                },
+                {
+                    "start": 1427.711,
+                    "stop": 1434.449,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That may be sufficient because it is providing enough facts to give you a reason to believe that the plaintiff has a basis for--"
+                },
+                {
+                    "start": 1434.449,
+                    "stop": 1462.201,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's saying, all I've done is limited it in time and space. Just as you might say on October the 24th, 2004 at the corner of 14th and Third Avenue, defendant drove negligently and injured me. That's certainly a complaint, isn't it? Isn't it? Well, look, the one I just alleged in the tort law is a complaint. I've just copied it out of the model complaints. Am I right or not?"
+                },
+                {
+                    "start": 1462.201,
+                    "stop": 1465.736,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The facts allege need to be specific enough to suggest--"
+                },
+                {
+                    "start": 1465.736,
+                    "stop": 1467.036,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I understand the standard."
+                },
+                {
+                    "start": 1467.036,
+                    "stop": 1467.403,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1467.403,
+                    "stop": 1480.412,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I want to know how to apply the standard and now I take my tort case-- --which is okay, and now I say sometime during the last 10 years he drove negligently and injured me. Is that no good?"
+                },
+                {
+                    "start": 1480.412,
+                    "stop": 1482.864,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In my view that's probably insufficient--"
+                },
+                {
+                    "start": 1482.864,
+                    "stop": 1519.97,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so you're saying that this case is like that, when because they don't say when they met, they don't say what happened, they don't give a time or place. If that's, leaving your side parallelism out of it, I'm past you on that, all right? I'll accept for argument's sake all your point about that. Now if you're saying this is too vague, leaving that out of it, because it doesn't say time and place of the meetings or give any other clue for meetings etcetera, what's your best authority? This is an area of law I'm not familiar with. I'm looking for cases that will tell me how specific a complaint has to be to tie the events down to specific ones."
+                },
+                {
+                    "start": 1519.97,
+                    "stop": 1523.256,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I believe that this Court's decision in Dura Pharmaceutical--"
+                },
+                {
+                    "start": 1523.256,
+                    "stop": 1539.151,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Dura is still the best. I think I, did I write that case? [Laughter] I'm not drawing total comfort from it. [Laughter] In fact I'd like something in tort law or something that, you know, that I get a general idea of what the law is because I don't know that antitrust is--"
+                },
+                {
+                    "start": 1540.251,
+                    "stop": 1543.17,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I thought our brief lists cases that go to that point."
+                },
+                {
+                    "start": 1543.17,
+                    "stop": 1573.022,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Barnett I thought you had, you had said that you don't need to indicate the particular day of the agreement. That it would be enough if it was the kind of parallel action that suggested an agreement that over nine years they all raised the price at the same time. Now that doesn't really give the defendant notice of, you know, what individuals were responsible for this, when it occurred. But you say that would still be adequate?"
+                },
+                {
+                    "start": 1573.022,
+                    "stop": 1596.404,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it does provide notice that... this is a fairly low threshold. It provides some indication. It can be an indication of direct evidence. It can be an indication of circumstantial evidence. It does focus the litigation, however, by providing a, a reason why the court and the defendant should be defending themselves against a section 1 claim. My time is up."
+                },
+                {
+                    "start": 1596.404,
+                    "stop": 1602.474,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Barnett. Mr. Richards, we'll hear now from you."
+                }
+            ],
+            "start": 993.456,
+            "stop": 1661.563
+        },
+        {
+            "turns": [
+                {
+                    "start": 1602.474,
+                    "stop": 1661.563,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: There are four essential dimensions to the problem that's before the Court and on every one of those dimensions the guidance that the Solicitor General gave in its amicus brief in the Swierkiewicz case is 180 degrees opposite the guidance that the Solicitor General is providing in its amicus brief in this case. The first of those dimensions I'll begin with because it's where petitioners began. In their brief, the Solicitor General in the Swierkiewicz case very clearly said that evidentiary standards cannot be made into pleading standards. What they said on page 5 was that by requiring pleading of the McDonnell Douglas prima facie case from employment law the Second Circuit had erroneously conflated the fair notice owed the defendant at the outset of the litigation with the standards governing the plaintiff's present of proof in court. Later at page 11, they said the court's test confuses pleading--"
+                },
+                {
+                    "start": 1661.563,
+                    "stop": 1663.765,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now you're reading from the Swierkiewicz brief?"
+                },
+                {
+                    "start": 1663.765,
+                    "stop": 1670.369,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--From the Swierkiewicz Solicitor General brief. They said that the court test in the Second Circuit that was reversed--"
+                },
+                {
+                    "start": 1670.369,
+                    "stop": 1701.89,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, i mean, you know, that's shame on them. But we're trying to get this case right and, you know, I don't care what position they took before. I care about what the right answer is, and I find it difficult to believe that you can simply allege in a complaint, I was injured by the negligence of the defendant in driving an automobile, period. Does that satisfy the, the Federal Rules?"
+                },
+                {
+                    "start": 1701.89,
+                    "stop": 1706.961,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There's a big difference between... the answer is I don't know, perhaps."
+                },
+                {
+                    "start": 1706.961,
+                    "stop": 1707.861,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Perhaps?"
+                },
+                {
+                    "start": 1707.861,
+                    "stop": 1719.716,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Perhaps. But that's very different from this case and it's different in that an automobile accident is something that happens all in one moment in time. An antitrust conspiracy like the conspiracy alleged--"
+                },
+                {
+                    "start": 1719.716,
+                    "stop": 1722.234,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The agreement happens at one moment in time."
+                },
+                {
+                    "start": 1722.234,
+                    "stop": 1723.32,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Oh, it could happen in many moments."
+                },
+                {
+                    "start": 1723.32,
+                    "stop": 1730.324,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Meetings of the minds, meeting of the minds. I used to each Contracts. Meeting of the minds at one moment in time, okay."
+                },
+                {
+                    "start": 1730.324,
+                    "stop": 1746.6,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But what the Second Circuit said on this point, and I submit that the Second Circuit was correct, was that the complaint does set forth the temporal and geographic parameters of the alleged illegal activity and the identities of the alleged key participants, and I think that's correct."
+                },
+                {
+                    "start": 1746.6,
+                    "stop": 1748.936,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But where does it set forth agreement?"
+                },
+                {
+                    "start": 1748.936,
+                    "stop": 1750.971,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It alleges--"
+                },
+                {
+                    "start": 1750.971,
+                    "stop": 1759.426,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Temporal, geographic, the identities, but where does it set forth anything evincing an agreement other than the allegation of parallel conduct?"
+                },
+                {
+                    "start": 1759.426,
+                    "stop": 1769.782,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It alleges that there was an agreement, but it doesn't prove that there was an agreement because proving the facts alleged is not a plaintiff's burden in the complaint."
+                },
+                {
+                    "start": 1769.782,
+                    "stop": 1777.771,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you have any, is there an allegation of an agreement apart from the parallel conduct? And what does that consist of?"
+                },
+                {
+                    "start": 1777.771,
+                    "stop": 1806.39,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The leading plus factor that's generally used in, in the Matsushita context, in the Monsanto context, is action that would have been against the self-interest of the conspirators in the absence of a conspiracy, and this complaint alleges very clearly that the conduct of not entering into one another's territories and competing among the ILECs as a CLEC was contrary to what would have been--"
+                },
+                {
+                    "start": 1806.39,
+                    "stop": 1823.35,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it states... would it state an antitrust violation if had you a grocery store on one corner of the block and a pet store on the other corner of the block and you say, well, the grocery store is not selling pet supplies and they could make money if they did, therefore that's an antitrust violation?"
+                },
+                {
+                    "start": 1823.35,
+                    "stop": 1827.721,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If that conspiracy were implausible, if it made no sense."
+                },
+                {
+                    "start": 1827.721,
+                    "stop": 1829.423,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's all the facts that are alleged."
+                },
+                {
+                    "start": 1829.423,
+                    "stop": 1853.221,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right, but the Second Circuit standard and the standard we defend is that if someone alleges a conspiracy I that just makes no sense because it's obvious from the face of the complaint that the alleged conspirators aren't in the same product market, not in the same geographic market or something of that kind, there is no conceivable motive for them to enter into the kind of conspiracy at hand, the complaint can be dismissed."
+                },
+                {
+                    "start": 1853.221,
+                    "stop": 1891.944,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If my case, the gasoline, oil prices fell, but I happen to know there were four gasoline shops near each other, gasoline stations, and they didn't cut their prices. Complaint? Well, then that's the economy, and you can go sue half the firms in this economy. Every firm in a concentrated industry engages in... I mean, normally conscious parallelism, and I know there are economists who think that that should be the case, but I thought the law to date was that the Department of Justice is not given by the Sherman Act the authority to remake the entire American economy. But if we accept your view I guess it is."
+                },
+                {
+                    "start": 1891.944,
+                    "stop": 1912.19,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Justice Breyer, in the NHL case, the National Hockey League case, which is one of the cases that the petitioners relied upon for a circuit conflict to get here, what the court said is that allegations that defendant's action taken independently would be contrary to their economic self-interest will ordinarily tend to exclude the likelihood--"
+                },
+                {
+                    "start": 1912.19,
+                    "stop": 1961.621,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ordinarily, if you take that sentence and read it for how you're reading, a consciously parallel action is a violation of Sherman Act section 2, then we have that radical change that many have advocated for the last 40 or 50 years, that half the economy is in violation, because in any concentrated industry, after all, it is in the interest of a firm to cut prices and to make a large market unless he knows his three competitors will also keep prices up. Now, you have to know that or you'd cut them. And that's called conscious parallelism. And I had always thought that this Court had not said that that in and of itself is a violation of the Sherman Act."
+                },
+                {
+                    "start": 1961.621,
+                    "stop": 1966.008,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Justice Breyer, we don't just allege conscious parallelism. We allege--"
+                },
+                {
+                    "start": 1966.008,
+                    "stop": 2002.614,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know that, but if in fact all you have to do in order to bring a price-fixing case and get into discovery is to allege conscious parallelism and then add without further foundation, and we think there was a real agreement too, but there's nothing other than the conscious parallelism to back it up, now we've got just what I said, with the exception you might not win at the end of the day. What have you is a ticket to conduct discovery. Now, that's what's bothering the Department of Justice and so I'd like to know the answer to that problem."
+                },
+                {
+                    "start": 2002.614,
+                    "stop": 2017.174,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Justice Breyer, the difference between that, a critical difference between that scenario and what we have alleged in this complaint is that we do allege in great detail that not entering into one another's territories would have been contrary to the interests of--"
+                },
+                {
+                    "start": 2017.174,
+                    "stop": 2047.16,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that does not help you with respect to the other claim, the claim that there was a conspiracy to prevent upstart competitors from coming in. There's no plus factor as I understand it alleged there, and I also understand that it would have been entirely in the interest of each of your defendants to keep the upstarts out and that there is no need for them to agree to do that. It would be the most natural thing in the world to do it. What do you say about that part of your case?"
+                },
+                {
+                    "start": 2047.16,
+                    "stop": 2057.418,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--As to that aspect of the case, paragraph 50 does allege two plus factors, but they are essentially allegations of common motive, which is a less strong, I'll grant you--"
+                },
+                {
+                    "start": 2057.418,
+                    "stop": 2071.208,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but a common, isn't the common motive consistent, just as consistent with no agreement as with agreement? In other words, they didn't have to agree; their common motive was operative agreement or not?"
+                },
+                {
+                    "start": 2071.208,
+                    "stop": 2091.906,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The important thing as to that aspect of the conspiracy is the Continental case in this Court, which said that you're not supposed to dismember... it's an inappropriate way to approach a conspiracy to dismember it, look at one piece of it in isolation, evaluate it as though it's by itself and then wipe the slate clean at the end of that analysis, and that's essentially what the other side is trying to do repeatedly."
+                },
+                {
+                    "start": 2091.906,
+                    "stop": 2114.204,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, what the other side is saying is that simply by alleging parallelism when it would be in the interest of each of the alleged conspirators to do just as you claim they are doing in the absence of an agreement, you have not alleged something that gets to the threshold of plausibility. That's their argument and I, I--"
+                },
+                {
+                    "start": 2114.204,
+                    "stop": 2168.056,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think, by the way, that that argument applies not just to the keeping out the upstart claim, but also to the not entering the other alleged conspirator s' fields of monopoly, if you want to put it that way, because if I, if I enter your field I know that you're going to enter mine. It just doesn't pay for me to do it. Yeah, I can make money, but I'll lose money. It seems to me perfectly natural for companies that have a certain geographic area in which they are the, the principal, the selected instrument and although they technically can enter somebody else's geographic area, they know that if they do it they will be subjected to the same thing. That is nothing more than conscious parallelism."
+                },
+                {
+                    "start": 2168.056,
+                    "stop": 2172.376,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You may reply to us jointly or severally, however you may want. [Laughter]"
+                },
+                {
+                    "start": 2172.376,
+                    "stop": 2210.835,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If I may, I'll try to pose a hypothetical that I think addresses Justice Souter's question and then, Justice Scalia, I'll try to address your question. Justice Souter, a good example would be suppose one alleges a conspiracy to rob a bank and to steal a number of getaway cars at the same time and one comes... in order to get away, so that the conspirators couldn't be found at the site of robbing the bank. One could say, well, there's a reason to rob the getaway cars totally independent of the bank and without a conspiracy. Why do they need a conspiracy to steal a car? Why isn't that something that they wouldn't individually do?"
+                },
+                {
+                    "start": 2210.835,
+                    "stop": 2253.612,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the difference between that case and this is that the allegation with respect to the agreement to procure the getaway cars gets to a kind of specificity that is not present here. Here the allegation simply is parallel conduct to make it hard for the upstarts to get in. And at that general level the answer is, of course anyone in his right mind would want to make it difficult to let the upstarts in. There's no need to assume that they might have agreed on some matter of detail which is not essential to the scheme. This is a general characteristic of competition and resistance of competition."
+                },
+                {
+                    "start": 2253.612,
+                    "stop": 2275.443,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I understand, but the point I'm trying to make with the hypothetical is that what one does if one is just looking at the conspiracy to keep CLECs out by itself first, taking the secondary aspect of the conspiracy, putting it first and analyzing it in isolation, is like taking the getaway car theft, analyzing it in isolation, saying, well, they have a reason individually to steal the cars, so I guess that couldn't--"
+                },
+                {
+                    "start": 2275.443,
+                    "stop": 2312.051,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Richards, can I ask you this question. Supposing that you were allowed to have discovery and each chief executive of the defendant companies got on the stand and said: I never talked to my, my competitors at all, I never seriously considered competing in the other, other company's territory for the reasons set forth in the, in your opponent's brief on the merits here. We never did agree. And you're able to prove the things you've alleged in the agreement. Would the, would it be appropriate to enter summary judgment against you on that testimony if you had no evidence of a specific agreement?"
+                },
+                {
+                    "start": 2312.051,
+                    "stop": 2319.304,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In the context of summary judgment or at trial, we would be required to prove what we have now alleged."
+                },
+                {
+                    "start": 2319.304,
+                    "stop": 2332.814,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But my question is you can prove what you've now alleged factually, but they deny the existence of any agreement and they explained the reasons for it exactly as the lawyers did in this brief. Would you not lose on summary judgment?"
+                },
+                {
+                    "start": 2332.814,
+                    "stop": 2336.349,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If we don't have proof at that point of what we've alleged here, we'd lose--"
+                },
+                {
+                    "start": 2337.032,
+                    "stop": 2347.224,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Prove what you have alleged, in effect, except for the key allegation of agreement among the competitors. If you had no other evidence of that agreement, would you win."
+                },
+                {
+                    "start": 2347.224,
+                    "stop": 2357.346,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If we had proof that they actually acted against what would have been their self-interest in the absence of a conspiracy, we would satisfy then the Matsushita standard for summary judgment."
+                },
+                {
+                    "start": 2357.346,
+                    "stop": 2378.176,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't understand acting in self interest. I mean, they might just decide apart from, you know, if they go into their territory they'll come into mine, that investing in this wired business isn't the best, the best bet for them. Maybe they want to get into the wireless business and think that's a better way to spend their money."
+                },
+                {
+                    "start": 2378.176,
+                    "stop": 2387.617,
+                    "speaker": {
+                        "name": "Thomas O. Barnett",
+                        "ID": 42485,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Surely it is possible to conceive of facts under which they would not have not conspired and they would have had a different motive, but that's not the legal standard under Conley versus Gibson."
+                },
+                {
+                    "start": 2387.617,
+                    "stop": 2407.679,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I'm questioning you. You say you meet the plus factor because they were acting against their self-interest, that a self-interested player in this league would have gone into the other's territory, and I'm questioning that by saying that they might have seen this whole area as not the best place to invest their money."
+                },
+                {
+                    "start": 2407.679,
+                    "stop": 2422.921,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I understand that. But we have alleged that as fact, Justice Ginsburg, and that fact and that allegation has to be treated as true under conventional pleading standards for purposes of a motion to dismiss. If we are unable to prove that fact when we get to summary judgment--"
+                },
+                {
+                    "start": 2422.921,
+                    "stop": 2430.925,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean the mere fact that you have alleged something is against their self-interest is enough to make an issue of fact on whether it's against their self-interest?"
+                },
+                {
+                    "start": 2430.925,
+                    "stop": 2431.86,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, yes."
+                },
+                {
+                    "start": 2431.86,
+                    "stop": 2443.585,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They could have gone on the stand, they gave all the reasons in the red briefs... or the blue briefs in this case, that say it's not against their self-interest; you'd say that would be a jury question?"
+                },
+                {
+                    "start": 2443.585,
+                    "stop": 2458.51,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, not at summary judgment. What I'm saying is that at the pleading stage to allege that, which is an allegation of fact, satisfies pleading standards. Just to allege it with testimony on the other side and no evidence to prove that allegation on summary judgment--"
+                },
+                {
+                    "start": 2458.51,
+                    "stop": 2466.014,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you suggesting that you don't have to prove an actual agreement? You can merely prove conduct contrary to self-interest is sufficient?"
+                },
+                {
+                    "start": 2466.014,
+                    "stop": 2472.668,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Conduct contrary to self-interest is a way of inferring actual agreement in the absence of direct evidence."
+                },
+                {
+                    "start": 2472.668,
+                    "stop": 2476.953,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you agree you must... do you agree that you must prove an actual agreement among the defendants?"
+                },
+                {
+                    "start": 2476.953,
+                    "stop": 2484.226,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There must be an inference of actual agreement, but the inference can be drawn from circumstantial evidence, and that's what Matsushita is all about."
+                },
+                {
+                    "start": 2484.226,
+                    "stop": 2509.024,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So then when we get back to the paragraph 51, let me start with your statement at the bottom half of that paragraph, that plaintiffs allege upon information and belief that they have entered into a contract, is a conclusion based upon your prior allegations, it's not an independent allegation of an agreement. It's saying because of this parallel conduct, because we think it's contrary to their self interest, therefore, they have agreed."
+                },
+                {
+                    "start": 2509.024,
+                    "stop": 2517.63,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Counsel presented it as though it's a complete summary of everything, but what it says is, and the other facts and market circumstances alleged above, and it's preceded by--"
+                },
+                {
+                    "start": 2517.63,
+                    "stop": 2522.101,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's a statement of a conclusion based upon your allegations that precede it."
+                },
+                {
+                    "start": 2522.101,
+                    "stop": 2522.617,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct."
+                },
+                {
+                    "start": 2522.617,
+                    "stop": 2527.253,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not a statement that independently there apart from all of this, there's an agreement."
+                },
+                {
+                    "start": 2527.253,
+                    "stop": 2533.908,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it's also an independent statement and allegation on information and belief, which is permitted under Rule 8, that there is agreement."
+                },
+                {
+                    "start": 2533.908,
+                    "stop": 2549.251,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess if you had just alleged the last part of paragraph 51, plaintiffs have alleged, plaintiffs allege upon information and belief, et cetera, without the detail that you provided, would that have been sufficient?"
+                },
+                {
+                    "start": 2549.251,
+                    "stop": 2558.19,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If you gave no context of what kind of a conspiracy you were alleging and what kind of scope it had, so that a court could balance--"
+                },
+                {
+                    "start": 2558.19,
+                    "stop": 2576.151,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you omit all the allegations about parallel conduct and the other allegations that you think provide a basis for inferring a conspiracy from the parallel conduct, if you omit all that but you just include the last part of 51, would that be enough?"
+                },
+                {
+                    "start": 2576.151,
+                    "stop": 2587.409,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If there isn't enough in the way of facts alleged to permit a court to understand what it is you're claiming in general terms happening, then you haven't satisfied Rule 8. I mean--"
+                },
+                {
+                    "start": 2587.409,
+                    "stop": 2591.877,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's the answer to Justice Alito's question in this case?"
+                },
+                {
+                    "start": 2591.877,
+                    "stop": 2594.579,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, in this case we have provided, as the Second Circuit--"
+                },
+                {
+                    "start": 2594.579,
+                    "stop": 2611.255,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. His hypothetical is all you've done is to allege the final sentence without the preceding clause, the five or six lines before there's a comma. That's out. All there is is the allegation of the conspiracy. Is that enough in this case?"
+                },
+                {
+                    "start": 2611.255,
+                    "stop": 2616.473,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In this case with the allegations of the nature of the conspiracy that precede that sentence, it's enough."
+                },
+                {
+                    "start": 2616.473,
+                    "stop": 2633.034,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. The hypothetical is without the preceding clause. Is that enough-- --Is that enough in this case for what Justice Alito asked, and I think we are interested in the answer that you make given this complaint in this case that we are faced with."
+                },
+                {
+                    "start": 2633.034,
+                    "stop": 2654.198,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that that would satisfy conventional pleading standards under Rule 8(a). On the other hand, I don't think it would satisfy the Second Circuit's standard below, because the Second Circuit required enough facts to enable a court to wrap its mind around a complainant, understanding what it is you claimed happened. You don't have to prove your case as a complainant, you just have to--"
+                },
+                {
+                    "start": 2654.198,
+                    "stop": 2706.345,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'd also like a clear answer, and I would like to go back to Justice Stevens' question because I'm not sure what you're thinking there. We have three steel sheet companies in the United States, no more. They sell at $10 a sheet. One day we have action in the case, a memo to the president of the company. He says Mr. President, if you cut your prices to $7 you will make even more money unless the others go along. And if they get there first, you will lose money. So whether they cut or not, you'd better cut your prices. Reply from the president: But if I don't cut my prices, they won't cut theirs, and we are all better off. That's your evidence. Do you win? There is no depend. That's the evidence. Do you win?"
+                },
+                {
+                    "start": 2706.345,
+                    "stop": 2708.831,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If that's the evidence, I think I win."
+                },
+                {
+                    "start": 2708.831,
+                    "stop": 2711.216,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. And you cite Matsushita for that?"
+                },
+                {
+                    "start": 2711.216,
+                    "stop": 2714.801,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. For that I would cite Judge Posner's decision."
+                },
+                {
+                    "start": 2714.801,
+                    "stop": 2749.039,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If you're right, then I guess we could engage in this major restructuring of the economy, and if that's the law, I'm surprised they haven't done it, but maybe they have just been recalcitrant. Well, because we have concentrated industries throughout the economy, I guess, or at least we used to, and I suppose that that's a perfectly valid way of reasoning for an executive in such a company, at least they teach that at the schools of government, and people who aren't really experienced in these things, but--"
+                },
+                {
+                    "start": 2749.039,
+                    "stop": 2775.606,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the way Judge Posner explains it in High Fructose is to say that it is possible to have an agreement without a moment where there's a statement of agreement. The participants in a conspiracy can possibly treat what one of them does as an offer, which another one can accept by following it, to satisfy that way of showing a conspiracy."
+                },
+                {
+                    "start": 2775.606,
+                    "stop": 2796.553,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Okay, fine. Now, let's forget my immediate disagreement or not. Let's say I agree with you on this. Now we have our example right in mind. What other than the parallel to my example could one reading this complaint think you intend to prove?"
+                },
+                {
+                    "start": 2796.553,
+                    "stop": 2825.839,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, the strongest... plus factors that, in the absence of direct evidence of conspiracy at the outset of a case, which private plaintiffs will almost never have because people don't conspire in public parks. All a plaintiff can have is what are called plus factors under Matsushita, and the strongest of those plus factors is what has been alleged in great detail in this complaint of action against self interest. The case law recognizes that--"
+                },
+                {
+                    "start": 2825.839,
+                    "stop": 2846.37,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how do you tell? I mean, companies get proposals all the time. Here's a way you could make more money. You could all enter the market in some foreign country. The people decide, I mean, life is short and they've got certain objectives, and they don't have to do everything that an economist might think is in their economic self interest. I mean, what is the limiting self interest to that?"
+                },
+                {
+                    "start": 2846.37,
+                    "stop": 2876.722,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--This is different from that because this is a situation where when the Telecommunications Act was passed in 1996, Congress expected that the ILECs would compete in one another's territories as CLECs. The defendants pledged that they would compete in one another's territories at ILECs. They then for years in Congress complained that the CLECs who were trying to compete with them were given an unfair advantage in the terms and conditions on which they were permitted to--"
+                },
+                {
+                    "start": 2876.722,
+                    "stop": 2890.232,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it an adequate response for the executive to say, I'm a little risk averse, I want to see how things work out over the next five years. They keep changing the laws, the regulatory environment. That's why I didn't jump in and compete?"
+                },
+                {
+                    "start": 2890.232,
+                    "stop": 2897.736,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If they can prove that that's the reason why they didn't jump in and compete, then they have a nonconspiratorial reason for what they did."
+                },
+                {
+                    "start": 2897.736,
+                    "stop": 2909.627,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if they don't do that, is it your argument that simply by behaving differently from the way Congress assumed when it passed the statute, that raises the plausible inference of violation?"
+                },
+                {
+                    "start": 2909.627,
+                    "stop": 2923.034,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Within the other facts that I was identifying, there is a strong suggestion here that competition as a CLEC would have been, in the absence of the pattern of conduct that we allege here, would have been a profitable endeavor."
+                },
+                {
+                    "start": 2923.034,
+                    "stop": 2932.823,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. But is part of the plausibility of that inference the fact, in your argument, the fact that Congress assumed that would happen?"
+                },
+                {
+                    "start": 2932.823,
+                    "stop": 2935.592,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's one factor that I point to among several to--"
+                },
+                {
+                    "start": 2935.592,
+                    "stop": 2939.396,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I mean, the congressional assumption is part of your case, in other words?"
+                },
+                {
+                    "start": 2939.396,
+                    "stop": 2954.756,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It is. I believe that along with other factors such as the constant complaints to Congress about how CLECs had the better side of the deal than the ILECs, along with the pledges of the defendants that they would do, and that they didn't do."
+                },
+                {
+                    "start": 2954.756,
+                    "stop": 2970.765,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I used to work in the field of telecommunications and if the criterion is that happens which Congress expected to happen when it passed its law, your case is very weak."
+                },
+                {
+                    "start": 2970.765,
+                    "stop": 2982.573,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, that... I certainly don't expect that that is the evidence that we would be relying on at trial or at summary judgment to support our case, but in our motion to dismiss we don't have to have the evidence to support our case."
+                },
+                {
+                    "start": 2982.573,
+                    "stop": 3002.786,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you need what is called the plus factor, and I gather that you acknowledge that if I disagree with you that this, this parallel action seemed to be against the self interest of the companies, you no longer have a plus factor and you would lose."
+                },
+                {
+                    "start": 3002.786,
+                    "stop": 3018.329,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think that the Court, if the Court comes to a conclusion on its own that the facts that we have alleged, which is that it would have been in their interest to do this in the absence of conspiracy, is wrong, then the Court is not following conventional pleading standards."
+                },
+                {
+                    "start": 3018.329,
+                    "stop": 3027.535,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So all you have to do to prove, to establish a plus factor is to say in your pleading, and there is a plus factor?"
+                },
+                {
+                    "start": 3027.535,
+                    "stop": 3028.72,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, you have to say what it is."
+                },
+                {
+                    "start": 3028.72,
+                    "stop": 3033.089,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have to say what it is, that's all, and even if it's implausible?"
+                },
+                {
+                    "start": 3033.089,
+                    "stop": 3036.81,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if it's implausible, that might be a different consideration."
+                },
+                {
+                    "start": 3036.81,
+                    "stop": 3049.883,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Richards, didn't the Second Circuit say you don't need a plus factor? They said if you did, we think that the plaintiffs could show it, but the second sentence is you don't need a plus factor."
+                },
+                {
+                    "start": 3049.883,
+                    "stop": 3050.5,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 3050.5,
+                    "stop": 3059.089,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that can be wrong or right, but the Second Circuit was very clear that Rule 8 wants a plain statement of the claim and no plus factor."
+                },
+                {
+                    "start": 3059.089,
+                    "stop": 3071.983,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I agree with that, Your Honor, and my contention as to what the law is is that we are not required to plead plus factors. But the fact remains that we have, and that our factual pleading of plus factors has to be treated as true for purposes of a--"
+                },
+                {
+                    "start": 3071.983,
+                    "stop": 3083.104,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if you pled more than you had to, and it's clear from what you pled that you were drawing an implausible inference? Can't the complaint then be dismissed for failure to state a claim?"
+                },
+                {
+                    "start": 3083.104,
+                    "stop": 3096.931,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, I don't believe that it can be if... because the Court is not, the correct function of the Court under a Rule 12(b)(6) motion is not to be decided by whether it believes or is persuaded by the allegations in the complaint."
+                },
+                {
+                    "start": 3096.931,
+                    "stop": 3128.985,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's take the Form 9 where you take the form complaint for an automobile accident, and suppose what it says is, I was injured in an automobile accident at a particular place in time. I was hit by a compact car with Massachusetts plates. The defendant owns the compact car with Massachusetts plates. That's the complaint. The Court can't dismiss that for failure to state a claim when it's apparent from the face of the claim that you're, that the basis for suing the defendant is a totally implausible inference?"
+                },
+                {
+                    "start": 3128.985,
+                    "stop": 3141.81,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if the allegation is also made that the defendant was negligent, then I think it clearly satisfies the pleading standard under Form 9. I think it would be a more detailed complaint than the sample that comprises Form 9 of the rules."
+                },
+                {
+                    "start": 3141.81,
+                    "stop": 3151.249,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even if it reveals that the only basis for identifying this person as the defendant is the fact that the person has a Massachusetts license plate and a compact car?"
+                },
+                {
+                    "start": 3151.249,
+                    "stop": 3156.317,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, because that's more than nothing, and the rule in Form 9 contains nothing."
+                },
+                {
+                    "start": 3156.317,
+                    "stop": 3202.862,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it contains a time and a place. It's quite specific that there was an accident and that defendant, defendant of a certain name at a certain time and place negligently drove. What it doesn't tell you is the details of the, of what was negligent, but it certainly is specific in time and place and person, which is one of the... one of the concerns, I mean, if you strip away everything, it seems that you have a suspicion that there may have been a conspiracy and you want to use a discovery process to find out whether or not that's true. Isn't that essentially what this complaint is?"
+                },
+                {
+                    "start": 3202.862,
+                    "stop": 3231.897,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is the situation that any plaintiff is going to be in in a horizontal conspiracy case in the sense that we don't know for certain that there was a conspiracy. We have observed market facts which are suggestive of a conspiracy and we allege that there was a conspiracy. Now under conventional standards, all we would have to do is allege that there was a conspiracy and say what it was. We wouldn't have to plead a basis to infer that we are correct or incorrect because that's not the analysis that Rule 12(b)(6)--"
+                },
+                {
+                    "start": 3231.897,
+                    "stop": 3241.168,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you don't think you have to prove that either? I mean, you don't think you have to prove anything more than what you've alleged in the complaint about the background context, the parallel conduct?"
+                },
+                {
+                    "start": 3241.168,
+                    "stop": 3271.94,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If the Court... if we were to prove to the satisfaction of the finder of fact that the conduct we have pointed to here was or would have been contrary to the interests of the defendants in the absence of a conspiracy, we were to prove that as distinguished from pleading, we would satisfy Matsushita. Now at that stage in the case, it's inconceivable that there won't be all kinds of other memos and, you know, real world things that will shed light on why the defendants internally think they did this."
+                },
+                {
+                    "start": 3271.94,
+                    "stop": 3292.017,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How much money do you think it would have cost the defendants by then to assemble all of the documents that you're going to be interested in looking at? How many buildings will have to be rented to store those documents and how many years will be expended in, in gathering all the materials?"
+                },
+                {
+                    "start": 3292.017,
+                    "stop": 3321.384,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, to address that concern, which we share, because we don't gain anything with Matsushita. At the end of the road in the case, we don't gain anything by pursuing a case for years in an unnecessarily burdensome way if we are not sure that it's going to prevail. So we proposed in this case a phased discovery process, pursuant to which you would first have discovery into conspiracy, and then the Court would have an early opportunity for a Matsushita motion and we either carry the day at that point or we don't. That's discovery."
+                },
+                {
+                    "start": 3321.384,
+                    "stop": 3327.94,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "At what point does it get characterized as a class action, before this discovery or after?"
+                },
+                {
+                    "start": 3327.94,
+                    "stop": 3380.306,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's at the Court's discretion when to entertain the motion for class certification. In this particular case the defendants, a couple of the defendants proposed that we include in that phased discovery proposal class certification as an additional subject of that first phase of discovery, and we would be amenable to that as a compromise. But the point, getting back to Justice Scalia's point, that discovery as to whether there was a conspiracy in this case in order to satisfy that first phased analysis, would not need to be terribly burdensome and wouldn't necessarily be more burdensome than all kinds of other cases. It's really a very targeted issue. I think it's actually an appropriate way to deal with cases of this kind and it's actually a way that the Court has proposed dealing with similar issues in the past in the Anderson versus Creighton case."
+                },
+                {
+                    "start": 3380.306,
+                    "stop": 3395.065,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how would it be focused if you're talking about whether it's in their economic interest? You would have to say why, why didn't you enter into this particular realm of competition and they would say, well because we were doing other things. We had other areas that we were focusing on. And they would have to document all that to your satisfaction."
+                },
+                {
+                    "start": 3395.065,
+                    "stop": 3413.726,
+                    "speaker": {
+                        "name": "J. Douglas Richards",
+                        "ID": 32670,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We'd... we would ask for production of documents reflecting their thinking process about entering into one another's territories. And that would be very enlightening. And after we get those documents we would have a much clearer idea and be able to share with the Court a much clearer idea of the entire picture of a kind that we can't have at the 12(b)(6) stage. Thank you."
+                },
+                {
+                    "start": 3413.726,
+                    "stop": 3419.013,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you Mr. Richard, Mr. Kellogg, you have four minutes remaining."
+                }
+            ],
+            "start": 3419.013,
+            "stop": 3547.194
+        }
+    ]
+}

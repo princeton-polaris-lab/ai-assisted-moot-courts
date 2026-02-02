@@ -1,0 +1,1737 @@
+{
+    "title": "Tome v. United States",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 49.133,
+                    "stop": 198.4,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: The issue in this case is whether a charged motive to fabricate may be rebutted under Federal Rule of Evidence 801(d)(1)(B) by seven out-of-court statements made after declarant had that same motive to fabricate. We are asking this Court to hold, as did the common law, that a prior consistent statement rebuts a charged improper motive only if that motive did not exist at the time the statement was made. The criminal charges in this case arose out of a bitter child custody dispute between the petitioner, Matthew Tome, and his ex-wife. The dispute involved their small daughter, who is referred to in the briefs by the initials A.T.-- The first time the child mentioned any abuse was 14 months after it was alleged to have taken place, and it was coincidentally on the same date a child custody hearing was supposed to have taken place. Six different witnesses were allowed by the court to tell what A.T. had told them. Their statements expanded considerably on the very weak testimony at trial of A.T. All of these statements were admitted as substantive evidence. As the trial judge ruled in his order releasing Mr. Tome pending a decision of this Court, the testimony of the six witnesses about statements made by the child substantially caused the defendant's conviction. The Tenth Circuit Court of Appeals upheld the admission of the statements, all of the statements under 801(d)(1)(B), and set forth a balancing test under Federal Rules of Evidence 402 and 403 to determine whether the statements had probative value apart from mere repetition. They took into consideration three factors: 1) the strength of the motive; 2) the circumstances in which the statement was made, and 3) the declarant's demonstrated propensity to lie. The court of appeals failed to consider that the child had the same motive at the time she made her statements as at the time of trial. That balancing test, which was imposed by the Tenth Circuit Court of Appeals, is inconsistent both with the plain language of the rule and the common law history behind 801(d)(1)(B)."
+                },
+                {
+                    "start": 198.4,
+                    "stop": 207.015,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say it's inconsistent with the plain language of the rule. You don't question that the statement was offered to rebut, do you?"
+                },
+                {
+                    "start": 207.015,
+                    "stop": 217.814,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We're indicating that the statement was offered, but whether it was offered for rebuttal, we have some question in regard to that."
+                },
+                {
+                    "start": 217.814,
+                    "stop": 219.825,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is that question?"
+                },
+                {
+                    "start": 219.825,
+                    "stop": 234.895,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The question is that in terms of rebuttal it did not meet the premotive standard, and it's implicit and inherent in the rule that any statement which is made to rebut occurs prior to the motive to fabricate."
+                },
+                {
+                    "start": 234.895,
+                    "stop": 252.656,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's go through the language phrase by phrase. The testimony has to be, is offered to rebut an express or implied charge against the declarant of recent fabrication or improper influence or motive. Now, it doesn't say it has to rebut. It says it's offered to rebut."
+                },
+                {
+                    "start": 252.656,
+                    "stop": 269.616,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Our contention, Your Honor, is that by offered, that means that the court has to make a decision that if the statement, if it is allowed in and accepted, that a jury would find that a statement actually rebuts."
+                },
+                {
+                    "start": 269.616,
+                    "stop": 276.322,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you say the court has to make a decision and then the jury has to make the same decision?"
+                },
+                {
+                    "start": 276.322,
+                    "stop": 301.257,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The court has to make an initial determination similar to the determinations made in other evidentiary questions as to preliminarily whether the statement does in fact rebut, because if the court... if a party is allowed to present a statement which does not in fact rebut, even though they're offering it, it's a misrepresentation upon the court. Under--"
+                },
+                {
+                    "start": 301.257,
+                    "stop": 321.081,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in all sorts of evidentiary rulings it's a question of relevancy. The trial judge says, yes, this could be of use to the juror. A reasonable juror might be helped by this. The trial judge doesn't say, if I were the fact-finder I would be persuaded by it. Why shouldn't the same rule apply here?"
+                },
+                {
+                    "start": 321.081,
+                    "stop": 347.86,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because this is a rule with a particularly narrow purpose. The only purpose of this rule is for rebuttal. It's not a relevancy rule such as 401, 402, and 403. At common law, this kind of evidence was received very cautiously under narrow circumstances and did not occur very often. It was not to be used all the time, such as a relevancy law."
+                },
+                {
+                    "start": 347.86,
+                    "stop": 352.23,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, do you think the Federal Rules of Evidence simply froze the common law in place?"
+                },
+                {
+                    "start": 352.23,
+                    "stop": 367.571,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's not our contention. Our contention is that the Federal rules, that Rule 801(d)(1)(B) was embodied with the background, against the background of the common law, and the rule must be read in that context."
+                },
+                {
+                    "start": 367.571,
+                    "stop": 375.656,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the rules have also been interpreted to mean that they have liberalized admissibility of evidence, that that was one of their purposes."
+                },
+                {
+                    "start": 375.656,
+                    "stop": 441.64,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor, but the hearsay rules in particular are rules of exclusion, and most of them are derived from the common law, and this rule must be read in the context of the common law. The advisory committee, when they adopted this rule, indicated that the purpose of this rule was to change the admissibility of evidence which was formerly admissible as... for rehabilitation would now be admissible for substantive evidence, and so that was the only change they indicated in the rule as it had been at common law. They indicated that traditionally... prior consistent statements traditionally have been admissible to rebut charges of recent fabrication or improper influence or motive, but not as substantive evidence. Under the rule, they are substantive evidence. That was the only change that the advisory committee made."
+                },
+                {
+                    "start": 441.64,
+                    "stop": 447.944,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's the only change that the advisory committee's notes mention."
+                },
+                {
+                    "start": 447.944,
+                    "stop": 448.983,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 448.983,
+                    "stop": 466.697,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The grammar's against you, isn't it? If we were to read it the way you, you were reading it to start with in such a way that the word recent modifies not only fabrication but influence or motive. That's correct, isn't it... yes."
+                },
+                {
+                    "start": 466.697,
+                    "stop": 467.987,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 467.987,
+                    "stop": 491.802,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wouldn't the natural way, if that were the intent, to... the modifier recent apply to all three, wouldn't the natural way to write it have been recent fabrication, comma, improper influence or motive? But you've got an extra or in there which suggests to me at least that recent refers to fabrication but not necessarily to the others in the series."
+                },
+                {
+                    "start": 491.802,
+                    "stop": 505.914,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor. Our reading of the rule is that recent means more recent than the prior consistent statement. Recent has a temporal meaning, and it has to have... there has to be some reason it was put into the rule."
+                },
+                {
+                    "start": 505.914,
+                    "stop": 537.102,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the reason it was put into the rule may be that it was intended simply to modify fabrication. It seems to me that your argument about the retention of the common law rule is an argument that has pretty much got to rest on things like the failure to note that they were in this respect revising the common law, or the rejection of the Weinstein approach, et cetera, as opposed to the grammar, because it seems to me the grammar is a problem for you unless you can explain it otherwise to me."
+                },
+                {
+                    "start": 537.102,
+                    "stop": 574.877,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We would also agree with what His Honor has indicated regarding, there was a rejection of the Weinstein view by the committee which adopted the Federal rules, and they did indicate that they did not want there to be widespread use of hearsay only upon the declarant being available for cross-examination, and there was a rejection of the Weinstein view, there was a rejection of the Model Codes of Evidence which were adopted in adopting this rule. This rule, there was no argument regarding this rule as opposed to 801(d)(1)(A) and 801(d)(1)(C)."
+                },
+                {
+                    "start": 574.877,
+                    "stop": 581.191,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we find that recent modified simply fabrication, do you lose the case?"
+                },
+                {
+                    "start": 581.191,
+                    "stop": 589.777,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. That's just one particular aspect of the rule, and we... the problem in this case is that the child--"
+                },
+                {
+                    "start": 589.777,
+                    "stop": 601.464,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, can you walk me through the rule? If recent fabrication doesn't help you, are you then admitting the testimony to rebut an improper influence?"
+                },
+                {
+                    "start": 601.464,
+                    "stop": 606.319,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's improper motive or influence."
+                },
+                {
+                    "start": 606.319,
+                    "stop": 610.65,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, improper in your view, then, does modify motive?"
+                },
+                {
+                    "start": 610.65,
+                    "stop": 619.626,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, as well, Your Honor, and I think that's the way most commentators in most cases have read it, that it's improper motive or improper influence."
+                },
+                {
+                    "start": 619.626,
+                    "stop": 626.97,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is it an improper motive to want to be with your maternal parent?"
+                },
+                {
+                    "start": 626.97,
+                    "stop": 633.896,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The charged improper motive was actually that she wanted to be with her mother rather than her father."
+                },
+                {
+                    "start": 633.896,
+                    "stop": 634.797,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that improper?"
+                },
+                {
+                    "start": 634.797,
+                    "stop": 656.689,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's the charge that the Government made that the defense counsel was asserting, and they... it's only upon a charge of an improper motive that all these statements were allowed in. If there was no charge of an improper motive, all these statements would have been hearsay and would have been kept out."
+                },
+                {
+                    "start": 656.689,
+                    "stop": 666.196,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I suppose it would be improper in the context that it's improper to allow you, to allow the witness to change their testimony. It's improper only in that sense."
+                },
+                {
+                    "start": 666.196,
+                    "stop": 735.322,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's improper in the sense that that's the way the rule makes out the motive, and the Government claimed that defense counsel had charged that the improper motive was that the child wanted to live with her mother rather than her father, and that that child had the same identical motive at the time she first made her first accusation as of the time of trial, therefore the statements did not rebut. They were basically used for bolstering purposes. They were not used to actually rebut the charge of recent fabrication or improper motive. The child had the identical motive that she wanted to live with her mother rather than her father when she made the initial accusation. The charged improper motive at trial by the prosecutor was that defense counsel had indicated during cross-examination of the child that she preferred to live with her mother rather than her father because she had more friends, more toys, and--"
+                },
+                {
+                    "start": 735.322,
+                    "stop": 804.327,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Gandert, here's the problem that you confront if you sever the recent, the word recent from the latter part, namely from improper influence or motive. As long as recent is attached to the words, you can make the argument that the purpose of the rebuttal has to be a temporal purpose. You can show that no, this is not recent. You must be showing no, this is not recent, I had the same story before. But once you take away the word recent, there are a lot of ways to rebut improper influence or motive. For example, in this case, it seems to me it tends to disprove the improper motive if you can show that I had this story way back at the beginning before my mother had a chance to plant this story in my mind, whereas if it just came out at trial, it would be much more likely that it was the result of coaching. That argument is available unless the word recent applies to improper motive."
+                },
+                {
+                    "start": 804.327,
+                    "stop": 816.314,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, we would contend that this case concerns a recent fabrication, and what happened here is there was a 14-month delay before the child made her first accusation."
+                },
+                {
+                    "start": 816.314,
+                    "stop": 849.667,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not talking about what it concerns, I'm talking about your reading of the text. Why does it not tend to disprove an improper motive, namely the improper motive of wanting to live with my mother instead of my father? Why doesn't it tend to disprove that, if you say, I had this story a long time ago? The more recent it is, the more likely it is I was calculating how I could get to live with my mother. It tends to disprove it, doesn't it?"
+                },
+                {
+                    "start": 849.667,
+                    "stop": 852.188,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It doesn't tend to disprove it, because--"
+                },
+                {
+                    "start": 852.188,
+                    "stop": 870.23,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, it may not tend to disprove a recent improper motive if you can show that, well, that statement was not before the motive arose anyway, but it would tend to disprove the existence of any improper motive whether recent or not."
+                },
+                {
+                    "start": 870.23,
+                    "stop": 896.526,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That... in this case, the problem is that the child had the same motive, so no motive was disproved. If the child had the same motive at the beginning of the case, or when she made her initial accusation, as later on, there's no motive to actually be disproved. Therefore, all of her testimony is mere repetition."
+                },
+                {
+                    "start": 896.526,
+                    "stop": 915.281,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you don't disprove the motive to rebut a charge of recent or improper... oh, I see, you think you must have to eliminate the existence of the motive. I thought all you have to eliminate to rebut is the fact that the motive was the reason for your statement."
+                },
+                {
+                    "start": 915.281,
+                    "stop": 920.022,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's exactly what you have... what His Honor indicated that you have to do."
+                },
+                {
+                    "start": 920.022,
+                    "stop": 946.079,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I stand by my view that it certainly tends to disprove that in this case, if you can show, this is not something that I've been pumped up for at trial, that my mother put in my ear in order to get me to go back to live with her, as I want to do, but rather, I said this way back, long before it's at all likely that anybody put the notion in my head. Why isn't that probative?"
+                },
+                {
+                    "start": 946.079,
+                    "stop": 969.865,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's not probative because it doesn't meet the strict requirements of the rule. Perhaps it's relevant, perhaps it's reliable under, perhaps, 803(24), but the purpose of this rule was a narrow one of rebutting that charge. The charge... when the child has the same motive before as at the time of trial, it doesn't rebut the charge. Now--"
+                },
+                {
+                    "start": 969.865,
+                    "stop": 981.202,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What you've just said indicates that you're modifying what you said earlier. That is, you've made the flat statement, it would not have come in, and now you've just mentioned that, well, it might well have come in under a different rule."
+                },
+                {
+                    "start": 981.202,
+                    "stop": 983.635,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It possibly--"
+                },
+                {
+                    "start": 983.635,
+                    "stop": 993.032,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which would make this whole thing academic, right, if it could, at least the three pediatricians... were they pediatricians +/? could come in under 803(4), is it?"
+                },
+                {
+                    "start": 993.032,
+                    "stop": 993.831,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's 80--"
+                },
+                {
+                    "start": 993.831,
+                    "stop": 996.181,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All of it might come in under the catch-all."
+                },
+                {
+                    "start": 996.181,
+                    "stop": 1043.723,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We contend that it would not, but the Tenth Circuit failed to go into that thorny issue and decide whether or not the statements were admissible under other rules. We objected before the Tenth Circuit that they were not admissible under 803(4), and I can give the rationale why we indicated that, but the statements, the pediatricians, they might have come in, they might not have. We contend they would not have. It's clear that the babysitter's second statement, which was very elaborate, highly prejudicial, highly descriptive, the judge rejected the Government's attempt to allow that statement in under 803(24), and instead indicated it was solely admitted under 801(d)(1)(B)."
+                },
+                {
+                    "start": 1043.723,
+                    "stop": 1077.677,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the trial judge seemed to have some confusion about whether it would come in, would have to have a limiting instruction that it would be hearsay, that hearsay somehow, even if it fell under an exception, wasn't admissible for all purposes, it would have to be admitted... it was very confusing, I thought. Maybe you could tell me if I'm wrong about this. If something falls under a hearsay exception, then it comes in as evidence and you don't need to have a limiting instruction."
+                },
+                {
+                    "start": 1077.677,
+                    "stop": 1184.897,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe what Your Honor said is correct. I think that at the trial level all of the parties were fairly confused regarding the admissibility of this type of evidence, especially since as witness after witness came in, all of their testimony was being allowed in apparently under 801(d)(1)(B), and then sometimes the judge would indicate that the evidence was also being allowed in under another rule as well, sometimes he was not explicit. There's a lot of problems involved in the record indicating upon what reason the judge was admitting some of the statements. He did not make it all explicit. The Tenth Circuit indicated that it was their understanding that everything was being admitted under... or at least, they went along with that everything was being admitted under 801(d)(1)(B) rather than reaching those other issues, which they could have gone into as alternative reasons for their decision, but they did not. Another problem involved in this case is that what this case is doing is rejecting the common law. This case has to be read in context with the common law, and in context with the common law, it indicates that a premotive statement, only statements which were made prior to the motive were admissible at common law. We believe that the Court adopted... the Court, Congress and the advisory committee adopted the common law view of 801(d)(1)(B)."
+                },
+                {
+                    "start": 1184.897,
+                    "stop": 1213.445,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If the rule speaks in terms of, in such a way that grammatically it seems that the word recent modifies only the word fabrication and not the word improper influence or motive, doesn't... and if you're correct about the common law, doesn't that suggest that this rule differs from the common law?"
+                },
+                {
+                    "start": 1213.445,
+                    "stop": 1225.513,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that what occurred when this rule was written is that the drafters were not being precise. They just indicated... they used words of art that had been used in the common law, but they were not--"
+                },
+                {
+                    "start": 1225.513,
+                    "stop": 1228.305,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it--"
+                },
+                {
+                    "start": 1228.305,
+                    "stop": 1232.259,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--They did not see the problems involved with not defining the terms exactly."
+                },
+                {
+                    "start": 1232.259,
+                    "stop": 1266.825,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, I don't think the committee operated like it was said Congress did in the last case. I mean, if you read subsection (B), it seems to me quite precise... \"consistent with the declarant's testimony and is offered to rebut an express or implied charge against the declarant of recent fabrication or improper influence or motive. \" Now, that's all internally consistent and, really, I think for the reasons Justice Souter stated, it hurts you, because recent doesn't modify the words improper influence or motive."
+                },
+                {
+                    "start": 1266.825,
+                    "stop": 1301.297,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That... it's not necessary to reach... to find that to rule in our favor, and what we indicate is that this common law rule is a bright line rule which is easy to apply. What can happen in this kind of a situation is merely upon a suggestion that somebody is lying, or has fabricated something, or has an improper motive, then a party can then bring in 10 different hearsay witnesses to say--"
+                },
+                {
+                    "start": 1301.297,
+                    "stop": 1307.901,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you saying that we should simply ignore the language of the rule and revert to the common law?"
+                },
+                {
+                    "start": 1307.901,
+                    "stop": 1310.343,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that the language--"
+                },
+                {
+                    "start": 1310.343,
+                    "stop": 1312.744,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you answer that yes or no?"
+                },
+                {
+                    "start": 1312.744,
+                    "stop": 1329.475,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, we don't ignore the language of the rule, but we have to read it in context, most in accord with the context and ordinary usage. We have to read it in the way it's most compatible with the surrounding body of law."
+                },
+                {
+                    "start": 1329.475,
+                    "stop": 1345.235,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Gandert, why don't you go back to your first point and emphasize the word rebut, and would your argument not be that a prior consistent statement does not rebut an improper motive or influence unless it occurred before that arose?"
+                },
+                {
+                    "start": 1345.235,
+                    "stop": 1346.097,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 1346.097,
+                    "stop": 1349.939,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the word rebut is the key to your case, is it not?"
+                },
+                {
+                    "start": 1349.939,
+                    "stop": 1356.823,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, and our contention is that rebut means disprove by means of a premotive consistent statement, and that--"
+                },
+                {
+                    "start": 1356.823,
+                    "stop": 1363.138,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if it's made after the motive or the improper influence occurred, it doesn't have any probative force as rebuttal."
+                },
+                {
+                    "start": 1363.138,
+                    "stop": 1364.159,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor."
+                },
+                {
+                    "start": 1364.159,
+                    "stop": 1371.105,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's your point. Then what purpose does the term recent serve, then? Under that view, recent is superfluous."
+                },
+                {
+                    "start": 1371.105,
+                    "stop": 1389.234,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Some commentators have indicated that recent is superfluous, but recent is a temporal term which means something. We suggest that it means recent fabrication, recent motive, recent improper influence, but--"
+                },
+                {
+                    "start": 1389.234,
+                    "stop": 1410.489,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then, why does rebut have to mean totally demolished? Why can't rebut, or doesn't, isn't the common understanding of rebut mean to weaken, to offset, to have some effect to weaken the testimony that you are attempting to offset?"
+                },
+                {
+                    "start": 1410.489,
+                    "stop": 1434.795,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because rebut has to be read in the common law way, with the common law history in mind, and with the pre-1975 cases in mind, and rebut, when the Federal rules adopted that rule, adopted the traditional way of looking at that rule."
+                },
+                {
+                    "start": 1434.795,
+                    "stop": 1449.074,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I never knew it was traditional to say to rebut means you have to totally demolish, bowl over, that it would be enough to weaken the force of opposing evidence."
+                },
+                {
+                    "start": 1449.074,
+                    "stop": 1460.532,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It doesn't... it doesn't in that context, but in the context of the common law, it has to be a premotive statement, a statement which occurs prior to the motive to fabricate."
+                },
+                {
+                    "start": 1460.532,
+                    "stop": 1467.838,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now you're backing off the stress on the word rebut and going back to the terms of the exceptions."
+                },
+                {
+                    "start": 1467.838,
+                    "stop": 1526.295,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Oh, I think rebut has to be read in terms of its common law history and the way it was considered at common law, and at common law, as Justice Stevens indicated, only statements made prior to motive to fabricate actually had rebuttal value, and actually did, in fact, rebut. Statements made after that, perhaps probative, perhaps relevant, didn't meet the narrow test of the rule, and this rule has only one rationale, and that is, it's designed for rebuttal. Now, the Government's position in this case converts it into a relevancy rule, makes it into a rule similar to 401, 402, and 403, its consideration makes 801(d)(1)(B) merely upon a suggestion of recent fabrication, improper motive, or improper influence, then you look at relevancy, and what the--"
+                },
+                {
+                    "start": 1526.295,
+                    "stop": 1568.142,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me, may I say, why isn't that right? That is, if you go back, assuming the language is ambiguous, let's assume it's ambiguous. If it were ambiguous, you say, look to the common law. If you look to the common law at that time, this tended to be treated as, you had to be a premotive. But the reason it had to be premotive was because the courts believed that if it wasn't premotive, it wasn't relevant. So then when you codify all that, why wouldn't now, that reason being what it was, the proper thing be for the courts to look at this problem under Article IV of the rules of evidence, which has to do with relevance, rather than Article VIII, which has to do with hearsay?"
+                },
+                {
+                    "start": 1568.142,
+                    "stop": 1572.444,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because this rule was adopted under Article VIII, and--"
+                },
+                {
+                    "start": 1572.444,
+                    "stop": 1592.199,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It just happens to be, but I mean, they recodified the thing. The language permits it. Why wouldn't you go back to the purpose of what was going on and say, in terms of the purpose, we'll now look at it under relevance, and you could have said under this case, hey, this is hardly relevant, and the prejudice is unbelievable, and therefore keep it out?"
+                },
+                {
+                    "start": 1592.199,
+                    "stop": 1627.883,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The problem with looking at it from the Government's position is that it makes meaningless the rebuttal requirement, and what happens then, it opens the floodgates toward manufactured evidence. For example, witnesses with poor credibility, or inarticulate, so to speak, they only have to repeat their stories to more credible and more sophisticated individuals who could persuasively then retell the story at the time of trial, and this is what could happen if the Court allows the interpretation of 801(d)(1)(B) as it's been interpreted by the Government. It makes meaningless--"
+                },
+                {
+                    "start": 1627.883,
+                    "stop": 1635.5,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The rule would presumably have read that prior consistent statements by witnesses may be admitted if relevant, period."
+                },
+                {
+                    "start": 1635.5,
+                    "stop": 1646.046,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. Your Honor, I'd reserve the balance of my time for rebuttal."
+                },
+                {
+                    "start": 1646.046,
+                    "stop": 1649.448,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Gandert. Mr. Wallace, we'll hear from you."
+                }
+            ],
+            "start": 49.133,
+            "stop": 1724.007
+        },
+        {
+            "turns": [
+                {
+                    "start": 1649.448,
+                    "stop": 1724.007,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: The question presented in this case is one directly addressed by a specific provision of the Federal Rules of Evidence, Rule 801(d)(1)(B), which is set forth in respondent's brief, the blue brief, on the very first page following the table of authorities. The court of appeals properly resolved this case under this rule, which was the narrowest ground of decision available to it, because under this rule, the evidence was admissible if it were offered to rebut a charge of fabrication, whereas under the other rules that were considered in the district court, the evidence would have been admissible more broadly regardless of whether there had been a charge of fabrication by the witness, so the court of appeals properly chose to address only the narrowest ground for decision rather than the Rule 803(4) or 803(24) ground."
+                },
+                {
+                    "start": 1724.007,
+                    "stop": 1734.453,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you agree on that basis, Mr. Wallace, that even if it were not admissible under 801(d)(1)(B)(3), it might nevertheless be admissible on the ground the district court relied on?"
+                },
+                {
+                    "start": 1734.453,
+                    "stop": 1739.378,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the district court relied on this ground as well."
+                },
+                {
+                    "start": 1739.378,
+                    "stop": 1740.039,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1740.039,
+                    "stop": 1780.995,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But we certainly would argue that it was admissible on the other grounds. There were contentions that the 803(4), the admissibility of hearsay offered for medical treatment, would be admissible only if the issue were the propriety of the doctor's treatment, rather than for the kind of use that was being made here and, of course, the catch-all would have made this evidence admissible regardless of these other considerations, but as I say, what the court chose was the narrowest ground of decision. Now--"
+                },
+                {
+                    "start": 1780.995,
+                    "stop": 1839.412,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Wallace, may I ask you before you go further to say a word about the grammar on the question whether the adjective recent does modify anything other than fabrication? When I asked your opposing counsel that question, I said that it seemed odd that if recent was intended to modify improper influence or motive, that there simply wasn't a comma after the word fabrication, and Justice Stevens and I have been having an exchange of notes, and one of the things that has come up, and I think your brother perhaps suggested it, too, is that if the further modifier, improper, modifies both influence and motive, and that seems to be the accepted view, that would be a reason for putting the word or after fabrication. Do you think that may be the answer, so that the grammar perhaps is at best ambiguous here?"
+                },
+                {
+                    "start": 1839.412,
+                    "stop": 1848.168,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There may be some ambiguity in the grammar, although I think your point is one that is very well taken."
+                },
+                {
+                    "start": 1848.168,
+                    "stop": 1849.43,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, which point, the first one?"
+                },
+                {
+                    "start": 1849.43,
+                    "stop": 1897.981,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The first one that you said, that ordinarily if you wanted the word recent to carry over, you would have a comma before the second in the series, and then to be clear you probably would have... it would say, recent fabrication, comma, improper influence or improper motive, add the word improper again. That would make it clear that the recent carried over. And it seems to me the natural reading of the grammar as it's written here is that recent modifies fabrication, and then improper influence or motive can both be improper, because you no longer would have another way of indicating that the improper carried over unless you repeated it."
+                },
+                {
+                    "start": 1897.981,
+                    "stop": 1909.208,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But do you think it would make much sense to read the word recent as modifying the phrase, improper influence, that what they're concerned with is a recent... only with a recent improper influence?"
+                },
+                {
+                    "start": 1909.208,
+                    "stop": 2024.202,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I would think not. For one thing, in Wigmore and other common law sources, recent fabrication is discussed separately from improper influence or motive, which is not modified in the discussion by the word recent. The... and Wigmore explains, as we have shown in our brief, that narrowly construed recent fabrication arises, the charge of recent fabrication arises when the point is made that he had an earlier opportunity to explain it this way and did not. It was a charge of a lack of stating this explanation sooner than the exigencies of the trial, where improper influence or motive was not so temporally directed. The two... the distinction became somewhat blurred in practice, but it's often difficult to pinpoint when a motive would have first occurred. In a case of the kind that we're dealing with, there could be very much of a catch-22 situation under this reading. If the alleged sexual abuse never started before the parents were separated, there could never be a time prior to when you could say that the child would have had the preference for custody with the nonabusing parent in mind in making the charge, and the child, if being abused by one parent, would tend to prefer custody in the other parent on that ground alone, so--"
+                },
+                {
+                    "start": 2024.202,
+                    "stop": 2080.489,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Wallace, I am impressed by the fact that this rule does not say you can admit it in order to rebut the charge that the witness is lying. A witness can be lying for a lot of reasons. It's only recent fabrication or improper influence or motive. Now, the mere fact that the person was... you know, gave the same story earlier, I guess you could say indirectly refutes the fact of an improper motive, but very indirectly. All it really proves is that the person is telling the truth now, but that's not what the rule wants you to get at. It wants you to get at rebutting the motive, and the only way you directly rebut the motive, it seems to me, is to show that the statement was made before the motive even ever arose."
+                },
+                {
+                    "start": 2080.489,
+                    "stop": 2188.391,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, it seems to me that that way of looking at it would have much greater force under the old common law practice where the statement was not itself admissible but could be used only to rehabilitate the testimony on the stand. The first thing to be noticed about this rule is the very beginning of it, before you get to the number 1. It says, a statement is not hearsay if, and that was a deliberate and fundamental departure from the common law practice, and this was not a hidden agenda. This is, what, the only paragraph in the advisory committee notes set forth on page 21 of the blue brief, just below the middle of the page, explicitly explains at common law they were available only to rehabilitate whatever was said on the stand. But the advisory committee to this extent was adopting the more modern view of scholars who had criticized the common law as too restrictive of hearsay. When both the witness to whom the statement was made and the declarant were present in the courtroom for cross-examination, there had been views expressed that all statements previously made should always be admissible under that view, but to this extent--"
+                },
+                {
+                    "start": 2188.391,
+                    "stop": 2190.061,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I agree with that, that--"
+                },
+                {
+                    "start": 2190.061,
+                    "stop": 2190.452,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that view was being adopted."
+                },
+                {
+                    "start": 2190.452,
+                    "stop": 2227.645,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--it's used for a broader purpose, but the test for its admissibility is still the narrow, old test, and that test is not to show that the witness is telling the truth, and it's very peculiar that it's put that way. It's not admitted to... you know, if the witness' testimony is contradicted or sought to be impeached. It doesn't speak that broadly, only particular kinds of charges, and it seems to me that those charges are only directly... directly rebutted by the fact that the prior statement was made before, before that motive could have existed."
+                },
+                {
+                    "start": 2227.645,
+                    "stop": 2260.657,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The statement, the prior statement is being allowed into evidence as it bears on the issue in the case. Here the issue of guilt or innocence, the issue of whether the conduct in these very serious charges did or did not occur. It is not... once you're introducing it as evidence, it's not evidence about whether the child had a motive, it's evidence for the jury to consider on the issue before... of the issue of guilt."
+                },
+                {
+                    "start": 2260.657,
+                    "stop": 2262.109,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Once it comes in, that's true."
+                },
+                {
+                    "start": 2262.109,
+                    "stop": 2263.008,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Once it comes in."
+                },
+                {
+                    "start": 2263.008,
+                    "stop": 2289.716,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it doesn't come in unless it is going to the motive, and if... this rule would not even have any application if the defendant just came in and tried to show that this child witness was lying, and said nothing about why she was lying, just, she was lying. You could not get it in under this rule, simply say, well, she's been telling the same story all along. No, no, I haven't impugned her motive. It's only by impugning the motive the... now, that makes me think that the evidence must go directly to the motive--"
+                },
+                {
+                    "start": 2289.716,
+                    "stop": 2289.826,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It--"
+                },
+                {
+                    "start": 2289.826,
+                    "stop": 2295.95,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and it only goes directly to the motive as opposed to going to whether she's telling the truth more generally, which is not the point."
+                },
+                {
+                    "start": 2295.95,
+                    "stop": 2323.679,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's rather hard to make a credible charge that a witness is lying if you don't give some reason why you think the witness is lying. You can argue that the witness should not be believed, that the witness is mistaken, misperceived something. That's not a charge of fabrication, but it's rather difficult. Most cases in which a witness is charged with fabrication, we believe will fall within this rule."
+                },
+                {
+                    "start": 2323.679,
+                    "stop": 2327.563,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But for fabrication your opponent can rely upon the word recent. Exactly."
+                },
+                {
+                    "start": 2327.563,
+                    "stop": 2328.244,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But... but--"
+                },
+                {
+                    "start": 2328.244,
+                    "stop": 2345.925,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What rescues it from mere cumulativeness is the time differential, isn't that so? It seems to me, Mr. Wallace, your position is that the rule as written has the same meaning as if it said, consistent with the declarant's testimony, and lends credibility to that testimony."
+                },
+                {
+                    "start": 2345.925,
+                    "stop": 2387.021,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, and is... it lends... well, I think that that is an alternative way of expressing what the rule says, consistent with that testimony, and is offered to rebut a charge that the testimony is the product of an improper motive. If it adds credibility, if it lends further credibility to that testimony, that is a way of rebutting the charge that the testimony is the product of an improper motive rather than the truth."
+                },
+                {
+                    "start": 2387.021,
+                    "stop": 2391.014,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Any prior consistent statement would help a witness who's not very articulate."
+                },
+                {
+                    "start": 2391.014,
+                    "stop": 2415.78,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Perhaps one could say that. We think the proper approach to this is a nuanced approach. Does the prior statement add anything of probative value to what you have on the stand? Was it made under circumstances that give it further credibility?"
+                },
+                {
+                    "start": 2415.78,
+                    "stop": 2425.527,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's a specific exception to the hearsay rules for such statements. I mean, I don't know why you'd want to shoe-horn it under that."
+                },
+                {
+                    "start": 2425.527,
+                    "stop": 2494.873,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, yes, there are a number of exceptions to the hearsay rules, but there is also this rule, which allows such statements in to add further credibility to the testimony on the stand by explaining what was said in other contexts and in other circumstances by the same witness, and I do want to remind the Court that the rules themselves contain a guide to their interpretation, and that is in Rule 102, which was not cited in the briefs but should not be lost sight of. It explicitly says, \"these rules shall be construed to secure fairness in administration, elimination of unjustifiable expense and delay, and promotion of growth and development of the law of evidence to the end that the truth may be ascertained and proceedings justly determined. \" and then the--"
+                },
+                {
+                    "start": 2494.873,
+                    "stop": 2505.319,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why doesn't that suggest that the trial judge should have let it in under the catch-all? Then you wouldn't have any problems about limiting it to rebuttal, and it could come in without any restrictions."
+                },
+                {
+                    "start": 2505.319,
+                    "stop": 2609.047,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We would argue that that would have been a permissible ground for letting it in, but that does not diminish the justification relied upon by the court of appeals here, and also by the trial judge, of trying to show that the testimony that the child gave on the stand was not the product of an improper motive by showing that she gave very consistent testimony, and detailed testimony, in circumstances where, while that motive may have still been in existence, the circumstances would have made that motive less pronounced than other motives in talking to people that she explained on the stand whose job it was to help kids. This is in talking to the social case worker, in talking to three pediatricians about what happened to her, in spontaneously telling her babysitter what happened in a context where it really is doubtful whether she would have understood that any effect on custody really could emanate from what she was saying, and yet she was making these statements in circumstances where the custody issue was not being adjudicated in a court proceeding, as she might have perceived what was going on in the trial."
+                },
+                {
+                    "start": 2609.047,
+                    "stop": 2648.143,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Wallace, is there any difference between the interpretation that you are urging upon us and a rule which simply reads that prior consistent statements may be introduced when the veracity of the witness' statements on the stand is challenged, as a practical matter? Can you conceive of any, many, if any situations in which this rule would apply, the rule I expressed would apply where this one wouldn't?"
+                },
+                {
+                    "start": 2648.143,
+                    "stop": 2668.086,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I do think that if the veracity is challenged without any mention of what possibly could have been an improper influence or motive, there would be no basis under this rule--"
+                },
+                {
+                    "start": 2668.086,
+                    "stop": 2673.579,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It says implied or expressed, doesn't it? I mean, is impliedly or expressly... how does the rule read?"
+                },
+                {
+                    "start": 2673.579,
+                    "stop": 2687.369,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It could be... the circumstances may make it an implied charge. If there's no reason given to the jury even by implication of why the witness might be lying--"
+                },
+                {
+                    "start": 2687.369,
+                    "stop": 2688.778,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but isn't every charge--"
+                },
+                {
+                    "start": 2688.778,
+                    "stop": 2689.76,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--it's not going to be much of a charge."
+                },
+                {
+                    "start": 2689.76,
+                    "stop": 2703.929,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Wallace, isn't every charge of lying implicitly a charge that one is lying for an improper motive? I mean, within the context of courts, we don't recognize proper motives for lying, so it picks it all up."
+                },
+                {
+                    "start": 2703.929,
+                    "stop": 2719.911,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "One could say that, although if no implication of a reason arises, even from the circumstances, it's rather hard to see what it is that one is supposed to rebut in those circumstances, but--"
+                },
+                {
+                    "start": 2719.911,
+                    "stop": 2726.353,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you can have a faulty memory without any improper motive. Just, you didn't see the perpetrator as well as you thought you did. The room was dark, or something."
+                },
+                {
+                    "start": 2726.353,
+                    "stop": 2753.922,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, those are not really lies, and I don't think the rule applies to charges of misperception, that yes, the witness may be telling the truth as best he conceives it but he's mistaken for various reasons, whether or not he thinks he's telling the truth, which wouldn't raise any issue under this rule, so it isn't that every witness--"
+                },
+                {
+                    "start": 2753.922,
+                    "stop": 2754.783,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you can have improper influence--"
+                },
+                {
+                    "start": 2754.783,
+                    "stop": 2755.594,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--so it isn't that every witness is always accused of lying."
+                },
+                {
+                    "start": 2755.594,
+                    "stop": 2783.333,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Police showing an alleged criminal with photo... or, a witness, rather, pictures of a suspect in a case, and that can influence the person in an improper way without any particular motive to lie. I'm not sure that you have to have a, the evil intent that you describe in order to be an untruthful witness, and it can still be an improper influence even though no evil motive is associated with it."
+                },
+                {
+                    "start": 2783.333,
+                    "stop": 2785.524,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there may--"
+                },
+                {
+                    "start": 2785.524,
+                    "stop": 2791.808,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And there, if you said, well, I identified this person before I saw the picture, that would clearly rebut the charge."
+                },
+                {
+                    "start": 2791.808,
+                    "stop": 2795.191,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There can be a situation of that kind, yes."
+                },
+                {
+                    "start": 2795.191,
+                    "stop": 2824.941,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But unless the police make it clear, unless the cross-examiner makes it clear that that's where he's putting the blame, or unless the cross-examiner says, I certainly do not suggest that Mr. So-and-so has an improper reason for doing it, he's just mistaken, unless the implicit objection is couched in that way, it would be fair, usually, to take the kind of attack through cross-examinations, attack on veracity, and therefore there would be an implicit imputation of motive."
+                },
+                {
+                    "start": 2824.941,
+                    "stop": 2844.733,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Quite, quite so, Your Honor, but we're getting afield from what happened in this case, and what this case was about, which is whether what we would call a more nuanced approach in accordance with some of the modern--"
+                },
+                {
+                    "start": 2844.733,
+                    "stop": 2864.609,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Mr. Wallace, that's one of the problems with this case. The evidence may well have been admissible under the catch-all, and unfortunately a case in which evidence that really has probative force is being used to test the scope of this rule, which normally would apply in quite different cases. That's one of the problems the case presents, I think, because these are very appealing facts that they provide to you."
+                },
+                {
+                    "start": 2864.609,
+                    "stop": 3022.963,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, in many ways this case is reminiscent of the problem that the Court had before it in the Daubert case, in which a contention was being made that the old rule of the Frye case should be preserved under the Federal Rules of Evidence, which would allow scientific evidence in only when it's generally accepted. And in the portion of Daubert that was unanimous, the Court rejected that as inconsistent with the more liberal thrust of the rules and their very generous definition of relevant evidence that a more multifaceted nuanced approach rather than what the Court called the austere standard, a per se rule for all cases, should be adopted. It's very comparable, it seems to us, to the premotive rule. If one contrasts it with the formulation in one of, I think, the more thoughtful recent cases, a Sixth Circuit case called United States v. Lawson, which is cited in respondent's brief, and appropriately enough was written by a district judge sitting by designation... if I can just read a little excerpt to the court from that opinion, written by now-court-of-appeals Judge Sir Heinrich for the Sixth Circuit in 1989, when he was a district judge, the approach that the Court took there was that the trial judge must examine the circumstances under which the statement was made and make a determination of the statement's... this is the prior statement's... relevancy and probity. While these factors are more likely to be found where the statement was made prior to the alleged discrediting influence, temporal probity should not be a condition precedent to admissibility. Where there are other indicia of reliability surrounding a prior consistent statement that make it relevant to rebut a charge of recent fabrication or improper motive, then the fact that the statement was made after the alleged motive to falsify should not preclude its admissibility."
+                },
+                {
+                    "start": 3022.963,
+                    "stop": 3119.024,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Fine. If that's so, if I can... this is what's bothering me about the case. As I understand it, if you proceed under this hearsay exception, the particular one, you don't proceed under the catch-all, to get in under the catch-all, particularly because of the confrontation clause, you have to have special indicia of reliability. In this case, I take it, because of this exception, you don't, but you say, that's okay, because what's supposed to happen here is just what you read. What's supposed to happen here is that they're supposed to over to Article IV, to the regular rules on relevance versus prejudice, and apply that. All right, so I can understand that as a coherent picture. Then when I apply it to this case, I say, did that happen here? My goodness. In this particular case, as I read it, there is a child, 6 years old, who is in the court, not being able to be cross-examined very thoroughly because she can't answer most of the time, and then when you look back at this particular set of evidence, if the relevancy we're supposed to look to is the relevancy to show lack of a motive, all these statements were made after the mother took the child, and the mother could have told the child in the car, hey, I want you to stay with me. So the relevancy seems small, and if you look at the prejudice, it looks like this was the evidence on the basis of which the defendant was convicted, so what I don't understand is, if in fact you're supposed to read this provision to incorporate or at least refer by reference, say, judge, look at this, if you're just saying it twice, fine, let it in under this rule, but go back and look at 403. That didn't seem to happen here, or did it?"
+                },
+                {
+                    "start": 3119.024,
+                    "stop": 3188.811,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Justice Breyer, with all respect, the child answered most questions, and the effectiveness of the cross-examination was explicitly excluded by this Court from the grant of certiorari. The spontaneous statement, when one reads this transcript, the first statement made was a spontaneous statement made to the babysitter which the child was reluctant to explain and refused to state to the child's mother, and at one point in the testimony the child stated that she was afraid she would... that her mother would not love her any more if her mother found out what happened. There was much in this testimony that added credibility, and tended to suggest that there was not coaching. It is... we are dealing here with whether highly probative evidence that the jury--"
+                },
+                {
+                    "start": 3188.811,
+                    "stop": 3199.497,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it highly probative on the issue for which it was offered, highly probative on the issue of whether or not there was a motive to lie by the witness?"
+                },
+                {
+                    "start": 3199.497,
+                    "stop": 3214.929,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It was, because it was made in various ways to various case workers to whom she was talking to try to get some help with her problems, rather than with any connection with an idea that--"
+                },
+                {
+                    "start": 3214.929,
+                    "stop": 3215.72,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I see that. I guess--"
+                },
+                {
+                    "start": 3215.72,
+                    "stop": 3217.682,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--a custody determination--"
+                },
+                {
+                    "start": 3217.682,
+                    "stop": 3238.488,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Let me be quite specific, then. If you're reading the rules in hand, should we then say, if we agree with you, yes, this is the correct way to interpret these rules, but we can't find in the record here that there was actually an explicit, a weighing of relevance versus prejudice, and had there been such, it would have... might have come out differently? Is that--"
+                },
+                {
+                    "start": 3238.488,
+                    "stop": 3278.212,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--None of this... none of this was about any conduct other than the very conduct that was charged. It shed additional light to the... for the jury in deciding whether to believe one of the only two eye witnesses to this conduct, who was a 4-year-old child, the other one being the alleged perpetrator, and to see the pattern of these statements that the child made in describing what occurred over a course of a year-and-a-half in various circumstances shed light rather than prejudice on the issue that was before the jury."
+                },
+                {
+                    "start": 3278.212,
+                    "stop": 3291.171,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well-- --Mr. Wallace, do I gather what you're saying is it was more likely under the circumstances of telling the doctor or the babysitter that she was not lying in that setting than it was likely when she said it on the stand? Is that--"
+                },
+                {
+                    "start": 3291.171,
+                    "stop": 3325.713,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, on the stand it was an intimidating situation for her. The accused was there, she had the misconception that part of the question might be that her mother might have to go to jail, she... part of what adds credibility to her story is the difficulty she found in expressing it in words the way she would depict it with the dolls, and the frustration she felt in trying to show exactly the way the dolls should be configured--"
+                },
+                {
+                    "start": 3325.713,
+                    "stop": 3337.111,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--So what you're saying is that you can infer from the record that the judge made the balancing test that Justice Breyer asked you whether or not it was made on the record?"
+                },
+                {
+                    "start": 3337.111,
+                    "stop": 3339.865,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think from the circumstances."
+                },
+                {
+                    "start": 3339.865,
+                    "stop": 3340.964,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say, just infer it from the fact that he let it in?"
+                },
+                {
+                    "start": 3340.964,
+                    "stop": 3345.588,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and that... this is not prejudicial in the sense that--"
+                },
+                {
+                    "start": 3345.588,
+                    "stop": 3350.941,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So then we always infer that the rule that Judge Breyer refers to has been adverted to and used?"
+                },
+                {
+                    "start": 3350.941,
+                    "stop": 3361.947,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, not always, but the circumstances amply support it here. We're not talking about something that it is a distraction about some other conduct of the accused."
+                },
+                {
+                    "start": 3361.947,
+                    "stop": 3362.508,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Wallace--"
+                },
+                {
+                    "start": 3362.508,
+                    "stop": 3364.178,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This is the conduct at issue."
+                },
+                {
+                    "start": 3364.178,
+                    "stop": 3390.455,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I'm not sure I agree with that. What the statute requires is not that it refute the assertion that the testimony is the product of the motive. If you read it literally, what it says is the implied charge against the declarant of improper influence or motive, and I don't see... this very negligibly refutes the existence of the motive."
+                },
+                {
+                    "start": 3390.455,
+                    "stop": 3393.178,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The motive--"
+                },
+                {
+                    "start": 3393.178,
+                    "stop": 3403.014,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It may... it may more substantially refute the fact that she testified to this effect because she wanted to be with her mother, but how does it refute the fact that she wanted to be with her mother? I don't--"
+                },
+                {
+                    "start": 3403.014,
+                    "stop": 3420.104,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That isn't what the jury is to determine, and this is being admitted not to rehabilitate testimony, but as evidence, and as evidence that goes to what the jury is supposed to decide, which is whether the charged criminal conduct occurred."
+                },
+                {
+                    "start": 3420.104,
+                    "stop": 3424.609,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Thank you, Mr. Wallace. Mr. Gandert, you have 2 minutes remaining."
+                }
+            ],
+            "start": 1649.448,
+            "stop": 3479.555
+        },
+        {
+            "turns": [
+                {
+                    "start": 3424.609,
+                    "stop": 3479.555,
+                    "speaker": {
+                        "name": "Joseph W. Gandert",
+                        "ID": 30517,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, may it please the Court: What I'd like to do is add to my response to Justice Scalia's question about the word recent modifying fabrication. The reason I stated earlier that this Court need not decide that question is because a charge of improper motive is necessarily also a charge of recent fabrication. A motive is only improper if it causes a witness to fabricate her story, and we quote Professor Graham to this effect on footnote 3 on page 5 of our reply brief, and I think the problem that occurs in this case is the parade of witnesses used ostensibly to rebut which are really used to bolster the declarant's testimony. They were used for a reason that they shouldn't have been used. We would ask this Court to adopt a bright line common law approach which is easy to utilize for litigants, parties, and judges. Thank you, Your Honor."
+                },
+                {
+                    "start": 3479.555,
+                    "stop": 3482.096,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Gandert. The case is submitted."
+                },
+                {
+                    "start": 3482.096,
+                    "stop": 3488.231,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The honorable court is now adjourned until Tuesday next at ten o'clock."
+                }
+            ],
+            "start": 3424.609
+        }
+    ]
+}

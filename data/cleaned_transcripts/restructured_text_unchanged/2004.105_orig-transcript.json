@@ -1,0 +1,2073 @@
+{
+    "title": "Kansas v. Colorado",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 7.43,
+                    "stop": 129.332,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, thank you, and may it please the Court: Kansas would like to address three issues today. 50 years of success of the Court's river master on the Delaware River and 16 years of success of the Court's river master on the Pecos River demonstrate the wisdom of appointing a river master under appropriate circumstances on a river like the Arkansas River, which is the subject of this case. Secondly, the Court should affirm the neutral principle that prejudgment interest accrues on all damages owing at the time interest begins to run. And third, a 1-year compliance period would be consistent with the Court's prior rulings in this case and would preserve an essential right of Kansas and its farmers under this... this compact that would otherwise be lost under the master's recommendation of a 10-year accounting period. With respect to this accounting period, I would note that in both prior opinions in this case, this Court has relied on the annual results of the Hydrologic-Institutional Model, which is the standard for compact compliance in this case. In the first opinion in 1995, this Court distinguished between monthly and... and seasonal use of the model, deciding that monthly use was too frequent, but that seasonal reliance on the model for determining useability under article IV-D of the compact was reasonable. When the case was back here in 2001, this Court reviewed the calculation of damages, which was done on a yearly basis. As you can imagine, the factors that go into calculation of damages vary from year to year, and so it is crucial whether the depletions calculated by the H-I Model, as it's called, are accurate, sufficiently accurate, and reasonable to rely upon on an annual basis."
+                },
+                {
+                    "start": 129.332,
+                    "stop": 142.13,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Draper, correct me if I'm wrong. I... I looked at these papers a while ago. I thought they did it on a 10-year basis and they just moved it up each year, using a different 10 years to calculate the... the relevant amounts in the 10th year."
+                },
+                {
+                    "start": 142.13,
+                    "stop": 147.824,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct, Your Honor. It is a moving accumulation of 10 years of results."
+                },
+                {
+                    "start": 147.824,
+                    "stop": 153.359,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So they do use 10 years of figures to determine what the relevant year's water would be."
+                },
+                {
+                    "start": 153.359,
+                    "stop": 172.966,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct, Your Honor. In other words, the... the annual determination includes the most current year for which there is data and the previous 9 years, adds all those up, nets out the pluses and minuses, and that determines whether in the year in question there is compliance with the compact."
+                },
+                {
+                    "start": 172.966,
+                    "stop": 177.257,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This will begin in 2007, as I recall. Is that--"
+                },
+                {
+                    "start": 177.257,
+                    "stop": 179.858,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is the special master's proposal, yes."
+                },
+                {
+                    "start": 179.858,
+                    "stop": 210.777,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And what I don't understand is even... even if we agree with you that it should be done annually, why... why wouldn't you propose that it be done annually using the previous 7 years' experience that we now have and then, you know, ultimately by 2007, we can use the previous 10 years? I... I don't understand why we have to do it year by year and forego even 7 years' benefit of... of this methodology."
+                },
+                {
+                    "start": 210.777,
+                    "stop": 227.124,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I couldn't agree with you more in the sense that we should begin now with the accounting so that you look each year at the results of this standard, which has been approved by the Court, for compact compliance in that year only, and if... if you accumulate it--"
+                },
+                {
+                    "start": 227.124,
+                    "stop": 239.634,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. That... that's... I said just the opposite. I said I... I don't know why we should begin looking for this... at this year only using this methodology. Why shouldn't we average this methodology over the previous 7 years?"
+                },
+                {
+                    "start": 239.634,
+                    "stop": 259.946,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Your Honor, averages will tend to smooth out the results and will hide the effects during dry years, which is when the farmers in Kansas, who are the beneficiaries that Kansas intended to benefit... and both parties realize that. They need this water--"
+                },
+                {
+                    "start": 259.946,
+                    "stop": 289.417,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your method... your method will over-emphasize the dry years. So either way you have a... a imperfect situation. In your case, year by year, and in a dry year, Colorado perhaps must over-compensate, and if you have, say, 3 dry years in a row, then it's going to be... work out to Colorado's disadvantage."
+                },
+                {
+                    "start": 289.417,
+                    "stop": 314.642,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Your Honor, I believe the... the result is the... is the opposite. If I may explain. The model, the... the Hydrologic-Institutional Model, has been made as unbiased as possible. The one aspect in which we have identified a bias is that it favors Colorado during dry years. It tends to underestimate the depletions that would have to be replaced by Colorado."
+                },
+                {
+                    "start": 314.642,
+                    "stop": 321.534,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's the method that you're attacking, but if you were to do it year by year, wouldn't it be just the reverse?"
+                },
+                {
+                    "start": 321.534,
+                    "stop": 349.482,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We don't believe that aspect of the model would be any different if we're doing it year by year. We'd simply be taking the results that are calculated each year under either approach and use those in that year so that if you have a dry year, you are... are calculating in that year whether there is compliance and staying as close as possible to the true intent of the compact, which is to provide water when the farmers need it."
+                },
+                {
+                    "start": 349.482,
+                    "stop": 362.978,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you... do you dispute what... what the master found here, that the methodology is more accurate on a 10-year average than it is year by year?"
+                },
+                {
+                    "start": 362.978,
+                    "stop": 373.752,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor. The longer the period of time you take, the more the accumulated results of the model will match the measured--"
+                },
+                {
+                    "start": 373.752,
+                    "stop": 377.783,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The actual year-by-year results. Right?"
+                },
+                {
+                    "start": 377.783,
+                    "stop": 407.272,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Yes, and I should point out that it's impossible to know what the right answer is. You can... you can measure the flows and the diversions in the river and compare that to one of the runs of this model, but it's the difference between the two runs, one representing the compact condition, which is supposed to be met, and the other representing the situation with the wells operating. And it's the difference between those two whose accuracy is in question."
+                },
+                {
+                    "start": 407.272,
+                    "stop": 408.387,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but I... I--"
+                },
+                {
+                    "start": 408.387,
+                    "stop": 408.924,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And no one knows what that is."
+                },
+                {
+                    "start": 408.924,
+                    "stop": 433.527,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I understand that... that the master concluded that even as to a particular year, the model will be more accurate if you use the average from the previous 10 years than if you just applied the model to a single year, that even as to the real results for that single year, the model will be more accurate if you use a 10-year average."
+                },
+                {
+                    "start": 433.527,
+                    "stop": 459.451,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I don't understand it that way. If you use 10 years, you are adding to the most recent year results 9 years of pluses and minuses that's going to, in most case, mask what happened during that next previous year. You will be looking at a 10-year accumulation of ups and downs and not analyzing what happened in... in the year in question."
+                },
+                {
+                    "start": 459.451,
+                    "stop": 471.672,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is part or all of the objectives of both the... the decree and the 10-year model to conserve subsurface reservoirs?"
+                },
+                {
+                    "start": 471.672,
+                    "stop": 489.505,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Not... not directly, Your Honor. It... it does preserve that reservoir in fact because depletion of that reservoir affects the stream flows, and it's the stream flows that are compacted here and that have up to now--"
+                },
+                {
+                    "start": 489.505,
+                    "stop": 511.713,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then... well, then why isn't... if... if that's so, why isn't it that Colorado shouldn't get credit for the wet years in... in... on an average? You're concerned about the dry years. It seems to me that Colorado should be given some credit for the wet years when the subterranean reservoirs are... are replenished. Or am I wrong... am I wrong about that?"
+                },
+                {
+                    "start": 511.713,
+                    "stop": 548.698,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I think in general, Your Honor, you are... are correct. The question about there are over-deliveries by Colorado, I believe is what you're addressing, is there... is there a way to give Colorado credit for that. And there is a way. There is a... a... an account in John Martin Reservoir, which is 60 miles above the State line, for those deliveries. When they are delivered there, if there is more delivered than is actually needed in that year to achieve compact compliance, that can be retained there and, except for a small effect of evaporation, is available to offset depletions in the following year."
+                },
+                {
+                    "start": 548.698,
+                    "stop": 559.268,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I thought that the compact specifically provided there shall be no allowance or accumulation of credits or debits for or against either State."
+                },
+                {
+                    "start": 559.268,
+                    "stop": 561.618,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 561.618,
+                    "stop": 564.674,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how does that comport with what you just said?"
+                },
+                {
+                    "start": 564.674,
+                    "stop": 595.593,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Under those circumstances, the water that would be delivered to this offset account in John Martin Reservoir is not a credit that's accounted under the compact for that year. So it would not enter into the compact accounting for that year. It would not constitute a... a credit, but it would be available as a practical matter to be used as a credit in the next year for current depletions. So there would be no carryover in compact accounting."
+                },
+                {
+                    "start": 595.593,
+                    "stop": 609.339,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't... I don't understand that statement. You say it would be available to be used as a credit in a subsequent year. Do you really mean it would be used as a credit, or do you mean it would simply be there to be used?"
+                },
+                {
+                    "start": 609.339,
+                    "stop": 613.593,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think your formulation, Your Honor, is... is more correct."
+                },
+                {
+                    "start": 613.593,
+                    "stop": 613.965,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 613.965,
+                    "stop": 618.794,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It would be there to be used, and it would not be a credit for accounting purposes. Yes."
+                },
+                {
+                    "start": 618.794,
+                    "stop": 629.734,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if it's not a credit for accounting purposes, then they're going to owe you just as much the next year even though... even though you had more water the previous year."
+                },
+                {
+                    "start": 629.734,
+                    "stop": 634.564,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "This is under the assumption, Your Honor, that they have already met their obligations in the current year."
+                },
+                {
+                    "start": 634.564,
+                    "stop": 635.407,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 635.407,
+                    "stop": 671.239,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And it will be available as a practical matter to meet their obligations in a subsequent year and be accounted in that subsequent year. I would point out that this is very important for Kansas farmers that the... the water be received when it is supposed to be delivered under the compact. If water is... is not delivered, as required, in one year, it cannot be recouped in a following year, certainly not 10 years later, as would be possible under the special master--"
+                },
+                {
+                    "start": 671.239,
+                    "stop": 672.831,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then why are you using a 10-year model at all?"
+                },
+                {
+                    "start": 672.831,
+                    "stop": 674.129,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--It's not a 10--"
+                },
+                {
+                    "start": 674.129,
+                    "stop": 677.455,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems to me what you're... what you're saying is forget the 10 years. Just do it every year."
+                },
+                {
+                    "start": 677.455,
+                    "stop": 691.573,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That's what we are saying, Your Honor. And the model is inherently a yearly model. It calculates actually results on a monthly basis, and we have used it... and the Court has relied upon it... on a yearly basis up to now."
+                },
+                {
+                    "start": 691.573,
+                    "stop": 707.382,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why don't you do it on a monthly basis? Indeed, why don't you do it on a daily basis? I mean, the master found that this model really works if you... if you stretch it out over 10 years. You say 1 year. Why don't you do it month by month?"
+                },
+                {
+                    "start": 707.382,
+                    "stop": 860.038,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it... it could be done that way, and in fact, Your Honor, Colorado uses parts of this same model in its own administration of groundwater pumping, the same groundwater pumping for purposes of protecting Colorado surface water users, and it requires replacement of water on a monthly basis. So it is... it is possible. But we believe with the yearly accumulation that... that we have relied upon so far in this case and that the Court has relied upon specifically for damages, that that is an appropriate accounting period for this particular purpose. And that is... that is our proposal. The proposal of Colorado is no, let's wait 10 years before... and... and accumulate it with the other 9 years before we require any replacement. I would point out that the H-I Model, the Hydrologic-Institutional Model, is the best tool available for this purpose. It was endorsed by Colorado after the Court's first opinion in this case when it... the Court approved using the model on a seasonal basis for the seasonal accounting of useability. At that time, Colorado gave up its own model in favor of the Hydrologic-Institutional Model, and as you can see from the master's report, there have been several significant improvements in the model since that time. I would also point out the correspondence... the close correspondence that exists between this case and the Pecos River litigation in the 1980's. There you had a compact that like this compact did not specify any specific quantity of water in the compact itself, but indicated that there was to be no depletions beyond the depletions that were occurring at the time of the compact with a few small amendments that I could... I could mention. But the basic similarity of the compacts is that the status quo at the time of the compact was maintained. There was an inflow/outflow relationship that needed to be observed and was required to be observed by the compact. It was expressed explicitly in the Pecos River compact by a reference to an inflow/outflow method. In this case, it was expressed implicitly in article IV-D of the compact."
+                },
+                {
+                    "start": 860.038,
+                    "stop": 876.135,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The master found that the role of the river master in the Pecos case was quite different than the role of the river master you want to have appointed here. He found that the role of the river master in the Pecos cases was really ministerial."
+                },
+                {
+                    "start": 876.135,
+                    "stop": 878.735,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, we do not agree with that."
+                },
+                {
+                    "start": 878.735,
+                    "stop": 880.554,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't agree with what?"
+                },
+                {
+                    "start": 880.554,
+                    "stop": 891.45,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "With the description of the Pecos River master as being... as having only ministerial duties, and I can explain why."
+                },
+                {
+                    "start": 891.45,
+                    "stop": 892.359,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Please do."
+                },
+                {
+                    "start": 892.359,
+                    "stop": 942.309,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. if... if you refer to the appendix of our... our blue brief, on page A-22, you will see that the opening section of the Pecos River master's manual sets out the inflow/outflow relationship that is to be observed in complying with that compact. This is the form of an equation. You can see y equals and a... and a number there. In... in our case, we have the... the Hydrologic-Institutional Model, which benefits from several decades of increased sophistication in hydrologic analysis to do the same job."
+                },
+                {
+                    "start": 942.309,
+                    "stop": 950.567,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Pecos master can simply apply this formula, can he not, and get the results that the compact requires?"
+                },
+                {
+                    "start": 950.567,
+                    "stop": 980.493,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "He... he is to apply the formula, Your Honor, but there's a great deal of judgment, professional, expert judgment that needs to be exercised in order to apply it. For example, you have to separate flood flows from base flows. When you look at the... at the results of a... of a gauge on a river, you can see how much water was in the river at particular times, but this has to be separated into two different kinds of flows that are treated differently under this compact."
+                },
+                {
+                    "start": 980.493,
+                    "stop": 987.718,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, one of the reasons I'm curious is that I believe the Pecos master is an engineer. He's not a lawyer."
+                },
+                {
+                    "start": 987.718,
+                    "stop": 988.627,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 988.627,
+                    "stop": 999.03,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He's also the cheapest master we've ever had. [Laughter] But it seems to me that the master you want appointed has got to be a lawyer and make legal decisions."
+                },
+                {
+                    "start": 999.03,
+                    "stop": 1002.662,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I don't believe so. I think our master would be just as cheap. [Laughter]"
+                },
+                {
+                    "start": 1002.662,
+                    "stop": 1004.891,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's the difference--"
+                },
+                {
+                    "start": 1004.891,
+                    "stop": 1005.884,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. The question was what about the--"
+                },
+                {
+                    "start": 1005.884,
+                    "stop": 1020.949,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What... what relation do you or... yes... working relation do you anticipate, if... if the river master is appointed, between the river master and the commission? Does he go first to the commission and try to get agreement or--"
+                },
+                {
+                    "start": 1020.949,
+                    "stop": 1036.265,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, no, he would not formally interact with the commission, just as the Pecos River master does not formally interact with the Pecos River commission."
+                },
+                {
+                    "start": 1036.265,
+                    "stop": 1058.844,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, what can... what can the river master do that the... that the commission or authority can't do? I... is the difference between the two of them... call it a jurisdictional difference... nil, but there is process difference in the sense that the river master could say do this or don't do that, whereas your... your fear is that the authority is simply going to be deadlocked because everything has to be done unanimously? Is it a process difference?"
+                },
+                {
+                    "start": 1058.844,
+                    "stop": 1061.407,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It is a process difference, Your Honor. The--"
+                },
+                {
+                    "start": 1061.407,
+                    "stop": 1064.956,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But for that, you wouldn't be asking for a river master then."
+                },
+                {
+                    "start": 1064.956,
+                    "stop": 1081.181,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, if there were an authoritative way, such as a river master, by which the annual recurring exercise of judgment could be accomplished, we would not need the river master. But I don't--"
+                },
+                {
+                    "start": 1081.181,
+                    "stop": 1101.243,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But aren't you bypassing what Congress set up? You have this interstate compact and this commission, which you're saying, well, it's ineffective because it has to... there are three from each State and it has to do everything unanimously. But what about the commission's authority to call in an... an arbitrator when they are deadlocked?"
+                },
+                {
+                    "start": 1101.243,
+                    "stop": 1122.669,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That decision also requires unanimity, Your Honor, and in the one case I'm aware of, Kansas' suggestion of doing an arbitration was rejected by Colorado. It's... but it's... it takes unanimity to do anything under that compact administration, including the arbitration option."
+                },
+                {
+                    "start": 1122.669,
+                    "stop": 1123.412,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're saying Congress--"
+                },
+                {
+                    "start": 1123.412,
+                    "stop": 1134.558,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Draper, could I ask you what is a matter of procedure? What is your understanding of... of how one would go about challenging the river master's decision if one disagreed with it? Do you go to the special master? Do you come direct to this Court?"
+                },
+                {
+                    "start": 1134.558,
+                    "stop": 1149.297,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, we have suggested that it be set up just as you have set up the Pecos River master. In other words, if there were an objection to the determination, the yearly determination, of the river master, it would be reviewable by this Court."
+                },
+                {
+                    "start": 1149.297,
+                    "stop": 1150.161,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Directly."
+                },
+                {
+                    "start": 1150.161,
+                    "stop": 1150.716,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Directly."
+                },
+                {
+                    "start": 1150.716,
+                    "stop": 1178.851,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And the special master would be out. The special master would be out of the picture, as you describe it. You... the special master would be finished. The river master would take over. Has there ever been... has this Court ever appointed a river master when the special master did not recommend it? And as I understand both Delaware and the Pecos River case, the special master recommended the appointment of a river master."
+                },
+                {
+                    "start": 1178.851,
+                    "stop": 1202.052,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I believe in both of those cases, the... the special master was recommending the appointment of a river master, but I would point out that in setting out the criteria for appointing a river master, the Court did not refer to that factor as... as being part of the consideration."
+                },
+                {
+                    "start": 1202.052,
+                    "stop": 1213.048,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As I understand the system you propose, the river master's decision would be appealable to us, and we would review it de novo. Is that right?"
+                },
+                {
+                    "start": 1213.048,
+                    "stop": 1235.877,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We're suggesting the same scope of review as on the Pecos, which is clearly erroneous. This, however, is something that the Court could decide to do differently than the Pecos, but the clearly erroneous standard comports with the... the way master recommendations are handled in the district court under rule 53."
+                },
+                {
+                    "start": 1235.877,
+                    "stop": 1247.188,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm very loathe to deprive either of the States of their... their right to have this Court decide matters between them."
+                },
+                {
+                    "start": 1247.188,
+                    "stop": 1253.588,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, this would not deprive either State of that right. And in fact--"
+                },
+                {
+                    "start": 1253.588,
+                    "stop": 1263.098,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it would if they can only come here and... and overturn the river master if he's clearly erroneous. That's a... that's a very high standard."
+                },
+                {
+                    "start": 1263.098,
+                    "stop": 1272.657,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, there... as I say, the Court... the Court may set the review threshold as it sees fit."
+                },
+                {
+                    "start": 1272.657,
+                    "stop": 1279.511,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I had thought that your proposal was de novo review. This is... this is new to me, that... that you want it clearly erroneous."
+                },
+                {
+                    "start": 1279.511,
+                    "stop": 1297.428,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I would... I would say that we have... we have mentioned the clearly erroneous review standard because it was in the Pecos framework. It is not essential to our proposal. A de novo review would be perfectly fine with the State of Kansas."
+                },
+                {
+                    "start": 1297.428,
+                    "stop": 1307.459,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Suppose the commission decided to appoint an arbitrator. Would the special... pardon me. Would the river master then proceed independently and we'd have two different recommendations?"
+                },
+                {
+                    "start": 1307.459,
+                    "stop": 1342.752,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "As under the Pecos, Your Honor, if the... if the compact administration, as it's called in the... in the Arkansas Basin, is able to come to a resolution of an issue, then that would... that would take care of that issue. It would be... not be necessary to have the river master address that, and it would be an agreement of the States because it would either be an agreement because they had literally agreed before the... or in the form of the Arkansas River Compact Administration or that they had agreed to binding arbitration and had settled it."
+                },
+                {
+                    "start": 1342.752,
+                    "stop": 1353.277,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then it would seem to me, procedurally at least, the river master would have if not the legal, at least the practical obligation to refer things first to the commission."
+                },
+                {
+                    "start": 1353.277,
+                    "stop": 1371.98,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, the referral of matters to the commission is why we're here in the first place. It cannot act without unanimity. The State of Colorado, the State in possession of this resource, can veto each and every action of the compact administration."
+                },
+                {
+                    "start": 1371.98,
+                    "stop": 1372.435,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was the deal."
+                },
+                {
+                    "start": 1372.435,
+                    "stop": 1374.004,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your... yes. Your State agreed to it."
+                },
+                {
+                    "start": 1374.004,
+                    "stop": 1389.048,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was the deal they came to. Why should we kick it over? They came to that arrangement, and it was approved by Congress, and now you come back and tell us, oh, this is too cumbersome. You should... you should appoint this river master to do an end run around it. I... I... it doesn't seem to me to be fair."
+                },
+                {
+                    "start": 1389.048,
+                    "stop": 1410.291,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, I don't believe that this is an end run any more than the enforcement of the compact is an end run around the administrative body that is set up in many of these compacts. Those are keep-in-touch type bodies. If they can agree on things, they are very useful, and the Arkansas River Compact Administration has been useful in areas where there can be agreement."
+                },
+                {
+                    "start": 1410.291,
+                    "stop": 1432.871,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but you... you agree that this is the... the authority here is more than a keep-in-touch group. Your problem with it is... is not that you need something more than keep in touch, but that when you ask them to do something more than keep in touch, the other State has a veto. And... and that simply gets you to Justice Scalia's objection. That's the deal you made."
+                },
+                {
+                    "start": 1432.871,
+                    "stop": 1447.11,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is the... that is the nub of our argument against reliance on the Arkansas River Compact Administration, that you can't look at it to settle differences about the implementation of this Court's decree."
+                },
+                {
+                    "start": 1447.11,
+                    "stop": 1448.225,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What did the special--"
+                },
+                {
+                    "start": 1448.225,
+                    "stop": 1448.491,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is a--"
+                },
+                {
+                    "start": 1448.491,
+                    "stop": 1471.22,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What did the special master mean when he said he recognized the unanimous vote problem, but he said, but the climate may be changing? The compact administration under the chairmanship of the United States representative may again be seen as the best way to administer their compact and settle issues. What was he talking about?"
+                },
+                {
+                    "start": 1471.22,
+                    "stop": 1498.546,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Your Honor, I think he was talking about the hope that he has that the States could work more cooperatively now, despite the fact that it was on this river between these two States that this Court was first asked to resolve interstate river disputes between States in 1901, and we are here today still in dispute over this river."
+                },
+                {
+                    "start": 1498.546,
+                    "stop": 1501.063,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there was nothing tangible behind his--"
+                },
+                {
+                    "start": 1501.063,
+                    "stop": 1638.691,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Nothing tangible, Your Honor. We... perhaps he was thinking of the settlement that we have achieved on the Republican River. That case started, was accepted by this Court. After rulings by this Court, it became possible to settle that case. It has now been settled. And the States involved in that litigation were Kansas, Nebraska, and Colorado. It was possible in that... in that context. It has proven impossible in this context. And we can expect disputes to go on, as they have over the last century, if we do not have an impartial expert authority to resolve disputes between States that are going to come up every year. Every year there are questions. How do you take the data this year and put it into the H-I Model? While many of those issues have been settled, because different forms of replacement and other different circumstances arise, you have those every year. And if you follow the lead that the Pecos River cases of this Court give us, there is also the possibility to address the improvement of the tool for implementing the agreement of the States, and that is improving the Hydrologic-Institutional Model on occasion, as we have seen the master do over the course of this litigation. That is allowed under the Pecos River Decree, and we submit that it should be allowed under this decree as well. And that is when the master would be exercising the most judgment in our opinion. I would conclude by saying that a... a river master is needed on the Arkansas to deal impartially and expertly with annual questions that must be resolved to implement the H-I Model, and that a 1-year compliance period will implement the intentions of the drafters of the compact and the needs of Kansas farmers and is consistent with the yearly reliance that this Court has already placed on the H-I Model. I'll reserve the rest of my time for rebuttal if there are no further questions."
+                },
+                {
+                    "start": 1638.691,
+                    "stop": 1641.375,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Draper. Mr. Robbins, we'll hear from you."
+                }
+            ],
+            "start": 7.43,
+            "stop": 1784.222
+        },
+        {
+            "turns": [
+                {
+                    "start": 1641.375,
+                    "stop": 1784.222,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: I think I will begin by discussing the river master since that's where Mr. Draper left off. I want to make it clear, first of all, that I disagree with the assertion that the Pecos River Compact and the Arkansas River Compact are similar in the way they operate. The Pecos River Compact did, in fact, specifically state that it was... it intended to hold the level of... of depletion of the system by man's development to the 1947 condition. The Arkansas River Compact, to the contrary, begins the... the limitation clause by saying it is not intended to impede or prevent future beneficial development of the Arkansas Basin, provided that the waters of the Arkansas River are not materially depleted in useable quantity for existing use for the uses. So the... the Arkansas compact contemplated that there would be a... a more flexible effort at using the water of the river by water users in both States, protecting the existing uses in both States from that future development. Now, this... this Court has appointed a river master in two circumstances. In both circumstances, as pointed out by Justice Ginsburg, the... the special master recommended that because of the specific circumstances of the case, that in fact a river master was appropriate. That was on the Delaware River and the Pecos River. In all other cases that deal with this issue where requests have been made by... by States without river... without a special master's recommendation, the Court has declined to appoint a river master. There's a very good reason, I think, behind that. Colorado alone is the party denying interstate compacts in two equitable apportionment decrees. If every time a State is dissatisfied with its neighbor, is dissatisfied with how a compact operates, it is able to come to this Court and say, please appoint a river master, we're just having trouble with our neighbor, you'll become the water management... the super water management agency for the country. You have river masters if you... it's totally up to... to your discretion. But if you were to follow this line of thinking, you end up supervising water distribution across the west and part of the east."
+                },
+                {
+                    "start": 1784.222,
+                    "stop": 1795.656,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the disputes are going to come up here eventually anyway if the States are intransigent. Ultimately it will be a dispute about the application of the compact and it will come back here anyway, won't it?"
+                },
+                {
+                    "start": 1795.656,
+                    "stop": 1816.999,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Justice Scalia, that is absolutely correct, but the difference is where compacts have mechanisms within them that are designed to work out these differences, I think it is in the Court's interest... and Colorado's position is and the special master's position was it was in the Court's interest... to refer these matters back to those compact administrations. You--"
+                },
+                {
+                    "start": 1816.999,
+                    "stop": 1825.877,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, do you think it's any more likely today than in the past that the two States will be able to work out their continued disagreements?"
+                },
+                {
+                    "start": 1825.877,
+                    "stop": 1853.657,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Justice O'Connor, I agree completely with the special master. The State of Colorado has proposed, as referred to in his ruling, that binding arbitration be used and has committed itself to participate in that. To the extent there... there have been past conflicts, Colorado has said let's get them behind us. Let's return to the compact, congressionally sanctioned method for resolving our differences, and let's proceed down the road. We will--"
+                },
+                {
+                    "start": 1853.657,
+                    "stop": 1858.941,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but Colorado still has the veto in any given case on whether an arbitrator will be appointed. Is that right?"
+                },
+                {
+                    "start": 1858.941,
+                    "stop": 1861.253,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That is... under the compact, that's correct."
+                },
+                {
+                    "start": 1861.253,
+                    "stop": 1861.542,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, yes."
+                },
+                {
+                    "start": 1861.542,
+                    "stop": 1891.934,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And so... but... but Colorado has made a... a very clear commitment to the special master and does so to this Court that if arbitration is proposed, Colorado would participate. We do not as a State find it very acceptable to spend the time, money, and effort to litigate these issues. After all, we have farmers. Kansas has farmers. We need to get back to getting the water equitably resolved through the compact mechanism. That is our proposal. It was--"
+                },
+                {
+                    "start": 1891.934,
+                    "stop": 1928.177,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So is it right then that... let's imagine the special river master's name is Mr. Smith, and unlike me, he knows about this stuff. And he then... you... Kansas wants Mr. Smith to decide a certain number of issues. Call them issues on page 1, whatever they are. And as far as you're concerned, your client would say I'm happy to have Mr. Smith. Just don't call him a river master. Call him an arbitrator. So you're saying that when Kansas says they would do it except there's a problem of getting unanimity, you say the only problem is that you won't agree."
+                },
+                {
+                    "start": 1928.177,
+                    "stop": 1930.739,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--At the present time, that's the posture--"
+                },
+                {
+                    "start": 1930.739,
+                    "stop": 1935.607,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, they're the obstacle to unanimity. So the keys are in their own pocket if they want Mr. Smith. That's your view."
+                },
+                {
+                    "start": 1935.607,
+                    "stop": 1943.659,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Our view is if they want to arbitrate pursuant to the compact, the keys are in their... in their pocket. We do not believe--"
+                },
+                {
+                    "start": 1943.659,
+                    "stop": 1950.635,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the problem can't be one of unanimity because your side agrees. I mean, you heard what he said. So I'm... I'm trying to see--"
+                },
+                {
+                    "start": 1950.635,
+                    "stop": 1962.03,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Our side agrees, Your... Justice Breyer, with... with the concept that this matter should be returned to the compact administration to resolve the differences in that forum."
+                },
+                {
+                    "start": 1962.03,
+                    "stop": 1964.509,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And... and in that forum, you will agree to binding arbitration."
+                },
+                {
+                    "start": 1964.509,
+                    "stop": 1966.488,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In that forum, we will agree to binding arbitration."
+                },
+                {
+                    "start": 1966.488,
+                    "stop": 1972.061,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Binding arbitration will... will mercifully keep this stuff off of our desk, won't it?"
+                },
+                {
+                    "start": 1972.061,
+                    "stop": 2124.467,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, it will. [Laughter] I want... I want to make it very clear to the Court that the State of Colorado, different than the situation in the Pecos River, acted very aggressively to ensure that it promptly came into compliance with the... with the determination that in fact depletions were occurring, impermissible depletions were occurring to the Arkansas River. Within 2 years, the State of Colorado's legislature had passed the appropriate legislation. The State engineer had passed rules and regulations, implemented them, and enforced them. The State had authorized millions of dollars in loans for the acquisition of replacement water, and... and the State of Colorado... your... your ruling was in 1995. By 1997, it appears that the State of Colorado was in compliance with the compact. That is a significant and very difficult effort on the part of the legislature, the Governor, the attorney general, and the State engineer. We do not believe that this is anything like the Pecos River. Your master in this case has not said to you these parties are... are torn, will not get together, and you need to have a master, a river master, appointed. In this instance, the State of Colorado took the exact opposite approach. They did everything they could to reduce the pumping of the wells sufficiently to allow Colorado to meet the terms of the compact, and that is an important fact you need to glean from the special master's report. Now, the... the other... the only other point I want to make on this is that the... the... it's... it's very important, in deciding whether or not a river master is the appropriate course of action to determine... and I... I mentioned this earlier... whether or not the Court wants to be in a supervisory position. I happen to agree that the States are entitled to seek redress of their concerns before this Court, and as you said in... in Oklahoma v. New Mexico, you have a serious obligation to adjudicate disputes between the States where there are actual and existing controversies. And... and the fact that you would have a river master would not eliminate the potential for those controversies. In our view, the only way that you can get this matter off of your plate and into the position that Congress recognized and... and directed is to follow the special master's recommendation number 12. I'd now like to turn, if I may, to the issue of the accuracy of the model."
+                },
+                {
+                    "start": 2124.467,
+                    "stop": 2150.285,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you a question, because you may not bother to talk about it otherwise, about punitive damages? Your opponent didn't seem to think it very important, but I have this question. Is it your view that the other State waived its claim to the punitive damages from 1985 back either by not arguing it today or by submitting the different set of figures at the time the... the issue was before the master the last time around?"
+                },
+                {
+                    "start": 2150.285,
+                    "stop": 2185.646,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Justice Stevens, in response to your question, we believe that in fact the issue of prejudgment interest, or punitive damages, is law of the case in this matter. The special master set out a formula by which he proposed how the damages should be calculated. Kansas argued for actual value of money, a rather rigid theory of compensation, and the special master chose in fact a balancing of the equities approach. He suggested that the appropriate means to calculate those... that prejudgment interest on the... the nominal damages--"
+                },
+                {
+                    "start": 2185.646,
+                    "stop": 2189.816,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did he... did he make that suggestion or did the other... did Kansas make that suggestion?"
+                },
+                {
+                    "start": 2189.816,
+                    "stop": 2194.979,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The special master ruled on how he believed the damages should be calculated."
+                },
+                {
+                    "start": 2194.979,
+                    "stop": 2196.298,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In this time around or in the preceding--"
+                },
+                {
+                    "start": 2196.298,
+                    "stop": 2242.04,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In the preceding time around. And what he said was that the damages from 1950 to 1968 should be... should... should receive a inflationary increase to reflect the inflationary tendencies, but that they should not be dealt with under prejudgment interest. In other words, it shouldn't be compounded through prejudgment interest. Only the damages from 1969 forward should be compounded using prejudgment interest. Kansas did not except to that methodology. Kansas excepted to the fact that he didn't give them prejudgment interest on the damages from 1950 forward. In the opinion that you authored for the Court, you accepted the master's methodology, and you did one thing and only one."
+                },
+                {
+                    "start": 2242.04,
+                    "stop": 2243.276,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, the master's methodology really wasn't at issue."
+                },
+                {
+                    "start": 2243.276,
+                    "stop": 2245.671,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The master's--"
+                },
+                {
+                    "start": 2245.671,
+                    "stop": 2250.706,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The only issue before us, as I remember it, was the date from which the prejudgment interest would run."
+                },
+                {
+                    "start": 2250.706,
+                    "stop": 2251.161,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That's--"
+                },
+                {
+                    "start": 2251.161,
+                    "stop": 2268.334,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's... that's all that was argued. And it seemed to me that if it had been a fixed sum rather than an... a changing amount as years went by, that clearly we would have... the interest would have run on the existing liability. But it's an unusual case because the damages are changing as time goes by."
+                },
+                {
+                    "start": 2268.334,
+                    "stop": 2279.768,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--It is and I agree with you, Justice Stevens. It is an unusual case. But the... the critical element here is that the master was looking for an equitable way to arrive at a damage sum."
+                },
+                {
+                    "start": 2279.768,
+                    "stop": 2286.455,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, except that, as I read his report, he was simply interpreting our opinion, best he could, on the second go-round."
+                },
+                {
+                    "start": 2286.455,
+                    "stop": 2288.23,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "This... this go-round?"
+                },
+                {
+                    "start": 2288.23,
+                    "stop": 2288.684,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2288.684,
+                    "stop": 2289.965,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct, Justice Kennedy."
+                },
+                {
+                    "start": 2289.965,
+                    "stop": 2318.656,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And... and I think that's what's before us here. It... it seems to me that your best argument for no interest post '85 on the pre-'85 damages is to say, well, it's uncertain, it's hard to compute, but that doesn't quite work because this Court... and of course, the special master... allowed damages... the interest on post-'85 damages even though those are equally difficult to compute."
+                },
+                {
+                    "start": 2318.656,
+                    "stop": 2323.214,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It isn't the... if I may, Justice Kennedy, it isn't the--"
+                },
+                {
+                    "start": 2323.214,
+                    "stop": 2326.252,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I'm... I'm saying it seems to me that's your best argument, but there's a flaw in there."
+                },
+                {
+                    "start": 2326.252,
+                    "stop": 2357.377,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I understand. The... but the... in our view the State of Kansas was obligated to take an exception if it disagreed with the methodology used by the special master and adopted in Justice Stevens' opinion by this Court. There was a sum of damage that was calculated by that and reported to the Court: $38 million. By moving the year forward from 1969 to 1985, you automatically then reduce, by some degree, the amount of that damage calculation."
+                },
+                {
+                    "start": 2357.377,
+                    "stop": 2362.457,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but did we... your... your view is that we entirely eliminated any interest on that past damage."
+                },
+                {
+                    "start": 2362.457,
+                    "stop": 2364.724,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Prejudgment--"
+                },
+                {
+                    "start": 2364.724,
+                    "stop": 2366.293,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Pre-1985."
+                },
+                {
+                    "start": 2366.293,
+                    "stop": 2417.563,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The... the special master's methodology, Justice Stevens, was that the damages in his third report from 1950 to 1968 should not, under a balancing of the equities, bear prejudgment interest at any point in time. They should only be advanced for inflation, which was a proposal Colorado made because Colorado believed that it... the changing a 1950 damage to a... to a 2002, or at that time a 1994, dollar value was only fair and reasonable. We opposed the concept of giving prejudgment interest because it would... it would be... it's as if... if this were a commercial context, we would have been able to identify that there was a damage going on and the theory in your prejudgment cases is we could have put the money in the bank--"
+                },
+                {
+                    "start": 2417.563,
+                    "stop": 2421.733,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But we rejected that as to post-'85 damages."
+                },
+                {
+                    "start": 2421.733,
+                    "stop": 2432.773,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--You agreed that prejudgment interest, Justice Kennedy, should be applied to post-'85 damages, not to pre-'85 damages."
+                },
+                {
+                    "start": 2432.773,
+                    "stop": 2444.19,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but our opinion didn't say it was just post-'85 damages. Our... our opinion didn't... didn't answer the question, and... and the reason, of course, is we didn't actually think about it because nobody even... nobody argued it at that time."
+                },
+                {
+                    "start": 2444.19,
+                    "stop": 2452.569,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Our view was that... that... our view is, Justice Stevens, that an exception needed to be taken if the master's methodology was under challenge."
+                },
+                {
+                    "start": 2452.569,
+                    "stop": 2455.336,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So in a way you really are arguing waiver I think."
+                },
+                {
+                    "start": 2455.336,
+                    "stop": 2457.582,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We are arguing law of the case. Yes, we are."
+                },
+                {
+                    "start": 2457.582,
+                    "stop": 2460.349,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which is consistent with his failure to argue it today."
+                },
+                {
+                    "start": 2460.349,
+                    "stop": 2475.026,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's... that is our position, Your Honor. I would like to, if... if I may, move off of prejudgment interest. I would like to talk, while I still have a few minutes, a little bit about this model and the 10-year average."
+                },
+                {
+                    "start": 2475.026,
+                    "stop": 2491.29,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you give... I'm... I'm not sure I understand the dispute. Can you give me in... in... without using up all of your time, a... basically a simple example to illustrate the difference between the two contending methodological positions?"
+                },
+                {
+                    "start": 2491.29,
+                    "stop": 2543.924,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, I can, Justice Souter. Under the... the master's formulation, which is agreed to by Colorado, the damages which occur in each year, 1950 through 1984, are... are computed at... in... as nominal damages in the year in which they occur. They are then expanded by the... by an inflationary formula which allows the dollar in 1950 to be calculated in a 2002 dollar. In 1985 and to the present, any damages that occur are advanced both for inflation, but then they are also awarded a prejudgment interest, which is compounded. In other words, if inflation is 2 or 3 percent through the period on a long-term average, but... but investments are at 6 or 7 percent--"
+                },
+                {
+                    "start": 2543.924,
+                    "stop": 2544.462,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I got you."
+                },
+                {
+                    "start": 2544.462,
+                    "stop": 2683.782,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--those damages advance. Colorado's... Kansas' view is that commencing in... in 1985, all of the damages from 1950 to the present should receive prejudgment interest. The difference then becomes, if you use the master's methodology, the... the current amount of money in 2002 dollars which Colorado would owe Kansas is approximately $29 million. If you use the Kansas methodology... and this is the impact of prejudgment interest... it would be $52 million. Under the original formulation that was presented to the Court, the value under the master's formulation, which did not charge prejudgment interest on the '50 to '68 dollars, both States agreed that that would have been $38 million. So from Colorado's perspective, having succeeded in our... in our exception that the year should be 1985 instead of 1969, we in fact, under the Kansas theory, lose some 20-some-million in the proposition, which we don't believe is what the Court intended. Let me... let me turn very quickly to the model, if I may. The... the issue here is not Colorado's obligation to deliver water to... to the river system. Colorado has both senior surface water rights and the State of Kansas that it has obligations to protect. Remember, the compact envisions that this subsequent development can't injure water users in either Kansas or Colorado. As a result, Colorado must ensure that on a monthly basis, water is placed into the river so depletions are... are compensated for in the system as they occur. The problem here is not that process. The problem here is a model that is inaccurate. Beginning in your first report, you quoted with favor the special master's comments about this model in dealing with the winter water storage program, which was an issue which you agreed should be dismissed several years ago. You indicated that depletions shown were well within the range of error and it could not be told if it was an impact or an error that the model was describing."
+                },
+                {
+                    "start": 2683.782,
+                    "stop": 2696.99,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, your time is running short. This is very important. I think you misunderstood Justice Souter's question. He asked you to give us an example of the Kansas versus Colorado approach as to the 10-year model. You answered him about the interest. Could you--"
+                },
+                {
+                    "start": 2696.99,
+                    "stop": 2697.899,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I'm so sorry."
+                },
+                {
+                    "start": 2697.899,
+                    "stop": 2699.757,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--could you tell us really--"
+                },
+                {
+                    "start": 2699.757,
+                    "stop": 2700.334,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2700.334,
+                    "stop": 2703.018,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Give us an example of the difference between the two."
+                },
+                {
+                    "start": 2703.018,
+                    "stop": 2768.943,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. The difference between the two is this. We believe that the model over a long period of time, as it's developer, Mr. Durbin, said, is reasonably accurate. We... we agree with that, and we are willing to use it like that. But that means you have to use... look at it over extended periods of time. Our view is that you simply look at the model, which is predicting over-deliveries and under-deliveries, predicting them. They don't have any relationship to what Colorado is really putting into the system. They are predictions. And in some years where you... where you look back and you know from the gauges the model is over-predicting a significant amount, you... you want to be... and you know in a subsequent year it's going to under-predict, you want to allow that to smooth out so that you are, in fact, getting close to what's really going on. It is not an effort to carry dry-year depletions into wet years or vice versa. It is, in fact, an effort to allow the model's inherent inaccuracies to play out so that you get a more accurate result in each 10th year."
+                },
+                {
+                    "start": 2768.943,
+                    "stop": 2803.411,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why doesn't... why isn't the result that you... of... of your position that you would get a more accurate set of predictions if all you were making was a 10-year calculation, but you will not get a more accurate set of predictions with respect to any one year? And in fact, it is with respect to any one year that's important under the compact. In other words, they... they plan every year, not every 10 years. So why does a 10-year accuracy help you in solving the practical problem you have on a year-to-year basis?"
+                },
+                {
+                    "start": 2803.411,
+                    "stop": 2811.091,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "As proposed by the special master, the model is not used every 10 year... or every 10th year. It's used every year. If you're looking at--"
+                },
+                {
+                    "start": 2811.091,
+                    "stop": 2823.928,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know. But it's used on the basis of 10-year figures which will not be accurate particularly with respect to any given year even though they would be... they would be accurate if you were only interested in a calculation every 10 years."
+                },
+                {
+                    "start": 2823.928,
+                    "stop": 2825.869,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--You are making--"
+                },
+                {
+                    "start": 2825.869,
+                    "stop": 2831.78,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does it... can... can you... can you get a better prediction on a year-to-year basis is what I'm saying."
+                },
+                {
+                    "start": 2831.78,
+                    "stop": 2852.535,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--You get a better prediction on a year-to-year basis. A... a better prediction if you're looking at the model over 10 years versus looking at the model just running it in a given year. Colorado does not want to be in a position, Justice Souter, where we are accused of violating the compact because there is an inaccuracy in the tool that is being used."
+                },
+                {
+                    "start": 2852.535,
+                    "stop": 2852.907,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you--"
+                },
+                {
+                    "start": 2852.907,
+                    "stop": 2853.278,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It--"
+                },
+                {
+                    "start": 2853.278,
+                    "stop": 2854.271,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Thank you, Mr. Robbins."
+                },
+                {
+                    "start": 2854.271,
+                    "stop": 2855.469,
+                    "speaker": {
+                        "name": "David W. Robbins",
+                        "ID": 21428,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Thank you."
+                },
+                {
+                    "start": 2855.469,
+                    "stop": 2856.129,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feldman, we'll hear from you."
+                }
+            ],
+            "start": 1641.375,
+            "stop": 3015.389
+        },
+        {
+            "turns": [
+                {
+                    "start": 2856.129,
+                    "stop": 3015.389,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: It's the position of the United States that... that we agree with Colorado and with the special master that a river master should not be appointed in this case. The compact between the States of Kansas and Colorado sets up a commission that is responsible for implementing the obligations in that compact, which has to do with Colorado's obligations to deliver a certain amount of water to Kansas. The commission is also charged with investigating violations of the compact, and the compact includes a dispute resolution mechanism of submission to binding arbitration if the... the States agree to that. The... the commission also certainly could use other dispute resolution mechanisms and certainly would have the authority to do if it wanted to. The States have agreed to that. Congress has enacted it into law, and this Court should permit the parties to use that mechanism to resolve any disputes that might arise in the future rather than putting a river master in place under the authority of this Court. Now, the Court has... itself has frequently stated that consensual resolution of disputes of this sort is preferable to litigation. As the special master pointed out, in the two river basins just north of the Arkansas River, the Republican River and the Platte River, the parties recently, after having a dispute, including these very same two States in one of them, have come to a consensual resolution of the dispute that they had. And I think that does show, as the special master pointed out, that these... the States can... in fact, the disputes in those cases also had to do with groundwater and the effect of well pumping, among other things. As the special master pointed out, I think that shows that the States can use a consensual mechanism to come to a resolution, and this Court ought to continue its often-stated preference for consensual rather than litigative type of solutions to problems of this sort. If the Court were to appoint a river master in this case, then I think the question would arise in any future case in which you have two States that have conflicting interests with regard to an ongoing activity, as what happened with river compacts, equitable apportionments, and in other areas, whenever there's an inherently conflicting interest, the Court would have an appeal that it should appoint a master to oversee a decree or judgment. And I think rather than... that... that would be directly contrary to the Court's other statement in the area, which is not only that the Court prefers and that it's far preferable to have consensual resolutions, but also that the Court does not favor appointing agents or functionaries to carry out its decrees."
+                },
+                {
+                    "start": 3015.389,
+                    "stop": 3020.385,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I guess we made a mistake with respect to the Pecos River and what was the other one? Delaware?"
+                },
+                {
+                    "start": 3020.385,
+                    "stop": 3212.915,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. The Pecos River... I mean, there were a couple of differences, in addition to the ones that Mr. Robbins pointed out. One difference is that not only the special master, but the parties in the Pecos River case... neither party objected to the appointment of a river master or even to the more extraordinary step of clothing the master with authority to make determinations that would be reviewable only under a clearly erroneous standard. In this case, there is a party that objects to it. And I would... I think there's another difference that's important that the Court ought to keep in mind. At the time the Pecos River master was appointed, Federal Rule of Civil Procedure 53(e), which the Court has said that the Federal rules provide a guide for this Court's original cases, rule 53(e) provided that findings of fact by a master appointed by a district court shall be reviewed under a clearly erroneous standard, and the Court, indeed, used that mechanism for the... it provided that the river master in that case would be reviewed under that standard. As of 2003, rule 53... it's now rule 53(g)... provides that masters appointed by district courts said their findings shall be reviewable only under a de novo standard unless the parties agree otherwise. Therefore, at the present time... and again, following the Court's rule 17.2 that says that the Federal Rules of Civil Procedure should be guides... and I think they are a useful guide... the appropriate course here, if the Court were to appoint a river master, would be to appoint one whose findings will be reviewable de novo. But that itself raises problems because if the findings of the river master are reviewable de novo, it's really just a continuation of the current litigation and it doesn't really advance things any. The parties will submit the evidence to the river master. He'll make his determinations, and then they'll come to the Court. That's really more what the special master does at the current time. So I think that under all of those circumstances, both the Court's preference for a consensual resolution of disputes, its disfavoring of appointments of agents to carry out its decrees, the Court's recognition that it's the Court's obligation to decide cases of this sort and it can't... it's not the obligation of other parties to do that, and the commission that Congress has put into place specifically to deal with this kind of problem, and with a specific recognition that there could be disputes and a provision for a dispute resolution, I think that the Court should not appoint a river master in this case. As far as the prejudgment interest issue, it's the position of the United States also that the special master and Colorado are correct, and prejudgment interest should not be awarded. I think it's a familiar principle in... to this Court in litigation that if a party... when the time comes to make objections, a party has to make all of its objections if it wants the Court to hear them. In this case, the special master came up with a recommendation in his third report about how to... what should happen with prejudgment interest, under which the early years... the... the amount of the damages in those early years would never be subject to prejudgment interest. Now, Kansas objected to that and said we should move the year back to 1950. We should get prejudgment interest on everything back to year one. But they never made the objection that if you... if the Court disagrees with that, which it did, that the method that the master had used to deal with the prejudgment interest as of 1969 was incorrect. That was the time that Kansas should have brought it to the Court and Kansas didn't do that."
+                },
+                {
+                    "start": 3212.915,
+                    "stop": 3216.63,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're arguing they've waived the... your argument is they waived the objection basically."
+                },
+                {
+                    "start": 3216.63,
+                    "stop": 3216.879,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. I think--"
+                },
+                {
+                    "start": 3216.879,
+                    "stop": 3222.702,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't think you used the word waiver in your brief, and I don't think that Colorado did either. But I guess that's the essence of your argument."
+                },
+                {
+                    "start": 3222.702,
+                    "stop": 3235.045,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I... I actually think it's a combination of two things. On the one hand, what the Court actually said in its opinion was that the special master had awarded damages only insofar as necessary to satisfy the demands of equity, something to that effect."
+                },
+                {
+                    "start": 3235.045,
+                    "stop": 3244.044,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you not agree that if it was a one-shot injury, not an ongoing injury, that the normal reading would be the injury... the interest should run on the laws?"
+                },
+                {
+                    "start": 3244.044,
+                    "stop": 3258.163,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think in the normal contract case that doesn't have the kinds of equities that this case had, that is the current rule, that prejudgment interest would run. But this kind of case involves damages that go back 50-odd years. It could have been--"
+                },
+                {
+                    "start": 3258.163,
+                    "stop": 3259.156,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it involves continuing, ongoing--"
+                },
+                {
+                    "start": 3259.156,
+                    "stop": 3295.314,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--And they're... they're ongoing that are different in amount in every year, that it's not merely that Colorado was violating the compact as of 1950, although it probably didn't know it at that time, but that Kansas didn't bring a suit until 1985 and the fact, I think, that Colorado has always agreed to pay... to adjust the damages for inflation. So, in essence, Kansas is getting a portion of what the prejudgment interest would normally cover for those early years. I think if all that's put together, I think the Court's conclusion that the master's conclusion was just the amount that equity dictates was correct, and that if Kansas didn't like that, it should--"
+                },
+                {
+                    "start": 3295.314,
+                    "stop": 3300.089,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feldman, the Government takes no position on this 1-year versus 10-year computation?"
+                },
+                {
+                    "start": 3300.089,
+                    "stop": 3302.002,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, the Government doesn't have a position on that."
+                },
+                {
+                    "start": 3302.002,
+                    "stop": 3303.2,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Too hard for you? [Laughter]"
+                },
+                {
+                    "start": 3303.2,
+                    "stop": 3316.453,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That issue involves the particularities of this case and the Government doesn't really have a particular interest in how that gets resolved. If there's no further questions, that concludes the argument."
+                },
+                {
+                    "start": 3316.453,
+                    "stop": 3319.713,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Feldman. Mr. Draper, you have 2 minutes remaining."
+                }
+            ],
+            "start": 2856.129,
+            "stop": 3383.076
+        },
+        {
+            "turns": [
+                {
+                    "start": 3319.713,
+                    "stop": 3383.076,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: I want to state that we do not believe that we waived our position on the interest calculation as was just suggested in the... in the last colloquy. The reason that we didn't do that is because we filed an exception last time against every respect in which the special master was not recommending full interest. And it turned out that the Court chose the... the test that we now have, which is a relatively easy test to apply. It has certain incentives that grow out of it that make sense. And we believe that we sufficiently excepted to that. If look at our brief from that exception, the one in... in support of our exceptions, in particular... particularly to page 25, footnote 8, we specifically addressed the issue that the... the master was not allowing any interest in that 1950 through 1968 period."
+                },
+                {
+                    "start": 3383.076,
+                    "stop": 3385.184,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're talking about the brief in the earlier case."
+                },
+                {
+                    "start": 3385.184,
+                    "stop": 3395.336,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In the earlier case, to the third report of the special master. I would... also, on the other points that were raised, you need to be--"
+                },
+                {
+                    "start": 3395.336,
+                    "stop": 3404.253,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is a lot of money involved, and... and you certainly didn't argue it here. I don't recall that point being argued. And with all that money being involved, I would have thought it would have been argued."
+                },
+                {
+                    "start": 3404.253,
+                    "stop": 3468.115,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, we were... we were arguing the larger issues on interest, but we were asking that interest not be denied to us during that '50 through 1968 period. That was very clear from our briefs, and we specifically singled out that part of it in that footnote. So I don't believe it's appropriate that... to conclude that we have waived that argument. And I would point out also that the only reason that it was done that way... and the calculations of the parties did... did in connection with that review... is because the special master required it. There is no other reason that we did it. We did not volunteer to do it that way. We did not like doing it that way. The master said that's the way it's going to be in my recommendation. How much would that amount to? We did not agree in any way to that part of the calculation. I would also point out that with respect to the amounts involved, that you need to be careful. The amounts cited by Mr. Robbins are not from the same year."
+                },
+                {
+                    "start": 3468.115,
+                    "stop": 3468.941,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you. Thank you, Mr. Draper."
+                },
+                {
+                    "start": 3468.941,
+                    "stop": 3469.934,
+                    "speaker": {
+                        "name": "John B. Draper",
+                        "ID": 30017,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Your Honor."
+                },
+                {
+                    "start": 3469.934,
+                    "stop": 3470.427,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The case is submitted."
+                }
+            ],
+            "start": 3319.713
+        }
+    ]
+}

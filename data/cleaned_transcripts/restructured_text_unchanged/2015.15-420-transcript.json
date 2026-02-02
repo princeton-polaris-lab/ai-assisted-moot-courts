@@ -1,0 +1,1380 @@
+{
+    "title": "United States v. Bryant",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 7.315,
+                    "stop": 166.89,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Congress enacted Section 117 in response to the epidemic of domestic violence in Indian Country. The Ninth Circuit was wrong to strike down the statute as applied to offenders like Respondent who have abused and battered their intimate partners again and again, but whose tribal-court misdemeanor convictions were uncounseled and resulted in a sentence of imprisonment. The Ninth Circuit's constitutional analysis disconnects the validity of the underlying prior conviction from the permissibility of relying on those convictions to prove the defendant's recidivist status if he commits additional criminal conduct. And that runs counter to this Court's precedence. In Nichols v. United States, this Court held that a conviction that was uncounseled but was valid at the time it was obtained remains valid when it's used in a subsequent prosecution to classify the defendant as a recidivist. As I understand the Court's logic in that opinion, the rationale was that in the absence of an actual Sixth Amendment violation in the underlying proceeding, there's no proceeding in which the defendant had but was denied a right to counsel. He didn't -- he has a right to counsel in the subsequent Federal prosecution, and here, Respondent had that right and it was respected. He was -- he was represented by appointed counsel at every critical stage. But when a defendant doesn't have a right to counsel in the prior proceedings that resulted in that conviction, then there's no defect, no constitutional defect in those underlying convictions that can possibly be carried over or exacerbated through reliance on those convictions in the subsequent proceeding. Now, the Ninth Circuit reasoned, and Respondent's arguing here, that that might apply when the conviction is -- is valid under the Court's rationale in Scott. There, of course, the Court held that there's no right to appointed counsel in a proceeding that doesn't result in imprisonment. And Respondent urges the Court to limit Nichols to that situation, where you have a defendant who -- who wasn't imprisoned in the prior proceeding. But I don't think that makes sense as a matter of the logic under this Court's decision in -- in Nichols, nor do I think it makes sense as a matter of practical reality. Here, for example, Respondent says that if only his Tribal Court had sentenced him to a fine rather than to imprisonment, there would be no constitutional infirmity with relying on those convictions in his Section 117 prosecution. But I can't fathom why it is that the Tribal Court's sentencing determination would make any difference with respect to the validity of those convictions or the permissibility of using them to identify the defendant as among those class of individuals who are properly --"
+                },
+                {
+                    "start": 166.89,
+                    "stop": 175.895,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose you had a conviction from a foreign country. Would that -- could that be used for this purpose, assuming the statute allowed it?"
+                },
+                {
+                    "start": 175.895,
+                    "stop": 179.31,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think that there would be any Sixth Amendment problem if Congress chose --"
+                },
+                {
+                    "start": 179.31,
+                    "stop": 181.07,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would there be a due process problem?"
+                },
+                {
+                    "start": 181.07,
+                    "stop": 185.49,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it -- I think that it would raise a more serious due process issue, but I think that there are --"
+                },
+                {
+                    "start": 185.49,
+                    "stop": 186.89,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why more serious --"
+                },
+                {
+                    "start": 186.89,
+                    "stop": 187.84,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because --"
+                },
+                {
+                    "start": 187.84,
+                    "stop": 189.015,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- in England?"
+                },
+                {
+                    "start": 189.015,
+                    "stop": 201.91,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think that it would be incumbent on a defendant in that situation to try to come forward and make a showing that that foreign conviction was obtained in a proceeding that wasn't fundamentally fair. Tribal courts, I think, are fundamentally different, Justice Kennedy."
+                },
+                {
+                    "start": 201.91,
+                    "stop": 206.15,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could that showing be attempted in a case like this?"
+                },
+                {
+                    "start": 206.15,
+                    "stop": 213.775,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In a Section 117 prosecution? So that raises the question whether there should be a right to have a collateral challenge to a particular conviction."
+                },
+                {
+                    "start": 213.775,
+                    "stop": 221.09,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I -- are foreign judgments -- are foreign convictions -- I thought it had to be a Federal, State or a tribal court."
+                },
+                {
+                    "start": 221.09,
+                    "stop": 223.75,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm assuming the statute was amended."
+                },
+                {
+                    "start": 223.75,
+                    "stop": 254.82,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. So -- so just to clarify, it's true, Justice Ginsburg, that Section 117 doesn't cover foreign convictions. And I understood Justice Kennedy to be asking whether there would be a constitutional problem if it did. To the extent that this Court would perceive the need to recognize an as-applied due-process challenge to a foreign conviction, I think tribal convictions are very differently situated. And here's why. Tribal convictions aren't rendered wholly outside the auspices of our Federal system or Federal review. Congress has plenary authority in this area, and it's acted."
+                },
+                {
+                    "start": 254.82,
+                    "stop": 257.89,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's certainly rendered outside the Constitution."
+                },
+                {
+                    "start": 257.89,
+                    "stop": 266.66,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's true that the Constitution doesn't govern tribal court proceedings, but Congress has plenary authority, and those proceedings are governed by Federal law through the Indian Civil Rights Act."
+                },
+                {
+                    "start": 266.66,
+                    "stop": 271.455,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So this case would come out differently if Congress had not enacted the Indian Civil Rights Act?"
+                },
+                {
+                    "start": 271.455,
+                    "stop": 282.1,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that if Congress hadn't enacted the Indian Civil Rights Act, it's possible that it wouldn't have made tribal court convictions predicates because it wouldn't have the same confidence that there's a baseline level of procedural fairness."
+                },
+                {
+                    "start": 282.1,
+                    "stop": 290.3,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what if they -- what if they had? In other words, convictions in a tribal court do count as predicates, and there is no Indian Civil Rights Act."
+                },
+                {
+                    "start": 290.3,
+                    "stop": 311.81,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In that circumstance, then I think the inquiry would focus on what level of procedural fairness is being applied in tribal courts in the absence of that kind of Federal oversight. And I think that that would also raise the question whether, given the absence of Federal court review or -- or Congress having enacted the Indian Civil Rights Act, whether there should be a collateral challenge that's permissible in that context."
+                },
+                {
+                    "start": 311.81,
+                    "stop": 315.425,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it would be a case-by-case determination?"
+                },
+                {
+                    "start": 315.425,
+                    "stop": 342.74,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I think that in that situation, there would be no grounds to say that the Constitution categorically prohibits Congress from defining the elements of the crime in that way. So I think that it would be required for the defendant to try to raise some kind of case-specific, individualized objection to that kind of conviction. But just to be clear, Respondent is not attempting to make that kind of argument here. And the Ninth Circuit's rule is a categorical rule that says that all tribal-court convictions that are uncounseled --"
+                },
+                {
+                    "start": 342.74,
+                    "stop": 355.865,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We already do that, don't we, in the career armed felony statute because we permit reliance on foreign convictions, correct?"
+                },
+                {
+                    "start": 355.865,
+                    "stop": 365.06,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I'm not sure that the ACCA permits reliance on foreign convictions. I do know that there are a number of Federal statutes that do. The drug statutes, for example."
+                },
+                {
+                    "start": 365.06,
+                    "stop": 374.115,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that we already put in play the issue of whether an individual in a foreign proceeding follows due process or not."
+                },
+                {
+                    "start": 374.115,
+                    "stop": 382.11,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right. I think this Court has recognized and -- and certainly some of those statutes expressly permit the kind of collateral challenge that I've been talking about with --"
+                },
+                {
+                    "start": 382.11,
+                    "stop": 385.03,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And this due process is not raised in this case at all, right --"
+                },
+                {
+                    "start": 385.03,
+                    "stop": 385.95,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's absolutely correct --"
+                },
+                {
+                    "start": 385.95,
+                    "stop": 386.33,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- by Respondent?"
+                },
+                {
+                    "start": 386.33,
+                    "stop": 422.89,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "-- it's not raised here. Respondent never attempted to argue that there was anything wrong with his prior tribal-court convictions. He has acknowledged at every stage that those convictions were obtained in compliance with the Indian Civil Rights Act. He has never suggested that he didn't actually commit those repeated acts of domestic violence that resulted in some five convictions in tribal court for assaulting his intimate partners. And I don't understand him to be trying to raise any kind of collateral challenge in this case. So I don't think that it's properly presented here, and I'd urge the Court to reserve judgment on that issue, which I think raises a number of complexities, and wait for a case in which there has been full briefing on them --"
+                },
+                {
+                    "start": 422.89,
+                    "stop": 432.535,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If he hasn't raised it here, are you suggesting by reserving it in this case, that on remand, that issue could be aired?"
+                },
+                {
+                    "start": 432.535,
+                    "stop": 452.12,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think that it would be a live issue on remand, because Respondent has never sought it at any stage of the proceedings to make this kind of claim that there was any unfairness in his tribal-court proceedings or that he was wrongfully convicted in tribal court. And I should emphasize, too, Justice Ginsburg, that if he had that kind of claim, he had alternative channels to raise it previously."
+                },
+                {
+                    "start": 452.12,
+                    "stop": 464.845,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you tell me just as a matter of practice, if you know, are these claims of -- of unfairness in individual tribes made often or in recent years, in cases like this?"
+                },
+                {
+                    "start": 464.845,
+                    "stop": 465.81,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So --"
+                },
+                {
+                    "start": 465.81,
+                    "stop": 467.095,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I just don't know."
+                },
+                {
+                    "start": 467.095,
+                    "stop": 509.885,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm not aware -- I'm not aware of any case in which someone has tried to make this kind of as-applied due process challenge that we've been discussing. And so I don't know of any Section 117 prosecution that presents that issue. Obviously, in some other contexts where the Court has recognized a limited right for collateral review, for example, under the Mendoza-Lopez decision, I think that those claims are more commonly made. But -- but here I think that it's quite clear that Respondent hasn't preserved that argument. He doesn't want to press it. He doesn't think there was anything wrong with his tribal-court convictions. Rather, what he's arguing is that all of those convictions should be categorically treated as though they don't exist when you're determining whether the defendant is a recidivist for purposes of prosecution under this statute."
+                },
+                {
+                    "start": 509.885,
+                    "stop": 519.445,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought the National Association of Criminal Defense Lawyers had discussion of a few prosecutions where those claims were raised."
+                },
+                {
+                    "start": 519.445,
+                    "stop": 571.19,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. So -- so those are habeas cases, though, where the defendant, following the channels that Congress prescribed to catch those kinds of errors, sought Federal court review from the tribal court judgments. And I think that that actually shows that the habeas remedy is a meaningful safety valve in this context. Obviously, I -- I think that the presumption should be that tribal courts are applying -- complying with the Indian Civil Rights Act, and I think that the studies that have comprehensively looked at this bear that out and show that there isn't any rampant unfairness occurring in those criminal prosecutions. But to the extent that a case slips through the cracks, Congress said in 25 U.S.C. Section 1303 that a defendant in that circumstance can come to federal court and get his conviction overturned if he has a valid claim. When a defendant doesn't exercise that channel of review and doesn't seek to in any way dispute the validity of his tribal court convictions --"
+                },
+                {
+                    "start": 571.19,
+                    "stop": 602.79,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but how would that work in a case like this? I mean, let's say there are procedural deficiencies in one of the predicate prosecutions. And, you know, the defendant says, okay, well, it was a misdemeanor. He -- he doesn't seem to be terribly troubled by convictions, anyway, but -- so he says, I'm not going to seek review of that. But then later on, the 117 prosecution comes along. Is he just sort of stuck with the prior allegedly deficient prosecution because he didn't bring every challenge he possibly could have at that time?"
+                },
+                {
+                    "start": 602.79,
+                    "stop": 616.3,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I think he is stuck with the decision he made. And, of course, the same argument could have been made in the Nichols case. The -- the defendant there, because it was just a misdemeanor conviction and because he wasn't incarcerated, wouldn't have had any reason to challenge that conviction."
+                },
+                {
+                    "start": 616.3,
+                    "stop": 651.795,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, maybe he didn't have any -- maybe he didn't have any reason to challenge it. I mean, my hypothetical assumes a -- a predicate offense conviction that the defendant may not have challenged for whatever reason. And yet when the 117 -- if I've got the numbers right -- action comes up, it turns out it's a lot more serious, which often happens in these multiple offenders. You know, it's three -- three strikes and you get it. But you don't necessarily know that the first strike was that -- that big a deal. It's only when it's accumulated with the others that it is."
+                },
+                {
+                    "start": 651.795,
+                    "stop": 713.79,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that's absolutely the case. But I think, as this Court has recognized in a number of decisions in Nichols and in Daniels, although the stakes might be higher when the defendant commits additional criminal misconduct, and although that might mean that he's exposed to those more severe penalties, that there's nothing unfair in that process. And as well, there's nothing to suggest that those more severe penalties are being imposed for the prior acts. Rather, the Court has reasoned in a long line of precedents, that in those kind of recidivist situations, the penalty is a hundred percent for the most recent act of violence or for the most recent act of crime. And so there's -- there's no constitutional problem with -- with permitting the defendant to be classified as a recidivist. And the Court also noted in Daniels that even if a defendant thinks that there was something unfair about the original proceedings but lacked the incentives to challenge it, or for whatever reason didn't seek review at that time, he knows those convictions are on his record. And it -- it's a basic principle in our criminal justice system that if you do it again, you're going to be treated more harshly."
+                },
+                {
+                    "start": 713.79,
+                    "stop": 747.24,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't -- I -- I saw that argument in -- in your brief, and I'm not sure I'm quite -- well, I'm not sure I agree with it. I mean, the -- the idea you're saying is that, well, if there's three offenses and on the third one, you get this much enhanced penalty, that that's only for the third one. It doesn't -- it's not being imposed for the prior two. I mean, I understand that, that you're already been convicted and sentenced under the prior two, but it seems to me as a practical matter it's fair to say that the enhancement is based on those prior two. You can't just ignore the prior two and say, no, no, it's all just about this third offense."
+                },
+                {
+                    "start": 747.24,
+                    "stop": 801.88,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That might be true as a practical matter, but I think this Court has recognized that as a legal matter and as a constitutional matter, the sentence is imposed only for the latest offense. And the Court made this particularly clear, I think, in Nichols where it said that, although obviously the defendant was exposed to additional punishment based on the fact that he had the prior conviction, still, the -- the penalty in the recidivist prosecution was wholly attributable to the instant offense and not to anything that came before it. And -- and I think the contrary ruling would call into question some of the Court's double jeopardy context or ex post facto laws. There's a long line of this Court's precedents that recognize that principle, that the recidivist prosecution is solely for the most recent act, but it's an aggravated act because the defendant falls within that category of offenders who have done it before, who have that criminal history, and should, therefore, be treated more harshly if they don't learn from their prior misconduct and their prior punishment."
+                },
+                {
+                    "start": 801.88,
+                    "stop": 824.075,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Bryant makes -- makes a distinction between a sentence enhancement on the one hand and the case where the prior conviction counts as an element of the current offense. Would you address what that argument was?"
+                },
+                {
+                    "start": 824.075,
+                    "stop": 887.97,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. So I understand that Respondent's making the claim that Nichols should be limited to the sentencing context because it was a sentencing case, and, of course, that case happened to involve a sentencing enhancement. But I don't think that there's any logical difference between the use of the conviction when it's an enhancement in that way and the use of the conviction when it's made an element of a crime. In either instance, the substantive purpose of relying on that prior conviction is simply to establish that the defendant has that criminal history and that he's, therefore, properly classified as among those offenders who should be treated as recidivists if they commit additional misconduct. And I don't think that the placement, whether in a sentencing enhancement or -- or as an element of a crime, should make any difference with respect to the purpose to which that conviction is being put. Now, it's certainly the case the different standards of review apply and that the conviction at the sentencing enhancement needs to be proofed only by a preponderance, whereas at the guilt stage it would have to be proven beyond a reasonable doubt. But in either circumstances, it's the fact of the conviction that matters. And actually --"
+                },
+                {
+                    "start": 887.97,
+                    "stop": 895.215,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the proof would be simply submitting, I suppose, a certified copy of the judgment of conviction."
+                },
+                {
+                    "start": 895.215,
+                    "stop": 907.095,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. I think what's relevant, whether in the Nichols situation or in -- under Section 117 is -- is that the defendant, in fact, was previously committed of that domestic violence offense."
+                },
+                {
+                    "start": 907.095,
+                    "stop": 928.685,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Should there be distinctions between prior, A, acts; B, convictions, that in one case would result in a -- the commission of a crime, and in another case, just enhance the sentence? Should there ever be a distinction?"
+                },
+                {
+                    "start": 928.685,
+                    "stop": 935.99,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I can't think of one in the context of -- of this kind of recidivist prosecution that would require a distinction. Nichols --"
+                },
+                {
+                    "start": 935.99,
+                    "stop": 944.4,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you use the existence of a civil judgment for domestic assault to enhance a criminal sentence?"
+                },
+                {
+                    "start": 944.4,
+                    "stop": 947.99,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think there would be any constitutional problem with that. And, in fact, there are --"
+                },
+                {
+                    "start": 947.99,
+                    "stop": 957.745,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And then you could use a previous criminal -- a previous civil adjudication for domestic assault as the basis for a Federal crime."
+                },
+                {
+                    "start": 957.745,
+                    "stop": 961.24,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I think that's right. And I don't think that anything in the Constitution would prohibit that."
+                },
+                {
+                    "start": 961.24,
+                    "stop": 963.84,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's a very extensive -- that's a very extensive argument you're making."
+                },
+                {
+                    "start": 963.84,
+                    "stop": 1058.555,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, there are -- I think that the reason why that's not constitutionally problematic is because those civil adjudications are -- are valid. They're entitled to the same presumption of regularity and validity as any other valid adjudication that's obtained. And in fact, a number of States have laws that function somewhat like that in the drunk driving context where the first infraction, the first drunk driving incident is prosecuted as a civil offense, and then a second drunk driving offense is treated as a crime that requires proof of that civil adjudication. And courts that have considered the constitutionality of those schemes have reasoned that there's nothing inherently problematic with giving effect to that civil adjudication. I think this reflects too that the States and jurisdictions have broad leeway to structure their recidivist statutes, whether they make them elements, whether they make them sentencing factors. Recidivism is a -- a large problem, and the Court has recognized in a variety of contexts that States have a lot of leeway in choosing how to deal with that problem. But I don't think that there's any inherent problem with the use of -- of a valid conviction. And again, just focusing back on the logic of this Court's decision in Nichols, what the Court was looking at there was whether there had been an actual violation, because if you don't have a right-to-counsel defect in that prior adjudication, whether it's civil, whether it's -- it's criminal and uncounseled because it's a misdemeanor that didn't result in imprisonment, whatever the reason, the range of reasons why you might be able to validly adjudicate guilt without the assistance of counsel, there is simply no constitutional infirmity in that conviction that would preclude its use in a subsequent proceeding."
+                },
+                {
+                    "start": 1058.555,
+                    "stop": 1071.11,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we know why -- why Congress, in the Indian Civil Rights Act, made the right to counsel narrower than the right in the Sixth Amendment?"
+                },
+                {
+                    "start": 1071.11,
+                    "stop": 1125.955,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that Congress, when it enacted the Indian Civil Rights Act, after years of studying this issue, was sensitive to balancing autonomy for tribes and tribal sovereignty against individual rights. And I think that Congress must have made the judgment that, given the other protections in the Indian Civil Rights Act, tribal-court defendants could be fairly and reliably adjudicated guilty without the assistance of counsel. And that's actually something that's echoed in this Court's precedents, because of course in Scott and in Argersinger, this Court recognized that the assistance of counsel under the Federal Constitution isn't required in order to validly adjudicate the guilt of a misdemeanor defendant. In that circumstance, I think the Court -- what underlies that decision has to be a recognition that there's something fundamentally different about misdemeanor prosecutions, and that the assistance of counsel isn't essential in that circumstance to validly adjudicate a -- a defendant's guilt."
+                },
+                {
+                    "start": 1125.955,
+                    "stop": 1128.185,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So -- so they knew better than Madison?"
+                },
+                {
+                    "start": 1128.185,
+                    "stop": 1129.32,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 1129.32,
+                    "stop": 1136.01,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Madison -- the drafters of the bill, they thought, well, maybe the right to counsel was necessary here but Congress think it's not that necessary."
+                },
+                {
+                    "start": 1136.01,
+                    "stop": 1213.485,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But as I was just saying, even under the Sixth Amendment, even where it applies it doesn't preclude adjudicating the guilt of a defendant in State or Federal court. This Court's decision in Scott recognizes there's -- there's nothing wrong with that. And actually, I -- I think that the on-the-ground practical realities bear out that judgment, because even those defendants who aren't indigent and aren't entitled to appointed counsel, generally, in a large number of cases, decline to hire counsel to represent them in misdemeanor cases, whereas when you look at felony prosecutions, almost everybody hires counsel if they're not entitled to appointed counsel. So I think that the nature of the proceeding here really is critical in helping to understand why Congress's judgment was rational, why the -- why the Indian Civil Rights Act represents a reasonable baseline level of -- of procedural fairness that's guaranteed to tribal-court defendants, and why there's nothing wrong, then, with giving effect to those tribal-court judgments if the defendant fails to learn from his past behavior and his past punishment. These are offenders who have been repeatedly punished by their tribal courts. It requires at least two prior convictions. And the problem is, is that the tribal courts, for the most part, are limited to misdemeanor punishment, and that, for this class of offenders, has proven to be an ineffective remedy; it hasn't deterred the additional misconduct."
+                },
+                {
+                    "start": 1213.485,
+                    "stop": 1229.775,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The tribal -- there was a limit -- I think has been raised -- there is a limit on the punishment, the incarceration that a tribal court could order. I think it was -- wasn't it originally one year?"
+                },
+                {
+                    "start": 1229.775,
+                    "stop": 1235.8,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Originally, I believe it was six months, and then it was lengthened to one year. And it was one year at the point that respondent was convicted."
+                },
+                {
+                    "start": 1235.8,
+                    "stop": 1237.69,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "One year, and now it's three years?"
+                },
+                {
+                    "start": 1237.69,
+                    "stop": 1305.03,
+                    "speaker": {
+                        "name": "Elizabeth Prelogar",
+                        "ID": 56054,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, yes. Actually, I think this is notable because I think it shows that Congress, in recent years, every time it's looked at how tribal courts are functioning and has made a determination about the rights and -- and what to recognize in those tribal-court proceedings, it's acted to recognize expanded authority for tribal courts, both with their sentencing authority, with respect to their jurisdiction. So I do think that that reflects legislative judgment that tribal courts are sufficiently protective of individual rights, and that there's no fundamental unfairness that's occurring in those proceedings that would cause, I think, this Court to question the reliability of those determinations. And I would point again to Respondent's concession that if he had simply been fined in tribal court and had not received a sentence of imprisonment, then there would be no problem with giving effect to those tribal-court convictions. That shows, I think, that Respondent's suggestion that there might be some kind of a reliability concern with this conviction is really unmoored from the constitutional analysis that he's asking the Court to adopt in this case. If there are no further questions, I'll reserve the remainder of my time."
+                },
+                {
+                    "start": 1305.03,
+                    "stop": 1311.625,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Babcock."
+                }
+            ],
+            "start": 7.315,
+            "stop": 1361.585
+        },
+        {
+            "turns": [
+                {
+                    "start": 1311.625,
+                    "stop": 1361.585,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The right to counsel is fundamental and essential in our country, and that is something that needs to be adhered to. Using the tribal-court convictions in which Mr. Bryant was not afforded counsel, then turning them into an essential element of a 117(a) prosecution, runs afoul what -- what this Court has stated is a fundamental right for 53 years. If we take a look at the cases that deal with the Sixth Amendment analysis, from Johnson, to Gideon, to Burgett, to Tucker, to Loper, reliability has been the core concern of every single one of those decisions."
+                },
+                {
+                    "start": 1361.585,
+                    "stop": 1404.69,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you do -- disagree with -- I think Ms. Prelogar said that you -- you acknowledged that if the only sentence had been a fine, no jail time, that these -- these two prior battery misdemeanors, if the -- the tribal court gave only a fine and no jail time, then those convictions could be used under for a 117 prosecution."
+                },
+                {
+                    "start": 1404.69,
+                    "stop": 1497.7,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct. And the reason that we've stated that, and we don't believe that does anything besides strengthen our argument in this case, because the reason why there is no violation of the Sixth Amendment is simply because the Sixth Amendment doesn't exist. If this case would have been in a State or Federal court, the only court in the United States in which it would not run afoul of the Sixth Amendment is tribal court. Mr. Bryant is not only a tribal member. He of course is a United States citizen. But in taking a look at the Nichols case, which relied upon Scott, and Scott specifically stated that they drew a bright line with incarceration in dealing with the adjudication of guilt, Mr. Bryant was incarcerated for his underlying tribal-court convictions. The defendant in Nichols, the uncounseled DUI which he was convicted of, and the exact holding in Nichols I think is extremely important in this case where this Court stated that the Sixth and Fourteenth Amendment are not violated when in fact there is an adherence to Scott; in other words, there's no incarceration, and they are valid to enhance punishment in a subsequent proceeding. So if we take a look at the individual in Nichols, if he was incarcerated for the uncounseled misdemeanor conviction, that case would not adhere to Scott. So it comes to reason, Mr. Bryant himself being incarcerated, that violates Scott."
+                },
+                {
+                    "start": 1497.7,
+                    "stop": 1499.315,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. I -- I --"
+                },
+                {
+                    "start": 1499.315,
+                    "stop": 1529.87,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My thought is this is quite formalistic. It doesn't have anything to do with inherent reliability or unreliability. In fact, if it were an uncounseled felony conviction, it might well have been that the trial judge was much more careful than he would be in a misdemeanor case. It's almost the opposite. I -- I understand your -- the efficacy of the clear line, but it's more formalistic than functional, it does seem to me."
+                },
+                {
+                    "start": 1529.87,
+                    "stop": 1571.15,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, and I think it's the way that we take a look at it -- and I think it's important if we take a look at what Justice Scalia stated in the Crawford case. And that, of course, had to do with the Confrontation Clause issue, but it specifically dealt with the Sixth Amendment analysis based upon reliability. His statement was it's not whether or not it's reliable, but how reliability is assessed. The tribal court convictions in this case were not subject to the crucible of meaningful adversarial testing. And that goes right back to what Justice Ginsburg stated in Shelton in 2002, that element. And it is an element of the offense. It is being used to establish guilt."
+                },
+                {
+                    "start": 1571.15,
+                    "stop": 1577.88,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But as Justice Ginsburg pointed out, you could make the same argument if it had been just a fine and no Sixth Amendment violation."
+                },
+                {
+                    "start": 1577.88,
+                    "stop": 1580.5,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Exactly, but what we're asking this Court --"
+                },
+                {
+                    "start": 1580.5,
+                    "stop": 1587.24,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I don't understand why one is reliable and the other is not reliable, other than the formalistic argument which I can understand."
+                },
+                {
+                    "start": 1587.24,
+                    "stop": 1613.61,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And we are certainly not saying that an uncounseled misdemeanor conviction is reliable, and neither does Nichols. If we take a look at Justice Souder's concurrence in Nichols, realistically what's being stated here is that because if there is no deprivation of liberty, that the unreliability is essentially tolerated. But in this particular case, Mr. Bryant was incarcerated."
+                },
+                {
+                    "start": 1613.61,
+                    "stop": 1619.51,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But did anybody object at that time and say this sentence is unconstitutional?"
+                },
+                {
+                    "start": 1619.51,
+                    "stop": 1620.99,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. Mr. Bryant --"
+                },
+                {
+                    "start": 1620.99,
+                    "stop": 1621.755,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, so --"
+                },
+                {
+                    "start": 1621.755,
+                    "stop": 1622.94,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- did not have a right to counsel."
+                },
+                {
+                    "start": 1622.94,
+                    "stop": 1628.07,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Fine. But, I mean, is anybody here now claiming that the sentence was unconstitutional at the time?"
+                },
+                {
+                    "start": 1628.07,
+                    "stop": 1629.445,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I a.m., Your Honor."
+                },
+                {
+                    "start": 1629.445,
+                    "stop": 1632.37,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have? Where did you say that in your brief? Because they say you didn't."
+                },
+                {
+                    "start": 1632.37,
+                    "stop": 1635.55,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I, of course, I filed a motion to dismiss on --"
+                },
+                {
+                    "start": 1635.55,
+                    "stop": 1646.995,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. I'm saying in your brief in this Court, have you claimed that the sentence, the proceeding in the Indian court violated the Federal Constitution?"
+                },
+                {
+                    "start": 1646.995,
+                    "stop": 1647.835,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We have not."
+                },
+                {
+                    "start": 1647.835,
+                    "stop": 1690.81,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well, then, I take it that for purposes here, you concede that. I don't see how you can get around the fact you haven't complained. So if it's a valid conviction, why can't you use it? I mean, you could -- you could sentence people to more; that's what Nichols says. You could sentence them to three times the sentence without any conviction. You would just introduce some evidence that he hit his wife before badly. You could -- you could raise the sentence if it was a civil -- if it was a civil case. And -- and there was a judgment in favor of the wife, I take it. So why can't you raise the sentence on the ground that there is a valid conviction, period? End of the case. Which is, I think, what Nichols said."
+                },
+                {
+                    "start": 1690.81,
+                    "stop": 1699.11,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Nichols also dealt with an underlying conviction in which the Sixth Amendment did exist. And in this particular case, once we --"
+                },
+                {
+                    "start": 1699.11,
+                    "stop": 1715.785,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah. But you have told me that you have not -- I don't see how you could send a person to prison on the basis of the -- the lack -- where there's no counsel. If the Indian tribes can do that, then I don't see why the Federal government can't later use it if that's valid."
+                },
+                {
+                    "start": 1715.785,
+                    "stop": 1723.89,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think the reason why is because of the United States District Court, and certainly, in this Court, the Sixth Amendment does exist. And the only --"
+                },
+                {
+                    "start": 1723.89,
+                    "stop": 1735.92,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And then we should hold that -- I guess, that all of the convictions in all the tribes that are using, going to jail where people might go to prison for more than six months or at all, for a day, all those are invalid."
+                },
+                {
+                    "start": 1735.92,
+                    "stop": 1736.55,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If they're --"
+                },
+                {
+                    "start": 1736.55,
+                    "stop": 1744.025,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then the law of Congress is unconstitutional. Is that -- is that -- but no one's asked us to hold that, so I don't know that we should hold that in this case."
+                },
+                {
+                    "start": 1744.025,
+                    "stop": 1749.22,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we're certainly not challenging the constitutionality of the Indian Civil Rights Act, but we are certainly --"
+                },
+                {
+                    "start": 1749.22,
+                    "stop": 1759.215,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's the question, which is: Standing alone, was that earlier conviction violative of the Constitution?"
+                },
+                {
+                    "start": 1759.215,
+                    "stop": 1763.35,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It was not, because it was in tribal court. Any other court, it would be."
+                },
+                {
+                    "start": 1763.35,
+                    "stop": 1772.48,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. And so you're not challenging that the Bill of Rights do not apply -- because we've long held that -- don't apply to Indian courts, correct?"
+                },
+                {
+                    "start": 1772.48,
+                    "stop": 1773.22,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1773.22,
+                    "stop": 1775.55,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They don't apply to English courts --"
+                },
+                {
+                    "start": 1775.55,
+                    "stop": 1776.25,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1776.25,
+                    "stop": 1777.53,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- and other foreign courts."
+                },
+                {
+                    "start": 1777.53,
+                    "stop": 1778.095,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1778.095,
+                    "stop": 1797.33,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And there are plenty of foreign courts, like England for a time -- I think it's changing it now -- where they would convict people after a magisterial inquisition where the defendant didn't have counsel. You're not saying that process violates the Constitution?"
+                },
+                {
+                    "start": 1797.33,
+                    "stop": 1800.53,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I'm not saying that process violates the Constitution."
+                },
+                {
+                    "start": 1800.53,
+                    "stop": 1848.155,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're saying simply because we're using that conviction, we now violated. Why? Nichols, as I understand it, had two rationales: One that says using a prior constitutional conviction, one that doesn't violate the Constitution, is not enhancing a sentence, is not changing that earlier conviction. It's not enhancing a sentence for that earlier conviction, so you can use it, because it's just setting the platform for the current punishment, for the conduct now. How does your argument -- why does your argument change that rationale?"
+                },
+                {
+                    "start": 1848.155,
+                    "stop": 1857.73,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think a big reason why is our fundamental difference between guilt phase and sentencing phase. And certainly if we take a look at the offer --"
+                },
+                {
+                    "start": 1857.73,
+                    "stop": 1888.86,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we -- Nichols itself said enhancement statutes, whether in the nature of criminal history provisions, such as those contained in the Sentencing Guidelines, or recidivist statutes that are commonplace in State criminal law, those recidivist statutes make prior convictions an element, do not change the penalty imposed for an earlier conviction. That's what Nichols said. So the Nichols rationale covered both."
+                },
+                {
+                    "start": 1888.86,
+                    "stop": 1889.99,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I read --"
+                },
+                {
+                    "start": 1889.99,
+                    "stop": 1895.96,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Covered sentencing guidelines and covered recidivist statutes."
+                },
+                {
+                    "start": 1895.96,
+                    "stop": 1902.17,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the difference here is that it's being used to establish an essential element of the offense."
+                },
+                {
+                    "start": 1902.17,
+                    "stop": 1902.815,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know, but --"
+                },
+                {
+                    "start": 1902.815,
+                    "stop": 1903.62,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And it -- it's not technically --"
+                },
+                {
+                    "start": 1903.62,
+                    "stop": 1904.46,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Nichols said that's okay."
+                },
+                {
+                    "start": 1904.46,
+                    "stop": 1916.66,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's not technically, we argue, a typical recidivist statute. It's not -- example -- for, like, 21 U.S.C. 851, in a controlled substance, doubling the mandatory minimum."
+                },
+                {
+                    "start": 1916.66,
+                    "stop": 1921.93,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, it says it was relying on recidivist statutes that are commonplace in State criminal laws."
+                },
+                {
+                    "start": 1921.93,
+                    "stop": 1922.785,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1922.785,
+                    "stop": 1925.605,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. And those make them an element of the crime."
+                },
+                {
+                    "start": 1925.605,
+                    "stop": 1939.1,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They make them an element of the crime, but -- but Chief Justice Rehnquist also went on to talk about the less exacting standard that is attached to the sentencing proceeding than at the guilt phase. Also, what --"
+                },
+                {
+                    "start": 1939.1,
+                    "stop": 1941.05,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's the second prong of Nichols."
+                },
+                {
+                    "start": 1941.05,
+                    "stop": 1976.51,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is. And in talking about that, if you're taking a look at the less exacting standard, of course, what we have to do is rely upon the preponderance of the evidence in a sentencing scheme. If we take a look at the determination at the guilt phase, which Justice Ginsburg brought out in Shelton, the big difference is that has to be proven beyond a reasonable doubt. And if it was not subjected to the meaningful adversarial system that this Court holds as a fundamental right since Gideon, the entire --"
+                },
+                {
+                    "start": 1976.51,
+                    "stop": 1978.78,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't that a due process argument?"
+                },
+                {
+                    "start": 1978.78,
+                    "stop": 1997.775,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe that the due process and the Sixth Amendment argument are certainly intertwined in this case. And if there is a procedural due process error, we have been stating the entire time that's because Mr. Bryant is having an uncounseled conviction being used as an essential element in a subsequent Federal prosecution."
+                },
+                {
+                    "start": 1997.775,
+                    "stop": 1998.19,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I can see --"
+                },
+                {
+                    "start": 1998.19,
+                    "stop": 1998.54,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's --"
+                },
+                {
+                    "start": 1998.54,
+                    "stop": 2019.395,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- the distinction between -- that you made between beyond a reasonable doubt and preponderance of the evidence, but practically, I mean, what's involved here is proof of a conviction entered by a court. And so you -- you present the certified copy of the judgment, and that's it. That satisfies proof beyond a reasonable doubt."
+                },
+                {
+                    "start": 2019.395,
+                    "stop": 2158.9,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that this Court, in taking a look at convictions themselves, if you want to take a look at cases such as Tucker and as Loper, it wasn't enough. The actual process and how those convictions were obtained and whether or not the procedural safeguards of the Sixth Amendment right to counsel was adhered to was of the utmost importance. If we take a look at the case in Loper, that was being used for impeachment purposes. In impeachment purposes, the Court held that that fell into that -- a different stage under the determination of guilt. And even for impeachment purposes -- and I do understand that the difference is that has to deal with a felony conviction. This is a misdemeanor conviction. But even for impeachment purposes, it wasn't enough for the trial judge to be able to just take a look at the conviction and let that in. This Court held that that impermissibly went afoul with the Sixth Amendment right to counsel and went to the -- to the determination of guilt. Clearly, this is more than a sentencing enhancement situation. The offer of proof itself sets forth what needs to occur. And one of the elements has to be a conviction, at least two or more convictions, from tribal court. We certainly know Petitioner has conceded since day one that the Indian Civil Rights Act does not afford native Americans the right to counsel. So if we take a look at the waivers that we would now have for an uncounseled misdemeanor conviction, we would have actually waiving your right to counsel. Certainly Mr. Bryant didn't do that. He can't waive a right he didn't possess. Second, he's not indigent. Well, there's no reason to do a financial affidavit, because there's no right to counsel so we don't have to determine that eligibility. Third, whether or not he was incarcerated based upon an adjudication of guilt as set forth by Scott. And, now, fourth, we would have one final exception to an uncounseled misdemeanor conviction, and that would be if it came from tribal court. Because there is no other court in the United States, misdemeanor-wise or not, that an individual is not afforded a fundamental right to counsel."
+                },
+                {
+                    "start": 2158.9,
+                    "stop": 2200.475,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What are the -- the cases both Justice Kennedy and Justice Scalia suggested that in -- not in this statute, but there are criminal statutes that allow the use of a foreign conviction to count for recidivism purposes, for -- for a variety of purposes. And many of our partners in the world don't have the same -- same rights as -- that are in our Bill of Rights, and yet we -- we credit those convictions."
+                },
+                {
+                    "start": 2200.475,
+                    "stop": 2438.11,
+                    "speaker": {
+                        "name": "Steven C. Babcock",
+                        "ID": 62697,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We do credit those -- those convictions, but we do take a look at whether or not they adhered to the procedural safeguards that we deem as fundamental in this country. And a lot of countries, of course, do not deem the right to counsel as fundamental or essential. We certainly do. And if we take a look at the right to counsel case from 2006, in the dissent, Justice Alito stated that the complete lack of counsel is the epitome of unfairness. That would be triggered essentially as structural error. So if we take a look in this situation, the only reason why the conviction doesn't run afoul, reliability can't be based upon nonexistence. If you're an employee in a company, you never show up to work, they don't deem you reliable. And that's exactly what's happened in this situation. The only reason why it does not run afoul is because the Sixth Amendment doesn't exist. If we take a look at what counsel has talked about as a remedy to fix this situation, which should be Federal habeas, it is my opinion that Federal habeas has -- provides no assistance whatsoever to an individual like Mr. Bryant. First of all, you have to attach -- you have to challenge the legality of your detention. How can you challenge the legality of his detention based upon lack of counsel when he possesses no such right? Also, there has to be detention at the time, or there has to be a filing of the habeas at that crime. We know that the prior conviction, the last one, was from 2007. He certainly did not file a habeas petition back then, and they're extremely uncommon, and there has to be some tie to detention. That is completely moot in this case. He has no way to challenge this. And we know taking a look at the Supreme Court case in Custis. In Custis, which was decided just two weeks before Nichols, and that has to do with an armed career criminal analysis, and they say that the lack of counsel is a fundamental right. You have the ability to challenge a predicate for an ACCA enhancement based upon the lack of counsel. That's what we're doing here, but we have no other forum whatsoever to come before this Court and challenge the constitutionality of using those as a predicate offense establishing an essential element. I do also believe that in taking a look at the difference between sentencing and the guilt phase, it's taken on a different trend in this Court when we take a look at the Apprendi line of cases. And certainly we know that there is an exception based upon a prior conviction, based upon Almendarez-Torres, but that premise is based upon, once again, that the procedural safeguards that we hold important in this country are adhered to. In those particular cases, specifically in Blakely, the reliance that a judge had to do wasn't enough. They essentially turned those element -- turned those situations into elements. And in this case, we don't have to do anything such as that. This is an element. We don't have to say that this is increasing a mandatory minimum. We do not have to say that it's putting something on the guidelines more. Essentially, what we're doing is we're saying we have an uncounseled conviction that has never been subjected to a fundamental right. The crucible of adversarial testing in this country mandates we're just going to let that slide, because Congress itself passed a law upon native Americans that didn't adopt the full Sixth Amendment protections. If there's nothing further, thank you, Your Honor."
+                },
+                {
+                    "start": 2438.11,
+                    "stop": 2442.485,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Ms. Prelogar, eight minutes."
+                }
+            ],
+            "start": 2442.485,
+            "stop": 2636.11
+        }
+    ]
+}

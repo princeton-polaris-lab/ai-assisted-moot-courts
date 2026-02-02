@@ -1,0 +1,3047 @@
+{
+    "title": "Grimmett v. Brown",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 43.495,
+                    "stop": 53.656,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Our client, Joanne Siragusa, possessed a debt owed to her by her husband--"
+                },
+                {
+                    "start": 53.656,
+                    "stop": 57.108,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you also representing the trustee in bankruptcy?"
+                },
+                {
+                    "start": 57.108,
+                    "stop": 58.34,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, we are, Justice O'Connor."
+                },
+                {
+                    "start": 58.34,
+                    "stop": 61.373,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because the interests seem to diverge a little bit--"
+                },
+                {
+                    "start": 61.373,
+                    "stop": 62.661,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think the application--"
+                },
+                {
+                    "start": 62.661,
+                    "stop": 65.803,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and I was a little curious about how your argument was going to cover both."
+                },
+                {
+                    "start": 65.803,
+                    "stop": 113.204,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The application on the first issue of the Banker's Trust issue, by definition, since it rests on a conclusion of the bankruptcy, I think only applies to her definition of injury at this point, and not to the trustee's interest. The... her preexisting debt owed to her by her husband was not part of the racketeering scheme and not alleged to be so. When he went into bankruptcy owing her somewhere in the neighborhood of $1.4 million as a result of a property settlement, that debt was a preexisting legitimate debt unrelated to the racketeering activity as alleged in the racketeering complaint."
+                },
+                {
+                    "start": 113.204,
+                    "stop": 131.417,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, could you tell us just preliminarily please whether Vincent Siragusa has... at one point the bankruptcy order had discharged Vincent Siragusa's debts."
+                },
+                {
+                    "start": 131.417,
+                    "stop": 135.69,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. He received a statutory preliminary discharge."
+                },
+                {
+                    "start": 135.69,
+                    "stop": 142.426,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Has that ever been... has an order come from the bankruptcy court changing that?"
+                },
+                {
+                    "start": 142.426,
+                    "stop": 145.096,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. Joanne and--"
+                },
+                {
+                    "start": 145.096,
+                    "stop": 145.955,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I didn't see it."
+                },
+                {
+                    "start": 145.955,
+                    "stop": 166.741,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Joanne and the trustee objected within the 1 year of his statutory discharge, claiming that the discharge had been obtained by fraud. That was the adversary complaint. Ultimately in 1994 Vincent settled both with the estate and with Joanne individually and agreed that his discharge--"
+                },
+                {
+                    "start": 166.741,
+                    "stop": 170.485,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what order issued from the bankruptcy court reflecting any of that?"
+                },
+                {
+                    "start": 170.485,
+                    "stop": 185.584,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The... there is an order. I don't believe it's in the record, but there is an order from the bankruptcy court accepting the settlement which includes giving up his discharge, so as of 1994 his preliminary discharge was revoked."
+                },
+                {
+                    "start": 185.584,
+                    "stop": 189.505,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you say it is, but we won't find it anywhere in these papers?"
+                },
+                {
+                    "start": 189.505,
+                    "stop": 190.316,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't believe it's in this record, no."
+                },
+                {
+                    "start": 190.316,
+                    "stop": 197.181,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A preliminary discharge is one that... could you explain that just very briefly?"
+                },
+                {
+                    "start": 197.181,
+                    "stop": 229.703,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, sir. The preliminary discharge in a Chapter 7 bankruptcy is granted within a certain number of months as long as no one... none of the creditors of the trustee object. Subject to a 1-year period beyond the automatic granting of that preliminary discharge the other creditors and the trustee can object to the discharge on the ground that it was obtained by fraud. Joanne Siragusa and the trustee did file in May of 1989--"
+                },
+                {
+                    "start": 229.703,
+                    "stop": 231.625,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That the discharge was obtained by fraud?"
+                },
+                {
+                    "start": 231.625,
+                    "stop": 277.655,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. Joanne and the trustee filed in May of 1989 an adversary complaint alleging that, among other things, the discharge granted to Vincent preliminarily was obtained by fraud. The Ninth Circuit found that that was the date on which Joanne was injured. Our position is that her debt, her preexisting debt was the same the day before she filed that complaint as it was the day after. The focus of the racketeering scheme in this case is focused on a bankruptcy fraud. It's a classic attempt to get out from under a legal obligation to pay a debt."
+                },
+                {
+                    "start": 277.655,
+                    "stop": 290.634,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Sauber, what's left of... what injury has now been incurred? I mean, I don't... once the bankruptcy... the source of the injury was the bankruptcy."
+                },
+                {
+                    "start": 290.634,
+                    "stop": 293.025,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor."
+                },
+                {
+                    "start": 293.025,
+                    "stop": 299.252,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It was a discharge in bankruptcy, was it not? If that's been undone, what injury is there for anybody to complain about in this case?"
+                },
+                {
+                    "start": 299.252,
+                    "stop": 312.859,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The... there are two ways in which Joanne can be injured by this bankruptcy fraud. One is if the debtor obtains a discharge of its... of his obligation to pay her. That's now been removed."
+                },
+                {
+                    "start": 312.859,
+                    "stop": 313.35,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's out."
+                },
+                {
+                    "start": 313.35,
+                    "stop": 334.044,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Secondly, if she is forced to accept at the end of the bankruptcy less than 100 percent of the debt he owed her when he started this scheme, and that reduction is caused by the racketeering activity, that is her racketeering injury at that point."
+                },
+                {
+                    "start": 334.044,
+                    "stop": 334.816,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well-- --Has that occurred?"
+                },
+                {
+                    "start": 334.816,
+                    "stop": 349.056,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, our position is that until the bankruptcy is complete and over, whether or not she's been injured, whether or not her preexisting non-RICO debt has been affected by the racketeering activity cannot be determined."
+                },
+                {
+                    "start": 349.056,
+                    "stop": 351.968,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And she has a cause of action before that injury occurs?"
+                },
+                {
+                    "start": 351.968,
+                    "stop": 353.819,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "She filed a protective cause of action."
+                },
+                {
+                    "start": 353.819,
+                    "stop": 376.335,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the very authority that you rely on, Mr. Sauber, the Banker's Trust, says that such a claim is not ripe, and the bottom line of that case was dismissal, so I was frankly surprised that you were urging to preserve your case, that no injury has yet occurred. Well, if no injury has yet occurred, you have no lawsuit."
+                },
+                {
+                    "start": 376.335,
+                    "stop": 397.019,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it was... if I may, it was dismissed, Banker's Trust, without prejudice. She was concerned that she was in a jurisdiction that would not accept the Banker's Trust line of cases, and she filed a protective lawsuit on the assumption that... on the fear that one of the courts in her jurisdiction would find differently."
+                },
+                {
+                    "start": 397.019,
+                    "stop": 402.522,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I've no objection to dismissing this without prejudice, but I don't know how it cannot be dismissed if there has been no injury."
+                },
+                {
+                    "start": 402.522,
+                    "stop": 443.339,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, there has been no injury to Joanne if you accept our argument with respect to Banker's Trust. With respect to the trustee, who the Ninth Circuit pegged as being injured in May of 1989, his case is still related to the second question, whether or not you decide that the proper approval rule in this... for a civil RICO case is an injury-in-pattern discovery rule. If you decide that, then his... the trustee's injury in May of 1989 doesn't start the statute of limitations ticking. It won't tick until December of 1990."
+                },
+                {
+                    "start": 443.339,
+                    "stop": 447.293,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We can't tell whether the trustee's been injured either until the end of the bankruptcy, can we?"
+                },
+                {
+                    "start": 447.293,
+                    "stop": 453.337,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think that the Banker's Trust line of cases would only apply to Joanne."
+                },
+                {
+                    "start": 453.337,
+                    "stop": 457.081,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When you say Banker's Trust, you're referring to the Second Circuit case?"
+                },
+                {
+                    "start": 457.081,
+                    "stop": 475.893,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. That would only apply to Joanne because by definition it assumes that the bankruptcy is complete. The record in this case stands that the Ninth Circuit has concluded that the trustee was injured as of May of 1989, and since he would be unaffected by--"
+                },
+                {
+                    "start": 475.893,
+                    "stop": 477.813,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How was he injured in May of 19--"
+                },
+                {
+                    "start": 477.813,
+                    "stop": 498.338,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Ninth Circuit rests its decision on the assumption that in May of 1989 Joanne and the trustee recognized, because they filed their adversary complaint, that her husband has tried to concoct a bankruptcy scheme to get out from paying her the legal obligation."
+                },
+                {
+                    "start": 498.338,
+                    "stop": 525.667,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--How does that injury the trustee in bankruptcy? Were there two acts in this? I thought what you're claiming in that complaint is there is a person, and he owes some money to Joanne, and she has a secured interest in some property, and he figures out a way that he can get rid of that secured interest because what he's going to do is go through bankruptcy and the secured interest will disappear. That's the whole thing. Now, if that's the whole thing I don't even see that there are two acts. Where is there a RICO case at all?"
+                },
+                {
+                    "start": 525.667,
+                    "stop": 529.247,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the racketeering complaint which was filed in 19--"
+                },
+                {
+                    "start": 529.247,
+                    "stop": 531.719,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Much less the... the other part of that is how is the trustee hurt?"
+                },
+                {
+                    "start": 531.719,
+                    "stop": 549.38,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the racketeering complaint is different from the adversary complaint. The racketeering complaint was filed in 1993. The racketeering activity and the schemes identified are the scheme to defraud her of her legal debt, the scheme to defraud her husband's partners--"
+                },
+                {
+                    "start": 549.38,
+                    "stop": 572.327,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It all is the same thing, isn't it? It all is the same thing. What he did is, he went through bankruptcy and he wasn't entitled to. I mean, I take it if I have a fraudulent scheme to get $100,000 from the bank, that might hurt the bank, that might hurt some depositors, that might hurt some shareholders. How is it two actions, and how is the trustee... to go back to Justice Scalia's question, how is the trustee in bankruptcy hurt by this RICO proceeding?"
+                },
+                {
+                    "start": 572.327,
+                    "stop": 584.178,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that the Ninth Circuit concluded that in May of 1989 both Joanne and the trustee were injured by the recognition that Vincent had filed a fraudulent bankruptcy."
+                },
+                {
+                    "start": 584.178,
+                    "stop": 585.186,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It hurt their feelings?"
+                },
+                {
+                    "start": 585.186,
+                    "stop": 592.841,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. It hurt their interest in the estate by attempting fraudulently to transfer the assets to other people."
+                },
+                {
+                    "start": 592.841,
+                    "stop": 596.916,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But did it transfer the assets? Did it do anything? It seems to me it did nothing at all."
+                },
+                {
+                    "start": 596.916,
+                    "stop": 604.38,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. He fraudulently transferred his interest in his medical practice to other people. That was the whole basis of the bankruptcy--"
+                },
+                {
+                    "start": 604.38,
+                    "stop": 612.848,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The assets were transferred, and the trustee therefore collected less money in the bankruptcy estate. That happened, is that not correct?"
+                },
+                {
+                    "start": 612.848,
+                    "stop": 631.381,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the assets were transferred. He then... the trustee then did proceed against the recipients of that property in an attempt to get them back. A settlement in 1992 was entered into with the possessors of that fraudulently transferred property. At the--"
+                },
+                {
+                    "start": 631.381,
+                    "stop": 638.345,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the trustee in bankruptcy, a settlement between the trustee in bankruptcy and the individuals who got it?"
+                },
+                {
+                    "start": 638.345,
+                    "stop": 641.548,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, and with Joanne personally, and as a result--"
+                },
+                {
+                    "start": 641.548,
+                    "stop": 643.459,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but and... we're talking about the trustee."
+                },
+                {
+                    "start": 643.459,
+                    "stop": 643.729,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 643.729,
+                    "stop": 645.882,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the trustee get the assets back into the--"
+                },
+                {
+                    "start": 645.882,
+                    "stop": 646.133,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "He got a--"
+                },
+                {
+                    "start": 646.133,
+                    "stop": 647.174,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--bankruptcy estate?"
+                },
+                {
+                    "start": 647.174,
+                    "stop": 652.958,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm sorry. At that point, Justice O'Connor, the asset, which was the medical practice--"
+                },
+                {
+                    "start": 652.958,
+                    "stop": 653.418,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 653.418,
+                    "stop": 671.051,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--had diminished in value and they entered into a settlement of a certain amount of money which came into the estate, some of which went to Joanne personally, because she personally settled with the partners at that point also. The racketeering scheme, the pattern that's alleged--"
+                },
+                {
+                    "start": 671.051,
+                    "stop": 681.269,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you answer... sorry. Could you... I was... I... what was your answer to Justice O'Connor's question? I never got one. How much money did the trustee lose as a result of this scheme?"
+                },
+                {
+                    "start": 681.269,
+                    "stop": 689.764,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the estate of Vincent is... has not yet paid off its lawful debt to Joanne."
+                },
+                {
+                    "start": 689.764,
+                    "stop": 702.533,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How much does it owe? No, not to Joanne. How much money has the trustee lost as a result of the scheme that you say involved a fraudulent transfer of property?"
+                },
+                {
+                    "start": 702.533,
+                    "stop": 715.002,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If you take into account the settlement, it's our position that the estate at this point has lost several hundred thousand dollars and that Joanne, by definition, has also lost several hundred thousand dollars."
+                },
+                {
+                    "start": 715.002,
+                    "stop": 717.463,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "By the fraud, or by the reduction in value of the business?"
+                },
+                {
+                    "start": 717.463,
+                    "stop": 735.543,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think that it clearly is the reduction in value of the business, but I think the allegation would be that the business was reduced over the course of the bankruptcy because of the bankruptcy fraud, that the proceeding in bankruptcy--"
+                },
+                {
+                    "start": 735.543,
+                    "stop": 739.817,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why would he enter into a settlement, then, accepting less, if he's entitled to more?"
+                },
+                {
+                    "start": 739.817,
+                    "stop": 760.05,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--He's pursuing more. The business was only worth a certain amount of money when he settled with the partners, and he is still pursuing more in this lawsuit. That's the whole point of his attempting to bring assets back into the estate so that he can pay out the creditors."
+                },
+                {
+                    "start": 760.05,
+                    "stop": 767.395,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When you say the bankruptcy fraud, you mean something different, Mr. Sauber, I take it, than the fraudulent conveyance?"
+                },
+                {
+                    "start": 767.395,
+                    "stop": 768.545,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 768.545,
+                    "stop": 773.109,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Surely you can answer it yes or no. Either you do mean something different or you don't."
+                },
+                {
+                    "start": 773.109,
+                    "stop": 796.824,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I mean something in addition to that, his submission of false statements throughout the bankruptcy as to his assets, and as to his intentions, but basically, Mr. Chief Justice, yes, his attempt to transfer his property, claim that he no longer has the assets to pay off his debt to his wife, and to go through and obtain a discharge. That was the heart of the bankruptcy fraud."
+                },
+                {
+                    "start": 796.824,
+                    "stop": 812.085,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I still don't understand, is there a separate claim somewhere that the... he conveyed property, perhaps the medical practice, to third parties in fraud of creditors?"
+                },
+                {
+                    "start": 812.085,
+                    "stop": 813.515,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. That is--"
+                },
+                {
+                    "start": 813.515,
+                    "stop": 815.876,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That has nothing to do with the bankruptcy, I take it."
+                },
+                {
+                    "start": 815.876,
+                    "stop": 854.081,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the point of the fraudulent conveyance does have something to do with the bankruptcy. He wanted to go into bankruptcy, claim that he no longer had any of the assets to pay off his debts because he had now transferred them, obtain a discharge of his legal debt to his wife, and then emerge from bankruptcy and regain possession of the assets that he possessed in the first place. That's the classic bankruptcy fraud. That was the scheme here. Now, it turned out that Joanne and the trustee discovered in December of 1990 that this scheme also had other potential victims."
+                },
+                {
+                    "start": 854.081,
+                    "stop": 861.377,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you tell me, what is the first predicate act under RICO and what is the second, and what was the date of each?"
+                },
+                {
+                    "start": 861.377,
+                    "stop": 876.717,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The earliest predicate acts alleged in the complaint are the filing of the bankruptcy. There is a bankruptcy fraud as a predicate act, and there are mail and wire frauds. The scheme alleged--"
+                },
+                {
+                    "start": 876.717,
+                    "stop": 886.104,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What are the later predicate acts? Does that suffice for a RICO violation, or do we need a second predicate act?"
+                },
+                {
+                    "start": 886.104,
+                    "stop": 901.354,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. I think that suffices in that there are more than two, but the second predicate act that brings in the pattern is the defrauding of Vincent's partners."
+                },
+                {
+                    "start": 901.354,
+                    "stop": 904.346,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And when did that occur? You say there cannot be a pattern without a second victim?"
+                },
+                {
+                    "start": 904.346,
+                    "stop": 909.539,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, I'm not saying that, Your Honor. I think that question was answered by this Court. In this--"
+                },
+                {
+                    "start": 909.539,
+                    "stop": 915.353,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well then, why couldn't there be a pattern inferred from the multiple predicate acts before the second victim even entered the picture?"
+                },
+                {
+                    "start": 915.353,
+                    "stop": 921.908,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There may have... there may be such a pattern, but in this case she alleged--"
+                },
+                {
+                    "start": 921.908,
+                    "stop": 940.73,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if there is such a pattern, and I thought your answer a moment ago was that there was, then I would suppose that so far as the pattern requirement for your cause of action it was satisfied before anything was done to damage the medical partner."
+                },
+                {
+                    "start": 940.73,
+                    "stop": 957.1,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, I would disagree. The pattern that she alleges in the RICO complaint, the second part of the RICO complaint, is that the scheme which she was a victim of also served to defraud others."
+                },
+                {
+                    "start": 957.1,
+                    "stop": 971.56,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes... yes, but if there are two predicate acts insofar as she is concerned, the filing of the bankruptcy petition and, second, the transfer of the assets of the medical practice, that's enough to establish a pattern as well."
+                },
+                {
+                    "start": 971.56,
+                    "stop": 973.572,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It may or it may not be."
+                },
+                {
+                    "start": 973.572,
+                    "stop": 993.778,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's suppose it is, that we think it is enough, and this other story about another doctor, well, fine, but it was complete as of the time the bankruptcy petition was filed and the transfer then was made, plus mailings and calls and so forth."
+                },
+                {
+                    "start": 993.778,
+                    "stop": 1007.726,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But Justice O'Connor, you are redefining her pattern and her RICO case. The Ninth Circuit accepted as given her RICO complaint, and it decided that if it's an injury--"
+                },
+                {
+                    "start": 1007.726,
+                    "stop": 1026.249,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm just looking at what the record discloses here, and what's being alleged, and enough is being alleged apparently to establish both a claimed injury by her and a series of acts that would qualify as a pattern."
+                },
+                {
+                    "start": 1026.249,
+                    "stop": 1056.386,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that that really starts to sound a little bit to us like overpleading in that basically she was in a dispute with her husband. He tried through bankruptcy to get out from having to pay her. Now, are there more than one predicate acts which you could then allege were a pattern, and that there's continuity, and relationship? I don't know. But in this case we chose not to allege that as a racketeering case. We chose--"
+                },
+                {
+                    "start": 1056.386,
+                    "stop": 1061.641,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You included all these facts in the complaint, and if it's laid out, there it is."
+                },
+                {
+                    "start": 1061.641,
+                    "stop": 1063.753,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely. We included them--"
+                },
+                {
+                    "start": 1063.753,
+                    "stop": 1069.967,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In fact, it's a complaint that went on for 130-some pages. You've got plenty in there, all over the place."
+                },
+                {
+                    "start": 1069.967,
+                    "stop": 1082.154,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is quite a lengthy and quite a detailed complaint, but the pattern that she does allege and chooses to proceed with is the pattern that includes the other--"
+                },
+                {
+                    "start": 1082.154,
+                    "stop": 1084.265,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That she now chooses to proceed with."
+                },
+                {
+                    "start": 1084.265,
+                    "stop": 1084.616,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No--"
+                },
+                {
+                    "start": 1084.616,
+                    "stop": 1089.297,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "She filed this complaint in... what year was it?"
+                },
+                {
+                    "start": 1089.297,
+                    "stop": 1089.928,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--19--"
+                },
+                {
+                    "start": 1089.928,
+                    "stop": 1090.739,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "November '93."
+                },
+                {
+                    "start": 1090.739,
+                    "stop": 1091.13,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1091.13,
+                    "stop": 1118.898,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And claimed injury and claimed a RICO cause of action, and we have to decide among other things, I guess, when a statute of limitations begins to run, and is there anything we can agree on at all in this messy case? Do you agree that at least the elements of the RICO claim have to exist before the statute can run?"
+                },
+                {
+                    "start": 1118.898,
+                    "stop": 1119.399,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely."
+                },
+                {
+                    "start": 1119.399,
+                    "stop": 1126.593,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That means an injury and a pattern."
+                },
+                {
+                    "start": 1126.593,
+                    "stop": 1166.818,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "A pattern, yes. That I think we can agree on. The Ninth Circuit in its decision, which on the second issue I think is why we're, said, if it decided to accept an injury and pattern discovery rule, then the complaint was timely. By deciding only on an injury discovery rule, then the complaint was not timely, and the only thing that you can take from that is that the Ninth Circuit found that the pattern alleged in the complaint was not evident to her until December of 1990."
+                },
+                {
+                    "start": 1166.818,
+                    "stop": 1170.042,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that... was that not until after the injury had occurred?"
+                },
+                {
+                    "start": 1170.042,
+                    "stop": 1171.982,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "After her injury occurred."
+                },
+                {
+                    "start": 1171.982,
+                    "stop": 1190.715,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's just take it at that point. I had a problem with your brief, because you were saying, we have a terrible problem here. We had the first predicate act, and then the injury, and then the second predicate act. Well, I kept asking myself, where is there a RICO injury at all if there's no second predicate act at the time the injury occurs?"
+                },
+                {
+                    "start": 1190.715,
+                    "stop": 1215.282,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There are... Justice Kennedy, there are a number of predicate acts alleged in the complaint. The first injury from several predicate acts is only to her. In December of 1990, when she discovers that the same scheme was designed to defraud others, it occurs to her at that point that there is a pattern. That is her--"
+                },
+                {
+                    "start": 1215.282,
+                    "stop": 1231.812,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but in fact there may well have been a pattern already. There was the filing of the bankruptcy petition with the fraudulent intent, as she alleges, and there was the transfer of the assets. That's the second thing. So we already see a pattern."
+                },
+                {
+                    "start": 1231.812,
+                    "stop": 1233.404,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I don't--"
+                },
+                {
+                    "start": 1233.404,
+                    "stop": 1254.125,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And whether she understands the cause of action correctly is something this Court has said doesn't matter. You don't have to understand the medical malpractice law to have the statute start to run. If she knows the acts, and if those acts add up to a cause of action, then okay, you can start the statute running."
+                },
+                {
+                    "start": 1254.125,
+                    "stop": 1255.197,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm--"
+                },
+                {
+                    "start": 1255.197,
+                    "stop": 1258.809,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "She doesn't have to understand."
+                },
+                {
+                    "start": 1258.809,
+                    "stop": 1259.44,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm sorry."
+                },
+                {
+                    "start": 1259.44,
+                    "stop": 1263.953,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "She doesn't have to understand what all would be considered as part of the pattern."
+                },
+                {
+                    "start": 1263.953,
+                    "stop": 1280.636,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, but I do think that it was... it's only fair to suggest that she would have a difficult time proving continuity and relationship and threat of continued activity if it was just a dispute between her and her husband."
+                },
+                {
+                    "start": 1280.636,
+                    "stop": 1298.157,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then it seems to me that you should go back and say what I thought you did not say before, and that is, Justice O'Connor, your suggestion is not well-taken. There was no pattern, and there was no pattern until the second victim came into the picture, but that's not what you said."
+                },
+                {
+                    "start": 1298.157,
+                    "stop": 1298.567,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1298.567,
+                    "stop": 1309.994,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I think you've got to choose what your pattern view is, because if you accept Justice O'Connor's suggestion and my suggestion, I guess, then it seems to me you're out, even on the more favorable rule."
+                },
+                {
+                    "start": 1309.994,
+                    "stop": 1331.619,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I don't want to say that under no circumstances could a single scheme with multiple predicate acts constitute a pattern. That's what you decided in H.J.-- What we are saying is that in this case the individual predicate acts only resulting in injury to her did not constitute a pattern, and if I--"
+                },
+                {
+                    "start": 1331.619,
+                    "stop": 1332.097,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 1332.097,
+                    "stop": 1334.949,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because there was only one victim."
+                },
+                {
+                    "start": 1334.949,
+                    "stop": 1337.483,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's not dispositive, we agree."
+                },
+                {
+                    "start": 1337.483,
+                    "stop": 1350.11,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I understand. That is not dispositive, but there was one victim for a short period of time, and basically what it was was a dispute growing out of a divorce case in which the husband tried to get out of his obligations."
+                },
+                {
+                    "start": 1350.11,
+                    "stop": 1356.975,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what this seems to boil down to is what Justice O'Connor was suggesting a moment ago. She simply didn't recognize it fast enough."
+                },
+                {
+                    "start": 1356.975,
+                    "stop": 1359.957,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I--"
+                },
+                {
+                    "start": 1359.957,
+                    "stop": 1373.067,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're saying that it happened in a short time. It just grew out of this domestic dispute. If the pattern is there, it seems to me the law is... has got to require the plaintiff to be nimble enough to see it."
+                },
+                {
+                    "start": 1373.067,
+                    "stop": 1402.566,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But I think in fairness the way that this Court has defined pattern and required the plaintiff to find some sort of continuity and a relationship, and the threat of continued criminal activity, in the short period of time when she recognizes that her husband has tried to defraud her out of her debt, it would be our position that that is not sufficient for her to conclude, even if she's omniscient, that there is in fact a pattern."
+                },
+                {
+                    "start": 1402.566,
+                    "stop": 1425.074,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if you have... I think I agree with you, but if I have a very complicated scheme to sell you the Brooklyn Bridge... you'd be too wise. You wouldn't buy it, but there are five or six others who might buy it. Now, suppose instead of one person buying it it turns out five are putting up the money. Is there suddenly a RICO violation? I mean, is there a RICO violation because the same activity hurt five people rather than just one?"
+                },
+                {
+                    "start": 1425.074,
+                    "stop": 1426.876,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think--"
+                },
+                {
+                    "start": 1426.876,
+                    "stop": 1431.447,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why does that create a pattern? I don't understand pattern here, in other words, which is what's causing me the problem."
+                },
+                {
+                    "start": 1431.447,
+                    "stop": 1431.797,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1431.797,
+                    "stop": 1447.088,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't understand why seven complicated acts which lead to the sale of the Brooklyn Bridge comprise two predicates, and I don't understand, if they don't, why the fact that three people buy the Brooklyn Bridge rather than one makes a difference for RICO purposes."
+                },
+                {
+                    "start": 1447.088,
+                    "stop": 1474.096,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think that it's the issue that this Court dealt with in H.J., that the... a single scheme, even if there are a number of predicate acts within a short period of time, where really in essence it's a dispute between a husband and wife, doesn't constitute the kind of continued criminal activity that this Court contemplated when it defined a pattern."
+                },
+                {
+                    "start": 1474.096,
+                    "stop": 1482.871,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying, I think, in answer to Justice Breyer it's when they sell the bridge twice, not when they sell it once to five people. That's when it becomes clear. Is that it?"
+                },
+                {
+                    "start": 1482.871,
+                    "stop": 1493.488,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think in a common sense approach most plaintiffs and practitioners would start to think of a pattern when you have different and multiple victims of the same--"
+                },
+                {
+                    "start": 1493.488,
+                    "stop": 1494.78,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did they sell the bridge here twice?"
+                },
+                {
+                    "start": 1494.78,
+                    "stop": 1496.149,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1496.149,
+                    "stop": 1514.012,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the 170 pages, despite its detail, a complaint longer than any antitrust complaint I've seen, including the most complex, I still couldn't find in this detail what the facts were. That is, what are the facts that lead to the sale of the Brooklyn Bridge twice?"
+                },
+                {
+                    "start": 1514.012,
+                    "stop": 1544.662,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The facts, I think, simply stated are that the attempted fraudulent transfer and the reorganization of the medical practice was designed to defraud Joanne, the wife, and one of the partners, and some of the junior shareholders, so the answer is yes, there were three intended victims of the same pattern of using the medical practice as an enterprise."
+                },
+                {
+                    "start": 1544.662,
+                    "stop": 1553.287,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you say pattern, but as I understand it it is simply a conveyance, was it not, of property for less than fair value?"
+                },
+                {
+                    "start": 1553.287,
+                    "stop": 1555.788,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It was a... yes, Mr. Chief Justice."
+                },
+                {
+                    "start": 1555.788,
+                    "stop": 1558.9,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, that's one act. I mean, what more happened?"
+                },
+                {
+                    "start": 1558.9,
+                    "stop": 1559.521,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1559.521,
+                    "stop": 1561.043,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There was a lot more, wasn't there?"
+                },
+                {
+                    "start": 1561.043,
+                    "stop": 1561.972,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There was--"
+                },
+                {
+                    "start": 1561.972,
+                    "stop": 1580.506,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Vincent was paid a continuing salary that was as much or more than he had earned before. There was a continued operation of this new enterprise and it put more money in his pocket than he had had before. This went on and on. Now, that, under our case law at least, can establish a pattern."
+                },
+                {
+                    "start": 1580.506,
+                    "stop": 1616.78,
+                    "speaker": {
+                        "name": "Richard Sauber",
+                        "ID": 40493,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It can establish a pattern if it goes... if it goes on and on and if there's a threat... well, I think, Justice O'Connor, what happened is, at a point only a year after... in May of '89 she finds out about the fraudulent transfer. A year later, in December of 1990, she finds out that there are other victims of the fraud. In some circuits that would not be enough time to allege a pattern. In some circuits the requirement is that the activity needs to go on for 2 years. I would like to reserve my... the rest of my time."
+                },
+                {
+                    "start": 1616.78,
+                    "stop": 1619.452,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Sauber. Mr. Lacovara."
+                }
+            ],
+            "start": 43.495,
+            "stop": 1728.502
+        },
+        {
+            "turns": [
+                {
+                    "start": 1619.452,
+                    "stop": 1728.502,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: In order to understand why the district court and the court of appeals properly dismissed this claim on the basis of the statute of limitations, it may be important both to mention the four possible statute of limitations rules that the briefs frame, under three of which I think the colloquy with my learned friend would show this judgment must be affirmed, but it's also important to go back and find out what this case is actually about as it was pled before the district court and the court of appeals. In this Court, it seems to be transformed into a lost debt bankruptcy case. That is emphatically not the reason alleged in the district court or, indeed, in the bankruptcy court in 1989 that led to the claim that the petitioner, Ms. Siragusa, had actually incurred substantial and measurable injury as of 1987. Let me refer if I may to the joint appendix. Let's start first with the bankruptcy... with the adversary complaint, because that is the date... that's May 1989... by which time both the district court and the court of appeals found she had adequate notice of any RICO claim. May 1989, more than 4 years before she filed the bankruptcy... the RICO case. Although there's been some discussion here denying the existence of a pattern, or suggesting there may have been only one or two predicate acts, in May of 1989 Ms. Siragusa filed the adversary complaint that among other things lists--"
+                },
+                {
+                    "start": 1728.502,
+                    "stop": 1729.952,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is an adversary complaint in the--"
+                },
+                {
+                    "start": 1729.952,
+                    "stop": 1731.785,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In the bankruptcy court, yes, Mr. Chief Justice."
+                },
+                {
+                    "start": 1731.785,
+                    "stop": 1735.217,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And what, strictly speaking, is an adversary complaint in the bankruptcy--"
+                },
+                {
+                    "start": 1735.217,
+                    "stop": 1750.446,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's in effect a civil claim that is in some way related to the jurisdiction of the bankruptcy court. It's a claim that may be made either by the trustee against a third party, or it may be made by an outsider against the debtor and some third parties."
+                },
+                {
+                    "start": 1750.446,
+                    "stop": 1756.119,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And seeking some sort of remedy against the assets of the bankrupt?"
+                },
+                {
+                    "start": 1756.119,
+                    "stop": 1818.41,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it can also be, as it was in this case, Mr. Chief Justice, a request for a personal remedy against individuals and, indeed, the individuals in the bankruptcy case included the very respondents before the court today, the lawyer defendants. In May of 1989 Ms. Siragusa claimed that there had been what she called a fraudulent course of conduct, and if you look on page... beginning on page 191 of the joint appendix, beginning on paragraph 21, she then uses this as a defined term. The debtor, beginning in 1983, never intended to make marital payments but undertook a fraudulent and deceptive course of conduct... that paragraph continues on... in which the other defendants ultimately joined. She then goes on, just to refer to Justice Kennedy and Justice Breyer's question--"
+                },
+                {
+                    "start": 1818.41,
+                    "stop": 1822.183,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what you're reading from is the adversary complaint in bankruptcy."
+                },
+                {
+                    "start": 1822.183,
+                    "stop": 1823.625,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Filed in May 1989."
+                },
+                {
+                    "start": 1823.625,
+                    "stop": 1825.356,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not the complaint in the present action."
+                },
+                {
+                    "start": 1825.356,
+                    "stop": 1862.859,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. I'll get to that in a moment, Mr. Chief Justice. She then goes on, beginning in paragraph 33, to allege, beginning in at least 19... July 1987, approximately 2 years before this complaint was filed, a series of fraudulent misstatements by mail and wire made by Vincent and made, she alleges, by the counsel for the Heart Institute entities. That's Patricia Brown, the respondent, and ultimately the firm with which she was affiliated, the Beckley Singleton firm."
+                },
+                {
+                    "start": 1862.859,
+                    "stop": 1864.771,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What paragraph? I thought you said 33."
+                },
+                {
+                    "start": 1864.771,
+                    "stop": 1869.413,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Paragraph 33, and then if you continue on to subparagraph B--"
+                },
+                {
+                    "start": 1869.413,
+                    "stop": 1870.024,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I see."
+                },
+                {
+                    "start": 1870.024,
+                    "stop": 1902.625,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--C, D. You'll see references to the Heart Institute's counsel saying this, that and the next thing. Then go over to page 198 in the joint appendix. She then says the debtor filed certain schedules in January 1988 taking an unbelievable position. She attributes that to the Heart Institute counsel. That's respondent Patricia Brown. She says in paragraph I on 99 that the schedules prepared by the respondent purportedly described certain transactions--"
+                },
+                {
+                    "start": 1902.625,
+                    "stop": 1903.975,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what is your point in reading--"
+                },
+                {
+                    "start": 1903.975,
+                    "stop": 1927.372,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The point is that the... there are several points, Justice O'Connor. The key point is there was a pattern that existed as of this point, because she has alleged by this time several years of allegedly fraudulent activity, wire fraud, mail fraud, and fraudulent bankruptcy petition. The bankruptcy petition had been filed in 1987."
+                },
+                {
+                    "start": 1927.372,
+                    "stop": 1928.321,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Was there an injury?"
+                },
+                {
+                    "start": 1928.321,
+                    "stop": 1979.388,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and that's the next point to get to. She alleges in that complaint that she was specifically injured and incurred financial damage as a result of the scheme. Now, the scheme that she alleges there... and this is important as well... is exactly the same scheme as both the district court and the court of appeals here understood that she alleged in the RICO case. It was not the fraudulent discharge of the debt. She alleged in the bankruptcy complaint in 1989 exactly what she alleged in the RICO complaint in November 1993, that the object of the scheme and the nature of the injury was the fraudulent transfer out from under her security interest of her husband's interest in the medical practice."
+                },
+                {
+                    "start": 1979.388,
+                    "stop": 2000.769,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Lacovara, may I ask you to clarify this? As I understood the Ninth Circuit's opinion, Judge Hall's opinion, she said there's a statute of limitations question here, and my circuit's position for 10 years has been injury, whether or not you know it's a pattern."
+                },
+                {
+                    "start": 2000.769,
+                    "stop": 2001.49,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2001.49,
+                    "stop": 2022.254,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Other circuits have the injury plus pattern. If the Ninth Circuit had that rule, this complaint would be timely, but, she said, our rule is injury, period. Am I wrong in understanding that that's what Judge Hall said?"
+                },
+                {
+                    "start": 2022.254,
+                    "stop": 2047.061,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think Judge Hall left open the question whether or not the petitioner would prevail under the injury-plus-pattern recognition point. Our argument today, however, is as the colloquy with several of the justices has indicated, even under that rule... that's the third of the fourth that the briefs frame... this case had to be dismissed, because petitioner--"
+                },
+                {
+                    "start": 2047.061,
+                    "stop": 2049.134,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's not something that the Ninth Circuit dealt with."
+                },
+                {
+                    "start": 2049.134,
+                    "stop": 2050.013,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2050.013,
+                    "stop": 2059.35,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Ninth Circuit said, our rule, in contrast to the rule in other circuits, is simply injury, and it doesn't matter that you didn't know at that point there was any pattern."
+                },
+                {
+                    "start": 2059.35,
+                    "stop": 2062.092,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, but I do want to say--"
+                },
+                {
+                    "start": 2062.092,
+                    "stop": 2068.916,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And on what you're telling us now, it seems like this isn't the right case for us to decide that question."
+                },
+                {
+                    "start": 2068.916,
+                    "stop": 2110.564,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I can only speak as the respondent. We opposed certiorari, Justice Ginsburg, and I can say that the Court appears to have taken certiorari to decide, in the existence of a real conflict, what the correct accrual rule is in civil RICO claims. There are three rules that we think clearly bar this complaint. The fourth one, only the fourth one... that's the Third Circuit's last predicate act rule... is the only one that would save it. The one that we think, as even the petitioner in her brief seems to recognize, would clearly command affirmance here, and we think is the correct rule, is the pure Clayton Act accrual rule."
+                },
+                {
+                    "start": 2110.564,
+                    "stop": 2121.83,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I thought that the debate between the parties was not about the Third Circuit rule but between the injury or injury-plus-pattern rules."
+                },
+                {
+                    "start": 2121.83,
+                    "stop": 2148.469,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, in... up through the Ninth Circuit, since Ninth Circuit law was quite clear, it was sufficient to argue that petitioner's RICO complaint was barred by the Ninth Circuit's injury discovery principle, but now in this Court I take it that the issue before you is, what is the right rule to lay down for all civil RICO claims whether or not it's the one that was adopted--"
+                },
+                {
+                    "start": 2148.469,
+                    "stop": 2164.008,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, and there's another aspect to the rule. Do we look at whether the plaintiff knew or should have known of the injury and/or the pattern, or do we just look at whether there was actual knowledge?"
+                },
+                {
+                    "start": 2164.008,
+                    "stop": 2189.134,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think the way the injury rule has been defined, it's either an actual or imputed or constructive injury. The first rule... and I don't want this to get lost in the discussion. The first rule and the one that we think is correct is the Clayton Act accrual rule which petitioner acknowledges has no injury... has no knowledge or discovery element."
+                },
+                {
+                    "start": 2189.134,
+                    "stop": 2190.476,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No should-have-known component."
+                },
+                {
+                    "start": 2190.476,
+                    "stop": 2192.536,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Exactly, or even actual knowledge."
+                },
+                {
+                    "start": 2192.536,
+                    "stop": 2205.526,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And yet, in circumstances where fraud is an element, the courts have fairly often applied the should-have-known thing, and RICO often involves claims that turn on fraud."
+                },
+                {
+                    "start": 2205.526,
+                    "stop": 2269.077,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Justice O'Connor, but that was an argument that was specifically rejected, or the implication of that argument was specifically rejected in Agency Holding v. Malley-Duff, in which the Court said the proper statute of limitations for civil RICO cases is not the fraud statute, even if it happens to be a fraud predicate that's invoked in a particular case. Congress, when it fashioned the civil RICO section, specifically borrowed the pattern from the... section 4 of the Clayton Act, and the Court held therefore we will borrow the section 4 of the Clayton Act statute of limitations, and the reason I say that that should make this an easy case to dispose of is that it's been settled since 1919, including by this Court in Zenith v. Hazeltine, as the petitioner acknowledges in her brief, that the... there is no discovery principle at all under Clayton Act section 4 civil damage cases."
+                },
+                {
+                    "start": 2269.077,
+                    "stop": 2270.96,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about a fraudulent concealment? Is there fraudulent--"
+                },
+                {
+                    "start": 2270.96,
+                    "stop": 2271.741,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's a tolling doctrine."
+                },
+                {
+                    "start": 2271.741,
+                    "stop": 2272.141,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2272.141,
+                    "stop": 2287.362,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And we concede that under any principle of accrual there will be a tolling if there's been active concealment designed to mislead the potential claimant into believing that she has no claim."
+                },
+                {
+                    "start": 2287.362,
+                    "stop": 2326.646,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Lacovara, what troubles me about just applying the Clayton Act rule is that the Clayton Act does not have a provision like RICO which refers to predicate acts, the last of which occurred within 10 years after the commission of a prior act of racketeering activity. I... there's some problem, it seems to me, of reconciling a sudden death knowledge of the... or injury rule with the obvious expectation in this statute that there would be a long lapse of time of 10 years between predicate acts that are the basis of the suit."
+                },
+                {
+                    "start": 2326.646,
+                    "stop": 2382.702,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think that that's necessarily a necessary assumption in the statute. What Congress has done is to say, it may be possible to look to predicate acts taking place as far apart as over a 10-year period to determine whether or not there has been a pattern of racketeering. But in the H.J. case, in which the Court unanimously agreed that all the pattern requirement requires is some relationship between or among the predicate acts and the threat of continuing criminal activity, it is unlikely that a predicate act in year one and a predicate act in year 10 would show a sufficient continuity to give rise to a pattern. But the point is, Justice Scalia, that only relates to whether or not a civil RICO claim arises. I don't think it really has any bearing on when the claim should be viewed as accruing for purposes of a statute of limitations."
+                },
+                {
+                    "start": 2382.702,
+                    "stop": 2407.8,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But on that point you do tell us that in this... this is an academic case, because whether you apply your rule, which is injury, or injury plus pattern, this complaint is untimely, and if we take that view, then we can say, well, we haven't got a real case to deal with any more, since either rule would lead to the same judgment."
+                },
+                {
+                    "start": 2407.8,
+                    "stop": 2441.124,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's conceivable. I would not suggest that on this ground a disposition that applies what we consider the correct rule, which is the Clayton Act no discovery principle, or even the Ninth Circuit's discovery of injury principle, would be academic or moot, even though the plaintiff... the petitioner would also lose under the pattern discovery principle because she knew as of May 1989 that there had been, according to her allegations, yearsworth of mail frauds, wire frauds leading up to the fraudulent--"
+                },
+                {
+                    "start": 2441.124,
+                    "stop": 2449.56,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Under your proposed rule, does there have to have been the pattern in existence when the injury occurred in order for the injury to start the statute running?"
+                },
+                {
+                    "start": 2449.56,
+                    "stop": 2457.083,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's a debatable question. I think Justice Breyer raised that question, whether the injury must take place after the pattern."
+                },
+                {
+                    "start": 2457.083,
+                    "stop": 2476.818,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, otherwise it's a very strange statute you have, because it allows you 10 years between the... you know, the two predicate acts. You could have the first predicate act, the injury occurs immediately, 4 years go by, the statute has run, and then the second predicate act occurs, which is still within 10 years but--"
+                },
+                {
+                    "start": 2476.818,
+                    "stop": 2478.107,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would think--"
+                },
+                {
+                    "start": 2478.107,
+                    "stop": 2481.28,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And there would be no cause of action if it's... under RICO at the time of the first injury."
+                },
+                {
+                    "start": 2481.28,
+                    "stop": 2511.96,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That issue isn't squarely framed here, because she... the injury that she alleges, and I would like to cite to the passages where she describes her injuries as of 1989, indeed, 1987, but I think the correct interpretation of the statute, Justice Scalia, would be that for any RICO claim to accrue there must have been a pattern of racketeering and then injury from a predicate act that occurred, otherwise it would be hard to reconcile the language of--"
+                },
+                {
+                    "start": 2511.96,
+                    "stop": 2520.607,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the rule would be 4 years from the time of discovery or from the commission of the second predicate act, whichever occurs the later."
+                },
+                {
+                    "start": 2520.607,
+                    "stop": 2522.617,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I would not agree with the--"
+                },
+                {
+                    "start": 2522.617,
+                    "stop": 2523.168,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 2523.168,
+                    "stop": 2523.779,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--discovery point."
+                },
+                {
+                    "start": 2523.779,
+                    "stop": 2524.831,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I didn't say--"
+                },
+                {
+                    "start": 2524.831,
+                    "stop": 2525.592,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Under one of the rules."
+                },
+                {
+                    "start": 2525.592,
+                    "stop": 2528.701,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I didn't say discovery. I said the rule would be, I take it--"
+                },
+                {
+                    "start": 2528.701,
+                    "stop": 2529.051,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sorry."
+                },
+                {
+                    "start": 2529.051,
+                    "stop": 2539.43,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--it would be 4 years from the injury, right, or the commission of the second predicate act, whichever occurs the later."
+                },
+                {
+                    "start": 2539.43,
+                    "stop": 2547.904,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. I think under the discussion I was having with Justice Scalia there would not be a RICO injury unless there had been a RICO pattern."
+                },
+                {
+                    "start": 2547.904,
+                    "stop": 2568.699,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see the need for that. That is to say, why couldn't a person who burns down somebody's house as part of a plan to burn down three people's houses, which occur 5 years later, why couldn't the person whose house is burned down to begin with recover? I mean, it would seem odd that Congress wouldn't want them to recover."
+                },
+                {
+                    "start": 2568.699,
+                    "stop": 2569.21,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2569.21,
+                    "stop": 2577.013,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And a rule that would allow that person 4 years from the time of injury, or the time the second house burns down, would I think be a just rule--"
+                },
+                {
+                    "start": 2577.013,
+                    "stop": 2577.163,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There is something--"
+                },
+                {
+                    "start": 2577.163,
+                    "stop": 2577.714,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--and consistent--"
+                },
+                {
+                    "start": 2577.714,
+                    "stop": 2592.193,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There is something to be said for that, but it may not be the way Congress defined the statute, because at the time of the injury to the first person, there was the injury as a result of an arson but not necessarily the result of RICO, because there may not yet have been a--"
+                },
+                {
+                    "start": 2592.193,
+                    "stop": 2593.996,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Of course, there's a claim here that there's--"
+                },
+                {
+                    "start": 2593.996,
+                    "stop": 2594.897,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But that's not this case."
+                },
+                {
+                    "start": 2594.897,
+                    "stop": 2609.516,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--There's a claim now that there's no injury at all, that in fact... and there's some evidence that petitioner Joanne is better off now than ever before."
+                },
+                {
+                    "start": 2609.516,
+                    "stop": 2641.898,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we're in an odd position, Justice O'Connor. For the last 8 or 9 years the petitioner has been working through several different court systems claiming that she was injured to a very sizeable degree by virtue of the fraudulent transfer of her interest in the medical practice and the violation of her right to foreclose under her lien, and now, after the complaint has been dismissed by Federal courts and the State court and bankruptcy court she says, oh, by the way, I haven't been injured at all yet, so--"
+                },
+                {
+                    "start": 2641.898,
+                    "stop": 2642.509,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2642.509,
+                    "stop": 2648.412,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--in fact the injury won't mature until the bankruptcy case is over, so we'll know in the next millennium--"
+                },
+                {
+                    "start": 2648.412,
+                    "stop": 2651.274,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the bankruptcy case is not in fact over."
+                },
+                {
+                    "start": 2651.274,
+                    "stop": 2652.116,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's still--"
+                },
+                {
+                    "start": 2652.116,
+                    "stop": 2653.648,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There has been no final discharge."
+                },
+                {
+                    "start": 2653.648,
+                    "stop": 2657.699,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry. There has been a revocation of the discharge."
+                },
+                {
+                    "start": 2657.699,
+                    "stop": 2658.269,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2658.269,
+                    "stop": 2658.75,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So that--"
+                },
+                {
+                    "start": 2658.75,
+                    "stop": 2661.082,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it's not over. There's been no final distribution."
+                },
+                {
+                    "start": 2661.082,
+                    "stop": 2661.893,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2661.893,
+                    "stop": 2663.873,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And who are creditors remaining?"
+                },
+                {
+                    "start": 2663.873,
+                    "stop": 2665.295,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Joanne is the only creditor."
+                },
+                {
+                    "start": 2665.295,
+                    "stop": 2667.206,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "She is the only one now remaining?"
+                },
+                {
+                    "start": 2667.206,
+                    "stop": 2667.817,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and that is shown--"
+                },
+                {
+                    "start": 2667.817,
+                    "stop": 2668.388,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There's no bank, or anything?"
+                },
+                {
+                    "start": 2668.388,
+                    "stop": 2694.624,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. That is shown in the record. Attached to the summary... the dismissal and summary judgment papers in this case was the opinion from February 1993 of the bankruptcy judge recommending the withdrawal of the reference over the adversary complaint, and it recites in recommending that that complaint be dismissed that Joanne as of that time... that all of the creditors had been paid, and Joanne was the only remaining creditor."
+                },
+                {
+                    "start": 2694.624,
+                    "stop": 2705.611,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, does it follow... may I just be sure to get one little... does it follow as night follows the day if she's the only beneficiary, and if she's not been injured, then neither has the trustee been injured?"
+                },
+                {
+                    "start": 2705.611,
+                    "stop": 2738.682,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, and the... again if I may go outside the record. This is judicially noticeable... the bankruptcy court has dismissed the trustee's claims on that theory, namely that she's the only creditor. He cannot maintain any pre-petition claim for fraud because the allegation is Vincent, in whose shoes the trustee stands, was an active participant in that fraud, and therefore he is barred from suing anybody else in Vincent's stead. But if I may just--"
+                },
+                {
+                    "start": 2738.682,
+                    "stop": 2739.554,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Lacovara--"
+                },
+                {
+                    "start": 2739.554,
+                    "stop": 2739.924,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, sir."
+                },
+                {
+                    "start": 2739.924,
+                    "stop": 2748.541,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--aside from the inconsistency between saying, you know, for 9 years that she's injured and now she's not injured, when was she right, in those 9 years or now? [Laughter]"
+                },
+                {
+                    "start": 2748.541,
+                    "stop": 2754.434,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh, I'm perfectly prepared to say she was right in 1989 for purposes of this litigation."
+                },
+                {
+                    "start": 2754.434,
+                    "stop": 2758.257,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now... now... but I'm not prepared to say for... I mean, we have an obligation to--"
+                },
+                {
+                    "start": 2758.257,
+                    "stop": 2759.237,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "She... I didn't--"
+                },
+                {
+                    "start": 2759.237,
+                    "stop": 2766.202,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Do we have a case or controversy before us, or is this case not proper for us to entertain, is what I'm asking you."
+                },
+                {
+                    "start": 2766.202,
+                    "stop": 2878.655,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--On the basis of the complaint that she filed... the civil RICO complaint, and let's turn to that, she alleges as of 1993 various kinds of losses and injuries, and these are injuries that she said she incurred in 1987 when the fraudulent transfers defeated her security interest, her lien, which is property under Nevada law, and prevented her from foreclosing on the business and realizing what she later claimed to be $6 million worth of profits that she would have been able to earn if she'd been allowed to foreclose in 1987. The other tangible injury that she alleged in this complaint, and I refer you to page 47 of the joint appendix and to page 70 of the joint appendix, in which she itemizes the \"losses suffered in the Siragusa medical practice interest scheme. \" she says the losses currently exceeding... currently as of 1993 exceeding $6 million, the failure to receive the marital payment, that's the $1.3 million judgment that she had obtained against Vincent in September of 1987, and the impairment of her ability to execute and foreclose on Siragusa's medical practice as a result of the alleged fraudulent transfer in 1987. So as she alleged a civil RICO claim with a pattern of racketeering, which is detailed, Justice Breyer, in five exhibits attached to this prolix complaint, this thing in which she claims dozens or maybe hundreds of acts of wire fraud and mail fraud, she said she lost property in a tangible amount in 1987--"
+                },
+                {
+                    "start": 2878.655,
+                    "stop": 2883.977,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And subsequent events rendered those alleged damages nonexistent."
+                },
+                {
+                    "start": 2883.977,
+                    "stop": 2886.989,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We have suggested in the respondents' briefs--"
+                },
+                {
+                    "start": 2886.989,
+                    "stop": 2889.591,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Notably the elimination of the discharge."
+                },
+                {
+                    "start": 2889.591,
+                    "stop": 2906.424,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The latest theory of the case presented in this Court is that this is really a bankruptcy discharge case, not a challenge to a fraudulent conveyance, not the fraudulent reduction of her--"
+                },
+                {
+                    "start": 2906.424,
+                    "stop": 2906.744,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I see--"
+                },
+                {
+                    "start": 2906.744,
+                    "stop": 2952.623,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--$1.4 million verdict. But the... since the time the original litigation began, as the record shows, and we have attached as an appendix to the Beckley Singleton respondent's brief, the petitioner has received approximately $1.9 million as the result of the settlement with Dr. Bowers, as the result of the redefined alimony award to replace the discharged marital payment and the $200,000 or so that Vincent paid in 1994 when he settled the case. Now, petitioner says maybe she's entitled to more than that because maybe she has a claim of interest."
+                },
+                {
+                    "start": 2952.623,
+                    "stop": 2962.571,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, Mr. Sauber said she's entitled to several thousand more than that, and you're not disputing... that maybe right and that may be wrong, but there's a controversy about it, is there not?"
+                },
+                {
+                    "start": 2962.571,
+                    "stop": 2978.111,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think it would be hard to say without knowing whether interest was running on her original $1.3 million judgment from 1987, and if so at what rate, but it does look as if she has been at least made more than whole. But the other point is--"
+                },
+                {
+                    "start": 2978.111,
+                    "stop": 2983.184,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but if the RICO claim were valid I guess treble damages would be in order."
+                },
+                {
+                    "start": 2983.184,
+                    "stop": 3121.205,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The case law so far in the lower courts, and this Court has never addressed this, is that the treble damage, the trebling takes place on the damage award that the jury renders and therefore, if the victim in a financial case has been made whole before trial, then there's nothing to treble, so the trebling doesn't arise in the air. It only arises as a calculation on a verdict, and so if she has been made whole the lower court cases suggest there is no basis for a RICO trebling. But the other point that I would make about the posture of the case in this Court, and this is the other basis for possibly treating it either as moot or as recognizing that there isn't any claim, in her opening brief, main brief on the merits in this Court, in order to sidestep the statute of limitations problems with the injuries about which she is complaining below, the injuries that took place in 1987, petitioner argues that no injury has occurred yet, we won't know until the bankruptcy case is closed, and we have until the next millennium to bring a RICO case based on this divorce case. She said if Vincent is eventually denied a discharge for any of these reasons, Joanne's debt owed by Vincent will survive in full unaffected by the bankruptcy proceedings, mainly the alleged bankruptcy fraud. Quote from page 16 and 17, the moment of injury is by definition the final discharge of the defendant's legal obligation to pay the debt. The RICO injury may not occur unless or until a discharge is granted. And my brother and I agree that in 1994 Judge Riegle, the bankruptcy judge, granted the stipulation to which Vincents consented revoking the discharge, so on the basis of petitioner's claim in this Court recharacterizing this as a bankruptcy fraud lost debt case, not only isn't there an injury, there never will be. In either event, affirmance or dismissal under Rule 46 as moot would seem to be appropriate. Now, my brother said--"
+                },
+                {
+                    "start": 3121.205,
+                    "stop": 3133.253,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How about dismissal as improvidently granted, if we thought this was a case squarely presenting what is the split in the circuits between on the one hand the injury rule, on the other the injury-plus-pattern rule?"
+                },
+                {
+                    "start": 3133.253,
+                    "stop": 3173.242,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I do think, Justice Ginsburg, that the case is in that perspective alive enough to decide which is the right accrual rule, because conceivably I think... well, I would view it as almost inconceivable, but there is at least a theoretical possibility that the Court might decide that the Third Circuit is correct, in which case the last predicate act rule would have kept the claim alive for civil RICO purposes, so the Court does have the authority to decide the issue on which it granted cert, namely which of the four rules--"
+                },
+                {
+                    "start": 3173.242,
+                    "stop": 3178.072,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we'd only have to decide whether the fourth is not the rule."
+                },
+                {
+                    "start": 3178.072,
+                    "stop": 3181.346,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That... I think that's correct. That's why you'd have to--"
+                },
+                {
+                    "start": 3181.346,
+                    "stop": 3183.897,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You'd still leave the other three rattling around out there."
+                },
+                {
+                    "start": 3183.897,
+                    "stop": 3186.478,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is correct."
+                },
+                {
+                    "start": 3186.478,
+                    "stop": 3195.744,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So... but from your point of view dismissal is improvidently granted because we couldn't pick which of the three is something that you have no objection to, I take it."
+                },
+                {
+                    "start": 3195.744,
+                    "stop": 3200.198,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Certainly from the respondents' standpoint we'd be happy with that disposition."
+                },
+                {
+                    "start": 3200.198,
+                    "stop": 3205.412,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if we do go ahead and decide it, which of the three do you think is the best?"
+                },
+                {
+                    "start": 3205.412,
+                    "stop": 3226.055,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the right one, Justice Stevens, is the Clayton Act accrual rule. In Malley Duff the Court held that Congress patterned the civil damage remedy of RICO on the Clayton Act. It's been clear for now 80 years that the Clayton Act rule does not have any discovery principle. It's worked quite well."
+                },
+                {
+                    "start": 3226.055,
+                    "stop": 3230.737,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It hasn't been clear for 80 years because section 4 wasn't enacted till the 1950's."
+                },
+                {
+                    "start": 3230.737,
+                    "stop": 3233.148,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, no, section 4 dates back--"
+                },
+                {
+                    "start": 3233.148,
+                    "stop": 3234.991,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The statute of limitations part of it wasn't enacted."
+                },
+                {
+                    "start": 3234.991,
+                    "stop": 3248.569,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry. But the Court in Zenith cites cases, district court cases going back to 1919, because there had been a civil remedy from 1914 forward, section 4 itself, and--"
+                },
+                {
+                    "start": 3248.569,
+                    "stop": 3250.742,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but they were all construing State statutes of limitations."
+                },
+                {
+                    "start": 3250.742,
+                    "stop": 3256.116,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right, but they all construed them as running from the time of injury without regard to any discovery."
+                },
+                {
+                    "start": 3256.116,
+                    "stop": 3270.063,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought you conceded that you would modify the Clayton Act rule to some degree to say that the injury has to have occurred after the second predicate act."
+                },
+                {
+                    "start": 3270.063,
+                    "stop": 3276.148,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I was saying that it is arguable that there was no RICO violation or no RICO injury--"
+                },
+                {
+                    "start": 3276.148,
+                    "stop": 3276.759,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Until--"
+                },
+                {
+                    "start": 3276.759,
+                    "stop": 3278.429,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Until there is a RICO pattern--"
+                },
+                {
+                    "start": 3278.429,
+                    "stop": 3279.049,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 3279.049,
+                    "stop": 3281.44,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--and an injury following a predicate act."
+                },
+                {
+                    "start": 3281.44,
+                    "stop": 3281.861,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 3281.861,
+                    "stop": 3303.376,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "At that point. But in the colloquy with Justice Breyer I conceded that that's not necessarily the correct construction of the statute, but it's certainly one that's academic here, because by petitioner's own pleading there were ample predicate acts well before the fraudulent transfer and the defeat of her security interest."
+                },
+                {
+                    "start": 3303.376,
+                    "stop": 3305.026,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Depending on what a pattern is."
+                },
+                {
+                    "start": 3305.026,
+                    "stop": 3365.627,
+                    "speaker": {
+                        "name": "Philip A. Lacovara",
+                        "ID": 38084,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I'll take H.J. It was agreed upon unanimously. I know Justice Scalia you had a characteristically pungent concurrence that it's still frustrating, but nevertheless you said the Court had done the best it could with Congress' handiwork. It certainly doesn't mean that multiple schemes are necessary. It certainly doesn't mean, as Justice Souter's opinion for the Court emphasized, that there have to be multiple victims. So a whole lot of different criminal acts... mail fraud, wire fraud and bankruptcy fraud directed at defeating and injuring Joanne Siragusa's property interest would, I think it's clear, constitute a pattern if ever there was one, and what she has been alleging for the last 7 or 8 or 9 years was her injury took place as a result of that, or the culmination of that pattern, even if other acts continued that affected, may have affected other persons such as Dr. Heeren. If there are no further questions, I'll submit."
+                },
+                {
+                    "start": 3365.627,
+                    "stop": 3369.871,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Lacovara. Mr. Sauber, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3369.871,
+            "stop": 3410.988
+        }
+    ]
+}

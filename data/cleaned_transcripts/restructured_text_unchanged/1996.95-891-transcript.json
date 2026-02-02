@@ -1,0 +1,2719 @@
+{
+    "title": "Ohio v. Robinette",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.989,
+                    "stop": 36.426,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: This case involves a traffic stop, a driver's consent to search, and the discovery of drugs in his car. The question before the Court is whether the Fourth Amendment requires a police officer to warn a motorist at the end of a traffic stop that he's free to go, and that if the officer fails to give that warning, any cooperation by the motorist from that point on must be presumed to be involuntary."
+                },
+                {
+                    "start": 36.426,
+                    "stop": 45.364,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Under State law, does the officer have the discretion to give or not to give a ticket after he talks to the motorist?"
+                },
+                {
+                    "start": 45.364,
+                    "stop": 59.092,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, there is a statute that... if it is a traffic stop, the officer may simply cite the motorist if he has proof of identification, which doesn't have to be a driver's license."
+                },
+                {
+                    "start": 59.092,
+                    "stop": 62.205,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does... is cite the same as giving a ticket?"
+                },
+                {
+                    "start": 62.205,
+                    "stop": 66.389,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Oh, I'm sorry, I misunderstood your question. He may cite or warn at his discretion."
+                },
+                {
+                    "start": 66.389,
+                    "stop": 78.216,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So he may cite or warn, and that obviously takes a certain amount of time to make that determination of what he's going to do? I take it the officer has a certain amount of discretion."
+                },
+                {
+                    "start": 78.216,
+                    "stop": 78.736,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, he does."
+                },
+                {
+                    "start": 78.736,
+                    "stop": 81.969,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so he has to have a certain amount of time within which to exercise that discretion."
+                },
+                {
+                    "start": 81.969,
+                    "stop": 83.481,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 83.481,
+                    "stop": 86.203,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Once he says, I'm not going to give you a ticket, can he change his mind?"
+                },
+                {
+                    "start": 86.203,
+                    "stop": 90.897,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "He could change is mind, certainly, and give the ticket."
+                },
+                {
+                    "start": 90.897,
+                    "stop": 98.101,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If there's a flippant response, or a response that indicates that maybe the person has less regard for the law than the officer thought at first?"
+                },
+                {
+                    "start": 98.101,
+                    "stop": 113.101,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, that's correct, and the question would then become whether or not the officer's decision to change his mind when he told the person he wasn't going to give him the ticket and then decided to give the ticket would have an effect on whether or not the person felt then that he was free to leave, or he was being coerced in some--"
+                },
+                {
+                    "start": 113.101,
+                    "stop": 123.469,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Quite without reference to a search, the officer would be entitled to detain the motorist after the officer changed his mind and said, well, based on what your remarks are, I've changed my mind. I'm going to give you a ticket."
+                },
+                {
+                    "start": 123.469,
+                    "stop": 124.581,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, the officer could do that."
+                },
+                {
+                    "start": 124.581,
+                    "stop": 130.214,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There is no right to leave once the officer proceeds in that way until the ticket is written."
+                },
+                {
+                    "start": 130.214,
+                    "stop": 133.326,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right, that's correct, until the ticket is written or the warning is given, yes, Your Honor."
+                },
+                {
+                    "start": 133.326,
+                    "stop": 137.387,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that State law is consistent with our cases, and with the Fourth Amendment?"
+                },
+                {
+                    "start": 137.387,
+                    "stop": 138.498,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 138.498,
+                    "stop": 158.594,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me ask you another nuts and bolts question. When he decides to give a warning, as he did in this case, does he present the motorist with a document, a piece of paper that says, \"warning\"? Do they record these warnings, or is it customarily, and was it in this case, just an oral statement saying, I warn you not to do it again?"
+                },
+                {
+                    "start": 158.594,
+                    "stop": 166.22,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, it can be done both ways. In this case, on reference to the video tape will show that the officer handed the... he handed Robinette a written warning."
+                },
+                {
+                    "start": 166.22,
+                    "stop": 176.906,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So he had given him a statement which said, in effect, on its face that it was a warning before he began the conversation about whether there was anything improper in the car?"
+                },
+                {
+                    "start": 176.906,
+                    "stop": 179.748,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, and he had also returned his driver's license to him--"
+                },
+                {
+                    "start": 179.748,
+                    "stop": 179.958,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 179.958,
+                    "stop": 180.769,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--at that point."
+                },
+                {
+                    "start": 180.769,
+                    "stop": 187.134,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think at that point he could have changed his mind and said, well, I've given you a warning, but after thinking about it I'm going to give you a ticket now?"
+                },
+                {
+                    "start": 187.134,
+                    "stop": 200.652,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If he had told... if he had told... if... it would have been very difficult, then, for the officer to justify, without anything further happening, giving him a ticket on just his change of mind, but--"
+                },
+                {
+                    "start": 200.652,
+                    "stop": 202.224,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought you said earlier that he could--"
+                },
+                {
+                    "start": 202.224,
+                    "stop": 202.414,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--the question--"
+                },
+                {
+                    "start": 202.414,
+                    "stop": 204.485,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I thought you said earlier he could change his mind."
+                },
+                {
+                    "start": 204.485,
+                    "stop": 225.168,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--After he's given him the warning I think it would be more difficult, but I think that the question of the validity of what he did on that would affect whether or not the speeding ticket, whether or not that was... whether or not the validity of the speeding ticket was upheld, not whether or not... it would simply be a factor to be considered when trying to decide whether or not he was detained or whether--"
+                },
+                {
+                    "start": 225.168,
+                    "stop": 228.982,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm asking the question to determine his right to detain the motorist."
+                },
+                {
+                    "start": 228.982,
+                    "stop": 262.163,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--He had the right... if the motorist did nothing further but give the officer a flippant answer, then the business of the stop is over, the officer has made his decision to give a warning, the officer's discretion is still controlling it, and under Ohio law, there's nothing that would prevent the officer at that point from issuing him the ticket. The officer has that kind of discretion."
+                },
+                {
+                    "start": 262.163,
+                    "stop": 264.925,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "After the warning has already... is the... it's a written warning?"
+                },
+                {
+                    "start": 264.925,
+                    "stop": 265.824,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In this case it was, Your Honor."
+                },
+                {
+                    "start": 265.824,
+                    "stop": 270.909,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you can give them both a written warning and then after that say, in addition to that I'm going to give you a ticket?"
+                },
+                {
+                    "start": 270.909,
+                    "stop": 271.939,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I--"
+                },
+                {
+                    "start": 271.939,
+                    "stop": 272.7,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You can do both?"
+                },
+                {
+                    "start": 272.7,
+                    "stop": 273.361,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm sorry, Your Honor."
+                },
+                {
+                    "start": 273.361,
+                    "stop": 274.623,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You can do both?"
+                },
+                {
+                    "start": 274.623,
+                    "stop": 276.783,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. You could void out the written warning--"
+                },
+                {
+                    "start": 276.783,
+                    "stop": 276.863,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 276.863,
+                    "stop": 280.966,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--to the extent it's entered, and then issue a ticket."
+                },
+                {
+                    "start": 280.966,
+                    "stop": 293.066,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any decisional law or administrative rulings in Ohio to support what you just say, or are you kind of going by, you know, what you think is probably the case?"
+                },
+                {
+                    "start": 293.066,
+                    "stop": 296.186,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "To support the... to support that the officer can--"
+                },
+                {
+                    "start": 296.186,
+                    "stop": 315.839,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The idea that he... the patrolman has given the respondent, here, a warning. The respondent gives the patrolman some indication that he has contempt for the law or something like that, or something causes the patrolman to change his mind. Has that ever come up in any litigated case?"
+                },
+                {
+                    "start": 315.839,
+                    "stop": 320.784,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I cannot cite you a case. I cannot cite you a case, but I don't know that it hasn't come up."
+                },
+                {
+                    "start": 320.784,
+                    "stop": 325.689,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Ms. Ingram-- --What do you base your answer on, then? I... what do you base your answer on?"
+                },
+                {
+                    "start": 325.689,
+                    "stop": 344.822,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "On consideration of Fourth Amendment principles that until... the officer has the right to detain a speeding motorist until he completes the business of the traffic stop, and his decision as to whether or not to issue a ticket or a warning, and the final issuance of a ticket even if he's already issued a warning is part of the business of a traffic stop, so whether or not--"
+                },
+                {
+                    "start": 344.822,
+                    "stop": 371.292,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but I'm asking you, what do you base your answer on as to State law as to whether, having issued a warning, you can then, in light of a flippant answer or anything else, void the warning and issue a traffic ticket? We can't do that. I mean, when we issue a judgment, if the lawyer who loses... who wins makes some flippant comment about our judgment-- [Laughter] --we can't call or go back and say, wait a minute, we've thought about it again. Now, a policeman can do that, though?"
+                },
+                {
+                    "start": 371.292,
+                    "stop": 377.365,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--A policeman has the discretion to decide whether to warn or cite, yes, Your Honor, and... and the fact... I'm sorry."
+                },
+                {
+                    "start": 377.365,
+                    "stop": 388.595,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I know he has the discretion to do that. We have discretion whether to find for the petitioner or for the respondent, but having done so, we cannot then change our mind. What makes you say that a policeman can change his mind?"
+                },
+                {
+                    "start": 388.595,
+                    "stop": 398.295,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because a warning is not a final order. It's not... it's not a final order. It's... I'm going to give you a warning, he's giving the person a break, he's doing something he doesn't have to do."
+                },
+                {
+                    "start": 398.295,
+                    "stop": 409.583,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right, but you don't base this on any case law that you know of. This is just your own-- --Well, common sense. Ms. Ingram, is that what happened here, or did he just get a warning and then we went into this business about, may I search?"
+                },
+                {
+                    "start": 409.583,
+                    "stop": 417,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is not what happened here. It just was the warning, and then the question of, are you carrying any illegal drugs or contraband."
+                },
+                {
+                    "start": 417,
+                    "stop": 426.768,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, and do you mind telling me, at the traffic stop, did the officer order Robinette to get out of the car before he checked the driver's license, do you know?"
+                },
+                {
+                    "start": 426.768,
+                    "stop": 435.567,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, he checked the driver's license, then ordered him out of the car, then returned the driver's license and gave him a lecture on speeding."
+                },
+                {
+                    "start": 435.567,
+                    "stop": 435.854,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mm-hmm."
+                },
+                {
+                    "start": 435.854,
+                    "stop": 452.406,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "This was also captured on video tape from the time of the... from the time he gave him the lecture on speeding and gave him his license back, so an interesting fact about this case is that there's no real dispute about what happened between Robinette and the officer during that actual encounter."
+                },
+                {
+                    "start": 452.406,
+                    "stop": 464.404,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I suggest that your answer about whether he could have changed his mind and all is based on the common sense notion that as long as the two people are standing there together, the officer retains control of the situation?"
+                },
+                {
+                    "start": 464.404,
+                    "stop": 469.236,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, yes, Your Honor. Yes, Your Honor. What the Ohio--"
+                },
+                {
+                    "start": 469.236,
+                    "stop": 471.249,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that so even after the ticket is issued?"
+                },
+                {
+                    "start": 471.249,
+                    "stop": 475.331,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Unless the--"
+                },
+                {
+                    "start": 475.331,
+                    "stop": 481.325,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You'd say the officer is still in control and the person can't leave, even after he gives him a final ticket? They're still standing there."
+                },
+                {
+                    "start": 481.325,
+                    "stop": 481.956,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--And--"
+                },
+                {
+                    "start": 481.956,
+                    "stop": 482.858,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is the officer in control?"
+                },
+                {
+                    "start": 482.858,
+                    "stop": 495.466,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If the officer... if the officer gives him the final ticket, and that is the last thing that has to do with the business of the traffic stop, and nothing further has happened to give the officer any more justification to hold him, then the person is free to go."
+                },
+                {
+                    "start": 495.466,
+                    "stop": 497.836,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the officer isn't in control in that sense."
+                },
+                {
+                    "start": 497.836,
+                    "stop": 500.818,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that's correct, and the question, if the person--"
+                },
+                {
+                    "start": 500.818,
+                    "stop": 507.493,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But he's not free to go when all that's been issued is a warning, is that what you say?"
+                },
+                {
+                    "start": 507.493,
+                    "stop": 519.4,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If all he's been issued is a warning, and the officer is still acting in such a way to cause this person to believe that his continued presence is required, that he can't leave, then he is detained."
+                },
+                {
+                    "start": 519.4,
+                    "stop": 528.37,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, so was Robinette still detained here, after the warning was issued? He was not free to go?"
+                },
+                {
+                    "start": 528.37,
+                    "stop": 530.531,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "He was free to go when the--"
+                },
+                {
+                    "start": 530.531,
+                    "stop": 532.514,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that contradicts what you've been saying."
+                },
+                {
+                    "start": 532.514,
+                    "stop": 566.427,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--He was... I'm sorry, Your Honor. He was free to go in this case when the warning was issued, and when the police officer gave him back his driver's license. In fact, at the suppression hearing he testified that at that point, when the officer then asked him, did you believe you were free to go at that point, he said yes, I did, and he answered that way twice under exam/cross-examination, so not only is their objective, from looking at the video tape evidence, that the officer did nothing coercive, this person himself testified that he believed at that point he was free to go."
+                },
+                {
+                    "start": 566.427,
+                    "stop": 621.725,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was he-- --Can we go back a little bit in time, because the Ohio supreme court, which is the one thing that we have before us, seemed to say that the lawful stop had ended before the officer commanded Robinette to get out of the car. Under the Ohio supreme court's opinion, once the police office checked Robinette's license, every aspect of the speeding violation had been investigated and resolved. These are the words of the Ohio supreme court. Hence, the Ohio supreme court concluded that the detention stopped being lawful and became unlawful when the officer commanded Robinette to get out of the car. Is that not an accurate statement of what the Ohio supreme court said?"
+                },
+                {
+                    "start": 621.725,
+                    "stop": 627.488,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, that's an accurate statement of the text of the opinion. However, in Ohio--"
+                },
+                {
+                    "start": 627.488,
+                    "stop": 632.491,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's the syllabus that counts, and isn't that an accurate statement of the first point in the syliabus?"
+                },
+                {
+                    "start": 632.491,
+                    "stop": 653.065,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor, it isn't. The first syllabus depends on the resolution of the question of what is continued detention, and if this Court... and is based and relies on the Court's holding that unless these words are spoken, detention will be presumed, so if this Court were to rule in my favor--"
+                },
+                {
+                    "start": 653.065,
+                    "stop": 689.834,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's the second point in the syllabus. The first point says nothing about the... the first point just says that the detention... the extension of the detention was illegal. There's nothing in that at all in that first point about the warning that you are legally free to go. That doesn't come up until point 2. The first point in the syllabus seems just to consolidate the first part of the opinion."
+                },
+                {
+                    "start": 689.834,
+                    "stop": 715.273,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, the first... the first syllabus is, I would submit is an accurate statement of the law. However, the... and to the extent that you're looking to the text of the opinion, I would say that in Ohio the syllabus states the holding of the court on the facts arising from the case. That's the holding of the court. What is in the opinion is simply the opinion of the writer or the author of the opinion."
+                },
+                {
+                    "start": 715.273,
+                    "stop": 734.026,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose this opinion just stopped, the syllabus just stopped with point 1. The point 2 is not necessary to the decision. They're alternatives, aren't they? Suppose the decision had stopped with point 1, then the second question is academic, isn't it?"
+                },
+                {
+                    "start": 734.026,
+                    "stop": 766.67,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, because point 1 is necessarily included in point 2. Point 1 talks about continued detention, and in order to determine what the Ohio supreme court is talking about under the Fourth Amendment when they talk about continued detention, you look to point 2 and see that there's continued detention. We're going to presume that further cooperation is voluntary if the officer has not given this warning, so when that... when you understand what... when it's clear what they're talking about in regard to the second for detention--"
+                },
+                {
+                    "start": 766.67,
+                    "stop": 787.423,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why would one make that assumption when reading the court's own account of it? It's one thing to say only the syllabus states the law, but another thing to say is, we're going to put on the that statement in the syllabus something different than the Ohio supreme court's explanation of the statement."
+                },
+                {
+                    "start": 787.423,
+                    "stop": 810.431,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But Your Honor, as this Court has noted in several cases, while the... the opinion itself is simply dicta, because the text of the syllabus is what the Court holds is the law of the case, and that what is contained in the opinion is simply the... must be viewed simply as the view of the author of the opinion."
+                },
+                {
+                    "start": 810.431,
+                    "stop": 823.029,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't it the... in Ohio isn't it the case that if there's thought to be ambiguity in the syllabus you can turn to the opinion to interpret one... to give one or another meeting to a syllabus paragraph?"
+                },
+                {
+                    "start": 823.029,
+                    "stop": 831.076,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor, but my position is, is there is no ambiguity in syllabus 1, because it's a correct statement of the law."
+                },
+                {
+                    "start": 831.076,
+                    "stop": 871.331,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if you go on with the Ohio supreme court's opinion, before they get to this business about a warning they say, even assuming Newsome's detention of Robinette was legal throughout the time when Newsome handed back Robinette his driver's license. The first part of the opinion says it wasn't a legal detention, and then it goes on, even if it was legal, there had to be a warning. So the first part seems to say the detention, once the police officer satisfied himself with the license check, was unlawful, period, and then we go on to, but even if it was lawful."
+                },
+                {
+                    "start": 871.331,
+                    "stop": 924.128,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, once again I'd ask you to look at the language of the continued detention, and I don't think you can understand that separately from the definition, or the presumption of detention and lack of cooperation given in the second. Now, if this Court were to hold against me... I'm sorry, hold for me on the second proposition of law, and remand the case to the Ohio supreme court with instructions to decide the case using the totality of the circumstances test, then using the totality of the circumstances test, and in view of the first syllabus, I would either win the case or lose the case, but I would lose it on the right standard. They would be saying, here's how we decide when detention occurs. We're not thinking about continued detention because of a failure of warning. We're going to look at the totality of the circumstances, and a court could either--"
+                },
+                {
+                    "start": 924.128,
+                    "stop": 955.117,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what about Ohio's position that the continued detention was after the license check? Once the license check was done under this first heading, that was the end of the lawful detention, so that according to the Ohio supreme court's explanation of what that first paragraph is about, from the time the officer goes back to the car and tells Robinette to get out, the detention was unlawful."
+                },
+                {
+                    "start": 955.117,
+                    "stop": 980.282,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, that's... the court was wrong in that that violates Pennsylvania v. Mimms and this Court's decision in Wren v. United States, but the Ohio supreme court... and additionally the Ohio supreme court has always held that the protections afforded by it search and seizure provision are the same as afforded under the Fourth Amendment. In fact, it held that back in March 1966 in a case called State Ex Rel--"
+                },
+                {
+                    "start": 980.282,
+                    "stop": 997.245,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but may I ask two questions. First, this is different from Mimms, because Mimms was a lawful detention. He got out... ordered him out of the car during a lawful detention. Here, as I understand the first paragraph of the syllabus, it was an unlawful detention after the purpose of... purpose of the custody had terminated."
+                },
+                {
+                    "start": 997.245,
+                    "stop": 1021.741,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But Your Honor, at that point when he ordered him out of the car he hadn't even... he hadn't even talked to him about speeding and he hadn't given him the lecture. The Ohio supreme court also has determined that the officer's subjective... in line with this Court's decision in Wren v. United States has also held that the officer's subjective state of mind doesn't enter into a reasonableness determination. The--"
+                },
+                {
+                    "start": 1021.741,
+                    "stop": 1028.767,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let me put the second question. Do you just take issue with the first paragraph of the Ohio supreme court syllabus?"
+                },
+                {
+                    "start": 1028.767,
+                    "stop": 1029.338,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, I do not."
+                },
+                {
+                    "start": 1029.338,
+                    "stop": 1030.92,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You agree that's a correct statement of law."
+                },
+                {
+                    "start": 1030.92,
+                    "stop": 1043.887,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's a correct statement of law, but I don't believe... but I do not believe that if the Court were to agree with me on the second, or disagree with, that that would not... that that would determine the outcome of the case, or that I would still lose in Ohio."
+                },
+                {
+                    "start": 1043.887,
+                    "stop": 1052.382,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is it not true that we could answer the question presented in the certiorari petition in your favor and still affirm the judgment of the court of... of the supreme court?"
+                },
+                {
+                    "start": 1052.382,
+                    "stop": 1069.525,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would say you could do that if you would... if you would affirm... resolve the second... the question presented in my favor, do a... perform totality of the circumstances analysis, and conclude that the detention was lawful and that the consent was voluntary."
+                },
+                {
+                    "start": 1069.525,
+                    "stop": 1076.819,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you say the totality of the circumstances analysis has to be performed somewhere, either in this Court or the supreme court of Ohio?"
+                },
+                {
+                    "start": 1076.819,
+                    "stop": 1125.232,
+                    "speaker": {
+                        "name": "Carley J. Ingram",
+                        "ID": 19261,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's exactly right, Your Honor, and I think that should the Court... should the Court advise the Ohio supreme court or reverse the Ohio supreme court and hold that the totality of the circumstances test is appropriate, whether there's a bright line rule, then if this Court were to look at the totality of the circumstances or to remand, I would either... I... the evidence would be such that even under... it would offer an explanation of what continued detention means under the first syllabus and a review of all the facts and circumstances would indicate that, in this case, where he admitted that he knew he was free to go and that video tape reveals no coercion, that this person was not detained and consented voluntarily. Your Honor, if I may, I'd like to reserve the rest of my time."
+                },
+                {
+                    "start": 1125.232,
+                    "stop": 1128.645,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Ms. Ingram. Mr. Gornstein, we'll hear from you."
+                }
+            ],
+            "start": 10.989,
+            "stop": 1161.456
+        },
+        {
+            "turns": [
+                {
+                    "start": 1128.645,
+                    "stop": 1161.456,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The Ohio supreme court held that the Fourth Amendment categorically requires an officer who has stopped a motorist to inform the motorist that he is legally free to leave before any interaction between them can be viewed as consensual. Our position--"
+                },
+                {
+                    "start": 1161.456,
+                    "stop": 1166.659,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Supposing we disagree with that holding, is it nevertheless true that we might affirm the judgment in this case?"
+                },
+                {
+                    "start": 1166.659,
+                    "stop": 1168.402,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that you should not--"
+                },
+                {
+                    "start": 1168.402,
+                    "stop": 1170.602,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand that, but is it legal--"
+                },
+                {
+                    "start": 1170.602,
+                    "stop": 1190.567,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is possible, if you concluded that on the totality of the circumstances in this case the respondent would not have felt free to leave in light of the officer's conduct in this case, you could affirm the judgment. We would suggest that you go on and conclude, based on the totality of the circumstances, that he was free to leave at that point in time."
+                },
+                {
+                    "start": 1190.567,
+                    "stop": 1200.555,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Why would we make that judgment? Isn't that a judgment that the Ohio supreme court seems to have made?"
+                },
+                {
+                    "start": 1200.555,
+                    "stop": 1211.864,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The Ohio supreme court, itself, has not made that judgment except based on the free-to-leave warning rule which appears in the syllabus."
+                },
+                {
+                    "start": 1211.864,
+                    "stop": 1215.417,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which appears in the opinion after it had made the other judgment."
+                },
+                {
+                    "start": 1215.417,
+                    "stop": 1223.292,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But the first point in the syllabus presupposes--"
+                },
+                {
+                    "start": 1223.292,
+                    "stop": 1224.344,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where are you reading from, Mr. Gornstein?"
+                },
+                {
+                    "start": 1224.344,
+                    "stop": 1226.945,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--This is from App 1 in the petition."
+                },
+                {
+                    "start": 1226.945,
+                    "stop": 1227.195,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 1227.195,
+                    "stop": 1344.763,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It says, when the motivation behind a police officer's continued detention of a person is not related to the purpose of the violation, so that presupposes a continued detention and that it's not related to the violation. Now, nothing in that tells you when the court as a whole concluded that those two things were true, and I would suggest that you should look not at what the opinion writer said... he gave several different points in which the opinion writer concluded that there was a continued detention and that there was conduct unrelated to the violation going on, and the only thing the court said appears in number 2, syllabus 2, which when you put the two together, I think the only holding of the court is there was continued detention at the time the consent was sought because of the failure to give the free-to-leave warning, and that questioning was unrelated to the violation. I think when you look at the first point, it would... the opinion writer's view is flawed for two reasons, and that is, 1) he relies on the motivation of the officer, which under this Court's decision in Wren is simply incorrect, it's an objective test, and the second point is, at the point in time at which the officer ordered the respondent out of the car, he had not yet issued a warning, he had not yet returned a license, so it simply is not true that the business of the traffic stop had been completed at that point. I think what the Ohio supreme court opinion writer was suggesting was that the officer was required to reach into the car and to give back the license and to say, here's your warning, rather than order the person out of the car for those purposes, but I think under this Court's decision in Mimms, it is very clear that an officer can do those two things outside the car."
+                },
+                {
+                    "start": 1344.763,
+                    "stop": 1362.435,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Gornstein, he didn't order him out of the car for those purposes. I think it's conceded, it's not in controversy, is it, that he ordered him out of the car so he could turn on the video tape in the police officer's car and have a video tape of what next transpired?"
+                },
+                {
+                    "start": 1362.435,
+                    "stop": 1388.582,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct, but as I was just saying, Justice Ginsburg, it does not matter under the Fourth Amendment what the officer's subjective motivation was, it is what is a reasonable conduct under the circumstances, and under this Court's decision in Mimms, as long as the business of that traffic stop was not completed, a reasonable officer can order a person out of the car to issue the warning--"
+                },
+                {
+                    "start": 1388.582,
+                    "stop": 1395.147,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is your recollection of the Mimms rationale for saying the officer had that authority? It had nothing to do with giving warnings."
+                },
+                {
+                    "start": 1395.147,
+                    "stop": 1397.44,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, it had to do with officer safety."
+                },
+                {
+                    "start": 1397.44,
+                    "stop": 1400.232,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. Was officer safety implicated here?"
+                },
+                {
+                    "start": 1400.232,
+                    "stop": 1405.999,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that what Mimms says is that officer safety is categorically implicated every time--"
+                },
+                {
+                    "start": 1405.999,
+                    "stop": 1408.299,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even when the officer just wants to give the guy a lecture?"
+                },
+                {
+                    "start": 1408.299,
+                    "stop": 1409.649,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's--"
+                },
+                {
+                    "start": 1409.649,
+                    "stop": 1410.961,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's what's involved here."
+                },
+                {
+                    "start": 1410.961,
+                    "stop": 1419.478,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, every time the officer wants to have interaction with a motorist, he can take into account his safety, yes, that a reasonable officer--"
+                },
+                {
+                    "start": 1419.478,
+                    "stop": 1427.804,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And Wren would say even if he doesn't himself subjectively take into account his safety, if that is an objective reason, that's enough."
+                },
+                {
+                    "start": 1427.804,
+                    "stop": 1430.267,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Justice Rehnquist. The--"
+                },
+                {
+                    "start": 1430.267,
+                    "stop": 1443.004,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I thought it was on the record objective, the reason that he had Robinette get out of the car was he wanted to video tape their ensuing conversation, which was not going to be related to the traffic stop."
+                },
+                {
+                    "start": 1443.004,
+                    "stop": 1464.679,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But Justice Ginsburg, the... that was what the officer said he wanted to, but the question is, what could a reasonable officer have done in those circumstances where the business of the traffic stop was not yet completed, and a reasonable officer can take into account safety in issuing the warning and giving the lecture and returning the license."
+                },
+                {
+                    "start": 1464.679,
+                    "stop": 1480.071,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr.-- --Mr. Gornstein, do you know whether the Ohio supreme court has had a repeat of this holding, and if so, has it used the Fourth Amendment in addition to the State constitution? Has there been another holding about the--"
+                },
+                {
+                    "start": 1480.071,
+                    "stop": 1480.522,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I am not--"
+                },
+                {
+                    "start": 1480.522,
+                    "stop": 1481.471,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--bright line test?"
+                },
+                {
+                    "start": 1481.471,
+                    "stop": 1484.683,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I am not familiar with any additional holding, Justice Ginsburg."
+                },
+                {
+                    "start": 1484.683,
+                    "stop": 1505.657,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Gornstein, just so I understand your argument, you were saying that all of the reasons why there was continuing detention set forth in the opinion as opposed to the one perhaps set forth in number 2 of the syllabus are all invalid reasons."
+                },
+                {
+                    "start": 1505.657,
+                    "stop": 1506.959,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1506.959,
+                    "stop": 1513.724,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so it's either... it's either part 2 of the appendix or nothing."
+                },
+                {
+                    "start": 1513.724,
+                    "stop": 1515.226,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Justice Scalia."
+                },
+                {
+                    "start": 1515.226,
+                    "stop": 1518.418,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of the syllabus or nothing."
+                },
+                {
+                    "start": 1518.418,
+                    "stop": 1554.475,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct. The reason that the Ohio supreme court's per se test should be rejected, for three reasons. First, this Court has in a wide variety of contexts decided whether there is a Fourth Amendment seizure based on the totality of the circumstances. The relevant inquiry has always been whether under the totality of the circumstances an officer's conduct would have communicated to a reasonable person that he was not free to leave. That is the test that has been applied in street encounters, in airports, on buses--"
+                },
+                {
+                    "start": 1554.475,
+                    "stop": 1558.889,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And under that test, is his testimony he thought he was free to leave therefore irrelevant?"
+                },
+                {
+                    "start": 1558.889,
+                    "stop": 1564.705,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think it is entirely irrelevant, Justice Stevens. I think in this case an admission--"
+                },
+                {
+                    "start": 1564.705,
+                    "stop": 1569.451,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "His subjective motivation is relevant, but the officer's subjective motivation is not relevant?"
+                },
+                {
+                    "start": 1569.451,
+                    "stop": 1588.696,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, it tends to show whether... it's of some relevance, but then you have to go on from there and examine whether... what a reasonable officer would do. It is not dispositive. Similarly, the cases here, what this particular person thought is of some relevance. You still then have to go on and conclude--"
+                },
+                {
+                    "start": 1588.696,
+                    "stop": 1592.46,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, similarly, then, is what this particular officer thought of some relevance?"
+                },
+                {
+                    "start": 1592.46,
+                    "stop": 1594.233,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is of some relevance, but it ends up being--"
+                },
+                {
+                    "start": 1594.233,
+                    "stop": 1595.412,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not controlling."
+                },
+                {
+                    "start": 1595.412,
+                    "stop": 1605.26,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Not dispositive, because a reasonable officer could always conclude that it is reasonable to order somebody out of the car when you're going to have interaction and you haven't completed the work of the stop."
+                },
+                {
+                    "start": 1605.26,
+                    "stop": 1625.051,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any difference between a consensual encounter, where the person has never been under detention, and a case where there has been a detention and then it's asserted that the detention ended and the rest was consensual?"
+                },
+                {
+                    "start": 1625.051,
+                    "stop": 1656.714,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would say that you apply the same totality of the circumstances test, but of course, in applying that test, you take into account in deciding whether at a later point in time something is consensual or a seizure, that at an earlier point in time there was a seizure. That is a relevant factor in deciding, but it does not change the ultimate inquiry, which is whether on the totality of the circumstances at the later point in time the officer's conduct would have communicated to a reasonable person that he was not free to leave."
+                },
+                {
+                    "start": 1656.714,
+                    "stop": 1710.129,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Gornstein, maybe... maybe we should adopt a new rule that in addition to when you're still in custody, there's another situation in which things have to be made absolutely clear, and that is, when your denial of permission for a search may impose upon you some sanction that otherwise wouldn't be imposed. I mean, there is the suggestion here that even if this person was no longer under custody, his saying no to the search of his car might have produced a traffic ticket. I agree, it's... I would have taken the traffic ticket rather than the conviction for marijuana, but does that coercion invalidate the search?"
+                },
+                {
+                    "start": 1710.129,
+                    "stop": 1725.009,
+                    "speaker": {
+                        "name": "Irving L. Gornstein",
+                        "ID": 28554,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does not, because that is not anything that the officer said or communicated to this particular individual, and that is the test for deciding whether there is coercion in... for purposes of whether a search should be invalidated."
+                },
+                {
+                    "start": 1725.009,
+                    "stop": 1730.235,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Gornstein. Mr. Ruppert, we'll hear from you."
+                }
+            ],
+            "start": 1128.645,
+            "stop": 1809.919
+        },
+        {
+            "turns": [
+                {
+                    "start": 1730.235,
+                    "stop": 1809.919,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, if it please the Court: Before I discuss specifically the merits of the case, if I might I'd like to approach a ground which we think would be dispositive of the case, and that is whether the writ should be dismissed for having been improvidently granted. The reason for the position is twofold. Number 1, it is clear that if there are adequate and independent State grounds for the decision of the State's highest court that that situation, when confronted by this Court, is such that the Court will generally not review the case, and we believe that is the case here. The second syllabus starts, the right guaranteed by the Federal and high Constitution to be secure in one's person and property requires the citizen stopped for traffic offenses be clearly informed when they are free to go. Under the law in Ohio, the supreme court has recognized its own inherent power. It did that in Arnold v. Cleveland, where it indicated that the Ohio constitution is a document of independent force."
+                },
+                {
+                    "start": 1809.919,
+                    "stop": 1836.976,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well now, Mr. Ruppert, as I recall, the Ohio supreme court appeared to be interpreting Federal law here, and cited a number of Federal cases, and in general Ohio has followed the Federal interpretation of the Fourth Amendment, isn't that true?"
+                },
+                {
+                    "start": 1836.976,
+                    "stop": 1843.741,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would agree that in some cases, but the Ohio court has also recognized its inherent power to reject--"
+                },
+                {
+                    "start": 1843.741,
+                    "stop": 1868.769,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, there's no question that Ohio could adopt this per se rule as a matter of Ohio law if it wants to, but unless it's clear from the face of the opinion that it has rejected the Federal rule and is adopting something as a matter of State law only, under Michigan v. Long we assume that it's interwoven with Federal law and we have jurisdiction."
+                },
+                {
+                    "start": 1868.769,
+                    "stop": 1869.63,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I understand--"
+                },
+                {
+                    "start": 1869.63,
+                    "stop": 1875.672,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think your position would require us to reject or overturn Michigan v. Long."
+                },
+                {
+                    "start": 1875.672,
+                    "stop": 1898.559,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't think so in my first analysis, Justice O'Connor, and my reason for saying that is when one looks at the syllabus, which indicates the right which the court is addressing is guaranteed by the Federal and Ohio constitution. Under Ohio law, under Williamson Heater Company, that's cited in the brief, the syllabus of the decision of the Ohio supreme court states the law of Ohio."
+                },
+                {
+                    "start": 1898.559,
+                    "stop": 1918.841,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Mr. Ruppert, in Michigan v. Long we talked about opinions of State courts, not syllabi, and although Ohio may have a special rule as to the holding of its court, I think Michigan v. Long would require us to look at the opinion rather than just the syllabus to decide whether the Michigan v. Long test is satisfied."
+                },
+                {
+                    "start": 1918.841,
+                    "stop": 1935.854,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would agree with the Chief Justice that would be appropriate, Your Honor. There is an issue concerning Michigan v. Long, given subsequent cases that arose. Coleman v. Thompson and Ylst v. Nunnemaker, decided by this Court."
+                },
+                {
+                    "start": 1935.854,
+                    "stop": 1936.334,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Ylst."
+                },
+                {
+                    "start": 1936.334,
+                    "stop": 1948.513,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Ylst v. Nunnemaker, yes, Mr. Chief Justice, and it indicated... the Court's review of the cases in that seemed to indicate that a rebuttable presumption might be appropriate."
+                },
+                {
+                    "start": 1948.513,
+                    "stop": 1972.769,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's your position that if the Ohio supreme court says, we are basing our interpretation of the Ohio constitution's unreasonable searches and seizure provision upon the interpretation the Supreme Court of the United States has given to the Federal provision, but it is nonetheless an independent provision of the Ohio constitution, you think that's enough to get around Michigan v. Long?"
+                },
+                {
+                    "start": 1972.769,
+                    "stop": 1974.249,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is my position, Your Honor."
+                },
+                {
+                    "start": 1974.249,
+                    "stop": 1975.271,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I don't think it's ours."
+                },
+                {
+                    "start": 1975.271,
+                    "stop": 1975.892,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 1975.892,
+                    "stop": 1993.473,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think our cases indicate that if you're basing your interpretation of State law upon the Federal Constitution, even though you say it's a separate provision of State law, the issue is not whether it's a separate provision of State law, it's whether your interpretation of it rests upon this Court's interpretation of the Federal Constitution."
+                },
+                {
+                    "start": 1993.473,
+                    "stop": 2015.699,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I understood that, Justice Scalia. My own interpretation, in terms of analyzing the case, was that if this Court acts and based upon syllabus number 2, if this Court would, for example, determine the Ohio court was in error under the Federal Constitution, the result under the Ohio constitution would not change, and this Court's opinion would be in advisory in nature--"
+                },
+                {
+                    "start": 2015.699,
+                    "stop": 2016.571,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Ruppert--"
+                },
+                {
+                    "start": 2016.571,
+                    "stop": 2017.322,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--with regard to that State ground."
+                },
+                {
+                    "start": 2017.322,
+                    "stop": 2032.832,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--do you... would you answer the question I asked Mr. Gornstein any differently? Has there... have there been any subsequent decisions in Ohio that place this warning solely on the Ohio constitution rather than on both?"
+                },
+                {
+                    "start": 2032.832,
+                    "stop": 2093.761,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There are no cases, Justice Ginsburg, that I have located that predicate its decision solely upon the Ohio case law. Looking at the merits of the case, obviously the issues that the supreme court confronted were significant in terms of its citizens in Ohio, and the backdrop of the case is extremely important, because the Court of Appeals of the Second District, that reviewed this case initially, indicated that it was adopting its holding and its opinion in State v. Rutherford, which was another case involving the same deputy, and what the Ohio court was confronted with, and what gave rise to this significant issue, was that the officer in that case, Deputy Newsome, who is the same officer in this case, indicated that in the year Mr. Robinette was stopped he had obtained consent searches in 786 cases. That's one officer in one county in the State of Ohio."
+                },
+                {
+                    "start": 2093.761,
+                    "stop": 2101.188,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, good for him, so long as he hasn't violated the Federal Constitution. I mean, the fact that it's effective doesn't show that it's unlawful."
+                },
+                {
+                    "start": 2101.188,
+                    "stop": 2118.361,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would agree with that, Justice Scalia. What it does raise, however, are two significant points which the supreme court was concerned about. That's one officer in one county, which certainly could indicate that this same practice is affecting Ohio citizens and other citizens--"
+                },
+                {
+                    "start": 2118.361,
+                    "stop": 2119.202,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What county was it?"
+                },
+                {
+                    "start": 2119.202,
+                    "stop": 2121.386,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry, Your... Mr. Chief--"
+                },
+                {
+                    "start": 2121.386,
+                    "stop": 2122.835,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What county was it?"
+                },
+                {
+                    "start": 2122.835,
+                    "stop": 2124.348,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That was Montgomery County, Your Honor."
+                },
+                {
+                    "start": 2124.348,
+                    "stop": 2124.548,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That's--"
+                },
+                {
+                    "start": 2124.548,
+                    "stop": 2125.059,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Dayton, Ohio."
+                },
+                {
+                    "start": 2125.059,
+                    "stop": 2125.389,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Dayton."
+                },
+                {
+                    "start": 2125.389,
+                    "stop": 2168.499,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So the Court was concerned that this may literally be involving thousands of motorists. Secondly, the fact that the officer indicated that in all cases in which he sought a search, he got consent to search, would simply indicate to the court in its facing the problem that perhaps motorists do not realize that they do not have the liberty of refusing consent to search, so it is significant data, and there is very little other data that's available, no record to tell us how many innocent citizens are stopped, are subjected to search, and how that impacts not only citizens of Ohio but citizens of other States."
+                },
+                {
+                    "start": 2168.499,
+                    "stop": 2174.894,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, this fellow certainly wasn't innocent. He was driving 69 miles an hour in a 45-mile-an-hour zone, wasn't it?"
+                },
+                {
+                    "start": 2174.894,
+                    "stop": 2206.188,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is correct, Mr. Chief Justice. There's no question that he violated the statute and the stop was appropriate. What is important when the court looked at this case is that it is clear from the record in this case that the deputy had indicated that he in fact had determined in his own mind that he was going to give a warning and nothing more, and he made that determination after he obtained the driver's license and before he ever removed Mr. Robinette from the vehicle."
+                },
+                {
+                    "start": 2206.188,
+                    "stop": 2220.941,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you agree that the criterion for deciding what he could and couldn't do, what was lawful, what was unlawful, was not his subjective determination, but an objective assessment of the facts. You agree with that."
+                },
+                {
+                    "start": 2220.941,
+                    "stop": 2233.379,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "What the officer could do would be an objective determination. What the facts are in this case, which the Supreme Court is looking at to make its judgment on, is subjective in nature."
+                },
+                {
+                    "start": 2233.379,
+                    "stop": 2236.732,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the subjective fact is not dispositive. You agree with that, I take it."
+                },
+                {
+                    "start": 2236.732,
+                    "stop": 2240.936,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would agree that the subjective fact itself is not dispositive of the broader issue."
+                },
+                {
+                    "start": 2240.936,
+                    "stop": 2255.935,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And also, in cases where we've been trying to determine for Fourth Amendment purposes at what point a seizure occurs, have we not looked at the totality of the circumstances?"
+                },
+                {
+                    "start": 2255.935,
+                    "stop": 2257.415,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Justice O'Connor."
+                },
+                {
+                    "start": 2257.415,
+                    "stop": 2268.943,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why shouldn't the converse be true when we're looking to determine when a seizure has ended? Why wouldn't we look again at the totality of the circumstances?"
+                },
+                {
+                    "start": 2268.943,
+                    "stop": 2275.318,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would believe that under the Ohio court opinion that they did not discard the totality of circumstances, because the court--"
+                },
+                {
+                    "start": 2275.318,
+                    "stop": 2279.471,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, do you think that's the proper rule, then, look to the totality of the circumstances?"
+                },
+                {
+                    "start": 2279.471,
+                    "stop": 2292.33,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that the totality of circumstances rule is fine in search and seizure cases. This Court's... the Ohio court's opinion did not intend, nor does it suggest that it's going to supplant that. The Ohio--"
+                },
+                {
+                    "start": 2292.33,
+                    "stop": 2316.63,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it certainly looks like it to me, as I read paragraph 2 of the syllabus, accompanied by the opinion. They appear to have engrafted on it a per se rule in determining when a seizure ends, that you have to have a warning. Now, I thought in general we would look to the totality of the circumstances. Now, maybe we would end up with the same result here. I don't know. Nobody applied that test."
+                },
+                {
+                    "start": 2316.63,
+                    "stop": 2350.8,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, as this Court said, Justice O'Connor, in Florida v. Royer, in that opinion the Court addressed one of the issues in regard to that was an unlawful detention, and therefore any consent obtained was invalid, but the Court indicated in that opinion very similar to what the Ohio court rationalized, and that is that all that would have been necessary for the officer to do is return the driver's license and the ticket, and advise Mr. Royer that he was free to go. That is in the language of the--"
+                },
+                {
+                    "start": 2350.8,
+                    "stop": 2366.821,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the difference between the Royer opinion, as I read it, and the supreme court of Ohio opinion here, is the Supreme Court opinion says in so many words we're laying down a per se rule, regardless of the circumstances, and Royer was a totality of the circumstances case."
+                },
+                {
+                    "start": 2366.821,
+                    "stop": 2427.381,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I would agree with that, Mr. Chief Justice, it certainly was, and... but what the court has recognized here in light of the facts of this case and what's developed is, how does the citizen truly know when he can or cannot leave, when he can walk away, because part of the totality of the circumstance is an analysis of what is the citizen confirming, what is the officer doing, what is the citizen, or the motorist standing there, what understanding did he have of what is transpiring, and what the Ohio supreme court looks at is, attempting to provide at least some very minimal protection to the motorist who's confronted with the situation. Because it is true that until the officer tells the motorist that he can leave, the average person would certainly not feel free to depart if the officer continues his discussion with him. He's inquiring about where you've been and where you're going, and who's with you and--"
+                },
+                {
+                    "start": 2427.381,
+                    "stop": 2428.853,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--May I ask--"
+                },
+                {
+                    "start": 2428.853,
+                    "stop": 2430.753,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--the average person does not feel free--"
+                },
+                {
+                    "start": 2430.753,
+                    "stop": 2431.694,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--May I ask you one question--"
+                },
+                {
+                    "start": 2431.694,
+                    "stop": 2432.055,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--while the officer--"
+                },
+                {
+                    "start": 2432.055,
+                    "stop": 2432.776,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Ruppert?"
+                },
+                {
+                    "start": 2432.776,
+                    "stop": 2433.527,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Justice Stevens."
+                },
+                {
+                    "start": 2433.527,
+                    "stop": 2446.246,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Refresh my recollection. Did the court of appeals, the intermediate court in Ohio, did thev decide that the detention continued without relying on any per se rule?"
+                },
+                {
+                    "start": 2446.246,
+                    "stop": 2452.72,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Justice Stevens. The court of appeals opinion did not refer to any per se rule at all."
+                },
+                {
+                    "start": 2452.72,
+                    "stop": 2456.963,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does that... is that holding entitled to any deference, in your view?"
+                },
+                {
+                    "start": 2456.963,
+                    "stop": 2461.326,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "From the Ohio supreme court, or this Court?"
+                },
+                {
+                    "start": 2461.326,
+                    "stop": 2466.439,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "From a Federal court reviewing the results of a State criminal proceeding."
+                },
+                {
+                    "start": 2466.439,
+                    "stop": 2481.121,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "My understanding of this Court's opinion in Arnell is that that review would be de novo. It certainly would be considered by the court, but the court is not... it's not necessary to give deference to the--"
+                },
+                {
+                    "start": 2481.121,
+                    "stop": 2490.947,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the other question I had, in your view that you... I know you argue the detention continued during the interrogation. In your view, was that detention lawful or unlawful?"
+                },
+                {
+                    "start": 2490.947,
+                    "stop": 2534.345,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In my view the decention was unlawful, and the supreme court very precisely analyzed that issue. The court pointed out that when Newscme returned to Robinette's vehicle, at... all aspects of the traffic stop had been concluded. He had checked the license, it was valid, the registration was okay, he had already determined he was going to issue a warning, so he then went back, and the only reason, according to the record in this case and Deputy Newsome, for removing Robinette from his vehicle was for the purpose of placing him in front of the cruiser so that he could begin... then begin the--"
+                },
+                {
+                    "start": 2534.345,
+                    "stop": 2548.828,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We've just gone around on that. That has to do with his subjective intentions, and the issue was whether objectively an officer could have asked... he still had to issue the warning. He hadn't issued the warning yet, had he?"
+                },
+                {
+                    "start": 2548.828,
+                    "stop": 2550.529,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--He had not issued the warning."
+                },
+                {
+                    "start": 2550.529,
+                    "stop": 2589.118,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He had determined he was going to issue a warning, but he hadn't issued it, and the question is whether, knowing there was still going to be interaction, a reasonable officer could have had the intention of having him exit the car just to be sure he wasn't armed. That's perfectly okay. But let... as I understand it, Mr. Ruppert, you are not contending that this is invalid because there was some coercion placed upon the motorist in his knowing that if he didn't allow the search he might get a traffic ticket instead of just a warning. That's not in this case, is it?"
+                },
+                {
+                    "start": 2589.118,
+                    "stop": 2595.413,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I have no evidence of that, Your Honor. That is an issue that obviously comes to mind, because the citizen--"
+                },
+                {
+                    "start": 2595.413,
+                    "stop": 2598.705,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's not in your question presented, and it's not before us, is it?"
+                },
+                {
+                    "start": 2598.705,
+                    "stop": 2600.798,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It is... there isn't... there are no facts in the record."
+                },
+                {
+                    "start": 2600.798,
+                    "stop": 2611.928,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I thought there was a fact in the record. I thought he testified that in fact he did not feel that he could refuse the request for the search. Isn't that a relevant fact?"
+                },
+                {
+                    "start": 2611.928,
+                    "stop": 2648.392,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Perhaps I misunderstood the import of Justice Scalia's question. It is true that the record indicates that the first thing that happened was, he was asked, did you feel at the time that the officer gave you your license you were free to go? He said yes, but the immediate conversation after that took place, and his response was that he was shocked when he was asked about drugs, or about, are you carrying any illegal contraband. Then the followup question to that was, do you mind if I searched? He testified that he was shocked, and felt that he had no choice but to--"
+                },
+                {
+                    "start": 2648.392,
+                    "stop": 2653.494,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did he say why he was shocked, in view of the fact that he did have drugs in the car? [Laughter]"
+                },
+                {
+                    "start": 2653.494,
+                    "stop": 2662.822,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--He did not indicate why he said that he was shocked, Your Honor, Mr. Chief Justice. He simply indicated he was shocked when confronted with that question."
+                },
+                {
+                    "start": 2662.822,
+                    "stop": 2663.553,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Ruppert--"
+                },
+                {
+                    "start": 2663.553,
+                    "stop": 2666.305,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Perhaps he didn't remember that he had a half a pill there."
+                },
+                {
+                    "start": 2666.305,
+                    "stop": 2680.696,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Ruppert, your question presented still only presents the question of whether this transaction was unlawful because the detention hadn't concluded. It doesn't raise the other question at all."
+                },
+                {
+                    "start": 2680.696,
+                    "stop": 2691.964,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is correct, Your Honor. It's just a very narrow decision by the Ohio supreme court. The detention was unlawful, and any consent he had given was invalid as a result of the unlawful detention. In fact--"
+                },
+                {
+                    "start": 2691.964,
+                    "stop": 2692.495,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The--"
+                },
+                {
+                    "start": 2692.495,
+                    "stop": 2694.158,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry, Justice Breyer."
+                },
+                {
+                    "start": 2694.158,
+                    "stop": 2709.328,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The trial judge looked at the tape and reached a conclusion in part on the basis of the tape. Is there anything that suggests whether or not the two appellate courts looked at the tape? I couldn't find anything in the opinion that said that they did."
+                },
+                {
+                    "start": 2709.328,
+                    "stop": 2721.866,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The appellate court, I don't think it's clear. It was... the tape was in the record. I do not specifically recall whether any specific comments that would indicate that they did look at the tape."
+                },
+                {
+                    "start": 2721.866,
+                    "stop": 2740.807,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that's so, I'm wondering if there's some deference due. The tapes are awfully good checks against serious police abuse, very good checks. Is there any sense in deferring more to those judges who use them than those who don't?"
+                },
+                {
+                    "start": 2740.807,
+                    "stop": 2805.421,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that may provide some added assistance in reviewing the opinion for those judges who do. However, in the trial court's decision, the trial court never approached the issue of whether this was an unlawful detention. That issue was not discussed by the trial judge. Justice... I think it was Justice Ginsburg that had asked earlier concerning the first syllabus in this case. Syllabus number 1 that appears in this case, neither the State nor the Government in its brief or in argument have contested syllabus number 1 which is before the Court, which clearly finds that there was an unlawful detention, and that any consent that was obtained from Mr. Robinette as a result of that unlawful detention cannot be upheld, since it is the product of that illegal detention."
+                },
+                {
+                    "start": 2805.421,
+                    "stop": 2848.33,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but the question is, why was the detention found to be illegal, and what the Government says is, there are only two alternatives, number 1 for the reasons set forth on the opinion, but both of those are on their face wrong under Federal law, or perhaps it was unlawful because of the reasons set forth in number 2 of the syllabus, and that's what we're debating about now, isn't it, whether the mere fact that the officer did not give notice that you were free to leave rendered it unlawful. Are you content to rest the debate on that, or do you think that we have to look somewhere else?"
+                },
+                {
+                    "start": 2848.33,
+                    "stop": 2873.016,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the only... I'm content with the issue as framed by the Justice. However, it is clear that, at least in my understanding of both Federal and Ohio law, that the syllabus, syllabus number 1 that directs itself to the unlawful detention, is in compliance with Federal law."
+                },
+                {
+                    "start": 2873.016,
+                    "stop": 2887.164,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You still think that syllabus 1 could mean that the detention was unlawful for a reason that is neither set forth in the opinion nor is set forth in syllabus number 2? We should read it that way?"
+                },
+                {
+                    "start": 2887.164,
+                    "stop": 2888.566,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. No, Your Honor, I do not."
+                },
+                {
+                    "start": 2888.566,
+                    "stop": 2889.186,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2889.186,
+                    "stop": 2897.213,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't mean to suggest that. The... syllabus number 1 clearly rests upon the facts, as the high Supreme Court set forth in its opinion."
+                },
+                {
+                    "start": 2897.213,
+                    "stop": 2912.797,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, not the facts. What principle of law do you think rendered the determination in syllabus number 1 that the detention was... had not ended? What principle of law was that based on?"
+                },
+                {
+                    "start": 2912.797,
+                    "stop": 2938.463,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It was based upon the Terry analysis that the initial intrusion that was justified in the first instance had been... that there were no additional facts that expanded the scope of the basis for the original detention, and therefore the officer was... had exceeded permissible search as a result of that."
+                },
+                {
+                    "start": 2938.463,
+                    "stop": 2944.186,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought that what we're talking about is the duration of the detention."
+                },
+                {
+                    "start": 2944.186,
+                    "stop": 3027.203,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think one of the facts the supreme court looked at was the time. That is, the time relationship between when the initial stop occurred and when the officer had completed his, and the subsequent events. The Court also looked to the question of whether there were any intervening circumstances that impacted upon the officer's conduct, and finally looked at the conduct of the officer in terms of whether what were his specific actions, and was it flagrant and purposeful, and basically the analysis seemed to parallel this Court's analysis in the Royer case in viewing the conduct that was involved, and the Ohio supreme court specifically addressed the fact that once the officer had determined that in his mind all of the circumstances relating to the original purpose of the stop were completed, then one could not justify the subsequent actions that occurred. It is basically respondent's position that what the Ohio supreme court attempted to do in reviewing the facts of this case was to provide some minimal protection that is available under the Fourth Amendment, and that's all they were trying to do. The court does not--"
+                },
+                {
+                    "start": 3027.203,
+                    "stop": 3032.947,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask... I want to be sure about some facts. When exactly did the officer give him back the driver's license?"
+                },
+                {
+                    "start": 3032.947,
+                    "stop": 3047.297,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--After he removed him from the car and placed him in front of the cruiser, the officer then went to his cruiser, turned on the video, returned back, and then as he began talk to him, he handed his license--"
+                },
+                {
+                    "start": 3047.297,
+                    "stop": 3048.869,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "After he had started questioning him?"
+                },
+                {
+                    "start": 3048.869,
+                    "stop": 3050.437,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--After he had started questioning--"
+                },
+                {
+                    "start": 3050.437,
+                    "stop": 3055.532,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the dissenters on the court will say that that's the moment when he gave him the driver's license, that's when the detention ended."
+                },
+                {
+                    "start": 3055.532,
+                    "stop": 3056.073,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 3056.073,
+                    "stop": 3064.22,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So ordering him out of the car was part of the detention, and the first few questions were part of the detention, or at least... I don't know, just the first question or two."
+                },
+                {
+                    "start": 3064.22,
+                    "stop": 3066.741,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right. That was the view of the dissent, Justice Stevens."
+                },
+                {
+                    "start": 3066.741,
+                    "stop": 3066.962,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3066.962,
+                    "stop": 3067.67,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And--"
+                },
+                {
+                    "start": 3067.67,
+                    "stop": 3070.054,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess that's the State's view here, too, isn't it?"
+                },
+                {
+                    "start": 3070.054,
+                    "stop": 3125.571,
+                    "speaker": {
+                        "name": "James D.  Ruppert",
+                        "ID": 32507,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Still... there still arises the issue of the officer's conduct behind that, and one of the things the Ohio supreme court was concerned about was the fact that while that is transpiring, that one follows the other. There is no interval. The officer didn't stop talking. He hands him his license, and he's talking about, we've had some traffic accidents, and... but let me... before you get going let me ask you one other question. And then the subsequent sequence of events occurred. It is respondent's position that under the Fourth Amendment the analysis that was entertained by the Ohio supreme court was an appropriate one. It certainly is consistent with the authority of this Court on... under Fourth Amendment cases, and we would urge affirmance of the supreme court's decision."
+                },
+                {
+                    "start": 3125.571,
+                    "stop": 3130.205,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Ruppert. Ms. Ingram, you have 1 minute remaining."
+                }
+            ],
+            "start": 3130.205,
+            "stop": 3162.7
+        }
+    ]
+}

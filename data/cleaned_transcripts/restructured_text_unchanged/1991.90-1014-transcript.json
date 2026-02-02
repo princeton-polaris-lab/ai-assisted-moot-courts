@@ -1,0 +1,3077 @@
+{
+    "title": "Lee v. Weisman",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.79,
+                    "stop": 32.627,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: At the 1989 graduation ceremony of the Nathan Bishop Middle School in Providence, Rhode Island, Rabbi Leslie Gutterman opened the exercise with an invocation... one characterized by the district court as an example of elegant simplicity, thoughtful content, and sincere citizenship."
+                },
+                {
+                    "start": 32.627,
+                    "stop": 34.764,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How old were these youngsters, Mr. Cooper?"
+                },
+                {
+                    "start": 34.764,
+                    "stop": 35.782,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I beg your pardon, Justice--"
+                },
+                {
+                    "start": 35.782,
+                    "stop": 37.638,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How old were these youngsters graduating?"
+                },
+                {
+                    "start": 37.638,
+                    "stop": 45.777,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, the graduates themselves, were graduating from middle school and into high school. So they were just completing their eighth grade."
+                },
+                {
+                    "start": 45.777,
+                    "stop": 49.165,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how old were they is my question. You haven't answered me."
+                },
+                {
+                    "start": 49.165,
+                    "stop": 51.681,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I think--"
+                },
+                {
+                    "start": 51.681,
+                    "stop": 52.897,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "About 13 or 14, aren't they?"
+                },
+                {
+                    "start": 52.897,
+                    "stop": 53.603,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor."
+                },
+                {
+                    "start": 53.603,
+                    "stop": 54.679,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are we getting so--"
+                },
+                {
+                    "start": 54.679,
+                    "stop": 59.991,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorry, I could not hear you."
+                },
+                {
+                    "start": 59.991,
+                    "stop": 62.065,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Never mind, go ahead."
+                },
+                {
+                    "start": 62.065,
+                    "stop": 93.991,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The district court and the court of appeals concluded that Rabbi Gutterman's invocation... and he gave a benediction which contained a similar reference to God... he opened the ceremony with the statement, God of the free, hope of the brave. The district court concluded that that reference to the deity constituted an endorsement of religion, and therefore violated the second prong of this Court's three-part test under the Lemon case."
+                },
+                {
+                    "start": 93.991,
+                    "stop": 100.518,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Cooper, the injunction sought here... this plaintiff is now out of the middle school and in high school."
+                },
+                {
+                    "start": 100.518,
+                    "stop": 101.146,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 101.146,
+                    "stop": 105.345,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what's sought to be enjoined is the invocation in high school, isn't that right?"
+                },
+                {
+                    "start": 105.345,
+                    "stop": 108.391,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, the injunction runs to the public schools in Providence--"
+                },
+                {
+                    "start": 108.391,
+                    "stop": 109.72,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To the public schools in general."
+                },
+                {
+                    "start": 109.72,
+                    "stop": 110.437,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--And it includes certain high schools, yes, Your Honor."
+                },
+                {
+                    "start": 110.437,
+                    "stop": 113.749,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the high school students, how old are they? They're about 18, I would guess."
+                },
+                {
+                    "start": 113.749,
+                    "stop": 182.423,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, the graduates generally are in the 18-year-old range, yes, Your Honor. The district court and the court of appeals on the concession of counsel for respondents concluded that if the invocation and benediction had been recast to omit reference to God that it would have been constitutionally unobjectionable. So the courts enjoined the Providence School Committee from encouraging or authorizing future graduation ceremonies to include references to God, or prayers including references to God. We submit that if the courts below were correct, that if the Establishment Clause forbids the governmental expression of religious sentiments in a traditional civic ceremony of this kind, then Rabbi Gutterman's elegantly simple reference to God pales as a constitutional threat, when compared with the opening ritual of this Court that we have just witnessed. We certainly believe that it cannot compare with opening congressional sessions, and State legislative sessions with prayer, as is practiced in Congress, and was upheld by this Court in Marsh against Chambers."
+                },
+                {
+                    "start": 182.423,
+                    "stop": 197.135,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't one of the reasons that the people who are listening to the prayer are capable of exercising different degrees of judgment, and hence different degrees of assent or nonassent by their being there. Isn't that another distinction?"
+                },
+                {
+                    "start": 197.135,
+                    "stop": 215.035,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor it is. In fact, we would concede that that is a very important part of the nature and setting of either a graduation ceremony or a classroom prayer, or prayer as expressed by this Court's--"
+                },
+                {
+                    "start": 215.035,
+                    "stop": 224.814,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If the same prayer were offered at the opening and closing of classes in the public schools, would you be making the same argument?"
+                },
+                {
+                    "start": 224.814,
+                    "stop": 226.733,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor, I would not."
+                },
+                {
+                    "start": 226.733,
+                    "stop": 232.2,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why not? Under your test it wouldn't be coercive. They wouldn't have to participate."
+                },
+                {
+                    "start": 232.2,
+                    "stop": 246.352,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, to the contrary, we think that we would offer the following analytical framework for determining whether or not governmental expression of religious beliefs is coercive. The first--"
+                },
+                {
+                    "start": 246.352,
+                    "stop": 247.257,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now the very same prayer?"
+                },
+                {
+                    "start": 247.257,
+                    "stop": 260.535,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The very same prayer, yes, Your Honor. The first question would have to be, is exposure to the Government's religious belief or religious expression voluntary? Is it truly voluntary, or is it forced upon the individual through some--"
+                },
+                {
+                    "start": 260.535,
+                    "stop": 262.766,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why is it voluntary here?"
+                },
+                {
+                    "start": 262.766,
+                    "stop": 279.15,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, it's, it's... it's voluntary here because the parties have stipulated to that fact. There's a stipulation. There was no factual dispute over whether it's voluntary. Now, in a different case, there may well be a graduation ceremony in which it was not voluntary, where--"
+                },
+                {
+                    "start": 279.15,
+                    "stop": 283.885,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Children are perfectly free to attend their commencement or not. Is that the theory?"
+                },
+                {
+                    "start": 283.885,
+                    "stop": 288.303,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, that is the case by stipulation in this case before you."
+                },
+                {
+                    "start": 288.303,
+                    "stop": 297.158,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Has there been a stipulation that there's no stigma to the student who absents him or herself from the graduation during the prayer?"
+                },
+                {
+                    "start": 297.158,
+                    "stop": 299.721,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, there is no such--"
+                },
+                {
+                    "start": 299.721,
+                    "stop": 339.878,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I find it very difficult to accept the proposition that it is not a substantial imposition on a young graduate to say you have your choice of... I want to characterize it in a neutral way... hearing this prayer, or absenting yourself from the graduation. In our culture, a graduation is a key event in the young person's life. The family comes, aunts, uncles, brothers, sisters. And I think it's a very, very substantial burden on the person to say that he or she cannot... can elect not to go."
+                },
+                {
+                    "start": 339.878,
+                    "stop": 346.795,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I think that one... I think that one can make out a very serious argument to just that effect. And it would not be--"
+                },
+                {
+                    "start": 346.795,
+                    "stop": 348.343,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe that line doesn't work, then."
+                },
+                {
+                    "start": 348.343,
+                    "stop": 349.138,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I beg your pardon?"
+                },
+                {
+                    "start": 349.138,
+                    "stop": 360.053,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe that line doesn't work, that it's only okay if you don't have to listen to it. I mean certainly counsel here, who listened to, you know, God save the United States and this Honorable Court have to be here."
+                },
+                {
+                    "start": 360.053,
+                    "stop": 360.681,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's true."
+                },
+                {
+                    "start": 360.681,
+                    "stop": 361.212,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right?"
+                },
+                {
+                    "start": 361.212,
+                    "stop": 361.836,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is true."
+                },
+                {
+                    "start": 361.836,
+                    "stop": 367.006,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't think we let them walk in after that is said in the Court. [Laughter]"
+                },
+                {
+                    "start": 367.006,
+                    "stop": 377.953,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, yes, if... if it is... if it is that the Government's religious expression is forced upon the individual, then you must assess the nature and the setting of that expression, and--"
+                },
+                {
+                    "start": 377.953,
+                    "stop": 380.187,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well counsel have to be here, but they don't have to agree to it, do they?"
+                },
+                {
+                    "start": 380.187,
+                    "stop": 392.026,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's... that is the point. And the circumstances in which the Court's opening prayer is expressed are in no way coercive. And in that regard--"
+                },
+                {
+                    "start": 392.026,
+                    "stop": 399.477,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if you take that line, I just don't see how you can draw the distinction, then, about the same prayer given in the classroom."
+                },
+                {
+                    "start": 399.477,
+                    "stop": 400.148,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor--"
+                },
+                {
+                    "start": 400.148,
+                    "stop": 403.552,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't have to listen, right? I mean that would be your theory."
+                },
+                {
+                    "start": 403.552,
+                    "stop": 409.238,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, to the contrary, Your Honor, I think the classroom setting is much distinguishable."
+                },
+                {
+                    "start": 409.238,
+                    "stop": 414.861,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Were... were the children at this commencement exercise all seated together?"
+                },
+                {
+                    "start": 414.861,
+                    "stop": 419.342,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, the record does not reflect that fact. And I do not know."
+                },
+                {
+                    "start": 419.342,
+                    "stop": 424.793,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you don't know. We don't know. And you don't know if they were all asked to stand and bow their heads?"
+                },
+                {
+                    "start": 424.793,
+                    "stop": 428.856,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Ah, there's... there's no indication that that was the case."
+                },
+                {
+                    "start": 428.856,
+                    "stop": 435.306,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, if the point is that they don't have to listen or don't have to participate, why can't you use a sectarian prayer?"
+                },
+                {
+                    "start": 435.306,
+                    "stop": 455.174,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I don't think that a sectarian prayer would, per se, be coercive. I think, however, that the more theologically specific an invocation is, or a prayer is, the more likely it is to be coupled with coercive elements."
+                },
+                {
+                    "start": 455.174,
+                    "stop": 464.467,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But simply making the prayer sectarian-- Why would a sectarian prayer be any more coercive than this prayer?"
+                },
+                {
+                    "start": 464.467,
+                    "stop": 466.826,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't believe that it would, necessarily, Your Honor."
+                },
+                {
+                    "start": 466.826,
+                    "stop": 471.572,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The imposition would require the same result if they, say they had Mass, if they prayed."
+                },
+                {
+                    "start": 471.572,
+                    "stop": 475.807,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, that, I think would be an extreme example... one that would--"
+                },
+                {
+                    "start": 475.807,
+                    "stop": 476.946,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or say Our Father 13 times."
+                },
+                {
+                    "start": 476.946,
+                    "stop": 492.859,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, again, that might well be the kind of extreme example that Justice Kennedy referenced in Allegheny County... exhortations of religiosity that amounts to proselytization. I think that may well cross the threshould of mere expression to coercion."
+                },
+                {
+                    "start": 492.859,
+                    "stop": 494.797,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, would one be any more coercive than the other?"
+                },
+                {
+                    "start": 494.797,
+                    "stop": 496.201,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I beg your pardon?"
+                },
+                {
+                    "start": 496.201,
+                    "stop": 500.795,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would one be any more coercive than the other, under your view of what coercion means?"
+                },
+                {
+                    "start": 500.795,
+                    "stop": 514.369,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that one can imagine and can hypothesize extreme examples... examples that would, indeed, cross the threshould from religious expression to coercion. I don't think that it is--"
+                },
+                {
+                    "start": 514.369,
+                    "stop": 521.053,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How could you coerce the audience? They don't have to listen. I don't understand how a statement from the podium could be coercive under your view."
+                },
+                {
+                    "start": 521.053,
+                    "stop": 535.625,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, the statement from the podium may be accompanied by various exhortations such as Justice Kennedy has referenced, to actually participate through visible means of assent."
+                },
+                {
+                    "start": 535.625,
+                    "stop": 539.185,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Nothing more than please stand, nothing more than please stand... which I assume happens in all graduations."
+                },
+                {
+                    "start": 539.185,
+                    "stop": 544.512,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That may well be true, and I don't think please stand would probably rise to the level."
+                },
+                {
+                    "start": 544.512,
+                    "stop": 552.101,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But then... but then a very sectarian series of prayers, if the student need not listen to them? Why is that any more coercive than this?"
+                },
+                {
+                    "start": 552.101,
+                    "stop": 570.923,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I am not making the argument... and I do not make the... the argument that merely adding sectarian references to the prayer is going to make it more coercive. I simply suggest that one should be alerted when that happens to the more likely prospect that the Government is in--"
+                },
+                {
+                    "start": 570.923,
+                    "stop": 571.625,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Government--"
+                },
+                {
+                    "start": 571.625,
+                    "stop": 572.311,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--in that case--"
+                },
+                {
+                    "start": 572.311,
+                    "stop": 573.282,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--is endorsing a particular position."
+                },
+                {
+                    "start": 573.282,
+                    "stop": 583.417,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Not necessarily endorsing, no. I don't think that... but rather that it is actually engaged in an effort to coerce, engaged in exhortation to religiosity."
+                },
+                {
+                    "start": 583.417,
+                    "stop": 586.9,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I just simply don't follow you, why one is more coercive than the other."
+                },
+                {
+                    "start": 586.9,
+                    "stop": 614.014,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't either, Mr. Cooper. And you're trying to say the only test is coercion. I don't... I just don't think that comports with our tradition. You cite Thanksgiving proclamations, you cite the God save the United States. I mean we don't say Jesus Christ save the United States and this Honorable Court. And I don't think that would be in accord with our religious freedom tradition... or, In Jesus Christ We Trust on the coins. We wouldn't put that in there, would we?"
+                },
+                {
+                    "start": 614.014,
+                    "stop": 615.355,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I don't think we--"
+                },
+                {
+                    "start": 615.355,
+                    "stop": 618.182,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it's no more coercive than saying God."
+                },
+                {
+                    "start": 618.182,
+                    "stop": 626.009,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think we would put that on the coins, but I think that is because, at this stage, that would not be politically possible, because--"
+                },
+                {
+                    "start": 626.009,
+                    "stop": 630.696,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that's the only... but if we could get the votes for it, we could do it under the Constitution? Is that what you think?"
+                },
+                {
+                    "start": 630.696,
+                    "stop": 652.28,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, in 1983 the Congress passed a joint resolution that declared the Year of the Bible. And in that resolution, the Congress said that the Bible is the word of God. The President issued that proclamation. That is a sectarian proclamation. I don't think that violates the Establishment Clause. And I don't think it does anymore than In God We Trust, our Nation's motto."
+                },
+                {
+                    "start": 652.28,
+                    "stop": 675.863,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would it do so if a State legislature were to adopt a particular religion as the State religion, just like they might pass a resolution saying the bolo tie is the State necktie? [Laughter] We'll pass the resolution that whatever that particular church is, is the State church... although it's not coercive. We're not going to enforce it."
+                },
+                {
+                    "start": 675.863,
+                    "stop": 677.813,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If it is purely coercive--"
+                },
+                {
+                    "start": 677.813,
+                    "stop": 680.204,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not coercive."
+                },
+                {
+                    "start": 680.204,
+                    "stop": 690.155,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If it is purely noncoercive, then I have a difficult time distinguishing that from the proclamation that I've just cited, the Year of the Bible."
+                },
+                {
+                    "start": 690.155,
+                    "stop": 691.825,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So in your view, that would be perfectly okay."
+                },
+                {
+                    "start": 691.825,
+                    "stop": 707.649,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I think that in light of the rule of law that we believe, the founding fathers established in the Establishment Clause, some finding of Government coercion of religious sentiment is necessary to make out a violation. So your hypothetical is not the--"
+                },
+                {
+                    "start": 707.649,
+                    "stop": 718.969,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that certainly hasn't been our case holdings over a substantial period of time. You would ask us to overturn a line of this Court's precedents to reach your view."
+                },
+                {
+                    "start": 718.969,
+                    "stop": 720.142,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We are quite frank--"
+                },
+                {
+                    "start": 720.142,
+                    "stop": 721.047,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 721.047,
+                    "stop": 729.357,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--in our request that you re-examine at least Lemon's applicability to the context of Government expression in symbology. But it is not--"
+                },
+                {
+                    "start": 729.357,
+                    "stop": 751.456,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But one can abandon Lemon without going as far as you're asserting, Mr. Cooper. Why not noncoercion plus nonsectarian? Don't you really think that accords a lot more with all of the exam... the historical examples that you give, with perhaps the exception of the Year of the Bible, which doesn't go back to Thomas Jefferson."
+                },
+                {
+                    "start": 751.456,
+                    "stop": 757.109,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, the creche is sectarian, the menorah is sectarian. And those are--"
+                },
+                {
+                    "start": 757.109,
+                    "stop": 780.086,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, yes-- --those have been upheld by this Court. --but we haven't confronted the case where the creche is allowed to be put there but the menorah not, where we say we're only going to allow the creche to be put there, and the State will not allow other religious symbols during other religious holidays to be put there. That's a quite different issue. You think that... do you think you give a tax exemption only to Christian churches, not to other churches, or only to Presbyterian churches?"
+                },
+                {
+                    "start": 780.086,
+                    "stop": 792.83,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Oh, no, by no means, Your Honor. But I do think that the Establishment Clause under this Court's uniform holdings protects the nonbeliever no more... no less than it does the believer, and to the extent--"
+                },
+                {
+                    "start": 792.83,
+                    "stop": 800.141,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I see. And you want to stick to those holdings, but not... but not to... ah, ah... the three-part test."
+                },
+                {
+                    "start": 800.141,
+                    "stop": 834.489,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think that those holdings depart from the rule of law ordained by the founding fathers. In other words, if it is this Court's mission to identify, in Justice Brennan's words, the line between the permissible and the impermissible, and to discern that that line accords with history and faithfully reflects the understanding of the founding fathers, I don't think you can depart from the conclusion that, indeed, the Establishment Clause was intended to protect nonbelievers."
+                },
+                {
+                    "start": 834.489,
+                    "stop": 850.963,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You think our historical tradition establishes just as clearly that the State cannot favor religion over irreligion, as it establishes that the State cannot favor one religious sect over another religious sect?"
+                },
+                {
+                    "start": 850.963,
+                    "stop": 852.09,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think that the--"
+                },
+                {
+                    "start": 852.09,
+                    "stop": 855.447,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't see any difference between them... in our constitutional tradition?"
+                },
+                {
+                    "start": 855.447,
+                    "stop": 868.02,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I do not see any difference with respect to coercion. I don't think that the founding fathers would have any more countenanced a tax to support all ministers, than a tax just to support Christian ministers."
+                },
+                {
+                    "start": 868.02,
+                    "stop": 880.043,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm talking apart from the coercion context. I'm talking about Thanksgiving proclamations, I'm talking about In God We Trust. You do not see anything in our constitutional additions that says you cannot be sectarian?"
+                },
+                {
+                    "start": 880.043,
+                    "stop": 945.628,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I certainly don't quarrel with the proposition that by and large our Government expression of religious values and sentiments has been nonsectarian. It has been nondenominational. And it has favored, and indeed endorsed religion. But I believe that if one searches the... searches the record of the development of the Establishment Clause itself, it's very difficult to say that the founding fathers, that the framers of the Establishment Clause meant to, ah, permit the establishment of religion, generally, but not the establishment of a particular religion. And so I think that the analysis, insofar as coercion is concerned, is the same whether you're talking about nonsectarian speech or sectarian speech, except to the extent, again, that the more theologically specific it is, the more likely it is to be coupled with elements of coercion."
+                },
+                {
+                    "start": 945.628,
+                    "stop": 962.494,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Cooper, it sounds very much-- --Of course it's not-- --as though your test would make the test under the Establishment Clause more or less the test used under the Free Exercise Clause, making the Establishment Clause pretty much a redundancy, wouldn't you say?"
+                },
+                {
+                    "start": 962.494,
+                    "stop": 978.255,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I do believe that the Establishment Clause and the Free Exercise clause were, ah, were framed by the founding fathers to accomplish religious freedom generally, both to prevent the Government from--"
+                },
+                {
+                    "start": 978.255,
+                    "stop": 985.169,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is the test the same under either clause for a particular challenge? You think it's essentially the same inquiry."
+                },
+                {
+                    "start": 985.169,
+                    "stop": 990.246,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I do believe that both require the finding of some coercive pressure on the individual--"
+                },
+                {
+                    "start": 990.246,
+                    "stop": 995.183,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, could you have coercion from an establishment standpoint but not a free exercise standpoint?"
+                },
+                {
+                    "start": 995.183,
+                    "stop": 997.039,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Could you, Your Honor?"
+                },
+                {
+                    "start": 997.039,
+                    "stop": 1013.174,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, in other words, if you find coercion in one, do you necessarily find coercion in the other? Do you have to have the same level of coercion to satisfy an equal protection... or an establishment challenge, as you do a free exercise challenge?"
+                },
+                {
+                    "start": 1013.174,
+                    "stop": 1067.183,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I cannot think of an instance where that might not be the case. But perhaps you have. I do think that, however, you can have coercion without having direct coercion, without actually mandating attendance, by holding out substantial inducements to attendance that would amount to undue influence. I believe that the graduation ceremony context may well be such an instance. So in that regard, if this case were coming before you in the absence of the stipulation that attendance was entirely voluntary, then there would have to be an inquiry into whether it was voluntary. And if the determination was that it was not voluntary, that attendance, that exposure to the Government's speech, was not purely voluntary, one must assess the nature and the setting of that speech to determine if it is coercive. I don't--"
+                },
+                {
+                    "start": 1067.183,
+                    "stop": 1076.679,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, if you said that the Establishment Clause requires both noncoercion and nonsectarianism, then it wouldn't have a content different from the free exercise clause, would it?"
+                },
+                {
+                    "start": 1076.679,
+                    "stop": 1099.482,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I believe that is an accurate statement. And certainly, if the rule that... the rule of law that you are suggesting is incorporated in the Establishment Clause, then this invocation in this benediction, anyway, before you, would have to be upheld, because it was clearly nondenominational. With the Court's permission, I'd like to reserve the balance of my time for--"
+                },
+                {
+                    "start": 1099.482,
+                    "stop": 1123.27,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Cooper, let me ask you a question. You say it was nondenominational. I read from the benediction: \"We must each strive to fulfill what you require of us all, to do justly, to love mercy, to walk humbly. \" That's lifted almost verbatim from the sixth verse of the eighth chapter of the prophet Micah, isn't it?"
+                },
+                {
+                    "start": 1123.27,
+                    "stop": 1128.986,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I... I believe that you're right, yes."
+                },
+                {
+                    "start": 1128.986,
+                    "stop": 1129.657,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You believe so?"
+                },
+                {
+                    "start": 1129.657,
+                    "stop": 1151.619,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I will not argue with that. But I do not think that transformed what was otherwise a very nondenominational invocation into something that was sectarian. But even if it did, again, I would want to reiterate, that would not, in and of itself, mean that the religious expression was coercive."
+                },
+                {
+                    "start": 1151.619,
+                    "stop": 1191.273,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When you say sectarian, you mean that the entire prayer has got to be lifted or taken verbatim from some traditional, sectarian liturgy or traditional expression of prayer? Or would it... would it be... let me give you the alternative... would it be sectarian if selected phrases had been taken, not only from the Bible, as Justice Blackmun suggested, but from recognized, written prayers of a given religion, and had just been en-sprinkled into this, and incorporated into this, but not... not verbatim? Would that qualify as sectarian?"
+                },
+                {
+                    "start": 1191.273,
+                    "stop": 1207.83,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, it might well qualify as sectarian. In other words, if... to use a prayer that is associated with just one sect, very clearly and distinguishably to the audience, it would be very difficult to maintain that that was not sectarian."
+                },
+                {
+                    "start": 1207.83,
+                    "stop": 1225.433,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how about using half a prayer or a third of a prayer? I mean would... is your using the word sectarian to draw this distinction, would it be sectarian if simply selected phrases had been taken out of a traditional liturgy and rearranged and otherwise incorporated into fresh material?"
+                },
+                {
+                    "start": 1225.433,
+                    "stop": 1245.142,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I don't see how anyone could compose a prayer that did not include phrases that had been used by different sects. And it would seem to me that if one, ah, composed a prayer using phrases from a number of different sects, they would have the very definition of a nonsectarian prayer."
+                },
+                {
+                    "start": 1245.142,
+                    "stop": 1246.611,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Cooper."
+                },
+                {
+                    "start": 1246.611,
+                    "stop": 1247.282,
+                    "speaker": {
+                        "name": "Charles J. Cooper",
+                        "ID": 18687,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 1247.282,
+                    "stop": 1248.954,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "General Starr, we'll hear now from you."
+                }
+            ],
+            "start": 10.79,
+            "stop": 1302.023
+        },
+        {
+            "turns": [
+                {
+                    "start": 1248.954,
+                    "stop": 1302.023,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: This Court has frequently looked to history and tradition in its interpretation of the Establishment Clause. Indeed, it was Justice Brennan who said that our interpretation in this area must be guided by history, and by the understanding of the founding fathers. Rabbi Gutterman's invocation and benediction are a far cry from practices that the founding fathers meant to stop by means of the Establishment Clause. To the contrary, the acknowledgement of God, the invocation of God's blessing, the expression of thanks of the Nation to God, are practices that are as old and enduring as the republic itself."
+                },
+                {
+                    "start": 1302.023,
+                    "stop": 1303.54,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's sectarian--"
+                },
+                {
+                    "start": 1303.54,
+                    "stop": 1304.757,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Of course not."
+                },
+                {
+                    "start": 1304.757,
+                    "stop": 1308.083,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--General Starr, to use the word God instead of Allah?"
+                },
+                {
+                    "start": 1308.083,
+                    "stop": 1367.905,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely not, not in our traditions. It could be, at one level, a generality yes, of course. Because you are asserting a theological belief that stands squarely in the Judeo-Christian tradition, yes. But not sectarian in the sense that this Court has been concerned about it. The concern has been manifested in two ways. Do the particular practices accord, and are they tied to the traditions and the history of the Nation? And from the earliest days of this Nation, beginning with Washington's own invocation, his own urging of the Nation to set aside time for prayer, a practice that continues to this day. The point has been that we believe ourselves, as a people, to be one Nation under God. But we nonetheless, while acknowledging that, in innumerable ways in our public life, respect freedom of conscience. That was the point in Wallace against Jaffree. It was that unifying--"
+                },
+                {
+                    "start": 1367.905,
+                    "stop": 1372.431,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're not urging that we reexamine Engel v. Vitale, are you, the Supreme Court case?"
+                },
+                {
+                    "start": 1372.431,
+                    "stop": 1388.299,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We are not, because of concerns about coercion that are, in fact, at the heart of religious liberty. It is a violation, a denial of religious liberty to coerce an individual with respect to an act of conscience. That was--"
+                },
+                {
+                    "start": 1388.299,
+                    "stop": 1411.602,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how... how is it... how does the analysis fit in the situation where the child is excused from participating in the classroom prayer? How would your test meet that, and how is that different from the graduation or commencement exercise, which all the children, obviously, want to attend as part of their school experience?"
+                },
+                {
+                    "start": 1411.602,
+                    "stop": 1449.182,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--They do, indeed. With respect to the classroom, we believe that even though the child is told, you do not have to participate in this, there is, nonetheless, a powerful subtle indirect coercive pressure on the child in the classroom... with all that that means... compulsory attendance laws, the school with its officials, its authority figures and the like. In our judgment, a commencement exercise, even on the school property is much more in the nature of a celebration. It is a ceremony. It is not part of the educational or instructional... I'm sorry--"
+                },
+                {
+                    "start": 1449.182,
+                    "stop": 1458.177,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would this particular prayer, if given at the opening of a classroom in school, in your judgment be constitutional or unconstitutional?"
+                },
+                {
+                    "start": 1458.177,
+                    "stop": 1460.553,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If it is being given, Justice Stevens--"
+                },
+                {
+                    "start": 1460.553,
+                    "stop": 1464.066,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the classroom and compelled by... by the teacher and--"
+                },
+                {
+                    "start": 1464.066,
+                    "stop": 1466.3,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If it's compelled by... oh, I think that's unconstitutional."
+                },
+                {
+                    "start": 1466.3,
+                    "stop": 1467.346,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--That would definitely not pass your test."
+                },
+                {
+                    "start": 1467.346,
+                    "stop": 1480.355,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, because I believe coercion is very much at work in the classroom setting. That is why, even though the Court has been debating now for many years the extent to which coercion is the sine qua non of the Establishment Clause--"
+                },
+                {
+                    "start": 1480.355,
+                    "stop": 1486.134,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the distinction between this case and that case is simply that the attendance at the graduation is voluntary, whereas attendance at class is not?"
+                },
+                {
+                    "start": 1486.134,
+                    "stop": 1503.251,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Justice Stevens. I tried to be clear in saying that I believe the graduation ceremony is a ceremonial event. It's not part of an instructional program in the schools. It is more like attending the inauguration of the President, or the mayor--"
+                },
+                {
+                    "start": 1503.251,
+                    "stop": 1505.986,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose attendance were required at the graduation ceremony?"
+                },
+                {
+                    "start": 1505.986,
+                    "stop": 1539.314,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think the case becomes more difficult. But I would still say, that as this Court's cases have said, that acknowledgments of God and the role of God in our life as a Nation is in fact a part of accommodation. But it seems to me the correct answer is to say, yes, you must be there. You cannot be required to participate in the prayer such as you must rise, and the like. But you can, in fact, exercise your freedom of conscience the way we do when we're asked to pledge allegiance... allegiance to the flag of the United States."
+                },
+                {
+                    "start": 1539.314,
+                    "stop": 1553.404,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose the whole class was asked to rise. Suppose that they walked down as a class together to the strains of Elgar, and they sit as a class, and they're all asked to rise. And I take it the option you're suggesting--"
+                },
+                {
+                    "start": 1553.404,
+                    "stop": 1554.371,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We looked--"
+                },
+                {
+                    "start": 1554.371,
+                    "stop": 1560.981,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and this is a mandatory attendance. I take it the option you're suggesting is that the students who object can remain seated?"
+                },
+                {
+                    "start": 1560.981,
+                    "stop": 1563.726,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, they may choose to stand. But--"
+                },
+                {
+                    "start": 1563.726,
+                    "stop": 1565.134,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Cross their fingers?"
+                },
+                {
+                    "start": 1565.134,
+                    "stop": 1584.796,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--the point is, we listened... Justice Kennedy, we hear a lot of things in a free society, with robust and uninhibited debate, with which we fervently disagree. And a prayer may be among them. And the point is, are we seeking to accommodate the traditions of the Nation, or are we trying to engage in what this Court has warned about time and again... proselytizing."
+                },
+                {
+                    "start": 1584.796,
+                    "stop": 1585.142,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Except the prayer is not--"
+                },
+                {
+                    "start": 1585.142,
+                    "stop": 1586.016,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I beg your pardon?"
+                },
+                {
+                    "start": 1586.016,
+                    "stop": 1597.714,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--General, a prayer is not one element in a dialogue between people. It's an element conceivably in a dialogue between the people and God. But I don't see how you can analogize that to free debate."
+                },
+                {
+                    "start": 1597.714,
+                    "stop": 1613.738,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, the point is that the act itself is an act of acknowledgement of our traditions as a people. When we look to history, when we heard what happened in this courtroom this morning, God's name was invoked in two instances."
+                },
+                {
+                    "start": 1613.738,
+                    "stop": 1615.754,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You had to be here and you had to stand up, didn't you?"
+                },
+                {
+                    "start": 1615.754,
+                    "stop": 1665.468,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I felt it necessary to stand up. But the point is that we do, Justice Souter, have to listen to things. We don't have to... and this is the distinction, and I hope I'm being clear... and that is, in Barnett, you shouldn't have to participate in the sense of giving assent. You may have to be present to hear things that you disagree with. But does that violate freedom of conscience? I don't think so, unless the Government is seeking to coerce the individual through proselytizing. The point on the sectarian point, it seems to me that it is quite clear that our traditions... and the law of this Court is quite clear... that the more sectarian... that sectarianism is, in fact, an inherently divisive force, and that is something that the Establishment Clause has long looked to guard against."
+                },
+                {
+                    "start": 1665.468,
+                    "stop": 1665.842,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "General, if--"
+                },
+                {
+                    "start": 1665.842,
+                    "stop": 1666.482,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Discrimination--"
+                },
+                {
+                    "start": 1666.482,
+                    "stop": 1667.652,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I'm sorry, I didn't mean to interrupt you."
+                },
+                {
+                    "start": 1667.652,
+                    "stop": 1682.537,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I was just going to say discrimination among sects... are saying we favor this particular sect. Here in Pawtucket we favor Judaism, or we favor the Roman Catholic Church, would be wrong. That is an Establishment Clause danger that Madison warned about. That's sectarianism."
+                },
+                {
+                    "start": 1682.537,
+                    "stop": 1734.077,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we accept the kind of the concept of tradition as a source of a criterion, don't we really have not an easy answer here, as I think you're suggesting, but a difficult one? Because we've got... we've really got two traditions that we're going to have to reconcile. One is a tradition of some religious expression on public occasions, and the other is a tradition which, I guess, is the school tradition, which does not have such a history, and which... at least so far as your brother is concerned... should be treated on the assumption that Engel is good law. So if Engel is going to be good law, then when you get to the point of tradition, we've got to choose which tradition it's going to be. Is it going to be the tradition of Engel, or is it going to be the tradition of noneducational public gatherings at which the deity is mentioned?"
+                },
+                {
+                    "start": 1734.077,
+                    "stop": 1755.115,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think that the Engel tradition is implicated outside the classroom. I urge the Court to think long and hard before it determines that a graduation prayer is more in the nature of a classroom event with the teacher in control of the classroom, and with a child in that setting having to get up and vote with her feet."
+                },
+                {
+                    "start": 1755.115,
+                    "stop": 1760.378,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't the analogy a lot closer there than it is to a presidential inauguration?"
+                },
+                {
+                    "start": 1760.378,
+                    "stop": 1774.39,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is certainly closer. But the point... may I, Mr. Chief Justice, respond... the points I would make very briefly are these. There are parents and loved ones present. This is, after all, as a legal matter... and I think the legal aspect of this should not be overlooked--"
+                },
+                {
+                    "start": 1774.39,
+                    "stop": 1776.371,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have you ever been to a graduation where the parents sit with the children?"
+                },
+                {
+                    "start": 1776.371,
+                    "stop": 1777.311,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I beg your pardon?"
+                },
+                {
+                    "start": 1777.311,
+                    "stop": 1780.355,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have you ever been to a graduation where the parents sit with the children?"
+                },
+                {
+                    "start": 1780.355,
+                    "stop": 1821.555,
+                    "speaker": {
+                        "name": "Kenneth W. Starr",
+                        "ID": 33983,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, the presence of the parents is not a talisman. It's the point that this is a ceremony, so the child knows that what the child is plugging into is a tradition of ceremonial celebrations. You are plugging into society by virtue of your being elevated from one passageway to another. You're not in a classroom setting. That is a clear distinction. The fact that the parents are present there, and who have been able to advise the child beforehand... you may hear things that you don't like and you don't agree with. You may hear a graduation speaker with whom you fervently disagree. But that's the nature of this society. That's part of a free society. I think that--"
+                },
+                {
+                    "start": 1821.555,
+                    "stop": 1825.881,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, General Starr. Ms. Blanding, we'll hear now from you."
+                }
+            ],
+            "start": 1248.954,
+            "stop": 1866.348
+        },
+        {
+            "turns": [
+                {
+                    "start": 1825.881,
+                    "stop": 1866.348,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: To convince the Court that this case represents a threat to all manner of ceremonial traditions in this country, the petitioners ignore an essential fact of this case. And that is that this case deals with school prayer at a public school function that is run by public school teachers and officials, and that's organized for the purpose of honoring public school students. None of the examples which the petitioners or the Government have suggested are comparable here occur in the public school setting. All of the examples--"
+                },
+                {
+                    "start": 1866.348,
+                    "stop": 1888.403,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what about the courtroom prayer that we've heard argued and referred to this morning... ah, if you want to call it a prayer... at least the opening of court, in which the reference is made to the deity, and where people are expected to be here and to stand up and listen to it. Now, how do you distinguish that?"
+                },
+                {
+                    "start": 1888.403,
+                    "stop": 1926.197,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, I would suggest that there are two distinctions there. One is that the courtroom opening does not occur in a public school. And this Court has always, in every case that it has addressed the interaction of religion and public school officials, accorded special concern to that kind of interaction. Secondly, the opening of court is a very... it's more like the Marsh kind of analysis. It's... first of all, it has a very longstanding history, and secondly, it's become a rote kind of thing. So that the perception of a reasonable observer, I would suggest, is different."
+                },
+                {
+                    "start": 1926.197,
+                    "stop": 1936.071,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't think invocations at graduations are a rote sort of thing? [Laughter] Does this mean that a public school cannot bring students in to a... to a session of this Court?"
+                },
+                {
+                    "start": 1936.071,
+                    "stop": 1940.785,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. But I do not think that public school--"
+                },
+                {
+                    "start": 1940.785,
+                    "stop": 1942.786,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They can or they can't? They can? Is that all right?"
+                },
+                {
+                    "start": 1942.786,
+                    "stop": 1947.08,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It does not mean... it does not mean that students cannot be brought in to watch the Court sessions--"
+                },
+                {
+                    "start": 1947.08,
+                    "stop": 1956.184,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As required class, I mean you have to come to class and we're going to put you on a bus and you come to hear the Court session, or you come to watch a Presidential inauguration. Can the public school do that?"
+                },
+                {
+                    "start": 1956.184,
+                    "stop": 1961.714,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that it is... yes, I think that the public school can bring their students--"
+                },
+                {
+                    "start": 1961.714,
+                    "stop": 1963.932,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right, even though the word God would be invoked?"
+                },
+                {
+                    "start": 1963.932,
+                    "stop": 1996.249,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Your Honor, but I do not think that prayers at graduation are by any means rote. Even within the city of Providence, half of the schools... half of the middle schools and high schools did not include prayer in their graduation ceremonies prior to the district court's injunction in this case. So the... the kind of tradition that you're talking about is completely different. There is not the history. There is not the automatic kind of roteness that... that I think... that this Court's opening suggests."
+                },
+                {
+                    "start": 1996.249,
+                    "stop": 2003.338,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It may not be the history for the past few decades, but I'll bet there was before... before there came to be any doubt about whether such invocations could be given or not."
+                },
+                {
+                    "start": 2003.338,
+                    "stop": 2021.108,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, I... I think that public school education, as this Court has already recognized, doesn't fall into the Marsh kind of analysis to begin with, because the facts relating to the history of public education are different than the facts relating to legislative prayer."
+                },
+                {
+                    "start": 2021.108,
+                    "stop": 2055.219,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose that at this graduation the rabbi was present and he stood up before the main commencement speaker and said, I've been asked by the principal, on behalf of all the clergy here in... in Providence to congratulate you and to welcome you. We've been praying for you, and we want you to know that all of our churches are open to you, and we hope that you take advantage of the rich resources that the religious community has here in Providence. A violation?"
+                },
+                {
+                    "start": 2055.219,
+                    "stop": 2057.408,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think so, Your Honor."
+                },
+                {
+                    "start": 2057.408,
+                    "stop": 2058.597,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They're not asked to stand."
+                },
+                {
+                    "start": 2058.597,
+                    "stop": 2087.473,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "What you still have in that case, is part of the facts of this case, which is that the public school officials have chosen a particular clergy to come in, knowing that that clergy is going to give a message promoting religion. It is still a public school function that is inherently part of the whole public school educational process. And the message that's conveyed to students is that Government is sponsoring a religious organization's religious message."
+                },
+                {
+                    "start": 2087.473,
+                    "stop": 2108.009,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But does that mean that the school can't invite a commencement speaker like Martin Luther King, who might make all kinds of references to the religious experience and the need to rely upon God's help in creating a just society? Now, is the school forbidden from doing that?"
+                },
+                {
+                    "start": 2108.009,
+                    "stop": 2109.635,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor, absolutely--"
+                },
+                {
+                    "start": 2109.635,
+                    "stop": 2119.083,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To knowingly invite someone to be the commencement speaker, knowing that it's very likely that the person invited will speak in that fashion."
+                },
+                {
+                    "start": 2119.083,
+                    "stop": 2144.434,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that it is not prohibited for the school to invite anyone that it chooses to be a commencement speaker. I think that the problem arises, for purposes of the Establishment Clause, when the school does so, either approving or with the tacit understanding that that speaker is going to deliver a prayer. For a commencement--"
+                },
+                {
+                    "start": 2144.434,
+                    "stop": 2155.618,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would your answers to these questions that Justice O'Connor and I are asking be the same if this Court or any of its justices were to use the dissent in Allegheny as the analytical framework--"
+                },
+                {
+                    "start": 2155.618,
+                    "stop": 2158.757,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Your Honor--"
+                },
+                {
+                    "start": 2158.757,
+                    "stop": 2164.084,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--i.e., are you answering based on the Lemon test or an... or an endorsement sort of a test?"
+                },
+                {
+                    "start": 2164.084,
+                    "stop": 2182.934,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think, Your Honor, under any test that the Court has adopted, that this practice violates the Establishment Clause. Under the endorsement test, I think that the clear message that is being given to students is public school teachers are picking a clergy. That clergy is delivering--"
+                },
+                {
+                    "start": 2182.934,
+                    "stop": 2184.809,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about under the coercion test of the Allegheny dissent?"
+                },
+                {
+                    "start": 2184.809,
+                    "stop": 2196.867,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Under the coercion test that the... that was set forth in the Allegheny dissent, I think yes, Your Honor there is definitely coercion here. There is no difference here than--"
+                },
+                {
+                    "start": 2196.867,
+                    "stop": 2197.647,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what is the coercion?"
+                },
+                {
+                    "start": 2197.647,
+                    "stop": 2220.685,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There is no difference, Your Honor, between voluntary prayer in the classroom, between the fact situations of Abington, the fact situations of Karen B., where children were not required to be present in the first place, they could opt into the prayer session; from the situation in Engel where children were allowed to be excused, and there is in this situation."
+                },
+                {
+                    "start": 2220.685,
+                    "stop": 2222.697,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there, then, a free exercise violation, in your view?"
+                },
+                {
+                    "start": 2222.697,
+                    "stop": 2225.524,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In this situation?"
+                },
+                {
+                    "start": 2225.524,
+                    "stop": 2225.93,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2225.93,
+                    "stop": 2230.024,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, I think there is both. I think that the child who was in--"
+                },
+                {
+                    "start": 2230.024,
+                    "stop": 2231.241,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you argue that there was a free exercise violation?"
+                },
+                {
+                    "start": 2231.241,
+                    "stop": 2231.771,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Pardon?"
+                },
+                {
+                    "start": 2231.771,
+                    "stop": 2234.209,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have you argued in your briefs that there's a free exercise violation?"
+                },
+                {
+                    "start": 2234.209,
+                    "stop": 2270.194,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor, but in this particular case, Deborah Weisman was 14 years old when this graduation occurred. She was leaving the eighth grade of a public school going into the ninth grade of another public school. To suggest that there is no continuity there, that somehow this one day of graduation she was different... she was not subject to peer pressure, she was not subject to the pressure that comes from looking at schoolteachers as authority figures and as persons to emulate... to suggest that there is some magical difference between this one day is totally unrealistic. This day was--"
+                },
+                {
+                    "start": 2270.194,
+                    "stop": 2309.977,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Blanding, suppose in addition to drawing the line between coercion and noncoercion, we drew a line between instruction and noninstruction? Don't you see a difference between a prayer at the opening of a class in a context where students are there to learn, to be instructed... doesn't that have a different impact than a prayer at a ceremony like a graduation, which is not an educational program, it's not an instructional exercise. Isn't there a difference between people voluntarily wishing to invoke the blessing of God, and people trying to instruct people about God? Isn't that a difference that makes some sense?"
+                },
+                {
+                    "start": 2309.977,
+                    "stop": 2325.548,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't think, Your Honor, that this is a situation where people are voluntarily seeking to invoke God. This is a ceremony that is directed to children, that is developed for the purpose of honoring children at a very important day of their lives. They do--"
+                },
+                {
+                    "start": 2325.548,
+                    "stop": 2346.85,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you... we have invocations like that at all sorts of events, not just high school graduations. I mean, we do it at the opening of Court, we do it at the opening of Congress. It's people in a country which overwhelmingly believes in God wanting to invoke God's blessing, without trying to instruct others about that. Why is it suddenly different when it happens at a high school graduation or a middle school graduation?"
+                },
+                {
+                    "start": 2346.85,
+                    "stop": 2369.889,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think it is different, Your Honor, for the same reasons that this Court has always accorded a different level of scrutiny to public school situations. We do, in fact, have here a situation where the children all walked into the graduation together. They were not seated with their parents. They were seated together. They were asked to stand to say the Pledge of Allegiance. And they remained standing for purposes of listening to the invocation."
+                },
+                {
+                    "start": 2369.889,
+                    "stop": 2371.418,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is this apparent from the record?"
+                },
+                {
+                    "start": 2371.418,
+                    "stop": 2378.089,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is not, Your Honor. This record was submitted on an agreed statement of facts. And the city, below--"
+                },
+                {
+                    "start": 2378.089,
+                    "stop": 2380.807,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that contained in the agreed statement of facts?"
+                },
+                {
+                    "start": 2380.807,
+                    "stop": 2394.643,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It is not, Your Honor. The city never argued a coercion argument, either before the United States Court of Appeals or before the district court. So there was never a reason to raise the coercion... the facts related to coercion at those levels."
+                },
+                {
+                    "start": 2394.643,
+                    "stop": 2402.064,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I... that may be a reason to object to a particular argument made here. But I think you probably should confine yourself to the record when you're talking about facts."
+                },
+                {
+                    "start": 2402.064,
+                    "stop": 2402.75,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2402.75,
+                    "stop": 2416.573,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the record tell us how often prayers such as this have been said in graduation ceremonies during the history of the country?"
+                },
+                {
+                    "start": 2416.573,
+                    "stop": 2418.695,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. The record--"
+                },
+                {
+                    "start": 2418.695,
+                    "stop": 2420.118,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It just tells us about this particular graduation?"
+                },
+                {
+                    "start": 2420.118,
+                    "stop": 2439.218,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The record goes beyond this particular graduation and deals with all of the middle schools and high schools in the City of Providence. And the record states that out of 11 middle schools and high schools, in the 5 years preceding this graduation, six of those schools routinely included--"
+                },
+                {
+                    "start": 2439.218,
+                    "stop": 2444.264,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand that. Does it tell us anything about the extent to which this practice has been followed in any other school in the United States--"
+                },
+                {
+                    "start": 2444.264,
+                    "stop": 2444.857,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It does not, Your Honor."
+                },
+                {
+                    "start": 2444.857,
+                    "stop": 2445.797,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--of any kind?"
+                },
+                {
+                    "start": 2445.797,
+                    "stop": 2446.562,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It does not, Your Honor."
+                },
+                {
+                    "start": 2446.562,
+                    "stop": 2449.279,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So we don't really know if there have ever been such things before, do we?"
+                },
+                {
+                    "start": 2449.279,
+                    "stop": 2569.571,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's true, Your Honor. From the record you don't know that. Not only does the city's argument ignore the essential nature of this case, but the city urges an interpretation of the Establishment Clause which would set the stage for radical changes in the relationship between Government officials and religious institutions. The coercion test that the city suggests has been repeatedly rejected by this Court because in its brief, the city suggests that the Establishment Clause proscribes only the use of Government force or funds to aid or inhibit religious practices. Indeed, in its brief, the city openly suggests that Government officials may participate in religious debate, and that Government speech cannot amount to coercion of religious... religious liberty to the extent that the Establishment Clause is implicated. If this Court were to adopt the standard that the city proposes, then graduation ceremonies in public schools could open with a Roman Catholic mass. And as long as the graduation ceremony was voluntary in the sense that children were not obligated to attend, then that would... that practice would pass Establishment Clause muster. In fact, if the city's argument were adopted, there is nothing to prevent a Government official from standing up and saying that this is a Christian country and that non-Christians are doomed to everlasting damnation. If speech alone, absent compelled attendance, does not warrant the protection of the Establishment Clause, then decades worth of cases which this Court has decided, dealing with prayer in the public school setting, must fall; Abington v. Schempp, Engel v. Vitale--"
+                },
+                {
+                    "start": 2569.571,
+                    "stop": 2581.663,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, of course, on that line of reasoning, I assume that the inaugural prayer and the prayer in Marsh v. Alabama are also inappropriate. And you're just asking us to reconsider those decisions as well?"
+                },
+                {
+                    "start": 2581.663,
+                    "stop": 2585.582,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I am not asking the Court to reconsider those decisions, Your Honor--"
+                },
+                {
+                    "start": 2585.582,
+                    "stop": 2597.141,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the logic of your argument applies equally to those. And it seems if those are on the books, that you should be required to notice, and to make a distinction between a Catholic mass and a sectarian prayer."
+                },
+                {
+                    "start": 2597.141,
+                    "stop": 2627.174,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I would suggest, Your Honor, that taking Marsh, as an example, that the facts in Marsh are radically different from the facts of a graduation ceremony in a public school. The legislators, first of all, were participants in the decision whether or not to include prayer. The legislative sessions are much less controlled than are graduation ceremonies. Legislators can walk in and out as they please... and they do walk in and out as they please. Legislators are adults."
+                },
+                {
+                    "start": 2627.174,
+                    "stop": 2634.155,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there's less coercion. I mean, all of these differences you're pointing out go precisely to the coercion point, don't they?"
+                },
+                {
+                    "start": 2634.155,
+                    "stop": 2635.593,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor--"
+                },
+                {
+                    "start": 2635.593,
+                    "stop": 2667.846,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if that's the... I don't understand your basis for saying schools are an entirely different area, unless somehow it's a coercion basis, or an instruction basis, is it? Because otherwise, Marsh and the invocation at the beginning of Court, and in Congress... you're talking a few decades of cases, as you mention. We're talking a few hundred years of traditional practices in this country, which you somehow have to reconcile with the notion that you can't have an invocation at a high school graduation."
+                },
+                {
+                    "start": 2667.846,
+                    "stop": 2716.325,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I am not suggesting, Your Honor, that the Court adopt a different test than it has used over the last several decades. The Court has routinely addressed difficult questions... some dealing with old traditions, some dealing with newer situations... and has reconciled those traditions under the Lemon test. But I do suggest to the Court that even if the Court were to examine this particular set of facts under a coercion argument, that in fact what the school department did here was coercive towards the graduating children, just as the voluntary prayer in the classroom is coercive. The mere fact that this is removed from a classroom and takes place at a public school function instead of in the school building on a class day doesn't change the essential nature of the case."
+                },
+                {
+                    "start": 2716.325,
+                    "stop": 2741.629,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is that a product of the manner in which the graduation is held, and the freedom to come and go... or lack of freedom to come and go... or is it because of the sophistication of the children or the adolescents, so that the effect of them is going to be different from the effect on legislators who may be standing here, or anyone in this courtroom who may be standing here and hearing God save the United States?"
+                },
+                {
+                    "start": 2741.629,
+                    "stop": 2792.716,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is a combination, Your Honor, of all of those factors. This, in a sense, all of the Establishment Clause cases that this Court deals with are fact-specific. They depend... as an example, in County of Allegheny... they depend on the specific facts that are before the Court. And this case, yes, you have schoolchildren who are more impressionable than adults, you have schoolchildren who are part of the public school and public education arena and are subject to pressure from teachers, and who use teachers as role models. You have, in addition to that, you have the fact that a school's generally... and graduation ceremonies in particular... are much more controlled. The students have no authority to control what happens at a graduation ceremony."
+                },
+                {
+                    "start": 2792.716,
+                    "stop": 2823.031,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about graduation from State universities, under your analysis. If we have prayer of this sort, is the result going to be different, under your view? I mean, graduating seniors today engage in demonstrations; they certainly have not indicated undue enthusiasm for authority figures in the last few decades. [Laughter] Are you going to say there isn't as much danger, and hence you're not going to come up with an establishment conclusion?"
+                },
+                {
+                    "start": 2823.031,
+                    "stop": 2845.726,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think, Your Honor, that may be a closer case. But I still think that if you analyze that case under the traditional tests that this Court has used, and under the endorsement test, that the message that's being conveyed to the audience is still a message that Government officials are supporting and endorsing and favoring religious expression."
+                },
+                {
+                    "start": 2845.726,
+                    "stop": 2849.114,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then it is an endorsement test, not a-coercion test that you're resting on."
+                },
+                {
+                    "start": 2849.114,
+                    "stop": 2914.257,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor... I am resting on the traditional Court... the traditional test that this Court has always applied in school cases, in combination with the endorsement test. But I am also saying that it is coercive here. So that even if the Court were to adopt the coercion test... not the coercion test which the city has suggested, because in that case, decades worth of cases would fall, and there are many, many situations that this Court has held violate the establishment Clause that would not under the city's test, even sectarian prayer, as the Court raised earlier. But under the... the... under the coercion test that acknowledges that coercion can be very subtle, that it is not simply limited to is a citizen forced to pay money to support a church, or is a citizen forced to stand there and participate in a religious exercise. Under an analysis of coercion that takes into account the subtle kinds of pressures that can be exerted on people... and particularly on children... then yes, I think that the practice here was coercive."
+                },
+                {
+                    "start": 2914.257,
+                    "stop": 2924.629,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "On college seniors... I mean, that was the last hypothetical. On college seniors, do you think they are being coerced, more than the people in this courtroom when there is an apparent endorsement of religion?"
+                },
+                {
+                    "start": 2924.629,
+                    "stop": 2936.327,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that a coercion test applied to college seniors would be a closer case, and would need to... would need to depend more on the facts. But I think under the endorsement--"
+                },
+                {
+                    "start": 2936.327,
+                    "stop": 2949.945,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The problem is, if you don't use a coercion test, if you use an endorsement test, which you seem to be falling back on when you're presented with the college example, then there's no basis for distinguishing schools from courtrooms, from... from halls of Congress."
+                },
+                {
+                    "start": 2949.945,
+                    "stop": 2971.013,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There is, Your Honor, because part of the endorsement test depends on the perception of the audience. And what a reasonable person in the audience would perceive is the message that is being promoted. And in this case, the audience is primarily schoolchildren. And they are... the audience--"
+                },
+                {
+                    "start": 2971.013,
+                    "stop": 2972.078,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "College, colleges, we're talking about."
+                },
+                {
+                    "start": 2972.078,
+                    "stop": 2975.182,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry, Your Honor, in a college graduation."
+                },
+                {
+                    "start": 2975.182,
+                    "stop": 2988.429,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think you have to say that that's good, unless you're using a coercion test rather than an endorsement test."
+                },
+                {
+                    "start": 2988.429,
+                    "stop": 3017.947,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the message to college seniors, Your Honor, would still remain under the endorsement test, that the school officials that are... that are putting on and organizing the graduation, if they are choosing a clergyman, as happened in this case, if they are suggesting to the clergyman... as happened in this case also... the school officials told the clergyman what kind of prayer he could say. I don't know how you could avoid saying that that is endorsement."
+                },
+                {
+                    "start": 3017.947,
+                    "stop": 3022.069,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about he coercion test... what about the coercion test? You said endorsement. I assume that you meant endorsement."
+                },
+                {
+                    "start": 3022.069,
+                    "stop": 3022.834,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3022.834,
+                    "stop": 3024.974,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is your answer the same with reference to coercion?"
+                },
+                {
+                    "start": 3024.974,
+                    "stop": 3039.405,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that the question, with regard to college seniors, Your Honor, is closer on the coercion test. And I'm not prepared... without... I think that, again, the Court would have to look at the specific facts of that case that was before them."
+                },
+                {
+                    "start": 3039.405,
+                    "stop": 3052.992,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, counsel, don't you think that... you ought to urge the Court not to depart from the established precedent of Lemon?"
+                },
+                {
+                    "start": 3052.992,
+                    "stop": 3054.852,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, I am urging the Court--"
+                },
+                {
+                    "start": 3054.852,
+                    "stop": 3058.911,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You sound like you really don't care whether we depart from it or not."
+                },
+                {
+                    "start": 3058.911,
+                    "stop": 3061.848,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, that's not true, Your Honor. I--"
+                },
+                {
+                    "start": 3061.848,
+                    "stop": 3070.502,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think making the decision turn on coercion would be, in effect, overruling the line of cases?"
+                },
+                {
+                    "start": 3070.502,
+                    "stop": 3129.586,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, I do, Your Honor. I think that the Lemon test has, in essence, stood the test of time. Although it is sometimes difficult to apply, I don't think the coercion test is any easier to apply. The Court, in the area of criminal law, for example, has always wrestled with the issue of when a confession is coerced and when it is voluntary. And even in that scenario, the age of the people involved is important. I think that the National School Board Association makes the point better than I could make it in its amicus brief, which is that if this Court... that school officials and communities and parents have relied on this Court's analysis under the Lemon test for decades. And if this Court were to not rely on the Lemon Court... test in this case, that what it would be doing is making all of the religion in the school cases for the last several decades suspect."
+                },
+                {
+                    "start": 3129.586,
+                    "stop": 3136.414,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you agree that this is a... under the Lemon test, this case turns on effects?"
+                },
+                {
+                    "start": 3136.414,
+                    "stop": 3148.877,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think, Your Honor, that both under the purpose prong of the Lemon test and under the effect prong of the Lemon test, that this practice must fall under the Establishment Clause."
+                },
+                {
+                    "start": 3148.877,
+                    "stop": 3150.94,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the court below turned it on effects."
+                },
+                {
+                    "start": 3150.94,
+                    "stop": 3152.5,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Pardon, Your Honor?"
+                },
+                {
+                    "start": 3152.5,
+                    "stop": 3154.142,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The court below turned it on effects."
+                },
+                {
+                    "start": 3154.142,
+                    "stop": 3158.045,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, the court below addressed the effects argument, and did not address the purpose argument."
+                },
+                {
+                    "start": 3158.045,
+                    "stop": 3169.182,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, tell me how do you think that the primary effect of what went on at this ceremony is to advance religion? And there is the word primary in the Lemon, isn't there?"
+                },
+                {
+                    "start": 3169.182,
+                    "stop": 3170.118,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 3170.118,
+                    "stop": 3176.443,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there must be... there might be an effect advancing religion that isn't a primary effect."
+                },
+                {
+                    "start": 3176.443,
+                    "stop": 3188.016,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think, Your Honor, that if the Court looks at the effect test in concert with the overtones of endorsement, the message that the school committee--"
+                },
+                {
+                    "start": 3188.016,
+                    "stop": 3189.736,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Overtones of endorsement?"
+                },
+                {
+                    "start": 3189.736,
+                    "stop": 3200.074,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Your Honor... I think if the Court looks at the effect test as it has been interpreted in recent cases, in concert with the endorsement test, and understanding--"
+                },
+                {
+                    "start": 3200.074,
+                    "stop": 3202.963,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where did the endorsement test come from? It isn't part of Lemon, is it?"
+                },
+                {
+                    "start": 3202.963,
+                    "stop": 3204.355,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor--"
+                },
+                {
+                    "start": 3204.355,
+                    "stop": 3206.976,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it or not?"
+                },
+                {
+                    "start": 3206.976,
+                    "stop": 3207.525,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The way that I am--"
+                },
+                {
+                    "start": 3207.525,
+                    "stop": 3208.086,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it or not?"
+                },
+                {
+                    "start": 3208.086,
+                    "stop": 3245.744,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I understand... the way I understand it, Your Honor, it is that the Court views the endorsement test as part of the effects prong of the Lemon test. And I think that the message that is conveyed, the effect of having a school prayer... a prayer delivered at a public school function, that the effect and the message that's conveyed to the primary audience... which is the schoolchildren... is that public school officials are not only endorsing religion, they're endorsing a particular religious message that is being delivered by this particular clergy whom they have chosen."
+                },
+                {
+                    "start": 3245.744,
+                    "stop": 3270.718,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Blanding, do you subscribe to that version of the Lemon test which says that the primary purpose and effect must not be to advance religion, or to the other version that says that a primary purpose or effect must not be to advance... because we've used both, depending on whether we want to uphold or not to uphold. [Laughter] Which one of the two do you like?"
+                },
+                {
+                    "start": 3270.718,
+                    "stop": 3393.295,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, under either analysis, I think that the primary purpose and effect in this case, of the school department's practice, is to advance religion. There is nothing in the agreed statement of facts that was submitted to the court below that suggests the Government's purpose in including prayer in part of the school's commencement exercises, and not including them in other of the school's commencement exercises. The Government makes the argument that by including prayer they are merely acknowledging religious tradition. However, this Court has always recognized the fact that prayer is the... is inherently religious. It's not simply a passive acknowledgement, as the display of a nativity scene, or the display or a menorah may, in some circumstances, be passive acknowledgement. It is active. It is worship. To say that any vocal prayer is merely an acknowledgement of religious traditions is to diminish the value of that prayer. Furthermore, I don't think that it is possible to devise a nonsectarian prayer that covers all people and all religious beliefs. This country has become so much more diverse than it was when it was founded in terms of the religious beliefs of its citizens that it is virtually impossible to devise a prayer which encompasses the beliefs of all of those citizens. With regard to the effect of including a prayer, as I stated earlier, the message that must be given by public school teachers who have chosen a particular clergyperson and have brought him into a public school function to deliver a prayer is that the public school is... at the very least... saying that prayer is a preferred practice. And by doing so, they are giving a message to nonadherents and nonbelievers that their religious beliefs are not as important, that they are outsiders, and that the public school system does not belong to them in the same way that it belongs to believers."
+                },
+                {
+                    "start": 3393.295,
+                    "stop": 3397.26,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why doesn't a Thanksgiving proclamation do that? And why is that any worse?"
+                },
+                {
+                    "start": 3397.26,
+                    "stop": 3422.123,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "A Thanksgiving... I think under its facts, Your Honor, a Thanksgiving proclamation is much different than a prayer which is delivered to a specific audience of children in a school setting which is as controlled as this one. The Thanksgiving proclamation is not really delivered to any specific audience. In fact, I'm not sure that there is anyone that would have standing to bring such a case before the Court."
+                },
+                {
+                    "start": 3422.123,
+                    "stop": 3436.665,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if you're talking about making people... you know, if that's the test, whether people are made to feel like outsiders, if you're going to use an endorsement test, is there anything that's more of an endorsement than a Thanksgiving proclamation... which virtually every President has issued?"
+                },
+                {
+                    "start": 3436.665,
+                    "stop": 3453.331,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, I think that, again, there are some Marsh elements, or in some sense the Thanksgiving proclamation is more like Marsh and has some more of the elements of Marsh than this particular case does."
+                },
+                {
+                    "start": 3453.331,
+                    "stop": 3461.204,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see what a controlled classroom environment has to do with endorsement. I can see what it has to do with coercion, not with endorsement."
+                },
+                {
+                    "start": 3461.204,
+                    "stop": 3475.399,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that in terms of the message that is being given to the audience, the primary audience, the whole set of facts around a graduation ceremony are relevant to the endorsement inquiry."
+                },
+                {
+                    "start": 3475.399,
+                    "stop": 3486.1,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't that also a substantial part of the answer to the... to Justice Scalia's question about the Thanksgiving proclamation? Effect depends on--"
+                },
+                {
+                    "start": 3486.1,
+                    "stop": 3487.176,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The audience--"
+                },
+                {
+                    "start": 3487.176,
+                    "stop": 3491.425,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--who's receiving it, and the audience is different. Don't you rely, at least in part, on that?"
+                },
+                {
+                    "start": 3491.425,
+                    "stop": 3506.529,
+                    "speaker": {
+                        "name": "Sandra A. Blanding",
+                        "ID": 41055,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I do, Your Honor. Again, I think this case is essentially a school prayer case. And it must be looked at in that context, as this Court has always looked at cases dealing with the interaction of religion in the schools in a special context. Thank you."
+                },
+                {
+                    "start": 3506.529,
+                    "stop": 3527.889,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Blanding. The case is submitted."
+                }
+            ],
+            "start": 1825.881
+        }
+    ]
+}

@@ -1,0 +1,2720 @@
+{
+    "title": "Brown v. Sanders",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 15.331,
+                    "stop": 98.506,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you. Mr. Chief Justice, and may it please the Court-- Whether a capital sentencing statute is categorized as \"weighing\" or \"nonweighing\" determines how courts assess the impact of an invalid death eligibility factor on a jury's sentence selection. To decide whether a statute is \"weighing\" or \"nonweighing\", we look to the function, if any, of an eligibility factor in the statute's sentence selection process. In a \"weighing\" scheme, as this Court first stated in Zant, a jury is specifically instructed to weigh the statutory eligibility factors, along with any mitigation, to choose the sentence. In a \"nonweighing\" scheme, the eligibility factors have no role above the role of \"all other sentencing evidence\". California is a \"nonweighing\" State, for two primary reasons. First, the only reference whatsoever to 11 open ended sentencing factors is in its sentencing factor (a), but that reference has no significance, because, under the language of the statute and the holdings of the California Supreme Court, factor (a) means the jury is to consider, if it's relevant, the facts and circumstances of the offenses, including the facts and circumstances that underlie the eligibility factors."
+                },
+                {
+                    "start": 98.506,
+                    "stop": 132.966,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't the difficulty with that argument that that, at least, is not the way the jury was instructed in this case? As I understand it, the... and I don't have it in front of me, but I looked when I was going through the briefs... the jury was instructed to consider the special circumstance, or stances, as such. They were not instructed that, \"You will simply consider the facts that underlay whatever conclusion you drew at the... at the earliest stage about special circumstances. \" They are instructed to consider special circumstances."
+                },
+                {
+                    "start": 132.966,
+                    "stop": 140.234,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They're instructed in the language of the statute. And in that sentencing factor (a), there is a reference to those special circumstances."
+                },
+                {
+                    "start": 140.234,
+                    "stop": 141.53,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As such. I mean--"
+                },
+                {
+                    "start": 141.53,
+                    "stop": 141.905,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So that--"
+                },
+                {
+                    "start": 141.905,
+                    "stop": 143.39,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--it calls them special circumstances, right?"
+                },
+                {
+                    "start": 143.39,
+                    "stop": 144.328,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Correct."
+                },
+                {
+                    "start": 144.328,
+                    "stop": 144.703,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 144.703,
+                    "stop": 160.769,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But it's not reasonably likely that the jury would have understood that to mean that they should accord any special weight to the title of special circumstances, apart from the overall umbrella of the--"
+                },
+                {
+                    "start": 160.769,
+                    "stop": 161.707,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 161.707,
+                    "stop": 162.395,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--special circumstances that--"
+                },
+                {
+                    "start": 162.395,
+                    "stop": 187.072,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--well, that may be an argument for the way we have looked at special circumstances, is as something... as factors that do carry a special weight, but I don't see any reason to differentiate the instruction to consider special circumstances here from the instructions in law to consider eligibility factors in other States, which we have called \"weighing\" States."
+                },
+                {
+                    "start": 187.072,
+                    "stop": 206.169,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, in \"weighing\" States, the eligibility factors form the primary aggravation for the jury to consider at sentencing. In California, the reference to the eligibility factors is that one subpart of one of otherwise completely distinguished from eligibility factors--"
+                },
+                {
+                    "start": 206.169,
+                    "stop": 206.497,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I--"
+                },
+                {
+                    "start": 206.497,
+                    "stop": 208.138,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--sentencing factors--"
+                },
+                {
+                    "start": 208.138,
+                    "stop": 243.239,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I know what you're saying, because, in California, you've got a long list of other things, and you're entirely right. But, as I understand it, in the States that we have classified as \"weighing\" States, the juries were not... were not strictly limited, on the aggravating side, to consider only the special circumstances or the aggravating factors, as they have been previously defined; they could consider other things. And that's the case here. So, I don't see how we can draw a categorical distinction between California's situation and that of States we've called \"weighing\" States."
+                },
+                {
+                    "start": 243.239,
+                    "stop": 256.93,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There's two differences between that. In any of those \"weighing\" States... well, in Mississippi and Florida, for example... the eligibility or aggravating factors are... are the sole aggravation at sentencing, and--"
+                },
+                {
+                    "start": 256.93,
+                    "stop": 257.915,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought in--"
+                },
+                {
+                    "start": 257.915,
+                    "stop": 258.384,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that through--"
+                },
+                {
+                    "start": 258.384,
+                    "stop": 261.384,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I thought in Mississippi they could take into consideration other facts."
+                },
+                {
+                    "start": 261.384,
+                    "stop": 299.002,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, they couldn't at the time of Clemons and Stringer. Apparently, in the interim, in the 1990s, as is discussed in our brief, they... Mississippi changed the interpretation of its statute, so it now has, sort of, an overarching circumstances of the crime aggravation consideration in its sentencing. But that was not the time as of Clemons. And, in the footnote in Clemons, which... this Court referred to the statute of Mississippi... it was clear that, at least at the time of Clemons, the eligibility factors were the sole aggravation. But the--"
+                },
+                {
+                    "start": 299.002,
+                    "stop": 304.628,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, you would say Clemons should come out the other way, given the current state of the Mississippi statute?"
+                },
+                {
+                    "start": 304.628,
+                    "stop": 328.664,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It depends how else the aggravating factors are, or what kind of a role the aggravating factors play now under the Mississippi statute. If the role is diminimus, then it's probably not a \"weighing\" State. But the \"weighing\" States... in the \"weighing\" States, the eligibility factors are the lynchpin of the sentencing decision."
+                },
+                {
+                    "start": 328.664,
+                    "stop": 381.894,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I suppose the reason behind this distinction... and it's, in a sense, artificial, because we made it up... I suppose the reason is that, in the \"weighing\" State, the concern is that if there is an ineligible... or an invalid factor in the eligibility determination, it carries over with the degree of force and weight... it's almost... it's a presumption that the jury is liable to treat it... or, at least the jury is liable to treat it as such. And I see that same aspect to this case, when the instructions refers... you indicated in your colloquy with Justice Souter that the instructions specifically say \"any special... any special circumstance which has been found. \""
+                },
+                {
+                    "start": 381.894,
+                    "stop": 382.926,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's... that is a--"
+                },
+                {
+                    "start": 382.926,
+                    "stop": 384.254,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Am I right that the special--"
+                },
+                {
+                    "start": 384.254,
+                    "stop": 427.67,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's what it says. It's a... it's a phrase, just as it's in the California statute, that directs the jury, as a sentencing factor, to consider the facts and circumstances of the crime along with any special circumstances found to be true. And this Court's made it clear, in Stringer and in other cases, that how the State court sees its statutory language ought to be dispositive. And California has repeatedly held... and we submit it's not reasonably likely a jury would interpret it any other way... that that means that the jury is to consider the facts and circumstances of the case, all of those facts and circumstances, including those that underlie the special circumstances. That--"
+                },
+                {
+                    "start": 427.67,
+                    "stop": 434.859,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "See, I'm not... this is a fairly complex area."
+                },
+                {
+                    "start": 434.859,
+                    "stop": 436.781,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'd agree."
+                },
+                {
+                    "start": 436.781,
+                    "stop": 548.15,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And, as I understand, at this moment... and I hope you'll correct me if I'm wrong... in a \"weighing\" State, we look at the aggravating side, and there seem, let's say, to be three factors that you could take into account and weigh them against all the mitigation. I'm imagining that. And you might have thought, if factor one turns out to be invalid, the reason that that's a big mistake, because the jury would have weighed something against all that mitigating evidence that it shouldn't have. And what's something? There would be a lot of evidence on it, so it took it... evidence into account it shouldn't have. So, I might have thought that was so. But when I read the cases, that isn't so, because I think it's... in Clemons the evidence would have come in anyway. So, if that isn't so, what could be wrong with this problem in the \"weighing\" State? And the answer, I guess, has to be that the prosecutor or the State said, \"Jury, you look to these three things. \" with a tone of voice that really made them important. And the jury then weighed one and two and three. It didn't have anything to do with the evidence. Well, if that's the problem, California seems to have that problem, because one of the things it says to weigh is, \"Weigh circumstances of the crime\". And that means that's not everything. That's not the history of this defendant. And so, the problem that existed in Clemons and in Stringer and in Zant that led to constitutional error seems to be there in California's case, too. Now, I probably have made five mistakes in my little recitation here, and I'd ask you to point them out. [Laughter]"
+                },
+                {
+                    "start": 548.15,
+                    "stop": 616.524,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In California... well, first of all, if this is new jurisprudence to you, or unfamiliar, the critical difference is that most States, and most of this Court's jurisprudence, uses the term \"aggravating factor\" and \"eligibility factor\" interchangeably, because in most States, and particularly in the \"weighing\" States, \"aggravating factor\" is the eligibility factor that makes the defendant eligible for death, but it's also the sole, or primary, factor that the jury is to take into consideration on the side militating in favor of death. In California, we have \"eligibility factors\", which are the special circumstances, and those happen at the guilt phase of the trial. And then we have 11 factors that are totally different from the special circumstances or--"
+                },
+                {
+                    "start": 616.524,
+                    "stop": 619.556,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They're not totally different, because one of them is special circumstances."
+                },
+                {
+                    "start": 619.556,
+                    "stop": 625.651,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, one part of one of them. In factor (a), there is one reference to special circumstances, and that's--"
+                },
+                {
+                    "start": 625.651,
+                    "stop": 643.624,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it distinguishes those from circumstances of the crime, and then it... then it says, \"and special circumstances\". So, it seems to me that \"special circumstances\" is a discrete factor, different from \"circumstances of the crime\"."
+                },
+                {
+                    "start": 643.624,
+                    "stop": 697.228,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The way that California has interpreted that... in fact, there is a case that's cited in these briefs, People versus Cain, and Morris... which is on our merits brief, in page 27, and in our reply brief, on page 6... where a defendant in California argued that that reference to \"special circumstances\" ought to be excised from the direction to the jury of what they're to consider at sentencing. And in rejecting the idea that that should be excised, the California Supreme Court said, \"An instruction not to consider the special circumstances would defeat the manifest purpose of factor (a) to inform jurors that they should consider, as one factor, the totality of the circumstances involved in the criminal episode that's on trial. \""
+                },
+                {
+                    "start": 697.228,
+                    "stop": 708.169,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is, indeed, very complicated, Ms. Kirkland. And, I forget, which provision of the Constitution is it that contains this complexity? [Laughter]"
+                },
+                {
+                    "start": 708.169,
+                    "stop": 715.108,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "All of this jurisprudence is based on the eighth amendment requirement--"
+                },
+                {
+                    "start": 715.108,
+                    "stop": 716.873,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That says?"
+                },
+                {
+                    "start": 716.873,
+                    "stop": 722.765,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that says that, \"A valid death penalty statute must provide sufficient narrowing-- \""
+                },
+                {
+                    "start": 722.765,
+                    "stop": 723.781,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that what the eighth amendment says?"
+                },
+                {
+                    "start": 723.781,
+                    "stop": 729.47,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's the way the eighth amendment has been interpreted in its application of cruel and unusual--"
+                },
+                {
+                    "start": 729.47,
+                    "stop": 733.33,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Cruel and unusual punishments are forbidden. And this is where that comes from."
+                },
+                {
+                    "start": 733.33,
+                    "stop": 774.855,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And may I ask you a question about the California statute, if I may, please? In subsection (a) of 190.3, it says that the trier of fact \"shall\" take into account any of the following factors, if relevant. And one of those is the existence of any special circumstance found to be true, pursuant to 190.1. And under 190.1, one of the special circumstances is number 14, \"heinous, atrocious, or cruel. \" Does that mean the statute required in the weighing process... that the jury take into account that factor? And is it not true that factor was held invalid?"
+                },
+                {
+                    "start": 774.855,
+                    "stop": 779.606,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That factor was held invalid, but what--"
+                },
+                {
+                    "start": 779.606,
+                    "stop": 784.888,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, they were... they were directed to take into... they \"shall\" take into account an invalid factor."
+                },
+                {
+                    "start": 784.888,
+                    "stop": 807.721,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, yes. \"Shall\"... as interpreted in California versus Brown by this Court and in the California Supreme Court jurisprudence, \"shall\" is a directive, it's not... it's not... California does not have a mandatory statute. In fact, none of these factors are labeled as either aggravating or mitigating. It's possible--"
+                },
+                {
+                    "start": 807.721,
+                    "stop": 810.535,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but the... number 14 clearly is not mitigating."
+                },
+                {
+                    "start": 810.535,
+                    "stop": 848.323,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. But whether or not a crime is heinous, atrocious, and cruel is part of... apart from its labeling as a special circumstance, that's certainly a valid consideration for the jury to be thinking about when it's engaged in its normative process of choosing sentencing. The only thing that's different under the California statute... when \"heinous, atrocious, and cruel. \" as a special circumstance, is out of the mix... is whether it can be labeled and whether that label has any independent weight. But all of the evidence and the--"
+                },
+                {
+                    "start": 848.323,
+                    "stop": 848.932,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All of the evidence--"
+                },
+                {
+                    "start": 848.932,
+                    "stop": 849.932,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--description of the crime--"
+                },
+                {
+                    "start": 849.932,
+                    "stop": 871.828,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Would you agree, though, that, if you had a separate sentencing jury, one that did not have all the evidence, and that jury was instructed that at the guilt phase a determination has been... that has... it has been found that the crime was especially heinous, atrocious, and so forth, that that finding might tip the scales in favor of imposing the death penalty?"
+                },
+                {
+                    "start": 871.828,
+                    "stop": 874.531,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think so, Your Honor, since that--"
+                },
+                {
+                    "start": 874.531,
+                    "stop": 878.172,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because the underlying facts are already before the jury, and they can make their own judgment about them."
+                },
+                {
+                    "start": 878.172,
+                    "stop": 894.833,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. And that instruction specifically directs the jury to all the facts and circumstances of the crime; and so, not only the characteristics of all those facts, but it would even be appropriate for the prosecutor to refer to the crime as \"heinous and atrocious\"."
+                },
+                {
+                    "start": 894.833,
+                    "stop": 921.182,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "See, one of the... one of the things that concerns me about this case... unlike Zant, most of the cases in which we have found the label of aggravating... immaterial... or findings like prior criminal histories... robbery, or something like... but whenever a pejorative factor of this kind has been found, we've generally found it did tilt the scales a little bit on the... on the... in favor of death. Clemons and the other were cases of this kind of aggravating--"
+                },
+                {
+                    "start": 921.182,
+                    "stop": 921.635,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, but--"
+                },
+                {
+                    "start": 921.635,
+                    "stop": 922.402,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--circumstance."
+                },
+                {
+                    "start": 922.402,
+                    "stop": 924.198,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--but Clemons is a \"weighing\" State, where those--"
+                },
+                {
+                    "start": 924.198,
+                    "stop": 925.387,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand."
+                },
+                {
+                    "start": 925.387,
+                    "stop": 933.482,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--aggravating or eligibility factors are at the core of the sentencing decision. And that's not the case in California. They're... these are not the--"
+                },
+                {
+                    "start": 933.482,
+                    "stop": 934.575,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are there any--"
+                },
+                {
+                    "start": 934.575,
+                    "stop": 934.982,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--the lynchpin of it."
+                },
+                {
+                    "start": 934.982,
+                    "stop": 944.203,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--cases in which we have held a fact of... a finding of the fact of this kind was irrelevant, was harmless? I think the cases are all the other--"
+                },
+                {
+                    "start": 944.203,
+                    "stop": 948.656,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in \"weighing\" States, that's true, but--"
+                },
+                {
+                    "start": 948.656,
+                    "stop": 1003.559,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Kirkland, assume for a moment... I know you don't agree, but assume that the court, or a majority of it, were to hold that California appears to be a \"weighing\" State. This case arose before the enactment of the Federal law that we call AEDPA. So, I guess pre AEDPA law governs. And we would then have to consider... what +/? whether this is harmless error? But the third question that you raised was... apparently did not incorporate any consideration of the Brecht standard. Is that what would be applied if we had to address the consequence here, of holding it to be a \"weighing\" State?"
+                },
+                {
+                    "start": 1003.559,
+                    "stop": 1008.028,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. We believe the Brecht standard would not apply--"
+                },
+                {
+                    "start": 1008.028,
+                    "stop": 1008.669,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 1008.669,
+                    "stop": 1011.108,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--in this instance, and that's because what happens--"
+                },
+                {
+                    "start": 1011.108,
+                    "stop": 1013.42,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wasn't that the pre AEDPA standard?"
+                },
+                {
+                    "start": 1013.42,
+                    "stop": 1015.156,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, that's the pre AEDPA standard, and--"
+                },
+                {
+                    "start": 1015.156,
+                    "stop": 1016.297,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, why wouldn't that apply?"
+                },
+                {
+                    "start": 1016.297,
+                    "stop": 1049.898,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because, in this... if California were a \"weighing\" State... and therefore, the Clemons ruled applied... in the first instance, the State court has the opportunity to cure the error. And if the error is cured by reweighing... appellate court reweighing the evidence, or appellate court harmless error analysis, then there is no error to be assessed under the Brecht standard. And when it comes to the Federal court on habeas corpus, the error has been cured. And so, Brecht does not apply."
+                },
+                {
+                    "start": 1049.898,
+                    "stop": 1051.835,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In this case--"
+                },
+                {
+                    "start": 1051.835,
+                    "stop": 1092.579,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I have one background question. And maybe I missed something. Number 14, \"where it was especially heinous, atrocious, and cruel. \" --taken alone, that would be vague. But I thought that in Profitt we said that if it were... if there were a gloss given by the courts in interpreting that standard so that it was made more specific, evidenced in a pitiless attitude, pitiless crime, that then it was valid. Has a Federal court, or have we said, that this provision is unconstitutional? Or do we just assume that in this case?"
+                },
+                {
+                    "start": 1092.579,
+                    "stop": 1093.985,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Do we--"
+                },
+                {
+                    "start": 1093.985,
+                    "stop": 1094.97,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or am I missing--"
+                },
+                {
+                    "start": 1094.97,
+                    "stop": 1097.798,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--assume that the \"heinous, atrocious, and cruel. \" special circumstance in this case was invalid?"
+                },
+                {
+                    "start": 1097.798,
+                    "stop": 1098.361,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1098.361,
+                    "stop": 1106.894,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, it... we assume that, because, in this case, the California Supreme Court held that to be invalid. In Profitt... and that's Florida statute--"
+                },
+                {
+                    "start": 1106.894,
+                    "stop": 1109.003,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Invalid as a matter of Federal law?"
+                },
+                {
+                    "start": 1109.003,
+                    "stop": 1111.066,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's invalid as a matter of State law."
+                },
+                {
+                    "start": 1111.066,
+                    "stop": 1111.582,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1111.582,
+                    "stop": 1124.898,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So, the... California's holding on \"heinous, atrocious, and cruel. \" in its Engert case, which is cited in these briefs, predates this Court's holding in Maynard that was invalid under the eighth amendment."
+                },
+                {
+                    "start": 1124.898,
+                    "stop": 1135.244,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, now we have an extra layer of complexity, because something that's been held unconstitutional under State law is said to skew the weighing, if it is weighing, as a matter of Federal law."
+                },
+                {
+                    "start": 1135.244,
+                    "stop": 1137.806,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, it can be looked at--"
+                },
+                {
+                    "start": 1137.806,
+                    "stop": 1138.135,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 1138.135,
+                    "stop": 1169.032,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that way. But the other thing that I wanted to say about your question about Profitt is that Florida, like some of the other States, after Maynard v. Cartwright declared that \"heinous, atrocious, and cruel. \" was an inappropriate eligibility circumstance under the eighth amendment, some States have fashioned either instructions or changes in their law to tailor their \"heinous circumstance\" to meet the concerns that are expressed in Profitt. But California has never done that, because--"
+                },
+                {
+                    "start": 1169.032,
+                    "stop": 1169.579,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was it--"
+                },
+                {
+                    "start": 1169.579,
+                    "stop": 1171.939,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--it held it invalid under California law--"
+                },
+                {
+                    "start": 1171.939,
+                    "stop": 1176.8,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--was it this case in which the Supreme Court of California made the definitive interpretation--"
+                },
+                {
+                    "start": 1176.8,
+                    "stop": 1177.05,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 1177.05,
+                    "stop": 1177.644,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that this is... what was--"
+                },
+                {
+                    "start": 1177.644,
+                    "stop": 1180.332,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That case is Engert, which is--"
+                },
+                {
+                    "start": 1180.332,
+                    "stop": 1182.785,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Engert. I can find it, thank you."
+                },
+                {
+                    "start": 1182.785,
+                    "stop": 1183.333,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's in--"
+                },
+                {
+                    "start": 1183.333,
+                    "stop": 1208.385,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What did... what did the California Supreme Court hold? Did it hold that considering the \"heinous, atrocious, or cruel. \" nature of the crime as part of the totality of the balancing was improper, or did it hold that that language is insufficient to form one of the narrowing functions that the aggravating circumstances--"
+                },
+                {
+                    "start": 1208.385,
+                    "stop": 1222.2,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Engert case specifically held that the \"heinous, atrocious, and cruel. \" circumstance was only invalid as an eligibility determinant, because it failed to adequately narrow. So, it specifically--"
+                },
+                {
+                    "start": 1222.2,
+                    "stop": 1230.437,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--So, if I think something is \"heinous, atrocious, or cruel. \" I can use that in the balancing, even though I can't use it as one of the narrowing factors."
+                },
+                {
+                    "start": 1230.437,
+                    "stop": 1243.127,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Correct. And in the Engert case itself, the California Supreme Court indicated that \"heinous, atrocious, and cruel. \" would be a valid sentencing consideration; it just wasn't a valid narrowing consideration."
+                },
+                {
+                    "start": 1243.127,
+                    "stop": 1261.303,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, of course, this goes to a question, really, for the respondent. It helps... there is a paradox here. To the extent that a State attempts to guide and to limit what the jury can consider in the selection phase, it's held to a higher standard. There is... there is certainly a paradox there."
+                },
+                {
+                    "start": 1261.303,
+                    "stop": 1261.866,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1261.866,
+                    "stop": 1277.697,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, I was confused by your answer to Justice O'Connor's question. Do you think the... we should review the California Supreme Court's harmless error analysis, or should we undertake a Brecht analysis?"
+                },
+                {
+                    "start": 1277.697,
+                    "stop": 1280.822,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In this case--"
+                },
+                {
+                    "start": 1280.822,
+                    "stop": 1283.651,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Assuming you'd... we'd--"
+                },
+                {
+                    "start": 1283.651,
+                    "stop": 1284.526,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yeah. Assuming--"
+                },
+                {
+                    "start": 1284.526,
+                    "stop": 1285.277,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--you lose on the first question."
+                },
+                {
+                    "start": 1285.277,
+                    "stop": 1286.074,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--California is a \"weighing\" State--"
+                },
+                {
+                    "start": 1286.074,
+                    "stop": 1286.574,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 1286.574,
+                    "stop": 1311.641,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--then the first step is for this Court... as the ninth circuit did, is to look at whether California performed a proper Clemons review, which is that the appellate court looks to see whether there is a principled and complete harmless error review. The ninth circuit held that there was no such principled and complete review, because--"
+                },
+                {
+                    "start": 1311.641,
+                    "stop": 1315.33,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would have thought that that might have collapsed into the Brecht analysis."
+                },
+                {
+                    "start": 1315.33,
+                    "stop": 1333.912,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It could have, but it... the court did it in two steps, and we believe it's because the ninth circuit recognized that it couldn't get to Brecht unless it found that California's attempt to cure the error under Clemons failed."
+                },
+                {
+                    "start": 1333.912,
+                    "stop": 1340.539,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, you said that the error was harmless under Chapman, the higher standard--"
+                },
+                {
+                    "start": 1340.539,
+                    "stop": 1341.226,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1341.226,
+                    "stop": 1356.808,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and that the California court so ruled. And if that ruling is correct, then you would never get to any Brecht standard; the Federal court would have to say California applied the proper harmless error analysis, and that's the end of the case."
+                },
+                {
+                    "start": 1356.808,
+                    "stop": 1357.23,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1357.23,
+                    "stop": 1367.076,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the... so the second question, once we get past weighing, is whether California, in fact, did do what Chapman said. Is that right?"
+                },
+                {
+                    "start": 1367.076,
+                    "stop": 1388.753,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, that they not only have to have applied the appropriate standards... that is, the \"beyond a reasonable doubt\" standard, which is the same as California's \"reasonable possibility\" standard... they not only have cried... applied the correct standard, but they have to have done so in a principled and complete way so the reviewing court can make sure that they've actually cured the error."
+                },
+                {
+                    "start": 1388.753,
+                    "stop": 1389.237,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the problem--"
+                },
+                {
+                    "start": 1389.237,
+                    "stop": 1389.55,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And--"
+                },
+                {
+                    "start": 1389.55,
+                    "stop": 1395.754,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--here is that the California Supreme Court decision is rather skimpy once you get to harmless error."
+                },
+                {
+                    "start": 1395.754,
+                    "stop": 1446.53,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, we think that their analysis of the error was fairly complete. They refer to the critical aspect of it. They talked about the standard that should be applied. And they made clear, as they have... consistent with their holdings, that because all the other evidence that related to the burglary, felony murder, special circumstance, or eligibility factor and the \"heinous, atrocious, and cruel. \" eligibility factor, since all of that evidence was properly before the jury and the prosecutor, and nothing about the arguments or the instructions emphasized the independent weight of those eligibility factors in the sentencing, that, therefore, there was no harm."
+                },
+                {
+                    "start": 1446.53,
+                    "stop": 1446.827,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You're--"
+                },
+                {
+                    "start": 1446.827,
+                    "stop": 1451.312,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What was... the argument was that, in California, the burden of proof is on--"
+                },
+                {
+                    "start": 1451.312,
+                    "stop": 1451.828,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 1451.828,
+                    "stop": 1456.158,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--the defendant, instead of on the prosecutor for the harmless error inquiry?"
+                },
+                {
+                    "start": 1456.158,
+                    "stop": 1478.333,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We think that the burden of proof argument is illusory here, that the way that these things are analyzed, just as they were in this very case, is that it's the court who performs the analysis, and there's no discussion of which side has to prove what. It's the court who determines whether... what standard's to be applied and whether that standard is met by all of the facts and circumstances--"
+                },
+                {
+                    "start": 1478.333,
+                    "stop": 1478.991,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe--"
+                },
+                {
+                    "start": 1478.991,
+                    "stop": 1479.444,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--of the case."
+                },
+                {
+                    "start": 1479.444,
+                    "stop": 1491.462,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--so, in this... or, weren't there previous California cases... or, again, correct me if I'm wrong... where California says the reasonable possibility test requires the defendant to establish that the error was prejudicial? I thought that was the California law. Or am I wrong?"
+                },
+                {
+                    "start": 1491.462,
+                    "stop": 1515.608,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the California... the California Supreme Court has said that \"reasonable possibility\" and \"beyond a reasonable doubt\" are the same thing. And those burden cases are in a completely different context than this. In this case, in this kind of circumstance, when we're talking about capital case sentencing, it's the court who does the analysis. There's no discussion of burden, and there's--"
+                },
+                {
+                    "start": 1515.608,
+                    "stop": 1516.608,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but don't--"
+                },
+                {
+                    "start": 1516.608,
+                    "stop": 1517.389,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--no placement of burden."
+                },
+                {
+                    "start": 1517.389,
+                    "stop": 1527.752,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--don't we assume that the court follows California law on the... on the burden? And isn't it clear that, under California law, the burden is on the defendant?"
+                },
+                {
+                    "start": 1527.752,
+                    "stop": 1533.768,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. In this case, the court... there is no discussion of burden. There--"
+                },
+                {
+                    "start": 1533.768,
+                    "stop": 1551.069,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know there is no discussion of burden. But when there is no discussion of burden, isn't the reasonable assumption for us to make, as a reviewing Court, the assumption that the California Supreme Court followed its own law, and its own law is that the burden is on the defendant?"
+                },
+                {
+                    "start": 1551.069,
+                    "stop": 1563.65,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I don't think it's fair to assume that in this instance, since burden didn't play any role in this, that there was... neither side had any burden. The court itself performed the analysis. If the court had--"
+                },
+                {
+                    "start": 1563.65,
+                    "stop": 1580.496,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--May I ask you one quick question, if you can comment... the statute expressly says, \"They shall impose a sentence of death if the trier of fact concludes that the aggravating circumstances outweigh the mitigating circumstances. \" How do you respond to that? Why is it not a \"weighing\" State when it says that?"
+                },
+                {
+                    "start": 1580.496,
+                    "stop": 1632.633,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because the word \"weigh\" isn't the talisman for the process that the jury goes through. 1977 law, which everybody agreed was a 1978 capital sentencing statute, that that changed this. But the California Supreme Court made clear, in its Frierson decision, that, as far as California is concerned, the process... the mental process that the jury goes through under either statute is the same, that \"weigh\", \"consider\", \"balance\", so on, none has the talismanic thing. It's just a metaphorical description for the jury's normative evaluation. So, the term \"weigh\" is not dispositive."
+                },
+                {
+                    "start": 1632.633,
+                    "stop": 1638.009,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the term \"concluding that it does outweigh\" is something different from \"weighing\"."
+                },
+                {
+                    "start": 1638.009,
+                    "stop": 1656.295,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, it's the same process. And in California, too, a critical thing is that that \"aggravating circumstances\" means the sentencing factors that militate in favor of death; it doesn't mean that \"eligibility circumstance\". It refers to those sentencing factors."
+                },
+                {
+                    "start": 1656.295,
+                    "stop": 1657.841,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I think--"
+                },
+                {
+                    "start": 1657.841,
+                    "stop": 1659.811,
+                    "speaker": {
+                        "name": "Jane N. Kirkland",
+                        "ID": 31266,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'd like to reserve the rest of my time for rebuttal."
+                },
+                {
+                    "start": 1659.811,
+                    "stop": 1661.248,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Kirkland. Ms. Rivkind."
+                }
+            ],
+            "start": 15.331,
+            "stop": 1749.018
+        },
+        {
+            "turns": [
+                {
+                    "start": 1661.248,
+                    "stop": 1749.018,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court-- I would like to focus on the observation that we need to look at what the jury was instructed, because I think that will clarify for the Court that California's 1978 law is, indeed, a \"weighing\" statute under the established law of this Court. In Mr. Sanders' case, the jury was instructed in the language of section 190.3, and this language gave the jury a very explicit roadmap as to how it was to undertake its sentence selection in this case. Section 190.3 assigns a specific role to the aggravating factors. It tells a jury that, \"In determining the penalty, you shall consider, take into account, and be guided by the listed enumerated factors. \" The special circumstances, as the questions from the Court have noted, are specifically included. Factor (a) has two independent components, and one is the existence of any \"special circumstance\" finding. As Justice Stevens noted, this could only be considered aggravating. It is, after all, the reason that California has said that this case moved from being an ordinary murder to being one that was worthy of either death or life without parole."
+                },
+                {
+                    "start": 1749.018,
+                    "stop": 1752.925,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's not... it's prefaced by circumstances of the crime."
+                },
+                {
+                    "start": 1752.925,
+                    "stop": 1753.487,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I--"
+                },
+                {
+                    "start": 1753.487,
+                    "stop": 1779.134,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And this State, and other States, can determine, \"Oh, the victim was in fear for a long time, or was tortured. \" It seems very odd that a State, which is a so called \"nonweighing\" State, could allow all of this same evidence to come in, but California, which tries to get some structure, is suddenly held to a higher standard. That's paradoxical."
+                },
+                {
+                    "start": 1779.134,
+                    "stop": 1820.126,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, no, I think it's not, and I think it's very consistent with what we see in Mississippi. In California, factor (a) contains two independent components. One is the \"circumstances of the crime\", and one is the \"special circumstances\". The California Supreme Court, both before it affirmed Mr. Sanders' death sentence and after... before, in a case, People versus Hamilton, and after, in People versus Benson... in the context of assessing invalid special circumstances, said that it presumes the jury follows its instructions, and considers the special circumstances independently of their underlying facts."
+                },
+                {
+                    "start": 1820.126,
+                    "stop": 1827.706,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, it's... it's invalid only because it's too vague for eligibility. It's not invalid because it's too vague for selection."
+                },
+                {
+                    "start": 1827.706,
+                    "stop": 1960.438,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think that distinction holds up. And I think that we see that both in Clemons and in Stringer. And this takes us to a misunderstanding of the Mississippi statute. In Mississippi, the statute has not changed since the time of Clemons, except for one provision, and that is the addition of another category of capital murder. In Mississippi, death eligibility is decided by the definition of 97-3-19. And the State lists, I think, now nine... I think it was eight at the time of Clemons... categories of capital murder. The defendant then goes to a penalty phase, and the statute sets forth aggravating circumstances in Mississippi's statute, section 99-19-101. There is a correlation between many... at the time of Clemons, all of the categories of capital murder and the aggravating circumstances, much as there is in Louisiana. However, there are two additional aggravating factors at the sentence selection phase, and those are the \"heinous, atrocious, and cruel. \" aggravator, which, in Mississippi, is only a selection factor, and whether the defendant had a prior conviction. And so, in this sense, we... the Mississippi statute is very comparable to California. And it goes further, because, in Mississippi... in Clemons' case, if you look at the joint appendix, at 24, and also in Stringer's case, at joint appendix 10... the juries were instructed, pursuant to the Mississippi standard capital sentencing instructions... the very first opening paragraph tells the juries that, \"In determining penalty, you must objectively consider the detailed circumstances of the crime. \" And I think this instruction helps explain the court's footnote 5 in Clemons, which I think is very important in terms of understanding why this whole focus on circumstances of the crime is not relevant to the distinction between \"weighing\" and \"nonweighing\"."
+                },
+                {
+                    "start": 1960.438,
+                    "stop": 1960.907,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is--"
+                },
+                {
+                    "start": 1960.907,
+                    "stop": 2047.083,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Rivkind, I really don't understand what harm is done here. I can understand you're saying that there is harm done when a statute says, \"The jury shall weigh the aggravating circumstances. \" which are... have been specified and which are narrowing circumstances; there are only five named in the statute... \"shall weigh the aggravating circumstances found to be true against the mitigating. \" and it turns out that one of those five aggravating circumstances is unconstitutional. Okay? Then you have the jury weighing something that it shouldn't have weighed, because that aggravating circumstance was bad. I don't see why any harm is done where you have a statute that lists aggravating factors, one of which is \"heinous, atrocious, or cruel. \" and that is later found invalid by the State supreme court. But then, in the weighing process, the jury is told, \"Don't just weigh aggravating factors, weigh all of the circumstances of the crime. \" Now, it seems to me that the same jury that erroneously found, as one of the aggravating factors, \"heinous, atrocious, and cruel. \" would also have found that \"heinousness, atrociousness, and cruelty. \" to be one of the circumstances to be weighed. So, what harm is done?"
+                },
+                {
+                    "start": 2047.083,
+                    "stop": 2081.184,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the harm is... there is harm. I think the fact that the jury considers the circumstances of the crime, in California, as an aggravating factor. It may go to prejudice. Certainly, the nature of a statute will inform a court's prejudice analysis. But Mr. Sanders went into the penalty phase essentially with four weights on death's side of the scale, based solely on the special circumstances, and two of those weights should not have been there. And his jury was given a very--"
+                },
+                {
+                    "start": 2081.184,
+                    "stop": 2093.639,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But the... but the evidence supporting them was perfectly admissible. So, the jury could consider that evidence and come to the same conclusion; it's just the label that seems to be giving you the most concern."
+                },
+                {
+                    "start": 2093.639,
+                    "stop": 2143.244,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I have two responses, Your Honor. First, the rule... the distinction between \"weighing\" and \"nonweighing\" is not an evidentiary rule. It is a rule about the statutory labels that a State gives to the factors that the jury puts on death's side of the scale. Even in a \"nonweighing\" State, as Zant made clear, if an... where a harmless error review need not be done, because the court has concluded there will be... the aggravating circumstances have an inconsequential impact, because the jury is not required to consider them in the selection decision... even there, if an invalid aggravating circumstance permits the introduction of evidence that would otherwise have been inadmissible, we have error. And that's the conclusion that the--"
+                },
+                {
+                    "start": 2143.244,
+                    "stop": 2178.829,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, but aren't we in, sort of, the converse situation here? There isn't any question about the admissibility of evidence that shouldn't otherwise have come in. I thought your argument here is, the error proceeds from the fact that, by using this label... by referring to the circumstance as a \"special circumstance\", having been found at the eligibility stage... that circumstance, and all the evidence that might support it, is given extra weight, and that's where the thumb on the scale comes. Isn't that your point here?"
+                },
+                {
+                    "start": 2178.829,
+                    "stop": 2191.535,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--My argument is that the \"special circumstance\" finding, itself, is the invalid aggravating factor on death's side of the scale. That is what the California Supreme Court--"
+                },
+                {
+                    "start": 2191.535,
+                    "stop": 2195.098,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's what I thought I was trying to say. I mean, am I getting it wrong? Because this is the--"
+                },
+                {
+                    "start": 2195.098,
+                    "stop": 2195.473,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 2195.473,
+                    "stop": 2197.005,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--time to correct me, if I am."
+                },
+                {
+                    "start": 2197.005,
+                    "stop": 2238.155,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, the... the jury could consider the facts of the crime, as in Mississippi. The jury is told to consider all the crime facts when deciding the penalty. And in California the jury could have considered the manner of the killing and who was killed and how the crime proceeded. The harm to Mr. Sanders was that the jury was told that it had a process that was mandated for reaching its decision, and that process required the jury to put two special circumstances on death's side of the scale, that should not have been there, and then required the jury to reach the penalty decision by balancing."
+                },
+                {
+                    "start": 2238.155,
+                    "stop": 2274.429,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you saying... because this can get pretty complex... simply, that because special circumstances are a discreet category, that, in effect, what went... what the court is instructing is double counting that factor? It's a factor in all the circumstances how the... how the crime was committed is a factor of all circumstances; and then, in addition, it is a special circumstance. So it is, in effect, counted twice. Is that the essence of your argument?"
+                },
+                {
+                    "start": 2274.429,
+                    "stop": 2280.883,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think it's more than that, because I... I think if... the harm is--"
+                },
+                {
+                    "start": 2280.883,
+                    "stop": 2282.383,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I hope so. [Laughter]"
+                },
+                {
+                    "start": 2282.383,
+                    "stop": 2293.073,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It is more than that, because we have to think of how the jury is understanding this. To ordinary citizens who are called to stand in ultimate judgment--"
+                },
+                {
+                    "start": 2293.073,
+                    "stop": 2295.45,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, didn't the California Supreme Court answer that in--"
+                },
+                {
+                    "start": 2295.45,
+                    "stop": 2295.825,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2295.825,
+                    "stop": 2297.215,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--its Bacigalupo--"
+                },
+                {
+                    "start": 2297.215,
+                    "stop": 2297.824,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 2297.824,
+                    "stop": 2306.561,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--decision, where, as I read it, it says juries don't give special circumstances any extra weight in considering all the variety of factors listed in the statute?"
+                },
+                {
+                    "start": 2306.561,
+                    "stop": 2341.255,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't read Bacigalupo as saying that. Bacigalupo did not deal with the question of invalid special circumstances being weighed at penalty selection. I think the more appropriate authority of the California Supreme Court are its Hamilton and Benson decisions, wherein, addressing exactly the situation, a claim that invalid special circumstances tainted the death sentence, the court said, specifically, \"We presume the jury weighs those special circumstances, apart from the-- \""
+                },
+                {
+                    "start": 2341.255,
+                    "stop": 2401.925,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The word \"special circumstances\" is ambiguous, because it might refer to something in the world, in which case it's about evidence, or it might refer to something in the law, in which case it's a statement by a prosecutor to look at some of this evidence and give it some special weight. Now, that what's confusing me throughout. As I understood this area, to go back to what Justice Scalia was saying... no, wait, just... I'll back up to try to get you to correct my misunderstanding... Zant is the key, because Zant says, \"Judge, if you have a \"nonweighing\" State. \" --that is, everything's relevant but the kitchen sink... \"the fact that the prosecutor made a mistake at the eligibility stage by including something he shouldn't is beside the point. \" Is that right?"
+                },
+                {
+                    "start": 2401.925,
+                    "stop": 2402.957,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is correct."
+                },
+                {
+                    "start": 2402.957,
+                    "stop": 2479.801,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Fine. Then we look at Stringer and Clemons, and they're making exceptions to Zant. And they're making exceptions for \"weighing\" States. So, even if the evidence in all three cases is identical and it made no difference to the evidence... that is, to what really happened in the world... still, says Clemons and Stringer... still, you're not home free yet, State. Rather, you have to back up and do harmless error analysis. So, the answer, I think, to Justice Scalia, if I understand it, is, Justice Scalia, you may be right, maybe all this is harmless, but we don't have before us the product of harmless error analysis, because you didn't grant cert on it, among other reasons. Now, if I'm right so far, and if we want to straighten all this out, why not go back and say all three cases are wrong? What you really ought to do is say, \"Court, always conduct harmless error analysis. \" \"Conduct it whether you're in \"nonweighing\", conduct it whether you're in \"weighing\", we'll simplify. \" Now, what would be so terrible about that?"
+                },
+                {
+                    "start": 2479.801,
+                    "stop": 2524.733,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, if I were able to write on a clean slate, that is the rule I would propose. I think that if you... the whole idea of Zant was carving out an exception from conducting harmless error review, and the court was assured that because the aggravating circumstance, which was only a death eligibility factor, fell away at the selection stage, there was really... it was... the impact of that aggravating circumstance was likely to be inconsequential, as the Georgia Supreme Court found, and as this Court found in Zant. The simple approach would be to apply harmless error review, no matter what the structure of the statute--"
+                },
+                {
+                    "start": 2524.733,
+                    "stop": 2541.798,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then we would not have this crossword puzzle, which probably only five people in the United States understand, and the worst thing that would happen would be, you'd always conduct harmless error analysis, and thus, if Justice Scalia is right about it, you would lose, and if... because it would be harmless... and if he's wrong about it, you'd win."
+                },
+                {
+                    "start": 2541.798,
+                    "stop": 2543.595,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Assuming--"
+                },
+                {
+                    "start": 2543.595,
+                    "stop": 2544.205,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think... I--"
+                },
+                {
+                    "start": 2544.205,
+                    "stop": 2549.629,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--assuming the district court does the... the district court in the ninth circuit does the harmless error analysis correctly."
+                },
+                {
+                    "start": 2549.629,
+                    "stop": 2552.442,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And-- [Laughter] And I--"
+                },
+                {
+                    "start": 2552.442,
+                    "stop": 2593.091,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't it the California Supreme Court that has to do the harmless error, in the first instance? And here, this is puzzling about this case. Defendant said, at trial, to his lawyer, \"Don't argue any mitigators. \" \"I'd just as soon die as spend my life in prison. \" So, no mitigators were argued. So then, even if you have a wrong aggravator, you have other aggravators that are right, and there's nothing to weigh against those correct aggregators. So, what mitigation is there to weigh against the valid aggravators?"
+                },
+                {
+                    "start": 2593.091,
+                    "stop": 2647.135,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, I think we first need to distinguish between the lack of a formal mitigation case and the absence of mitigating factors. In this case, in reviewing a different claim, the California Supreme Court... and I refer the Court to joint appendix 108, I believe is the cite... the California Supreme Court found that Mr. Sanders' decision to refuse to take part in the penalty phase did not necessarily make a death sentence more likely, and it also found that the jury could have found mitigating factors from the guilt phase evidence. Indeed, the jury was instructed to consider the evidence from all parts of the trial."
+                },
+                {
+                    "start": 2647.135,
+                    "stop": 2649.057,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what were those? I see that sentence. The jury--"
+                },
+                {
+                    "start": 2649.057,
+                    "stop": 2650.197,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So, I think there was a--"
+                },
+                {
+                    "start": 2650.197,
+                    "stop": 2656.183,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes, but what were the mitigating factors from the evidence presented at the guilt phase?"
+                },
+                {
+                    "start": 2656.183,
+                    "stop": 2713.883,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The main mitigating evidence was a powerful mitigating factor which went to the personal culpability of Mr. Sanders, and that was that the prosecutor, in his closing guilt phase argument, told the jury, \"We don't know whether Mr. Sanders was the actual killer or whether his codefendant, Mr. Cebreros, was. \" And there was evidence from the surviving victim that there was a conversation between the two assailants, before the surviving victim was struck, in which one of the men said he wanted to leave the apartment. And, again, there was no evidence as to which defendant this was. This Court, in Green versus Georgia, has realized that whether someone is an actual killer or an accomplice is of critical importance in deciding between life and death. That was the main powerful mitigating factor in this case. And--"
+                },
+                {
+                    "start": 2713.883,
+                    "stop": 2731.59,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I've never heard that described as a mitigating factor before. I mean, it's certainly worse if you're a triggerman, but I don't know what makes it... somehow it's mitigating if you were not the triggerman. I would say that you're not guilty of something even worse. But to call that a factor of mitigation--"
+                },
+                {
+                    "start": 2731.59,
+                    "stop": 2759.112,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think it is mitigating, and the fact that there is a question about one of the people, perhaps the accomplice, which very well could have been Mr. Sanders, wanting to leave before the murder occurred was basis enough to give the jury pause. And if we look at the deliberations, we realize that there was a jury note, about three quarters of the way through its deliberations, asking the jury the consequences if it could not reach a unanimous--"
+                },
+                {
+                    "start": 2759.112,
+                    "stop": 2792.494,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But now you're getting into what has sometimes been called \"residual doubt\". You point out that a juror asked, \"What if it were not unanimous? \" And you also pointed out that there was an earlier hung jury in this case. But you didn't argue, below, that residual doubt counts. It's one thing to say, \"If defendant argues it, the court should take it into account. \" But there was no such argument made in this case."
+                },
+                {
+                    "start": 2792.494,
+                    "stop": 2794.698,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--You mean in the trial court."
+                },
+                {
+                    "start": 2794.698,
+                    "stop": 2796.041,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "At any time."
+                },
+                {
+                    "start": 2796.041,
+                    "stop": 2801.495,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, in the... in the ninth circuit, residual doubt was argued. It is a mitigating factor in--"
+                },
+                {
+                    "start": 2801.495,
+                    "stop": 2804.981,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in the trial court, it wasn't, because that's when it would count."
+                },
+                {
+                    "start": 2804.981,
+                    "stop": 2827.595,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, in the trial part, nothing was argued, because trial counsel acquiesced to Mr. Sanders' request that there be no penalty defense. And I want to make it clear, this is not a case because Mr. Sanders wanted death. As his trial counsel told the court, Mr. Sanders insisted he was innocent and wanted to go home. The trial court made it very clear to him, that wasn't an option."
+                },
+                {
+                    "start": 2827.595,
+                    "stop": 2832.909,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Didn't... wasn't there a statement that he was indifferent between death and life imprisonment?"
+                },
+                {
+                    "start": 2832.909,
+                    "stop": 2837.613,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It... there was a statement that he did not want either penalty."
+                },
+                {
+                    "start": 2837.613,
+                    "stop": 2870.385,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you... do you defend that the difference in... our distinction between balancing and nonbalancing... or, pardon me, \"weighing\" and \"nonweighing\" States... your answer to Justice Breyer indicates the... that you would not be disconsolate if we jettisoned the whole... the whole distinction. And isn't it true that it's paradoxical that a State which tries to structure the selection phase by giving specific factors as held to a higher standard than a State that doesn't? That seems to me very odd."
+                },
+                {
+                    "start": 2870.385,
+                    "stop": 2900.673,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I don't... I don't think that's odd. I think what that recognizes is that the court has said, \"While you do not have to give a... we do not need a guided discretion statute. \" --that, as Zant holds, a jury can have complete, absolute discretion in choosing between life and death... that when a State does regulate that, it must be done within the contours of the Constitution. The essential wisdom in the distinction between \"weighing\"--"
+                },
+                {
+                    "start": 2900.673,
+                    "stop": 2906.315,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it is within the contours of the Constitution if, in a \"nonweighing\" State, the same evidence could be considered."
+                },
+                {
+                    "start": 2906.315,
+                    "stop": 2916.895,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But it... I don't... again, I don't think it's a question of evidence, I think it's a question of what are those factors that are being put in... on... in death's side of the scale, and how are they being balanced--"
+                },
+                {
+                    "start": 2916.895,
+                    "stop": 2966.64,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah, and I can imagine, in \"nonweighing\" State, a prosecutor banging on and on, at the eligibility stage, on factor X, and really fixing that in the mind of the jury, and it turns out that factor X is not an aggravator. Now, the jury might have been prejudiced. And I can imagine, in a \"weighing\" State that, because the evidence is the same, and because there were so many factors just like it, the fact that they used the wrong factor didn't really make any difference. So, it seems to me the lineup between harm... real harm in a case, and weighing/nonweighing, it doesn't line up terribly well. But you have the experience. And that's why I'd like your reaction."
+                },
+                {
+                    "start": 2966.64,
+                    "stop": 2970.391,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In terms of the rule of--"
+                },
+                {
+                    "start": 2970.391,
+                    "stop": 2978.846,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah. I mean, a serious effort to go back and say, \"Look, harmless error throughout\". I mean, I'm pushing the same thing I said before."
+                },
+                {
+                    "start": 2978.846,
+                    "stop": 2981.033,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--He wants to know whether you would like to be thrown--"
+                },
+                {
+                    "start": 2981.033,
+                    "stop": 2981.33,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "yeah."
+                },
+                {
+                    "start": 2981.33,
+                    "stop": 2985.191,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--into the \"Breyer\" patch. I think-- [Laughter] --I think the answer is yes."
+                },
+                {
+                    "start": 2985.191,
+                    "stop": 3006.399,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I... I'd like harmless error analysis. I think... I think that would be a simpler approach. It would accommodate competing interests, because each State's statute would be informing the prejudice analysis, and you would be looking at how many different sentencing selection factors were before the jury."
+                },
+                {
+                    "start": 3006.399,
+                    "stop": 3006.883,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In that--"
+                },
+                {
+                    "start": 3006.883,
+                    "stop": 3007.195,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I--"
+                },
+                {
+                    "start": 3007.195,
+                    "stop": 3030.78,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--analysis, would you use, as one factor, the circumstance that an eligibility determination was made by the jury, was focused on by the prosecutor, and that that was impermissibly vague? Would that be a component of your harmless error analysis?"
+                },
+                {
+                    "start": 3030.78,
+                    "stop": 3033.373,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry, Your Honor, I don't... I didn't--"
+                },
+                {
+                    "start": 3033.373,
+                    "stop": 3034.499,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would it be a--"
+                },
+                {
+                    "start": 3034.499,
+                    "stop": 3034.749,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--get the question."
+                },
+                {
+                    "start": 3034.749,
+                    "stop": 3051.612,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, we have the rule, already, that if there is an invalid eligibility factor and it's a \"weighing\" State, that there's... that the process is defective. Would you carry over that same argument just as one component of the harmless error analysis?"
+                },
+                {
+                    "start": 3051.612,
+                    "stop": 3086.761,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think if we had... well, I first would like to clarify something you said. I think, under the existing law, it's not... it is not just eligibility factors, the invalidity of eligibility factors... that create... arbitrarily skew the sentencing, that, as we see in Mississippi, the \"heinous, atrocious, and cruel. \" was only a selection factor. So, I think it... this focus on an equivalence or a overlap between eligibility and selection factors is just not found in the Court's case law."
+                },
+                {
+                    "start": 3086.761,
+                    "stop": 3096.388,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that was the whole basis... correct me if I'm wrong... for the ninth circuit's case in your... ninth circuit decision in your favor in this case. In this case, it certainly--"
+                },
+                {
+                    "start": 3096.388,
+                    "stop": 3097.184,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, in--"
+                },
+                {
+                    "start": 3097.184,
+                    "stop": 3098.59,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--is an accurate description of--"
+                },
+                {
+                    "start": 3098.59,
+                    "stop": 3099.012,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--in this--"
+                },
+                {
+                    "start": 3099.012,
+                    "stop": 3099.606,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--what the rule is."
+                },
+                {
+                    "start": 3099.606,
+                    "stop": 3122.659,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--case, yes. The special circumstances that are the invalid aggravating factors were eligibility requirements. But that is not... as the Federal death penalty shows, that is not a prerequisite in the weighing/nonweighing distinction. And I think I didn't answer the second part of your question, but, I'm sorry, I can't remember it--"
+                },
+                {
+                    "start": 3122.659,
+                    "stop": 3123.878,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I--"
+                },
+                {
+                    "start": 3123.878,
+                    "stop": 3124.049,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--about--"
+                },
+                {
+                    "start": 3124.049,
+                    "stop": 3135.161,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I was just asking if we can import the same formal rule we now have and reach... and... if we don't consider the same things in harmless error analysis."
+                },
+                {
+                    "start": 3135.161,
+                    "stop": 3155.651,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think they would be. I mean, the way I would envision it is that if the jury weighs an invalid factor... and under Sochor, the invalidity does not have to be based on Federal constitutional law. State law invalidity creates the same harm; you're arbitrarily skewing the process toward death."
+                },
+                {
+                    "start": 3155.651,
+                    "stop": 3156.369,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it--"
+                },
+                {
+                    "start": 3156.369,
+                    "stop": 3156.838,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If--"
+                },
+                {
+                    "start": 3156.838,
+                    "stop": 3162.026,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but it's only invalid as an eligibility factor. It's not invalid as a selection factor."
+                },
+                {
+                    "start": 3162.026,
+                    "stop": 3164.121,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In Sochor."
+                },
+                {
+                    "start": 3164.121,
+                    "stop": 3165.637,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In this case."
+                },
+                {
+                    "start": 3165.637,
+                    "stop": 3200.472,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In this case, it's invalid as to both, because it serves both purposes. It's... first, sees it as an eligibility factor, and then the... the provision says... it doesn't say just to consider special circumstances in some vague, undefined way; it specifically refers the jury back to its findings at the guilt phase. Section 190.3, subsection (a), says, \"Consider the existence of an... any special circumstances found true at the guilt phase. \" That's telling the jury, \"Your... the findings that made the defendant get the death penalty-- \""
+                },
+                {
+                    "start": 3200.472,
+                    "stop": 3212.506,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's the same jury. The same jury that found it atrocious and cruel in the guilt phase would find it atrocious and cruel in the weighing stage. I don't see--"
+                },
+                {
+                    "start": 3212.506,
+                    "stop": 3213.132,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In--"
+                },
+                {
+                    "start": 3213.132,
+                    "stop": 3235.151,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in... would you clarify something? Is it the correct interpretation of the California law that the... the California court held, in effect, that you may not consider the fact that the crime was heinous and atrocious for purposes of deciding whether he's eligible for the death penalty, but you may consider that fact for the purpose of deciding whether to impose the death penalty?"
+                },
+                {
+                    "start": 3235.151,
+                    "stop": 3238.183,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, I think if it's invalid for one, it's invalid for the other."
+                },
+                {
+                    "start": 3238.183,
+                    "stop": 3241.559,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But is that what the California court would say?"
+                },
+                {
+                    "start": 3241.559,
+                    "stop": 3262.142,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The California... the... in Engert, the question was eligibility. In this case, the question was only selection. And the California Supreme Court... the State conceded that the \"heinous, atrocious, and cruel. \" circumstance was invalid, and the court, in this case, addressed its use as a selection factor."
+                },
+                {
+                    "start": 3262.142,
+                    "stop": 3297.447,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But what... the specificity you need for the narrowing factor does not exist with respect to mitigating factors. We've said anything can be a mitigating factor. I find it impossible to believe that the California Supreme Court said not only is the phrase \"heinous, atrocious, and cruel. \" too... you know, too vague for the narrowing factor, but, when you get to the weighing phase, the fact that the murderer sliced up his victim with a thousand cuts of the knife cannot be taken into account by the jury. That's unbelievable."
+                },
+                {
+                    "start": 3297.447,
+                    "stop": 3307.824,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the eighth amendment, as this Court said in Tuilaepa, does apply to the selection factors. It looks as... at whether there's a commonsense core meaning."
+                },
+                {
+                    "start": 3307.824,
+                    "stop": 3345.129,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but isn't... I want to throw you a suggestion... isn't the answer to that problem that anything may be considered as mitigating evidence, but a mitigating factor is a conclusion that evidence has a certain significance, and not everything may be taken into consideration as a mitigating factor? Isn't... the problem that Justice Scalia raises addressed by distinguishing between evidence... consider it all... and factors, a characterization of evidence which may not necessarily be considered."
+                },
+                {
+                    "start": 3345.129,
+                    "stop": 3345.785,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean aggravating--"
+                },
+                {
+                    "start": 3345.785,
+                    "stop": 3347.098,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yeah, I'm confused."
+                },
+                {
+                    "start": 3347.098,
+                    "stop": 3347.348,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 3347.348,
+                    "stop": 3348.192,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Okay. Because we're--"
+                },
+                {
+                    "start": 3348.192,
+                    "stop": 3348.551,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 3348.551,
+                    "stop": 3350.505,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Okay. Because we're talking about aggravating factors."
+                },
+                {
+                    "start": 3350.505,
+                    "stop": 3356.693,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. I misspoke. But, I mean, the distinction between \"evidence\" and \"factor\" is the... is the key, isn't it?"
+                },
+                {
+                    "start": 3356.693,
+                    "stop": 3382.449,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's the key, because the consideration of the circumstances of the crime is not the problem that we have. What we have is that the jury's told to consider this fact or this finding that the jury understands makes the defendant... because the State has said this is a reason both to make him death eligible and a reason to impose death... creates a weight on death's side of the scale."
+                },
+                {
+                    "start": 3382.449,
+                    "stop": 3384.512,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. That means the answer to my question is yes, right?"
+                },
+                {
+                    "start": 3384.512,
+                    "stop": 3385.012,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3385.012,
+                    "stop": 3385.496,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 3385.496,
+                    "stop": 3416.143,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the statute does not say \"the finding of any special circumstances found to be true. \" It says \"the existence of any special circumstances found to be true. \" That's what they're... that's what they're instructed to consider. The existence. In determining the penalty, the trier of fact take into account the following, (a), it says, the \"existence\" of any special circumstances found to be true; not the \"fact\" that they were found to be true."
+                },
+                {
+                    "start": 3416.143,
+                    "stop": 3435.883,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think the prosecutor's argument in this case shows that they understood it as the finding. The prosecutor here argued... in the precise language of the special circumstance, argued that this... \"the heinous, atrocious and cruel nature of this crime. \" parroting the language of the special circumstance. Clearly, the jury, I think--"
+                },
+                {
+                    "start": 3435.883,
+                    "stop": 3451.057,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that was correct under the law, wasn't it? In other words, \"special circumstance\" means the same thing when it's referred to... the term means the same thing when it's referred to in the statute on selection as it means in the statute on eligibility."
+                },
+                {
+                    "start": 3451.057,
+                    "stop": 3451.51,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 3451.51,
+                    "stop": 3452.198,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 3452.198,
+                    "stop": 3466.765,
+                    "speaker": {
+                        "name": "Nina Rivkind",
+                        "ID": 37273,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In this case, what we have under the law that exists now is that California assigned a specific role to the aggravating circumstances that included the special circumstances--"
+                },
+                {
+                    "start": 3466.765,
+                    "stop": 3472.202,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Rivkind. Ms. Kirkland, you have two and a half minutes left."
+                }
+            ],
+            "start": 3472.202,
+            "stop": 3567.333
+        }
+    ]
+}

@@ -1,0 +1,2679 @@
+{
+    "title": "Scott v. Harris",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 7.487,
+                    "stop": 76.75,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, may it please the Court: This case concerns whether a police officer could be held personally liable for using force to terminate a dangerous high-speed pursuit. The undisputed facts show that Deputy Scott did not violate the Fourth Amendment. Respondent had led the police officers on a nine-mile pursuit at exceptionally high speeds. As the videotapes that have been admitted in evidence show, Respondent was driving on narrow two-lane roads at night. He swerved across the double line to pass cars that were in his path, actually traveling in the wrong lane of travel. He ran through a number of red lights. He weaved through a shopping center and collided with Deputy Scott's vehicle. Deputy Scott at that point had tried to block the exit from the shopping center, but Mr. Harris was successful in using his vehicle to escape. At that point, he continued driving at exceptionally high speeds."
+                },
+                {
+                    "start": 76.75,
+                    "stop": 83.154,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I ask this question about the shopping center. Wouldn't your case be exactly the same if the shopping center incident had not occurred?"
+                },
+                {
+                    "start": 83.154,
+                    "stop": 84.537,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It would, Your Honor."
+                },
+                {
+                    "start": 84.537,
+                    "stop": 87.939,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that we really don't have to get distracted by the shopping center?"
+                },
+                {
+                    "start": 87.939,
+                    "stop": 113.773,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There is a... yes, Your Honor. There is a factual dispute as far as whether Deputy Scott's vehicle collided with Mr. Harris' vehicle or vice versa, but we do not believe that that is a material dispute. We believe that the fact, the undisputed fact, that Mr. Harris was driving at such exceptionally high rate of speeds... and to put in context, 90 miles per hour, which is the average speed, and of course--"
+                },
+                {
+                    "start": 113.773,
+                    "stop": 134.003,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not sure why you concede that. I mean, I looked at the case and it seemed to me it's a case involving the whole ball of wax. And I suspect my reaction to that tape was in part affected by the fact that he went through the shopping center, came out and crashed into a police car, which is what Scott saw."
+                },
+                {
+                    "start": 134.003,
+                    "stop": 137.639,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But Scott... yes, Your Honor, I think that is part of the analysis."
+                },
+                {
+                    "start": 137.639,
+                    "stop": 147.846,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So how do I know whether, which of these things is directly or not indirectly... well, you go ahead. But I mean, are you... am I not supposed to look at the part which involves the shopping center?"
+                },
+                {
+                    "start": 147.846,
+                    "stop": 160.82,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely, Your Honor. My point was that, the point was that there was a collision, not who caused the collision, whether the deputy pulled into Mr. Harris' line of travel or Mr. Harris pulled towards the deputy."
+                },
+                {
+                    "start": 160.82,
+                    "stop": 171.545,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is the rule that you propose that the policeman must balance the risk of harm to others versus the risk of harm to the fleeing person?"
+                },
+                {
+                    "start": 171.545,
+                    "stop": 174.747,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor... yes, essentially."
+                },
+                {
+                    "start": 174.747,
+                    "stop": 184.102,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your brief says that the officer reasonably believes that doing so, i.e., terminating the chase, would avoid a greater risk of bodily injury or death."
+                },
+                {
+                    "start": 187.737,
+                    "stop": 192.208,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Greater than not taking action. In other words, that the harm--"
+                },
+                {
+                    "start": 192.208,
+                    "stop": 196.61,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Without reference to the possible harm to the driver? I just want to know what you're testing."
+                },
+                {
+                    "start": 196.61,
+                    "stop": 199.795,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that... I think that is one of the factors to be considered."
+                },
+                {
+                    "start": 199.795,
+                    "stop": 231.333,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know that I agree with that. I mean, if this fellow driving 90 miles an hour is responsible for endangering people, you're proposing a rule that says if there's a 50 percent chance that he'll hurt some innocent person and a 50 percent chance that he'll get hurt if you try to stop him, you shouldn't do anything. I don't agree with that. I'd stop him. I mean, he's the fellow that's causing the danger, endangerment, isn't he?"
+                },
+                {
+                    "start": 231.333,
+                    "stop": 232.516,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor, I would agree with that."
+                },
+                {
+                    "start": 232.516,
+                    "stop": 235.535,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think you're giving away too much."
+                },
+                {
+                    "start": 235.535,
+                    "stop": 246.093,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "One thing I did want to point out is that a speed of 90 miles per hour... and of course there's evidence in the record that the vehicles were at times traveling over 100 miles an hour--"
+                },
+                {
+                    "start": 246.093,
+                    "stop": 256.531,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I didn't mean to put words in your mouth. It seems to me your test might be whether there is a greater risk in stopping him or not stopping him as to other people, without reference to the risk to himself."
+                },
+                {
+                    "start": 256.531,
+                    "stop": 258.651,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, that's probably a better articulation."
+                },
+                {
+                    "start": 258.651,
+                    "stop": 260.903,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's your brief. I want you to--"
+                },
+                {
+                    "start": 260.903,
+                    "stop": 265.756,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that's a better articulation of what the appropriate test would be, the way--"
+                },
+                {
+                    "start": 265.756,
+                    "stop": 273.593,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't the speed also relevant to the likelihood that... that running into a car at that speed would cause the death of a driver?"
+                },
+                {
+                    "start": 273.593,
+                    "stop": 275.029,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It would, Your Honor."
+                },
+                {
+                    "start": 275.029,
+                    "stop": 283.016,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't it a fair high probability that if you hit someone at that speed that there will be something, either death or serious injury as a result?"
+                },
+                {
+                    "start": 283.016,
+                    "stop": 290.122,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, my answer to that question would be that that's always going to be the case whenever force is used to stop a vehicle at this high rate of speed."
+                },
+                {
+                    "start": 290.122,
+                    "stop": 301.863,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I suppose there is also a high probability where you're going 90 miles an hour on a one-way road, crossing over the double yellow line, with oncoming traffic, that you're going to hurt somebody else."
+                },
+                {
+                    "start": 301.863,
+                    "stop": 302.53,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 302.53,
+                    "stop": 309.683,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, the more you increase the speed the more likely he's going to be hurt. But also the more likely if you let him go somebody else is going to be hurt."
+                },
+                {
+                    "start": 309.683,
+                    "stop": 318.522,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. And to put it in a more complete perspective, 90 miles an hour is mathematically equivalent to over 130 feet per second."
+                },
+                {
+                    "start": 318.522,
+                    "stop": 343.457,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Mr. Savrin, there was an episode in the parking lot where things came to a temporary halt. If Scott had stopped pursuing Harris at that point, maybe Harris would not... maybe he would have slowed down. If he was... he was trying to flee from the police, but if the police weren't after him there is no indication that he would have been speeding."
+                },
+                {
+                    "start": 343.457,
+                    "stop": 347.759,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I would disagree with that, that in fact--"
+                },
+                {
+                    "start": 347.759,
+                    "stop": 352.279,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, he was speeding before the police knew about him, right? That's the whole, where this all started."
+                },
+                {
+                    "start": 352.279,
+                    "stop": 381.965,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The initial offense was speeding, and Mr. Harris, instead of pulling over or slowing down as would might be expected by a reasonable person, sped up and continued to drive recklessly. We would contend that it was Mr. Harris that was in control of the force that the officers need to terminate, the risk that he presented. At any time, any time, Mr. Harris could have either slowed down his vehicle or stopped, and he chose not to do that."
+                },
+                {
+                    "start": 381.965,
+                    "stop": 389.904,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, do you contend that an officer can always use deadly force to stop a high-speed driver who's creating this kind of a risk?"
+                },
+                {
+                    "start": 389.904,
+                    "stop": 393.756,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it depends on how you define deadly force. Of course, there can be different--"
+                },
+                {
+                    "start": 393.756,
+                    "stop": 397.974,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Running into him with a high probability that he'll get killed."
+                },
+                {
+                    "start": 397.974,
+                    "stop": 412.401,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that, that would be the case, as I indicated, whenever an officer uses force to stop a vehicle at this speed. I think there is... if it is deadly force, and of course this Court has not articulated a test of that particular question--"
+                },
+                {
+                    "start": 412.401,
+                    "stop": 415.103,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wasn't that acknowledged in the district court, in the trial court?"
+                },
+                {
+                    "start": 415.103,
+                    "stop": 421.107,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In this case? No, the district court found that it did not need to resolve whether or not--"
+                },
+                {
+                    "start": 421.107,
+                    "stop": 422.876,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the jury might find that it was deadly force."
+                },
+                {
+                    "start": 422.876,
+                    "stop": 426.744,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Eleventh Circuit found that the jury might conclude it was deadly force."
+                },
+                {
+                    "start": 426.744,
+                    "stop": 430.279,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And do you conclude that the jury could not find that it was deadly force?"
+                },
+                {
+                    "start": 430.279,
+                    "stop": 437.885,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe, again, Your Honor, I believe that it depends on how broad the test is. The Model Penal Code test, which most of the circuit courts--"
+                },
+                {
+                    "start": 437.885,
+                    "stop": 444.289,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but is your... is it your view that a jury could not find on these facts that there was deadly force?"
+                },
+                {
+                    "start": 444.289,
+                    "stop": 453.061,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I believe, yes, under, under the test as articulated in some of the circuits, yes, this would not be deadly force. Of course, what we're saying is--"
+                },
+                {
+                    "start": 453.061,
+                    "stop": 466.488,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I thought we had a test for deadly force in Garner and it's whether or not there is... it's more likely than not, whether or not there is a serious risk that death will ensue. That's the test, Garner."
+                },
+                {
+                    "start": 466.488,
+                    "stop": 514.967,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, as I read the Garner opinion, the court did not need to reach a definition of deadly force because shooting someone in the back of the head is clearly going to be deadly force. The circuit courts... I can tell you that the circuit courts in the wake of Garner have said that Garner did not create a test and have created different tests along the lines of the Model Penal Code to reach that definition. But the point... I was going to say a point that I would like to make is that there are degrees even within the continuum that might be within a definition of deadly force, such as using a vehicle to make contact, blowing out the tires, using stop sticks, using a firearm. Those have different degrees of potential lethality, so even if they are all considered deadly force there are decisions that an officer has to make."
+                },
+                {
+                    "start": 514.967,
+                    "stop": 523.006,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What test, what of deadly force would not be met here? Considering that it's a summary judgment issue."
+                },
+                {
+                    "start": 523.006,
+                    "stop": 558.23,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. I would say that the Third Circuit decision in the Philadelphia litigation case, where the officers dropped a bomb on a building in order to gain access and they ended up killing 11 people. The Court found that that was not deadly force because the officers were trying to gain access to the building and they reasonably believe that they were able to do that without the loss of life. I think that if that definition were applied to this case, then I think that this would not be deadly force. But I think--"
+                },
+                {
+                    "start": 558.23,
+                    "stop": 559.364,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Finish that."
+                },
+                {
+                    "start": 559.364,
+                    "stop": 562.48,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm sorry. I keep interrupting you."
+                },
+                {
+                    "start": 562.48,
+                    "stop": 579.276,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me. He reasonably... because Scott reasonably believed that he could bump the car off the road at 90 miles an hour without risking the driver's life? Is that why it's like the Third Circuit case?"
+                },
+                {
+                    "start": 579.276,
+                    "stop": 583.06,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, his intent was to end the pursuit, not to cause an accident."
+                },
+                {
+                    "start": 583.06,
+                    "stop": 590.733,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but the Third Circuit case you just described didn't talk about intent. It talked about reasonable belief."
+                },
+                {
+                    "start": 590.733,
+                    "stop": 594.018,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, let me cite another case then, the Adams case from the Eleventh Circuit."
+                },
+                {
+                    "start": 594.018,
+                    "stop": 617.717,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Before do you that, will you go back to the Philadelphia case. Do you contend that a jury could find that he reasonably believed that he would not cause, that he would not raise a serious risk of death or serious bodily harm by bumping the car at 90 miles an hour? I don't understand that. How could such a belief be reasonable? What am I missing here?"
+                },
+                {
+                    "start": 617.717,
+                    "stop": 644.051,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Let me cite the Court to the Eleventh Circuit's own reasoning in the Adams case. And that case involves a misdemeanant where the officer intentionally made contact with the vehicle several times. The last contact caused the death of a passenger. The Eleventh Circuit found that Garner did not apply to that situation and further said that a policeman's use of his vehicle is very different from a policeman's use of his gun."
+                },
+                {
+                    "start": 644.051,
+                    "stop": 645.82,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That doesn't answer my question."
+                },
+                {
+                    "start": 645.82,
+                    "stop": 646.42,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorry, Your Honor."
+                },
+                {
+                    "start": 646.42,
+                    "stop": 660.662,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why, why would it be reasonable to believe that a car could be bumped at 90 miles an hour plus without raising a substantial risk of death or serious bodily harm? How could such a belief be reasonable?"
+                },
+                {
+                    "start": 660.662,
+                    "stop": 666.214,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because there are vehicle collisions every day, Your Honor, that do not end in death or serious bodily harm."
+                },
+                {
+                    "start": 666.214,
+                    "stop": 675.589,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Some people are lucky. We're talking about creating a substantial risk. How would it be reasonable to assume that one would not create a substantial risk?"
+                },
+                {
+                    "start": 675.589,
+                    "stop": 694.734,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, because Mr. Harris could have regained control of his vehicle. The point is that Mister... that the Petitioner had limited options based on the manner in which Mr. Harris was driving. Even if this would be considered deadly force, we do believe it would be justified under the circumstances."
+                },
+                {
+                    "start": 694.734,
+                    "stop": 711.262,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's a different issue and you may prevail on other arguments in the case. But as to whether or not there's a likelihood or a reasonable likelihood of serious injury, it seems to me that's clearly a question for the jury. I mean, we might argue about it up here, but that's classic jury question, isn't it?"
+                },
+                {
+                    "start": 711.262,
+                    "stop": 732.842,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe in the context of the Fourth Amendment and the Graham factors and the question of probable cause, that it's not the same as simply a jury question. But I do concede that if it's not deadly force it's very close to it. But I think the important thing is that, whatever force Mister... the Petitioner used was limited by Mr. Harris' driving."
+                },
+                {
+                    "start": 732.842,
+                    "stop": 776.121,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Savrin, one technique that Officer Scott asked permission to use was described as a PIT technique that would be a life and limb... sparing measure. One oddity about this case is that he called and asked permission to use that less risky method and yet when he determined that he couldn't do that, given the speed of the vehicles, he didn't ask permission to do what he did do, which was life-endangering."
+                },
+                {
+                    "start": 776.121,
+                    "stop": 817.198,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, if I could respond to that in two respects. First, it is not, it is not the case that the PIT maneuver, as it's commonly called, is safe. What it does is spin the car out, and if Mr. Harris' vehicle had been spun out in this case it is more likelihood that he would have lost control. In other words, it causes the vehicle to lose control. The second response I would have is that the Petitioner did ask permission to do the PIT maneuver and the permission that the supervisor gave, which was Mr. Faninger that's in the record undisputed, was to use force up to deadly force. So Mr.--"
+                },
+                {
+                    "start": 817.198,
+                    "stop": 820.067,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where is that?"
+                },
+                {
+                    "start": 820.067,
+                    "stop": 826.82,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's in Mark Faninger's deposition, and he is the supervisor that was--"
+                },
+                {
+                    "start": 826.82,
+                    "stop": 832.457,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And he said he gave permission for more than PIT procedure?"
+                },
+                {
+                    "start": 832.457,
+                    "stop": 838.211,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. His testimony was that he was giving, he believes he was giving permission up to and including deadly force."
+                },
+                {
+                    "start": 838.211,
+                    "stop": 840.897,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the phrase used was \"take him out\", wasn't it?"
+                },
+                {
+                    "start": 840.897,
+                    "stop": 843.213,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. Yes, Your Honor."
+                },
+                {
+                    "start": 843.213,
+                    "stop": 853.638,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does a police officer have any obligation in a situation like this to consider other alternatives, and if so what other alternatives might have been available to this officer?"
+                },
+                {
+                    "start": 853.638,
+                    "stop": 863.111,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Justice Stevens. I think the officer had very limited options, two options at that point: Either use force or let Mr. Harris go. And I think it was a balancing of--"
+                },
+                {
+                    "start": 863.111,
+                    "stop": 872.916,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And even with letting him go, isn't it possible they could get other roadblocks up ahead or get other people involved in the attempt to catch him?"
+                },
+                {
+                    "start": 872.916,
+                    "stop": 885.359,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, there always are other potentials. However, I would submit that a vehicle traveling at 130 feet per second can do a lot of damage in a very short period of time before the police officers can figure out what route he's going to take."
+                },
+                {
+                    "start": 885.359,
+                    "stop": 889.061,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't it true that there's no traffic on the road at that particular time?"
+                },
+                {
+                    "start": 889.061,
+                    "stop": 900.869,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Deputy Scott took the action that he did because there was a low likelihood of injury to third parties other than to Mr. Harris because there was no one in his immediate path of travel."
+                },
+                {
+                    "start": 900.869,
+                    "stop": 906.089,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in that circumstance why wouldn't he just consider discontinuing the chase?"
+                },
+                {
+                    "start": 906.089,
+                    "stop": 929.871,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because there were... the videotape shows that Mr. Harris passed approximately 36 cars during this period of time. 12 seconds before the contact was made, a vehicle was passed by Mr. Harris. There was a high likelihood, in fact a probability, that this case was going to end in tragedy, and Deputy Scott took the action that he could."
+                },
+                {
+                    "start": 929.871,
+                    "stop": 933.69,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would that have been likely if the officer had discontinued the chase?"
+                },
+                {
+                    "start": 933.69,
+                    "stop": 944.631,
+                    "speaker": {
+                        "name": "Philip W. Savrin",
+                        "ID": 38333,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Whether he discontinued the chase or not, Mr. Harris could still injure whoever might be around the next corner, Your Honor. If there are no further questions, I'd like to save my time for rebuttal."
+                },
+                {
+                    "start": 944.631,
+                    "stop": 952.201,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Savrin. Mr. Garre?"
+                }
+            ],
+            "start": 7.487,
+            "stop": 972.615
+        },
+        {
+            "turns": [
+                {
+                    "start": 952.201,
+                    "stop": 972.615,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: When a suspect disobeys a lawful command to stop, races off in a reckless attempt to elude the police, and demonstrates a disregard for his own life and the lives of others in his path, the police may use force, including deadly force, to bring the suspect's vehicle flight to a halt and protect the public safety."
+                },
+                {
+                    "start": 972.615,
+                    "stop": 989.426,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does it matter exactly what the nature of the escape was? Are we supposed to evaluate whether this was reckless enough? Well, let's say the driver did not go off 90 miles an hour. Let's say he obeyed the speed limit. He just wasn't going to stop. Does that make it a different case?"
+                },
+                {
+                    "start": 989.426,
+                    "stop": 1000.551,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does, Your Honor. The key determination is whether the officer on the scene reasonably determines that the vehicle poses a substantial risk to other motorists or the police in his way."
+                },
+                {
+                    "start": 1000.551,
+                    "stop": 1005.836,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would think that would apply to all high-speed cases; would you not agree?"
+                },
+                {
+                    "start": 1005.836,
+                    "stop": 1023.481,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I agree that it does, Justice Kennedy. Here what you have is an individual who's going extraordinarily high speeds, 80 to 100 miles an hour. An individual who has passed cars, crossed the double, double line; there were numerous motors, motor vehicles on the night. And an individual who has ran red lights, an individual who when three police cars--"
+                },
+                {
+                    "start": 1023.481,
+                    "stop": 1031.569,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. But that was while he was being chased, right? Before being chased he hadn't done any of this. He was going 72 miles an hour in a 55-mile zone, isn't that right."
+                },
+                {
+                    "start": 1031.569,
+                    "stop": 1044.96,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, that's true, Your Honor. But as the Court said in the Sacramento versus Lewis case, we don't blame police for the individual's reckless flight in that context. We don't blame police that Respondent made a decision to just--"
+                },
+                {
+                    "start": 1044.96,
+                    "stop": 1054.685,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No but if you're thinking of the likelihood of harm if they discontinued the chase, is it not reasonable to assume he might go back to going 72 miles an hour in a 55-mile zone?"
+                },
+                {
+                    "start": 1054.685,
+                    "stop": 1057.218,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Not on this record, Justice Stevens. In this particular--"
+                },
+                {
+                    "start": 1057.218,
+                    "stop": 1064.041,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It would might also be reasonable to assume that anyone who was chased by the police will immediately speed up to 90 miles an hour."
+                },
+                {
+                    "start": 1064.041,
+                    "stop": 1065.874,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's exactly right, Justice Sc alia."
+                },
+                {
+                    "start": 1065.874,
+                    "stop": 1074.863,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It doesn't seem to me a very good rule to give to police forces: Anybody who's going 72 miles an hour, let him go. Or at least if he hits 90, let him go."
+                },
+                {
+                    "start": 1074.863,
+                    "stop": 1080.217,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We agree, Justice Scalia. As Justice Kennedy put it Sacramento versus Lewis, if there's a real danger--"
+                },
+                {
+                    "start": 1080.217,
+                    "stop": 1086.989,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There isn't a question. There is a question of whether it justifies the use of deadly force, to prevent this... this situation."
+                },
+                {
+                    "start": 1086.989,
+                    "stop": 1098.279,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The question in our mind, Justice Stevens, is whether Deputy Scott reasonably believed that Respondent posed a serious risk of injury or death to other motor vehicles, bystanders or police on the roadway that night."
+                },
+                {
+                    "start": 1098.279,
+                    "stop": 1119.627,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why are these absolute? I mean I looked at Garner and then I looked at Graham and Graham which came later said that all claims that officers have used excessive force, deadly or not, should be analyzed under the Fourth Amendment and its reasonableness standard. So I guess... isn't that right, isn't that the law?"
+                },
+                {
+                    "start": 1119.627,
+                    "stop": 1120.66,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We agree, Your Honor."
+                },
+                {
+                    "start": 1120.66,
+                    "stop": 1165.073,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right, if that's the law, then whether... of course an automobile could, could kill people. Of course it can. So can a lot of things. But an automobile isn't a gun, and a chase on the highway is not a chase through a back yard, though both could end up with the person being chased dead. So aren't we supposed to look at all the circumstances, including the circumstance of what... one that interests me, one, is that the right standard? Two, did Scott know that the reason he was chasing this person was because he had violated a speed limit, or was he ignorant of the reason why the individual was racing away at 90 miles an hour, which is as far as the record could show?"
+                },
+                {
+                    "start": 1165.073,
+                    "stop": 1171.143,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice Breyer, to answer the second question first, Scott did not know that he was initially in a chase."
+                },
+                {
+                    "start": 1171.143,
+                    "stop": 1173.362,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And a reasonable juror could not conclude to the contrary?"
+                },
+                {
+                    "start": 1173.362,
+                    "stop": 1195.541,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Scott, I believe, Scott's testimony was that he did not know. What Scott knew, and he was engaged in the chase, was this is an individual who had crossed cars, crossed the double yellow line. This was an individual who had ran red lights. This was an individual, when three police squad cars converged on him in the shopping center parking lot, collided with them and ran off into the highway, reaching again speeds up to 90 miles an hour."
+                },
+                {
+                    "start": 1195.541,
+                    "stop": 1207.683,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it reasonable for him to suppose that there might be something more going on if the guy is trying this hard to get away from a speeding ticket? That presents he presents a danger to the community quite apart from the driving?"
+                },
+                {
+                    "start": 1207.683,
+                    "stop": 1208.366,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely."
+                },
+                {
+                    "start": 1208.366,
+                    "stop": 1210.785,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that a factor that goes into the analysis?"
+                },
+                {
+                    "start": 1210.785,
+                    "stop": 1222.243,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is, certainly, at a commonsense level. Statistic show that most vehicles who flee in this fashion, oftentimes there is alcohol or drug abuse involved, oftentimes they are stolen vehicles. We don't think--"
+                },
+                {
+                    "start": 1222.243,
+                    "stop": 1231.799,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if they knew there were drugs in the car that he would dispose of if he had got caught. Would that justify this using deadly force?"
+                },
+                {
+                    "start": 1231.799,
+                    "stop": 1234.916,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm not sure that it would, Justice Scalia... uh, Justice Stevens."
+                },
+                {
+                    "start": 1234.916,
+                    "stop": 1239.97,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm rather clear it would not, isn't it? Because that would be no more serious than the crime in Garner, would it?"
+                },
+                {
+                    "start": 1239.97,
+                    "stop": 1254.88,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well... that's true. The key, the key point about this case is the threat that Respondent posed in the... suspects who engage in high speed vehicle chases pose to the public, and that is, that is fundamentally different from Garner for the reason that you mentioned. Garner involved--"
+                },
+                {
+                    "start": 1254.88,
+                    "stop": 1262.836,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your position would be the same even if Scott knew that the only reason they were trying to stop him initially was the speeding violation?"
+                },
+                {
+                    "start": 1262.836,
+                    "stop": 1277.945,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. It doesn't matter why the chase began. The point is that when Scott made the decision to use force against Respondent, he reasonably determined that Respondent posed a grave threat to other motorists, the police and any bystanders who might come in his way."
+                },
+                {
+                    "start": 1277.945,
+                    "stop": 1302.711,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why, why wouldn't it matter? I mean, other things being equal, suppose that he known that all that happens, suppose he was two miles beyond the speed limit. And Scott knew the whole thing or Scott was the one who did it, and he says maybe he is a young kid who is frightened and he has his license number and he could get him later. I mean, why wouldn't it be nutty to... to try to bump somebody off the road, when all, that's all that's at stake?"
+                },
+                {
+                    "start": 1302.711,
+                    "stop": 1331.73,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because, Your Honor, regardless of the reason the chase began, at the moment that Deputy Scott used the force, this car posed a serious risk to everyone else on the road that night. Someone traveling 90 miles an hour, up to 90 miles an hour, on a two-lane windy road with numerous cars passing during this course of the chase, it was that threat that Deputy Scott acted against when he used that force, and that was a reasonable use of force. It's reasonable regardless of whether or not this Court determines--"
+                },
+                {
+                    "start": 1331.73,
+                    "stop": 1354.595,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you deal with the Brower case? That it was a 193... 83 action against the police for setting up a roadblock to catch a speeder. And the Court said that the roadblock was enough to give rise to a 1983 claim?"
+                },
+                {
+                    "start": 1354.595,
+                    "stop": 1384.978,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice Ginsburg, the holding in that case was that a roadblock amounted to a seizure. And we don't, no one disputes there was a seizure in this case when Deputy Scott intentionally used force to put Respondents off the road. So it respect, Brower doesn't speak to the question in this case, which is whether or not that use of force was reasonable under the circumstances. Justice Kennedy in the Sacramento versus Lewis case, in his concurring opinion, say that there was a real danger of adopting a constitutional rule that suspects are free to disobey lawful commands."
+                },
+                {
+                    "start": 1384.978,
+                    "stop": 1391.784,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just make this one point? Is it correct that the issue is whether it's reasonable or is the issue whether a jury could find it unreasonable?"
+                },
+                {
+                    "start": 1391.784,
+                    "stop": 1432.611,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the... ultimately to determine whether this decision could be made at the summary judgment stage you would have to consider whether a jury could find it unreasonable. Here, on the relevant undisputed facts, we submit as a matter of law, Deputy Scott reasonably believed that this force was necessary under the circumstances. And the final point that I wanted to make, going back to Justice Kennedy's concurrence, is that there is a real danger in adopting that kind of constitutional rule, that it will encourage more suspects to flee, and will only increase the danger to the public and to police and to motorists in these high speed chases. I would urge this Court to reverse the decision below. If there are no further questions--"
+                },
+                {
+                    "start": 1432.611,
+                    "stop": 1436.813,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Garre. Mr. Jones."
+                }
+            ],
+            "start": 952.201,
+            "stop": 1461.262
+        },
+        {
+            "turns": [
+                {
+                    "start": 1436.813,
+                    "stop": 1461.262,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court. I'd like to begin by responding to some of the questions that were asked of Petitioner. First of all, Officer Scott himself admitted in his testimony that he knew at the time that he was using deadly force, and he realized at the time that he was likely to cause injury or... death or serious injury to Mr. Harris."
+                },
+                {
+                    "start": 1461.262,
+                    "stop": 1468.868,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any doubt that Mr. Harris was likely to cause death or serious injury to the other cars on the highway that he was passing?"
+                },
+                {
+                    "start": 1468.868,
+                    "stop": 1481.559,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Harris was simply a... an unsafe driver. There is always a risk at driving in excess of speed limit, driving in violation of traffic laws. But that risk in and of itself is not--"
+                },
+                {
+                    "start": 1481.559,
+                    "stop": 1496.936,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We are not talking about driving in violation of traffic laws. We talking about 90 miles an hour on a two-lane highway, swerving past cars in the incoming traffic-- --Hitting... after hitting Officer Scott's car and continuing on. That's a little more than just unsafe."
+                },
+                {
+                    "start": 1496.936,
+                    "stop": 1509.361,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, those are not the facts before the Court, Mr. Chief Justice. The facts are that he was driving fast but he was under control. He only crossed the center line to pass and when he passed, he used his turn signal when he passed."
+                },
+                {
+                    "start": 1509.361,
+                    "stop": 1514.98,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He used the turning signal. That's like the strangler who observes the no smoking sign. [Laughter]"
+                },
+                {
+                    "start": 1514.98,
+                    "stop": 1550.07,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "When he turned into the... when he turned into the shopping center he wasn't weaving through a parking lot. He was going through a private access road in a shopping mall which was closed at 11 o'clock at night. And the collision, the impact occurred when Officer Scott, who was going too fast to make the turn into the shopping center, went up to the next intersection, came around the other way to head my client off at the pass. And then what happened was that Mr. Harris took evasive action to a avoid collision when Mr. Harris... excuse me when Officer Scott... put himself right in Mr. Harris' way."
+                },
+                {
+                    "start": 1550.07,
+                    "stop": 1560.628,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Jones, I looked at the videotape on this. It seemed to me that he created a tremendous risk of drivers on that road. Is that an unreasonable way of looking at the... at this tape?"
+                },
+                {
+                    "start": 1560.628,
+                    "stop": 1577.59,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He created the scariest chase I ever saw since \"The French Connection\". [Laughter] It is frightening. A frightening amount of speed, and cars coming in the opposite direction, at night, on a two-lane windy road--"
+                },
+                {
+                    "start": 1577.59,
+                    "stop": 1587.628,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, as the Court below found, and as the tape indicates, Mr. Harris didn't run anybody off the road. He didn't ram anybody. He didn't try to ram anybody. He was just driving away."
+                },
+                {
+                    "start": 1587.628,
+                    "stop": 1623.331,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The question was whether he was creating a substantial risk doing that. And my, my question is how could a jury find otherwise? Your answer up to this point is that well, he used signal lights and his reflexes were good, and they sure were. But the question is whether he was creating a substantial risk of death or serious bodily harm to others. And my question is leaving... assuming that his reflexes were good and he knew how to use the signal lights, how could the jury fail to find that he was creating such a risk?"
+                },
+                {
+                    "start": 1623.331,
+                    "stop": 1637.155,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the jury could certainly find he's creating a risk. But with regard to the other Garner factors that must be shown before deadly force can be used, he had not committed a violent felony, a crime involving the infliction or threat of infliction--"
+                },
+                {
+                    "start": 1637.155,
+                    "stop": 1675.614,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Garner was not talking about someone who at the time the deadly force was used was himself creating a substantial risk of death or serious bodily harm to others. That's what we are dealing with here. And the reasonableness of the officer's action depends on whether, at the summary judgment stage, a jury can reasonably find that, in fact, he was not creating at that moment, a substantial risk of serious bodily harm or death to others. And my question is, how could a jury find anything else?"
+                },
+                {
+                    "start": 1675.614,
+                    "stop": 1698.379,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, a jury could find that the pursuit by the officer escalated the risk rather than diminishing the risk to others. And that given a choice between using deadly force to terminate a pursuit where the officer himself had escalated the risk versus backing off, letting the offender escape and then perhaps arresting him an hour later at the house."
+                },
+                {
+                    "start": 1698.379,
+                    "stop": 1708.401,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did Scott, know that? Did Scott... Do you have evidence to show that Scott knew that the underlying offense was a speeding violation?"
+                },
+                {
+                    "start": 1708.401,
+                    "stop": 1713.689,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We have evidence that it was called out on the radio. \"I'm pursuing somebody\". Whether Scott knew we don't know."
+                },
+                {
+                    "start": 1713.689,
+                    "stop": 1725.078,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And Scott has testified he didn't know it. Now, do you think you can get to the jury on the question of whether he knew it. I'd like a yes or no answer."
+                },
+                {
+                    "start": 1725.078,
+                    "stop": 1729.215,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The testimony--"
+                },
+                {
+                    "start": 1729.215,
+                    "stop": 1731.032,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That doesn't sound like yes or no."
+                },
+                {
+                    "start": 1731.032,
+                    "stop": 1734.435,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm not certain I understand the question."
+                },
+                {
+                    "start": 1734.435,
+                    "stop": 1744.291,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The question is, can you-- get to the jury on the question of whether Scott knew-- that the underlying offense was for speeding?"
+                },
+                {
+                    "start": 1744.291,
+                    "stop": 1746.008,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Scott did not know that was it."
+                },
+                {
+                    "start": 1746.008,
+                    "stop": 1782.916,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. If Scott didn't know it, I mean, my goodness, then I don't see the relevance of whether it was speeding or not. And I was with you when I read the... the opinion of the court below. And I read the other brief. I was on the other side. Then I've been shifting back and forth. Then I look at that tape, and I have to say that when I looked at the tape, my reaction was somewhat similar to Justice Alito's. And so if it's doubtful and then you can't even show that the person who did it knew that this was for speeding rather than for murder, how can you get to the jury?"
+                },
+                {
+                    "start": 1782.916,
+                    "stop": 1794.891,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there is certainly a credibility issue as to whether Scott says he knew or didn't know. I mean, certainly the call on the radio he could have acquired. The thing is that--"
+                },
+                {
+                    "start": 1794.891,
+                    "stop": 1809.734,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, as the Chief Justice indicated through a question earlier, isn't it reasonable for an officer to assume that it is... he is trying to escape because there is something more serious than speeding at stake? I mean, that's the assumption I would draw."
+                },
+                {
+                    "start": 1809.734,
+                    "stop": 1817.422,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That assumption would not be based upon probability or based upon police training. Officers in pursuit situations are trying to believe--"
+                },
+                {
+                    "start": 1817.422,
+                    "stop": 1822.91,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean just as many people take off in high speed chases for speeding as for serious crimes?"
+                },
+                {
+                    "start": 1822.91,
+                    "stop": 1827.428,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The vast majority have committed minor crimes. And it's not a rational--"
+                },
+                {
+                    "start": 1827.428,
+                    "stop": 1875.859,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But at the moment Scott came into this case, what difference does that make? Why is that even relevant? Let's assume Scott knew that this entire situation had eventuated out of an 18 mile in excess of speed act by the individual. Assume that. What Scott also knew at the point at which he joined the chase was that this individual was driving a car at 90 miles an hour. He was crossing yellow lines, going through red lights, et cetera. At that point, wasn't the only legally relevant data whether or not Harris was creating the risk of death or bodily harm to others?"
+                },
+                {
+                    "start": 1875.859,
+                    "stop": 1880.247,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's the issue. Was there an immediate risk of death or serious bodily harm--"
+                },
+                {
+                    "start": 1880.247,
+                    "stop": 1890.603,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you agree that whether Scott knew or didn't know, that this whole scenario had eventuated out of a speeding situation was irrelevant?"
+                },
+                {
+                    "start": 1890.603,
+                    "stop": 1908.682,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's not relevant. It's relevant to that termination. Yeah, the issue is, is there an immediate risk. But one of the factors that is significant is what is the severity of the underlying crime. And if it is a crime of violence, then certainly the officer is entitled to presume--"
+                },
+                {
+                    "start": 1908.682,
+                    "stop": 1943.939,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's exactly where I started. And I wondered... that's what I'm uncertain about the standard for this. Because as you and the others have been arguing, if the question is one about rules surrounding the use of deadly force. But then when I read what I read out to you, in Graham, it seemed to me that Graham, which comes after Garner, says that's not the standard. Graham is a standard of simple reasonableness and Garner is simply an illustration of that as applied to guns and a backyard chase, not as applied to cars which threaten other people much more."
+                },
+                {
+                    "start": 1943.939,
+                    "stop": 1944.955,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that's a good question."
+                },
+                {
+                    "start": 1944.955,
+                    "stop": 1950.509,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what is the standard? Am I supposed to apply... am I not supposed to apply Graham?"
+                },
+                {
+                    "start": 1950.509,
+                    "stop": 2004.311,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, whether you apply Garner or Graham, the result is the same in this case. And let me explain why. What Graham did is it expanded the Garner rule, which you can't use deadly force to stop a fleeing suspect who is merely fleeing, expanded that to include the entire range of use of force, deadly or nondeadly. And with regard to the factors that are to be considered in determining whether the use of force is reasonable under Graham, the balance with respect to a fleeing suspect who is subjected to deadly force was already drawn by Garner. Garner created a bright light rule. Graham extended that to an ad hoc balancing test with all use of force applications. But with respect to deadly force and a fleeing suspect, Garner still provides a bright line rule."
+                },
+                {
+                    "start": 2004.311,
+                    "stop": 2032.747,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying I cannot do the following under the law, which would seem to be contrary to common sense, to say there is a big difference between a policeman shooting a person who is running away and threatens no harm to others, and a policeman using a gun... using a car on a highway to try to get a person to stop who is threatening others. I have to treat those exactly as if they were the same thing."
+                },
+                {
+                    "start": 2032.747,
+                    "stop": 2046.271,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. And Garner, this Court's decision in Garner and this Court's decision in Brower, which was written by Justice Scalia, basically to quote Brower in both cases. In the Brower versus County of Inyo--"
+                },
+                {
+                    "start": 2046.271,
+                    "stop": 2064.032,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Eleventh Circuit gave the exact opposite answer in the Adams case, which if you're looking at what the... was clearly established law from the point of view of the officer that provides him guidance that the Garner case does not dictate a result in the use of deadly force in the police chase case involving an automobile."
+                },
+                {
+                    "start": 2064.032,
+                    "stop": 2108.045,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the holding of the Adams versus St. Lucie County case was that in 1985, an incident which occurred six weeks after the Garner decision and four years before the Brower decision, there is no way the officers could have known at that time that their act of ramming a police car to prevent an escape of another fleeing vehicle would have been considered deadly force in violation of the Fourth Amendment. As the dissent pointed out in the, in the Adams case, though, certainly as of the Court's decision in 1993, this was now clearly established. You had Brower saying that it's a seizure, and then you had this Court saying that now the law was clearly established where it wasn't before--"
+                },
+                {
+                    "start": 2108.045,
+                    "stop": 2112.532,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So when Officer Scott was trying to figure out what the law was, he should have relied on the dissent in the case?"
+                },
+                {
+                    "start": 2112.532,
+                    "stop": 2124.007,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, another case came about later which held that as early as 1998 in another case involving the same department, that there was clearly established law."
+                },
+                {
+                    "start": 2124.007,
+                    "stop": 2139.183,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was there any case at the time of the action in this case, any decision that said ramming, ramming a car to end a chase violates the Fourth Amendment?"
+                },
+                {
+                    "start": 2139.183,
+                    "stop": 2141.719,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Brower versus County of Inyo says--"
+                },
+                {
+                    "start": 2141.719,
+                    "stop": 2145.086,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Brower was a roadblock case."
+                },
+                {
+                    "start": 2145.086,
+                    "stop": 2167.234,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It was a roadblock which-- produced a collision, a physical impact between vehicles. And that was the... that was the distinction which Justice Scalia latched onto in that case, and said that the mere fact that the person was fleeing by car in Brower was no different than the burglar fleeing by foot in Garner. Either one of them--"
+                },
+                {
+                    "start": 2167.234,
+                    "stop": 2171.102,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But the issue in the case was quite simply whether there had been a seizure. Isn't that the issue?"
+                },
+                {
+                    "start": 2171.102,
+                    "stop": 2209.91,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That was the first holding. The second holding was that the Plaintiff had sufficiently claimed a cause of action on the seizure. And then it went back to the lower court to be considered under the Garner analysis. And what I liked about your decision... excuse me, Mr. Chief Justice. What I liked about your decision in that case, Justice Scalia, was that you said that the officer's culpability for using excessive force is not diminished by the fact that perpetrator chose to continue running, whether it was the fleeing burglar in Garner or the fleeing driver in Brower. Excuse me, Mr. Chief Justice."
+                },
+                {
+                    "start": 2209.91,
+                    "stop": 2218.283,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--If I could just get back to an earlier point. You think what the officer should have done in this case was to let Mr. Harris go."
+                },
+                {
+                    "start": 2218.283,
+                    "stop": 2229.907,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That was one option. He could have continued the pursuit and simply decided not to mow him off the road at 90 miles an hour, or he could have stopped a pursuit and let him go which often happens in many pursuits."
+                },
+                {
+                    "start": 2229.907,
+                    "stop": 2236.461,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even though he doesn't know at that point that he will ever be able to arrest him later. He doesn't know if it's a stolen car or not."
+                },
+                {
+                    "start": 2236.461,
+                    "stop": 2237.346,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2237.346,
+                    "stop": 2241.665,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And he doesn't know why he is being pursued, whether it's for mass murder or terrorism or anything else."
+                },
+                {
+                    "start": 2241.665,
+                    "stop": 2276.321,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's correct. But in the majority of cases... and this is the only testimony in this record, Your Honors. Our experts testified on a study... based on a study which was commissioned for him by the Department of Justice, a study which has been cited by some of the amicus briefs on both sides in this case, Dr. Albert testified that 70 percent of the time, when police back off pursuit, the perpetrator stops running and they resume safe driving. And when the car is stolen, most of the time--"
+                },
+                {
+                    "start": 2276.321,
+                    "stop": 2278.173,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Once they have gotten away, I assume."
+                },
+                {
+                    "start": 2278.173,
+                    "stop": 2292.85,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, sometimes you have to let them get away. In Garner, it says, even if the guy has just broken into somebody's house in the middle of the night and committed a felony, if the choice is letting them go or using deadly force when the factors authorizing deadly force are not present, you have to let him go."
+                },
+                {
+                    "start": 2292.85,
+                    "stop": 2295.968,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not if he is shooting his way out of the house and endangering other people."
+                },
+                {
+                    "start": 2295.968,
+                    "stop": 2296.335,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2296.335,
+                    "stop": 2311.894,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, that's a factor here, of course. If he has taken the jewelry and he's gone off into the night, if shooting at him might endanger somebody else, or even kill him, you have to let him go. I'm talking about a burglar who is, you know, who is shooting as he leaves."
+                },
+                {
+                    "start": 2311.894,
+                    "stop": 2314.279,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You can shoot him. I'd be there shooting him, too."
+                },
+                {
+                    "start": 2314.279,
+                    "stop": 2315.113,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course you can shoot him."
+                },
+                {
+                    "start": 2315.113,
+                    "stop": 2334.36,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Let me take that distinction and apply it to the vehicle, Justice Scalia. What we have to have to authorize deadly force in this context is something more than just unsafe flight. You've got to have someone who is behaving violently, who is menacing people, trying to ram people."
+                },
+                {
+                    "start": 2334.36,
+                    "stop": 2341.931,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you tell me as of the time he exited the parking lot, by that point, had he committed any felonies?"
+                },
+                {
+                    "start": 2341.931,
+                    "stop": 2345.985,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. All he had done was taken evasive action to avoid an officer who--"
+                },
+                {
+                    "start": 2345.985,
+                    "stop": 2349.102,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "90 miles an hour would not be a felony, not a reckless driving?"
+                },
+                {
+                    "start": 2349.102,
+                    "stop": 2356.09,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Are you talking about the traffic pursuit? No, none of those are felonies under Georgia law."
+                },
+                {
+                    "start": 2356.09,
+                    "stop": 2358.542,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "At no point did he commit a felony?"
+                },
+                {
+                    "start": 2358.542,
+                    "stop": 2361.744,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. It's not even a felony in Georgia."
+                },
+                {
+                    "start": 2363.527,
+                    "stop": 2365.579,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If he had intended to hit the police officer, was it--"
+                },
+                {
+                    "start": 2365.579,
+                    "stop": 2377.787,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If he had intended to hit the police officer, if that was shown by the evidence, so they could have charged with aggravated assault. They didn't do that. They left traffic citations in his hospital room. They never arrested him. They never prosecuted him."
+                },
+                {
+                    "start": 2377.787,
+                    "stop": 2398.583,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The key point is that he is endangering the lives and safety of others. Anyone who has watched that tape has got to come to that conclusion, looking at the road and the way that this car was swerving, and the cars coming in the opposite direction. This was a situation fraught with danger."
+                },
+                {
+                    "start": 2398.583,
+                    "stop": 2428.639,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Justice Ginsburg, I hope I don't have you on my jury if that's... but what the trial court found was that construing the facts in a light most favorable to the Plaintiff as a nonmoving party, that reasonable jurors can find that this was simply a person who was driving fast. This was not a person who was driving assaultively. He wasn't driving violently. He wasn't a threat to anyone that would authorize the use of deadly force against him."
+                },
+                {
+                    "start": 2428.639,
+                    "stop": 2432.173,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that a factual finding of the, of the trial court here?"
+                },
+                {
+                    "start": 2432.173,
+                    "stop": 2433.456,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is a factual finding."
+                },
+                {
+                    "start": 2433.456,
+                    "stop": 2434.875,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are we bound by that fact?"
+                },
+                {
+                    "start": 2434.875,
+                    "stop": 2457.322,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We are bound by that. This is an interlocutory appeal, this an interlocutory appeal under Mitchell v. Forsythe, and the Court is bound by its own ruling to accept the facts as found by the court below, and decide the narrow issue of law here which is, one, is there a constitutional violation on these facts. And two, was the law clearly established."
+                },
+                {
+                    "start": 2457.322,
+                    "stop": 2463.56,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even if having watched the tape, there is no way that, that factual finding can be accurate?"
+                },
+                {
+                    "start": 2463.56,
+                    "stop": 2508.605,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If you want to repeal Johnson v. Jones and Mitchell v. Forsythe, then yes. This is the Supreme Court. You can make that determination. But based upon the prior rulings of this Court, this Court is bound to accept the findings of fact of the courts below, and then to determine solely the legal issue on an interlocutory basis. The bottom line issue here, Your Honors, is whether the fact that someone is driving in violation of traffic laws in and of itself can be justification for the use of deadly force."
+                },
+                {
+                    "start": 2508.605,
+                    "stop": 2521.848,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see how... I mean, you know, given our prior discussion here, I don't see how that's the issue. Because you say we have to assume that the Defendant here didn't know that, in fact, all that was at issue was a violation of the traffic law."
+                },
+                {
+                    "start": 2521.848,
+                    "stop": 2530.454,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I'm not talking about the underlying violation here. I'm talking about the conduct observed by the officer who made the decision to use deadly force."
+                },
+                {
+                    "start": 2530.454,
+                    "stop": 2542.995,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That conduct... it could be conduct... you could say exactly your same question, just as the Chief just said. I mean, I don't know how to get around this. You could say the question was, does a person who reasonably thinks he might be being pursued for a murder--"
+                },
+                {
+                    "start": 2542.995,
+                    "stop": 2566.793,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This is the issue. If what this person is doing is driving, say driving unsafely, but they are not driving violently, they are not driving aggressively, they are not menacing anyone on the road. They are simply driving fast trying to get away, that in and of itself, is that going to be justification for the use of deadly force or is something more going to be required?"
+                },
+                {
+                    "start": 2566.793,
+                    "stop": 2586.291,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When someone is fleeing and creating a grave danger, let's just assume that that's the case, creating a very danger for other drivers on the road, when in your view is it reasonable for the police to use deadly force to stop that, as opposed to breaking off the chase? What, what is the test."
+                },
+                {
+                    "start": 2586.291,
+                    "stop": 2611.489,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, under Garner the test is they have to be threatening violence or inflicting violence against someone. There have to be no other alternatives other than deadly force available to effect the apprehension. And assuming there is justification for deadly force, then there is a duty to give a warning where feasible before using deadly force. And the court below felt none of those three factors--"
+                },
+                {
+                    "start": 2611.489,
+                    "stop": 2614.024,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How could you possibly give a warning in this situation?"
+                },
+                {
+                    "start": 2614.024,
+                    "stop": 2626.182,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's academic in this case, because the first two factors were not met. I mean, it's our position that you don't worry about giving a warning unless you have the right to use deadly force, and if you don't get to that point then it's... it's a moot question."
+                },
+                {
+                    "start": 2626.182,
+                    "stop": 2636.473,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why wasn't there warning? There were lights, there were sirens. Surely the defendant knew that the police were trying to stop him."
+                },
+                {
+                    "start": 2636.473,
+                    "stop": 2644.293,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There was certainly warning that he needed... that he was expected to pull over. There was no warning of any intent to use deadly force."
+                },
+                {
+                    "start": 2644.293,
+                    "stop": 2675.181,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What am I... you said factually. What am I supposed to assume? You said in light of... I mean, I looked at the tape and that tape shows he is weaving on both sides of the lane, swerving around automobiles that are coming in the opposite direction with their lights on, goes through a red light where there are several cars that are right there, weaves around them, and there are cars coming the other way, weaves back, goes down the road. Now, what in fact... am I supposed to pretend I haven't seen that? What am I supposed to pretend to here?"
+                },
+                {
+                    "start": 2675.181,
+                    "stop": 2676.648,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I didn't see that."
+                },
+                {
+                    "start": 2676.648,
+                    "stop": 2679.566,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You didn't see that? You didn't... I thought that... you didn't see that?"
+                },
+                {
+                    "start": 2679.566,
+                    "stop": 2687.656,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the point is most people use the word weaving to describe the motion of Mr. Harris's car is when they are going through the, the shopping center--"
+                },
+                {
+                    "start": 2687.656,
+                    "stop": 2711.022,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. I... what I saw is he is driving down one lane, what I mean by weaving, and this lane goes with me in traffic. And there is some cars in front of him, so he goes in the other lane where the cars are now coming right directly at him. And then before they hit him, he goes back to the first lane and he does this while going through a red light, it seemed to me. Am I... did I mis-see that? I'll go look at it again if you--"
+                },
+                {
+                    "start": 2711.022,
+                    "stop": 2712.872,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The... feel free to look at it again."
+                },
+                {
+                    "start": 2712.872,
+                    "stop": 2713.39,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yeah."
+                },
+                {
+                    "start": 2713.39,
+                    "stop": 2715.874,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But those are not the facts that were found by the court below in this--"
+                },
+                {
+                    "start": 2715.874,
+                    "stop": 2724.095,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well that's, that's what I wonder. If the court says that isn't what happened, and I see with my eyes that is what happened, what am I supposed to do?"
+                },
+                {
+                    "start": 2724.095,
+                    "stop": 2728.399,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think you apply the law, Your Honor."
+                },
+                {
+                    "start": 2728.399,
+                    "stop": 2760.62,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The district-- [Laughter] Under, under... under your rule, what you're concerned with is the bumping, the use of the force. Under your rule, if the police continue the chase without using the, without trying to ram him, and then there is an accident and innocent people are killed, or injured, I assume that under the tort laws of most states, the police could be liable."
+                },
+                {
+                    "start": 2760.62,
+                    "stop": 2769.643,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well in theory perhaps they could be if the officer was a joint proximate cause of the accident, but in most states--"
+                },
+                {
+                    "start": 2769.643,
+                    "stop": 2773.262,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, aren't they the proximate cause if they continue the chase without trying to terminate it?"
+                },
+                {
+                    "start": 2773.262,
+                    "stop": 2784.07,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. If the officer terminates the chase then he is never going to be liable because number one he is acting prudently; he is going based upon Department of Justice studies showing 70 percent--"
+                },
+                {
+                    "start": 2784.07,
+                    "stop": 2788.188,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. Well, I meant terminate the chase by... by... by forcing him off the road."
+                },
+                {
+                    "start": 2788.188,
+                    "stop": 2794.859,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, if he terminates the chase using deadly force, that that creates a whole host of other problems."
+                },
+                {
+                    "start": 2794.859,
+                    "stop": 2805.733,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't there... but isn't that one way to assure that the police are not liable, both from a moral standpoint and a legal standpoint, for causing the injury of other people?"
+                },
+                {
+                    "start": 2805.733,
+                    "stop": 2814.922,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Now from a constitutional standpoint the Fourth Amendment doesn't protect other people. It protects those who have been seized. And that's, that's the framework we are dealing with here today."
+                },
+                {
+                    "start": 2814.922,
+                    "stop": 2819.041,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you mean it's irrelevant to our analysis to consider that he might injure other people?"
+                },
+                {
+                    "start": 2819.041,
+                    "stop": 2834.253,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The potential for danger to others is certainly part of the justification for deadly force, just as, if deadly force cannot be used endangering other people, then that certainly goes into the matrix, too. Yeah."
+                },
+                {
+                    "start": 2834.253,
+                    "stop": 2889.97,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Could I ask whether the portion of the opinion that you say establishes that he was not endangering anybody is this portion? The court is mindful that traffic laws are designed to... safely... and Harris acted in an unsafe manner. However, the record reflects \"# is this the portion\"? \"# that he maintained control over his vehicle. \" Well, that doesn't prove he's not endangering anybody. \"Used his turn signals\"... wonderful. [Laughter] \"And did not endanger any particular motorist on the road. \" I think that's true. In that scary chase he, he didn't come close to hitting any particular car, but I don't think that's, that's a finding that he was not endangering anybody. \"Any particular motorist\", but he was endangering the public at large."
+                },
+                {
+                    "start": 2889.97,
+                    "stop": 2921.941,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, this is my point is that if, if the drive... if the hazard caused by driving in and of itself is the only threat here, does that rise to a level of imminency and immediacy that justifies the use of deadly force? If it does, then any officer who perceives that someone is driving unsafely and that they may cause an accident to someone who may or may not be down the road if not stopped, would be justified in using deadly force, to literally take out anyone who is speeding."
+                },
+                {
+                    "start": 2921.941,
+                    "stop": 2974.859,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It depends on how fast... if depends on how fast the car is going, whether it's a two-lane road or four-lane divided highway. All those factors come into, into account. And it doesn't seem to me that we have to adopt a rule that will, that will discourage police officers. There's, there's enough disincentive to engage in this kind of activity in the fact that the police officer may hurt himself. It's pretty risky to conduct this kind of a maneuver, don't-- you think? I wouldn't have done it if I was Scott. I would have let the guy go. Driving 90 miles an hour and comes up, approaches that car, that car swerved. Scott could have been killed, couldn't he? So I don't think we need a whole lot of disincentive to stop police officers in engaging in frolicsome conduct."
+                },
+                {
+                    "start": 2974.859,
+                    "stop": 3005.028,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, not only that, Justice Scalia. The officer had no control over what was going to happen once he used deadly force, like the officer who fired into the cab of a flying vehicle in Barn v Cox, once you disable the driver the car keeps going. And in this case, when you... when you hit the vehicle and knock a vehicle that has been in control and make it out of control, then it's now an unguided missile that could just as easily cross the center line and hit an innocent person."
+                },
+                {
+                    "start": 3005.028,
+                    "stop": 3024.342,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me just ask this question. In trying to assess the likelihood of harm to innocent people who would be hurt by this by this guy driving so fast, is that, do we measure it by assuming that the chase will continue? Or do we measure it by assuming that the chase would be discontinued? Just as we did in Garner?"
+                },
+                {
+                    "start": 3024.342,
+                    "stop": 3056.563,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The officer has both options. I mean Garner simply commands that he not use deadly force if it's a choice between letting him go and using deadly force. Now in the Sacramento v Lewis case, it does say that involves a different, a different type of claim and a different standard. But in the Sacramento case it does say that an officer in a pursuit has a duty to always be weighing the risk of the continued pursuit against the risk to the public. So there is an independent duty there to act reasonably."
+                },
+                {
+                    "start": 3056.563,
+                    "stop": 3072.507,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If it were... clear that a jury could find that there would be no unreasonable risk to innocent motorists if they discontinued the chase... assume that's a possible finding. If that were true, would there be a duty to discontinue the chase?"
+                },
+                {
+                    "start": 3072.507,
+                    "stop": 3081.763,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not under the Fourth Amendment. Now, the... the only expert testimony in this record on that subject says there is a 7 percent chance--"
+                },
+                {
+                    "start": 3081.763,
+                    "stop": 3084.23,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're saying there is a duty not to use deadly force."
+                },
+                {
+                    "start": 3084.23,
+                    "stop": 3089.518,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's what Garner says, if you don't use deadly force. And that's what our claim is."
+                },
+                {
+                    "start": 3089.518,
+                    "stop": 3101.692,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And aren't you concerned that that creates an incentive in every case for anyone who, that sees the blue lights behind them to know that all they have to do is keep fleeing and the police are going to have to give up eventually?"
+                },
+                {
+                    "start": 3101.692,
+                    "stop": 3120.121,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, let me respond by reading a portion of Garner that deals with that point, Mr. Chief Justice. These, these same important policy reasons were raised in Garner, that we don't want to encourage disobedience of issues. We want to discourage people from fleeing. And this is what the Garner Court said--"
+                },
+                {
+                    "start": 3120.121,
+                    "stop": 3123.022,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Garner... Garner was the case involving shooting the guy in the back, right?"
+                },
+                {
+                    "start": 3123.022,
+                    "stop": 3145.621,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. He might easily break into someone else's house and perhaps end up killing them. This was a vigorous dissent in Garner. But this is what the majority said: \"Without in any way disparaging the importance of these goals we are not convinced that the use of deadly force is a sufficiently productive means of accomplishing them to justify the killing of nonviolent suspects. \" And if unsafe driving--"
+                },
+                {
+                    "start": 3145.621,
+                    "stop": 3163.966,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your, your answer to Justice Stevens as I understand it was the police not have the duty to discontinue the chase? The obverse of that is that the police may prolong the chase, i.e., prolong the injury to the public. I'm surprised at your answer."
+                },
+                {
+                    "start": 3163.966,
+                    "stop": 3176.759,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think there is an independent duty, it doesn't rise under the Fourth Amendment, but there is an independent duty to do that. But my concern is that under Garner, given a choice between--"
+                },
+                {
+                    "start": 3176.759,
+                    "stop": 3188.015,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is certainly the case that if there is going to be a, a risk of deadly harm to innocent third parties, there would be a duty to discontinue the chase rather kill him. But you don't seem to buy that."
+                },
+                {
+                    "start": 3188.015,
+                    "stop": 3203.409,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, experience shows most of the time when you discontinue a chase, the person who is running discontinues driving unsafely. That is the... that is experience. This officer's own policy says that--"
+                },
+                {
+                    "start": 3203.409,
+                    "stop": 3236.048,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did this study show what future fleeing speeders would do? I mean, I will accept that for, for the sake of argument that... in fact, it's probably true. I would have guessed that, if the police stopped chasing, you don't go 90 miles an hour anymore. But did this study show what the effect of a rule that says stop chasing when he hits 85, what the effect of that rule would be on, on fleeing speeders or fleeing felons, or fleeing anybody?"
+                },
+                {
+                    "start": 3236.048,
+                    "stop": 3259.977,
+                    "speaker": {
+                        "name": "Craig T. Jones",
+                        "ID": 19296,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the rule simply says you don't kill him just because he is driving unsafely. And if, it simply says that if the choice is between killing him and letting him go, you have to let him go if the Garner factors aren't present. And we find nothing in the law and no reason to create a new exception in the law that says that Garner doesn't apply if you're fleeing by vehicle. Thank you. We ask that the Court of Appeals be affirmed."
+                },
+                {
+                    "start": 3259.977,
+                    "stop": 3264.531,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Jones. Mr. Savrin, you have four minutes remaining."
+                }
+            ],
+            "start": 3264.531,
+            "stop": 3313.446
+        }
+    ]
+}

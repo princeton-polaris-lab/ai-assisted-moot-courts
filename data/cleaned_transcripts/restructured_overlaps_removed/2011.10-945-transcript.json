@@ -1,0 +1,2427 @@
+{
+    "title": "Florence v. Board of Chosen Freeholders of the County of Burlington",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.522,
+                    "stop": 40.575,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, may it please the Court: We ask this Court to hold that a jail may strip search an arrestee in cases of reasonable suspicion. That is the rule that was applied throughout almost the entire country in the 3 decades after Bell v. Wolfish, without either administrative difficulty or any apparent increase in smuggling. We are here today, of course, because both the Burlington Jail and the Essex County Jail require every arrestee to stand 2 feet in front of a correctional officer and strip naked."
+                },
+                {
+                    "start": 40.575,
+                    "stop": 52.231,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you apply the reasonable suspicion rule to all arrestees? I thought you were making a distinction between felons and less serious offenders."
+                },
+                {
+                    "start": 52.231,
+                    "stop": 77.431,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We do apply it to all arrestees. The Respondents in the U.S. Bureau of Prisons do draw a line at major versus minor offenders. I think they do that because they think that people who commit more serious crimes might be inclined to greater criminality. But our rule is one of reasonable suspicion. Our question presented draws the line at minor offenders because this class definition is only people who were arrested for minor offenses."
+                },
+                {
+                    "start": 77.431,
+                    "stop": 87.32,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is the reasonable suspicion test more easily met if it's a felon detained for a serious felony?"
+                },
+                {
+                    "start": 87.32,
+                    "stop": 92.807,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is in the view of the courts that have considered this question, absolutely. In our view--"
+                },
+                {
+                    "start": 92.807,
+                    "stop": 99.378,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In your, in your view? Well, then you are going on a case by case basis based on the offense."
+                },
+                {
+                    "start": 99.378,
+                    "stop": 121.224,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The category -- There is a categorical rule, and that is -- that was adopted by these Respondents, by the Bureau of Prisons and four court of appeals, that says: If you are arrested for a more serious offense, categorically there exists reasonable suspicion. Our case by case rule, it's true, applies with respect to minor offenders. And again, that was the class that was defined here."
+                },
+                {
+                    "start": 121.224,
+                    "stop": 141.305,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how would this work with respect to individuals who have been arrested for serious offenses? Let's say someone has been arrested for -- for assault. Say it's a case of domestic violence, assault. Would that be enough to justify a search?"
+                },
+                {
+                    "start": 141.305,
+                    "stop": 154.464,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think you will have to ask -- I know you want me to answer the question. Let me just be very clear. This is their rule. The Respondents draw the major-minor offense line. The Respondents apply a reasonable suspicion standard. Now, in my view--"
+                },
+                {
+                    "start": 154.464,
+                    "stop": 158.783,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand. You say that you don't want to draw that line; you want to apply it to everybody."
+                },
+                {
+                    "start": 158.783,
+                    "stop": 159.716,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 159.716,
+                    "stop": 169.589,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I'm asking you whether the mere fact that someone has been arrested for a violent offense would in your judgment be sufficient to provide reasonable suspicion."
+                },
+                {
+                    "start": 169.589,
+                    "stop": 185.266,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If the jail made that judgment, we would think that a court would not overturn that judgment. We think that illustrates that, by contrast to when someone is arrested for not paying a fine, that there is no justification whatsoever, because the logic of their own policy is that this is a person who's inclined to violence."
+                },
+                {
+                    "start": 185.266,
+                    "stop": 228.027,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I take it -- I take it what we're trying to do is to protect the individual dignity of the detainee. But it seems to me that you risk compromising that individual dignity if you say we have reasonable suspicion as to you, but not as to you. You are just setting us up. And you are setting the detainee up for a classification that may be questioned at the time, and will be seen as an affront based on the person's race, based on what he said or she said to the officers coming in. So it seems to me that your rule imperils individual dignity in a way that the blanket rule does not."
+                },
+                {
+                    "start": 228.027,
+                    "stop": 266.918,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, a couple of points, Justice Kennedy. I think it's an incredibly important issue. They don't have a blanket rule. Remember, the Respondents apply a reasonable suspicion standard. They do strip everyone naked, but if they are going to look for contraband, that is look at the person's mouth, look at their anus, they apply a reasonable suspicion standard. Now, to your various concern that maybe we are inviting discrimination or at least an appearance of discrimination, remember that their rule is going to produce more of that problem than ours, because their rule is not that they have to stitch strip -- they have to strip search everyone for contraband, but their rule is they can, they can make a choice. This Court in the Fourth -- they say we--"
+                },
+                {
+                    "start": 266.918,
+                    "stop": 270.189,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm not sure if it's their rule or our rule. Ultimately it's going to be our rule."
+                },
+                {
+                    "start": 270.189,
+                    "stop": 282.33,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, okay. Well then, first let me say I hope not. I hope that your rule is that there has to be a reasonable suspicion standard, which is the rule that was applied almost everywhere in the wake of Bell v. Wolfish, without--"
+                },
+                {
+                    "start": 282.33,
+                    "stop": 284.23,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To do -- to do what?"
+                },
+                {
+                    "start": 284.23,
+                    "stop": 285.466,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 285.466,
+                    "stop": 292.636,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You just said stripped naked is different from a different strip search."
+                },
+                {
+                    "start": 292.636,
+                    "stop": 293.42,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, exactly."
+                },
+                {
+                    "start": 293.42,
+                    "stop": 298.957,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what is permitted? There are various things. What, is showering in the presence of officers?"
+                },
+                {
+                    "start": 298.957,
+                    "stop": 316.701,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Showering in the presence of officers is not something that requires reasonable suspicion. The courts have uniformly concluded that if you are just generally in an area in which you are being monitored by the officers, that's not a Fourth Amendment search that violates a reasonable expectation of privacy. This is different."
+                },
+                {
+                    "start": 316.701,
+                    "stop": 322.489,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They -- they can be inspected without their clothes? Just it's more than that?"
+                },
+                {
+                    "start": 322.489,
+                    "stop": 328.809,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There are two different scenarios. One is a common room where everyone is standing around and for jail security purposes--"
+                },
+                {
+                    "start": 328.809,
+                    "stop": 329.728,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A common?"
+                },
+                {
+                    "start": 329.728,
+                    "stop": 340.952,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--A common room, a common shower area, and of course for security purposes. This is different, Justice Ginsburg. You asked what is prohibited in the absence of reasonable suspicion. What is prohibited is standing 2 feet away from the person--"
+                },
+                {
+                    "start": 340.952,
+                    "stop": 342.718,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I want to know what is permitted."
+                },
+                {
+                    "start": 342.718,
+                    "stop": 371.822,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, what is permitted is anything -- what is not subject to a reasonable suspicion standard is anything other than looking at a close inspection of the person at arm's length. What the courts of appeals have uniformly recognized and the lower courts and what the literature recognizes and really what I think concerned this Court in the Safford case is that when you are standing so close to the person inspecting their genitals, looking directly at their most private parts of their bodies, that is a direct intrusion on their individual privacy--"
+                },
+                {
+                    "start": 371.822,
+                    "stop": 383.129,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sorry. Are you suggesting -- three different levels. Stripping naked: It's okay to stand 5 feet away, but not 2?"
+                },
+                {
+                    "start": 383.129,
+                    "stop": 397.222,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think that the courts have had to confront 5 feet versus 2 feet. What they have confronted is, they acknowledge that jails are places that require security and so if you are just observing a shower room that does not implicate a reasonable expectation of privacy."
+                },
+                {
+                    "start": 397.222,
+                    "stop": 405.276,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. So are you -- are you taking the position that it's the purpose of the search-- --that -- that's at issue?"
+                },
+                {
+                    "start": 405.276,
+                    "stop": 418.218,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, it's the closeness of it. There is not a problem, I think, with the question of 2, 3, 4, or 5 feet. These searches all occur in the same way, and that is the officer stands directly in front of you. The testimony here is 2 feet away. That seems to be the common--"
+                },
+                {
+                    "start": 418.218,
+                    "stop": 420.551,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm still unsure."
+                },
+                {
+                    "start": 420.551,
+                    "stop": 421.087,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 421.087,
+                    "stop": 431.043,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If it's okay to shower-- --and have an officer watch you shower naked-- --what is the greater intrusion is that you are standing 2 as opposed to 5 feet away?"
+                },
+                {
+                    "start": 431.043,
+                    "stop": 435.847,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "2 versus 10 feet away or just generally observing the room. This is exactly--"
+                },
+                {
+                    "start": 435.847,
+                    "stop": 437.947,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That is a line that doesn't make much sense to me."
+                },
+                {
+                    "start": 437.947,
+                    "stop": 438.715,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Okay."
+                },
+                {
+                    "start": 438.715,
+                    "stop": 460.562,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then let's go to the next line, which is -- that's one kind of search. The second is I think what some have called a visual cavity search. Whether you are going to have the individual open or expose private parts. Can you make an argument that that is different than just a visual search?"
+                },
+                {
+                    "start": 460.562,
+                    "stop": 510.409,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You can. So let me just say, let me try and close up my answer to the question of the 5 versus 10 feet and then turn immediately to this visual body cavity search. Remember, this is -- the Court will recall that this is a reprise of the argument in the Safford case, where the schools there argued that, well, there is an observation of these students in gym class, they shower together naked, they undress naked. And the Court said it's quite different when you're standing right there looking over the student. And so that's what implicates a Fourth Amendment right of privacy, and the distinction did make sense. As to your question, yes, there is a material difference, we think, although we think both should be covered by our rule. But a visual body cavity inspection as occurred in the Essex facility here, where you require someone to bend over and cough, which is what the testimony is in this case--"
+                },
+                {
+                    "start": 510.409,
+                    "stop": 511.928,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "One, not the other?"
+                },
+                {
+                    "start": 511.928,
+                    "stop": 531.923,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct. --that after the second jail had a slightly different search protocol, in which the testimony is that he was required to bend over and cough and expose his anus for inspection, and the Respondents themselves regard that as a more significant intrusion and they apply a reasonable suspicion standard themselves to that--"
+                },
+                {
+                    "start": 531.923,
+                    "stop": 568.948,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Goldstein, what -- what you propose is reasonable enough, I suppose, and some States could adopt that kind of a protocol instead of what they have. But what you are asserting is that the Fourth Amendment prohibits them from adopting it, and the obstacle I see is that at the time the Fourth Amendment was adopted, this -- this was standard practice, to strip search people who were admitted to prisons. So how could it be deemed an unreasonable invasion of privacy when it -- when it was done all the time and nobody thought it was unconstitutional?"
+                },
+                {
+                    "start": 568.948,
+                    "stop": 600.084,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We don't believe that the premise is correct. If you read history differently than me, I'm not going to be able to persuade you. But our understanding of the history is that the closest they can come to is two things: First, that people were strip searched upon arrest, and that certainly is not the rule under the Fourth Amendment; and that in certain jails at the time of the founding other inmates in a process of ablution which, as almost kind of a ritual cleansing, would strip search new inmates. It had nothing to do with the jail officials themselves or trying to intercept contraband."
+                },
+                {
+                    "start": 600.084,
+                    "stop": 609.175,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That is somehow less of an intrusion on your privacy, to be naked in front of a whole bunch of inmates, rather than one jail official inspecting?"
+                },
+                {
+                    "start": 609.175,
+                    "stop": 646.465,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, first, it wasn't a nearly -- the nearly uniform practice that I think your question assumes. And it's just a different kettle of fish entirely, that -- we don't believe, obviously, that that historical lesson obtains today that the prisoners can strip search new inmates, new arrestees as they come in. I do agree with the basic premise of your question that it's -- our position can't just be that, hey, I've got a reasonable rule. I do have to in, either under the terms of Bell v. Wolfish or Turner v. Safley, establish that this is an exaggerated response, that this is much more, materially more than is necessary to accomplish their goals."
+                },
+                {
+                    "start": 646.465,
+                    "stop": 654.637,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But less intrusive than the one, than the search in Bell v. Wolfish, which involved pretrial detainees?"
+                },
+                {
+                    "start": 654.637,
+                    "stop": 676.317,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Justice Ginsburg, we disagree with that. At least as to the second search, we think that there is no difference between the degree of intrusion here and in Bell. But there is another significant reason not just in the nature of the search, but a big difference between this case and Bell is that the inmates in that case made a voluntary choice. They decided to have the contact visit that was--"
+                },
+                {
+                    "start": 676.317,
+                    "stop": 686.342,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we know if the pretrial detainees in Bell were also inspected on entry into the facility?"
+                },
+                {
+                    "start": 686.342,
+                    "stop": 694.029,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We do not. I tried everything I could to check the record of that case and there was no record of an admission strip search at the MCC at the time."
+                },
+                {
+                    "start": 694.029,
+                    "stop": 710.723,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, is there -- there's a distinction between the simple strip search and the visual body cavity search. You say that they apply reasonable suspicion standard to the visual body cavity search. So is the visual cavity search therefore off the table?"
+                },
+                {
+                    "start": 710.723,
+                    "stop": 720.679,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, it is not. We contend that the Fourth Amendment prohibited the visual body cavity search at the Essex facility. So--"
+                },
+                {
+                    "start": 720.679,
+                    "stop": 727.516,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right, right. But you would say that they had to have a reasonable articulable suspicion before they could do that?"
+                },
+                {
+                    "start": 727.516,
+                    "stop": 750.114,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We say that under their written policy they should have, but they didn't. The Burlington County -- the only evidence about a conclusion of the jail about reasonable suspicion is that the Burlington county intake officer filled out a form saying there is no reasonable suspicion here. And Essex I don't believe contends that there was reasonable suspicion to engage in a visual body cavity search. They deny, as a matter of fact, that it happened."
+                },
+                {
+                    "start": 750.114,
+                    "stop": 754.166,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So -- so you see a distinction between what they actually do and the written policy."
+                },
+                {
+                    "start": 754.166,
+                    "stop": 782.184,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I do with respect to the Essex -- I apologize -- no. What happened here is that Essex after this search occurred, and this is described in the Essex brief in opposition, in case you want to look at it later, at 3 in note 1 -- Essex after the search in this case changed its policy. We were denied an injunction going forward under L.A. v. Lyons, so we -- it's just a question of damages for the search that occurred at the time under their old policy."
+                },
+                {
+                    "start": 783.617,
+                    "stop": 812.969,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--your position. Suppose a jurisdiction has the policy of requiring every inmate who is arrested and is going to be held in custody to disrobe and take a shower and apply medication for the prevention of the spread of lice and is observed while this is taking place from some distance by a corrections officer, let's say 10 feet away. Is that -- does that require a reasonable suspicion?"
+                },
+                {
+                    "start": 812.969,
+                    "stop": 816.421,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does not. The -- and -- and--"
+                },
+                {
+                    "start": 816.421,
+                    "stop": 820.323,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So your -- your only concern is searches that go further than that."
+                },
+                {
+                    "start": 820.323,
+                    "stop": 835.502,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's exactly right. The very close inspection of the individual's genitals, which can occur absolutely so long as there is some minimal level of suspicion that's created. I do want to return to Justice Kennedy's concern about dignitary interests here and whether drawing any sort--"
+                },
+                {
+                    "start": 835.502,
+                    "stop": 842.387,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could I just follow up on that? Is there a dispute of fact as to whether anything beyond that occurred in Burlington County?"
+                },
+                {
+                    "start": 842.387,
+                    "stop": 865.552,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In Burlington County, there is a dispute about the so-called genital lift, whether Mr. Florence was required to lift his genitals or not. There is no dispute that he was required directly in front of an officer to strip naked, despite the officer having made a finding, which is on page 390 of the joint appendix, that there was no reasonable suspicion to conduct a strip search. That is the only factual dispute-- --in the entire case."
+                },
+                {
+                    "start": 865.552,
+                    "stop": 871.839,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Could you clarify two points for me? The first is, was he admitted into the general population at Burlington?"
+                },
+                {
+                    "start": 871.839,
+                    "stop": 891.652,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The record is not entirely clear. What the record says is that for the first few days of his stay -- remember, he inexplicably was kept for 6 days. For the first several days, he was kept in a cell with only one other inmate, or possibly two, and one time he had lunch with other people. In Essex, he was admitted to the general population."
+                },
+                {
+                    "start": 891.652,
+                    "stop": 906.662,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The prior charge against your client was the use -- involved the use of a deadly weapon. Assuming the prison knew this, wouldn't that provide the reasonable suspicion that you argue was missing?"
+                },
+                {
+                    "start": 906.662,
+                    "stop": 924.541,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, because it depends because of the breadth of the phrase \"possession of a deadly weapon\", as this case illustrates. The record shows that the possession of the deadly weapon -- and that's why this charge was not pursued by the State -- is -- was that he was pulled over at a traffic stop and he drove away. The deadly weapon is the car--"
+                },
+                {
+                    "start": 924.541,
+                    "stop": 940.916,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So now you are -- you are feeding into your adversary's argument that what you are asking the police to do on intake, or the corrections facility on intake, is to investigate in that fine detail? They can't even look at the rap sheet-- --and see use of a deadly weapon and say, ah, this guy could be dangerous?"
+                },
+                {
+                    "start": 940.916,
+                    "stop": 966.718,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Justice Sotomayor. The rap sheet does not contain that charge. What the rap sheet does show, and we are perfectly fine with them looking at the rap sheet -- the rap sheet, and it's in the joint appendix -- the rap sheet says that he had a single charge, he pleaded guilty, he got a term of probation. There is nothing about that the jail would have had any information suggesting that he had some charge involving a deadly weapon. And that's why they themselves certified that there was no reasonable suspicion--"
+                },
+                {
+                    "start": 966.718,
+                    "stop": 1003.143,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is the rap sheet always available immediately? I thought it was rather common -- correct me if I'm wrong; it's based on practice some years ago -- that it -- it would take maybe 24 hours, 48 hours for the wiretap -- for the wire services and the Internet to -- to report that he's wanted for questioning for some very, very serious crime in some other State? I think -- in my practice at least -- county jails were much more dangerous than penitentiaries, because you don't know who these people are. You arrest them for traffic and they may be some serial killer. You do not know."
+                },
+                {
+                    "start": 1003.143,
+                    "stop": 1073.42,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Sure. First, that is not the view of the jails in this case. Remember, they apply a reasonable suspicion standard. They did not find any concern in their own policies -- neither does the Marshals Service, ICE, with this prospect of some prior offense. As to what the rule is, and how common it is and whether this works in practice, the jails here did look him up in the New Jersey Criminal Justice Information System. That's in the record. They are required by New Jersey law to do that. It's a -- every single one of these jails has computer access to the NJCJIS, and also to the NCIC; they just type in his identifying information. They were able to pull him up without any difficulty, and they have not complained that they didn't have enough information about him. They filled out a form saying there is no reasonable suspicion here. And remember, our rule only operates in a system, Justice Kennedy, in which the jail does have enough information. When -- our point is this: If the jail has the facts, as it did here, to affirmatively determine that there is no reasonable suspicion, which is what they decided about Mr. Florence, then it is an extraordinary intrusion on dignity and autonomy to strip him naked when they have no reason to do so."
+                },
+                {
+                    "start": 1073.42,
+                    "stop": 1097.604,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel -- counsel, my understanding of the statistics -- and correct me if I'm wrong -- is that they get about 70 new people going through this process a day. Is there anything in the record about how much additional time it would require to look at each one, to look at their record, to determine which category they should fall into, to strip search or not, as opposed to having a blanket rule?"
+                },
+                {
+                    "start": 1097.604,
+                    "stop": 1121.22,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure. There is because they do this already. They -- it is not an administrative problem. They apply our rule today. Remember, Mr. Chief Justice, when he arrived at the Burlington County Jail, they did an assessment of him and determined that there was no reasonable suspicion. The jails in this case did pull up his prior criminal history, and they have no problem doing that. They apply our standard today. It is not a difficult one. But--"
+                },
+                {
+                    "start": 1121.22,
+                    "stop": 1153.857,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Goldstein, you have acknowledged that we -- we have held that when you have visitors, you may be stripped -- strip searched after the visit, and the same kind of close examination that you object to here. Now, your explanation why that is okay is that that is voluntary-- --That you don't have to have visitors. Can you really condition your -- your -- your having visitors on your waiver of your Fourth Amendment rights?"
+                },
+                {
+                    "start": 1153.857,
+                    "stop": 1167.715,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. Block establishes that you have no right whatsoever to have contact visits, so under Schneckloth v. Bustamonte, of course, you can say I voluntarily relinquish my Fourth Amendment right in exchange for this privilege. But I have a second--"
+                },
+                {
+                    "start": 1167.715,
+                    "stop": 1177.972,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are -- are you sure about that? You can -- you can condition certain -- certain privileges upon a waiver of -- of constitutional privileges?"
+                },
+                {
+                    "start": 1177.972,
+                    "stop": 1212.294,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, I believe that that's -- I think that's a fair statement of the law. I do have a second point, though. And that is that the principal reason underlying Bell v. Wolfish's holding that those searches were reasonable is that it was essential to deter smuggling, and that deterrence rationale has much more of an attenuated relationship to this case. Remember that the inmate in that case was having a planned meeting with someone, and the representation of the government is that our problem is if you plan to have somebody come visit you and you are going to have a contact visit, you can plan for them to try and sneak something to you. This Court has set--"
+                },
+                {
+                    "start": 1212.294,
+                    "stop": 1224.451,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Goldstein, there of course were guards there who were watching the visits. And as I understand that case, there was really no empirical evidence that smuggling came about as a result of these visits."
+                },
+                {
+                    "start": 1224.451,
+                    "stop": 1260.793,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, can I just read to you what the Court said about that, just so -- the Court did have a slightly different take, I think. And this is from page 559 of -- of the Court's opinion: \"That there has been only one instance where an MCC inmate was discovered attempting to smuggle contraband into the institution on this person may be more a testament to the effectiveness of the search technique as a deterrent than to any lack of interest on the part of the inmates to secrete and import such items when the opportunity arises. \" And our point is that that -- when you have an unexpected arrest here -- remember, Mr. Florence showed the paperwork that he was not wanted for arrest. And that's going to be generally true in all kinds of traffic stops and the like--"
+                },
+                {
+                    "start": 1260.793,
+                    "stop": 1294.881,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, which is it you're doing? I mean, I imagine -- I thought you were saying you always need a reasonable suspicion, so I imagine a case where the person is going to be arrested, put into the general prison population, there is a warrant out against him for second-degree murder, and the policeman stopping him for a traffic offense arrests him because he knows he is wanted on a warrant in another place, and the jail has a policy that says when you're -- come in here because of second-degree murder, we strip search. Okay? Can they do that under your rule or not?"
+                },
+                {
+                    "start": 1294.881,
+                    "stop": 1295.314,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1295.314,
+                    "stop": 1295.897,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's all they know."
+                },
+                {
+                    "start": 1295.897,
+                    "stop": 1297.399,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. That's reasonable suspicion."
+                },
+                {
+                    "start": 1297.399,
+                    "stop": 1300.685,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then you do not want to -- then you are not saying it always has to be reasonable suspicion."
+                },
+                {
+                    "start": 1300.685,
+                    "stop": 1304.387,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's just a debate about words. We think that is reasonable suspicion."
+                },
+                {
+                    "start": 1304.387,
+                    "stop": 1339.243,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, all right. That isn't helping me. What helps me is to know what the category of things is that the jail in your opinion is going to have to look into the characteristics of this individual person, and when I look at the ABA, they talked about minor arrests. And when I look at some of the cases, there is a long list, like violence, drugs, and so forth, where you don't have to, where you can just use the general fact that he was arrested-- --for the thing. But there are other ones, minor ones, where you do. So what is your rule on that?"
+                },
+                {
+                    "start": 1339.243,
+                    "stop": 1348.066,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Our rule that we would expect is that, with respect to minor offenders, that's when you assess-- --Yes."
+                },
+                {
+                    "start": 1348.066,
+                    "stop": 1351.384,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--who is a minor offender and how do you administer that rule?"
+                },
+                {
+                    "start": 1351.384,
+                    "stop": 1361.206,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Okay. I think that is a great question for them, because that's their rule. They have a rule that says for minor offender that you have to have reasonable suspicion to search for contraband."
+                },
+                {
+                    "start": 1361.206,
+                    "stop": 1391.595,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you are trying to state the constitutional rule, and you keep talking about what is their rule, and we are trying to find out what are the limits-- --of the rule, and I think you've already qualified what you said opening. Opening, you said reasonable suspicion is the rule for everyone, the felon as well as the minor offenders. Now you seem to be saying, well, this case involves only minor offenders, so let's limit it to that. That's what I thought you were saying now."
+                },
+                {
+                    "start": 1391.595,
+                    "stop": 1397.764,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, that's right. Because this case only involves minor offenders, we have articulated a rule with respect to minor offenders."
+                },
+                {
+                    "start": 1397.764,
+                    "stop": 1402.416,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, that of course-- --unfortunately, I'm asking you and not them, and -- and it's the same question."
+                },
+                {
+                    "start": 1402.416,
+                    "stop": 1402.916,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Okay. Sure."
+                },
+                {
+                    "start": 1402.916,
+                    "stop": 1412.955,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you want us to write this so that jail personnel all over the country-- --have to be able to follow it and know exactly what they are supposed to do."
+                },
+                {
+                    "start": 1412.955,
+                    "stop": 1439.439,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "For 3 decades the rule that was articulated by the Federal courts and applied without difficulty is one that says for minor offenses. When that was applied in practice it was basically done at a felony versus misdemeanor line. The court accepted that if you are -- the courts accepted that if you are suspected of a more serious offense, then for administrative reasons and because we just think you might be engaged in more criminality, then you don't have to have any individualized inquiry whatsoever."
+                },
+                {
+                    "start": 1439.439,
+                    "stop": 1457.234,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I can understand that -- I can understand that for cavity searches, but -- but why for the search to see if -- if the person has any fleas or cooties or, you know, any -- any other communicable disease before he is put into the general population? Are -- are felons more likely to have those than non-felons?"
+                },
+                {
+                    "start": 1457.234,
+                    "stop": 1458.753,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, they are not."
+                },
+                {
+                    "start": 1458.753,
+                    "stop": 1465.589,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that line makes no sense for -- for that aspect of the search which is -- is just we want to make sure that we have a clean prison."
+                },
+                {
+                    "start": 1465.589,
+                    "stop": 1485.753,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is not correct. That aspect -- what the testimony in this case establishes is that the jail guards allow any sort of medical rationale for the search to be conducted by medical personnel, not by the guards themselves. All these inmates are examined by a medical person, a nurse or the like, and they are responsible for -- for--"
+                },
+                {
+                    "start": 1485.753,
+                    "stop": 1500.413,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that -- that's where the Fourth Amendment invasion of privacy line is to be drawn? If you're examined close up by someone who has a medical degree, it's okay? And on the other hand, if it's someone who does not have a medical degree, it's not okay?"
+                },
+                {
+                    "start": 1500.413,
+                    "stop": 1501.446,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is correct."
+                },
+                {
+                    "start": 1501.446,
+                    "stop": 1504.815,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That can't be the line as to whether your privacy is being invaded."
+                },
+                {
+                    "start": 1504.815,
+                    "stop": 1509.268,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It -- it can be the line and it is the line that has been accepted for decades."
+                },
+                {
+                    "start": 1510.034,
+                    "stop": 1510.601,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--dividing line?"
+                },
+                {
+                    "start": 1510.601,
+                    "stop": 1520.24,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--keep the person in custody, say, for 24, 48 hours until the medical personnel could come. Do you have 24-hour medical personnel for intakes that are 2 in the morning?"
+                },
+                {
+                    "start": 1520.24,
+                    "stop": 1524.278,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. The intake process, the testimony is that--"
+                },
+                {
+                    "start": 1524.928,
+                    "stop": 1534.233,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You are -- you are telling us that every county jail in -- in the United States has medical personnel on duty 24 hours a day ready to do a -- a search?"
+                },
+                {
+                    "start": 1534.233,
+                    "stop": 1538.149,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, I apologize, Justice Kennedy. I'm telling you what is in the record in this case. And that is--"
+                },
+                {
+                    "start": 1538.149,
+                    "stop": 1543.886,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What you said before was 2 feet is too close, but 5 feet is okay. Are you sticking with that?"
+                },
+                {
+                    "start": 1543.886,
+                    "stop": 1558.196,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice Breyer, I'm saying that a close inspection which is intended to examine the person's individual-- --genitals, and whether it's at 2 feet or 4 feet I don't think is the relevant line. If I could make one point, and then reserve the remainder of my time, would that--"
+                },
+                {
+                    "start": 1558.196,
+                    "stop": 1569.887,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Made I just ask, on your medical personnel, children in school get inspected for -- for head lice, prisoners for body lice. You don't need a doctor to do that?"
+                },
+                {
+                    "start": 1569.887,
+                    "stop": 1583.08,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, that's right, but if that is right, what happens is that medical professionals are the people who are assigned that responsibility. That's the testimony in this case. The only last point that I wanted to make is--"
+                },
+                {
+                    "start": 1583.08,
+                    "stop": 1596.405,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's not constitutionally required. So that's another thing that -- that you don't need to -- to -- they can inspect for body lice, and that's -- that's okay?"
+                },
+                {
+                    "start": 1596.405,
+                    "stop": 1630.478,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If that's what they're doing, I think that that is okay. The courts have said that that is not itself a -- because of the prospect of handling that problem with shampoo, which is what these jails do, that that's not a sufficient -- a sufficient justification to require the person to strip naked. The only other point that I did want to make is that this is the rule, not just at Burlington and Essex, but also of the U.S. Marshal Service, which has the intake of 220,000 inmates every year, and also of the Bureau of Immigration Customs Enforcement, which intakes 384,000 a year."
+                },
+                {
+                    "start": 1630.478,
+                    "stop": 1637.298,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the government tells us that that's true only if they don't put the arrestee in the general population."
+                },
+                {
+                    "start": 1637.298,
+                    "stop": 1653.659,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's not correct. That is only the policy of the U.S. Bureau of Prisons, which has an intake of minor offenders of only a few thousand people a year. For the Marshals Service and for ICE, which have a combined 600,000 people every year, they do not have that separate housing rule. If I could reserve the remainder of my time."
+                },
+                {
+                    "start": 1653.659,
+                    "stop": 1664.382,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We will give you rebuttal time, but maybe just to be clear-- --You don't -- do you or do you not have an objection to the superseding ECCF policy?"
+                },
+                {
+                    "start": 1664.382,
+                    "stop": 1704.609,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We -- if the -- we do, because they still have to stand naked directly in front of the correctional officer under the superseding policy. What the superseding policy is, which is Burlington's policy throughout this, is that they will not search the person for contraband, which is their supposed interest here, for contraband, in the absence of reasonable suspicion. Both jails at the time of this search and also now will still require the person to strip naked, supposedly for contraband, even though their own policy says we won't search for -- we won't engage in the depth of search that is required, we won't look at the anus, we won't look in the person's mouth, in the absence of reasonable suspicion."
+                },
+                {
+                    "start": 1704.609,
+                    "stop": 1705.626,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That is the current policy?"
+                },
+                {
+                    "start": 1705.626,
+                    "stop": 1706.794,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is the current policy."
+                },
+                {
+                    "start": 1706.794,
+                    "stop": 1716.5,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you have no problem with that. I mean, you have no problem with the reasonable, articulable suspicion aspect of the body cavity search."
+                },
+                {
+                    "start": 1716.5,
+                    "stop": 1717.184,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 1717.184,
+                    "stop": 1726.105,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And with respect to the simple strip search-- --your only objection is that the guard is too close to the inmate?"
+                },
+                {
+                    "start": 1726.105,
+                    "stop": 1727.541,
+                    "speaker": {
+                        "name": "Thomas C. Goldstein",
+                        "ID": 42731,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 1727.541,
+                    "stop": 1734.211,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Thank you. Mr. Phillips."
+                }
+            ],
+            "start": 10.522,
+            "stop": 1805.141
+        },
+        {
+            "turns": [
+                {
+                    "start": 1734.211,
+                    "stop": 1805.141,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: I -- I actually appreciate the clarification that your questions brought to this case, because I think there is a bit of confusion that I would like to try to clear up, although my -- my colleague's movement in terms of answering some of the questions left me a little bit perplexed as to exactly what the nature of their claims are. The -- the first question that it seems to me the Court should focus on is what policy is at issue here. And obviously, since the class certification deals with one set of issues and the plaintiff's claims deem with another set of issues, I think you have to be careful. I think you have to focus on the policies that existed in 2005. That was the basis on which he was in fact searched under these circumstances. And the policy in Burlington was that -- was primarily aimed, frankly, at health and tattoos, and the policy at Essex was aimed primarily at contraband and then secondarily at tattoos and health. And the policy at Burlington was largely a -- you come into prison, you give up your clothes, they look through your clothes, you take a shower, they examine you fairly cursorily, but look at you, and then give you prison garb and move along your way."
+                },
+                {
+                    "start": 1805.141,
+                    "stop": 1810.961,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. Is the shower and look at you cursorily, are those separate things? Or is it during the shower?"
+                },
+                {
+                    "start": 1810.961,
+                    "stop": 1814.08,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It -- it's before or during."
+                },
+                {
+                    "start": 1814.08,
+                    "stop": 1821.936,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because your friend places a lot of significance on how close the examination is. So under that policy how close was the examination?"
+                },
+                {
+                    "start": 1821.936,
+                    "stop": 1835.694,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. It almost certainly would have been about an arm's length, because at that -- I mean, the problem is if you ar exchanging clothes with somebody, you are handing them clothes to change into, it is sort of hard to be longer than arm's length and actually get the clothes into his hand. So that--"
+                },
+                {
+                    "start": 1835.694,
+                    "stop": 1837.279,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Two arms' lengths. I mean, he could reach out, right?"
+                },
+                {
+                    "start": 1837.279,
+                    "stop": 1838.912,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Okay. Two arms' lengths. [Laughter]"
+                },
+                {
+                    "start": 1841.347,
+                    "stop": 1844.03,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--That's not right. You could take the clothes off, put them in a bin--"
+                },
+                {
+                    "start": 1844.03,
+                    "stop": 1844.465,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 1844.465,
+                    "stop": 1845.415,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The person examines the bin."
+                },
+                {
+                    "start": 1845.415,
+                    "stop": 1876.853,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right. And that's actually what they do in Essex. In Essex, they do it that way. The difference between Essex is that Essex in fact does have -- part of the problem is terminological, all right. You know, Burlington is basically a body visual observation, and the district court said that's unconstitutional, that just observing at all is unconstitutional. To some extent it seems to me my -- my friend here has given up that part of the district court's decision, which clearly the court of appeals to the extent it reversed that part ought to be affirmed on that ground alone."
+                },
+                {
+                    "start": 1876.853,
+                    "stop": 1881.838,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Visual observation for more than 2 feet, or less than 2 feet?"
+                },
+                {
+                    "start": 1881.838,
+                    "stop": 1885.54,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right, although that -- that was not the district court's theory. The district court didn't say 2 to 3 feet."
+                },
+                {
+                    "start": 1885.54,
+                    "stop": 1891.611,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What happened? Do we know? Was it within 2 feet or not within 2 feet?"
+                },
+                {
+                    "start": 1891.611,
+                    "stop": 1893.477,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it depends on whose version of it."
+                },
+                {
+                    "start": 1893.477,
+                    "stop": 1893.961,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you know?"
+                },
+                {
+                    "start": 1893.961,
+                    "stop": 1942.144,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You have to remember, the district court granted summary judgment to the plaintiff in this case, so you would have to -- you would have to interpret -- you would have to give us the benefit of the interpretation, which was that it was more than 2 feet. But the court of appeals reversed, of course, without regard to that, because the court of appeals said, look, if you -- if you apply this Court's decision in Bell v. Wolfish, it doesn't matter, because you can engage in a much more intrusive true body cavity search, which frankly is more intrusive than even what Essex County does in this case, because he wasn't asked to bend over and to -- and to have a body cavity anal search. What he was asked to do was to squat and cough, in the event that -- because ordinarily that will cause the contraband then to fall out, and you can -- and you can catch it under those circumstances. So this is -- that's -- that's sort of the context in which this issue comes up."
+                },
+                {
+                    "start": 1942.144,
+                    "stop": 1950.248,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Phillips, if I could understand your position, you think that there is no reasonable suspicion even for that more intrusive body cavity search, is that right."
+                },
+                {
+                    "start": 1950.248,
+                    "stop": 1952.266,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, That's the rule of law."
+                },
+                {
+                    "start": 1952.266,
+                    "stop": 1967.792,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And does it matter to you whether the person is being introduced into the general prison population, or would you also say that if the person is not being introduced into the general prison population? Do you still think that there is no reasonable suspicion requirement?"
+                },
+                {
+                    "start": 1967.792,
+                    "stop": 1991.157,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would say from my perspective, I think even -- even if they weren't going to be admitted into the general prison population, because the risks remain too substantial. But the truth is, I don't have to defend that argument, because both -- both of these jails admit their inmates into the -- into the general population 99.9 percent of the time. So that's not a line we draw."
+                },
+                {
+                    "start": 1991.157,
+                    "stop": 2017.308,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you say that regardless of the offense for which the person is arrested? There have been some stories in the news recently about cities that have taken to arresting people for traffic citations. Suppose someone is just arrested because they have a lot of tickets for being caught on speed cameras, let's say. That person can be subjected to the searches that you are describing?"
+                },
+                {
+                    "start": 2017.308,
+                    "stop": 2048.678,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Justice Alito. I think the basic principle we are asking for is that deference to the jails and -- and to the administrators of the jails requires that this Court respect their judgment that you can't make a distinction based on that specific individual; that whether somebody is a minor offender or a major offender, one, is never all that clear in the first place; and two, isn't a basis on which to distinguish the risks that it poses to the--"
+                },
+                {
+                    "start": 2048.678,
+                    "stop": 2080.899,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Try the ABA. The ABA is minor offenses, not drugs, not violence, and there you have to have reasonable suspicion. Now, I've read through the briefs and I can't find a lot of contrabanders that were caught in that category. In fact, my law clerk thinks it's one out of 64,000 or less. So -- so what is the justification for a rule to avoid reasonable suspicion in that category?"
+                },
+                {
+                    "start": 2080.899,
+                    "stop": 2110.266,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If -- if you look at the expert testimony that was before the court in the district court in this case, both the expert testimony of the plaintiff and the expert testimony of the defendant -- this is at 348a of the joint appendix, it says \"a greater presence of contraband amongst those individuals that have minor offenses. \" That's his -- that's their expert's characterization, that minor offenders bring in more contraband than major offenders. Our experts said misdemeanants can be more dangerous and more likely to bring in contraband."
+                },
+                {
+                    "start": 2110.266,
+                    "stop": 2137.585,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a conclusion, and we have a lot of practical experience because different States have different rules and San Francisco came in with I think the toughest on your side, for your side. I just say, looking through that, it's very hard to find somebody who really was in this minor offender category, who really was found to have contraband. So what should I look at to show that my initial reaction from the quick reading is wrong?"
+                },
+                {
+                    "start": 2140.187,
+                    "stop": 2150.393,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think you can go back to Bell v. Wolfish, where this Court said that the fact that there is not a lot of contraband being found may be a testament to the effectiveness of the deterrent."
+                },
+                {
+                    "start": 2150.393,
+                    "stop": 2177.311,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So why do we change the policy? In Bell we found that the policy was successful. Even though there were searches, contraband still got in. So virtually every circuit in practice in the Federal system have been following this reasonable suspicion for minor crimes and they have been fairly successful. So why do we change the constitutional rule to let them do more?"
+                },
+                {
+                    "start": 2177.311,
+                    "stop": 2179.662,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think that--"
+                },
+                {
+                    "start": 2179.662,
+                    "stop": 2180.678,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To invade more."
+                },
+                {
+                    "start": 2180.678,
+                    "stop": 2190.453,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I mean, I think first of all anybody who thinks that the problems of contraband are less serious today than they were in 1978 is -- is ignoring reality."
+                },
+                {
+                    "start": 2190.453,
+                    "stop": 2207.915,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand contraband is serious. But most of the studies point to it not being on intake, but coming in through guards, coming in through contact visits. The great cause today is that from corrupt correction officials."
+                },
+                {
+                    "start": 2207.915,
+                    "stop": 2220.322,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we can debate that. But, Justice Sotomayor, it seems to me that the fundamental principle that ought to undergird the entirety of the Court's analysis here comes out of Turner v. Safley and that line of cases."
+                },
+                {
+                    "start": 2220.322,
+                    "stop": 2246.207,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, could I ask you something just in terms of your rule. I think your brief says your rule is you are not entitled constitutionally to any right of privacy in prison. If that's the case, are you saying that if the prisons decide on a manual search, every prisoner who comes in, correction officers can manually check their cavities?"
+                },
+                {
+                    "start": 2246.207,
+                    "stop": 2248.04,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Justice Sotomayor. No."
+                },
+                {
+                    "start": 2248.04,
+                    "stop": 2250.175,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there is some privacy rule there?"
+                },
+                {
+                    "start": 2250.175,
+                    "stop": 2297.49,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I can be clear about this. It seems to me that Hudson v. Palmer and the -- and the history of the Fourth Amendment clearly suggest that there is no reasonable expectation of privacy of being viewed naked in a prison. And therefore, the ordinary Burlington approach of having somebody take a shower and looking at him or her naked for tattoos and health and incidental contraband, clearly constitutional, clearly doesn't even raise a Fourth Amendment issue. When you get beyond that point and start to begin the -- what Essex does, which is not a true anal cavity search, but simply an anal focus and genital focus search, I think that is subject to the Turner v. Safley and-or the Bell v. Wolfish standard."
+                },
+                {
+                    "start": 2297.49,
+                    "stop": 2369.352,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can we go back to Justice Alito's question? Isn't one of the factors that we look at under the Fourth Amendment reasonableness? And should we be thinking about the fact that many of these people who are now being arrested are being put into general populations or into jails, sometimes not just overnight but for longer periods of time, like this gentleman, for 6 days before he sees a magistrate? Should we be considering a rule that basically says your right to search someone depends on whether that individual has in fact been arrested for a crime that's going to lead to jail time or not, whether that person's been presented to a magistrate to see whether there is in fact probable cause for the arrest and detention of this individual? I mean, there is something unsettling about permitting the police to arrest people for things, like kids who are staying out after curfew with no other, based on probably nothing else."
+                },
+                {
+                    "start": 2369.352,
+                    "stop": 2404.025,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Sotomayor, I think what is disturbing about this case is in fact that he was arrested under circumstances in which he candidly shouldn't have been arrested as a matter of State law. I understand that. But I think to change the constitutional rule and to change the Turner v. Safley and Bell v. Wolfish standards and ignore what the underlying inquiry should be here, which is these policies which apply across the board impinge constitutional protections, but nevertheless represent the good faith judgment of our jailers."
+                },
+                {
+                    "start": 2404.025,
+                    "stop": 2421.203,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what are we doing with the presumption of innocence? That's also a constitutional right. And so shouldn't the degree to which a search is permitted be conditioned in some way on whether or not this person has been presented to a magistrate?"
+                },
+                {
+                    "start": 2421.203,
+                    "stop": 2460.296,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If you ask me the way I would analyze it, I would -- if you want to adopt a different set of standards about who ought to be arrested and who ought to be taken to jail, that's fine. I understand that. But I think once you are talking about actually bringing someone into the jail to be admitted into the general population and what is without question one of the most dangerous, most risky environments, in that context I would hope that this court, rather than asking individual jailers to make decisions on the basis of -- where they clearly will not have the kind of information you are asking them to make and where if they make a judgment wrong in either direction all it means is litigation. Either they--"
+                },
+                {
+                    "start": 2460.296,
+                    "stop": 2469.884,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought -- I thought your friend said that is exactly what you do with respect to the visual body cavity search, reasonable articulable suspicion, under the new policy."
+                },
+                {
+                    "start": 2469.884,
+                    "stop": 2481.275,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's what we do with a true anal body cavity search. What we -- I mean, we changed the policy to be sure. We changed the policy because of litigation concerns."
+                },
+                {
+                    "start": 2481.275,
+                    "stop": 2485.244,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well now, as I understand it, with respect to--"
+                },
+                {
+                    "start": 2485.244,
+                    "stop": 2485.813,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Liability concerns."
+                },
+                {
+                    "start": 2485.813,
+                    "stop": 2529.49,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--with respect to visual body cavity searches, you require a particular individual reason, right? Okay. And you don't require that with respect to simple strip search? Okay. So you agree with your friend that the only thing at issue here is how close the guard is going to be to the individual who you have no reasonable suspicion to think is different from anybody else during a simple strip search? You want -- he says 2 feet is too close, 5 feet or whatever is okay. You want to go to 2 feet. You don't want to have to stand back to 6 feet. That's all the case comes down to?"
+                },
+                {
+                    "start": 2529.49,
+                    "stop": 2542.664,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't -- well, you can characterize it that way. But I think the better way to think about it is that what Essex wants, what Essex policy permitted it to do, was to examine the--"
+                },
+                {
+                    "start": 2542.664,
+                    "stop": 2553.188,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not interested in what Essex policy permitted it to do in the past. I -- I'm looking at the new policy, all right? Under the new policy, you have reasonable articulable suspicion--"
+                },
+                {
+                    "start": 2553.188,
+                    "stop": 2553.671,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 2553.671,
+                    "stop": 2558.34,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--for everything except simple strip search and observation."
+                },
+                {
+                    "start": 2558.34,
+                    "stop": 2580.787,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, see, that's the problem, is that the language there is different. Because the -- the truth is that the line that the new policy draws is between a true -- what I -- what I think Bell v. Wolfish was describing, where you ask the inmate to bend over and expose his or her anus for a cavity search. On that score, that's what -- we don't do that. But we do, in fact, ask--"
+                },
+                {
+                    "start": 2581.373,
+                    "stop": 2586.341,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. Could I finish and find out what you do? You said we don't do that. We do what?"
+                },
+                {
+                    "start": 2586.341,
+                    "stop": 2593.179,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right. What we do is ask the individual to lift his genitals and to squat and cough."
+                },
+                {
+                    "start": 2593.179,
+                    "stop": 2598.233,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. So you do more than a simple strip search."
+                },
+                {
+                    "start": 2598.233,
+                    "stop": 2602.451,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right, slightly more than a simple-- --But I don't think that is the line to draw."
+                },
+                {
+                    "start": 2602.451,
+                    "stop": 2613.325,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But there is still an -- an issue in the case beyond the ordinary visual inspection, and that is this, even though you have changed your policy now--"
+                },
+                {
+                    "start": 2613.325,
+                    "stop": 2614.492,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right, we are still liable."
+                },
+                {
+                    "start": 2614.492,
+                    "stop": 2632.12,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The question remains whether that change in policy was constitutionally required, so that when -- when you treated the -- the plaintiff in a different fashion under the old policy, that was a violation of the Constitution. Doesn't -- doesn't that question remain in the case?"
+                },
+                {
+                    "start": 2632.12,
+                    "stop": 2634.355,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That question clearly remains in the case. I'm not--"
+                },
+                {
+                    "start": 2634.355,
+                    "stop": 2641.242,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. So the -- we have to consider both, the pure visual and also the inspection for contraband."
+                },
+                {
+                    "start": 2641.242,
+                    "stop": 2651.784,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right. And all I'm -- all I -- the only point I have been trying to make here is that if you -- if you look at the way the district court analyzed the case, the district court split it up, and it's the basis of the class distinction versus the--"
+                },
+                {
+                    "start": 2651.784,
+                    "stop": 2676.332,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the record or common experience justify an argument that if you have the person who's stopped just for a traffic ticket, but that person is going to be in custody for five or six days, that person might well prefer an institution where everyone has been searched before he or she is put into the population with this?"
+                },
+                {
+                    "start": 2676.332,
+                    "stop": 2704.918,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Kennedy, there actually is testimony in the record from the warden saying that in order to ensure everybody's safety, we are better off with a blanket policy that says we are going to engage in -- in some form of a search -- Essex has a slightly more intrusive one -- but it's all designed to accomplish the same thing. It's not just designed to ensure against contraband and -- and that -- it's designed to ensure that there isn't somebody like Mr. Florence who is going to end up being poked or otherwise--"
+                },
+                {
+                    "start": 2704.918,
+                    "stop": 2718.494,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Is there any evidence -- I count seven or eight States anyway that have some variation of the reasonable suspicion rule like what they want -- roughly. Is there any evidence at all that in those seven or eight States, there is more contraband being smuggled in?"
+                },
+                {
+                    "start": 2718.494,
+                    "stop": 2763.957,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, there is the testimony in the record from their expert, who said that in Kentucky, there is today -- the single biggest problem in Kentucky prisons and the biggest cause of death is drug overdose, which suggests that there is a serious contraband issue in Kentucky. Kentucky is in one of those -- is one of those -- is inside one of the circuits that has had a reasonable suspicion requirement as a constitutional matter forever. So I would say there yes, there is some evidence from which you could infer that it's worse now than it was. But I would also ask the Court to rely on its common sense and it its own -- what is essentially took judicial notice of in Bell v. Wolfish and Rutherford v. Black, which is this is a serious problem, and it is no less a serious problem today than it was more than 30 years ago, when this Court--"
+                },
+                {
+                    "start": 2763.957,
+                    "stop": 2778.883,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are there any -- are there any constitutional limits, in your view? You say you didn't attempt the kind of search that was done in Bell v. Wolfish. Is there any constitutional impediment to your doing so?"
+                },
+                {
+                    "start": 2778.883,
+                    "stop": 2807.652,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I -- I don't believe that -- my position would be no, there isn't a constitutional impediment, but-- --The balance would tip in favor of the -- of the institution under those circumstances. I do think -- obviously, there is a limit between a manual physical body cavity search, and that it seems to me, yes, I think -- that would -- that would be a very different balance of the equation, and I -- I suspect I would be very hard pressed to just -- to convince five members of this Court that that's the--"
+                },
+                {
+                    "start": 2807.652,
+                    "stop": 2812.104,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You -- you want us to write an opinion that applies only to squatting and coughing. Is that it?"
+                },
+                {
+                    "start": 2812.104,
+                    "stop": 2815.59,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, you may want to write it slightly differently."
+                },
+                {
+                    "start": 2815.59,
+                    "stop": 2818.694,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. [Laughter]"
+                },
+                {
+                    "start": 2818.694,
+                    "stop": 2852.531,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, but what -- but what I would really like is an opinion that recognizes that deference to the prison and to their judgment is what's appropriate under these circumstances, and that extends all the way to the Bell v. Wolfish line. The only difference being that I would like for the Court to analyze it under Turner v. Safley, in which -- in which the analysis is, is there -- you know, is there a logical nexus between the rule that the -- that the prisons have in preventing a problem, and the answer is yes, and are there reasonable alternatives. And there, the answer is no. If the--"
+                },
+                {
+                    "start": 2852.531,
+                    "stop": 2860.621,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You are saying that they can do the full -- as far as the Constitution is concerned, all of these searches are permissible."
+                },
+                {
+                    "start": 2860.621,
+                    "stop": 2872.761,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--All -- clearly, all of our searches are permissible, and I would go-- --In Bell v. Wolfish. Yes. I think that's exactly the holding of Bell v. Wolfish. Bell v. Wolfish was not tied in its opinion itself to the fact that they--"
+                },
+                {
+                    "start": 2872.761,
+                    "stop": 2898.979,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But they did -- they didn't stress -- they didn't stress that there was a visitor who could -- who could give the inmate contraband. Bell v. Wolfish doesn't -- and I asked Mr. Goldstein whether we know whether the pretrial detainees in New York were searched that way on entry, and he said there is nothing that shows one way or the other."
+                },
+                {
+                    "start": 2898.979,
+                    "stop": 2915.271,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right. I think that's -- I think that's correct. We don't know. And of course, part of -- part of the empirical problem in -- in that is that that facility had only been opened for four months anyway. So it was really going to be difficult, if you were going to adopt the policy they had adopted in Bell, to insist on some sort of empirical proof--"
+                },
+                {
+                    "start": 2915.271,
+                    "stop": 2934.485,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The one significant difference between Bell and this case was that in Bell, there was a real opportunity for people to plan, to conspire together to bring in contraband. Here, you are talking about somebody who is arrested on the spot, there is no opportunity for planning, for conspiracy with respect to contraband, is there?"
+                },
+                {
+                    "start": 2934.485,
+                    "stop": 2957.248,
+                    "speaker": {
+                        "name": "Carter G. Phillips",
+                        "ID": 19760,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, but the policy itself -- may I answer the question? The policy is aimed at all people, not just Mr. Florence, and if you aim it at all people, there are people who self-report who obviously have got an opportunity to bring in contraband, and there are a lot of people who just get arrested and happen to have drugs or something on them, and rather than show those when they are being stopped for a speeding ticket, will likely stick it in their pocket or put it somewhere else. Thank you, Your Honor."
+                },
+                {
+                    "start": 2957.248,
+                    "stop": 2970.508,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Ms. Saharsky?"
+                }
+            ],
+            "start": 1734.211,
+            "stop": 3062.049
+        },
+        {
+            "turns": [
+                {
+                    "start": 2970.508,
+                    "stop": 3062.049,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The searches at issue in Bell are very similar to the searches at issue in this case, and they should be upheld. I want to start with Justice Kagan's question. It is true that contact visits with Bell are different from a person coming into the jail for the first time, in that there might be a greater opportunity for planning, but as one of the Justices pointed out, there was less of an opportunity to actually get contraband, the person coming in was going to be searched, the inmate, as Justice Marshall pointed out, was wearing a one-piece zip-up jumper, and he was being watched the entire time. The visit -- the contraband situation in this case at intake, the person does have an opportunity, even if they are not self-reporting, knowing that they are going to be arrested. Protesters, for example, who decide deliberately to get arrested. They might be stopped by the police, they see the squad car behind them. They might have a gun or contraband in their car and think hey, I'm going to put that on my person, I just need to get it somewhere that is not going to be found during a patdown search, and then potentially they have the contraband with them. Also, the process of going from the arrest -- point of arrest to the general jail population is not a quick one. The person typically goes, for example, to a metropolitan police department -- that is what happens here -- and the person would mix potentially there in a holding cell with other offenders. If this Court for example adopted a rule saying that minor offenders would not be searched in a way that other offenders would, I have no doubt that there are some offenders in those circumstances, all on the bus together to go to the general jail population, who would give the stuff to the minor offenders-- --To try to get them to bring it in."
+                },
+                {
+                    "start": 3062.049,
+                    "stop": 3108.063,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--That's not the Federal rules, and by the way, the brief was really confusing. When what -- when I read page 1, page 1 tells me that the BOP policy requires all incoming pretrial detainees to be subject to visual body cavity inspections. And then it isn't until page 30 that I learn that there is an exception, for the very category of arrestee that we are talking about here. That they are not subject to body cavity inspections unless there is reasonable suspicion that they are carrying contraband. That the misdemeanor or civil contempt offender is not subject."
+                },
+                {
+                    "start": 3108.063,
+                    "stop": 3121.155,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm sorry if that was confusing. The Bureau of Prisons policy is that a prisoner will not be put in the general population, being allowed to mix with other offenders, unless he or she has undergone the strip search--"
+                },
+                {
+                    "start": 3121.155,
+                    "stop": 3138.782,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but I want to know how people in this category are treated in the Federal system. As you -- you-- --You reversed it. They -- those people are not subject to this visual body cavity search."
+                },
+                {
+                    "start": 3138.782,
+                    "stop": 3166.183,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Those people when they go into the jail would be asked whether they are willing to consent to this type of search. In most cases, they do consent. If they don't consent and there is not reasonable suspicion, then they are not placed in the general jail population; they are kept separate from the other offenders. So it is the case, the rule that the Third Circuit identified which is: A blanket policy that anyone that's going to go into the general jail population and mix with everyone else has to be strip searched. That is the Federal Bureau of Prisons' policy. I should note that--"
+                },
+                {
+                    "start": 3166.183,
+                    "stop": 3180.859,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. I'm sure I missed something. You say when they go in they are asked: Will you consent to a more intrusive body cavity search and be put into the general population; or if you don't, you don't have to be searched and we put you in some place else. Who consents to that?"
+                },
+                {
+                    "start": 3180.859,
+                    "stop": 3210.045,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the general jail population has certain facilities, you know, computer facilities and others that you don't get when you are in a cell by yourselves. As a practical matter this arises very infrequently in the Federal system. We are talking about fewer than 1 percent of offenders. And the question before the Court at this point really is, you have before you a blanket policy saying we need to strip search everyone and is that something that is unreasonable or irrational in the way that the Court has considered its normal deference to prison officials and I just -- I would like--"
+                },
+                {
+                    "start": 3210.045,
+                    "stop": 3232.391,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand most of the general proposition that your side is advancing, but I have to say, I was somewhat surprised at the evidence, the amount of contraband that was discovered and the amount of weapons that was discovered that is in the literature and citations was somewhat skimpy. I thought there would be a stronger showing than I found in the briefs."
+                },
+                {
+                    "start": 3232.391,
+                    "stop": 3275.237,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, there are not empirical studies of this type of information. Typically it arises when there are incidents at a facility and incident reports are written up. They are not published regularly. There is not some kind of laboratory study that you can do. The facilities have an incident that they try to deal with. Sometimes it makes the news. Those are the things that we reported. I would hate for the Court to think that there is not evidence of people who committed -- minor offenders in the record bringing in very serious things into prisons jails. I point you to footnote 15 in the government's brief which talks about people being arrested for traffic offenses and smuggling pipes in body cavities. I'd point the Court to both experts in this case cited by Mr. Phillips. I'd point the Court to the record in Bull, the San Francisco case."
+                },
+                {
+                    "start": 3275.237,
+                    "stop": 3298.77,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The issue has to be certainly some misdemeanor. Some people charged with misdemeanor crimes will try to smuggle things in. The issue is how many of them would not have been found on a reasonable suspicion standard. I think Justice Breyer said in the San Francisco study it appears only one."
+                },
+                {
+                    "start": 3298.77,
+                    "stop": 3306.874,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that that is a very hazardous thing for courts to do with 20/20 hindsight. You know, the Court could look back at individual offenders and might have information--"
+                },
+                {
+                    "start": 3306.874,
+                    "stop": 3330.572,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But we don't have 20/20. We have how many years, 15 years since Bell where prisons have been applying the reasonable suspicion standard. And the most you could muster under that standard is one example of a case where someone has entered? At some point empirical evidence has to mean something in terms of us judging the question of reasonableness."
+                },
+                {
+                    "start": 3330.572,
+                    "stop": 3346.101,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I agree with you, but what I'm saying is that the individuals who are doing the searches at issue have very limited information about people. This is when you have people who are coming into the first -- the system for the first time. They have had the most contact with the outside world. You have the least amount of information about them. In the Federal system you don't know--"
+                },
+                {
+                    "start": 3346.101,
+                    "stop": 3367.014,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't have a question about that today. I know it's bad to base your judgments on your own personal experiences. When I was a prosecutor, it took sometimes days to get a rap sheet. I understand that that's no longer the case today? That there virtually almost always accessible by computers today?"
+                },
+                {
+                    "start": 3367.014,
+                    "stop": 3409.207,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That may be true but it's not the information that the people who do intake and are doing the searches have. They do not have that information on their fingertips in the Federal system. They have name, date of birth, and the offense the person was charged with. They don't have anything else. And the question before the Court, if I may, is whether there are reasons for a blanket rule that this Court should defer to, and I would say there are several. First of all you cannot say that there are some minor offenders that don't pose a contraband risk. They are documented in the record. Second you have individuals who are making very quick determination. They have large numbers of people to get through into the general prison population. They have very little time, and if they guess wrong, those mistakes can be deadly. Third the rule needs to be--"
+                },
+                {
+                    "start": 3409.207,
+                    "stop": 3431.356,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose we accept the Petitioner's concession that it is permissible to require everybody who is arrested to disrobe and shower under the observation of the corrections officer from a certain distance. Now the question would become: How many people who do that will still be able to smuggle in contraband?"
+                },
+                {
+                    "start": 3431.356,
+                    "stop": 3441.728,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well there would be contraband found that would be found in body cavities. And we have documented in this record and other records, in our brief that there are folks who do that, and that contraband is not found until they do these--"
+                },
+                {
+                    "start": 3441.728,
+                    "stop": 3485.424,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's my -- that is my problem. You -- I overstated the strength of your evidence. I was just trying to throw it out, but I understated it. San Francisco's point is really the 30 to 60 percent or some very high percentage of people who come in for minor crimes are high on drugs or have been -- and there is just that footnote really which has a few examples. Definitely they are there in this category. So would it be helpful if you included in the excluded part people who were high on drugs? You see, so we give you the high on drugs people. It's the drug offense, and those who are high on drugs, and those -- I mean is there a way of drawing this rule that we could catch most of the people--"
+                },
+                {
+                    "start": 3485.424,
+                    "stop": 3494.796,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think the fundamental question for the Court is who is supposed to be doing this line drawing. And you've said case after case after case after case you are going to defer to the prison officials who have seen this stuff on the ground day to day."
+                },
+                {
+                    "start": 3494.796,
+                    "stop": 3513.291,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The simplest thing for any prison official is say do it for everybody. And so the fact they do it for everybody and don't try to make some exclusion for traffic violators or something might be consistent with little or no evidence; it might be consistent with some. That's why I keep looking for it."
+                },
+                {
+                    "start": 3513.291,
+                    "stop": 3522.114,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There are many good reasons to have a policy to do it for everyone. It is easily -- easy to administer when you have lots of people. It is done for the protection of the people like Petitioner who don't want to be knifed in the shower--"
+                },
+                {
+                    "start": 3522.114,
+                    "stop": 3545.395,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If there is so much sense to the policy, why isn't the Federal policy? Before you said because there aren't that many offenders. If there were more, then would there be -- would the Federal policy change so that even people who are in on a contempt charge or a minor crime--"
+                },
+                {
+                    "start": 3545.395,
+                    "stop": 3559.305,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. The Federal government thinks that that blanket policy is a good one. It made one modification to its policy in 2003 when the weight of the circuits was against it. But again this is a policy that is done for everyone's protection. A point that Justice Kennedy made earlier is that there--"
+                },
+                {
+                    "start": 3559.305,
+                    "stop": 3564.124,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I'm sorry, I didn't understand. You think the Feds think it's a good policy to inspect everyone?"
+                },
+                {
+                    "start": 3564.124,
+                    "stop": 3578.783,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, to inspect everyone who would be put in the general jail population. That the Third Circuit's holding, and that is what we are defending in this case. Because when you have a rule that treats everyone the same, you don't have folks that are singled out. You don't have any security gaps. We urge you to affirm the judgment from the court below."
+                },
+                {
+                    "start": 3578.783,
+                    "stop": 3582.651,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That you, counsel. Mr. Goldstein, take four minutes."
+                }
+            ],
+            "start": 3582.651,
+            "stop": 3725.88
+        }
+    ]
+}

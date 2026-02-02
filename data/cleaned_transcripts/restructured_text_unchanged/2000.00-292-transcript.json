@@ -1,0 +1,2825 @@
+{
+    "title": "C. & L. Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 52.349,
+                    "stop": 97.414,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the court: The Potawatomi Indian Tribe on August 25th, 1993 presented a contract to C & L Enterprises for the construction of a roof upon a bank building that the tribe was building off of the reservation. The contract contained an arbitration provision specifically adopting the rules of the American Arbitration Association and also specifically providing that the award, the arbitration award in such proceedings, would be enforceable by judgment. There is no question that the arbitration agreement provided that the tribe waived its immunity as to the American Arbitration Association and its arbitration proceedings. There is no--"
+                },
+                {
+                    "start": 97.414,
+                    "stop": 101.282,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but it didn't use the magic phrase. It didn't say waive immunity."
+                },
+                {
+                    "start": 101.282,
+                    "stop": 126.314,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. And we believe the standard, that no standard has required that it specifically state we waive sovereign immunity. Rather they clearly stated we agree to be brought into the American Arbitration Association and to be subjected to arbitration, a binding arbitration. They went further than that and they said in the agreement we agree that a judgment may be entered upon that."
+                },
+                {
+                    "start": 126.314,
+                    "stop": 126.847,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand."
+                },
+                {
+                    "start": 126.847,
+                    "stop": 196.541,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And the ambiguity that the respondent attempts to raise is regarding which court is being referred to where the phrase recites any court of competent jurisdiction. However, we believe that that argument of ambiguity fails for four reasons. First, the American Arbitration Association Rule 47C, which is incorporated by the very terms of the clause, states that awards under their procedures may be enforced as a judgement in any federal or state court. The contract itself selects Oklahoma law as governing law in addition to this Court's rulings in Mescalero, Oklahoma Tax Commission v. Potawatomi Organized Village of Cocky. All of those saying that when the tribe goes off the reservation, it is subject to the substantive laws of the state. The third reason is the Tribal Court is not mentioned anywhere in the contract. And the fourth reason is we don't believe the Tribal Court would have had jurisdiction to even hear this case under the ruling in Montana v. United States because it is undoubtedly non-Indian not on the reservation."
+                },
+                {
+                    "start": 196.541,
+                    "stop": 202.412,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, what if the non-Indian brought the suit in the Tribal Court? Why wouldn't it have jurisdiction?"
+                },
+                {
+                    "start": 202.412,
+                    "stop": 208.433,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because despite--"
+                },
+                {
+                    "start": 208.433,
+                    "stop": 214.02,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You must be suing on the arbitration order. It seemed to me you would waive any objection to tribal jurisdiction if you brought the suit."
+                },
+                {
+                    "start": 214.02,
+                    "stop": 229.548,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We believe that that type of jurisdiction is in fact subject matter jurisdiction because under the ruling in Montana v. United States, the court indicated that tribes don't have jurisdiction to hear matters unless it's been specifically given to them by the Constitution or statute."
+                },
+                {
+                    "start": 229.548,
+                    "stop": 238.82,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, there's a consensual exception to Montana too, is there not, where there's a consensual transaction between the tribe and a non-Indian?"
+                },
+                {
+                    "start": 238.82,
+                    "stop": 264.885,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Mr. Chief Justice. One of the two exceptions that are carved out under Montana is for a party that enters into a consensual agreement. However, Montana doesn't even get to, we believe, those exceptions until you find that it's on reservation activity. All of the activity discussed in Montana and in the cases we've reviewed following that regard on reservation activity."
+                },
+                {
+                    "start": 264.885,
+                    "stop": 284.449,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, if the very same clause were in a contract that your client entered into with a state, do you think that we would have found a waiver of Eleventh Amendment immunity?"
+                },
+                {
+                    "start": 284.449,
+                    "stop": 289.918,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. But, the question is more difficult and if I could explain."
+                },
+                {
+                    "start": 289.918,
+                    "stop": 297.341,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would have thought we wouldn't, that our cases would have said not, that wouldn't be enough to waive sovereign immunity."
+                },
+                {
+                    "start": 297.341,
+                    "stop": 369.453,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under this Court's ruling in Edelman v. Jordan regarding Eleventh Amendment immunity, the Court stated that the rule is that the waiver, and again this one applies, as you know, to Eleventh Amendment immunity from suit in federal court, but the courts even there stated that the ruling regarding whether a provision waives such immunity is that it must be stated by the most express language or by such overwhelming implications from the text as will leave no room for any other reasonable construction. And in this situation, under the same circumstances, we believe that that standard would find a waiver because there is no other reasonable construction of this clause when you take what the clause incorporates. And in fact, in this Court's ruling in Port Authority v. Feeney, and subsequently in Kimmel v. Florida Board of Regents, the Court recognized that the consent provision may look to other provisions. In the Port Authority, it looked to a venue provision. And in Kimmel, it looked for an ADA claim; it looked to the Fair Labor Standards Act and found--"
+                },
+                {
+                    "start": 369.453,
+                    "stop": 376.357,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, do you concede, Mr. Mashburn, that an Indian tribe has the same sort of immunity as the state under the Eleventh Amendment?"
+                },
+                {
+                    "start": 376.357,
+                    "stop": 389.598,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Mr. Chief Justice, we do not. We believe that that is peculiar to the states and that that at the very most is the highest standard that this Court should apply and we don't believe that that is appropriate for an Indian tribe."
+                },
+                {
+                    "start": 389.598,
+                    "stop": 395.084,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in some ways, Indian tribes have been given more immunity than states, hasn't that been the--"
+                },
+                {
+                    "start": 395.084,
+                    "stop": 430.508,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There is some discussion of that in the dissenting opinion in Cairo that it appears that that's what the Court is doing. We don't believe that that's what the Court intended to do. And certainly, we don't believe that that's the rule that should be followed here. We believe that the Court should find a waiver if there is simply a clear statement that using the usual rules of contract construction that the tribe agreed that upon a breach it could be brought to court and sued for the breach of that contract."
+                },
+                {
+                    "start": 430.508,
+                    "stop": 457.059,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Mashburn, as this respects foreign sovereigns, Congress in 1988 made the specific provision that if you agreed to an arbitration dispute settlement mechanism, then you have no immunity. The Congress did that by statute and doesn't that imply that when Congress doesn't do it by statute, the immunity persists?"
+                },
+                {
+                    "start": 457.059,
+                    "stop": 530.189,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, we don't believe that it does. First of all, we believe that a distinction has to be drawn. In that instance, Congress was attempting to bring some uniformity to a variation of rules that had been applied. And in fact, as this Court recited the history of foreign sovereign immunity in the Cairo case, there had been a move from virtually no immunity to virtually total immunity under I believe it was the Tate Letter. And then, shrinking back from that, and then applying implied consent from commercial operations. We don't believe that the fact that they acted there to specifically provide that as a waiver indicates that where they have not acted that there is no waiver. And in fact, we believe the Court can take guidance from the Foreign Sovereign Immunities Act and from cases leading up to that finding waivers from entering into commercial relations, or in particular arbitration agreements, and find that that is within the appropriate policy that the United States has followed."
+                },
+                {
+                    "start": 530.189,
+                    "stop": 539.712,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't take the position do you, maybe you do, that any arbitration agreement necessarily implies the waiver of sovereign immunity?"
+                },
+                {
+                    "start": 539.712,
+                    "stop": 544.533,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, I believe you have to look to the specific term here in the arbitration agreement."
+                },
+                {
+                    "start": 544.533,
+                    "stop": 545.966,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're dealing with this one."
+                },
+                {
+                    "start": 545.966,
+                    "stop": 567.213,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. But, as a general rule, we believe that if the arbitration agreement, first of all, if it incorporates rules, as this one does from the American Arbitration Association, then we think it's perfectly appropriate for the Court to look to those rules and the parties are both on notice that those rules are going to govern the procedures. We also believe--"
+                },
+                {
+                    "start": 567.213,
+                    "stop": 590.478,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the Foreign Sovereign Immunities Act, of course, was just tracking developments in international law that had generally allowed suit on commercial transactions by states. Why do you think it's open to us to apply such a rule to the sovereign immunity of Indian tribes, which we made up ourselves anyway, right?"
+                },
+                {
+                    "start": 590.478,
+                    "stop": 649.934,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. And it is correct that it was simply a codification of what was the emerging case law in the field. It certainly is appropriate for this Court to draw a waiver rule as lenient as the Foreign Sovereign Immunity Rule, and certainly no more strict than the Eleventh Amendment Waiver Rule. And this Court has complete authority to do that because, as Your Honor has stated, this Court recognized in Cairo that it is a court created doctrine. Especially in the context that it tends to impinge on the state's rights and be court created, we believe there's even more argument for the Court to move cautiously in; certainly in expanding any immunity that has been afforded to Indian tribes."
+                },
+                {
+                    "start": 649.934,
+                    "stop": 675.501,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Mashburn, even if you could... you've agreed the agreement is saying yes, they agreed to arbitration. That's explicit right out there that but they are going to resolve this through arbitration. But, where do you get tied to that, that the Court to enforce the arbitration award would be a state court? There is no explicit agreement to that by the tribe, is there?"
+                },
+                {
+                    "start": 675.501,
+                    "stop": 745.478,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, we believe that there is and the reason that there is is because first of all it adopts the American Arbitration Association rule which says the award may be enforced in state or federal court. Secondly, it adopts Oklahoma's Arbitration Act, which says that the award may be enforced in any court of the state. And we believe when you combine that with the fact that, in our opinion, the Tribal Court would not have had jurisdiction, there is no ambiguity that the court that is being selected is not the Tribal Court. So, the only other alternative would be to argue that the term, that the provision was meaningless and that it was selecting no court. But, we don't even believe that that argument holds water because the parties had adopted Oklahoma law specifically. The parties have adopted the American Arbitration Association rules. And under both of those bodies of law, the forum is either, you know, from a state court or a federal court, not the Tribal Court."
+                },
+                {
+                    "start": 745.478,
+                    "stop": 749.28,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The reason that the Tribal Court would not have had jurisdiction is--"
+                },
+                {
+                    "start": 749.28,
+                    "stop": 770.176,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because under the Court's ruling in Montana v. United States, the Court indicated that unless there was specific statute or constitutional provision providing for jurisdiction over civil matters by the Indian tribe, that it did not have jurisdiction over non-Indians off the reservation."
+                },
+                {
+                    "start": 770.176,
+                    "stop": 776.58,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--So, even if, are there, is there a Tribal Court?"
+                },
+                {
+                    "start": 776.58,
+                    "stop": 777.699,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 777.699,
+                    "stop": 782.567,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And has it had any arbitration proceedings?"
+                },
+                {
+                    "start": 782.567,
+                    "stop": 785.721,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not in this case. No parties--"
+                },
+                {
+                    "start": 785.721,
+                    "stop": 791.089,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Have they asserted jurisdiction over arbitration in other cases?"
+                },
+                {
+                    "start": 791.089,
+                    "stop": 798.295,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm not aware of whether they have or not, Your Honor. No party has attempted to bring any action in Tribal Court in this case at any time."
+                },
+                {
+                    "start": 798.295,
+                    "stop": 829.081,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I wouldn't have thought that the Montana case would prohibit a non-Indian from choosing to resort to Tribal Court jurisdiction. I mean, if your client wanted to go into Tribal Court to enforce it, I wouldn't have thought Montana would be a barrier. That arose in the context of a Tribal Court or a Tribal plaintiff trying to force a defendant into Tribal Court. Now, that's a different question."
+                },
+                {
+                    "start": 829.081,
+                    "stop": 840.189,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I agree that's a different question. And if the Court views that as more a personal jurisdiction question, then certainly a non-Indian party could consider it in that court."
+                },
+                {
+                    "start": 840.189,
+                    "stop": 847.36,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, is there any indication that the tribe would waive its immunity in its own court in this case?"
+                },
+                {
+                    "start": 847.36,
+                    "stop": 853.948,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we believe the waiver would also include waiving immunity in the Tribal Court, yes."
+                },
+                {
+                    "start": 853.948,
+                    "stop": 867.406,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. Assume you lose in this Court on the interpretation of the contract, I take it that the tribe would say that they're immune from suit in their own court as well. Is that correct?"
+                },
+                {
+                    "start": 867.406,
+                    "stop": 901.762,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sure that they would assert that they are immune from suit in their own court. I need to clarify one matter though for your previous question, Your Honor. There is some question because the agreement incorporates the American Arbitration Association rules and because that makes no reference to bringing an action to enforce the award in anything other than state and federal court. I suppose there could be some question there whether they were consenting to suit in their own court. However, no party has asserted Tribal Court jurisdiction here. No party has attempted to bring any action in Tribal Court."
+                },
+                {
+                    "start": 901.762,
+                    "stop": 941.537,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, obviously not because you were going to sue them in state court. But, they say the words, we agree to be sued in any court meaning any Tribal Court. Now, what's the answer to that argument? You say they're not able to say that in a contract? Why not? You and your client and they could sign a contract saying we want to be sued in a Tribal Court. Is there a Tribal Court? Yes. What happens if they try to assert immunity in their Tribal Court? You say you signed a promise here not to by your own words. So, what's the problem? I mean, if this were a state, we'd say it meant any state court. This is a tribe, so they're saying by analogy it means any Tribal Court. Now, what's the answer to that? There's a kind of black hole in this case."
+                },
+                {
+                    "start": 941.537,
+                    "stop": 970.574,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If this were a state, we would say that it meant state court because of the Eleventh Amendment. We do not question that the tribe could have said you may sue us, but only in Tribal Court. But, the language of the contract simply does not indicate that. The language of the contract, especially when you incorporate the American Arbitration Association rules that say state or federal court, certainly does not indicate that the Tribal Court is going to be the exclusive court of jurisdiction, if it indicates Tribal Court at all."
+                },
+                {
+                    "start": 970.574,
+                    "stop": 1015.27,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Mashburn, you are now retreating from a position that you started out originally because you answered Justice O'Connor's question if we're talking about personal jurisdiction, of course, you can submit to personal jurisdiction. But, before that, you were taking a position about the subject matter jurisdiction of Tribal Courts. You were saying that parties can't confer subject matter jurisdiction on the court. And if we follow that reasoning, then your answer to Justice O'Connor should have been no. These courts are simply powerless to entertain the case where one of the litigants is a non-member and the episode and suit occurred off reservation, you started out, are you abandoning that position?"
+                },
+                {
+                    "start": 1015.27,
+                    "stop": 1045.372,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, I may not have made myself clear. I was attempting to respond in the sense that if that's the way the Court reviewed what's going on in Montana as personal jurisdiction, I do not believe it is. I believe Montana speaks in terms of subject matter jurisdiction. And I do not retreat from the statement that if it is subject matter jurisdiction, that in the ordinary sense it would not be able to be conferred on the court simply by the parties agreeing to it. And if there are no other questions, I would like to reserve the balance of my time."
+                },
+                {
+                    "start": 1045.372,
+                    "stop": 1048.609,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Very well, Mr. Mashburn. Mr. Coleman, we'll hear from you."
+                }
+            ],
+            "start": 52.349,
+            "stop": 1096.257
+        },
+        {
+            "turns": [
+                {
+                    "start": 1048.609,
+                    "stop": 1096.257,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the court: Respondent waived its immunity from suit when it entered into a contract expressing its willingness to submit to binding arbitration and judicial confirmation of the arbitration award in state court. We think that the test should be with respect to evaluating a waiver of tribal immunity whether the contract states a waiver by sufficiently expressed language or by overwhelming implication from the text such that by applying the traditional rules of construction, the only reasonable interpretation is that the tribe intended to subject itself to suit on the contract."
+                },
+                {
+                    "start": 1096.257,
+                    "stop": 1104.077,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What about a forum selection clause? Would that comply with your test because you want to know what that says? But, the standard forum selection clause?"
+                },
+                {
+                    "start": 1104.077,
+                    "stop": 1113.283,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think if the contract otherwise says we agree to be sued, and there is a forum selection clause, that those together certainly would be effective."
+                },
+                {
+                    "start": 1113.283,
+                    "stop": 1119.955,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, it's not if it just says in any dispute between the parties the laws of the State of New York will apply? That wouldn't do it?"
+                },
+                {
+                    "start": 1119.955,
+                    "stop": 1121.522,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't believe that that would do it, Your Honor."
+                },
+                {
+                    "start": 1121.522,
+                    "stop": 1133.347,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Would this clause have sufficed to waive state sovereign immunity for Eleventh Amendment purposes if it were state instead of a tribe?"
+                },
+                {
+                    "start": 1133.347,
+                    "stop": 1183.579,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe not, Your Honor, for a couple of different reasons. First of all, the standards that the states have set for waiving their own immunity are matters of state law and the states have adopted a variety of standards so one can't speak of a uniform standard of waiver. But, more importantly, the Eleventh Amendment developed in a different way. This Court in Chisolm said that the states didn't have immunity from suit in federal court. And it took a separate amendment to the Constitution, which now emanates from the federal government to protect the states from suit. It is a federally imposed limitation on the federal court's own jurisdiction that emanates. And therefore, we believe it is somewhat separate and apart from the state's own sovereign immunity with respect to waiver. With that in part--"
+                },
+                {
+                    "start": 1183.579,
+                    "stop": 1191.635,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "How about cases that have delineated a narrower immunity for tribes, Indian tribes?"
+                },
+                {
+                    "start": 1191.635,
+                    "stop": 1215.417,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--This Court has stated a standard from time to time with respect to waivers. But, the Court has not really been in the position of having been asked specifically what that standard is. So, the language from Santa Clara Pueblo has simply come forward to the state without really being used in any specific case and without being tested. And that is what is at issue today before the Court."
+                },
+                {
+                    "start": 1215.417,
+                    "stop": 1226.438,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You're asking us to adopt a rather confusing body of law. We have one set of standards for when an Indian tribe is deemed to have waived its sovereign immunity and another for the state and, why should we do that?"
+                },
+                {
+                    "start": 1226.438,
+                    "stop": 1240.032,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think I am asking the Court to adopt this same test, and that is the test set out in Edelman and repeated in the Atascadero, which is it should be sufficiently expressed, or by overwhelming implication from the text--"
+                },
+                {
+                    "start": 1240.032,
+                    "stop": 1249.471,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Perhaps I misunderstood. I thought you indicated to Justice O'Connor that this would be insufficient to waive immunity if it were the state that was involved."
+                },
+                {
+                    "start": 1249.471,
+                    "stop": 1257.077,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because the Eleventh Amendment contains a specific requirement as to federal court."
+                },
+                {
+                    "start": 1257.077,
+                    "stop": 1264.564,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, but her question didn't just ask you about the Eleventh Amendment. It could be a waiver of sovereign immunity pursuant in the state's own courts?"
+                },
+                {
+                    "start": 1264.564,
+                    "stop": 1275.621,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Let me correct my answer, Justice Stevens. I didn't understand it in that way. If there were authorization to waive a state's immunity in this fashion, then we believe that it could be waived by this kind of language."
+                },
+                {
+                    "start": 1275.621,
+                    "stop": 1295.119,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What's the answer then? That they say the words, this agreement shall be specifically enforceable in any court having jurisdiction means in any Tribal Court having jurisdiction, and why doesn't it mean that? So, why... I mean that's a possible reading. What's wrong with their argument?"
+                },
+                {
+                    "start": 1295.119,
+                    "stop": 1329.14,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We have two basic arguments. One is that we agree with the petitioner here that the subject matter of jurisdiction of the Tribal Courts is limited by Montana and by Straight. And that therefore, because this is a contract involving off reservation commercial activities, the Tribal Court's jurisdiction cannot extend to this type of activity. And therefore, there could be no expectation by either party that the arbitration confirmation would be in Tribal Court. We also would argue--"
+                },
+                {
+                    "start": 1329.14,
+                    "stop": 1340.148,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Let me just interrupt you if I may. What is it that imposes the limit on the Tribal Court's jurisdiction? You talked about Montana. Is it federal law, state law or tribal law or all three?"
+                },
+                {
+                    "start": 1340.148,
+                    "stop": 1341.85,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I believe it's federal law, Your Honor."
+                },
+                {
+                    "start": 1341.85,
+                    "stop": 1350.286,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The federal law prohibits an Indian tribe from accepting... a Tribal Court from accepting jurisdiction in a case like this? That's your position?"
+                },
+                {
+                    "start": 1350.286,
+                    "stop": 1351.621,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 1351.621,
+                    "stop": 1352.221,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 1352.221,
+                    "stop": 1352.688,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The--"
+                },
+                {
+                    "start": 1352.688,
+                    "stop": 1359.894,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Wait a second, I'd like to get both. You had a second answer. This is in... I just want to know what your second answer is."
+                },
+                {
+                    "start": 1359.894,
+                    "stop": 1408.542,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Going back to the basic analysis that this court laid out in Kennecott Copper, it talked about the fact that state courts are courts of general jurisdiction. And in our dual system, the state courts are the only courts of general jurisdiction. And so, with the Eleventh Amendment overlay, there is a question when you say any court of competent jurisdiction that that means state court. But, the Tribal Courts themselves are courts of very limited jurisdiction and it's not clear that saying any court of competent jurisdiction would ratchet down to the Tribal Court, but would rather continue to apply to the state court, particularly when the contract is adopting state law. It incorporates the Oklahoma Uniform Arbitration Act, which defines the only court under that act that can confirm an arbitration award as Oklahoma State Court."
+                },
+                {
+                    "start": 1408.542,
+                    "stop": 1423.052,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It seems rather strange to me that they can agree to an arbitration by the American Arbitration Association, which is a private body, but then they couldn't further agree that the arbitration would be enforceable in an Indian Court."
+                },
+                {
+                    "start": 1423.052,
+                    "stop": 1445.167,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think for on reservation activity, there is probably that ability. But, that wasn't done in this case and I have not seen a case where there has been any agreement to do that. I certainly don't think that contractors expect to be brought in to Tribal Court or to be forced to bring their suits to confirm in Tribal Court."
+                },
+                {
+                    "start": 1445.167,
+                    "stop": 1459.927,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Now, you say that would allow them to get into state court because the arbitration agreement incorporates the State Arbitration Act, which refers to a state court of general jurisdiction, right?"
+                },
+                {
+                    "start": 1459.927,
+                    "stop": 1461.227,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is one reason."
+                },
+                {
+                    "start": 1461.227,
+                    "stop": 1476.237,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, the arbitration agreement also incorporates the rules of the American Arbitration Association, which allows them to get into any state or federal court. Now, which one of the two do you want to have been incorporated? Why should we prefer the one rather than the other?"
+                },
+                {
+                    "start": 1476.237,
+                    "stop": 1477.353,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If you sue--"
+                },
+                {
+                    "start": 1477.353,
+                    "stop": 1478.769,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Do you think they couldn't get into federal court?"
+                },
+                {
+                    "start": 1478.769,
+                    "stop": 1493.279,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. I think that they could, but not specifically by suing under the Oklahoma Arbitration Act. That would have to be brought under the Federal Arbitration Act. But, I think under the rules they could have gone into either court. They chose Oklahoma and they chose to come under the Oklahoma act."
+                },
+                {
+                    "start": 1493.279,
+                    "stop": 1502.134,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, you're not contradicting the assertion that the rules of the American Arbitration Association were incorporated, which refer to both state and federal court?"
+                },
+                {
+                    "start": 1502.134,
+                    "stop": 1586.574,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely not, Your Honor. We agree that they are directly incorporated by the parties. In fact, if C & L had attempted to confirm its award in Tribal Court, there could have been an objection that they had not followed the arbitration rules which were incorporated which they agreed to. They were bound by those rules as much as the tribe was and they simply could not under their agreement bring that confirmation action in Tribal Court. That is why we think under these circumstances that the tribe waived its immunity as to a confirmation suit in Tribal Court. And we think also that the United States discussion of Finney in its brief suggests that if they were to view the arbitration agreement as more than a simple agreement to arbitrate, but to evaluate the incorporation of those arbitration rules, as was the state statute in Finney and as this court considered by reference in Kimmel, that they too would agree that there has been a sufficient pointing to the court that the action should be brought in, that this agreement taken as a whole and interpreted according to the usual rules of construction, clearly indicates the tribe was willing to subject itself not merely to suit generally, but also to suit or more specifically to suit in Oklahoma State Court for confirmation of an arbitration award."
+                },
+                {
+                    "start": 1586.574,
+                    "stop": 1602.917,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Coleman, what do you make of the argument that going back even before we get to the arbitration clause, that the people who negotiated this contract had no authority to do so because they didn't officially represent the business council."
+                },
+                {
+                    "start": 1602.917,
+                    "stop": 1638.423,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The state doesn't have a position on that. But, what we will say is we don't believe that that is an issue before the Court. It may be determined on remand if it's necessary. If the Court determines that there has been a waiver, that there is a waiver in the language, certainly the tribe may want to assert that defense again. But, it comes up before this Court with the presumption that authority existed. And certainly, 25 USC Section 81, which was recently amended, clearly contemplates that the tribes will and can waive their sovereign immunity in the contracts themselves."
+                },
+                {
+                    "start": 1638.423,
+                    "stop": 1643.208,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Was the authority contested in the Oklahoma Courts from which this case came to us?"
+                },
+                {
+                    "start": 1643.208,
+                    "stop": 1647.611,
+                    "speaker": {
+                        "name": "Gregory S. Coleman",
+                        "ID": 25151,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There was an initial assertion. That is my understanding. It was asserted, but was not decided."
+                },
+                {
+                    "start": 1647.611,
+                    "stop": 1652.18,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you. Thank you, Mr. Coleman. Mr. Minnis, we'll hear from you."
+                }
+            ],
+            "start": 1048.609,
+            "stop": 1675.446
+        },
+        {
+            "turns": [
+                {
+                    "start": 1652.18,
+                    "stop": 1675.446,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the court: An arbitration clause is just that, it's an arbitration clause. It is not a waiver of sovereign immunity and it's certainly not one by the standards that this Court has adopted, which is clear and unequivocal."
+                },
+                {
+                    "start": 1675.446,
+                    "stop": 1761.619,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Isn't there more here than a mere arbitration clause and let me direct you to the language that concerns me. I'm quoting it from page of the blue brief, page six. The relevant... page six on the blue brief. The relevant language in the middle of the block quotes is this \"The award rendered by the arbitrators. \" I'm skipping \"shall be final and judgment may be entered upon it in accordance with applicable law in any court having jurisdiction thereof. \" That reference to jurisdiction thereof has to mean jurisdiction to enter judgment on an arbitration award. So, it is describing a court by reference to a certain kind of subject matter jurisdiction that that court has. When they agree that in effect they will be subject to a court, having that subject matter jurisdiction, and when they agree that they are subject to any court having that subject matter jurisdiction, isn't that a pretty clear waiver and doesn't it go beyond certainly merely an agreement to arbitrate? And doesn't it go beyond merely an agreement to be subject to a court with jurisdiction or with competent jurisdiction? Isn't it pretty darn specific in identifying courts by reference to a certain subject matter?"
+                },
+                {
+                    "start": 1761.619,
+                    "stop": 1762.487,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor."
+                },
+                {
+                    "start": 1762.487,
+                    "stop": 1763.121,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 1763.121,
+                    "stop": 1803.314,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This language, as we pointed out before, is boiler plate language in an agreement, a standard form agreement between private parties. The language there in the arbitration clause is merely, closes the loop. The first part of the loop is we're waiving in an arbitration clause our right to go in and have a jury trial on the issue of who has got the damages. Any contract is presumably enforceable in any court having jurisdiction thereof. All this does is close the loop and say once your arbitration agreement, once you have your arbitration award, it can be enforced in a court of, any court having jurisdiction."
+                },
+                {
+                    "start": 1803.314,
+                    "stop": 1804.031,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, it does--"
+                },
+                {
+                    "start": 1804.031,
+                    "stop": 1805.181,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Just like the contract could have."
+                },
+                {
+                    "start": 1805.181,
+                    "stop": 1819.99,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--But, it does take it out of the ambit of those cases that are merely considered references to courts of competent jurisdiction in which the reference to the jurisdiction in those cases is far less specific than it is here. Isn't that true?"
+                },
+                {
+                    "start": 1819.99,
+                    "stop": 1826.477,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In the... you mean in the language of the courts in the cases that said any court of competent jurisdiction?"
+                },
+                {
+                    "start": 1826.477,
+                    "stop": 1827.013,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 1827.013,
+                    "stop": 1845.908,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think it's just the same thing. I think it's said in a different way. I do not agree with the Justice that the language is interpreted. You have to go in and construe it as you did when you announced it. I think this is boiler plate language. It simply made it clear--"
+                },
+                {
+                    "start": 1845.908,
+                    "stop": 1849.427,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What does the fact that it's boiler plate language have anything to do with it?"
+                },
+                {
+                    "start": 1849.427,
+                    "stop": 1866.054,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, because it has... what it has to do with is the intention of the parties to waive sovereign immunity. And if it's a contract, it's not a contract tailored any way for a government, or any way for an Indian tribe, you're reading it and it seems like a party--"
+                },
+                {
+                    "start": 1866.054,
+                    "stop": 1875.077,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Then, the answer is, is it not... it isn't a severely specific waiver. I don't see why the fact that it's boiler plate cuts one way or the other."
+                },
+                {
+                    "start": 1875.077,
+                    "stop": 1928.479,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, let me cite from... I mean, Mr. Chief Justice, let me cite from Mastrobuono v Shearson Lehman Hutton, 514 U.S. 52 at 63 where this Court was construing an arbitration clause that spoke about, that specifically said New York law will be controlling in New York law. And that instance allowed punitive damages. The suit was brought in Pennsylvania and they said New York law doesn't... this is going to be construed under New York law, therefore you cannot get punitive damages. And this Court said, as a practical matter, it seems unlikely that petitioners were actually aware of New York's bifurcated approach to punitive damages or that they had any idea that by signing a standard form agreement to arbitrate disputes they might be giving up an important substantive right."
+                },
+                {
+                    "start": 1928.479,
+                    "stop": 1930.663,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "These were customers of a securities firm?"
+                },
+                {
+                    "start": 1930.663,
+                    "stop": 1931.38,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Pardon?"
+                },
+                {
+                    "start": 1931.38,
+                    "stop": 1933.548,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "These were customers of a securities firm?"
+                },
+                {
+                    "start": 1933.548,
+                    "stop": 1935.015,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that's correct."
+                },
+                {
+                    "start": 1935.015,
+                    "stop": 1944.923,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And does it matter here that apparently, and we are told, and I gather without contradiction, that it was the tribe that prompted this agreement? It was the tribe that proposed using this form."
+                },
+                {
+                    "start": 1944.923,
+                    "stop": 1946.44,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is correct."
+                },
+                {
+                    "start": 1946.44,
+                    "stop": 1948.125,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is that correct? And doesn't that make a difference?"
+                },
+                {
+                    "start": 1948.125,
+                    "stop": 1951.927,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Under the circumstances, no, I do not think it makes any difference."
+                },
+                {
+                    "start": 1951.927,
+                    "stop": 1956.296,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Does the word in... and does the word in any court mean in any Tribal Court in your view?"
+                },
+                {
+                    "start": 1956.296,
+                    "stop": 1960.433,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It could include a Tribal Court."
+                },
+                {
+                    "start": 1960.433,
+                    "stop": 1961.583,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And what else could it include?"
+                },
+                {
+                    "start": 1961.583,
+                    "stop": 1962.166,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Pardon?"
+                },
+                {
+                    "start": 1962.166,
+                    "stop": 1963.568,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You say could, what else?"
+                },
+                {
+                    "start": 1963.568,
+                    "stop": 1967.17,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Federal court, state court, any court that's out there."
+                },
+                {
+                    "start": 1967.17,
+                    "stop": 1973.79,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, if it includes state court, then they have said shall be specifically enforceable in any state court. So, that's the end of this case."
+                },
+                {
+                    "start": 1973.79,
+                    "stop": 1975.475,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, but Your Honor, it didn't say that. And I--"
+                },
+                {
+                    "start": 1975.475,
+                    "stop": 1980.929,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No. I'm saying in your opinion, what does it mean? Does it mean in any Tribal Court?"
+                },
+                {
+                    "start": 1980.929,
+                    "stop": 1982.779,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It could mean that, yes."
+                },
+                {
+                    "start": 1982.779,
+                    "stop": 1985.215,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "When you say could, what else could it mean?"
+                },
+                {
+                    "start": 1985.215,
+                    "stop": 1992.487,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I don't want to divine the intention of a party--"
+                },
+                {
+                    "start": 1992.487,
+                    "stop": 1994.521,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Sorry. There are words, in any court."
+                },
+                {
+                    "start": 1994.521,
+                    "stop": 1994.887,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 1994.887,
+                    "stop": 2004.629,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm asking a simple question. You say those words do not mean, do not include state court. So, I want to know what in your opinion they do include."
+                },
+                {
+                    "start": 2004.629,
+                    "stop": 2005.429,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Tribal Court."
+                },
+                {
+                    "start": 2005.429,
+                    "stop": 2009.514,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Fine. Now, my next question is, is there a Tribal Court?"
+                },
+                {
+                    "start": 2009.514,
+                    "stop": 2010.449,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2010.449,
+                    "stop": 2019.638,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. My next question is, has that Tribal Court ever considered an arbitration case involving people off the reservation?"
+                },
+                {
+                    "start": 2019.638,
+                    "stop": 2024.34,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I am not sure whether they have. I am not aware if they have."
+                },
+                {
+                    "start": 2024.34,
+                    "stop": 2027.577,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, do you know that they ever have?"
+                },
+                {
+                    "start": 2027.577,
+                    "stop": 2028.177,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 2028.177,
+                    "stop": 2030.446,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. You're not aware if they ever have?"
+                },
+                {
+                    "start": 2030.446,
+                    "stop": 2030.862,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2030.862,
+                    "stop": 2034.914,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. Is there an indication they ever considered any arbitration matter?"
+                },
+                {
+                    "start": 2034.914,
+                    "stop": 2041.984,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They are a court of general jurisdiction. So, they could consider any case."
+                },
+                {
+                    "start": 2041.984,
+                    "stop": 2044.853,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Are you aware, and you are their lawyer--"
+                },
+                {
+                    "start": 2044.853,
+                    "stop": 2045.37,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2045.37,
+                    "stop": 2051.69,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--of any instance in which any case involving arbitration was decided by this particular court?"
+                },
+                {
+                    "start": 2051.69,
+                    "stop": 2052.625,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I am not aware."
+                },
+                {
+                    "start": 2052.625,
+                    "stop": 2057.077,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. Are you aware of any instance in which any... I'm doing a little cross examination."
+                },
+                {
+                    "start": 2057.077,
+                    "stop": 2057.577,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I understand."
+                },
+                {
+                    "start": 2057.577,
+                    "stop": 2110.275,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What I'm trying to figure out is why would a contractor sign a contract to go to a court that's never even heard of our... I mean, never even considered any arbitration matter. I mean, I'm trying to construe these words in any court. And you said they mean any Tribal Court. And after all, contractors are in business. They're businesspeople. If they want to deal with arbitration, it seems highly unlikely that that's what they would have meant or what anybody would have meant. Now, what's the response to that? Because I mean that's what I'm trying to get a response to. This seems so unlikely, your interpretation, and I want a response to it. I would agree with Justice Breyer's perplexity if it were clear to me that tribes say that they consent to jurisdiction in Tribal Court. This is the first time I've understood that. Is it your position that you consent that you waive immunity in Tribal Court?"
+                },
+                {
+                    "start": 2110.275,
+                    "stop": 2110.877,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 2110.877,
+                    "stop": 2117.948,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, you don't think it means Tribal Court? I didn't understand your answer to Justice Breyer. You don't think it even mean Tribal Court, do you?"
+                },
+                {
+                    "start": 2117.948,
+                    "stop": 2120.233,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I... what I tried to--"
+                },
+                {
+                    "start": 2120.233,
+                    "stop": 2126.554,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You think it means any court that you can get me in without this agreement, which doesn't include any Tribal Court."
+                },
+                {
+                    "start": 2126.554,
+                    "stop": 2127.987,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2127.987,
+                    "stop": 2136.176,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is it a court on the moon? I mean, what is... there are only to my knowledge Tribal Courts, federal courts, state courts, what else is there?"
+                },
+                {
+                    "start": 2136.176,
+                    "stop": 2141.147,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There are any courts that have jurisdiction. It begs the questions which court has--"
+                },
+                {
+                    "start": 2141.147,
+                    "stop": 2145.949,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, you say no court has jurisdiction because this isn't a waiver of tribal immunity."
+                },
+                {
+                    "start": 2145.949,
+                    "stop": 2146.634,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2146.634,
+                    "stop": 2150.002,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I thought your position was no court had jurisdiction."
+                },
+                {
+                    "start": 2150.002,
+                    "stop": 2150.302,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2150.302,
+                    "stop": 2151.835,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You're on the moon."
+                },
+                {
+                    "start": 2151.835,
+                    "stop": 2152.871,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2152.871,
+                    "stop": 2166.881,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, the tribe in effect has asked the contractor to use a term which in fact is totally meaningless, utterly misleading, and apparently an act of intentional bad faith. Isn't that the consequence of your position?"
+                },
+                {
+                    "start": 2166.881,
+                    "stop": 2171.333,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. The... every--"
+                },
+                {
+                    "start": 2171.333,
+                    "stop": 2178.855,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It means any court having jurisdiction. A-ha, there isn't one of those. Too bad. We didn't mention that. That seems to be the argument."
+                },
+                {
+                    "start": 2178.855,
+                    "stop": 2185.842,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is the argument, Your Honor. But, it's the argument any party that contracts with any government, except perhaps an Indian government--"
+                },
+                {
+                    "start": 2185.842,
+                    "stop": 2202.434,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "May I interrupt you with this question? We had a case a couple weeks ago and it rose out of California contracting and problems with that. Suppose California had this clause as a standard part of all its government contracts, all its procurement contracts. Would it be enforceable or not?"
+                },
+                {
+                    "start": 2202.434,
+                    "stop": 2204.186,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If California had as part of their--"
+                },
+                {
+                    "start": 2204.186,
+                    "stop": 2214.361,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Precisely the same language we have before us and they agreed to arbitration, the American Arbitration Association, and all the rest. Would that be an unenforceable or an enforceable agreement in your view?"
+                },
+                {
+                    "start": 2214.361,
+                    "stop": 2217.396,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In my view, it would be unenforceable."
+                },
+                {
+                    "start": 2217.396,
+                    "stop": 2221.098,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It would? Even if they did, in all their contracts, they said this precise thing?"
+                },
+                {
+                    "start": 2221.098,
+                    "stop": 2221.848,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it--"
+                },
+                {
+                    "start": 2221.848,
+                    "stop": 2227.502,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "This is standard boiler... we're using your term, it's boiler plate. They use it in all their contracts."
+                },
+                {
+                    "start": 2227.502,
+                    "stop": 2233.906,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right. It's boiler plate created contracts created by them, not boiler plated in a contract copyrighted by the--"
+                },
+                {
+                    "start": 2233.906,
+                    "stop": 2234.306,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "If it is created by the--"
+                },
+                {
+                    "start": 2234.306,
+                    "stop": 2235.875,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--by the American Arbitration Association."
+                },
+                {
+                    "start": 2235.875,
+                    "stop": 2243.328,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, they're the ones who tender the contract just like your client did. Is it enforceable against the state or not in your view?"
+                },
+                {
+                    "start": 2243.328,
+                    "stop": 2259.307,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In my view, it would not be. And my view is that an arbitration clause is not a waiver under any... of any sovereign immunity except, as counsel is arguing here, if the party that is involved happens to be an Indian tribe."
+                },
+                {
+                    "start": 2259.307,
+                    "stop": 2296.58,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That is not, I have not seen. I have never seen... you say any government other than an Indian tribe government could make this argument. I have only been here a limited time, but I have never seen a state government make this argument. I thought that state governments would argue the words in any court in our contract mean in any state court. And of course, the state courts are open. They have waived immunity in those courts. It's a perfectly plausible alternative forum. I've never... and so, if there is some case where it is different between the Tribal Government and the state government, I'd like to know what that is because my impression is it's the same."
+                },
+                {
+                    "start": 2296.58,
+                    "stop": 2322.381,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, maybe I'm deviating from the focus of your question. But, we've cited Prepay... Florida Prepay where they discussed that the state does not consent to suit unless... in their own courts unless they specifically say it even though they have that language. And so, I don't understand how they could--"
+                },
+                {
+                    "start": 2322.381,
+                    "stop": 2325.599,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, yes. I'll look at that. I was just saying that. [Laughter]"
+                },
+                {
+                    "start": 2325.599,
+                    "stop": 2327.782,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I'm sorry."
+                },
+                {
+                    "start": 2327.782,
+                    "stop": 2348.928,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Minnis, the picture here is that a tribe selects out a certain form contract to present to the other side. And as I understood the way this thing unfolded, it wasn't simply the enforcement in court. The tribe stayed out of the arbitration forum too, didn't it?"
+                },
+                {
+                    "start": 2348.928,
+                    "stop": 2349.797,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 2349.797,
+                    "stop": 2359.22,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, it gave the other side a piece of paper that says arbitration and the whole thing was a deception. It was illusory?"
+                },
+                {
+                    "start": 2359.22,
+                    "stop": 2380.267,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it is a deception in terms of a party who is not... if you say that the parties aren't charged to know the law, which in Oklahoma they are. And the law is that you have to have a waiver by the Tribal Government or the state government. It's not deceptive."
+                },
+                {
+                    "start": 2380.267,
+                    "stop": 2393.576,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There is also a rule, isn't there, in most common-law jurisdictions that parties deal in good faith with one another and don't pretend something, which is just illusory as you interpret this contract to be?"
+                },
+                {
+                    "start": 2393.576,
+                    "stop": 2398.361,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I don't interpret this contract as illusory."
+                },
+                {
+                    "start": 2398.361,
+                    "stop": 2399.211,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I just thought I--"
+                },
+                {
+                    "start": 2399.211,
+                    "stop": 2399.813,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I interpret this--"
+                },
+                {
+                    "start": 2399.813,
+                    "stop": 2402.247,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Just deceptive you said. Is that your answer to Judge--"
+                },
+                {
+                    "start": 2402.247,
+                    "stop": 2402.732,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 2402.732,
+                    "stop": 2404.549,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Wasn't that your answer?"
+                },
+                {
+                    "start": 2404.549,
+                    "stop": 2405.301,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I interpret--"
+                },
+                {
+                    "start": 2405.301,
+                    "stop": 2406.001,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Just a minute."
+                },
+                {
+                    "start": 2406.001,
+                    "stop": 2406.584,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Oh, I'm sorry."
+                },
+                {
+                    "start": 2406.584,
+                    "stop": 2411.788,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm asking you what your answer to Justice Ginsburg was, whether you didn't agree whether it was a deceptive contract?"
+                },
+                {
+                    "start": 2411.788,
+                    "stop": 2426.715,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe it's a deceptive contract as a matter of law because everyone is chargeable with knowledge of the law, which are that Indian tribes have sovereign immunity and unless they waive it. And they don't have a clear and unequivocal waiver here and therefore--"
+                },
+                {
+                    "start": 2426.715,
+                    "stop": 2437.57,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, the tribe brings this contract to the contractor. It says they agree to arbitration in any court having jurisdiction, but it really doesn't grant anything that way."
+                },
+                {
+                    "start": 2437.57,
+                    "stop": 2496.942,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Absent from something from the tribe, that's correct, Your Honor. And I'd like to quote... the same thing is true of any municipality in terms of the authority. Here is Nottingham v. City of Yukon, 766 Pacific 2nd 973, at 975, 976. In this case, a city manager had compromised the claim. He said that's deceptive because the city manager didn't have authority. Here's what Oklahoma said, \"The Yukon city manager acted in excess of his statutory authority by attempting to settling compromise or wrongful demotion claim. \" And then the court said Whoever contracts with a municipality does so with notice under limitation on its or its agents powers. Everyone is presumed to know the law and whoever contracts with such a municipality or furnishes supplies does so with reference to the law. If such persons go beyond the limitations imposed, they do so at their own--"
+                },
+                {
+                    "start": 2496.942,
+                    "stop": 2514.736,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, of course, that just restates the proposition of what the law is and brings us right back to where we started. Let me ask you this. For this party, this contractor, are there any claims procedures by which he can request payment? Suppose he built the building and the tribe just didn't pay?"
+                },
+                {
+                    "start": 2514.736,
+                    "stop": 2523.192,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If he built the building and the tribe didn't pay, then, no, there would be... It's just like--"
+                },
+                {
+                    "start": 2523.192,
+                    "stop": 2532.115,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There are no... would he go to the Tribal Council and ask for a special private bill to get paid? I mean, is that the way it works?"
+                },
+                {
+                    "start": 2532.115,
+                    "stop": 2538.019,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They could, but that of course is not the situation here. Nothing happened here. But, you're talking--"
+                },
+                {
+                    "start": 2538.019,
+                    "stop": 2545.089,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm asking what alternative remedies there are if you contract with this tribe and you've got this language in it and the tribe says it means that you can't sue."
+                },
+                {
+                    "start": 2545.089,
+                    "stop": 2557.146,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There is no alternative remedy. When you deal with a sovereign, you get the sovereign to waive the immunity and you get the sovereign to do it as is provided for in its own laws or you don't have the waiver."
+                },
+                {
+                    "start": 2557.146,
+                    "stop": 2564.752,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, you do-- --Don't other states have the possibility of pursuing private bills, of pursuing--"
+                },
+                {
+                    "start": 2564.752,
+                    "stop": 2565.152,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh yes."
+                },
+                {
+                    "start": 2565.152,
+                    "stop": 2565.652,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--pursuing--"
+                },
+                {
+                    "start": 2565.652,
+                    "stop": 2566.286,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2566.286,
+                    "stop": 2569.538,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--pursuing administrative claims adjudication?"
+                },
+                {
+                    "start": 2569.538,
+                    "stop": 2569.854,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2569.854,
+                    "stop": 2576.744,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And I'm asking if any of those procedures have ever been... exist with the tribe or have ever been pursued by other contracting parties?"
+                },
+                {
+                    "start": 2576.744,
+                    "stop": 2588.451,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't know any other contracting party that I can think of right now who's ever had a problem getting paid for doing work that they performed for the tribe. I don't know that it's a situation that's ever arisen."
+                },
+                {
+                    "start": 2588.451,
+                    "stop": 2601.342,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Justice Scalia, Did you have a question? I was um, you know, it doesn't matter. Pardon? Thank you, Mr. Minnis."
+                },
+                {
+                    "start": 2601.342,
+                    "stop": 2601.959,
+                    "speaker": {
+                        "name": "Michael Minnis",
+                        "ID": 36278,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 2601.959,
+                    "stop": 2604.644,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Garre, we'll hear from you."
+                }
+            ],
+            "start": 1652.18,
+            "stop": 2634.83
+        },
+        {
+            "turns": [
+                {
+                    "start": 2604.644,
+                    "stop": 2634.83,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: In Kiowa Tribe, this Court recognized that Indian tribes enjoy sovereign immunity from suit in state courts with respect to both the governmental and commercial activities. In deciding whether a tribe has waived that immunity, this Court applies the same stringent standard that is applied... that it applies in determining whether a state, or the United States, has waived its immunity from suit."
+                },
+                {
+                    "start": 2634.83,
+                    "stop": 2639.05,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What is the authority for that, Mr. Garre? Was that said in the Kiowa case?"
+                },
+                {
+                    "start": 2639.05,
+                    "stop": 2642.502,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, certainly this court in the Santa Clara Pueblo case--"
+                },
+                {
+                    "start": 2642.502,
+                    "stop": 2644.538,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That was just dicta in Santa Clara, wasn't it?"
+                },
+                {
+                    "start": 2644.538,
+                    "stop": 2662.5,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The Court said that the test was unequivocal expression. And the Court has in the Potawatomi case said the test was a clear waiver which certainly we view as being the same as an unequivocal waiver. And the court even in the Kiowa case cited Santa Clara Pueblo with approval."
+                },
+                {
+                    "start": 2662.5,
+                    "stop": 2671.438,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, you think clear waiver necessarily means the same standards that are required for a waiver by a state under the Eleventh Amendment?"
+                },
+                {
+                    "start": 2671.438,
+                    "stop": 2693.769,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we certainly don't mean that unequivocal means one thing for a state and one thing for a tribe. The court has expressed the standard as unequivocal expression and the Merrion v. Jicarilla Apache Tribe, the court addressed the question of whether because Indian tribes had different attributes of their sovereignty than the states, or the United States, a different waiver standard ought to apply."
+                },
+                {
+                    "start": 2693.769,
+                    "stop": 2747.154,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, what's unequivocal? It may mean something different when you're talking about a state court and when you're talking about a Tribal Court. For instance, if I read this clause about, you know, you can bring suit in any court having jurisdiction thereof, if the tribe were taking the more limited position, which I gather the United States is, that this was at least an agreement to suit in the Tribal Court. Okay. If I had this agreement with a state, I would think that it might be limited to just the state court. But, if I entered into this agreement with a tribe with respect to real estate off of the tribal reservation, the notion of a Tribal Court just wouldn't enter into my mind when it spoke about in accordance with applicable law in any court having jurisdiction thereof."
+                },
+                {
+                    "start": 2747.154,
+                    "stop": 2747.654,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2747.654,
+                    "stop": 2754.175,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I mean, what's unequivocal depends on what you have in your... maybe I'm not enough of a westerner. I don't know. But, a Tribal Court wouldn't occur to me."
+                },
+                {
+                    "start": 2754.175,
+                    "stop": 2778.791,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that sort of interpretation I think goes beyond the four corners of the document that the Court would be construing. And this Court in finding unequivocal waivers has always limited its analysis to the language of the statute of contract. Here, that would be applying an understanding or a belief about the availability of jurisdiction in Tribal Court, about whether Tribal Courts exist. And that, we don't know from the record in the case. And that I'm not sure it'd be reasonable in the case--"
+                },
+                {
+                    "start": 2778.791,
+                    "stop": 2802.656,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No. I'm assuming they exist. But, I'm still saying the reasonable import of that language, the unequivocal import of that language with regard to a state might well be that you can only bring suit in the state court. I am not sure that it would be the same when you're dealing with a tribe simply because who thinks of any court having jurisdiction thereof as a Tribal Court."
+                },
+                {
+                    "start": 2802.656,
+                    "stop": 2821.452,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But, the Court of course has said that in the context of the state in the Kennecott Copper case and in the College Savings case. And we think that that makes sense as a rule of construction, that a sovereign as a presumption would only intend to consent to suit if it were going to consent to suit in its own courts and not another sovereign's courts."
+                },
+                {
+                    "start": 2821.452,
+                    "stop": 2860.195,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, but doesn't that presumption operate in circumstances in which the state is making agreements in the state context. The state is making agreements for work to be done in the state. And if here the agreement were for work to be done on the reservation, you would have a stronger argument. But, here the agreement is for work to be done outside the reservation on non-Indian lands. And doesn't that bring us back to what Justice Scalia said? That if you've got a contract within its four corners makes it clear that you're contracting about work to be done outside the reservation."
+                },
+                {
+                    "start": 2860.195,
+                    "stop": 2861.362,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, of course--"
+                },
+                {
+                    "start": 2861.362,
+                    "stop": 2865.481,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It doesn't have the implication that it's a waiver only as to Tribal Courts."
+                },
+                {
+                    "start": 2865.481,
+                    "stop": 2878.323,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, we don't believe that it does. Because the Court has held squarely and most recently in Kiowa Tribe that the on the reservation... off the reservation distinction doesn't work for purposes of tribal sovereign immunity. This contract was entered into with the tribe."
+                },
+                {
+                    "start": 2878.323,
+                    "stop": 2897.968,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You know, but it's the... but the question is what does unequivocal mean here? What is clear here? And it seems to me that what is clear here will perhaps vary depending on whether the subject matter of the contract is subject matter on reservation or off reservation."
+                },
+                {
+                    "start": 2897.968,
+                    "stop": 2903.272,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But, we don't think that the Court has drawn that distinction or should draw that distinction in this case."
+                },
+                {
+                    "start": 2903.272,
+                    "stop": 2908.01,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why isn't it a sensible distinction to draw? In other words, we're trying to find meaning here."
+                },
+                {
+                    "start": 2908.01,
+                    "stop": 2928.423,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The contractor... the contract was entered into with the tribe. The fact that the particular property underlying this contract was not on the reservation doesn't add or subtract any ambiguity from the language that's in there, which is again any court having jurisdiction language. It doesn't answer the ambiguity that this Court identified in Kennecott Copper--"
+                },
+                {
+                    "start": 2928.423,
+                    "stop": 2949.003,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, it also might be helpful, at least to me I would think, if any tribe is supposed to be Tribal Court. I would like to know. Do Tribal Courts normally handle arbitration matters or don't they? You represent the Interior Department. I would imagine that they must have discussed this with you. So, are there normally arbitration matters in Tribal Courts or are there not?"
+                },
+                {
+                    "start": 2949.003,
+                    "stop": 2951.27,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The record in this case doesn't reflect that."
+                },
+                {
+                    "start": 2951.27,
+                    "stop": 2956.323,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I know. But, that isn't a matter of the record. It's a matter of what the Interior Department and the government would represent."
+                },
+                {
+                    "start": 2956.323,
+                    "stop": 2969.25,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not prepared to make a representation on that. It is clear, however, that this court and Congress has recognized that Tribal Courts are perfectly competent and capable of adjudicating important personal and property rights."
+                },
+                {
+                    "start": 2969.25,
+                    "stop": 2997.317,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But, this contract does refer to application of the rules of the American Arbitration Association and it makes some reference to the state act. Both of those in turn refer to at least state court and in the American Arbitration Association to state or federal court. Now, why isn't that part and parcel of the contract then? We know what it referred to."
+                },
+                {
+                    "start": 2997.317,
+                    "stop": 3000.769,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Of course, it would require the Court to go beyond the contract to interpret it, which is--"
+                },
+                {
+                    "start": 3000.769,
+                    "stop": 3009.808,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I don't think so. No. It refers to it within the contract itself. It asked the parties. The parties agreed that's what's going to be binding."
+                },
+                {
+                    "start": 3009.808,
+                    "stop": 3033.323,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The contract provides that arbitration shall be in accordance with the rules. If that's all that were here, then the separate arbitration enforcement provision would not be necessary. And moreover, whatever ambiguity that is resolved by the fact that the rules provide for jurisdiction in a federal or state court, the fact that the contract omits that language simply reintroduces the ambiguity back into it."
+                },
+                {
+                    "start": 3033.323,
+                    "stop": 3047.833,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Just on this whole issue, you're arguing that this might be in Tribal Court. But, the tribe represented to us 12 minutes ago that it was not waiving its immunity in a Tribal Court. So, this is just a red herring that you're entered into it seems to me."
+                },
+                {
+                    "start": 3047.833,
+                    "stop": 3062.01,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We don't think so. We believe that the party's intent should be determined from the language in the contract as in any other contract case. And in reviewing this language, we believe that the language does not unequivocally express the tribe's--"
+                },
+                {
+                    "start": 3062.01,
+                    "stop": 3069.699,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. But, didn't the agreement incorporate the rules of the American Arbitration Association which refer to federal or state court and don't mention Indian Tribal Court?"
+                },
+                {
+                    "start": 3069.699,
+                    "stop": 3118.012,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--As I said, the agreement says arbitration shall be in accordance with that. There would be no need for the separate enforcement provision of the clause if the reference... if the parties thought that the reference to the rules alone resolved that. And the fact that the contract doesn't contain the federal or state court limitation that's in the rules simply introduces ambiguity as to whether the parties intentionally omitted that. Now, with respect to the choice of law provision, we don't think that the separate choice of law provision itself can unequivocally express the tribe's consent to suit in state court. And moreover, the Oklahoma Uniform Arbitration Act by its terms is inapplicable to the contract in this case because that act only applies to agreements which provide for arbitration in this state. And the agreement in this case did not provide for arbitration in Oklahoma. So, that act doesn't apply."
+                },
+                {
+                    "start": 3118.012,
+                    "stop": 3125.516,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, why couldn't you say it provided for arbitration in Oklahoma by virtue of the fact that it could be brought in any court of competent jurisdiction?"
+                },
+                {
+                    "start": 3125.516,
+                    "stop": 3144.83,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that gets back to the question of what courts would have competent jurisdiction. But, it is... given the plain meaning to the language, providing for jurisdiction in this state we think that the conflict... that the law requires that the arbitration contract provide for arbitration in Oklahoma. That's not uncommon in this context."
+                },
+                {
+                    "start": 3144.83,
+                    "stop": 3160.006,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "First I thought that in winning this case, the tribes would lose the war because they'd have an awfully hard time getting people to contract with them. In general, what contractors will go into this kind of thing with your fine spun arguments being used against them?"
+                },
+                {
+                    "start": 3160.006,
+                    "stop": 3160.489,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Some tribes--"
+                },
+                {
+                    "start": 3160.489,
+                    "stop": 3161.625,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, what is your answer to that?"
+                },
+                {
+                    "start": 3161.625,
+                    "stop": 3202.547,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Some tribes, like some states, and the United States after 80 years of its existence, have decided to waive immunity from suit in breach of contract actions. The Navajo Nation has done that in its laws. Each tribe will have to make that determination in whether or not to waive its immunity from suit in any given case. In Kiowa Tribe, this Court recognized that Congress was in the best position to weigh the competing policy concerns and reliance interests in this area. The Court has consistently recognized the unequivocal expression standard. We don't think that unequivocal should mean one thing in the case of the states, which even here today has acknowledged this type of language would not waive their immunity from suit in federal court and should mean another thing for the tribes."
+                },
+                {
+                    "start": 3202.547,
+                    "stop": 3206.383,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Garre. Mr. Mashburn, you have three minutes remaining."
+                }
+            ],
+            "start": 2604.644,
+            "stop": 3212.17
+        },
+        {
+            "turns": [
+                {
+                    "start": 3206.383,
+                    "stop": 3212.17,
+                    "speaker": {
+                        "name": "John D. Mashburn",
+                        "ID": 31884,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the court: Unless there are further questions, we would waive our rebuttal."
+                },
+                {
+                    "start": 3212.17,
+                    "stop": 3214.722,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Mashburn. The case is submitted."
+                },
+                {
+                    "start": 3214.722,
+                    "stop": 3220.341,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The honorable court is now adjourned until tomorrow at ten o'clock."
+                }
+            ],
+            "start": 3206.383
+        }
+    ]
+}

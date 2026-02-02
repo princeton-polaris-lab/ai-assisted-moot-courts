@@ -1,0 +1,2767 @@
+{
+    "title": "Kokesh v. SEC",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 9.975,
+                    "stop": 33.13,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The government contends it can bring sovereign enforcement actions seeking backwards-looking monetary liability based on conduct dating back forever with no statute of limitations at all. That position both contradicts the text of Section 2462 and is antithetical to legal traditions dating back to the early Republic."
+                },
+                {
+                    "start": 33.13,
+                    "stop": 46.02,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess your phraseology is technically correct, but the government says there's a multifactor analysis that a court would go through to determine that maybe the government's brought its action too late."
+                },
+                {
+                    "start": 46.02,
+                    "stop": 125.885,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I -- actually, the government doesn't really take that position because it contends that laches does not apply to the government at all. So the government's supposed equitable restriction -- or at least the government has taken that position in every court, and certainly does not contradict that position in its brief. So the government's view is that there's some kind of equitable limitation that only applies at the remedial stage after the trial and the remedial stage is already over. So the person's already stood trial after, you know, 10, 20, 30 years after the incident. And even then, it's a pretty weak equitable restriction. I think the recent Wiley case kind of illustrates this restriction in action where the government sought 22 years of prejudgment interest at a very high interest rate. And the government -- and -- excuse me -- the district court said that because the SEC was partially responsible for the delay, it was going to apply a somewhat lower prejudgment interest rate that lowered the amount of prejudgment interest from 200 to $100 million, and that is not really an adequate substitute for a statute of limitations in our view. So we think that a statute of limitations is necessary for actions to be dismissed pretrial. And we think that also our position falls within the heartland of the word \"forfeiture.\" We ask the Court to apply the ordinary definition of forfeiture, which has not changed between the 19th century and today. It's an order requiring turnover of money or property to the government as a result of wrongdoing. Edwards --"
+                },
+                {
+                    "start": 125.885,
+                    "stop": 158.96,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counselor, before the 1970s -- and you haven't shown me anything to the contrary -- forfeiture was an in rem proceeding where the property was attached; the money, the bank account, a piece of property, a home, whatever, but it was not a personal action against an individual. So how do we get from that traditional understanding which governed this statute to your meaning today? Because there is a vast difference between in rem and in personam actions."
+                },
+                {
+                    "start": 158.96,
+                    "stop": 177.85,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I'd give two responses to that. First of all, I would -- I would dispute a premise that there was no concept of in personam forfeitures before 1970. I think that there was. For instance, as the government itself says in its brief, an in personam money judgment in the form of a fine was considered a forfeiture. And so the government has this odd position where --"
+                },
+                {
+                    "start": 177.85,
+                    "stop": 194.395,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A fine has -- I mean, forfeit -- disgorgement is an equitable remedy on getting back money that doesn't belong to you. A fine is a payment in addition to the conduct that you committed. So there is a difference there."
+                },
+                {
+                    "start": 194.395,
+                    "stop": 195.23,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. I --"
+                },
+                {
+                    "start": 195.23,
+                    "stop": 196.61,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That begs the question."
+                },
+                {
+                    "start": 196.61,
+                    "stop": 250.045,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I agree with you, Justice Sotomayor. The position I'm trying to say is that the government says that the word \"forfeiture\" encompasses these in personam money fines, and also encompasses these in rem turnovers of tainted property, and disgorgement is kind of right in between those two forfeitures the government recognizes. So like a fine, it's an in personam payment of money, and like an in rem forfeiture, it's a turnover order of tainted property to the government. And so it's somewhat gerrymandered, in our view, that kind of one and three would be forfeiture, but not two. And the other thing is I would -- you know, historically, I actually think that there were in personam forfeitures of the value of money. So we give the example of this old customs fine -- forfeitures, excuse me -- which are actually quite similar to today's disgorgement. If you violated the customs laws, you had to pay, not necessarily just the property that was illegally imported, but the value of it. And those were historically called forfeitures as well."
+                },
+                {
+                    "start": 250.045,
+                    "stop": 278.7,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Unikowsky, whatever the history, certainly disgorgement was not in the days of the common law what it is today. Yet the SEC has been asking for this kind of relief now for, what, over 30 years? Has there been any effort, any activity in Congress to make this clear, one way or another, whether disgorgement fits with forfeiture?"
+                },
+                {
+                    "start": 278.7,
+                    "stop": 299.62,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, there hasn't, because really, the SEC's efforts to seek these -- what we view as stale disgorgements are quite new. So, for instance, the government says that in 1990, Congress implicitly ratified its position about the statute of limitations. We boiled the oceans and could not find a single case, ever, before 1990, in which the government had sought these forfeitures from beyond 5 years. None."
+                },
+                {
+                    "start": 299.62,
+                    "stop": 320.545,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it clear that the district court has statutory authority to do this? I -- I understand that in cases where the aggrieved party is before the court, there can be equitable remedies under State law and so forth to afford restitution, at least. Is -- is there specific statutory authority that makes it clear that the district court can entertain this remedy?"
+                },
+                {
+                    "start": 320.545,
+                    "stop": 336.495,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There's no specific statutory authority. So we've never challenged the capacity of the district court to seek disgorgement; we've just said that there's a time limitation. When disgorgement began in the 1970s, the SEC was seeking that as an implied remedy. There's no statute that says the SEC can seek disgorgement. There may be -- sorry."
+                },
+                {
+                    "start": 336.495,
+                    "stop": 349.04,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you have any idea what percentage of time -- how often a district court does direct that the disgorgement go to a victim as opposed to the government?"
+                },
+                {
+                    "start": 349.04,
+                    "stop": 383.48,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There -- one of the amicus briefs, the American Investment Council, quotes numbers -- and I haven't personally checked their accuracy -- of something like $800 million out of 6 billion. The 6 billion includes penalties, although by statute, penalties also have to go to victims. Again, I haven't personally verified the accuracy of those numbers. But I think it's quite pertinent, actually, that the biggest money disgorgements tend to be in these Foreign Corrupt Practices Act cases where the government gets often multi-hundred millions of dollars' disgorgement on the gains derived from having bribed foreign officials. And those aren't compensatory at all. Those -- those moneys are just deposited in the treasury."
+                },
+                {
+                    "start": 383.48,
+                    "stop": 406.035,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can we go back to the authority? 78u, which is the only authority I can imagine, says, \"A court may grant any equitable relief that may be appropriate or necessary for the benefit of investors.\" If they are not doing -- if they're not doing restitution, how could that be the basis of disgorgement?"
+                },
+                {
+                    "start": 406.035,
+                    "stop": 419.16,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So that statute was enacted 30 years after the SEC already started seeking disgorgement. So the SEC, I don't think, views that as the -- the fountain of its judicial authority to do it, given that it had been doing it for so long before that. I think some of the --"
+                },
+                {
+                    "start": 419.16,
+                    "stop": 426.645,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'll let your adversary tell me what the source of their power is, but I -- I -- it is unusual."
+                },
+                {
+                    "start": 426.645,
+                    "stop": 434.66,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- we do argue at some length in our brief that it doesn't genuinely count as an equitable form of relief. And it's notable that the government really doesn't --"
+                },
+                {
+                    "start": 434.66,
+                    "stop": 437.135,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you tell me why you think this is punitive?"
+                },
+                {
+                    "start": 437.135,
+                    "stop": 437.64,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure."
+                },
+                {
+                    "start": 437.64,
+                    "stop": 453.155,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What are your best arguments? I've read your brief, but the government responded to some of them in -- in, well, somewhat persuasive ways. So what do you think remains as your strongest argument as to why it's punitive and not restorative?"
+                },
+                {
+                    "start": 453.155,
+                    "stop": 481.64,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, first of all, I think the legal standard is that if it has components of both a penal and remedial remedy, it's considered penal. So the question is whether it has some penal component. I think that the answer is yes, because when one defines the purpose of the disgorgement remedy, it's to -- it's to create -- it's to ensure that someone doesn't benefit from wrongdoing. But when you say that, you are talking about wrongdoing; in other words, the -- the purpose of the remedy is to impose unpleasant legal consequences of wrongdoing."
+                },
+                {
+                    "start": 481.64,
+                    "stop": 488.28,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's every -- restitution is that way, and you don't think of restitution as punitive."
+                },
+                {
+                    "start": 488.28,
+                    "stop": 501.54,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I agree, Your Honor. But I think in restitution, you can define a purpose independent of the person's wrongdoing, which is to say that there's a victim and we want to compensate that victim. So you can define a purpose of that remedy that's independent of redressing the wrongdoing of the individual."
+                },
+                {
+                    "start": 501.54,
+                    "stop": 511.07,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a question I'm going to ask your adversary, but what do you see as the difference between -- besides the statute of limitations, what's the difference between restitution and disgorgement?"
+                },
+                {
+                    "start": 511.07,
+                    "stop": 541.785,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think that restitution historically was a judgment requiring money to go to the victim. So, for instance, there's this old case called Porter, which we talk about, in which the district court actually orders a landlord who charged illegally high rents to pay money to the tenants. That was the judgment. It wasn't like disgorgement, which is this noncompensatory remedy that goes straight to the government, and the government has the discretion to put it in the treasury or not, wherever -- however it chooses. Restitution was a remedy in which the victim gives -- excuse me -- the wrongdoer gives money to the victim. So --"
+                },
+                {
+                    "start": 541.785,
+                    "stop": 560.135,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if we had that, if we had this working only when the money goes to the victim, the government doesn't get it, would your -- then your statute of limitations argument fail if this is just a remedy for victims?"
+                },
+                {
+                    "start": 560.135,
+                    "stop": 575.4,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would probably be making a different argument in that case. I'd be arguing that the private statute of limitations applies. There's some old cases from the 19th century that hold that if the government is just bringing an action standing in the shoes of a private plaintiff, then private statutes of limitations are applicable. And, actually, in the --"
+                },
+                {
+                    "start": 575.4,
+                    "stop": 577.565,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the private statute of limitations?"
+                },
+                {
+                    "start": 577.565,
+                    "stop": 598.465,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I think it would be the two years and then five-year statute of repose, but I'm -- I'm not certain of that, but I think that that's probably what it would be. But it's interesting to note that several years ago in the '90s, a litigant made that argument. And it's a case called Rind from the Ninth Circuit. And the SEC successfully persuaded the Ninth Circuit that really didn't -- disgorgement was not a compensatory remedy. It wasn't about compensation."
+                },
+                {
+                    "start": 598.465,
+                    "stop": 599.865,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's the name of that case?"
+                },
+                {
+                    "start": 599.865,
+                    "stop": 626.47,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Rind. It's from the Ninth Circuit. We cite it in the reply brief. And so the government is trying to sort of have it both ways. When people are arguing that it's compensatory, the Commission says it isn't. When people are arguing that it isn't, which we argue here, which is consistent with many briefs the SEC has cited from the -- has filed in lower courts, the SEC is saying that it is. It's sort of defining disgorgement in this twilight zone of sometimes compensatory, sometimes not, and trying to avoid statutes of limitations applicable to both types of remedies."
+                },
+                {
+                    "start": 626.47,
+                    "stop": 668.175,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, this case puts us in a rather strange position, because we have to decide whether this is a penalty or a forfeiture. But in order to decide whether this thing is a penalty or a forfeiture, we need to understand what this thing is. And in order to understand what it is, it would certainly be helpful and maybe essential to know what the authority for it is. So how do we get out of that -- out of that situation? How do we decide whether it is a penalty or a forfeiture without fully understanding what this form of this remedy or this, whatever it is, where it comes from and -- and its exact nature?"
+                },
+                {
+                    "start": 668.175,
+                    "stop": 695.03,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that -- I agree the Court has to decide that question. I mean, what we advocate is just look at disgorgement as it's actually being applied in the real world in the lower courts. And so, for instance, we give a bunch of examples where the Commission is seeking disgorgements going beyond restoring the person to the status quo ante. So the SEC's position is that you've got to disgorge money that went to everyone, not just you. So in tipper or tippee situations, in insider trading cases, the tipper has to disgorge all the money that went to the tippee. And so I -- I mean, I don't think the Court --"
+                },
+                {
+                    "start": 695.03,
+                    "stop": 716.215,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I don't know why that proves anything. If I commit a crime and take my proceeds and give half of it to Justice Breyer -- (Laughter.) I don't know what I was buying, but I bought something. I got the benefit just because I was able to direct it. So I don't know that that moves me."
+                },
+                {
+                    "start": 716.215,
+                    "stop": 745.88,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, but that -- what -- the example I gave is beyond cases where you just direct the money. It's just a tipper who gives information to a tippee and never has control over any of the money at all, and the tippee trades on it and gets some money, the tipper has to disgorge money, which he never even controlled. And so I -- and to answer Justice Alito's question, I think that it's true that there's some dispute about what disgorgement is, where it comes from. We argue it's not genuinely equitable, and the government doesn't really defend its equitable nature. I think the Court should take disgorgement as it finds it right now in the lower courts."
+                },
+                {
+                    "start": 745.88,
+                    "stop": 762.225,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why don't we take it as we find it in this particular case? So is there any difficulty in identifying the victims in this particular case and ensuring that the money that was misappropriated from them by your client goes to them and not into the government's coffers?"
+                },
+                {
+                    "start": 762.225,
+                    "stop": 784.24,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So I believe on the -- on the facts of this case, the disgorgement is a penalty as well as a forfeiture. And the reason why is that it's true that -- I -- I actually don't know if the victims are readily identifiable. But whether they are or not, we don't think it really matters ultimately, because this remedy is a remedy that ultimately goes to the government in the first instance, which it can direct it however it wants to. It's not a judgment in favor of the victims at all. And so --"
+                },
+                {
+                    "start": 784.24,
+                    "stop": 789.97,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, again, we don't know. How do we know that the government has the authority to direct it wherever it wants?"
+                },
+                {
+                    "start": 789.97,
+                    "stop": 794.61,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's the authority the government's been asserting for several decades that the lower courts have been asserting. And --"
+                },
+                {
+                    "start": 794.61,
+                    "stop": 799.585,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought -- I thought the government's position was that they must give it to the victim, if feasible."
+                },
+                {
+                    "start": 799.585,
+                    "stop": 800.05,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 800.05,
+                    "stop": 813.555,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It may or may not be possible to find the victims. They may be dead. But I thought the government's position was no, this is not just simply our discretion on whom we will shed our grace; but if it's feasible, it goes to the victim."
+                },
+                {
+                    "start": 813.555,
+                    "stop": 841.65,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is absolutely not the government's position. The government's position, consistently in numerous lower court briefs, is that it has the discretion to decide or the district court has the discretion to decide. There's no legal requirement that this money be distributed. The government has taken the position, for instance, that because disgorgement is not compensatory, victims don't even have standing to challenge how the disgorgement is distributed. And it's also taken the position that there is no legal requirement at all, as opposed to a discretionary rule, to distribute the money. And -- yes."
+                },
+                {
+                    "start": 841.65,
+                    "stop": 850.665,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we'll ask the government what their position is, whether it's totally in their discretion whether they want to give this to victims or keep it all."
+                },
+                {
+                    "start": 850.665,
+                    "stop": 880.59,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I should add, there's the -- there are certain Fair Fund rules that require, not in -- it's not applicable to -- necessarily to this case. But there are certain rules that direct that money be put in funds that ultimately can go to victims. But we think this is all immaterial because, first of all, the money in the first instance goes to the government, just like civil penalties also in the first instance go to the government and there's still penalties. And second of all, I just urge the Court to read the government's many, many lower court briefs where it takes the position over and over again for litigation benefit that disgorgement is not a primarily compensatory remedy."
+                },
+                {
+                    "start": 880.59,
+                    "stop": 909.555,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The case is presented to us as if disgorgement is this category we must adopt. And correct me if it's mistaken, but it seems to me that the parties seem to order -- argue a categorical rule. It's always a penalty or it's always not a penalty. It seems to me that maybe we can give guidance as to when it is a penalty and -- and if -- am I correct that that's the way the case is presented to us, it's all or nothing?"
+                },
+                {
+                    "start": 909.555,
+                    "stop": 921.49,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yeah. So I think that as a matter of both doctrine and practicality, it should be all or nothing. First of all, doctrinally, I think that the Court should look at the definition of disgorgement rather than how it applies in a particular case. And there are also practical problems."
+                },
+                {
+                    "start": 921.49,
+                    "stop": 923.21,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's not a statutory term."
+                },
+                {
+                    "start": 923.21,
+                    "stop": 935.34,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that is true, but I -- I think that there are problems within a particular case, looking how monies are directed. But I just want to step back and say that our position is, even just looking at the facts of this case, this disgorgement is both a forfeiture and a penalty."
+                },
+                {
+                    "start": 935.34,
+                    "stop": 936.295,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because?"
+                },
+                {
+                    "start": 936.295,
+                    "stop": 1078.42,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's a forfeiture because it's an order requiring Petitioner to turn over his money as a result of wrongdoing. I think it's very natural to say, Petitioner was required to forfeit $34.9 million to the government because he did something wrong, as found by a jury. In fact, forfeiture of proceeds of illegal activity are -- those statutes, such as 29 U.S.C. 853(a)(1) are essentially identical to disgorgement. The government's brief identifies no differences, no material differences between those forfeiture of proceeds statutes and disgorgement. And when Congress enacted those statutes, it called them forfeiture. Now, it's true those statutes are pretty new, but the reason Congress uses the word \"forfeiture\" is that it falls within the definition of a forfeiture. So I give an example of an injunction. So school desegregation or prison de-crowding orders, those are injunctions. They're new injunctions, they didn't exist in 1830, but they're still injunctions. And in the same way, these forfeitures of proceeds, which are identical in every way to disgorgement, as far as we can tell, were called forfeitures. So even just focusing on the facts of my client's case, ignoring all those other cases from the Second Circuit, the remedy against the Petitioner was essentially identical to the forfeiture of proceeds statutes that have been enacted, and so it's a forfeiture as well. And it's also quite similar to the old statutes involving forfeitures of the proceeds of customs offenses. So I'm very happy on the facts of this particular case to defend our position that this is a forfeiture and as well as a penalty, I would say. In response to Justice Sotomayor's question, I have to say that the penal versus remedial dispute, there's a certain \"angels on the head of a pin\" quality of whether something is really penal or not. I think the best way to answer this question is to look at, historically, what was the reason and the purpose of that taxonomy. And it's actually quite clear historically, and the government doesn't even agree -- disagree with this, that historically, there were basically two categories of money payments to the government. There's compensatory payments and there's punitive payments. And, in fact, there's this case called Brady v. Daly, which, in fact, this Court held applied to Section 2462, in a subsequent case called Chattanooga, where the Court says that a payment to a victim is remedial, and the same payment to the government, in the context of the qui tam action, is punitive. And those are the two categories. And so we think that that is what Congress had in mind when it enacted 2462. It knew of two categories, compensatory and penal. Compensatory remedies go to victims -- or -- or intended to compensate the government for its own harm, and penal remedies are not intended to compensate --"
+                },
+                {
+                    "start": 1078.42,
+                    "stop": 1094.23,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that -- but that might suggest something along the lines of what Justice Ginsburg suggested, that if the government, in fact, puts this money into the hands of victims, then it is compensatory; whereas if the government keeps it, it's not. And that the rule should follow, depending on which is true."
+                },
+                {
+                    "start": 1094.23,
+                    "stop": 1108.69,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So I think that the government takes this money in the first instance, and I don't think that the way the government happens to distribute the money should affect the statute of limitations. And, again, I -- I point the Court to the many briefs that the government has cite -- filed for the last 20 years, emphasizing that this isn't compensatory."
+                },
+                {
+                    "start": 1108.69,
+                    "stop": 1112.11,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It gets more complicated than that, because the money goes to the court --"
+                },
+                {
+                    "start": 1112.11,
+                    "stop": 1112.51,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1112.51,
+                    "stop": 1118.16,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- according to the government, and it's the court that decides how the money will be paid out, correct?"
+                },
+                {
+                    "start": 1118.16,
+                    "stop": 1126.55,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So this -- it depends. There's -- there's one statute on Fair Funds, and in some cases, you have disgorgements that go into there, and there's a Sarbanes-Oxley statute that directs the SEC to distribute that."
+                },
+                {
+                    "start": 1126.55,
+                    "stop": 1142.8,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And then the question becomes what you answered earlier, which is, if it's being paid to the victim, is it really restitution as opposed to disgorgement. And if it's restitution, is it compensatory damages subject to the existing statute of limitations."
+                },
+                {
+                    "start": 1142.8,
+                    "stop": 1216.79,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. So if this was genuine restitution, in other words, if the district court entered a judgment and the judgment was the government is standing in the shoes of a private plaintiff, and there was a judgment in favor of some class of victims, then it's possible that a different set of statute of limitations would come into play. And that's the statute of limitations for private plaintiffs. We cite an old case called Beebe in our reply brief, in which the Court holds that, in that case, those statutes of limitations are imported as against the government. But because the government has been arguing for decades that that's the wrong rule, both in the context of the statute of limitations and many other contexts. Like, for instance, you know, the question of whether disgorgement is equitable, we quote a brief that the Commission filed in Eighth Circuit, where it says, the reason that disgorgement is equitable is that it's not restitution. It's not compensatory. The government says that criminal restitution judgments are completely irrelevant to the calculation of disgorgement because it's not compensatory. As I mentioned, the government's position is that victims don't even have standing to challenge the way these funds are distributed because disgorgement is not compensatory. So I think that the SEC should be taken at its word and taking the positions they've been taking for decades. And because the SEC has taken that position that this is not restitution, the fact that sometimes the SEC can distribute the money to the victims shouldn't affect the nature of the remedy as the SEC has been arguing for a long time."
+                },
+                {
+                    "start": 1216.79,
+                    "stop": 1229.16,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the same thing is true in the criminal context, right? I mean, we have criminal forfeitures where the money goes to the government and sometimes it's distributed to victims, but we don't doubt that those are penal in nature."
+                },
+                {
+                    "start": 1229.16,
+                    "stop": 1260.59,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I agree, Justice Gorsuch. And, in fact, in -- in the case the Court recently heard on Section 853(a)(1), the government emphasized in its brief that in many cases forfeitures can go to victims of crime. But still, that is still a traditional punishment. And, in fact, penalties -- Sarbanes-Oxley has a statute that says -- excuse me, Sarbanes-Oxley has a provision that says that even civil penalties in many cases, must go to victims. But not that doesn't mean it's not a penalty, because it's not a restitutionary judgment for the victim. It's money that goes to a government official who can distribute it to victims, but it's still ultimately a payment to the government."
+                },
+                {
+                    "start": 1260.59,
+                    "stop": 1266.405,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So does everything turn on whether the government labels a -- a particular disgorgement civil versus criminal?"
+                },
+                {
+                    "start": 1266.405,
+                    "stop": 1296.825,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. We think that -- well, we agree that both -- you know, clearly Section 2462 applies to -- in fact, it only applies to civil remedies. The word \"civil\" is right there in the statute. So that is a statute of limitations applicable to -- to civil remedies. And we think that this is a civil forfeiture or penalty because it's ultimately in the first instance a payment to the government. And because the government has successfully opposed the argument that disgorgement is a form of restitution, I think it should be taken at its word. And this is a payment to the government and so the restrictions against payments to the government apply."
+                },
+                {
+                    "start": 1296.825,
+                    "stop": 1307.855,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could Congress pass a statute giving the SEC the authority to bring these actions for however long a period Congress chooses?"
+                },
+                {
+                    "start": 1307.855,
+                    "stop": 1445.91,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. So Section 2462 has language that says something to the effect of, unless otherwise specified by Congress. And we don't -- we're not making a constitutional argument. Congress can enact unlimited statutes of limitations, we just don't think it did that. And we also think that, just looking at the historical perspective as well as related statutes, the Court -- and it would be very surprising if this didn't have a statute of limitations. What's so odd about the government's position is that, really, everything else in this area has a statute of limitations. So just to give a few examples. 853(a)(1), which is forfeiture of the proceeds of crime, very similar to this, has a statute of limitations, as does the civil actions for forfeitures of proceeds. Compensatory actions by the government also have statutes of limitations. So if the government sues someone for conversion to get money back, there's a statute of limitations for that. Private causes of action, under the securities laws, also have statutes of limitations. And all of those actions in some way could be characterized as trying to get money back that was taken away. So, essentially, what the government is saying is there's this implied remedy that's kind of right in between everything. And, therefore, there's no statute of limitations at all, because it kind of fits somewhere and it's slightly different from everything. And that's just not a particularly plausible position in our view. I mean, there's been a lot of questions from the bench today about whether this is like restitution. We've said it isn't, but I think a more salient point is that restitution is also subject to statute of limitations. So the government's position that by sort of wedging disgorgement in between all these other things, it could bring actions unlimited in time we view as quite an implausible position. I'd just like to say one more word about some of the government's inconsistencies in its positions, because the government really has taken the position in its brief that disgorgement is a penalty for some reasons and not others. So, for instance, take taxes. The government's position is that if Petitioner wants to deduct this award from his taxes, he can't do that. And the reason why, per the government, is that disgorgement is a penalty. That's what they say. And the -- the IRS has taken this position, and I thought the government might just say in its brief, or the SG's office, we're not going to agree with the IRS. We can state the position of the government. And they could have done that, but they actually don't do that. The IRS stands -- or, excuse me, the government stands by that position, that it is a penalty for purposes of this statute, but it is not a penalty on his taxes. And the government says -- why? The government says that there's this unspecified textual and purposive differences, which it does not elaborate upon."
+                },
+                {
+                    "start": 1445.91,
+                    "stop": 1470.04,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought the government took the position that you could deduct expenses, if the measure of what is turned over is the ill-gotten gains, then money made to reduce those costs incurred in -- in making those gains, should be deducted. I didn't think the government was saying -- I think the -- the court of appeals said that, but that seemed to me quite wrong."
+                },
+                {
+                    "start": 1470.04,
+                    "stop": 1521.785,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think the government's position -- and they can clarify if this is incorrect -- is that disgorgement, such as this disgorgement, is a penalty for his taxes but is not a penalty for Section 2462 purposes, simultaneously. And it's also true for bankruptcy law. The question is -- the words \"fine,\" \"penalty,\" and \"forfeiture\" are in the Federal bankruptcy statute, and the government's position really is that disgorgement is not dischargeable because it is a fine, penalty, or forfeiture, but it is not a fine, penalty, or forfeiture for purposes of the limitation period. And it's true that there's a separate provision for securities disgorgements in the bankruptcy laws, but that doesn't apply to the disgorgements under other statutes, such as the statute in which the government previously took the position in this Court that disgorgement was a fine, penalty, or forfeiture. So I think that citizens are entitled to basic consistency from the regulators, which doesn't seem to have happened in the context of disgorgement. And I'd like to reserve my time."
+                },
+                {
+                    "start": 1521.785,
+                    "stop": 1522.805,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel."
+                },
+                {
+                    "start": 1522.805,
+                    "stop": 1528.83,
+                    "speaker": {
+                        "name": "Adam G. Unikowsky",
+                        "ID": 62644,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 1528.83,
+                    "stop": 1531.275,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Goldenberg."
+                }
+            ],
+            "start": 9.975,
+            "stop": 1553.59
+        },
+        {
+            "turns": [
+                {
+                    "start": 1531.275,
+                    "stop": 1553.59,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: For almost 50 years, courts have been ordering disgorgement in SEC enforcement actions to remedy unjust enrichment and put a defendant in the position he would have been in if he hadn't violated the law. Courts sometimes send that money to the Treasury, but when feasible, at the direction of the court, it's distributed to the injured victims, either by the court itself, by a trustee, by a receiver."
+                },
+                {
+                    "start": 1553.59,
+                    "stop": 1568.895,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Goldenberg, in those 50 years, has -- has the SEC or has the Justice Department ever set down in writing what the guidelines are for how the SEC is going to use disgorgement and what's going to happen to the monies collected?"
+                },
+                {
+                    "start": 1568.895,
+                    "stop": 1588.16,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not aware that it has. It's -- the SEC's policy -- it's been stated in various court decisions -- to ask the court to distribute the money wherever that is feasible. And in some circumstances -- we've given an example of this in our brief -- the SEC has said, well, we don't think it's feasible and the court said, well, we think it is feasible; this money is going to be distributed. So it's ultimately in the control of the court."
+                },
+                {
+                    "start": 1588.16,
+                    "stop": 1607.39,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I must say I find it unusual that the SEC has not given some guidance to its enforcement department or -- or that the Department of Justice hasn't become involved in some way; that -- that everything is just sort of up to the particular person at the SEC who decides to bring such a case."
+                },
+                {
+                    "start": 1607.39,
+                    "stop": 1627.77,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, as I say, I think it's not up to the particular person at the SEC. The SEC may seek disgorgement and may make a recommendation to the court about what should happen to the amounts, but I think it's ultimately up to the court. The court is exercising equitable discretion and deciding whether disgorgement should be ordered in the first place, and if so, how much, and if disgorgement is ordered, what should happen to that money and where it should go. So I think that --"
+                },
+                {
+                    "start": 1627.77,
+                    "stop": 1634.085,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can -- can you give us any indication -- can you give us any indication as in what percentage of the cases the funds go to the victims?"
+                },
+                {
+                    "start": 1634.085,
+                    "stop": 1683.845,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I can, Your Honor. This information isn't in the record and it also is not completely derivable from SEC public reports, but I can tell you that the SEC has calculated, looking back at the years 2013 to 2016, that money collected on judgments entered during those years was disbursed to the Treasury 43 percent of the time. From 2013 to 2015, it was 33 percent of the time. So it is very often going to be the case that this money is going to get out to victims. My friend referred to an amicus brief that talks about an SEC public report, that talks about collection amounts and disbursement amounts, and that report just is comparing apples and oranges because it's talking about amounts that are collected as to judgments in certain years and then amounts that are disbursed in a particular year. So that report is not a good source of information about this."
+                },
+                {
+                    "start": 1683.845,
+                    "stop": 1741.05,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "One reason we have this problem is that the SEC devised this remedy or relied on this remedy without any support from Congress. If Congress had provided, here's a disgorgement remedy, you would expect them, as they typically do, to say, here's a statute of limitations that goes with it. And including, as your friend says, usually a statute of limitations and an accompanying statute of repose. Now, it was a concern -- you know, Chief Justice Marshall said it was utterly repugnant to the genius of our laws to have a penalty remedy without limit. Those were the days when you could write something like that and it's about a statute of limitations. It's utterly repugnant. And it -- the concern, it sees seems to me, is multiplied when it's not only no limitation, but it's something that the government kind of devised on its own. I mean, I think -- doesn't that cause concern?"
+                },
+                {
+                    "start": 1741.05,
+                    "stop": 1749.37,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. I think I disagree with some of the premises of that. That principle that Your Honor articulated is a principle that relates to penalties, which are punishments, and for the reasons --"
+                },
+                {
+                    "start": 1749.37,
+                    "stop": 1750.79,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's a little circular, yeah."
+                },
+                {
+                    "start": 1750.79,
+                    "stop": 1790.71,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the reasons we do a disgorgement isn't a penalty. It remedies unjust enrichment and just takes the person back to where they would have been. And I also, I guess, would disagree with the premise that Congress hasn't thought about this issue or hasn't addressed it. It's true that the securities statutes don't have a specific authorization that says courts may order disgorgement. They give injunctive power and they give power for equitable relief, and that's the power the courts have relied on consistent with this Court's decisions, like Porter and Mitchell, in ordering disgorgement. But, subsequent to the enactment of those provisions, Congress has enacted many provisions that talk about disgorgement, that express approval of disgorgement, that showed that Congress understands disgorgement --"
+                },
+                {
+                    "start": 1790.71,
+                    "stop": 1791.48,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, they're sort of backing --"
+                },
+                {
+                    "start": 1791.48,
+                    "stop": 1795.07,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- is something that courts order, and that Congress approves of that. Sorry."
+                },
+                {
+                    "start": 1795.07,
+                    "stop": 1813.25,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They're -- they're sort of backing and filling. I mean, this remedy is out there, and yes, they're saying this. But it does seem to me that we kind of have a special obligation to be concerned about how far back the government can go when it's something that Congress did not address because it did not specify the remedy."
+                },
+                {
+                    "start": 1813.25,
+                    "stop": 1843.09,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, again, I think the remedy is the equitable remedy that Congress did specify when it gave that authorization to courts. But here is where I think the narrow construction principle comes into play. It's not the case that, as my friend suggests, that you should sort of take a gestalt look at the -- the world and say, well, it seems like Congress meant to have covered a bunch of things with different statutes of limitations, and so we should assume that Congress meant to cover this also. Under the narrow construction principle, you need to look at each category that Congress has enacted --"
+                },
+                {
+                    "start": 1843.09,
+                    "stop": 1844.69,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let's look at each category."
+                },
+                {
+                    "start": 1844.69,
+                    "stop": 1845.075,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm sorry."
+                },
+                {
+                    "start": 1845.075,
+                    "stop": 1908.34,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My question, what's worrying me -- I'd like to know your answer to which you have -- look, a city, to use a slightly farfetched example, imposes a tax on houses and boats. Someone comes along and says, I have a houseboat. It's not a house. Houses don't go on water. Not a boat. Look at the French windows, look at the venetian blinds. No tax. Now, I think that would last about five minutes, that argument. All right? So I would like to know from you a list of the categories, characteristics -- characteristics, significant characteristics, of disgorgement which are shared neither by fines nor by forfeitures. In what respect is disgorgement like neither of those?"
+                },
+                {
+                    "start": 1908.34,
+                    "stop": 1934.96,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Both fines -- excuse me -- and forfeitures, in our view, are -- as used in this statute, so looking at what Congress would have intended when it enacted it in 1839 -- are punishments. And disgorgement is not a punishment because it doesn't take away anything that anyone was rightfully entitled to in the first place. It just remedies unjust enrichment, and it takes the defendant back into the position the defendant would have been in if the defendant hadn't engaged in a securities law violation in the first instance."
+                },
+                {
+                    "start": 1934.96,
+                    "stop": 1935.85,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Those are the two."
+                },
+                {
+                    "start": 1935.85,
+                    "stop": 1938.19,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And -- well, those are the things I think that distinguish it, and --"
+                },
+                {
+                    "start": 1938.19,
+                    "stop": 1939.73,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, those are the things that distinguish it."
+                },
+                {
+                    "start": 1939.73,
+                    "stop": 1939.82,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1939.82,
+                    "stop": 1970.39,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, let's look at those. Punishment. It doesn't take -- it takes away from somebody something he normally -- he would not be rightfully entitled to. So a person who is walking along the street and commits a crime and is thrown into jail is not deprived of his liberty. Hmm? I mean, I would think his liberty is something he is normally rightfully entitled to. And I would think it is a punishment to put the person in jail. So I suspect that that characteristic is not much of a distinguishing characteristic --"
+                },
+                {
+                    "start": 1970.39,
+                    "stop": 1970.76,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I --"
+                },
+                {
+                    "start": 1970.76,
+                    "stop": 1972.265,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- from a serious punishment."
+                },
+                {
+                    "start": 1972.265,
+                    "stop": 1975.31,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that -- I mean, I think that's certainly true of depriving someone --"
+                },
+                {
+                    "start": 1975.31,
+                    "stop": 1976.26,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. And what you said was --"
+                },
+                {
+                    "start": 1976.26,
+                    "stop": 1978.37,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- of their liberty which they're entitled to, but -- I'm sorry, Your Honor."
+                },
+                {
+                    "start": 1978.37,
+                    "stop": 1980.31,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. Go ahead. I'm more interested in what you say."
+                },
+                {
+                    "start": 1980.31,
+                    "stop": 1989.38,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But disgorgement -- thank you -- disgorgement doesn't do that. It doesn't take away money that belonged to you, something you had property right in. In this case, it's taking back --"
+                },
+                {
+                    "start": 1989.38,
+                    "stop": 1989.84,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. I agree --"
+                },
+                {
+                    "start": 1989.84,
+                    "stop": 1990.78,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- money that the defendant stole."
+                },
+                {
+                    "start": 1990.78,
+                    "stop": 1997.35,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- disgorgement might not. A punishment, you say, does take something away from you that you're rightfully entitled to."
+                },
+                {
+                    "start": 1997.35,
+                    "stop": 1998.29,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Often does, yes."
+                },
+                {
+                    "start": 1998.29,
+                    "stop": 2002.69,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, often does. Sometimes doesn't."
+                },
+                {
+                    "start": 2002.69,
+                    "stop": 2006.17,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It can. And I think that's one of the reasons why one would be --"
+                },
+                {
+                    "start": 2006.17,
+                    "stop": 2013.15,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And here -- here you take away things only that the person was not rightfully entitled to."
+                },
+                {
+                    "start": 2013.15,
+                    "stop": 2013.78,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2013.78,
+                    "stop": 2014.72,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's a difference."
+                },
+                {
+                    "start": 2014.72,
+                    "stop": 2015.04,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2015.04,
+                    "stop": 2017.3,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. I got that one. Is there another way? Is there another one?"
+                },
+                {
+                    "start": 2017.3,
+                    "stop": 2025.54,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think they're all along the same lines, which is that this is analogous to restitution. It's analogous to the divestiture remedy, which is in antitrust cases --"
+                },
+                {
+                    "start": 2025.54,
+                    "stop": 2043.395,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A thing -- neither a fine, nor a punishment -- I'm not being facetious, I'm -- I'm trying to get it in my mind. Neither a fine, nor a punishment takes from someone a thing that he was not rightfully entitled to."
+                },
+                {
+                    "start": 2043.395,
+                    "stop": 2043.97,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 2043.97,
+                    "stop": 2050.59,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But disgorgement takes from the person a thing that he -- no. Sorry. The other way around."
+                },
+                {
+                    "start": 2050.59,
+                    "stop": 2053.22,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. And maybe another way to look at it --"
+                },
+                {
+                    "start": 2053.22,
+                    "stop": 2063.28,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It takes away from a person something that otherwise he would be rightfully entitled to, and disgorgement takes away from a thing he would not be rightfully entitled to."
+                },
+                {
+                    "start": 2063.28,
+                    "stop": 2064.13,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And I think maybe another --"
+                },
+                {
+                    "start": 2064.13,
+                    "stop": 2065.04,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have I got it now?"
+                },
+                {
+                    "start": 2065.04,
+                    "stop": 2067.8,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, you do. And I think another way to look at it that might be helpful is that --"
+                },
+                {
+                    "start": 2067.8,
+                    "stop": 2067.93,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 2067.93,
+                    "stop": 2075.37,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- fines, penalties, forfeitures, even damages, can put the defendant in a worse position than the defendant would have been in --"
+                },
+                {
+                    "start": 2075.37,
+                    "stop": 2075.69,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But is it --"
+                },
+                {
+                    "start": 2075.69,
+                    "stop": 2076.57,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- if he had never --"
+                },
+                {
+                    "start": 2076.57,
+                    "stop": 2103.915,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- kind of an unreality to that argument because here there was a fine. It was a relatively modest amount compared to the huge amount awarded for this disgorgement. So to say, oh, the -- the penalty, that's something added on, that's something that he -- is he being punished by, say, 2 million. But how much was the disgorgement in this case?"
+                },
+                {
+                    "start": 2103.915,
+                    "stop": 2104.52,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "$35 million."
+                },
+                {
+                    "start": 2104.52,
+                    "stop": 2109.25,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "$35 million. So it's much larger than the penalty."
+                },
+                {
+                    "start": 2109.25,
+                    "stop": 2123.13,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is, and that's because the penalty was time limited under this Court's decision in Gabelli. So the penalty only covered the five years of conduct before the filing of the SEC's action, whereas the disgorgement covered all of the bad conduct, which went back further than five years."
+                },
+                {
+                    "start": 2123.13,
+                    "stop": 2123.33,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. So --"
+                },
+                {
+                    "start": 2123.33,
+                    "stop": 2125.93,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And I think that's something that's really critical. To point --"
+                },
+                {
+                    "start": 2125.93,
+                    "stop": 2129.205,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what is the difference from restitution?"
+                },
+                {
+                    "start": 2129.205,
+                    "stop": 2130.06,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think --"
+                },
+                {
+                    "start": 2130.06,
+                    "stop": 2131.74,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why isn't this restitution?"
+                },
+                {
+                    "start": 2131.74,
+                    "stop": 2143.98,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think there's an analogy to restitution. It is not dissimilar to restitution in that both disgorgement and restitution are trying to put the world back in joint when the world has been put out of joint by something that the defendant has done. So --"
+                },
+                {
+                    "start": 2143.98,
+                    "stop": 2147.515,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if this is the houseboat, why don't we call this restitution?"
+                },
+                {
+                    "start": 2147.515,
+                    "stop": 2164.85,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it's not restitution in full, because restitution goes back to the harmed parties. And disgorgement sometimes goes back to the harmed parties; sometimes doesn't. And we don't think it's necessary that it does go back to the harmed parties for it to escape from the reach of the statute of limitations."
+                },
+                {
+                    "start": 2164.85,
+                    "stop": 2174.6,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, in forfeiture, you're tracing in some metaphysical way a pot that has been wrongfully taken."
+                },
+                {
+                    "start": 2174.6,
+                    "stop": 2175.245,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2175.245,
+                    "stop": 2234.61,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you are in traditional forfeiture saying, give back that pot. In this situation, we're not asking for that pot. We don't care where the money comes from. We're saying you're liable for a fixed money judgment that you're going to give up. So how is that not the same as a penalty? Because a penalty is saying to someone, you've committed a wrong. We don't care what you did with that pot that you got. We're not asking you in a traditional forfeiture sense to turn that pot over. We're asking you to give money from whatever sources you may have, other sources, and pay for the wrong that you did. So isn't it analytically more like a penalty than it is like making someone whole?"
+                },
+                {
+                    "start": 2234.61,
+                    "stop": 2235.1,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 2235.1,
+                    "stop": 2240.725,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think making someone whole is a forfeiture. Give up the illegal gains you got."
+                },
+                {
+                    "start": 2240.725,
+                    "stop": 2245.63,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that kind of forfeiture, the proceeds forfeiture, didn't come into the law until much, much later."
+                },
+                {
+                    "start": 2245.63,
+                    "stop": 2246.75,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Doesn't matter. The question --"
+                },
+                {
+                    "start": 2246.75,
+                    "stop": 2246.9,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But --"
+                },
+                {
+                    "start": 2246.9,
+                    "stop": 2247.13,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- is --"
+                },
+                {
+                    "start": 2247.13,
+                    "stop": 2247.48,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Understood."
+                },
+                {
+                    "start": 2247.48,
+                    "stop": 2252.755,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- if it looks like a forfeiture, why don't we treat it like a forfeiture?"
+                },
+                {
+                    "start": 2252.755,
+                    "stop": 2272.07,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, as I say, I would like to talk about your -- your tracing point. But just to make the point just to be clear, that proceeds forfeiture didn't come into our law until 1978. That's what says you got these proceeds from your crime; now you have to give them up, you have to give them back. And we don't think that forfeiture would have been understood that way when this statute was enacted in 1839."
+                },
+                {
+                    "start": 2272.07,
+                    "stop": 2272.4,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was there --"
+                },
+                {
+                    "start": 2272.4,
+                    "stop": 2274.51,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "With respect to your tracing question, though --"
+                },
+                {
+                    "start": 2274.51,
+                    "stop": 2276.115,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. I'm sorry."
+                },
+                {
+                    "start": 2276.115,
+                    "stop": 2304.78,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Okay. It's true that there isn't a tracing requirement for disgorgement. That's true as among private parties as well. And, actually, the restatement on unjust enrichment spells this out, I think, you know, very, very well. It's that you're trying to get the money back. Money is fungible. And so there's not a tracing requirement the way that there is in forfeiture, I think, basically for historical reasons because of the history of in rem forfeiture. But nevertheless, as between private parties, disgorgement or restitution is not considered a penalty, despite the absence of this tracing."
+                },
+                {
+                    "start": 2304.78,
+                    "stop": 2326.875,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's -- it's not clear to me that you have limits. Suppose there are two coconspirators and they misappropriate -- A misappropriates $100,000. He gives 90 to B, keeps 10 for himself. Doesn't the government take the position that it can get a hundred back from A and 90 from B? Isn't that your position consistently?"
+                },
+                {
+                    "start": 2326.875,
+                    "stop": 2329.71,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think our position is that it depends. That --"
+                },
+                {
+                    "start": 2329.71,
+                    "stop": 2330,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Pardon me?"
+                },
+                {
+                    "start": 2330,
+                    "stop": 2344.06,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It depends. Sometimes joint and several liability would be appropriate, if that's, I think, what Your Honor is asking, in that -- in that situation where you could make a defendant essentially responsible for money that was taken by someone else who was closely associated with them."
+                },
+                {
+                    "start": 2344.06,
+                    "stop": 2345.54,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you call that disgorgement?"
+                },
+                {
+                    "start": 2345.54,
+                    "stop": 2353.43,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It can be called disgorgement, but disgorgement doesn't inevitably extend to that. In courts, in the exercise of their equitable discretion, have rejected that in some cases. And so --"
+                },
+                {
+                    "start": 2353.43,
+                    "stop": 2361.53,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in -- in my hypothetical, would you take the position that the statute of limitations does apply? 100 from one, 90 from the other. That's a total of 190."
+                },
+                {
+                    "start": 2361.53,
+                    "stop": 2375.06,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I don't -- I'm not sure that disgorgement would ever work that way, actually, because there are deductions when money has been recovered. For instance, if there's a private damages action and money has been recovered, that's deducted from disgorgement. So I must --"
+                },
+                {
+                    "start": 2375.06,
+                    "stop": 2375.17,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My --"
+                },
+                {
+                    "start": 2375.17,
+                    "stop": 2376.28,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think I might have misunderstood the question."
+                },
+                {
+                    "start": 2376.28,
+                    "stop": 2380.32,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My understanding is that A is liable for the full 100 -- $100,000."
+                },
+                {
+                    "start": 2380.32,
+                    "stop": 2385.66,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right. Well, that would be joint and several liability. That's not necessarily the same thing as then recovering on top of that from someone else."
+                },
+                {
+                    "start": 2385.66,
+                    "stop": 2385.92,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I agree."
+                },
+                {
+                    "start": 2385.92,
+                    "stop": 2406.9,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Our position is that the Court should decide whether the disgorgement in this case falls within the scope of Section 2462 and leave for another day the question of whether disgorgement extends to situations like that. It would seem wrong to us for the Court to assume that disgorgement is as broad as courts have ever made it and to rule on that basis, when perhaps the issue could come before this Court --"
+                },
+                {
+                    "start": 2406.9,
+                    "stop": 2407.13,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about --"
+                },
+                {
+                    "start": 2407.13,
+                    "stop": 2408.56,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- sometime in the future and the Court would disagree."
+                },
+                {
+                    "start": 2408.56,
+                    "stop": 2414.33,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about the many cases your client has filed in the lower courts taking the opposite position?"
+                },
+                {
+                    "start": 2414.33,
+                    "stop": 2417.81,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not sure that we have taken the opposite position on anything."
+                },
+                {
+                    "start": 2417.81,
+                    "stop": 2417.91,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 2417.91,
+                    "stop": 2419.61,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We've certainly taken the position consistently that --"
+                },
+                {
+                    "start": 2419.61,
+                    "stop": 2434.475,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you've argued that you -- You've argued that disgorgement -- that they're not entitled to equitable -- I don't remember if it's tolling or not because disgorgement is -- is punitive?"
+                },
+                {
+                    "start": 2434.475,
+                    "stop": 2435.12,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No --"
+                },
+                {
+                    "start": 2435.12,
+                    "stop": 2437.03,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not entitled to deductions?"
+                },
+                {
+                    "start": 2437.03,
+                    "stop": 2437.535,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The brief --"
+                },
+                {
+                    "start": 2437.535,
+                    "stop": 2439.74,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- the briefs that were cited in your friend's reply --"
+                },
+                {
+                    "start": 2439.74,
+                    "stop": 2441.86,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Are you talking about the tax in the bankruptcy --"
+                },
+                {
+                    "start": 2441.86,
+                    "stop": 2442.67,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 2442.67,
+                    "stop": 2446.26,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- situations? Those involve different statutes. We have not taken inconsistent --"
+                },
+                {
+                    "start": 2446.26,
+                    "stop": 2447.09,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. I know. That's not a very --"
+                },
+                {
+                    "start": 2447.09,
+                    "stop": 2447.65,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- positions on 2462."
+                },
+                {
+                    "start": 2447.65,
+                    "stop": 2482.905,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you haven't taken the same -- different positions under the same statute, but we're talking about disgorgement in each case. I gather your position would be if disgorgement was required under the securities law, that's remedial -- right? -- and -- and therefore is not subject to the statute of limitations. But if that same defendant tried to deduct that remedial relief, you would say you can't do that because it's punitive. So the same payment is characterized by your client as remedial in one context and punitive in another."
+                },
+                {
+                    "start": 2482.905,
+                    "stop": 2499.17,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. With respect to taxes, we haven't taken a position. We've noted, as my friend has noted, that there is an unpublished, non-presidential memorandum from the IRS that says that disgorgement in the SEC context sometimes can be considered a fine or similar penalty --"
+                },
+                {
+                    "start": 2499.17,
+                    "stop": 2500.01,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the SEC context?"
+                },
+                {
+                    "start": 2500.01,
+                    "stop": 2502.37,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm sorry. In the -- -- in the IRS context. I apologize, Your Honor."
+                },
+                {
+                    "start": 2502.37,
+                    "stop": 2502.605,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2502.605,
+                    "stop": 2514.93,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sometimes can be considered a fine under tax law, and sometimes isn't considered a fine under tax law in situations, for instance, in which the money goes back to the injured investors. And so we think that it's perfectly --"
+                },
+                {
+                    "start": 2514.93,
+                    "stop": 2522.43,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So not only is it one thing in one context, but something else in the other context. Sometimes it's remedial and sometimes it's punitive in each context."
+                },
+                {
+                    "start": 2522.43,
+                    "stop": 2534.26,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we think it's legitimate to have different interpretations of different statutes that have different language, different purposes, different tools of statutory interpretation, so different legislative history, different provisions that surround them. The way this Court --"
+                },
+                {
+                    "start": 2534.26,
+                    "stop": 2534.47,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you --"
+                },
+                {
+                    "start": 2534.47,
+                    "stop": 2535.11,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- decides the case may be --"
+                },
+                {
+                    "start": 2535.11,
+                    "stop": 2545.73,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you -- you have argued for a categorical rule. Your -- your brief says disgorgement in SEC actions is not a penalty. Disgorgement is not a forfeiture. You're arguing a categorical position."
+                },
+                {
+                    "start": 2545.73,
+                    "stop": 2547.49,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We are arguing with respect to this statute --"
+                },
+                {
+                    "start": 2547.49,
+                    "stop": 2549.72,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your answers to the questions, you're saying, well, it depends."
+                },
+                {
+                    "start": 2549.72,
+                    "stop": 2574.43,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, no, Your Honor. I'm sorry. I don't mean to be unclear about that. Our argument is that under 2462, as the terms \"penalty\" and \"forfeiture\" should be understood under this Court's decision in Meeker, they both refer to doing something punitive, that disgorgement is not a penalty or a forfeiture under this provision. All I'm saying now is that it's possible that there may be other arguments to be made under other statutes. Even though they contain the word \"penalty,\" the way this Court decides the case may affect that, and the --"
+                },
+                {
+                    "start": 2574.43,
+                    "stop": 2574.66,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- because the --"
+                },
+                {
+                    "start": 2574.66,
+                    "stop": 2576.68,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- government may adjust its positions accordingly."
+                },
+                {
+                    "start": 2576.68,
+                    "stop": 2591.285,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is your answer to the -- to the deduction there? Your friend said that the government takes the position that you have to turn over everything that you got and you can't have any deduction for what it cost to -- to produce that."
+                },
+                {
+                    "start": 2591.285,
+                    "stop": 2593.8,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "For whether expenses can be deducted?"
+                },
+                {
+                    "start": 2593.8,
+                    "stop": 2594.28,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2594.28,
+                    "stop": 2632.37,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Again, I think this is an issue of the scope of disgorgement that's not before the Court now. But the -- the analysis I think is best set out in a Ninth Circuit decision called Wallenbrock, which points out that sometimes expenses can be deducted. For instance, if you have a legitimate business that you're running and you just are skimming some money out of your clients' accounts, but you really do have legitimate business expenses, in that circumstance, courts have allowed deduction of expenses so as to make sure that you're just getting the unjust enrichment. If you're running a Ponzi scheme or something of that nature and your whole business is a fraud, in that circumstance, courts have not allowed deduction of expenses because those expenses are really just money that was stolen from the investors. And so --"
+                },
+                {
+                    "start": 2632.37,
+                    "stop": 2649.09,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Goldenberg, when we get to the criminal context, this very same remedy of disgorgement of everything is often called a forfeiture, and it is a penalty; right? So why does it make a difference that we just happen to be in the civil context?"
+                },
+                {
+                    "start": 2649.09,
+                    "stop": 2654.94,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there are forfeitures and there is restitution in the criminal context. That's certainly true."
+                },
+                {
+                    "start": 2654.94,
+                    "stop": 2655.74,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The very same remedy."
+                },
+                {
+                    "start": 2655.74,
+                    "stop": 2667.44,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In circumstances -- well, I don't think it's exactly the same. In circumstances in which, for instance, the government forfeits things in the criminal context and it eventually sends money back to the victims, that's in the government's discretion rather in the control of the Court."
+                },
+                {
+                    "start": 2667.44,
+                    "stop": 2667.53,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2667.53,
+                    "stop": 2668.57,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But what I think makes a difference --"
+                },
+                {
+                    "start": 2668.57,
+                    "stop": 2671.75,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So why does the form, whether this is civil versus criminal, make all the difference?"
+                },
+                {
+                    "start": 2671.75,
+                    "stop": 2672.7,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, this Court's decision --"
+                },
+                {
+                    "start": 2672.7,
+                    "stop": 2678.84,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And how do we ever know? I mean, goodness gracious, the difference between civil and criminal has vexed this Court for many years."
+                },
+                {
+                    "start": 2678.84,
+                    "stop": 2691.51,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This Court's decision in Kelly, I think, points out that the criminal context really is somewhat different, and that this Court's decision in Pasquantino, I think, suggests that the same thing is true. In the Federal context, the decision in Kelly --"
+                },
+                {
+                    "start": 2691.51,
+                    "stop": 2741.265,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wait, let's be more specific about the question that Justice Gorsuch is asking. You said the difference was that we are taking with disgorgement, property, money, or the equivalent that he, the defendant, did not rightly have. Perhaps he stole it. Okay? Now we have a criminal case. Judge, you stole the Hope Diamond. I cannot take that value, which you've gotten rid of the diamond, but you have several million, I can't take that and give it to the victims. I don't even know who they are. So I'm going to impose a penalty, a fine, and the fine will equal the value of the Hope Diamond. Is that a fine?"
+                },
+                {
+                    "start": 2741.265,
+                    "stop": 2742.47,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think that --"
+                },
+                {
+                    "start": 2742.47,
+                    "stop": 2743.6,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You said it was a fine."
+                },
+                {
+                    "start": 2743.6,
+                    "stop": 2744.35,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, that would be --"
+                },
+                {
+                    "start": 2744.35,
+                    "stop": 2745.375,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That would be a fine."
+                },
+                {
+                    "start": 2745.375,
+                    "stop": 2746.07,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You could do something --"
+                },
+                {
+                    "start": 2746.07,
+                    "stop": 2765.15,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I think that's the question that's being asked. If it is a fine, when the judge sentences, your distinction, the main one between disgorgement and fine or forfeiture, what happens to it?"
+                },
+                {
+                    "start": 2765.15,
+                    "stop": 2784.53,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, just to be clear, I think what you're talking about now is proceeds forfeiture. That would be the equivalent of what Your Honor described in the criminal law. And I think in the criminal context, it really is different. And this Court's decision in Kelly explains that. The whole purpose of a criminal proceeding is to punish. Forfeiture is imposed as part of the criminal sentence in a criminal proceeding as part of the punishment."
+                },
+                {
+                    "start": 2784.53,
+                    "stop": 2788.585,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And sometimes the money goes to the victim and sometimes it doesn't. Just like here."
+                },
+                {
+                    "start": 2788.585,
+                    "stop": 2793.2,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, as I say, that's in the government's discretion, and that is not like here. Here, it's --"
+                },
+                {
+                    "start": 2793.2,
+                    "stop": 2796.89,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, here we don't know, because there's no statute governing it. We're just making it up."
+                },
+                {
+                    "start": 2796.89,
+                    "stop": 2802.32,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I wouldn't say that, Your Honor. There are almost 50 years of precedents on how this should work, and I think the way it worked is --"
+                },
+                {
+                    "start": 2802.32,
+                    "stop": 2802.96,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not in this Court."
+                },
+                {
+                    "start": 2802.96,
+                    "stop": 2811.575,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- is clear. It's true that this Court doesn't have precedent about disgorgement in the SEC context, but as I pointed out earlier, the Court does have precedent in other contexts --"
+                },
+                {
+                    "start": 2811.575,
+                    "stop": 2816.55,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are there any time -- are there any time limits, and if so, where do they come from?"
+                },
+                {
+                    "start": 2816.55,
+                    "stop": 2832.33,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The courts that have ruled that there's no statute of limitations for disgorgement have said that the district court can take into account, as part of this exercise of equitable discretion that I'm describing, the passage of time, and how much time has passed and -- in deciding whether to order disgorgement. And in deciding whether or not to --"
+                },
+                {
+                    "start": 2832.33,
+                    "stop": 2845.13,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I -- the courts say that, but where -- what is the basis for it? Is this by analogy to some traditional equitable remedy? Where -- where does that come from? Is it like laches? But laches, you say, doesn't apply to the government?"
+                },
+                {
+                    "start": 2845.13,
+                    "stop": 2868.68,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's true, laches doesn't apply to the government. I think it is just the fact that in exercising this kind of equitable discretion, under the authority given in the statute, the court can consider all kinds of facts and circumstances. And the court is assessing things like is causation adequately established? Is the amount adequately established? The cases say over and over again, that what the Court is trying to do is to get at unjust enrichment and not to go beyond that because that would be a penalty. So if the Court decides --"
+                },
+                {
+                    "start": 2868.68,
+                    "stop": 2887.86,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's only with respect to -- that's only with respect to the amount of the remedy, not with respect to liability. So 20 years from the time that the fraud or whatever is committed, the government can bring an action for disgorgement against -- against the wrongdoer, and that action would proceed, despite this equitable limitation you're talking about."
+                },
+                {
+                    "start": 2887.86,
+                    "stop": 2898.96,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, that's true. But the government has many incentives to move more quickly than that. You don't see cases like that. And, in addition, I think that it's clear that all along the way, since disgorgement has been --"
+                },
+                {
+                    "start": 2898.96,
+                    "stop": 2906.25,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if we -- if we think that's inappropriate and bad, we're not going to come out the other way because we trust the government not to bring an action like that."
+                },
+                {
+                    "start": 2906.25,
+                    "stop": 2913.25,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not suggesting that Your Honor should trust the government. What I'm saying is that we're defending the status quo. This is the way it's worked for almost a half a century, and I think if there had been some --"
+                },
+                {
+                    "start": 2913.25,
+                    "stop": 2936.37,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no, this has changed a lot after the Gabelli decision. That was your answer to Justice Ginsburg, that why did you get this huge amount from disgorgement and only a small amount under the other thing. And you said, well, that was because Gabelli said we have to be bound by a particular construction of the statute of limitations. And if that cut us off, now we're going to rely on disgorgement to get all the money we -- that the Court said under Gabelli, that you couldn't get."
+                },
+                {
+                    "start": 2936.37,
+                    "stop": 3006.86,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I understand, Your Honor, but Gabelli is actually an incentive for the SEC to move faster, so that it gets the civil penalties. And, actually, it is not true -- I think it's empirically not true that the SEC's practices have changed since Gabelli, that the SEC is somehow filing different kinds of claims, or seeking disgorgement more often. We can statistically show, if you compare the amount in disgorgement vis-\u00e0-vis penalties in 2009 versus 2016, there's actually way more disgorgement compared to penalties; over $2 billion compared to only $300-some million in penalties in 2009, long before Gabelli. So to the extent that Gabelli has shifted the government's incentives, it's to move faster, so that penalties are still on the table. And something -- I really want to point out something that's really important, I think, that the facts of this case illustrate, which is that even if the Court were to rule that Section 2462 covered disgorgement, the government could still bring actions more than five years after bad conduct, seeking injunctions. It could still bring actions like this action, more than five years after the earliest of the bad conduct, seeking disgorgement and penalties. And so it's not as if the defendant would be protected from having to defend himself against claims, from having to bring witnesses, from having to come forward with evidence. This is not that kind of statute of limitations. This is a statue of limitations about remedies, not about actions."
+                },
+                {
+                    "start": 3006.86,
+                    "stop": 3015.975,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If -- if the -- if it's beyond the statutory limitation, I suspect that an injunction would be kind of irrelevant unless the conduct has continued that long."
+                },
+                {
+                    "start": 3015.975,
+                    "stop": 3053.41,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it's true that in that such circumstance, you would show that there was some danger of bad conduct in the future, but you would use the existence of the bad conduct in the past as part of that evidence. So I think that there is not a danger that -- that things are going to go awry here. Congress has been aware this whole time,that disgorgement is operating this way, including in pre-1990 cases that were brought more than five years after the earliest of the bad conduct. I would like to emphasize one more time, if I could, the narrow construction canon here, because I think if the Court has any doubt about the meaning of penalty and forfeiture, at the very least, those terms are ambiguous. We've come forward with all kinds of contemporaneous sources --"
+                },
+                {
+                    "start": 3053.41,
+                    "stop": 3061.4,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We don't apply the canon in criminal cases, so why should we apply it in a case where the penalty is identical to what might be a criminal penalty?"
+                },
+                {
+                    "start": 3061.4,
+                    "stop": 3067.325,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it's true that it's not applied in criminal cases, where there are other canons that are at play, like the canon --"
+                },
+                {
+                    "start": 3067.325,
+                    "stop": 3067.64,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Like lenity."
+                },
+                {
+                    "start": 3067.64,
+                    "stop": 3079.785,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, right. And like the canon against penalties that the Chief Justice was referring to earlier. But that can't decide whether something is a penalty or not in the first instance. That would be a completely circular enterprise."
+                },
+                {
+                    "start": 3079.785,
+                    "stop": 3089.99,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you agree or disagree -- I'm a little -- left a little bit unclear. Mr. Unikowsky's standard is that if something is not solely remedial, then it's a penalty. Do you agree with that?"
+                },
+                {
+                    "start": 3089.99,
+                    "stop": 3095.005,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't disagree that if something has a punitive aspect, then it can be a punishment."
+                },
+                {
+                    "start": 3095.005,
+                    "stop": 3097.39,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you disagree with any punitive aspect."
+                },
+                {
+                    "start": 3097.39,
+                    "stop": 3097.56,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 3097.56,
+                    "stop": 3100.775,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if something is not solely remedial, it is a penalty."
+                },
+                {
+                    "start": 3100.775,
+                    "stop": 3129.12,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I disagree with the principle that just because something has some deterrent effect or deterrent purpose, that that makes it a punishment, and that's a proposition that this Court has rejected a number of times, in its decision in Hudson, in its decision in Smith v. Doe, which is an ex post facto case, and it has overruled a decision on that -- some of the decisions that Petitioner cites' relied on. So the mere fact that something is deterrent isn't enough to make it punitive. Damages are a deterrent, injunctions are a deterrent. Lots and lots of things are a deterrent."
+                },
+                {
+                    "start": 3129.12,
+                    "stop": 3161.25,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because I look at this and -- and it seems to be a commonsensical kind of way of looking at the way this remedy works, the way the SEC has used it, is that it's trying to do a lot of things. It's trying to compensate. It's trying to deter. It's trying, to some extent, to punish misconduct that it -- it sees, you know, and that it's a little bit artificial to try to tear them apart. And then if you accept Mr. Unikowsky's standard, that suggests that he has the better of the arguments. So why is that wrong?"
+                },
+                {
+                    "start": 3161.25,
+                    "stop": 3168.24,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well -- excuse me -- I disagree that disgorgement is in any way intended to punish, for the reasons that I was explaining to Justice Breyer."
+                },
+                {
+                    "start": 3168.24,
+                    "stop": 3181.475,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah, but I guess -- I guess when I said \"punish,\" I don't mean to make that sound as a conclusion. I mean just to say, it's tied to -- to particular misconduct. So -- so it's -- it's very much relating to a -- an offense."
+                },
+                {
+                    "start": 3181.475,
+                    "stop": 3269.92,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is, but that's because that's the conduct that gave rise to the unjust enrichment that needs to be remedied. And it is a remedial thing to do to say to the defendant, you got this money that you were never supposed to have. Let's take it back and try to put the world back the way that it was before. And, in many cases, we're going to go on and then give it to the injured parties, and we're going to put the world completely back to the way that it should have been, if you hadn't acted. The mere fact that somebody has engaged in wrongdoing is not enough to make any consequence that flows from that a punishment, or injunctions would be a punishment, declaratory judgments would be punishments, all kinds of things would be punishments that we wouldn't consider to be a punishment. And -- and so I think, again, there's at least some ambiguity here about what Congress meant in 1839 about what penalty and forfeiture meant. And in that situation, the narrow construction canon comes into play in favor of the government, and resolves this case in favor of the government. Petitioner has suggested that the narrow construction canon has no application here, because this is not a situation in which the government is trying to get back its own money or its own property. That is just not correct, as a statement of how the narrow construction canon works. The very cases that Petitioner cites talk about the rationale for the narrow construction canon being the protection of public interest or public rights and property. And one of the very cases the Petitioner cites, the Badaracco case, was a case where the government was acting in an enforcement capacity, getting tax penalties from -- under a statute that is described as a penalty statute. So, again, I think it can't be --"
+                },
+                {
+                    "start": 3269.92,
+                    "stop": 3271.82,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Narrow -- narrow construction of what?"
+                },
+                {
+                    "start": 3271.82,
+                    "stop": 3330.48,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Narrow construction of Section 2462, to say that the words \"penalty\" and \"forfeiture\" should be understood narrowly, rather than as Petitioner would have it, extremely broadly to cover, basically, any payment that ever goes to the government in any way. And once you construe them narrowly to mean punishment, then disgorgement doesn't fall within the scope of that. And, again, I think it can't be that you can sort of say, well, Congress would have meant to cover this, if it had thought about it. The canon, just as the canons that would have to do with waivers of government sovereign immunity and the like, says you have to look specifically at each of the categories that Congress set up and see whether the remedy that you're talking about falls within the scope of that. And here, that's certainly not the case. We know that Congress has been active in this area; that Congress has passed a lot of statutes that approve of disgorgement; that Congress has passed a lot of statutes of limitations, including some that apply to the SEC during the period in which disgorgement has been ordered, and that Congress has never taken action to cover disgorgement under a statute of limitations, and Section 2462 --"
+                },
+                {
+                    "start": 3330.48,
+                    "stop": 3333.835,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just -- just out of curiosity, when -- I'm sorry."
+                },
+                {
+                    "start": 3333.835,
+                    "stop": 3334.66,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, please."
+                },
+                {
+                    "start": 3334.66,
+                    "stop": 3345.74,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When -- when the SEC uses this, is it usually going after continuing misconduct, or does it sometimes really reach back into the past for completed conduct?"
+                },
+                {
+                    "start": 3345.74,
+                    "stop": 3363.074,
+                    "speaker": {
+                        "name": "Elaine J. Goldenberg",
+                        "ID": 22331,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's usually relating to continuing misconduct. There aren't very many cases where the SEC has ever reached back more than five years before the filing of the complaint. But in the ones that -- that exist -- again, not a huge number -- they are generally cases that are brought within five years of some of the misconduct, as was true in this case."
+                },
+                {
+                    "start": 3363.074,
+                    "stop": 3367.52,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Unikowsky, five minutes."
+                }
+            ],
+            "start": 3367.52,
+            "stop": 3661.07
+        }
+    ]
+}

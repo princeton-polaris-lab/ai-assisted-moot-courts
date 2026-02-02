@@ -1,0 +1,2400 @@
+{
+    "title": "United States v. Cooley",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 8.85,
+                    "stop": 131.555,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: Indian tribes, like other sovereigns, have the core inherent authority to investigate and detain suspects within their borders for the violation of another sovereign's law. Every single source that this Court looks to in assessing inherent tribal authority confirms that limited ability. The executive has entered into numerous treaties that presuppose it, Congress has ratified those treaties and passed affirmative legislation that reflects it, courts have repeatedly upheld it, and on-the-ground law enforcement practice has long depended on it. The Ninth Circuit's decision here upsets all of those understandings. Its tribal sovereignty analysis would logically suggest that tribes are reduced to no more than private citizens in policing rights-of-way and non-Indian land on their reservations. And I think that's the position Respondent's taking. But even the Ninth Circuit realized how untenable that would be, so it created a novel, complicated, and ultimately unworkable law enforcement regime. The decision below replaces familiar Fourth Amendment standards codified in the Indian Civil Rights Act with an unprecedented standard that nobody is going to know how to apply, officers or courts. It will also force tribal officers to curtail otherwise reasonable policing activities when a suspect claims to be non-Indian or the officer isn't sure about Indian status or the status of the land that he's on. The holding lacks any meaningful support, substantially chills tribes' ability even to enforce their own laws against their own members, and endangers everyone on Indian reservations. It should be reversed."
+                },
+                {
+                    "start": 131.555,
+                    "stop": 178.925,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feigin, you -- you got my attention when you said -- began by saying every single source says that tribes have this inherent authority. I would have thought Montana said the exact opposite. You know, you do argue at the outset there's this inherent authority and nothing took it away. But, as we said in South Dakota versus Bourland, describing Montana, and this is a quote, it said, \"After Montana, tribal sovereignty over non-members cannot survive without express congressional delegation and is, therefore, not inherent.\" So I would have described that as at least one source that says the opposite of what you said."
+                },
+                {
+                    "start": 178.925,
+                    "stop": 199.07,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I -- I do think this Court has recognized inherent authority without express congressional authorization. And as we discuss in our brief, we think the overall standard is the one announced in Colville and in cases before and after, which is that --"
+                },
+                {
+                    "start": 199.07,
+                    "stop": 215.67,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Montana -- Montana came after Colville. And -- and I'm not saying that we haven't recognized some inherent authority, but this is a question of tribal sovereignty over non-members, and I assume that would -- would extend to criminal jurisdiction."
+                },
+                {
+                    "start": 215.67,
+                    "stop": 247.605,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, let me make a couple points directly about Montana, Your Honor. I think Montana is how Colville shakes out in the civil, regulatory, and adjudicatory contexts. But even if Your Honor were inclined to apply Montana in these circumstances, which don't involve criminal jurisdiction but on-the-ground policing, nobody is -- is trying or punishing crimes here, I think it would fit within the second Montana exception because it interferes with self-governance."
+                },
+                {
+                    "start": 247.605,
+                    "stop": 249.75,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I understand that -- that."
+                },
+                {
+                    "start": 249.75,
+                    "stop": 250.1,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 250.1,
+                    "stop": 273.42,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand that as an alternative theory, and -- and, you know, we can -- we can talk about that. But you -- you say Montana applies to legislative and civil and regulatory. On what basis would you suggest that executive power, such as is being exercised here, is subject to a different rule than legislative and judicial power?"
+                },
+                {
+                    "start": 273.42,
+                    "stop": 299.75,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think the Court essentially recognized that there's a distinction or at least nodded at such a distinction in both Strate and Atkinson when it expressly noted that it wasn't questioning this particular power that we're discussing here today, which is the power to stop and detain someone on public rights-of-way that run through a reservation, that the --"
+                },
+                {
+                    "start": 299.75,
+                    "stop": 302.165,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Justice Thomas."
+                },
+                {
+                    "start": 302.165,
+                    "stop": 331.52,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Chief Justice. Mr. Feigin, the -- the Ninth Circuit analogized the police officer here to a private citizen. And if we accept that, that the police officer is actually a private citizen here, then why does the statute, the Indian Civil Rights Act, even apply?"
+                },
+                {
+                    "start": 331.52,
+                    "stop": 406.615,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, the Indian Civil Rights Act contains a very broad definition of the governmental activities of the tribe, and I think it probably would still apply, but I think that's another inconsistency in the Ninth Circuit's opinion that I think makes its conclusion ultimately untenable, which is that they recognize some sovereign authority in one respect, as you note, and then deprive the tribal officer of it in another respect. And I don't think that citizens arrest authority is at all workable or at all what anyone has ever contemplated. Among other things, I don't think citizens arrest authority by anyone's likes would include the ability to do a Terry stop based on reasonable suspicion, which is what traffic stops are, let alone a frisk for weapons. And I think everyone's assumed that tribes can do much more than that, as the treaties reflect, as the statutes reflect, and as on-the-ground practice reflects."
+                },
+                {
+                    "start": 406.615,
+                    "stop": 429.34000005,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, if we -- if -- if we find that -- that the officer here was within his jurisdiction to engage in this stop, do we have to -- should we ultimately reverse here, or should we send it back to have it analyzed to determine whether or not Terry is satisfied?"
+                },
+                {
+                    "start": 429.34000005,
+                    "stop": 444.105,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think, if you ultimately agree with -- with us, Justice Thomas, I do think this needs to go back for a Fourth Amendment analysis -- for a Fourth Amendment analysis, if that's your question."
+                },
+                {
+                    "start": 444.105,
+                    "stop": 465.615,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you, in your discussion with the Chief Justice with respect to Montana, do you think that -- you know, Lara was decided after that and it seemed to undercut Montana. Could you discuss that just a bit?"
+                },
+                {
+                    "start": 465.615,
+                    "stop": 530.22,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I -- I -- I don't think that Montana no longer applies to the situations that it applied. After Lara, you have Plains Commerce Bank, which very clearly applies Montana in the contexts to which I -- I think it's clearly applicable, namely, civil, regulatory, and adjudicatory legislation. And we're not asking this Court to say that Montana's curtailed in any way because I don't think the Court needs to say that. I think it's pretty clear from Strate and I -- I believe Your Honor's opinion in Atkinson that the authority we're talking about today is meaningfully different. The main logic of not subjecting non-Indians to tribal adjudication or legislation is that they have no say in making those laws. Here, this is about the enforcement of laws to which they're -- the non-Indians are indubitably subject --"
+                },
+                {
+                    "start": 530.22,
+                    "stop": 531.69,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel."
+                },
+                {
+                    "start": 531.69,
+                    "stop": 535.225,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "-- namely, state and federal law."
+                },
+                {
+                    "start": 535.225,
+                    "stop": 536.62,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Breyer."
+                },
+                {
+                    "start": 536.62,
+                    "stop": 560.67,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you -- would you like to and could you help explain to me an ordinary state policeman has certain authority to make arrests or to investigate situations on an interstate highway. How -- how in your view does the tribal policeman have the same or a lesser authority and why?"
+                },
+                {
+                    "start": 560.67,
+                    "stop": 695.685,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "So, Your Honor, I think, if the -- at the outset, it's just an inherent sovereign authority that sovereigns can investigate and detain at least briefly and reasonably for violations of other sovereigns' laws. In the context of states, for example, you have the Interstate Rendition Clause of the Constitution that presupposes states can enforce each other's laws. You have this Court's decisions in Di Re and Miller that make, I think, fairly clear that states can enforce federal law. That reflects, Justice Breyer, well-accepted international law principles that allow this. I -- I point you to the Court's decision in United States against Raucher, which is in 117 of the U.S. Reports. And if you look at page 218 of Neil Boister's \"Introduction to Transnational Criminal Law,\" you'll see that the procedural law that's usually applied is -- the procedural law that's understood to apply when there's a -- a hand-over of someone is the procedural law of the state that's doing the handing over, not the state that's accepting delivery, that that nation is only applying its substantive law. And the authority that we're asking for here for tribes and that we think tribes have always had and that everyone's always assumed that they had is a -- a -- a more limited authority than even the courts recognize the states have. It's not the authority to do a full-blown arrest. It's not an arrest in their own authority that kicks off an adjudicatory process. It's just investigation and detention in a complementary role. If the state or the federal government says, no, we don't want this person, the tribe has to let him go."
+                },
+                {
+                    "start": 695.685,
+                    "stop": 715.865,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why do they have the authority to, say, enforce or arrest anyway or hold people who they believe reasonably are violating Montana law, but then they can't try that person for violating the Indian tribe law?"
+                },
+                {
+                    "start": 715.865,
+                    "stop": 752.94,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the logic that this Court's applied for not having non-Indians subject to the tribe's criminal adjudicatory authority is that they have no say in making those laws. That's really not the case here. This is just complementary enforcement. And, Your Honor, it's practically necessary. As this Court has recognized and as Congress has recognized, these -- these areas are policed primarily often by tribal officers. And if they lack this authority, it's going to endanger everyone on the reservation."
+                },
+                {
+                    "start": 752.94,
+                    "stop": 755.235,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Justice Alito."
+                },
+                {
+                    "start": 755.235,
+                    "stop": 783.55,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feigin, do you think you could offer us a general test for distinguishing between those aspects of sovereignty that tribes retained and those that they did not? So, if you -- if I gave you this partial sentence, I wonder if you could complete it: Tribes retain those aspects of sovereignty that -- fill in the rest."
+                },
+                {
+                    "start": 783.55,
+                    "stop": 843.91,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That are -- I mean, I don't think I can do a better job than the Court did in -- in Colville and in, after that, San Carlos reiterating this and in -- in other cases, which is they retain the inherent authority so long as it's not inconsistent with the overriding interests of the federal government. And the Court gave three examples of things that would be inconsistent, namely, foreign relations or control over the alienation of tribal land to non- -- non-Indians or the adjudication of various matters against non-Indians. But, as I've said, I -- I think this is meaningfully different for -- for a number of reasons."
+                },
+                {
+                    "start": 843.91,
+                    "stop": 887.925,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the authority you claim the tribes retain go further than simply detaining a non-Indian on reasonable suspicion? I think you -- you just said in answer to Justice Breyer that a tribal officer could not actually make an arrest. Could the -- could the officer make a -- the kind of search incident to arrest that would otherwise be possible? For example, if a non-Indian was in the car -- in a car, could the officer search areas of the car that the person could grab and might have -- where there might be a weapon hidden?"
+                },
+                {
+                    "start": 887.925,
+                    "stop": 908.225,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, an officer could certainly do that. I mean, that's sort of part of the -- recognized as an ordinary part of a traffic stop. To -- to the extent your question encompasses this, we also think an officer could do a search of the car pursuant to the post-Gant rationale."
+                },
+                {
+                    "start": 908.225,
+                    "stop": 934.795,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, suppose a -- suppose a tribal officer is -- is -- is not -- is not stopping a car on the highway but is driving around the reservation and sees through the window of a house owned by a non-Indian on a parcel of land that this individual owns and see that there is drugs in plain view. Could -- what can the officer do under those circumstances?"
+                },
+                {
+                    "start": 934.795,
+                    "stop": 965.1,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I do think that the officer can go in and -- and do a detention there, and then he -- he has to obviously act reasonably when he does so, and part of acting reasonably is recognizing that he's in a complementary role and he needs to, as Officer Saylor did here, contact state and federal authorities as quickly as is reasonably possible under --"
+                },
+                {
+                    "start": 965.1,
+                    "stop": 966.95,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you. Thank you, Mr. Feigin."
+                },
+                {
+                    "start": 966.95,
+                    "stop": 968.56,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Sotomayor."
+                },
+                {
+                    "start": 968.56,
+                    "stop": 1030.68,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feigin, basically, you -- in your briefs, you've argued that this Court should look to whether the exercise of tribal sovereignty would be consistent with the overriding interests of the federal government. I'm not quite sure what that has to do with much. Shouldn't we be looking at what rights the Indians, the tribal Indians, have been given? And, here, it seems to me that inherent in a detention-and-hold right is the right to investigation. The Ninth Circuit basically said that they can investigate to find out if someone's an Indian or not. And if they're an Indian, presumably, they would have all the rights of further investigation. But I don't know why the Ninth Circuit's limited view of what the right of detention means should control us."
+                },
+                {
+                    "start": 1030.68,
+                    "stop": 1032.97,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Justice Sotomayor, it --"
+                },
+                {
+                    "start": 1032.97,
+                    "stop": 1059.775,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And -- and -- and isn't that a simpler argument than all the arguments that -- about sovereignty that everyone's been having? If it's a contractual right the Indians have been given, there's no constitutional violation in just being held for the police to determine whether or not you're guilty of a crime sufficient to be arrested. Why can't we just go in -- on that simple basis?"
+                },
+                {
+                    "start": 1059.775,
+                    "stop": 1136.88,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, to the extent that you would reach the -- the same result that we're urging today that would preserve traditional understandings of a tribe's authority, I don't -- I don't know that we have a huge interest in -- in deterring you from reaching that by the analytical path that you've described. But I do think that, as a general matter, we do have some interest in this Court reaffirming the existence of inherent tribal authority, which I think pervades this Court's cases. And I think this encompasses the authority that we're talking about today. And I do think that's actually the most straightforward and -- and the best way to reach this result. I -- I -- I'm not here contending that Congress affirmatively granted the authority here. I think that tribes have always had it. They've always been understood to have it. If you look at the reports, for example, the law professors' historical brief, they've exercised it and --"
+                },
+                {
+                    "start": 1136.88,
+                    "stop": 1141,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, if one of my colleagues thinks that Montana controls, you lose?"
+                },
+                {
+                    "start": 1141,
+                    "stop": 1161.85,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. As I was explaining to the Chief Justice, if Montana controls, and we don't think it does, but, if it does, I think this fits under self-governance because it chills enforcement even of tribal law against tribal members because it's difficult to tell --"
+                },
+                {
+                    "start": 1161.85,
+                    "stop": 1163.67,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, my time is out, but I'm not sure --"
+                },
+                {
+                    "start": 1163.67,
+                    "stop": 1163.79,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1163.79,
+                    "stop": 1171.11,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- that this is the extreme impact on sovereignty that Montana references."
+                },
+                {
+                    "start": 1171.11,
+                    "stop": 1173.305,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Kagan."
+                },
+                {
+                    "start": 1173.305,
+                    "stop": 1198.77,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feigin, if you could continue with this point. I guess what I'd like to know is, if there are these two alternative ways that you could have written your brief, and one is the inherent authority way, which you, in fact, used, and the other is the Montana exception 2 way, what are the different consequences of the Court proceeding along either of these paths? And why did you make the choice that you did?"
+                },
+                {
+                    "start": 1198.77,
+                    "stop": 1267.03,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, just to be clear, I -- I do think the Montana exception 2 choice is an exercise of inherent authority, so I don't know that we're saying anything terribly different. The -- the reason we didn't make the argument that this fits into Montana exception 2, our primary argument is because we just don't think Montana applies. I -- I think it really only governs civil, adjudicatory, and regulatory jurisdiction. But if -- I take Your Honor's question to want me to continue my answer to Justice Sotomayor, which is that this chills self-governance because it's difficult to tell what kind -- as this Court is familiar with, what kind of land you're on, first of all, and I think the Ninth Circuit's ruling would probably apply to non-Indian fee land. This Court's decided numerous cases in which that issue, the issue of land status, reaches this Court. It's also --"
+                },
+                {
+                    "start": 1267.03,
+                    "stop": 1282.88,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess, Mr. Feigin, I really was just asking about -- you said we just don't think Montana applies. But, other than sort of analytic purity in your mind, you have no -- you don't see any real difference between the two approaches?"
+                },
+                {
+                    "start": 1282.88,
+                    "stop": 1305.86,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I do think it has broader implications for Indian sovereignty, and I -- I would urge the Court to keep Montana where -- where I think it has always been. And I do think Strate and Atkinson reflect an understanding by the Court that this isn't a Montana situation, but --"
+                },
+                {
+                    "start": 1305.86,
+                    "stop": 1320.15,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I -- I guess what I'm really asking is, like, what -- what are these different implications? I mean, I'm just sort of not understanding why you're pushing down one road rather than the other and -- and thought I'd just ask you, why are you pushing down one road rather than the other?"
+                },
+                {
+                    "start": 1320.15,
+                    "stop": 1370.97,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I'm not -- I'm not sure it may ultimately make a difference in the outcome in this case, but the federal government does have a very strong interest in preserving tribal authority and -- and tribal sovereignty where appropriate. And I wouldn't want the Court to take this occasion to restrict it even further by suggesting that Montana is the controlling test in -- in all circumstances. I'm not sure that this Court's precedents really support that result. And the Court could -- could leave that for another day and simply -- if -- if the Court prefers, simply assume that Montana exception 2 applies and explain why this fits into Montana exception 2."
+                },
+                {
+                    "start": 1370.97,
+                    "stop": 1371.95,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Feigin."
+                },
+                {
+                    "start": 1371.95,
+                    "stop": 1373.55,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Gorsuch."
+                }
+            ],
+            "start": 8.85,
+            "stop": 1444.13
+        },
+        {
+            "turns": [
+                {
+                    "start": 1373.55,
+                    "stop": 1444.13,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Good morning, counsel. I -- I -- I guess I would have approached this thinking that tribal sovereignty remains until and unless Congress has withdrawn it in some fashion and that the relevant question here is, what -- what does the Major Crimes Act do to Indian sovereignty? And, there, it's clear that Congress has withdrawn jurisdiction to try certain non-native people in certain locations within Indian country. Fine. My question approaching it that way, Mr. Feigin, is, where is the line? The Major Crimes Act clearly precludes states or -- or tribes from trying certain individuals, non-native persons, for -- for major crimes in Indian country. But you say it's okay, on the other hand, to -- for a tribal officer to conduct a Terry stop. There's a long distance between a Terry stop and a trial. Where does -- where does the Major Crimes Act kick in to reduce tribal sovereignty?"
+                },
+                {
+                    "start": 1444.13,
+                    "stop": 1456.46,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I'm not actually certain that I would identify the Major Crimes Act as necessarily what -- what draws the jurisdiction here, but if you --"
+                },
+                {
+                    "start": 1456.46,
+                    "stop": 1461.17,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I -- I understand that, but if you could address it based on the premise I've given you."
+                },
+                {
+                    "start": 1461.17,
+                    "stop": 1522.115,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Certainly, Your Honor. I think where the Major Crimes Act would kick off is -- is something that is considered the beginning of the adjudicatory process. So we're not urging here that tribes have full-blown arrest authority, which I think would be understood as the beginning of the adjudicatory process. So I think the line would be around where we have described it in our briefs, which is a limited detention and investigatory authority that's simply for the purpose of allowing state or federal authorities at some point to take over and conduct an arrest. I think that's confirmed by the statutes in -- in 25 U.S.C. 2804 and -- and surrounding it, which contemplate cross-designation if the federal government wants someone -- wants a tribal officer to be able to conduct an arrest."
+                },
+                {
+                    "start": 1522.115,
+                    "stop": 1529.64,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if -- if you're going to look to the deputization statute, why doesn't that just foreclose even a Terry stop?"
+                },
+                {
+                    "start": 1529.64,
+                    "stop": 1530.76,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, if you --"
+                },
+                {
+                    "start": 1530.76,
+                    "stop": 1534.64,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say it forecloses an arrest. Why wouldn't it go so far as to foreclose a Terry stop?"
+                },
+                {
+                    "start": 1534.64,
+                    "stop": 1547,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, if you look at 25 U.S.C. 2806(d), it expressly preserves the investigatory and -- and other relevant powers that tribes possessed before."
+                },
+                {
+                    "start": 1547,
+                    "stop": 1566.14,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, yeah, but you're saying they -- they possessed that authority antecedent to any statute. And -- and -- and I guess my question, again, is, where does that sovereign authority end that's been preserved? And why would it stop at Terry as opposed to an arrest?"
+                },
+                {
+                    "start": 1566.14,
+                    "stop": 1603.6,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, if you think it continues fully through an arrest, we wouldn't oppose that result. But I think that might be close -- I do think the arrest is normally understood to kick off an adjudicatory process. I don't think that tribes have been understood to have the authority to conduct arrests on their own. For example, if you look at page 99 of the Indian Law and Order Commission's report, which is cited in the former U.S. Attorneys' amicus brief, they do draw --"
+                },
+                {
+                    "start": 1603.6,
+                    "stop": 1603.74,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank --"
+                },
+                {
+                    "start": 1603.74,
+                    "stop": 1604.55,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "-- the distinction --"
+                },
+                {
+                    "start": 1604.55,
+                    "stop": 1607.675,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- thank you, counsel. My -- my time's expired, I'm afraid."
+                },
+                {
+                    "start": 1607.675,
+                    "stop": 1609.405,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Kavanaugh."
+                }
+            ],
+            "start": 1373.55,
+            "stop": 1616.635
+        },
+        {
+            "turns": [
+                {
+                    "start": 1609.405,
+                    "stop": 1616.635,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Chief Justice. Good morning, Mr. Feigin. Does the authority here come from the Constitution?"
+                },
+                {
+                    "start": 1616.635,
+                    "stop": 1628.245,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The authority here comes from the inherent tribe's -- the inherent sovereign authority that tribes possessed before they were incorporated into the United States that they've never lost."
+                },
+                {
+                    "start": 1628.245,
+                    "stop": 1639.07,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I guess my question remains, does that come from the Constitution, or how does that fit within the Constitution?"
+                },
+                {
+                    "start": 1639.07,
+                    "stop": 1675.71,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think, within the Constitution, we have the -- you know, the power to conduct commerce with Indian tribes, which recognizes that tribes are separate sovereigns in -- in a sense, and it comes from this Court's cases construing inherent tribal authority, which I think reflect that tribes do retain some authority. I think the Constitution simply recognizes that. I don't think it's -- I don't think the authority we're discussing today is -- is affirmatively granted by the Constitution."
+                },
+                {
+                    "start": 1675.71,
+                    "stop": 1686,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I -- it's not affirmatively granted by the Constitution. You also said it's not affirmatively granted by Congress, I think you said in response to Justice Sotomayor. Correct?"
+                },
+                {
+                    "start": 1686,
+                    "stop": 1715.955,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right. I -- I -- I would just emphasize, Justice Kavanaugh, that I do think it is recognized by both of those sources, but I don't think that it is -- we're not looking to some specific provision of either of them as the source of the authority. I -- I think the way the Court has looked at this kind of question is whether it's been withdrawn, as Justice Gorsuch was just saying, and nothing has withdrawn it."
+                },
+                {
+                    "start": 1715.955,
+                    "stop": 1741.48,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The other side says this is, in effect, a separation of powers case and that Congress has given the executive the authority to enter into cross-deputization and that hasn't been done here and that, instead of the courts jumping in, we should let Congress and the Executive Branch fill any public policy holes that may exist. Your response?"
+                },
+                {
+                    "start": 1741.48,
+                    "stop": 1796.88,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think I have three responses. One is 25 U.S.C. 2806(d), as I was just mentioning to Justice Gorsuch, which preserves the preexisting authority. The second is, as we lay out in our reply brief, the cross-designation authority is great -- contemplated as a greater authority here and requires agreements that have monitoring and compliance requirements for tribes that present difficulties. And, third, the current cross-designation statutes don't address the issue of steam law, for example, and so we're left with, if we really were trying to solve this problem by cross-designation, it would take some new acts of Congress. And that could be said in any inherent authority case."
+                },
+                {
+                    "start": 1796.88,
+                    "stop": 1798.115,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Feigin."
+                },
+                {
+                    "start": 1798.115,
+                    "stop": 1799.385,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Barrett."
+                },
+                {
+                    "start": 1799.385,
+                    "stop": 1848.125,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feigin, I'd like to go back to your interchange with Justice Gorsuch. You said that the authority -- the investigative authority doesn't extend past Terry stops into arrests because arrests mark the beginning of the adjudicatory process. We -- I -- I didn't quite follow whether you were saying to Justice Gorsuch that the reason why tribes lack authority to arrest is because they are implicitly divested of that authority under the Constitution, so even under the Colville rationale or whether it's the cross-deputization statutes or whether it's our prior cases making clear that tribes lack the authority to finally adjudicate the rights, criminally or civilly, of non-members. So could you just explain to me what it is that takes away that authority, or is it that they never possessed it in the first place?"
+                },
+                {
+                    "start": 1848.125,
+                    "stop": 1929.335,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think they did possess it in the first place, Justice Barrett, just the same way the Court recognized in Di Re and Miller that states have that authority. I -- I mean, if the Court wants to say that they have that authority, I wouldn't resist it necessarily, but I do think that this Court's decisions primarily that recognize that non-Indians cannot be subject to tribal adjudication is one line of demarcation. And, also, as I suggested to Justice Gorsuch and I think fleshed out a little bit more with Justice Kavanaugh, I think the cross-designation statutes at least contemplate that there will be some kind of affirmative conferral of authority if tribal officers are to conduct arrests that effectively stand in the shoes of federal officer arrests. So I would probably draw the line before we reach that point. And I think, you know, the -- the authority that we're urging here today does stop short of that point because it requires immediately, as soon as reasonable, contacting state and federal authorities."
+                },
+                {
+                    "start": 1929.335,
+                    "stop": 1968.87,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, this is my problem, and I'm not suggesting that I think we should say that it stretches that far, but I'm trying to figure out what rationale says that the tribes would retain the authority to do a Terry stop but not to arrest, particularly when you think about the fact that, I mean, one -- one reason for the practical problems that you identify is that it's difficult for federal or state authorities to police the public rights-of-way that go through reservations. So, if a tribal officer does a Terry stop, I mean, a Terry stop's supposed to be temporary, who knows how long it might take for a state or federal officer to get there. And then, at some point, you know, as you -- I don't know, at some point, it seems like that would mature into an arrest."
+                },
+                {
+                    "start": 1968.87,
+                    "stop": 2003.21,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, let me -- let me just try to clarify this. I -- I think, in some sense, we're having a little bit of just a terminological debate about what an arrest means. There may be some things that would be colloquially considered an arrest but not formally considered an arrest, and we do think the tribe can do that. As our brief makes clear, we do think they can hold a suspect on probable cause for a reasonable period of time for hand-over, unless and until state and federal authorities tell the tribe that they don't want the person."
+                },
+                {
+                    "start": 2003.21,
+                    "stop": 2008.61,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, my time is up, but I'll just say it seems to me that under the Fourth Amendment that is an arrest, but thank you, Mr. Feigin."
+                },
+                {
+                    "start": 2008.61,
+                    "stop": 2011.645,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A minute to wrap up, counsel."
+                },
+                {
+                    "start": 2011.645,
+                    "stop": 2072.87,
+                    "speaker": {
+                        "name": "Eric J. Feigin",
+                        "ID": 22289,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Your Honor. I just want to emphasize how unworkable the regime that the Ninth Circuit and Respondent contemplate would be. It would require an uncertain on-the-spot determination of someone's tribal status or Indian status, which is often impossible to do, land status, which is often impossible to do. I don't really think there have been any cases fleshing out the apparent or obvious standard contemplated by the Ninth Circuit or really exploring the mere authority of private citizens arrests, which is what Respondent would leave them with. And it would curtail policing activity that everyone depends on, the ability to respond to a 911 call, like in Navarette, the ability to stop and frisk someone who's casing a jewelry store on non-tribal fee land, like in Terry against Ohio itself. Thank you."
+                },
+                {
+                    "start": 2072.87,
+                    "stop": 2076.13,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Henkel."
+                }
+            ],
+            "start": 1609.405,
+            "stop": 2193.9
+        },
+        {
+            "turns": [
+                {
+                    "start": 2076.13,
+                    "stop": 2193.9,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: This case is resolved by the fundamental propositions that Indian tribes do not possess sovereign authority over non-Indians and that Congress has plenary authority over Indian affairs. The decision below should be affirmed because the detention, search, and arrest of a non-Indian by a tribal officer exceeds tribal self-government authority. I have three basic points to make today. First, Indian tribes do not have inherent police power over non-Indians, especially on non-tribal lands. Second, Congress addressed this issue by giving the Executive Branch broad authority to cross-deputize tribal officers to investigate and police federal crime in Indian country. Finally, no matter why the tribal officer in this case was not cross-deputized, that fact is not a basis to find inherent tribal police power over non-Indians. Instead, it is a basis to respect separation of powers and defer to Congress's plenary authority. The government disregards the unique and limited character of inherent tribal sovereignty. It not only asks this Court to find inherent tribal authority to regulate and police the conduct of non-Indians; it insists that tribes have unlimited authority to police all persons and to enforce all tribal, state, and federal laws governing Indian country. And the government claims this sweeping police authority over U.S. citizens is consistent with overriding federal interests, even though tribes exercise that authority outside the structure of the Constitution, free of political accountability, and cloaked with immunity from civil liability. The government's position is untenable. It ignores that tribal sovereignty is confined to managing tribal land, protecting tribal self-government, and controlling internal relations. In this case, because the exercise of police authority over Mr. Cooley was unrelated to any of these limited interests, the Crow Tribe exceeded its sovereign authority. The decision below should be affirmed."
+                },
+                {
+                    "start": 2193.9,
+                    "stop": 2267.90000005,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, I -- I think, as Justice Kagan summarized, there's a very important distinction with -- of broader applicability than this case over how you should look at it. Your friend on the other side says there's inherent authority and it hasn't been take -- the question is whether it's been taken away. He cites Colville. I understand your argument to be that, under Montana and subsequent cases interpreting it, there is no inherent authority. But even under Montana, there are exceptions, exceptions in which we've recognized that there is continuing inherent authority, and I wonder why the second exception doesn't apply here. That exception is when the conduct at issue threatens tribal self-governance, self-rule, which we've talked about in terms of political integrity, economic security, health and welfare. What could threaten that more than the idea that you can't do anything about somebody within the reservation that you have good reason to believe is violating criminal law? It would seem to me that's the prototypical case for the exception."
+                },
+                {
+                    "start": 2267.90000005,
+                    "stop": 2285.165,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Mr. Chief Justice, I think we need to start by looking at what this Court said about the second Montana exception in Atkinson Trading Company and Plains Commerce Bank. Those two decisions severely limit the application of the second Montana exception."
+                },
+                {
+                    "start": 2285.165,
+                    "stop": 2313.99,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. I think that's a fair -- fair description, but those were, as has been pointed out, regulatory, civil, adjudicatory, and you can certainly argue it makes sense to have a very limited view in -- in that context. But, when you're talking about on-the-ground criminal activity, I wonder if the exception should not be as narrow as it is in those other contexts?"
+                },
+                {
+                    "start": 2313.99,
+                    "stop": 2367.15,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think, here, it's important to look at the status of the land. This is a state highway running through a reservation. There is no landowner's right to exclude. Mr. Cooley was parked on the shoulder. He -- nothing about what he was doing when he was parked there had anything to do with, you know, tribal internal relations or tribal self-government. And so I think it's important to start from the general proposition about what the -- what tribal sovereignty is, which it's confined to managing tribal land, protecting tribal self-government, and controlling internal relations. And, here, none of that was implicated. Officer Saylor was enforcing non-tribal laws against a non-Indian. That has nothing to do with the internal relations of the tribe or tribal self-governance."
+                },
+                {
+                    "start": 2367.15,
+                    "stop": 2368.605,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Thomas."
+                },
+                {
+                    "start": 2368.605,
+                    "stop": 2427.2,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Chief Justice. I'd like to continue along that line, counsel. The -- let's change the -- the facts in this case just a bit so that rather than the police officer looking and determining that the Respondent was nervous and that he may -- had bloodshot eyes; rather, he fit the description of a serial killer that the police officer was alerted to, a serial killer who did not commit any of the crimes on the reservation but happened to be exactly where Respondent was. How would you -- would you make the exact same argument in that case?"
+                },
+                {
+                    "start": 2427.2,
+                    "stop": 2435.41,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I -- Justice Thomas, I think it would be important to know how the tribe came to know about the -- the serial killer being --"
+                },
+                {
+                    "start": 2435.41,
+                    "stop": 2463.435,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I just -- the only facts I've changed in your case, in this case, is that rather than the Respondent being there with bloodshot eyes and sleepy, et cetera, he fit the description that the police officer heard over his radio of a serial killer, but, other than that, all the facts are the same."
+                },
+                {
+                    "start": 2463.435,
+                    "stop": 2468.89499995,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I think, in that circumstance, the tribal officer could detain."
+                },
+                {
+                    "start": 2468.89499995,
+                    "stop": 2470.435,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 2470.435,
+                    "stop": 2491.345,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It -- it sounds like he has reliable information coming from, presumably, state or federal law enforcement about this wanted individual. But I do not think that the tribal officer would have authority to investigate and -- and search beyond just trying to determine the person's identity and whether they fit the description."
+                },
+                {
+                    "start": 2491.345,
+                    "stop": 2508.05999995,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So why does he have the authority to -- to detain there but not here when he has suspicions about possibly, not entirely, weapons and drugs?"
+                },
+                {
+                    "start": 2508.05999995,
+                    "stop": 2569.055,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, because I think that in -- in the hypothetical that you posed, again, I am assuming that state or federal law enforcement is the one who put out a BOLO for a -- for a serial killer, and that circumstance, to me, is far different from what we had here, where, after an initial welfare check, Officer Saylor launched into a full-fledged criminal investigation, where he proceeded to ultimately pull Mr. Cooley out of the car at gunpoint and investigate him for suspected drug activity and -- and put him in the back of the patrol unit and then went and searched the vehicle. I think, there, there is -- there's nothing there -- there was -- there was certainly no apparent or obvious crime, as the Ninth Circuit found, and I think that's a critical difference between what happened here and your hypothetical, where there's presumably state or federal law enforcement putting out some sort of notice instructing tribes to look for this person."
+                },
+                {
+                    "start": 2569.055,
+                    "stop": 2570.15,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 2570.15,
+                    "stop": 2571.315,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Breyer."
+                },
+                {
+                    "start": 2571.315,
+                    "stop": 2578.91,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'd like to continue. What -- what -- what exactly do you think the tribal officer can do and what can't he do and why?"
+                },
+                {
+                    "start": 2578.91,
+                    "stop": 2581.935,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Under the facts of this case?"
+                },
+                {
+                    "start": 2581.935,
+                    "stop": 2587.695,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, just in general. I mean, what is the rule? What are the rules that you're -- you're advocating?"
+                },
+                {
+                    "start": 2587.695,
+                    "stop": 2594.83,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That the tribal officer needs to first ascertain Indian status when we're -- when we're on non-tribal lands, like we are --"
+                },
+                {
+                    "start": 2594.83,
+                    "stop": 2597.57,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so how does he do that? I mean --"
+                },
+                {
+                    "start": 2597.57,
+                    "stop": 2602.31,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think there's a -- I think -- yeah, I think there's a number of ways that he or she could do that."
+                },
+                {
+                    "start": 2602.31,
+                    "stop": 2623.705,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But he's not an Indian. It turns out he's not an Indian tribe member. I mean, you know, people look -- you can't just look at them and see whether -- whether they're Indians or not or -- people look different, so I think that would be a tough one to do. But -- but suppose he turns out -- doesn't look like a member of the tribe. Then what?"
+                },
+                {
+                    "start": 2623.705,
+                    "stop": 2631.25,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, as the Ninth Circuit concluded, you could -- the officer -- officer could start by asking. If the officer is concerned about the truthfulness --"
+                },
+                {
+                    "start": 2631.25,
+                    "stop": 2632.285,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He's drunk."
+                },
+                {
+                    "start": 2632.285,
+                    "stop": 2643.02,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if -- if we're talking about being in Montana, for example, we have eight federally recognized tribes in Montana, all of whom issue tribal identification cards and all of whom --"
+                },
+                {
+                    "start": 2643.02,
+                    "stop": 2644.945,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Doesn't have one."
+                },
+                {
+                    "start": 2644.945,
+                    "stop": 2651.61,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Then -- then he could go radio in -- he could get a driver's license and go radio in to tribal dispatch to have the tribal --"
+                },
+                {
+                    "start": 2651.61,
+                    "stop": 2662.625,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It looks like he's going to take off as soon as you get out of the car or stop or go away from the car. You can detain him there. You can detain him there while you radio. Who do you radio?"
+                },
+                {
+                    "start": 2662.625,
+                    "stop": 2666.195,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You could radio tribal dispatch or state dispatch."
+                },
+                {
+                    "start": 2666.195,
+                    "stop": 2672.725,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They all have that and they know everybody who's in the tribe and they say, yes, we have a man named Mr. Smith in this tribe. Then what?"
+                },
+                {
+                    "start": 2672.725,
+                    "stop": 2675.33,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Then they can come out to the scene."
+                },
+                {
+                    "start": 2675.33,
+                    "stop": 2679.14,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, they can come out to the scene, but they might be busy. Maybe --"
+                },
+                {
+                    "start": 2679.14,
+                    "stop": 2679.26,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 2679.26,
+                    "stop": 2680.53,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- it's a long way away."
+                },
+                {
+                    "start": 2680.53,
+                    "stop": 2690.12,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- and -- and that's exact -- I think all of these problems that are being posed are -- is exactly why Congress provided for cross-deputization, because it eliminates all of these problems."
+                },
+                {
+                    "start": 2690.12,
+                    "stop": 2693.78,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And how does that work?"
+                },
+                {
+                    "start": 2693.78,
+                    "stop": 2694.94,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "How does cross-deputization work?"
+                },
+                {
+                    "start": 2694.94,
+                    "stop": 2695.08,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 2695.08,
+                    "stop": 2703.8,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Cross-deputization works by the BIA cross-deputizing tribal officers to police and investigate federal crime in Indian country. So they have to enter into agreement with the BIA."
+                },
+                {
+                    "start": 2703.8,
+                    "stop": 2707.84500005,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And how does that -- how many of them have done that?"
+                },
+                {
+                    "start": 2707.84500005,
+                    "stop": 2729.36,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- the last statistics that I was able to find were a 2002 report by the Bureau of Justice Statistics, which indicated that 99 percent of tribal law enforcement agencies have cross-deputization agreements with either the BIA, neighboring state authorities, or neighboring tribal authorities."
+                },
+                {
+                    "start": 2729.36,
+                    "stop": 2733.84,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, in your opinion, this is a non-problem? All they have to do is get the right paper?"
+                },
+                {
+                    "start": 2733.84,
+                    "stop": 2745.39,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In my opinion, this is -- this -- this situation is in the minority of situations. I think, in the vast majority of situations, there is going to be a duly cross-commissioned tribal officer."
+                },
+                {
+                    "start": 2745.39,
+                    "stop": 2747.545,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Thank you."
+                },
+                {
+                    "start": 2747.545,
+                    "stop": 2749,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Alito."
+                },
+                {
+                    "start": 2749,
+                    "stop": 2819.73000005,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, it does seem to me that determining whether a person is an Indian, which can mean a member of any tribe, not just the particular tribe whose land is at issue, may be more difficult than you suggest. But what is the tribal officer supposed to do after determining pretty clearly that a person is not an Indian? So consider the situation where the tribal officer has reasonable suspicion that a driver is driving under the influence and would present a danger if allowed to continue to drive, but the officer is pretty certain this person is not an Indian. Let's say the -- the person has a -- a -- a European Union driver's license and shows plane tickets showing that the person arrived in San Francisco two days ago. So it's pretty clear that this person is not an Indian but would present a danger if allowed to continue. What can the tribal officer do there? Just let the person go?"
+                },
+                {
+                    "start": 2819.73000005,
+                    "stop": 2847.76,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I think, if the conduct rises to the level of a potential, you know, ongoing active breach of the peace where public safety is in jeopardy, I think, in that circumstance, that would fit under the Ninth Circuit's apparent standard. But -- but, again, it's going to be fact-dependent. Like here, in this case, Officer Saylor said, well, Mr. Cooley's eyes were bloodshot, but, as he acknowledged, that wasn't nearly enough for him to determine whether or not he was, in fact, drunk."
+                },
+                {
+                    "start": 2847.76,
+                    "stop": 2862.46,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Well, so this person -- the person is not so drunk that it's plain that alcohol is above the level, but the officer has reasonable suspicion. Can the officer ask the person to come out of the car and perform a field sobriety test?"
+                },
+                {
+                    "start": 2862.46,
+                    "stop": 2864.44,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe so. No, he can't."
+                },
+                {
+                    "start": 2864.44,
+                    "stop": 2867.345,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So he just has to let that person go?"
+                },
+                {
+                    "start": 2867.345,
+                    "stop": 2873.585,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He can call and radio in to state or federal authorities to come to the scene."
+                },
+                {
+                    "start": 2873.585,
+                    "stop": 2878.705,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I thought you said that the person can't be detained during that interim period."
+                },
+                {
+                    "start": 2878.705,
+                    "stop": 2882.305,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if he's assess -- if he's trying to ascertain Indian status."
+                },
+                {
+                    "start": 2882.305,
+                    "stop": 2887.09,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the person is not an Indian, 99 percent clear not an Indian."
+                },
+                {
+                    "start": 2887.09,
+                    "stop": 2895.27,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He -- he -- he could certainly ask the individual to stay there while he contacts law enforcement. But can he officially detain? No, I do not think so."
+                },
+                {
+                    "start": 2895.27,
+                    "stop": 2905.27,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's voluntary. All right. So does it depend on the severity of the offense? What if it is a situation where he has reasonable suspicion that this person had -- is a murderer?"
+                },
+                {
+                    "start": 2905.27,
+                    "stop": 2910.73,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If he's got reasonable suspicion that this person's a murderer?"
+                },
+                {
+                    "start": 2910.73,
+                    "stop": 2910.85,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2910.85,
+                    "stop": 2940.98,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I don't think he has enough because reasonable suspicion is such a low threshold. I mean, what -- what is that -- what are -- what are the surrounding facts that -- that -- I think that, ultimately, if this -- if there's information that somebody is a serial killer and they're about to run into a school, again, when -- when there's some sort of active breach of the peace, some sort of imminent threat of violence, there is -- there's a reason at that point to step in and just detain. And I think that comports with the Ninth Circuit's standard."
+                },
+                {
+                    "start": 2940.98,
+                    "stop": 2943.18999995,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 2943.18999995,
+                    "stop": 2945.49,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Sotomayor."
+                },
+                {
+                    "start": 2945.49,
+                    "stop": 2956.63,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, if they're not authorized by law to make -- to do investigations, why are they subject to the Fourth Amendment --"
+                },
+                {
+                    "start": 2956.63,
+                    "stop": 2958.42,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, they're not strictly --"
+                },
+                {
+                    "start": 2958.42,
+                    "stop": 2961.43,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- to the Fourth Amendment's exclusionary rule?"
+                },
+                {
+                    "start": 2961.43,
+                    "stop": 2968.11,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, they're not strictly subject to the Fourth Amendment. It's the Fourth Amendment counterpart under the Indian Civil Rights Act."
+                },
+                {
+                    "start": 2968.11,
+                    "stop": 3002.435,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is that subject to the exclusionary rule? Meaning, assuming for the sake of argument that the Indians have a patrol or any neighborhood group has a patrol in their neighborhood and a -- they see someone who they have reasonable suspicion about and detain them for arrest. Would that security -- would that -- any items seized by that person be subject to suppression?"
+                },
+                {
+                    "start": 3002.435,
+                    "stop": 3004.3,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, they would."
+                },
+                {
+                    "start": 3004.3,
+                    "stop": 3005.305,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 3005.305,
+                    "stop": 3006.42,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because --"
+                },
+                {
+                    "start": 3006.42,
+                    "stop": 3010.01000005,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a private security force on my private land."
+                },
+                {
+                    "start": 3010.01000005,
+                    "stop": 3011.04,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well --"
+                },
+                {
+                    "start": 3011.04,
+                    "stop": 3016.35,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or even on the street around my private land. Why are they subject to the Fourth Amendment?"
+                },
+                {
+                    "start": 3016.35,
+                    "stop": 3017.25,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the government --"
+                },
+                {
+                    "start": 3017.25,
+                    "stop": 3018.82,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not the government acting."
+                },
+                {
+                    "start": 3018.82,
+                    "stop": 3021.46,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The government concedes that the exclusionary rule --"
+                },
+                {
+                    "start": 3021.46,
+                    "stop": 3021.63,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know they --"
+                },
+                {
+                    "start": 3021.63,
+                    "stop": 3023.36,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- applies to violations that --"
+                },
+                {
+                    "start": 3023.36,
+                    "stop": 3033.17,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- helped you out by -- I know they helped you out by that. But it seems to me they should have argued in the alternative, but that would have been my litigation strategy. I'm asking you a question."
+                },
+                {
+                    "start": 3033.17,
+                    "stop": 3034.175,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure. So --"
+                },
+                {
+                    "start": 3034.175,
+                    "stop": 3044.77,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That question is, why are they subject to the Fourth Amendment, outside of the government's concession?"
+                },
+                {
+                    "start": 3044.77,
+                    "stop": 3051.34,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I guess let me answer it by explaining what I think the deterrent effect is. I think that recognizing a tribal --"
+                },
+                {
+                    "start": 3051.34,
+                    "stop": 3078.86,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Fourth Amendment -- that -- that has to do with you asking us to create another rule. I'm asking you, under the rules as they exist right now, if you don't consider them sovereign and you don't consider them acting on behalf of the government because they're not deputized, why are they subject to the Fourth Amendment? Why is anything they found subject to the Fourth Amendment suppression rule?"
+                },
+                {
+                    "start": 3078.86,
+                    "stop": 3084.49,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because the Indian Civil Rights Act includes a Fourth Amendment counterpart, and it -- it -- it equals --"
+                },
+                {
+                    "start": 3084.49,
+                    "stop": 3087.04,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Whether it's a counterpart or not, it's not the Fourth Amendment."
+                },
+                {
+                    "start": 3087.04,
+                    "stop": 3088.46,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right, there's no --"
+                },
+                {
+                    "start": 3088.46,
+                    "stop": 3090.905,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Fourth Amendment says only private actors. Putting --"
+                },
+                {
+                    "start": 3090.905,
+                    "stop": 3093.96,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The Fourth Amendment --"
+                },
+                {
+                    "start": 3093.96,
+                    "stop": 3116.92499995,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- that aside, counsel, what would happen if I, as a private citizen, had reasonable suspicion that someone was a danger, Justice Alito's hypothetical? Would I be justified -- of a drunken driver -- would I be justified in holding that person?"
+                },
+                {
+                    "start": 3116.92499995,
+                    "stop": 3128.3,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That would be pure citizens arrest analysis. You could potentially be subject to a civil claim for false imprisonment, but, certainly, any evidence that you seize isn't going to be subject to suppression for a private act --"
+                },
+                {
+                    "start": 3128.3,
+                    "stop": 3137.685,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it false imprisonment if it turns out that the other side -- well, you would say just the detention itself would subject me to liability. Okay. Thank you, counsel."
+                },
+                {
+                    "start": 3137.685,
+                    "stop": 3138.26,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right. Right."
+                },
+                {
+                    "start": 3138.26,
+                    "stop": 3139.07,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Kagan."
+                },
+                {
+                    "start": 3139.07,
+                    "stop": 3169.9,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Henkel, the government relies in some significant measure on the idea of cross-enforcement authority, in other words, the belief that sovereigns generally have the power to respond to potential violations of another sovereign's laws. Are you contesting that that authority generally exists, in other words, outside the Indian context, or are you accepting that but just saying it's -- it's different in the Indian context?"
+                },
+                {
+                    "start": 3169.9,
+                    "stop": 3232.45,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I'm not accepting that, no. I -- I think the first place to start is a line of analysis that this Court gave in Plains Commerce Bank, where the Court expressly rejected, you know, drawing some sort of parallel between tribal authority and what state and federal authorities they can do. Those -- that line of argument, this Court said, completely overlooks the very reasons that cases like Montana and Oliphant and this one even exist, which is that the sovereign authority of Indian tribes is limited in ways state and federal authority is not. And the -- and the way that it's more limited is because they are not full territorial sovereigns. They do not have authority over all who come within their borders. So I think, when you start from that proposition and then you're -- any analysis -- any analogy to, you know, state authority to enforce federal law and -- and vice versa, I mean, there's -- there's no comparison right out of the gate because states and federal authorities are full territorial sovereigns."
+                },
+                {
+                    "start": 3232.45,
+                    "stop": 3232.775,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. So --"
+                },
+                {
+                    "start": 3232.775,
+                    "stop": 3233.91,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They have sovereign authority."
+                },
+                {
+                    "start": 3233.91,
+                    "stop": 3257.225,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- so -- so you're really -- I mean, on the -- the two alternatives I gave you, you're really resting on the idea that tribal authority is just different from state authority, so that even if we were to find a lot of cross-enforcement as between state officers or as between state officers and the federal government, that doesn't carry over? That's what you're saying?"
+                },
+                {
+                    "start": 3257.225,
+                    "stop": 3257.76,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3257.76,
+                    "stop": 3259.27,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And -- and --"
+                },
+                {
+                    "start": 3259.27,
+                    "stop": 3259.66,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is what I'm --"
+                },
+                {
+                    "start": 3259.66,
+                    "stop": 3262.085,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you don't contest the premise?"
+                },
+                {
+                    "start": 3262.085,
+                    "stop": 3266.91,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, not generally, I do not. I think that -- no, I -- I don't -- I don't contest it."
+                },
+                {
+                    "start": 3266.91,
+                    "stop": 3279.64,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because, for example, you cite Professor Kerr in your brief, and Professor Kerr contests the premise very -- pretty strongly, that there's a whole lot of cross-enforcement -- clear cross-meant -- cross-enforcement authority."
+                },
+                {
+                    "start": 3279.64,
+                    "stop": 3330.32,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I -- it -- I think that the issue on -- with cross-enforcement is potentially this: I mean, right now, many state arrests lead to federal prosecutions. It happens all the time. But, usually, the -- the initial state investigation is investigating state crime, violations of state law, which makes sense because the police power is in -- in the state, there's more criminal laws that -- that -- that states adopt. And then -- so there's a legitimate state investigation, and then they ultimately work with the federal government on handing over the evidence, and there's a federal prosecution. I think a more interesting question is posed when a state doesn't actually punish particular conduct and they're acting purely to enforce federal law. I think there's a potential problem there. I don't think it has anything to do with this case."
+                },
+                {
+                    "start": 3330.32,
+                    "stop": 3331.26,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Henkel."
+                },
+                {
+                    "start": 3331.26,
+                    "stop": 3332.09,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That would just --"
+                },
+                {
+                    "start": 3332.09,
+                    "stop": 3333.24,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Gorsuch."
+                }
+            ],
+            "start": 2076.13,
+            "stop": 3386.41
+        },
+        {
+            "turns": [
+                {
+                    "start": 3333.24,
+                    "stop": 3386.41,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Good morning, counsel. A question for you that I actually would have liked to have gotten to with Mr. Feigin, but time didn't permit. Hopefully, you have some thoughts on it as well. Let's say -- just work with me for the moment and suppose that there is some permissible role here for tribal authorities, and also suppose that in the course of a stop, that the tribal authority engages in some conduct that would violate the Constitution and that your client wanted to pursue a civil claim for that violation if -- if -- of course, in -- in the state context, there would be 1983; in the federal officer context, there would be Bivens. What -- what remedy would be available -- perhaps you haven't given this thought, but, if you have, I'm curious what remedy you think might be available against a tribal officer. Would there be a state law remedy? Would there be some federal remedy? What -- what thoughts do you have there?"
+                },
+                {
+                    "start": 3386.41,
+                    "stop": 3427.01,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think there would be any remedy in terms of a private cause of action for civil damages. Certainly, tribal officers aren't mentioned in 1983. You can't bring a claim -- claim against a tribe because they have sovereign immunity. You could potentially try to sue the tribe in tribal court, but the likelihood of that being successful is -- is not very good. And, ultimately, in that -- in that situation, even if you could sue them in tribal court, you can't get it into state or federal court, so this Court doesn't sit at the end of the line there. So I think there's very -- there's virtually no remedy other than exclusion of evidence in this circumstance."
+                },
+                {
+                    "start": 3427.01,
+                    "stop": 3431.245,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have you thought -- and -- and you agree, though, that there would be exclusion under IRCA, right?"
+                },
+                {
+                    "start": 3431.245,
+                    "stop": 3431.84,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3431.84,
+                    "stop": 3440.865,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And then, on -- on -- on the -- on the tort front, have you thought about a state law remedy, a state tort suit, state court --"
+                },
+                {
+                    "start": 3440.865,
+                    "stop": 3441.205,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I --"
+                },
+                {
+                    "start": 3441.205,
+                    "stop": 3449.76,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- for something that happens on the -- either fee-simple land or, as here, a -- you know, a right-of-way?"
+                },
+                {
+                    "start": 3449.76,
+                    "stop": 3459.925,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh, so -- well, the Montana Supreme Court has found, I believe, that tribal officers are under tribal sovereign immunity --"
+                },
+                {
+                    "start": 3459.925,
+                    "stop": 3460.36,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 3460.36,
+                    "stop": 3461.07,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- for police activity --"
+                },
+                {
+                    "start": 3461.07,
+                    "stop": 3461.22,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 3461.22,
+                    "stop": 3463.53,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "-- when it comes to non-Indians, so at least not in Montana."
+                },
+                {
+                    "start": 3463.53,
+                    "stop": 3465.34,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Thank you, counsel. Perhaps --"
+                },
+                {
+                    "start": 3465.34,
+                    "stop": 3466.29,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Kavanaugh."
+                },
+                {
+                    "start": 3466.29,
+                    "stop": 3467.395,
+                    "speaker": {
+                        "name": "Neil Gorsuch",
+                        "ID": 62836,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- Mr. Feigin can help with that."
+                }
+            ],
+            "start": 3333.24,
+            "stop": 3575.78
+        },
+        {
+            "turns": [
+                {
+                    "start": 3467.395,
+                    "stop": 3575.78,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Chief Justice. And good morning, Mr. Henkel. You make what I think are forceful separation-of-powers arguments, particularly that Congress has provided for cross-deputization, and that was not taken advantage of here. So I take that point, and that's an important one for me. But, at the same time, a couple other thoughts that I'll throw out there, and then you can react to them. The amicus brief from the former U.S. Attorneys says that \"criminal jurisdiction in Indian country is an indefensible morass of complex, conflicting, and illogical commands layered in over decades via congressional policies and court decisions and without the consent of tribal nations.\" And I don't think you're going to disagree with that description necessarily, and so that leads me to think that one of the things we should be trying to do here is -- is to do no harm because there's lots of ripple effects from a broad decision. And with that in mind, there are statements in our decisions in Duro and Strate that really cut directly against you, as you're -- you're well aware. And you can say those are dicta, and that might be correct, but those have guided the law -- law enforcement for several decades. I think Congress and the executive could reasonably rely on those statements in the Court's decision. Certainly, the Cohen treatise treats those statements as authoritative in terms of guidance. So why isn't the best thing we can do here just to stick with what we said in those cases? It's not very analytically satisfying, but it's a narrow result. It does not make a morass, as it was described, any worse. What do you think?"
+                },
+                {
+                    "start": 3575.78,
+                    "stop": 3581.65,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You mean stick with the -- the statements about detaining and ejecting from the reservation?"
+                },
+                {
+                    "start": 3581.65,
+                    "stop": 3583.08,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3583.08,
+                    "stop": 3609.46,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I -- I think those statements are -- the problem with those beyond -- you're -- you're right, I -- I think they're dicta, and I think that they -- Duro, for example, was talking about the exclusion power, which we don't have here. But the biggest problem I see under your proposal is that the Court has not defined the source or the scope of what this detain-and-eject power is."
+                },
+                {
+                    "start": 3609.46,
+                    "stop": 3639.005,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's why -- that's why I said it's not analytically all that satisfying, but it's been out there for 30 years, and as described in the Cohen handbook, which is useful, as you -- you're well aware, it says, \"The Supreme Court has consistently reaffirmed the authority of tribal police to arrest offenders within Indian country and detain them until they can be turned over to the proper authorities, even if the tribe itself would lack criminal jurisdiction.\" That's the black-letter description."
+                },
+                {
+                    "start": 3639.005,
+                    "stop": 3684.37,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I think the terms \"arrest,\" \"detain,\" and \"turn over\" are being used fairly loosely. I think we -- what -- what's happening -- look at what happened here. There was a detention, an investigation, pulling Mr. Cooley out of the car, putting him in the back of the patrol unit, which I would argue is an arrest, and then going back to his vehicle multiple times to search it for, you know, evidence of crime. And that is far -- I -- I don't think this Court was saying anything like that in Duro or in Strate. It was just they have a general power to eject outsiders from reservations. So I think that it would be more problematic to just stand on those statements going -- going forward."
+                },
+                {
+                    "start": 3684.37,
+                    "stop": 3685.12,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 3685.12,
+                    "stop": 3686.11,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Barrett."
+                },
+                {
+                    "start": 3686.11,
+                    "stop": 3769.59,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'd like to pick up where Justice Kavanaugh left off. I mean, on the one hand, as Justice Kavanaugh points out, it's not very analytically satisfying to rely on the dicta, particularly from the footnote in Strate. But I want to try this on -- you know, you say one problem with our -- you know, or the government's approach or an approach saying that there is some sort of retained authority to police here is that we haven't identified its scope or its source. But, you know, Montana and those cases that followed it relied pretty heavily on the unfairness of imposing tribal law on those who didn't participate in its creation. And in that respect, Strate's footnote is perfectly consistent with that because, as the United States pointed out in argument and in its brief, you know, Cooley and -- and other non-members of the tribe are represented in the creation of federal law. And so it doesn't pose that same problem here. It's -- it's far less of an unfairness, and Strate's footnote can be seen to be consistent with that principle, particularly if the United States is right that one way to understand Montana is that that is an instance of implied preemption that cashes out when you consider the assertion of authority to adjudicate finally civil or criminal liability or the imposition of regulations on those who didn't participate in its exercise. So can you explain to me why that would not be a way to reconcile the Strate footnote and the United States' proposed authority here?"
+                },
+                {
+                    "start": 3769.59,
+                    "stop": 3781.89,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, certainly, Mr. Cooley participates in the federal government, but Mr. Cooley does not participate in tribal government. He has no say in the laws and regulations. He has no way --"
+                },
+                {
+                    "start": 3781.89,
+                    "stop": 3791.535,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well -- well, I under -- I understand that. That was the premise of my question. But why is it unfair, on that rationale, simply to submit him to the authority of a police officer in a temporary stop?"
+                },
+                {
+                    "start": 3791.535,
+                    "stop": 3814.32,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because it's all happening outside the structure of the Constitution. And as my discussion with Mr. -- or Justice Gorsuch revealed, there's -- there's no remedy, there's no recourse here if something goes wrong, that if Mr. Cooley's civil rights are violated here, there -- there -- there's nothing he can do because of tribal sovereign immunity and this all occurring outside the structure of the Constitution. And --"
+                },
+                {
+                    "start": 3814.32,
+                    "stop": 3844.335,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well, let me -- let me just stop you there so I can ask this question too. Justice Thomas was asking you, you know, the same hypothetical as Mr. Cooley's stop but substituting in a serial killer. And -- and you said, well, if he fits the description, then maybe there might be able to be detention. And I assume that that might be an exercise of what the Ninth Circuit described as the apparent or obvious violation of law. That -- that's a new phrase, right? We have reasonable suspicion. We have probable cause. How do you tell if something's an apparent and obvious violation of the law?"
+                },
+                {
+                    "start": 3844.335,
+                    "stop": 3857.285,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I -- I think that the obvious and apparent standard is a product of the -- the rule at common law, which is that -- for private citizens arrests, which also apply to officers and territory --"
+                },
+                {
+                    "start": 3857.285,
+                    "stop": 3858.31,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how do you apply it?"
+                },
+                {
+                    "start": 3858.31,
+                    "stop": 3885.405,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yeah, so I think that it -- you apply it in terms of -- I forget who posed the hypothetical before of drugs being visible. Certainly, if drugs are visible, there is an apparent crime. But I also think there is a breach of the peace aspect when there's something imminent about to occur, when there's public safety that's, you know, in jeopardy and it's in jeopardy now, then there can -- there's authority to step in and detain."
+                },
+                {
+                    "start": 3885.405,
+                    "stop": 3886.655,
+                    "speaker": {
+                        "name": "Amy Coney Barrett",
+                        "ID": 63282,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel."
+                },
+                {
+                    "start": 3886.655,
+                    "stop": 3887.465,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 3887.465,
+                    "stop": 3889.51000005,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A minute to wrap up, counsel."
+                },
+                {
+                    "start": 3889.51000005,
+                    "stop": 3946.075,
+                    "speaker": {
+                        "name": "Eric R. Henkel",
+                        "ID": 63341,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice. The issue here is about inherent tribal authority over non-Indians. Through decades of consistent opinions, this Court has delineated the scope of that authority to exclude police power over non-Indians, especially on non-tribal lands such as the public right-of-way here, where Officer Saylor seized and searched Mr. Cooley. Moreover, to the extent this absence of tribal police authority creates a jurisdictional gap in reservation law enforcement, Congress has already filled the gap by providing for cross-deputization of tribal officers. The fact that relevant officials did not avail themselves of cross-deputization in this case does not justify usurping Congress's plenary authority with a judicial finding of inherent tribal authority. Mr. Cooley does not challenge tribal sovereignty. He simply asks that the boundaries of tribal sovereignty be respected as this Court has previously defined them. The court of appeals decision should be affirmed. Thank you."
+                },
+                {
+                    "start": 3946.075,
+                    "stop": 3950.37,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Rebuttal, Mr. Feigin?"
+                }
+            ],
+            "start": 3950.37,
+            "stop": 4129.04
+        }
+    ]
+}

@@ -1,0 +1,1689 @@
+{
+    "title": "Zafiro v. United States",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 27.233,
+                    "stop": 59.372,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The question presented is whether criminal defendants are entitled to separate trials when their defenses are mutually antagonistic. This case involved four defendants charged with narcotics violations. Each moved for severance based upon antagonistic defenses that he or she said were going to be presented at trial. The trial judge denied the motion, and the court of appeals affirmed--"
+                },
+                {
+                    "start": 59.372,
+                    "stop": 64.506,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did... there were four defendants, and did each one of them make a motion?"
+                },
+                {
+                    "start": 64.506,
+                    "stop": 65.958,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor, each made a motion."
+                },
+                {
+                    "start": 65.958,
+                    "stop": 69.477,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And did they want to be separates from all the other three?"
+                },
+                {
+                    "start": 69.477,
+                    "stop": 72.929,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. It was broken down in two separate pairs."
+                },
+                {
+                    "start": 72.929,
+                    "stop": 73.881,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I got it. Thank you."
+                },
+                {
+                    "start": 75.531,
+                    "stop": 80.952,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did Ms. Zafiro ever ask for severance?"
+                },
+                {
+                    "start": 80.952,
+                    "stop": 86.189,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--She did ask for severance at the trial level. She did not raise it in the appellate court, Your Honor."
+                },
+                {
+                    "start": 86.189,
+                    "stop": 89.908,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is she properly before the Court now?"
+                },
+                {
+                    "start": 89.908,
+                    "stop": 142.025,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would suggest under fundamental fairness she should be because if this Court finds that the antagonistic defenses are still a proper basis for severance, it had been raised previously, and she should still be considered in that position. In this case, it is the Government's... it the Government that is asking for a radical departure from the accepted rule of severance. Until now, although the circuits used different standards, there was a common element that ran through all of the decisions of each of the courts. If a defendant raised an antagonistic defense, he was entitled to severance."
+                },
+                {
+                    "start": 142.025,
+                    "stop": 150.714,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Cunniff, let me interrupt you for just... are all four of these people petitioners here, Zafiro, Martinez, Garcia, and Soto?"
+                },
+                {
+                    "start": 150.714,
+                    "stop": 259.283,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. The opinion of the court of appeals improperly relies upon civil law for its rationale using the analogy of interpleader and using the analogy of joint tort cases. In doing this, it fails to distinguish the fundamental differences between a civil trial and a criminal trial. And as this Court is aware, in a criminal case the defendant by law is presumed to be innocent. The burden never shifts to the defendant, and the burden of proof is beyond a reasonable doubt. In failing to distinguish between the civil case and the criminal case, there is a serious risk that a joint trial would confuse the jury and prevent the jury from making a reliable judgment about the guilt or innocence of one or more of the defendants. When co-defendants attack each other and attack each other's defenses before the jury, they blur together as one, and as a result, both defendants are likely to be convicted because neither defense is believed. In their antagonism, each lawyer becomes the government's champion against the other co-defendants. The resulting struggle makes each of the defendants vulnerable, as courts have held, to the insinuation that it's a conspiracy that would explain the conflict. The--"
+                },
+                {
+                    "start": 259.283,
+                    "stop": 276.761,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's one scenario. I suppose another one is that if you try them separately and they are both lying, each one will be acquitted, the other one being absent and declining to testify because he might tend to incriminate himself."
+                },
+                {
+                    "start": 276.761,
+                    "stop": 280.147,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's true, Your Honor."
+                },
+                {
+                    "start": 280.147,
+                    "stop": 281.53,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It looks like a hard choice."
+                },
+                {
+                    "start": 281.53,
+                    "stop": 311.332,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But again, in a criminal case it's not up to the defendant to have to prove his innocence, and this court decision actually results in a shifting of the burden of proof from the Government to the defendant because when the defendant gets up, he then not only has the burden of proving that he himself is telling the truth, he also must convince the jury that the co-defendant is lying."
+                },
+                {
+                    "start": 311.332,
+                    "stop": 322.29,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, he'd have to do that if the co-defendant weren't a co-defendant and chose to testify. Why is that... you know, you always have to respond to people who are making arguments against you."
+                },
+                {
+                    "start": 322.29,
+                    "stop": 351.226,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You would, Your Honor. If his co-defendant who has pled guilty or been found guilty who is testifying, in that situation the co-defendant says I'm guilty and my accomplice was the defendant on trial. It's different than in a situation where a defendant is on trial saying I am innocent, but it's the co-defendant who is really guilty, and for my defense to be believed, the co-defendant must be found guilty."
+                },
+                {
+                    "start": 351.226,
+                    "stop": 364.684,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, when you say shift the burden of proof, you're not talking in any literal sense, are you? The judge still charges the jury that the Government has the burden of proof beyond a reasonable doubt. You're simply talking as a practical matter?"
+                },
+                {
+                    "start": 364.684,
+                    "stop": 388.868,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm talking as a practical matter and also focusing in on the specific language of Judge Posner, if I can refer Your Honors to the opinion. The court said if it's, indeed, certain that one and only one of a group of defendants is guilty, the entire group should be tried together since in separate trials all might be acquitted or all convicted. In either case, it's a miscarriage of justice."
+                },
+                {
+                    "start": 388.868,
+                    "stop": 390.751,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's wrong with that statement?"
+                },
+                {
+                    "start": 390.751,
+                    "stop": 439.034,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The problem is that the difficulty is that you have a particular defendant who then's defense is going to become blurred. Let me give you perhaps an example. We have four defendants who are in a jail cell together, and one of the defendants is murdered. And the Government has no other evidence other than the fact one of the defendants in the jail cell is murdered, but there were only three other people there. Under this theory of Judge Posner, if all three were tried together, the jury would then be able to find which of the three... by the time that each made their presentation, if in fact one was made, the jury would be able to find which of the three committed the murder."
+                },
+                {
+                    "start": 439.034,
+                    "stop": 444.419,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what if they all refused to take the stand? The Government would have no proof."
+                },
+                {
+                    "start": 444.419,
+                    "stop": 456.829,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And in fact, that's the point I would try and make, Your Honor, because the Government would have to prove a particular defendant guilty with specific elements-- --proving specific elements."
+                },
+                {
+                    "start": 456.829,
+                    "stop": 477.159,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It still does to have its case go to the jury. As I understand the criminal law, the Government has to have evidence that tends to prove each of the elements of the crime against each defendant whose... against whom the case is sent to the jury. Nothing about the severance rules changes that, does it?"
+                },
+                {
+                    "start": 477.159,
+                    "stop": 502.957,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It doesn't, Your Honor, but what is does do is by not allowing severance, it no longer... by not allowing severance, the difficulty is each defendant is going to be prejudiced, and the jury is going to be unable to focus its attention on the individual defendant to determine whether or not the prosecution has met its burden of proving each and every element beyond a reasonable doubt. That's where the concern comes in."
+                },
+                {
+                    "start": 502.957,
+                    "stop": 515.015,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we needn't quibble, but in your hypothetical, I doubt that the Government has sufficient probable cause to enable it to indict all three people in the jail cell. That would be questionable enough in a civil suit."
+                },
+                {
+                    "start": 515.015,
+                    "stop": 538.715,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But again, in Judge Posner's opinion, he talks about specifically the analogy to interpleader and to joint tort cases, and when you're bringing those types of analogy into a criminal case, you're then talking about relative degrees of responsibility or relative degrees of fault which I'd respectfully suggest is inappropriate in a criminal case."
+                },
+                {
+                    "start": 538.715,
+                    "stop": 547.236,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But here there was no doubt in the world that this big suitcase of cocaine was brought to the apartment by one of these people."
+                },
+                {
+                    "start": 547.236,
+                    "stop": 559.896,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's... in fact, there's no doubt it was brought by both people. The issue is whether or not which if either, knew what the contents was of this very large package that was brought up to the apartment."
+                },
+                {
+                    "start": 559.896,
+                    "stop": 569.002,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And there would be a certain irony if... under the facts that we know about this case, if all four of these people were acquitted."
+                },
+                {
+                    "start": 569.002,
+                    "stop": 593.117,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There would be an irony, Your Honor, but I would suggest to Your Honor that that probably would not occur if, in fact, the Government was able to prove each of the defendants guilty and to show the knowledge which would be inferred by virtue of the fact of the possession without explaining what was contained in the suitcase or the package that was being carried by each individual."
+                },
+                {
+                    "start": 593.117,
+                    "stop": 613.679,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I suppose the trial court can give an appropriate instruction regarding the burden of proof on the part of the Government. And we normally assume that jurors will follow such instructions. Does that cure the concert that you have, do you think?"
+                },
+                {
+                    "start": 613.679,
+                    "stop": 638.294,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It does not, Your Honor, and it does not because it's the position of the petitioner that as a result of the antagonistic defense, when each defendant is going against the other defendant rather than the Government going against the defendant, what you have is a blurring and there's confusion. And the concern is there's a substantial likelihood that a conviction is going to result not because of the evidence--"
+                },
+                {
+                    "start": 638.294,
+                    "stop": 649.102,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me, but if we assume that a proper instruction is given, why do we have to assume there is confusion? I don't understand."
+                },
+                {
+                    "start": 649.102,
+                    "stop": 682.339,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The difficulty is the jury focuses in on each of the defendant's defenses, and because each is, in effect, saying the other person did it and I'm innocent, the concern of the other cases in all the other circuits that have considered this question is that the jury will be unable to differentiate between the defendant or the defendants. And that's the reason why up until this opinion, every other circuit recognized that antagonistic defenses should be a grounds for severance."
+                },
+                {
+                    "start": 682.339,
+                    "stop": 700.701,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I just don't understand that fully. It seems to me that the probability of a correct result, of a nonerroneous determination, is much higher where all of the witnesses can testify before the same trier of fact. It seems to me a very elemental proposition."
+                },
+                {
+                    "start": 700.701,
+                    "stop": 736.743,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The difficulty is in a criminal case, the question isn't whether or not a particular act was done. The question, I respectfully suggest, is whether or not the particular defendant has been charged with the particular... who has been charged with a particular crime is proved guilty of each of those elements of the crime beyond a reasonable doubt, not whether or not the act actually occurred, not whether or not the package was actually carried up by either of the two defendants, but whether or not the Government proved the elements, including knowledge of what was in the container, beyond a reasonable doubt. I would suggest, Your Honor, that would be the distinction."
+                },
+                {
+                    "start": 736.743,
+                    "stop": 814.66,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The Government in their brief takes the position that a single jury in a joint trial would have to virtually conclude that some of the petitioners are guilty. The jury's task would be to decide which, if any, of the petitioner's stories seemed plausible and convict those whose did not. That's the standard which the Government referred to in their brief. The difficulty with this standard is that's not the burden of proof. It's not up to a jury to determine which of the stories seem plausible, but it's up to the jury to determine whether or not the Government had met their burden of proof with respect to each element of the crime which he's charged. I suppose if the Government wanted to make sure they had that evidence that you object to from the other defendant, they... if they severed and they gave him immunity, you're going to have the same testimony against your client."
+                },
+                {
+                    "start": 814.66,
+                    "stop": 826.218,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor. There would be the same testimony, but that would be coming in an immunized situation as opposed to a co-defendant on trial saying that he himself is innocent."
+                },
+                {
+                    "start": 826.218,
+                    "stop": 829.17,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, it would be less plausible is what you're saying."
+                },
+                {
+                    "start": 829.17,
+                    "stop": 829.986,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 829.986,
+                    "stop": 848.181,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. You know, in a sense... I'm just trying to think this thing through. The two pairs... one testified and the other didn't testify at all, as I remember it. Like Soto testified that Garcia had the... knew the contents of the suitcase, and Garcia did not take the stand."
+                },
+                {
+                    "start": 848.181,
+                    "stop": 849.097,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 849.097,
+                    "stop": 875.249,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It would seem to me that in the joint trial one would be more apt to believe Soto simply because of the fact that the other defendant didn't get up on the stand and say anything. The jury might say, well, maybe he's telling the truth because nobody has denied this, whereas if he was there all by himself, he might be less apt to do it. I'm just not quite clear why it's... there is a greater probability of conviction on these facts than if they had been tried separately."
+                },
+                {
+                    "start": 875.249,
+                    "stop": 932.851,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because I think what occurs, Your Honor, is that when Garcia's attorney in closing argument took the contrary position and said really it was Soto who possessed, it was Soto's home, it was Soto's automobile, what in effect occurred was they had two co-defendants, in effect, trying each other and trying to convict each other rather than permitting the Government to convict... try to convict the defendant as a trial should actually proceed. And what you have here... and you can even take Your Honor's example further. If Soto testifies and testifies that really it's Garcia who did all of these things, and Garcia does not testify, it's solely Garcia's attorney in his closing argument which... who says it really was Soto. The courts instruct the jury that closing arguments are merely-- --the arguments of counsel and you're supposed to rely--"
+                },
+                {
+                    "start": 932.851,
+                    "stop": 933.87,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And not evidence, yes."
+                },
+                {
+                    "start": 933.87,
+                    "stop": 949.98,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--on evidence. I think it shows that even in that situation, as a situation in this case, when those things will occur, the practical effect is the facts get blurred, and the jury begins to confuse what each of the defenses are and convicted both."
+                },
+                {
+                    "start": 949.98,
+                    "stop": 952.415,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, these facts weren't all that complicated really."
+                },
+                {
+                    "start": 952.415,
+                    "stop": 953.399,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Very simple, Your Honor."
+                },
+                {
+                    "start": 953.399,
+                    "stop": 959.402,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. What do you say when you make your motion for severance?"
+                },
+                {
+                    "start": 959.402,
+                    "stop": 977.197,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That you anticipate that the... during a trial that you are going to have evidence presented against you by a co-defendant which will not only exonerate the co-defendant, but which will force--"
+                },
+                {
+                    "start": 977.197,
+                    "stop": 979.832,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you know that about the co-defendant?"
+                },
+                {
+                    "start": 979.832,
+                    "stop": 994.242,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In this particular case, there had been motions to suppress, and there had been statements made prior to trial. So, there was a pretty good indication that each defense was going to rely on having an antagonistic defense in which there would be an attempt to get one defendant--"
+                },
+                {
+                    "start": 994.242,
+                    "stop": 1002.097,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in order... you have to know that the... you have to know that your co-defendant is going to take the stand, don't you?"
+                },
+                {
+                    "start": 1002.097,
+                    "stop": 1005.716,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--You don't have to know that, Your Honor."
+                },
+                {
+                    "start": 1005.716,
+                    "stop": 1006.449,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You don't?"
+                },
+                {
+                    "start": 1006.449,
+                    "stop": 1008.685,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't... I'm not sure that you would have to know that."
+                },
+                {
+                    "start": 1008.685,
+                    "stop": 1012.553,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you've been talking about one co-defendant testifying against the other one."
+                },
+                {
+                    "start": 1012.553,
+                    "stop": 1014.255,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's what occurred in this case."
+                },
+                {
+                    "start": 1014.255,
+                    "stop": 1019.476,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I know, but how do you know he's... when you make your motion that he's going to be testifying?"
+                },
+                {
+                    "start": 1019.476,
+                    "stop": 1023.095,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You don't know that at the time of making the motion in all probability."
+                },
+                {
+                    "start": 1023.095,
+                    "stop": 1036.502,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You do have to show that the defendant is... it appears the defendant will be prejudiced. And wherein does the prejudice lie if you don't know that the co-defendant is going to take the stand?"
+                },
+                {
+                    "start": 1036.502,
+                    "stop": 1047.51,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If you don't know that the co-defendant is going to take the stand, you probably would not know about the prejudice. At the moment he does take the stand, you would obviously know of the prejudice. In this particular case--"
+                },
+                {
+                    "start": 1047.51,
+                    "stop": 1061.136,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you move for a... you have to move for a severance long before the trial starts. And so, am I to take it that generally at the time you have to move for a severance, you don't know whether the co-defendant is going to take the stand?"
+                },
+                {
+                    "start": 1061.136,
+                    "stop": 1066.957,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Generally you would not know that. In this particular case, you did know it because of the pretrial proceedings."
+                },
+                {
+                    "start": 1066.957,
+                    "stop": 1081.966,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, can you make a motion for severance at the time your co-defendant decides to take the stand? You don't know he's going to take the stand or not, and he decides to take the stand. Can you then make a motion for severance?"
+                },
+                {
+                    "start": 1081.966,
+                    "stop": 1083.499,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You could then make a motion for severance."
+                },
+                {
+                    "start": 1083.499,
+                    "stop": 1090.405,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what would... and so, who... there would have to be two new trials."
+                },
+                {
+                    "start": 1090.405,
+                    "stop": 1092.305,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 1092.305,
+                    "stop": 1097.059,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And would the trial against the other two of the four stop also?"
+                },
+                {
+                    "start": 1097.059,
+                    "stop": 1101.678,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It would be within the sound discretion of the trial judge to make the determination whether or not the--"
+                },
+                {
+                    "start": 1101.678,
+                    "stop": 1104.999,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I suppose your motion would waive double jeopardy."
+                },
+                {
+                    "start": 1104.999,
+                    "stop": 1109.617,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If you make the motion, I believe, Your Honor, that you are waiving the argument of double jeopardy."
+                },
+                {
+                    "start": 1109.617,
+                    "stop": 1120.341,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How about the other parties who don't join in the motion, but who... the trial of who... against whom has to start anew? Wouldn't they have a double jeopardy defense?"
+                },
+                {
+                    "start": 1120.341,
+                    "stop": 1130.38,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If they didn't move for a mistrial based on what was the prejudicial evidence which had been admitted, I don't believe they'd have a double jeopardy offense... double jeopardy--"
+                },
+                {
+                    "start": 1130.38,
+                    "stop": 1147.99,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what is prejudicial about having the co-defendant testify against your client? I mean, the co-defendant is testifying under oath. Presumably the trial is a truth-finding process. Why is that prejudice, to get testimony under oath even though it hurts your client?"
+                },
+                {
+                    "start": 1147.99,
+                    "stop": 1188.9,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's not just that it hurts the client, but in terms of the defense which is presented for the defendant's testimony to be believed, it requires that the jury convict the co-defendant, which would be... that's the basic argument in terms of what the antagonistic defense is. And it's... so, when he's... when the co-defendant is arguing that my... when the co-defendant is arguing that he knew nothing about the possession of the large box which contained the cocaine, but really it was the co-defendants, in that... at that point, it's shifting the burden. He is shifting the burden of proof to compel the co-defendant to get back up and say, no, it really wasn't mine."
+                },
+                {
+                    "start": 1188.9,
+                    "stop": 1202.159,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He's not shifting the burden of proof in any strict use of those terms. He may give an additional incentive to the defendant to take the stand and deny what the co-defendant said. The burden of proof remains on the Government."
+                },
+                {
+                    "start": 1202.159,
+                    "stop": 1212.748,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In effect, what occurs here, though, Justice, is that the defendant is becoming the prosecutor to convict his co-defendant."
+                },
+                {
+                    "start": 1212.748,
+                    "stop": 1221.021,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, he isn't until he's... until the Government withstands a motion to dismiss."
+                },
+                {
+                    "start": 1221.021,
+                    "stop": 1221.721,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct, Your Honor."
+                },
+                {
+                    "start": 1221.721,
+                    "stop": 1226.442,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, the Government has got to make its case and sustain a motion."
+                },
+                {
+                    "start": 1226.442,
+                    "stop": 1244.319,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And at that point, there is a prima facie case, and this only occurs after the motions for directed verdict of acquittal have been denied. But at that point, there would be sufficient evidence to go to a jury in terms of a prima facie case, but perhaps not sufficient to convict using the standard which the Government must use."
+                },
+                {
+                    "start": 1244.319,
+                    "stop": 1271.537,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I guess if the defendants decide to take the stand because they think if they don't, they're going to be cooked because the Government has made a case."
+                },
+                {
+                    "start": 1271.537,
+                    "stop": 1295.854,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In this particular situation, Your Honor, the defendant had, by way of affidavit, said before trial that he did intend to testify, and he did lay out what the testimony... what he believed his testimony would show. So, the court was aware pretrial on the grounds for the motions for severance. And it's interesting that--"
+                },
+                {
+                    "start": 1295.854,
+                    "stop": 1303.192,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They still didn't know whether he was going to take the stand or not, and he still didn't know whether or not the Government could prove their case."
+                },
+                {
+                    "start": 1303.192,
+                    "stop": 1315.065,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If in fact, as the other Justices have pointed out, if the man is caught with... if the man has in his physical possession a package of 50 pounds of cocaine and there's a joint possession of it--"
+                },
+                {
+                    "start": 1315.065,
+                    "stop": 1316.434,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Somebody did."
+                },
+                {
+                    "start": 1316.434,
+                    "stop": 1341.883,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Somebody did it. What's interesting in this case is both at trial and at the appellate level, the Government took the position that this was mere finger pointing, and now up in this Court, it concedes that it's an antagonistic defense. And what we're asking of this Court is that it find that antagonistic defenses still require severance and the defendants are entitled to a new trial."
+                },
+                {
+                    "start": 1341.883,
+                    "stop": 1346.602,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's the difference between finger pointing and an antagonistic defense?"
+                },
+                {
+                    "start": 1346.602,
+                    "stop": 1398.468,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In the finger pointing, I'm simply saying that someone else did a particular act. With the antagonistic defense, I'm saying the examples which the courts give in the DeLuna case is you have an individual whose... two individuals standing on a street corner, and as one of the individuals sees the police officer come down the street, he hands the narcotics to the other individual. Their defense at trial is the person who is holding the narcotics that was handed to me as the police officer came down the street, and I didn't possess it before trial, and I received it from the other co-defendant while the other co-defendant says simply I never possessed it all, I was merely standing there. Acceptance of one of the defendant's defenses requires the finding of the other defendant guilty."
+                },
+                {
+                    "start": 1398.468,
+                    "stop": 1408.057,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Cunniff, can I ask you a question? I think at the outset of your argument you said something to the effect the Government is asking for a new... to change the settled law or something like that."
+                },
+                {
+                    "start": 1408.057,
+                    "stop": 1408.592,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct, Your Honor."
+                },
+                {
+                    "start": 1408.592,
+                    "stop": 1416.179,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there a line of cases that's fairly... a lot of cases that hold that whenever there are antagonistic defenses, severance is normally granted?"
+                },
+                {
+                    "start": 1416.179,
+                    "stop": 1417.212,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, there are, Your Honor."
+                },
+                {
+                    "start": 1417.212,
+                    "stop": 1418.864,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have you cited all those in your brief?"
+                },
+                {
+                    "start": 1418.864,
+                    "stop": 1470.397,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I have, Your Honor. Specifically, I have all of them cited in the brief, and the specific circuits are... the Fourth, the Tenth, and Eleventh, and the D.C. Circuit take the position that severance is required when the co-defendants present irreconcilable or mutually exclusive defenses, and the jury will unjustifiably infer that the conflicting defenses are in and of themselves established that both defendants are guilty. The Second, the Fifth, and the Seventh, up until this case, held that standard that severance is required if the defenses are inconsistent to the degree that accepting one co-defendant's defense would preclude a jury from accepting the other's defense. So, in each case in which this has occurred and which the jury found that there are antagonistic defenses, uniformly all of the courts have required severance."
+                },
+                {
+                    "start": 1470.397,
+                    "stop": 1481.872,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about the text writers? Have they written on this issue, do you know? Are there any Law Review... any... is there any, you know, scholarly writing on this very precise--"
+                },
+                {
+                    "start": 1483.591,
+                    "stop": 1496.381,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There was a clear differentiation between a court finding something was finger pointing as opposed to antagonistic defense, and in every other instance in which there's an antagonistic defense finding, the courts have required that there be a severance."
+                },
+                {
+                    "start": 1496.381,
+                    "stop": 1497.983,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Thank you."
+                },
+                {
+                    "start": 1497.983,
+                    "stop": 1499.75,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'll reserve the remainder of my time."
+                },
+                {
+                    "start": 1499.75,
+                    "stop": 1503.554,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Cunniff. Mr. Manning."
+                }
+            ],
+            "start": 27.233,
+            "stop": 1596.297
+        },
+        {
+            "turns": [
+                {
+                    "start": 1503.554,
+                    "stop": 1596.297,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: We have three points here. First, the motion for severance is typically made at the beginning of trial and then renewed again throughout. That was what occurred in this case, and that is a fairly standard practice. This Court has made clear that the obligation under rule 14 to consider the question of severance is a continuing obligation on the trial court throughout trial. The difficulty, however, is that when defendants file a motion for severance at the outset, it is very difficult to tell how the trial is to proceed, and the better practice for the district court is to wait the development of the trial and see if there is, in fact, prejudice from any source before it renders the decision to severe. In this case, for example, on... in the joint appendix on page 101, for example, the attorney for Salvador Garcia indicated that Mr. Garcia would testify that the box of cocaine was Soto's and not his own. Mr. Garcia did not testify at trial. There's a great incentive in filing a pretrial motion for severance to indicate that there are matters that will result in prejudice to the defendants even if those don't eventuate at trial. So, any broad rule under rule 14... broad application of rule 14 will likely result in the reversal of trials at the conclusion of trial. But more--"
+                },
+                {
+                    "start": 1596.297,
+                    "stop": 1600.468,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Didn't Soto also say he would testify?"
+                },
+                {
+                    "start": 1600.468,
+                    "stop": 1603.42,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--His motion on page 81 of the--"
+                },
+                {
+                    "start": 1603.42,
+                    "stop": 1604.403,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Page 90 or so."
+                },
+                {
+                    "start": 1604.403,
+                    "stop": 1677.884,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I believe it's on page 81, Your Honor. He does also say that he will testify, but he did in fact testify at trial. More fundamentally than the practical point, however, we have a basic difference with the petitioners on what it means to be tried in a case with a defendant presenting an inconsistent defense. Our view is not that presentation of inconsistent defenses will blur the case. Rather, it is our view that, consistent with the premises of our system of justice, the truth is more likely to be learned when there are powerful statements on both sides of a difference of opinion about factual disputes. Soto and Garcia, as you know, were both carrying 55 pounds of cocaine up a stairwell when they were caught by police. Each of them naturally claimed at trial that the box of cocaine belonged to the other and that he didn't know what was inside of it. If each of them had a different account of events with which both were familiar, then the jury's understanding was inevitably sharpened and not dulled as each tried to show through evidence, cross-examination, and closing argument that his story was true, and his co-defendant's--"
+                },
+                {
+                    "start": 1677.884,
+                    "stop": 1686.407,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are there any court of appeals, besides the Seventh, taken a... taken your view?"
+                },
+                {
+                    "start": 1686.407,
+                    "stop": 1690.126,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, there are not. The--"
+                },
+                {
+                    "start": 1690.126,
+                    "stop": 1693.727,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how could all these other courts have been so far off base?"
+                },
+                {
+                    "start": 1693.727,
+                    "stop": 1695.762,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, as our--"
+                },
+                {
+                    "start": 1695.762,
+                    "stop": 1698.047,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which I think you'll say they were."
+                },
+                {
+                    "start": 1698.047,
+                    "stop": 1750.397,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We do believe that they are. And I would want to point out one thing, that this is the interpretation of a rule and the fact that 11 out of 12 circuits have viewed it a certain way does not mean that the interpretation is correct, particularly when you consider the fact that most of the circuits have articulated standards which varied from one another somewhat. There... a representative sample is cited in our brief at footnote 5. But typically the way that this issue arises in a court of appeals case is that the court of appeals will articulate one or the other of the varying standards as boiler plate en route to holding that the district court did not abuse its broad discretion in determining not to sever a trial for antagonistic defenses. The court will typically find that there's some reason that the defense is not antagonistic, for example, a defense--"
+                },
+                {
+                    "start": 1750.397,
+                    "stop": 1765.324,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, are most of the cases against you where they say severance wasn't required? Are there some that say severance should be required?"
+                },
+                {
+                    "start": 1765.324,
+                    "stop": 1766.192,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There are, Your Honor."
+                },
+                {
+                    "start": 1766.192,
+                    "stop": 1771.328,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And were they... was that order put in before trial or during trial?"
+                },
+                {
+                    "start": 1771.328,
+                    "stop": 1803.632,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Typically I believe that the order for severance was denied before trial. I'm not sure in some... whether in some cases it was renewed throughout trial, but typically the kind of case in which severance is granted is in our view precisely the kind of case in which severance should not be granted when a joint trial is most helpful to the finder of fact. Typically the case is like this one where it is perfectly plain that at least one of the two defendants... or two or more defendants has some guilt for the crime."
+                },
+                {
+                    "start": 1803.632,
+                    "stop": 1807.369,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There couldn't be a plainer case of antagonistic defenses. Is that what you're saying?"
+                },
+                {
+                    "start": 1807.369,
+                    "stop": 1831.484,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They couldn't. I mean, typically there are cases where you have an uncle and his nephew sitting on the front seat of a car with a shotgun, and the police come and they find the shotgun. And the nephew and the uncle say, look, it's... these are antagonistic defenses. We'll be prejudiced if we are tried together. And in fact, they will be disadvantaged by being tried together because the jury will get a full picture of the case, and if they've tried to shift blame onto each other, the two defendants, then--"
+                },
+                {
+                    "start": 1831.484,
+                    "stop": 1877.079,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well but, Mr. Manning, I'm not sure that's always going to be true. Take your uncle and nephew case or even take in this case Mr. Garcia's position. He, in effect, said if I am tried separately, I will get on the stand and say Soto knew all about it and I knew nothing. But they're tried together and he apparently elected not to point the finger at his co-defendant. Now, there could be cases... I don't know if there are or not... in which there is, in fact, an innocent person out with his uncle or something like that who, if tried separately, would tell the whole truth and nothing but the truth, but would be unwilling to get on the stand in a courtroom with his accomplice and accuse somebody who's a member of his family or somebody he's very close to. So, it's conceivable that the antagonistic defense would actually prevent somebody from testifying who would otherwise testify."
+                },
+                {
+                    "start": 1877.079,
+                    "stop": 1878.798,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor."
+                },
+                {
+                    "start": 1878.798,
+                    "stop": 1879.765,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't think that's possible."
+                },
+                {
+                    "start": 1879.765,
+                    "stop": 1905.182,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We think... it's certainly possible, but we think it highly unlikely. I mean, in the run of the mill case, what you're dealing with is two people who are closely connected with criminal wrongdoing and who... one of whom is likely guilty. In the case that you posited, in any case, the decision of the nephew not to take the stand because he's going... he might inculcate his uncle is a decision that he's making. It's a litigation strategy--"
+                },
+                {
+                    "start": 1905.182,
+                    "stop": 1910.734,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He might fear retaliation, for example, that he might not receive if he testified in a separate trial."
+                },
+                {
+                    "start": 1910.734,
+                    "stop": 1911.669,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry?"
+                },
+                {
+                    "start": 1911.669,
+                    "stop": 1917.49,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He might be afraid of retaliation. Sometimes witnesses are afraid to get on the stand in certain situations."
+                },
+                {
+                    "start": 1917.49,
+                    "stop": 1927.629,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, but that... I think that's the concern that exists whether or not you're tried together or in a separate trial. I mean, you may not want to testify against your uncle in a single trial. You may not want to in a joint trial."
+                },
+                {
+                    "start": 1927.629,
+                    "stop": 1929.814,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if you have a separate trial, it wouldn't hurt the uncle any."
+                },
+                {
+                    "start": 1929.814,
+                    "stop": 1935.768,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It would hurt the uncle if the Government gave the nephew immunity and called him to testify. In that case--"
+                },
+                {
+                    "start": 1935.768,
+                    "stop": 1937.736,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, yes. Sure, if you get immunity."
+                },
+                {
+                    "start": 1937.736,
+                    "stop": 1938.253,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry?"
+                },
+                {
+                    "start": 1938.253,
+                    "stop": 1941.271,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We're assuming no immunity here. That's an entirely different problem."
+                },
+                {
+                    "start": 1941.271,
+                    "stop": 1955.948,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But it's a somewhat... I think that it's not a natural reading of rule 14 to read it as a mechanism for requiring the Government to give immunity to a reluctant witness in the case in question--"
+                },
+                {
+                    "start": 1955.948,
+                    "stop": 1972.791,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not talking about immunity. Immunity has nothing to do with it. I'm just talking about the Government doesn't know which of the two did it, but in fact... and it's possible... one of them is, in fact, innocent but would be unwilling to get on the witness stand in a joint trial, but would be willing to do so in a separate trial. That's at least a hypothetical possibility."
+                },
+                {
+                    "start": 1972.791,
+                    "stop": 1983.032,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Certainly, and the premise of our adversary system is that when you bring all the facts before a jury, whether or not the person got on a witness stand or not, that the jury would make the accurate--"
+                },
+                {
+                    "start": 1983.032,
+                    "stop": 1994.923,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In my hypothesis, all the facts didn't come before the jury because the innocent defendant was unwilling to testify with the other antagonistic defendant in the courtroom. In other words, that's what might have been true of Mr. Garcia--"
+                },
+                {
+                    "start": 1994.923,
+                    "stop": 2035.9,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I understand that. Perhaps it would help if I clarified what our position is. Our position is not that the question of antagonistic defenses would never be relevant to the determination whether to sever a trial. Under rule 14, the language of the rule provides that if a defendant is prejudiced by joinder, a district court may grant severance or provide whatever other relief justice requires. Now, by its terms, that language gives the district court broad discretion to consider prejudicial joinder. Now, we perfectly... we acknowledge that antagonistic defenses may be one of many factors--"
+                },
+                {
+                    "start": 2035.9,
+                    "stop": 2047.541,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I didn't understand you really to acknowledge that. As I understand, the logic of your position is you should always reject a motion for severance when the only ground for it is antagonistic defenses. Or is that not right?"
+                },
+                {
+                    "start": 2047.541,
+                    "stop": 2050.327,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--When the grounds... the only ground is the antagonism of the defense."
+                },
+                {
+                    "start": 2050.327,
+                    "stop": 2050.76,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 2050.76,
+                    "stop": 2052.795,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I mean, if there's something in addition to that, for example--"
+                },
+                {
+                    "start": 2052.795,
+                    "stop": 2064.851,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. That's all. Let me just ask. Let me... I think I've got the... is it the Government's position that if the only ground for severance is antagonism of the two defenses, the judge should always deny the motion?"
+                },
+                {
+                    "start": 2064.851,
+                    "stop": 2112.733,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right. We're saying that it is per se not prejudice, that it is not prejudice per se to have inconsistent or antagonistic defenses, but that it might be, in combination with other factors, a factor to consider in deciding whether to grant severance. For example, if you had a trial and there were 40 defendants and it was a very large, complicated conspiracy case, and everybody said, I'm sorry, we're just an importing company, we don't know how this box of cocaine got into our warehouse, it certainly would be possible for the jury to consider a trial that large given the simplicity of the defense. However, if you had 40 defendants and they were pointing to one another and had very complicated and antagonistic defenses, it might be a fact... the antagonism might be a factor for the district court to consider in determining whether the jury was able to keep the case straight."
+                },
+                {
+                    "start": 2112.733,
+                    "stop": 2119.654,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in the hypothetical with the uncle and the nephew with the shotgun, you would say it was an abuse of discretion to sever even if the nephew was reluctant to testify."
+                },
+                {
+                    "start": 2119.654,
+                    "stop": 2127.077,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Even if the nephew was reluctant to testify. Well, there are a number of things that go into the decision to testify, and there are a number of factors that--"
+                },
+                {
+                    "start": 2127.077,
+                    "stop": 2130.695,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, as the hypothetical has been discussed here, you'd say it was an abuse of discretion to grant, would you not?"
+                },
+                {
+                    "start": 2130.695,
+                    "stop": 2131.212,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We would."
+                },
+                {
+                    "start": 2131.212,
+                    "stop": 2140.051,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, at some point you have to say that a defendant who decides not to testify because he doesn't want to hurt an uncle's feelings, that's his problem, not the Government's problem."
+                },
+                {
+                    "start": 2140.051,
+                    "stop": 2141.586,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's exactly right, Chief Justice Rehnquist."
+                },
+                {
+                    "start": 2141.586,
+                    "stop": 2161.214,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if the definition of an antagonistic defense is that if you believe one of them, you necessarily convict the other or you disbelieve him, here everybody was convicted. And they didn't believe... they believed both of them."
+                },
+                {
+                    "start": 2161.214,
+                    "stop": 2181.461,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Not only that-- [Laughter] Not only that, Your Honor, but everybody... it is more accurate to say that everybody was convicted of conspiracy, but in fact, Gloria Zafiro was acquitted on the three substantive counts of possession, which indicates that the jury was perfectly capable of sorting through the evidence and applying it separately to each."
+                },
+                {
+                    "start": 2181.461,
+                    "stop": 2187.715,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the people who... all of the people who moved for severance were convicted."
+                },
+                {
+                    "start": 2187.715,
+                    "stop": 2203.225,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "All of them were convicted of at least one offense, but that... they were all convicted of conspiracy. Gloria Zafiro moved for severance later in the trial after the presentation of the evidence. She didn't move at the outset. She moved later. And she was convicted of conspiracy, but she was acquitted of the substantive defenses."
+                },
+                {
+                    "start": 2203.225,
+                    "stop": 2204.327,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the other four."
+                },
+                {
+                    "start": 2204.327,
+                    "stop": 2207.745,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The other three were convicted of everything. That's correct."
+                },
+                {
+                    "start": 2207.745,
+                    "stop": 2215.135,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you take the position that had the trial judge here granted a severance, it would have been an abuse of discretion?"
+                },
+                {
+                    "start": 2215.135,
+                    "stop": 2257.562,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right, Justice O'Connor. We think that it would have been an abuse of discretion, but as a practical matter, we would point out that since we don't have a right to appeal that point under 18 U.S.C. 3731, then the practical import of saying that it's an abuse of discretion is somewhat limited although that is a reason I would point out for the Court, if it rules in our favor, to be very clear in stating that antagonism alone is not prejudice within the meaning of the rules so that the district courts have clear guidance in knowing when they can sever on the basis of antagonistic defenses. If there are no further questions. Thank you, Mr. Manning. Mr. Cunniff, you have 6 minutes remaining."
+                },
+                {
+                    "start": 2257.562,
+                    "stop": 2275.256,
+                    "speaker": {
+                        "name": "Kenneth L. Cunniff",
+                        "ID": 33799,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "As counsel for the Government just told you, the 11 of the 12 circuits that have considered this question have all agreed that if an antagonistic defense is presented, there should be grounds for severance."
+                }
+            ],
+            "start": 2275.256,
+            "stop": 2284.379
+        }
+    ]
+}

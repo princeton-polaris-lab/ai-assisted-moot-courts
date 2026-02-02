@@ -1,0 +1,2263 @@
+{
+    "title": "Calderone v. Thompson",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 49.364,
+                    "stop": 94.655,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court-- When this Court denied Thomas Thompson's petition for certiorari on June 2, 1997, his first Federal habeas proceedings became final. From that point forward, any litigation in either the district court or the court of appeals would constitute an impermissible second bite of the apple unless the specific limitations of the Effective Death Penalty Act were met. It makes no difference if that second bite of the apple occurs upon the motion of the inmate or on the court's own motion. The adverse effect upon the State's judgment and the State's interest in comity and finality of that judgment--"
+                },
+                {
+                    "start": 94.655,
+                    "stop": 109.474,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Wilkens, what are the limits on a court of appeals' power and authority to recall a mandate sua sponte? Do we know? I mean, what cases do we look to to determine that?"
+                },
+                {
+                    "start": 109.474,
+                    "stop": 120.892,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, first, in distinguishing between an ordinary civil case and a 2254 case I don't perceive any limitations on an ordinary civil case. However--"
+                },
+                {
+                    "start": 120.892,
+                    "stop": 123.125,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even after a judgment has become final?"
+                },
+                {
+                    "start": 123.125,
+                    "stop": 139.675,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. I note that there are these standards that have been cited in the cases that have been cited. It is a very... apparently a very broad standard. It's made on a case by case ad hoc decision with respect to exceptional or extraordinary circumstances."
+                },
+                {
+                    "start": 139.675,
+                    "stop": 149.791,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what do we look to in the case of a habeas proceeding, which we've said is a civil action? What do we look to there?"
+                },
+                {
+                    "start": 149.791,
+                    "stop": 180.151,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would invite the Court to look to the Federal Rule of Appellate Procedure 22a, wherein Congress has recently delineated a role for the courts of appeal as a gatekeeper. They have removed significantly the original jurisdiction for habeas corpus proceedings from the court of appeals and instead have transferred the screening process that was previously in the district courts, and they have placed that with the court of appeals, thereby significantly--"
+                },
+                {
+                    "start": 180.151,
+                    "stop": 195.912,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think that the new Federal Antiterrorism and Death Penalty Act speaks to the question of what a court of appeals can do concerning recalling its own mandate?"
+                },
+                {
+                    "start": 195.912,
+                    "stop": 217.767,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, it does not specifically reference the recall of the mandate. It most assuredly speaks to finality, and, in fact, section 2244 as amended by the Effective Death Penalty Act is entitled finality, interjects res judicata into habeas corpus, and specifically delineates the narrow circumstances under which additional litigation will occur."
+                },
+                {
+                    "start": 217.767,
+                    "stop": 243.082,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it talks about a second or successive habeas corpus application. Here, the Ninth Circuit was quite explicit about saying that it was resting just on the previous application. It added no new facts. Suppose the three judge panel issues a mandate in a habeas corpus action and the very next day recalls its mandate because it made a mistake. Is this a successive application?"
+                },
+                {
+                    "start": 243.082,
+                    "stop": 256.302,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Once... it would be if the first petition were final and it becomes final upon the expiration of time for filing certiorari in this Court or this Court's denial of certiorari."
+                },
+                {
+                    "start": 256.302,
+                    "stop": 267.139,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but finality, as I understand your answer to an earlier question, there isn't a finality issue under the general rule for civil cases, is that correct?"
+                },
+                {
+                    "start": 267.139,
+                    "stop": 267.88,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 267.88,
+                    "stop": 309.664,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Now, why is there a finality rule here, as Justice Kennedy said, a finality rule here when the action is taken, as we will assume that it was, on the court's own motion? The new statute certainly limits what may be done in response to a petition or a request by the habeas petitioner, but how do those provisions enact a, as it were, a finality rule to govern this class of civil cases when there is generally no finality rule and the action is taken by the court on its own motion?"
+                },
+                {
+                    "start": 309.664,
+                    "stop": 328.218,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, there's precedent for the actions of the court being considered within the confines of the abuse of the writ doctrine. In In re Blodgett the court of appeals was instructed of its duty not to delay habeas corpus proceedings."
+                },
+                {
+                    "start": 328.218,
+                    "stop": 354.665,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but that's a different argument. If you want to say that there was an abuse of discretion here I think that's quite a substantial argument, but you're talking about first the fact that it's a successive petition barred by the act, and it just seems to me that that's a very, very rigorous reading of the act, that once the mandate issues you can't correct it even if there's no abuse of discretion. Your opening argument is that this is a violation of the new act."
+                },
+                {
+                    "start": 354.665,
+                    "stop": 356.087,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 356.087,
+                    "stop": 362.769,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if you want to spend your time on that, fine. But it seems to me it's abuse of the writ is the more substantial claim."
+                },
+                {
+                    "start": 362.769,
+                    "stop": 395.881,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, certainly there are several ways to analyze it, and if this Court does not consider that we have passed into the successive petition area within respect to the Effective Death Penalty Act, most assuredly, as this court was informed by the Effective Death Penalty Act in determining Felker, we do not believe that the Ninth Circuit should be any less informed by the limitations upon relitigating the same claims on the same facts and the same law."
+                },
+                {
+                    "start": 395.881,
+                    "stop": 416.636,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me go back a moment to the questions I believe Justice O'Connor asked about the general standard for reviewing, recalling a mandate, or for a court, an appellate court... are any of those Federal cases, did the recall of the mandate occur after this Court had denied certiorari?"
+                },
+                {
+                    "start": 416.636,
+                    "stop": 419.868,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe there are instances where that has in fact occurred, Your Honor."
+                },
+                {
+                    "start": 419.868,
+                    "stop": 421.049,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And are they in the brief?"
+                },
+                {
+                    "start": 421.049,
+                    "stop": 462.877,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe so, and again this unique nature of 2254 cases has been repeatedly recognized by this Court, and most recently, even in the Agostini case, there was a citation to Teague as an express acknowledgement as to the distinctions between procedural rule's ordinary application in the ordinary civil case. The recall of the mandate standard is entirely too broad to be applied in a habeas corpus proceeding whether it's upon the court's own motion or not. The effect upon the State's interest remains the same."
+                },
+                {
+                    "start": 462.877,
+                    "stop": 507.574,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't understand what AEDPA has to do with this. I mean, I thought the Ninth Circuit specifically says at the beginning we're not taking this en banc because of any new evidence, because of anything Thompson did, because of any second or successive claim for relief. We're simply doing what we normally do, which is to review a panel en banc if a majority want. The only unusual aspect of this is the fact that they issued this sua sponte, isn't it? They issued this sua sponte, this recall of the mandate, so we have an ordinary recall of a mandate case. I mean, maybe it's an abuse of discretion, maybe it isn't, but I'm simply adding, I'd like to know why it's an abuse of discretion, because that seems to me to be the issue."
+                },
+                {
+                    "start": 507.574,
+                    "stop": 524.275,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it's most assuredly an abuse of discretion, but we need not even reach the traditional abuse of discretion standard because they're applying the wrong standard, because you must turn to the applicable law. The abuse of the writ doctrine, which has been--"
+                },
+                {
+                    "start": 524.275,
+                    "stop": 543.688,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, you're saying, suppose a circuit decides in favor of a petitioner, and then we agree to review it, does that have anything to do with AEDPA? We're just reviewing the initial decision, and why is it any different if a circuit court en banc reviews a panel decision?"
+                },
+                {
+                    "start": 543.688,
+                    "stop": 547.091,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In a timely manner I would agree with Your Honor."
+                },
+                {
+                    "start": 547.091,
+                    "stop": 553.304,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Then the problem is, I take it, that what they did is, they did this later, sua sponte. They recalled the mandate."
+                },
+                {
+                    "start": 553.304,
+                    "stop": 560.18,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. Once this Court denied certiorari, the first Federal habeas proceeding came to an end, and--"
+                },
+                {
+                    "start": 560.18,
+                    "stop": 586.647,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Wilkens, who did it sua sponte? This is a question I have in this case. I'm not sure that Justice Breyer's description fits the panel. The panel, the en banc panel, which is not a majority, even, of the entire circuit, decided that it would not take any account of the application and just do the matter sua sponte, right?"
+                },
+                {
+                    "start": 586.647,
+                    "stop": 587.878,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor."
+                },
+                {
+                    "start": 587.878,
+                    "stop": 591.88,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how did it get en banc? It wasn't the panel that put it in banc."
+                },
+                {
+                    "start": 591.88,
+                    "stop": 593.249,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 593.249,
+                    "stop": 608.813,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It was a vote of the majority of all the judges in active service, as rule, what is it, 35a requires. And that majority of all the active judges, what did they vote to put en banc? Was it the question of whether they should sua sponte recall their mandate?"
+                },
+                {
+                    "start": 608.813,
+                    "stop": 617.929,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. It's our position that the full court voted on the question whether or not to reconsider what was before the three judge panel, and that was Mr. Thompson's motion."
+                },
+                {
+                    "start": 617.929,
+                    "stop": 634.248,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. So as far as how the thing got to this en banc panel, it was on a decision to respond to a motion by the defendant, who had previously lost the habeas corpus case."
+                },
+                {
+                    "start": 634.248,
+                    "stop": 640.232,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, and we have questioned how you can rehear something that was not before the three judge panel."
+                },
+                {
+                    "start": 640.232,
+                    "stop": 664.8,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that unusual, too, because isn't it a... I mean, it happens sometimes an appellant says to a court, we'd like you to issue a writ of... we'd like you to review this on appeal, and you hear it then as the court, and then the court says, gee, we can't decide this on appeal, but we have the power anyway to issue, say, a writ of mandamus, so we do it for that reason."
+                },
+                {
+                    "start": 664.8,
+                    "stop": 672.875,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would say this is clearly distinguishable, Your Honor. The only indication that the action was sua sponte--"
+                },
+                {
+                    "start": 672.875,
+                    "stop": 673.836,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is what they said."
+                },
+                {
+                    "start": 673.836,
+                    "stop": 683.403,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--is what they said at the time they acted sua sponte. There's nothing contemporaneous with the full court vote, or even notifying the parties prior to argument."
+                },
+                {
+                    "start": 683.403,
+                    "stop": 731.926,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me tell you precisely, rather than... what's bothering me... at some point we'll get to this point. My problem is, if you win on this issue, on the issue of issuing the mandate sua... et cetera, I worry about the implications for courts of appeals, who very often are presented with unusual circumstances, I mean, at least unusually, and they normally think they have the power to deal with an unusual circumstance that calls for it by recalling a writ where there is such a circumstance, and what's worrying about... me about your side of this case is that an opinion of this Court would limit that power in other circumstances where it is clearly necessary. That's what I'd like you at some point to respond to."
+                },
+                {
+                    "start": 731.926,
+                    "stop": 802.212,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. I can only address that by emphasizing that this is a collateral review of a collateral review of a State court decision, and with respect to collaterally reviewing the collateral review, which is the types of unusual circumstances that may be of concern, there is absolutely nothing improper, or even harsh, about limiting the courts of appeals' ability to undertake the types of things that occurred in this case. This is a State court judgment and conviction in a murder case, and it is not akin to a civil litigant who perhaps may be denied access to the Federal court in a trial level or even in the direct appeal. The direct appeal concluded in this case 10 years ago, and it has been collaterally reviewed in State and Federal court since, and any of the unusual circumstances that would ordinarily be of concern should be of no concern at this point in the process. If we continue to allow such a vague general standard out of concern for the courts of appeals' power, we are in effect adding an additional layer of review in State capital cases."
+                },
+                {
+                    "start": 802.212,
+                    "stop": 820.551,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't there an analogy... you were asked whether the court of appeals acted sua sponte. You asked for a petition... you petitioned for mandamus, and we decided that wasn't the right way to go about it, and we sua sponte decided to hear the case and grant the writ of certiorari. Do you think that's very different from what the court of appeals did?"
+                },
+                {
+                    "start": 820.551,
+                    "stop": 828.198,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. It's different because there's no restrictions upon this Court entertaining additional litigation--"
+                },
+                {
+                    "start": 828.198,
+                    "stop": 830.409,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But then what are the restrictions on the court of appeals? That's what we're trying to figure out."
+                },
+                {
+                    "start": 830.409,
+                    "stop": 840.517,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Again, the courts of appeals no longer have original habeas corpus jurisdiction. This is because Congress has determined that there is no further need--"
+                },
+                {
+                    "start": 840.517,
+                    "stop": 844.149,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but they didn't issue a writ of habeas corpus. They just recalled their mandate."
+                },
+                {
+                    "start": 844.149,
+                    "stop": 847.87,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Our position, Your Honor, once that first Federal habeas proceeding--"
+                },
+                {
+                    "start": 847.87,
+                    "stop": 859.627,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Anything else any other court would do in the proceeding would be a petitioner acting on a writ of habeas corpus, in effect. If so, why wasn't our grant basically looked the same way?"
+                },
+                {
+                    "start": 859.627,
+                    "stop": 868.263,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because you're not a court of appeal. You're the highest court in this country, and your jurisdiction is not limited. The jurisdiction of the courts of appeal has been limited."
+                },
+                {
+                    "start": 868.263,
+                    "stop": 895.401,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well-- --I suppose that your position, then, is not that there is going to be any overall restriction. You don't submit there should be any overall contraction of the authority of a court of appeals to recall its mandate, but that just in the light of the AEDPA, perhaps, as we said in Felker, informed by that, that it's in those kind of cases that there would be some restriction."
+                },
+                {
+                    "start": 895.401,
+                    "stop": 903.896,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. When the first Federal habeas proceeding comes to a close the courts of appeal must be mindful of the limitations upon successive litigation."
+                },
+                {
+                    "start": 903.896,
+                    "stop": 908.15,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you define when the first court of... habeas corpus proceeding comes to a close?"
+                },
+                {
+                    "start": 908.15,
+                    "stop": 913.093,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That would be with the denial of certiorari by this Court or the expiration of time for seeking certiorari."
+                },
+                {
+                    "start": 913.093,
+                    "stop": 916.005,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The reason they said-- --And what's the authority you have for that?"
+                },
+                {
+                    "start": 916.005,
+                    "stop": 917.607,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Griffith v. Kentucky, Your Honor."
+                },
+                {
+                    "start": 917.607,
+                    "stop": 917.915,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Pardon me?"
+                },
+                {
+                    "start": 917.915,
+                    "stop": 919.237,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Griffith v. Kentucky, Your Honor."
+                },
+                {
+                    "start": 919.237,
+                    "stop": 934.398,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought the reason they said they waited was because they wanted to see what the State courts would do. They wanted to see what this Court would do. That's awfully normal. Don't make a tough decision, you know, when you don't have to if it's before another court. Does that make a difference?"
+                },
+                {
+                    "start": 934.398,
+                    "stop": 955.191,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that in the context of habeas corpus litigation that that is an inappropriate... an inappropriate consideration. By waiting to see what other courts do, you're no different than a habeas corpus litigant who gambles and then interjects into the process in the eleventh hour that there is a difficulty."
+                },
+                {
+                    "start": 955.191,
+                    "stop": 1016.752,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this was a case where the court said, yes, we slipped up, there was a lot of carelessness going on, but the one thing we want you to know is, we are not entertaining a second habeas. We're going back to that first one, and it was the court's own sloppiness and carelessness that takes us back there, and we think that when there is a grave consequence to a human being, we ought not let the sloppiness of some of our members control. But you keep saying that we have to bring into the picture the new legislation. The Ninth Circuit majority was insistent that they were back before the new legislation, that all they were doing was correcting the mistakes of some of their colleagues, and they were focusing precisely on the first habeas, nothing after."
+                },
+                {
+                    "start": 1016.752,
+                    "stop": 1084.816,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, significantly, it really matters little in the context of Federal habeas corpus in the long run as to whether or not this was pre Effective Death Penalty Act or post Effective Death Penalty Act, because it would be our position that the abuse of the writ doctrine should also have informed the Ninth Circuit. There have been cases where you do not entertain a 60(b) motion in a district court in a habeas corpus proceeding without considering this Court's doctrines and evolving law in terms of concern for endless repetitive habeas corpus litigation. And with respect to the concerns of the court over its mistakes and the very serious nature of this case, I can only indicate that this Court prior to Congress, and now Congress, has balanced the competing interests of criminal defendants and the State, and they have decided that a mistake by a court of appeal is not sufficient to litigate the same claims on the same facts and the same law."
+                },
+                {
+                    "start": 1084.816,
+                    "stop": 1136.811,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Ms. Wilkens, let me ask you a question here about, suppose we think that the new Federal death penalty act does not mean that a circuit court cannot recall its own mandate. Let's assume we reject that motion, that it's open to the court to do it. What is the standard for abuse of discretion, if any, that would be applicable in our examination of what the court of appeals in fact does? Is there any different standard that we apply if the situation is one in which a case has become final, or is it the same standard if it hadn't become final, and what is it?"
+                },
+                {
+                    "start": 1136.811,
+                    "stop": 1149.538,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I believe there must be a distinct standard once the first habeas corpus proceeding has become final, otherwise it is a way to circumvent all of this Court's law controlling--"
+                },
+                {
+                    "start": 1149.538,
+                    "stop": 1164.758,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And do you think that standard should be different in death penalty cases than in ordinary civil cases, or in a criminal case versus... I mean, a criminal habeas proceeding versus a normal civil case?"
+                },
+                {
+                    "start": 1164.758,
+                    "stop": 1165.92,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, definitely."
+                },
+                {
+                    "start": 1165.92,
+                    "stop": 1166.961,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what is the standard?"
+                },
+                {
+                    "start": 1166.961,
+                    "stop": 1180.299,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would urge this Court to engraft the standard from Congress' enactment of the Effective Death Penalty Act, otherwise a vehicle is left open to circumvent--"
+                },
+                {
+                    "start": 1180.299,
+                    "stop": 1182.269,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean, there's just no authority at all to withdraw the mandate?"
+                },
+                {
+                    "start": 1182.269,
+                    "stop": 1185.602,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The only means by which--"
+                },
+                {
+                    "start": 1185.602,
+                    "stop": 1204.475,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's very odd for us to say, well now, suppose the AEDPA does not apply, what is the standard for withdrawing a mandate, what is the standard for... or to determine whether or not there was an abuse of discretion, and you say... and then you say, AEDPA. Well, that doesn't seem to advance the analysis very much. Isn't it something like miscarriage of justice?"
+                },
+                {
+                    "start": 1204.475,
+                    "stop": 1209.448,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, miscarriage of justice has been heightened by the Effective Death Penalty Act, and I--"
+                },
+                {
+                    "start": 1209.448,
+                    "stop": 1260.342,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but if you... I think what's bothering all of us is that if you import the... a standard out of the Effective Death Penalty Act, then you are acting on exactly the opposite assumption of Justice O'Connor's questions and all the questions that have been asked. That assumption was that the new act limits what a petitioner can do, but it does not necessarily limit what a court can do on its own motion, and your answer saying, well, you should look to the act for your standard, in effect says it limits the court the same way it limits the petitioner, and we're assuming that is not the case, and I think there's a good reason, perhaps, to assume that. But isn't it so that, if you simply look to the act, you are really saying the act binds a court just as if a court were a petitioner?"
+                },
+                {
+                    "start": 1260.342,
+                    "stop": 1268.156,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, it's not my intention to identify the court with the petitioner. However--"
+                },
+                {
+                    "start": 1268.156,
+                    "stop": 1269.698,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't that the way you're ending up?"
+                },
+                {
+                    "start": 1269.698,
+                    "stop": 1274.26,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the interests of the State need to be preserved, and if--"
+                },
+                {
+                    "start": 1274.26,
+                    "stop": 1328.816,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the act has made it clear that the interests of the State are being served by limiting what petitioners can do, and now I think you're saying the State's interest in effect cannot be served at all unless you likewise limit what a court sua sponte can do. In fact, if I may just add one thing, you said a moment ago if you don't limit what a court can do you in effect are really destroying the protection of the act, and that, it seems to me, assumes that the court is being disingenuous in a case like this, that it's not really doing what it says sua sponte. What it's really doing is just using some words to make an end run around the limitation upon the petitioner, and if that's the basis on which you think we should decide this case, then I think we should... I think you and we should be explicit in talking about it."
+                },
+                {
+                    "start": 1328.816,
+                    "stop": 1351.3,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, I tried not to delineate between disingenuous and well intentioned with the belief that it's important to preserve the State's interests, and if a recall of a mandate is upon anything less than a miscarriage of justice, whether sua sponte or by the inmate, then the State's interests are not being preserved."
+                },
+                {
+                    "start": 1351.3,
+                    "stop": 1396.662,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Ms. Wilkens, in our Felker opinion we dealt with several different issues, and one of them was a case where it was not clear whether the AEDPA had restricted our... the court of jurisdiction of this Court, but we nonetheless said that the exercise of our discretion would be guided by the standards that were made applicable to the lower courts. Can't you make the same argument here, not that the AEDPA flatly controls the action of a court as opposed to the... sua sponte court as opposed to acting on a motion, but that a court, in exercising its discretion to recall the mandate, has to bear in mind what the AEDPA says?"
+                },
+                {
+                    "start": 1396.662,
+                    "stop": 1399.683,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, that would protect the State's interests."
+                },
+                {
+                    "start": 1399.683,
+                    "stop": 1428.774,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how does the... I think the reason I'm having trouble is, the only cases I can think of where as a circuit we recalled a mandate were things like, there was a clerk error. The clerk sent the mandate out when he was supposed to keep it, to allow time for cert, for example, or maybe he didn't record a vote that somebody got in late, or there was a mix up. Now, surely you can't suddenly have a heightened standard from AEDPA. It just doesn't make sense to apply it in such a case."
+                },
+                {
+                    "start": 1428.774,
+                    "stop": 1429.866,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 1429.866,
+                    "stop": 1464.848,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you must be thinking of a certain subset of recalls of mandates. You must be thinking of certain circumstances of recalls of mandates. I would have thought it might be a good reason to recall a mandate that one of the judges got mixed up about what time he had to have the vote in, nothing to do with AEDPA. That's why I'd like you to go back to the question you've been asked. What is the standard that you propose for deciding here that there's an abuse of discretion? What's the subcategory you're applying it to? What's the rule that you want us to adapt... adopt in that?"
+                },
+                {
+                    "start": 1464.848,
+                    "stop": 1478.156,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The rule of law would be that a court entertaining a motion to recall would deem that... if it came from the inmate would deem it to be a successive application. If the court were acting sua sponte, it must be informed by--"
+                },
+                {
+                    "start": 1478.156,
+                    "stop": 1492.188,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even if there was just a simple clerical mistake, I mean, the court of appeals has no power-- --I mean, this is a... it seems to me a very difficult rule that you're asking us to adopt for a case where you have some other substantial arguments. If you don't want to make them, that's your problem."
+                },
+                {
+                    "start": 1492.188,
+                    "stop": 1496.951,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We are not addressing clerical error. These are situations where the court intended to issue the mandate, and the mandate has issued."
+                },
+                {
+                    "start": 1496.951,
+                    "stop": 1500.433,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What were you do if there were a clerical error and the mandate had been issued?"
+                },
+                {
+                    "start": 1500.433,
+                    "stop": 1504.504,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They could correct the clerical error. They could not alter the judgment."
+                },
+                {
+                    "start": 1504.504,
+                    "stop": 1529.191,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You know, your time's about up. What would you tell us if we said, we don't accept any of that? It's just like a 60(b) motion, and do you take the position that the en banc ruling was improper, and in... that we should reverse it, applying ordinary 60(b) standards to what the en banc panel did?"
+                },
+                {
+                    "start": 1529.191,
+                    "stop": 1549.898,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If you apply the Rule 60(b) standards-- --consistent with this Court's own authority you must engraft the applicable law from habeas corpus, and if the actions of the Ninth Circuit, sua sponte or otherwise, are considered under ordinary rules applicable to 60(b), the result in this case could not have occurred, and we do urge the Court to make it abundantly clear that--"
+                },
+                {
+                    "start": 1549.898,
+                    "stop": 1560.153,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why do you say that? I mean, I just... what's the thrust of your reason for saying what they did under any ordinary 60(b) standard was wrong?"
+                },
+                {
+                    "start": 1560.153,
+                    "stop": 1570.061,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because it undermines every decision from this Court on abuse of the writ. It certainly undermines every act of Congress designed to curtail the abuse of the writ. It opens the door--"
+                },
+                {
+                    "start": 1570.061,
+                    "stop": 1592.064,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why can't you say that you can't recall it when the basis on which you're recalling it is a determination that it was wrong on the merits, which would be the same basis for a recall... for a habeas corpus subsequent review, but if the basis is that there has been some clerical error, or some other defect of that sort, then it can be recalled?"
+                },
+                {
+                    "start": 1592.064,
+                    "stop": 1598.638,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. You cannot use this as a vehicle to simply revisit a case to apply well established--"
+                },
+                {
+                    "start": 1598.638,
+                    "stop": 1599.179,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We examine the merits."
+                },
+                {
+                    "start": 1599.179,
+                    "stop": 1603.563,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right, establish well established law to the same facts and come up with a contrary result--"
+                },
+                {
+                    "start": 1603.563,
+                    "stop": 1604.963,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Unless there's a miscarriage of justice."
+                },
+                {
+                    "start": 1604.963,
+                    "stop": 1606.813,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Exactly. You must meet that standard."
+                },
+                {
+                    "start": 1606.813,
+                    "stop": 1610.887,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Applying Justice Scalia's standard, where does that take you in this case?"
+                },
+                {
+                    "start": 1610.887,
+                    "stop": 1615.83,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in this case it's quite clear that Mr. Thompson could not make a showing of a miscarriage of justice."
+                },
+                {
+                    "start": 1615.83,
+                    "stop": 1654.785,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's right, but it's also clear, isn't it, that the court of appeals said, we made a procedural error, and a stage in our review, the en banc stage, was cut short by this procedural error. Two judges didn't realize, I guess, that they could call for what they wanted to call for. So which prong of Justice Scalia's standard does this case fall under? Does it fall under the... the, in effect the procedural mistake prong, and therefore we say it's okay, or does it fall under the error of law, which we want a revised prong, in which case we say it doesn't? What's your answer to that?"
+                },
+                {
+                    "start": 1654.785,
+                    "stop": 1670.866,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It certainly does not fall under the procedural prong because Mr. Thompson was not entitled to en banc process. You certainly apply the miscarriage of justice standard. Mr. Thompson is not... was not scheduled to be executed because he was denied the benefit of an en banc vote."
+                },
+                {
+                    "start": 1670.866,
+                    "stop": 1681.493,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but... I don't want to play with words, but I think it's the case that under the rules the members of the court were entitled to call for an en banc standard themselves. Is that correct?"
+                },
+                {
+                    "start": 1681.493,
+                    "stop": 1683.723,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In a timely manner. Not after the denial of certiorari."
+                },
+                {
+                    "start": 1683.723,
+                    "stop": 1694.212,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but they say the reason it wasn't timely was that we made a procedural mistake. Is that the kind of mistake which, under prong 1 of the standard, may be considered and hence legitimize what happens?"
+                },
+                {
+                    "start": 1694.212,
+                    "stop": 1765.288,
+                    "speaker": {
+                        "name": "Holly D. Wilkens",
+                        "ID": 28410,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, because it could conceivably alter the judgment. It is not a mandate issued erroneously. The court knew that Judge X and Y had not called for a vote. The full court knew it. They sat silent for 5 months until this Court denied certiorari, until there were additional State court proceedings. That is not a mandate that was issued inadvertently by the clerk without the knowledge of the court, and it is not a clerical mistake. It is a change in the perceptions of the court, and in capital cases we cannot have those kinds of uncertainties in the eleventh hour characterized as a procedural defect justified. That's not a clerical mistake. That's not that there's something in the judgment that's wrong, or that the mandate issued by the clerk's office without communication between the court, and I think that it's important to be mindful of the fact that this case has been 17 years in the making, and was brought back to the court of appeal... the en banc process is not a sufficient process to take the State and add another level of collateral review at that point in time. Mr. Chief Justice, I would reserve."
+                },
+                {
+                    "start": 1765.288,
+                    "stop": 1770.551,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's nothing to reserve, Ms. Wilkens. Mr. Long, we'll hear from you."
+                }
+            ],
+            "start": 49.364,
+            "stop": 1791.556
+        },
+        {
+            "turns": [
+                {
+                    "start": 1770.551,
+                    "stop": 1791.556,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court-- The sua sponte decision of the court of appeals to rehear Mr. Thompson's first petition en banc was a proper exercise of judicial authority, and in no way implicates the Effective Death Penalty Act. That is for two reasons here."
+                },
+                {
+                    "start": 1791.556,
+                    "stop": 1806.957,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, the full court of appeals didn't decide to rehear it sua sponte. After it got to the panel the panel... oh, I think it's very clear that what the court of appeals did was to grant the motion for rehearing in banc of the petitioner."
+                },
+                {
+                    "start": 1806.957,
+                    "stop": 1842.2,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Certainly they did that, Your Honor. At joint appendix 194 is the order of the court signed by Judge Hug, the chief judge, setting forth the decision of the full court to set the matter down for argument to determine whether to rehear it en banc, and of course the full court was asked by an active judge of the court to disavow the decision of the panel, and that motion failed because it failed to obtain a majority of the active judges to support it, so in fact at least at two points in time the full court, all active judges considered this issue, agreed that there should be an en banc hearing, or at least the consideration of an en banc hearing, and then later--"
+                },
+                {
+                    "start": 1842.2,
+                    "stop": 1843.031,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "On the motion."
+                },
+                {
+                    "start": 1843.031,
+                    "stop": 1850.604,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, on no motion. Sua sponte. There's no motion whatsoever. As the court mentions there was a--"
+                },
+                {
+                    "start": 1850.604,
+                    "stop": 1854.367,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let's find where it is. I do have an important point to make. Where--"
+                },
+                {
+                    "start": 1854.367,
+                    "stop": 1865.323,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There was a sua sponte suggestion that the court should take the matter en banc. That was after the mandate issued, but before the mandate was spread in the district court. At that--"
+                },
+                {
+                    "start": 1865.323,
+                    "stop": 1868.055,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Do you have any pages?"
+                },
+                {
+                    "start": 1868.055,
+                    "stop": 1885.406,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. I think at about 215 of the joint appendix, Chief Justice, and if I may check for one moment, I believe that's where it's discussed. Yes, at page 215 of the joint appendix, at the first full paragraph, a sua sponte request--"
+                },
+                {
+                    "start": 1885.406,
+                    "stop": 1887.199,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--en banc opinion?"
+                },
+                {
+                    "start": 1887.199,
+                    "stop": 1909.172,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--This is the en banc opinion. A sua sponte request to consider en banc whether to recall the mandate was made shortly thereafter, meaning after the mandate issued, but before it was spread. Through a consultative process the court decided to postpone action on whether sua sponte to recall the mandate until after Thompson concluded his State court, et cetera, proceedings. I take it from that--"
+                },
+                {
+                    "start": 1909.172,
+                    "stop": 1916.866,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, wait, a sua sponte request to consider en banc. What is a sua sponte request? One of the judges made a request."
+                },
+                {
+                    "start": 1916.866,
+                    "stop": 1923.26,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I know no more than what is set forth in the opinion, Your Honor, so we're left to speculate on that. I don't--"
+                },
+                {
+                    "start": 1923.26,
+                    "stop": 1935.168,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This doesn't remotely say that the full court, a majority of the judges in active service, decided sua sponte to reexamine that decision. It doesn't remotely say that."
+                },
+                {
+                    "start": 1935.168,
+                    "stop": 1937.99,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I believe that the en banc court makes that clear in its opinion."
+                },
+                {
+                    "start": 1937.99,
+                    "stop": 1955.922,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, the... I have no doubt that the en banc court, in order to avoid the impediment of the Effective Death Penalty Act, said we are not considering this at the instance of the petitioner, we're considering it on our own, but the question is whether the majority of the judges in active service did that."
+                },
+                {
+                    "start": 1955.922,
+                    "stop": 1974.715,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "My answer is yes, clearly they did, and the reason they did clearly is that after the opinion was issued an active judge in the Ninth Circuit called for the full court to vote on whether to withdraw the matter from the en banc panel. That motion failed, because it failed to garner the support of a majority of the active judges of the court."
+                },
+                {
+                    "start": 1974.715,
+                    "stop": 1978.338,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that proves that a majority of the active judges voted to do this sua sponte?"
+                },
+                {
+                    "start": 1978.338,
+                    "stop": 1981.768,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It... what it proves to me, Justice Scalia, is that a majority of the--"
+                },
+                {
+                    "start": 1981.768,
+                    "stop": 1986.062,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It proves that they probably had enough of this by then. The whole thing was quite unseemly."
+                },
+                {
+                    "start": 1986.062,
+                    "stop": 1995.499,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What it proves to me, Justice Scalia, is that all of the active judges had an opportunity to question or to repudiate a misstatement of fact contained in the en banc court."
+                },
+                {
+                    "start": 1995.499,
+                    "stop": 1996.691,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I agree with that. That's quite a different thing."
+                },
+                {
+                    "start": 1996.691,
+                    "stop": 2005.905,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And further, under Missouri v. Jenkins, this Court's decision, this Court has often indicated that it will accept at its word an explanation given by a court of appeals for its actions."
+                },
+                {
+                    "start": 2005.905,
+                    "stop": 2038.345,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It wasn't the full court of appeals. It was a panel. I mean, let's be honest here. This panel was being technical. It was using a technicality. The only reason it said we're going to do this sua sponte, we're not reexamining the motion, was precisely because that technicality would get it out of the prohibitions of the Effective Death Penalty Act, so don't... you know, it seems to me improper for you to say, let's not be technical, when we look at whether the full court had decided to do that or not. This whole thing is based upon technicalities."
+                },
+                {
+                    "start": 2038.345,
+                    "stop": 2066.123,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I respectfully disagree with you on that, Justice Scalia. I don't think it's based on technicalities at all. I think that if we follow your line of reasoning, then we must assume that all actions of an en banc panel as it's constituted under Rule 35 of the circuit are less than the actions of the en banc court, and that cannot be, and therefore it seems to me that when the en banc panel of the court speaks, it speaks with all of the dignity of the court. The court then is at liberty to withdraw from the panel. It did not do so. It specifically declined to do so in this case."
+                },
+                {
+                    "start": 2066.123,
+                    "stop": 2069.938,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--When you say, en banc panel, you mean the eleven judges, right?"
+                },
+                {
+                    "start": 2069.938,
+                    "stop": 2070.766,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2070.766,
+                    "stop": 2111.085,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There is some enlightenment, perhaps, in Judge Kozinski's opinion, who says, on July 7, 1997, Judge Z sent a memorandum, which memorandum he said called for a belated en banc, and then the court's order as a whole issued on July 30, 1997, and it says, the full court has voted to consider whether to recall mandate, so that what the full court did, it looks like from the timing, July 7, a judge requested a belated en banc, and on July 30 the full court votes to consider whether to recall the mandate. I don't know if that's helpful."
+                },
+                {
+                    "start": 2111.085,
+                    "stop": 2138.771,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe, Your Honor, that that is consistent with the procedure in which all of the active judges of the circuit must vote on whether to do so. I assume that that vote occurred, but I have no visibility into the internal workings of the court, and similarly I think that's why this Court in Missouri v. Jenkins said that this Court will accept the word of the court of honor... excuse me, of the court of appeals on that issue, and I believe in that case it was the en banc court in the Eighth Circuit. Even if this act were to apply to the--"
+                },
+                {
+                    "start": 2138.771,
+                    "stop": 2160.977,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me. All the en banc court said was that it, the en banc court, was acting sua sponte. The en banc court never said that the full majority of active judges in the Ninth Circuit was acting sua sponte. They never said that. I can take them at their word, but their word only establishes that 11 of the judges were acting sua sponte."
+                },
+                {
+                    "start": 2160.977,
+                    "stop": 2174.605,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But Justice Scalia, they were acting as the Ninth Circuit, properly constituted in accordance with the rules of that circuit and with the Federal Rules of Appellate Procedure. To follow your line of reasoning, then, whatever they say would not speak on behalf of the whole court."
+                },
+                {
+                    "start": 2174.605,
+                    "stop": 2203.615,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, only insofar as Rule 35a is concerned, which is a very narrowly segregable rule which requires that the en banc vote have the acquiescence, or the affirmative vote of a majority of active judges, and if the issue is whether the Ninth Circuit was considering this sua sponte or rather upon the motion of the petitioner, the only thing the Ninth Circuit did under 35a was to consider it on the motion of the petitioner."
+                },
+                {
+                    "start": 2203.615,
+                    "stop": 2210.238,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Except that there was the later requires to withdraw it from the panel, also under Rule 35a, that was declined by the full court."
+                },
+                {
+                    "start": 2210.238,
+                    "stop": 2223.198,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand. That's like saying that Congress' failure to enact legislation is the equivalent of its enacting the opposite, but it isn't. I mean, there's a wholly different inertia."
+                },
+                {
+                    "start": 2223.198,
+                    "stop": 2229.432,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, I think that in light of my time I must beg to differ with the Court on this issue."
+                },
+                {
+                    "start": 2229.432,
+                    "stop": 2234.165,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry for taking so much of your time on this, but this is an important point to my view of the case."
+                },
+                {
+                    "start": 2234.165,
+                    "stop": 2240.568,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I understand that it is, Your Honor. I wish I could convince you to the contrary, but I think I must move on."
+                },
+                {
+                    "start": 2240.568,
+                    "stop": 2249.574,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Do I understand that your basic position on this is that those 11 members of the Ninth Circuit are like the 12 members of, say, the D.C. Circuit for all purposes?"
+                },
+                {
+                    "start": 2249.574,
+                    "stop": 2276.946,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Absolutely, Your Honor. Both the safety valve that the full court has given the opportunity on request of any active judge to vote to withdraw that reference, as it were, from the en banc panel, and to take the matter as a full court with all of the active judges sitting. Here, they expressly declined to do so after they had an opportunity to review the disposition of the en banc panel. I... Justice Scalia and I disagree about the implications to be drawn from that. To me, it is as if it were affirmed on all of its reasons."
+                },
+                {
+                    "start": 2276.946,
+                    "stop": 2279.676,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is the only circuit that has this at the moment, isn't it?"
+                },
+                {
+                    "start": 2279.676,
+                    "stop": 2296.47,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe that's correct. Even if the act were to apply to this case, it seems to me that no different result would obtain, because the act is not addressed by its language. The power of the courts of appeals to withdraw their mandate and to hear cases en banc--"
+                },
+                {
+                    "start": 2296.47,
+                    "stop": 2300.783,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that power I assume is controlled by an abuse of discretion standard."
+                },
+                {
+                    "start": 2300.783,
+                    "stop": 2308.868,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Your Honor. As the Chief Justice suggested in the Hawaii Housing case, as in Chambers, the abuse of discretion standard would apply."
+                },
+                {
+                    "start": 2308.868,
+                    "stop": 2329.561,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And how does the judge exercise his or her discretion in a case such as this, where habeas proceedings have gone on for some, I think, 9 years, 7 years in the Federal courts alone. What is the standard for upsetting a previously final judgment by withdrawing the mandate?"
+                },
+                {
+                    "start": 2329.561,
+                    "stop": 2350.207,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if I may quarrel with the previously final judgment a bit later, I'll answer your question directly. It seems to me that the standard for exercising discretion to withdraw the mandate is no different in this case than it is in any other case, and that standard has been variously described by the courts of appeals in their decisions for good cause, to preserve the integrity of the judicial process--"
+                },
+                {
+                    "start": 2350.207,
+                    "stop": 2354.428,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in the context that's habeas corpus, don't you think it ought to be to avoid a miscarriage of justice?"
+                },
+                {
+                    "start": 2354.428,
+                    "stop": 2367.577,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, I do... I would not agree with that standard, Your Honor. I would not cabin the authority of the courts of appeals in this limited range of cases, because I do not see any principle basis for distinguishing between them on the one hand and the wide variety of civil cases on the other."
+                },
+                {
+                    "start": 2367.577,
+                    "stop": 2384.328,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, except that's the standard that we've applied generally in habeas corpus successive petition cases, and this circumstance that we're faced with raises all of the intrusive concerns on... that we have with reference to the Federal system."
+                },
+                {
+                    "start": 2384.328,
+                    "stop": 2402.148,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I do not believe that this is similar to a successive petition case, and I believe that's the case for several reasons. First, Congress was very careful in striking the balance in the legislation that it adopted after a number of years of debate and reviewing a number of bills. To speak in terms of a second--"
+                },
+                {
+                    "start": 2402.148,
+                    "stop": 2437.502,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what happens here, the court of appeals waits until this Court has denied certiorari, until the State has mobilized all of its forces and its moral will to execute this penalty, the Governor has held lengthy and very careful clemency hearings, and then the court of appeals, based on the recitation that two of the judges didn't read their E mail, stops the process, and it seems to me that that quite squarely invokes the question of whether or not there's an abuse of discretion."
+                },
+                {
+                    "start": 2438.654,
+                    "stop": 2445.749,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it seems to me that discretion can only be exercised if there was a... if necessary to avoid a manifest miscarriage of justice."
+                },
+                {
+                    "start": 2445.749,
+                    "stop": 2474.898,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There are a number of points that you raised in your question. First of all, it was not simply a mistake by two judges. The en banc panel sets forth at pages 214 through 216 of the appendix a series of misunderstandings and mistakes that involve at least six judges of the court, not two, and further, if it be a mistake that the Ninth Circuit waited to take the vote on whether to hear it en banc until at some later point in time, then again that is not a mistake that is due to my client's failure to do something."
+                },
+                {
+                    "start": 2474.898,
+                    "stop": 2478.391,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but it does compound the injury done to the State."
+                },
+                {
+                    "start": 2478.391,
+                    "stop": 2482.733,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's a 53-day injury, Your Honor. It's not a significant--"
+                },
+                {
+                    "start": 2482.733,
+                    "stop": 2488.626,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you measure the 53 days after the matter has been pending for 7 years, and this Court has acted."
+                },
+                {
+                    "start": 2488.626,
+                    "stop": 2497.251,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But my point is, Your Honor, if they had withdrawn the mandate, let us say, before it was spread in the district court, then would we be here?"
+                },
+                {
+                    "start": 2497.251,
+                    "stop": 2498.793,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Before it was what in the district court?"
+                },
+                {
+                    "start": 2498.793,
+                    "stop": 2528.263,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Before it was spread in the district court, Your Honor... would we be here? I doubt it. If we had been accorded the opportunity that every other litigant is accorded to have an en banc suggestion considered in accordance with the proper procedures set forth by the Ninth Circuit in its local rules, no one would be quarreling with where we are right now, or with the decision of the en banc court. There may be a quarrel, but certainly not on the grounds we're discussing now. What the Ninth Circuit did was to preserve the integrity of its processes by putting us back to the status quo ante before--"
+                },
+                {
+                    "start": 2528.263,
+                    "stop": 2541.42,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but it couldn't do that until it withdrew the mandate, and the mandate indicates sufficient finality for this Court to act. It indicates sufficient finality for the Governor to act. It indicates sufficient finality for the sentence of death to be executed."
+                },
+                {
+                    "start": 2541.42,
+                    "stop": 2558.143,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that is true, Your Honor, but that sort of... in my view that is circular in reasoning, because you... it's like saying that it's not final until it's final, or it's final because it's final. Here, if we recognize the continuing authority of the courts of appeals to recall their mandates--"
+                },
+                {
+                    "start": 2558.143,
+                    "stop": 2564.355,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but even you agree, and I think you have to, that an abuse of discretion standard must be imposed."
+                },
+                {
+                    "start": 2564.355,
+                    "stop": 2564.995,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2564.995,
+                    "stop": 2567.456,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you don't have to have an abuse of discretion before you have an en banc hearing."
+                },
+                {
+                    "start": 2567.456,
+                    "stop": 2571.54,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, you do not. It's clear under--"
+                },
+                {
+                    "start": 2571.54,
+                    "stop": 2575.554,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the issuance of the mandate is a very highly significant fact in this case."
+                },
+                {
+                    "start": 2575.554,
+                    "stop": 2583.171,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But, Your Honor, there are any number of cases in which mandates have been recalled after the certiorari has been denied and the mandate has issued."
+                },
+                {
+                    "start": 2583.171,
+                    "stop": 2585.431,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know that there are any number. There are some, of course."
+                },
+                {
+                    "start": 2585.431,
+                    "stop": 2604.806,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There... we cite the Sargent case, we cite the Alphin case, and there are others in our brief that we can refer to, so this is not a peculiar act either in this case or in this category of cases. The courts of appeals have, for 200 years, and before that the courts of England had the authority to withdraw their mandates to protect the integrity of the process."
+                },
+                {
+                    "start": 2604.806,
+                    "stop": 2613.621,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not questioning that. I'm asking whether a miscarriage of justice standard shouldn't apply because of the special concerns with habeas corpus and intrusion on the processes of the States."
+                },
+                {
+                    "start": 2613.621,
+                    "stop": 2615.15,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And my answer is no, it should not."
+                },
+                {
+                    "start": 2615.15,
+                    "stop": 2640.059,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In England there isn't any collateral review of criminal conviction, so that to say the abuse of discretion standard has applied in England, I don't think carries you over to this very particular situation where you're dealing with something where this Court has gradually circumscribed the free wheeling availability of the writ, and Congress has circumscribed it."
+                },
+                {
+                    "start": 2640.059,
+                    "stop": 2673.981,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor, I'm not suggesting that. That's merely something that this Court observed in Hazel Atlas, when it was talking about the inherent authority of the courts to recall their mandates, and this Court noted that that authority had existed even before the republic was founded. It's continued to exist up to this point in time. I'm not suggesting that that authority can be exercised without any boundaries, nor am I suggesting that this Court was wrong in Felker when it said that the actions of the court ought to be informed by AEDPA. Indeed, the Ninth Circuit has demonstrated already to this Court and to all others that it is informed by that. That's the Nevius case, where they refused--"
+                },
+                {
+                    "start": 2673.981,
+                    "stop": 2675.183,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It certainly isn't this case."
+                },
+                {
+                    "start": 2675.183,
+                    "stop": 2701.028,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, no, Your Honor, I think that the court was at pains to point out that first the act does not apply to this case because the petition was filed before the effective date of the act, so under this Court's decision in Lindh there is no application whatsoever. That's why I think that we need not discuss AEDPA and its application to this case. Even if the act applied, it's my view that Congress certainly did not remove the authority of the courts of appeals to recall their mandates and hear cases en banc."
+                },
+                {
+                    "start": 2701.028,
+                    "stop": 2708.324,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I think... isn't it just as likely Congress didn't remove it because they couldn't conceive of something like this happening?"
+                },
+                {
+                    "start": 2708.324,
+                    "stop": 2743.086,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor, I... in the first place, we would be speculating about congressional intent, but I think that the statute is carefully drafted. If you look at 2244(b)(1) and then at 2244 (b)(3)(E), you see that what Congress is talking about is second or successive petitions, and it's saying that those may not be entertained by the court of appeals and, indeed, that no petition for a rehearing of a denial or grant of the right to file a successor petition could be heard. It does not speak at all to withdrawing the mandate or to the authority of the court to entertain a suggestion to rehear it en banc."
+                },
+                {
+                    "start": 2743.086,
+                    "stop": 2761.328,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think that Congress perhaps contemplating this legislation could have canvassed courts of appeals habeas opinions and not found any example in those particular opinions where a... where the mandate had been withdrawn under circumstances like this. It just didn't seem to be a problem."
+                },
+                {
+                    "start": 2761.328,
+                    "stop": 2794.559,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, and I think that is true, Your Honor, and the court of appeals in this case was very careful to note this is a once in a decade, or many decades case. I don't believe that this is a case that's going to invite the avalanche of similar cases. I would refer to the Court's opinion, Justice O'Connor writing for the Court in Agostini, where she indicated that that case was very much confined to the context of the case. Similarly here. We have a series of misunderstandings and errors by a United States court of appeal that deprived an individual of the rights that all other individuals have--"
+                },
+                {
+                    "start": 2794.559,
+                    "stop": 2798.754,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, there were... there is no right, though, to an en banc hearing. You have to concede that."
+                },
+                {
+                    "start": 2798.754,
+                    "stop": 2810.881,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I absolutely concede that, Your Honor. The right under this Court's decisions in Shenker and Western Pacific Railway Company is to know the procedures that are available and to have the opportunity to put them into motion. It seems to me that at least in--"
+                },
+                {
+                    "start": 2810.881,
+                    "stop": 2835.638,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They were put in motion, but they didn't take effect, and in the meantime the habeas proceedings became final, and they are habeas proceedings, so we are confronted with what standard to apply, and there certainly are arguments to make it a fairly high standard for a reversal here, it seems to me, by the Ninth Circuit."
+                },
+                {
+                    "start": 2835.638,
+                    "stop": 2843.133,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't think that there is a principle basis for distinguishing these cases from all other civil cases, Justice O'Connor. If there were, I would--"
+                },
+                {
+                    "start": 2843.133,
+                    "stop": 2851.058,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Simply the fact that it's a habeas proceeding, where we have established some higher standards generally."
+                },
+                {
+                    "start": 2851.058,
+                    "stop": 2895.317,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--As Ms. Wilkens considered earlier in response to a question, the standard has always been the same, so what the State is asking this Court to do now is to be a back up legislature and to amend the AEDPA, as it were, to infer that Congress meant to take away authority from the courts of appeals that it does not explicitly do so. It's our position that in adopting that legislation Congress was very careful to strike a balance in a very complex area of the law. If one reviews the legislative history, it is replete with statements from Congresspersons and Senators. There were two concepts that they were concerned about. One is cutting down second and successive petitions by petitioners, and the other was to make certain that every petitioner had a full and fair opportunity to litigate his or her case."
+                },
+                {
+                    "start": 2895.317,
+                    "stop": 2915.63,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think this petitioner's motions, if they were governed here by AEDPA, and maybe they're not because of the effective date problem, but if they were, would his motions under 60(b) and so forth be in violation of AEDPA, and in effect be a second--"
+                },
+                {
+                    "start": 2915.63,
+                    "stop": 2922.506,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That, of course, is a question that I need not decide, and I think it's not the question that's posed to this Court."
+                },
+                {
+                    "start": 2922.506,
+                    "stop": 2923.267,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--That's true."
+                },
+                {
+                    "start": 2923.267,
+                    "stop": 2949.454,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would go so far as to say this. Under the Ninth Circuit authority, if the 60(b) motion were to attempt to place new or different claims before the Court, then under the Greenawalt case, which is at 85 F. 3d, the Ninth Circuit has said that that will not be permitted. That's another example, Chief Justice Rehnquist, of the court of appeals in the Ninth Circuit being informed by the intent of the act, just as this Court announced that it would be informed by the intent of the act--"
+                },
+                {
+                    "start": 2949.454,
+                    "stop": 2951.104,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that an en banc decision?"
+                },
+                {
+                    "start": 2951.104,
+                    "stop": 2979.283,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor, it was not. It was not. There also is the Nevius case, which I mentioned earlier, where the circuit declined to recall its mandate when the purpose was to present new and different claims, and that's why this case is very different from that, but Nevius should indicate to this Court that the Ninth Circuit does recognize that its discretion should be informed by the act. It is quite capable of turning away end runs around the act, and it has demonstrated that it has done so in the past, so I think that this fear is much exaggerated."
+                },
+                {
+                    "start": 2979.283,
+                    "stop": 3088.736,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What standard would you apply for abuse of discretion? I'm thinking particularly, because you mentioned earlier, you said it isn't... it... some things... the most obvious case where you would withdraw mandate is... it doesn't happen too often because of local rules, but under the rules, the opinion is written at the court of appeals, it comes down, then you can file a petition for rehearing. This is nothing to do with en banc. Then seven days after the filing of that petition, the mandate issues. Now, I take it under the appellate rules a litigant could any time, perhaps, or sometime thereafter, or after the petition for rehearing, file a petition en banc, and by the time the court as a whole has considered that petition the 7 days may have passed and the mandate is issued, so obviously, if they grant the en banc they'll jerk the mandate back. Now, that's the most obvious situation where the... all right. Now, given that situation and the Federal Rules of Appellate Procedures, it could happen, which would I think be an abuse, that a court decides on its own 10 years later, you see, to review en banc, and jerks back the mandate. Well, that can't be right, so there must be some kind of standard in between what would be the rules foreseeing a not totally unusual circumstance... you know, we as a court of appeals grant the en banc, the mandate went out last week, we'd better jerk it back, because after all we're considering it en banc... and 10 years later. There must be some standard, and you mentioned... or maybe it's a different thing, nothing to do with jerking the mandate back, but whether you can have an en banc at all, all right. I mean, so those are... that's what's going on in my mind, and you mentioned that you had in mind some kind of standard, or some kind of criteria for resolving this problem, and so I'd like to hear it."
+                },
+                {
+                    "start": 3088.736,
+                    "stop": 3197.32,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think, Justice Breyer, that the courts of appeals have struggled with precisely that question over the course of many years, and as one reviews the cases that are set out in notes 17 and 19 of our brief you see that the courts have come up with certain phrases that they use to describe the process they go through... protecting the integrity of the court's processes, to... for good cause, to prevent injustice, et cetera, et cetera. Now, any time that one tries to channelize the exercise of discretion in the myriad of cases, one runs into exactly the problem that you adverted to earlier, Your Honor, which was, well, how can I possibly anticipate every variety of case that's going to come before a court of appeals over the next century or half century in this country, and the answer is, one cannot. I assume that had one been able to do that, that either Congress or this Court previously would have done so. The very fact that they have not done so and that they have left to the courts of appeals and, indeed, to the district courts of this country areas of discretion is an indication to me that not only is it impossible to further cabinet, but it's entirely appropriate that that discretion be left there. Now, having said that, I would concede to you, using your example, that, for instance, if a significant period of time passed, 10 or 12 years after the mandate was issued, the judgment was issued, a litigant, he or she detrimentally changed his or her position in reliance on that judgment and then the losing litigant were to come back into the court and say, eureka, I have found some idea, I think that you ought to recall the mandate and hear this en banc, perhaps in a situation like that discretion would be exceeded. I would think that the courts of appeals would be entirely capable of seeing that that situation would be an abuse of discretion."
+                },
+                {
+                    "start": 3197.32,
+                    "stop": 3207.164,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wouldn't you also look to the effect on the parties, or those generally who rely on the decision, even if the recall were a more prompt one?"
+                },
+                {
+                    "start": 3207.164,
+                    "stop": 3214.889,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that one might, Your Honor, but I don't think that it would be dispositive, certainly not in our case."
+                },
+                {
+                    "start": 3214.889,
+                    "stop": 3221.975,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As a guide, how about the old common law rule that during the term you could recall a mandate?"
+                },
+                {
+                    "start": 3221.975,
+                    "stop": 3247.64,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and that, of course, was set aside in 1948, as Your Honor knows, by statute, and the term limit no longer has anything to do with the ability of the courts of appeals to reach beyond or backward farther and, of course, this Court recognized in Hazel Atlas that even when the term limit was in place, in certain circumstances, fraud on the court or miscarriage of justice, the court was free to ignore the term limit."
+                },
+                {
+                    "start": 3247.64,
+                    "stop": 3251.834,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right, now-- --But it might give you some handle on how many... how long is too long."
+                },
+                {
+                    "start": 3251.834,
+                    "stop": 3258.029,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It could be certainly a rule of thumb or a guideline, Your Honor, yes."
+                },
+                {
+                    "start": 3258.029,
+                    "stop": 3292.82,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You said in response to my question that if we did look to the effect on others, even if a more prompt recall, your case would still turn out favorably to you, and maybe you're right. Should we consider the fact that the court of appeals, before it exercised its sua sponte authority, waited for all of these other bodies to go through various procedures of review? They sat back to see what would happen. Is that something we should consider, and how does that cut?"
+                },
+                {
+                    "start": 3292.82,
+                    "stop": 3307.91,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, certainly it is something before the Court, so it may be something that the Court may wish to consider. I don't think that it would affect what I believe the proper outcome is in this case, for several reasons."
+                },
+                {
+                    "start": 3307.91,
+                    "stop": 3348.629,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but did... well, because time is short, there's one thing that I wish you would address. Does it go to the seriousness with which we should consider the claim that they were trying, in effect, to protect the integrity of their own procedures? Because if that had been weighted given a very high weight, wouldn't they have said, we've got to protect the integrity of our own procedures regardless of what all these other courts and executive agencies may be doing, and would it be fair for us to say, the circuit really did not give a very high weight to the integrity of their procedures, and that bears on whether it was an abuse of discretion?"
+                },
+                {
+                    "start": 3348.629,
+                    "stop": 3444.049,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think that one need necessarily view the facts in that fashion, Justice Souter, the reason being that it appears that there was a discussion between the time the mandate returned to the circuit and was sent to the district court and the time that it was spread. At that point there were proceedings going on in the State court and, as the opinion points out, for reasons of comity, to use their word, they decided to wait and allow the State court to first address the issues that had been brought to the attention of the State court. It was entirely possible that the California supreme court would have allowed Mr. Thompson a new trial based upon the pleading that was then pending before them. If that were to have occurred, then the Ninth Circuit would not have made... have needed to make public the rather messy story that is now public, and perhaps that speaks to protecting the integrity of the process as well. I don't know. I wasn't privy to those conversations. What I do know is that they attempted, I believe in good faith, to return us to the position in which we were before they made these errors, and it was not just the error of two judges misplacing an E mail, or two clerks not speaking to one another. If, indeed, they waited too long, that was an error, and in fact that... the second call after the amended opinion from the panel issued was a timely call under the rules of the court, 5.4.C, and yet the entire court misunderstood the timeliness of that call and no vote was taken. If the court had not made a mistake at that point, which may have been due partially to the author of the panel opinion and partially to the en banc coordinator and how their positions were related to the judge who called for the en banc--"
+                },
+                {
+                    "start": 3444.049,
+                    "stop": 3452.525,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's hard to conceive that wanting to conceal its own ineptitude takes priority over allowing the State to execute its criminal law."
+                },
+                {
+                    "start": 3452.525,
+                    "stop": 3500.149,
+                    "speaker": {
+                        "name": "Gregory A. Long",
+                        "ID": 25669,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't think that was the trade off, Your Honor. I'm merely suggesting... and I don't know what the trade off was, obviously, so I don't want to speak for the Ninth Circuit. I couldn't. But let us assume that they decided that they would give the court, the supreme court of the State of California, an opportunity to consider the claims that were before it. If that court were to take one action, then the Ninth Circuit would not have had to pursue this course of action, as it did. There are any number of considerations that would make it advisable for the Ninth Circuit not to have had to go to the lengths that it did go to, which merely underlines for me the seriousness with which they viewed this, and the seriousness with which they viewed their obligation to correct their error to give Mr. Thompson exactly the same right that all others had had to pursue."
+                },
+                {
+                    "start": 3500.149,
+                    "stop": 3502.757,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Long. The case is submitted."
+                },
+                {
+                    "start": 3502.757,
+                    "stop": 3507.793,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The honorable court is now adjourned until tomorrow at ten o'clock."
+                }
+            ],
+            "start": 1770.551
+        }
+    ]
+}

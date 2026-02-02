@@ -1,0 +1,1985 @@
+{
+    "title": "Romano v. Oklahoma",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 47.451,
+                    "stop": 95.954,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: In this capital case, the State succeeded in introducing evidence, over the defendant's objection, that the defendant had already been sentenced to die by another jury in an unrelated case. The issue before this Court is whether that evidence undermined the jury's sense of responsibility in violation of the Eighth and Fourteenth Amendments. Capital juries are asked to decide on behalf of the community whether a defendant should live or die at the hands of the State. This is a most agonizing decision, and one that this Court has recognized jurors may seek to avoid. How relieved the jurors must have been in this case to discover that the decision had already been made, that the community had already decided that John Romano should die."
+                },
+                {
+                    "start": 95.954,
+                    "stop": 104.138,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think, Mrs. Peters, that would make the jury in this case more likely or less likely to itself impose the death sentence?"
+                },
+                {
+                    "start": 104.138,
+                    "stop": 129.526,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think that it would make it more likely. I think that there is a possibility, as the State has argued, that one jury may give life because it felt that its decision did not matter, a man can only be killed one time. If a jury... if one jury gives life because of the factor that he's already been sentenced to death, and other juries give death because of that same factor, that shows how arbitrary factor this is. That's not a--"
+                },
+                {
+                    "start": 129.526,
+                    "stop": 141.445,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're not saying that the jury was more likely to convict because of this second... you're saying it might have been more likely to convict, it might have been less likely... it was just kind of an aberrant factor?"
+                },
+                {
+                    "start": 141.445,
+                    "stop": 151.689,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--To sentence to death, I think it was more likely that it would affect its judgment to sentence him to death. It would be more likely to do what the other jury had done."
+                },
+                {
+                    "start": 151.689,
+                    "stop": 165.308,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why wouldn't it be just as logical to say, if, as you say, juries shy away from this responsibility, to say well, he's already been sentenced to death? He's going to be executed anyway, we'll just give him life."
+                },
+                {
+                    "start": 165.308,
+                    "stop": 216.643,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Regardless of which the jury is likely to do, it is not a principled distinction... principled guiding factor to determine when death is appropriate in a case and when it is not, whether the jury returned life, or whether the jury returned death. Either way, it's an unreliable verdict, because it was based on an arbitrary factor rather than a determination that death was appropriate for this case. Although the jury was not explicitly told in this case that their decision did not matter, that message was clearly communicated by the piece of evidence that showed that he had already been sentenced to die. Leading the jury to believe that its decision does not matter falsely deflates the solemnity of the decision-making process and reduces the proceeding to a mere formality both as to the defendant's eligibility for death as well as the appropriateness of that decision."
+                },
+                {
+                    "start": 216.643,
+                    "stop": 239.657,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Peters, may I ask you the state of the law in Oklahoma in this situation? As a matter of Oklahoma law, is the sentence in a previous case relevant for the jury in the subsequent proceeding to be aware of?"
+                },
+                {
+                    "start": 239.657,
+                    "stop": 241.84,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It is not, and the Court of Criminal Appeals--"
+                },
+                {
+                    "start": 241.84,
+                    "stop": 246.515,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is the fact of conviction in the earlier case relevant under Oklahoma law?"
+                },
+                {
+                    "start": 246.515,
+                    "stop": 246.805,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Certainly."
+                },
+                {
+                    "start": 246.805,
+                    "stop": 254.45,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the Oklahoma courts in this case acknowledge that it wasn't relevant as a matter of State law--"
+                },
+                {
+                    "start": 254.45,
+                    "stop": 255.361,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct."
+                },
+                {
+                    "start": 255.361,
+                    "stop": 255.842,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--the sentence?"
+                },
+                {
+                    "start": 255.842,
+                    "stop": 256.553,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct."
+                },
+                {
+                    "start": 256.553,
+                    "stop": 266.266,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But nevertheless felt it was not a constitutional violation that the error was not harmful in a constitutional sense?"
+                },
+                {
+                    "start": 266.266,
+                    "stop": 303.302,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The Court of Criminal Appeals recognized that it might have undermined the jury's sense of responsibility, but then went on to say that it was highly unlikely that it did so. There were several problems with the Court of Criminal Appeals' analysis in this case. First of all, they relied on an instruction as curing this evidence that was not in fact given. They said that the jury was instructed that it was not to surrender its judgment to any item of evidence. That instruction simply is not in the record. They also presumed the jury's verdict to be correct, and they applied the wrong standard. They said that it was highly unlikely that it affected the jury's verdict, that it was highly unlikely--"
+                },
+                {
+                    "start": 303.302,
+                    "stop": 323.985,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Peters, may I interrupt you on that point? As I understand, your position is... strike that. As I understand your reading of the Oklahoma, it is that they found there was error, but that there was not Federal constitutional error, is that correct? In other words, the information shouldn't have been conveyed, but it simply was not a due process violation."
+                },
+                {
+                    "start": 323.985,
+                    "stop": 330.21,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I think that the court looked at it as an Eighth Amendment error initially--"
+                },
+                {
+                    "start": 330.21,
+                    "stop": 330.571,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It did."
+                },
+                {
+                    "start": 330.571,
+                    "stop": 351.253,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--and said that it might undermine the jury's sense of responsibility, and then analyzed it in the Fourteenth Amendment instead. They said that they had to review it with a heightened sense of scrutiny, which is, of course, Eighth Amendment language, and then they said that it did not deny him due process, which is Fourth Amendment, so I'm not really clear what it was the court--"
+                },
+                {
+                    "start": 351.253,
+                    "stop": 363.041,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you... but you also view their opinion as not engaging in harmless error analysis in the strict sense, at least with respect to the Eighth Amendment violation."
+                },
+                {
+                    "start": 363.041,
+                    "stop": 377.644,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That's correct. They did not say that they were applying a harmless error analysis, and they certainly did not use language that would indicate that they did. They said that it was highly unlikely that it affected the verdict. Highly unlikely does not exclude the possibility that it did affect the jury's verdict."
+                },
+                {
+                    "start": 377.644,
+                    "stop": 384.417,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What case or cases from our Court are you relying on for your submission, Ms. Peters?"
+                },
+                {
+                    "start": 384.417,
+                    "stop": 390.751,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Several cases. Of course, all the cases on reliability of evidence in this Court, principally Caldwell, because--"
+                },
+                {
+                    "start": 390.751,
+                    "stop": 398.985,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Caldwell requires, though, doesn't it, if one takes the concurring opinion which made the Court... that the information be misleading or false?"
+                },
+                {
+                    "start": 398.985,
+                    "stop": 402.788,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--In this case, I believe the information was misleading and inaccurate."
+                },
+                {
+                    "start": 402.788,
+                    "stop": 405.3,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The person had not previously been sentenced to death?"
+                },
+                {
+                    "start": 405.3,
+                    "stop": 409.243,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "He had been previously sentenced to death, and as a historical fact it was correct."
+                },
+                {
+                    "start": 409.243,
+                    "stop": 411.444,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then what was false about it?"
+                },
+                {
+                    "start": 411.444,
+                    "stop": 441.835,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "What was false about it was that it was an invalid conviction. At the time that this sentence of death was presented to the jury, the State had only recently obtained the conviction and it had not yet been subjected to appellate review. When it was, the Court of Criminal Appeals held that the sentence and the conviction and sentence was a violation of a fair trial, result of an unfair trial, and that both had to vacated, and it was remanded for a new trial, so the sentence of death that they heard about, although it was true as a historical fact, it was not a valld conviction."
+                },
+                {
+                    "start": 441.835,
+                    "stop": 450.21,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what if it had been a valid... what if the sentence had been upheld on appeal, would you still be making the same arguments here?"
+                },
+                {
+                    "start": 450.21,
+                    "stop": 458.105,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I would, because I also believe that the evidence was misleading. It led the jury to believe... to view its role in a way that is fundamentally at odds--"
+                },
+                {
+                    "start": 458.105,
+                    "stop": 515.582,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that really converts Caldwell into something that a majority of the Court never subscribed to. You're saying it's not limited to being factually misleading, but if it tends to diminish the jury's sense of responsibility. I don't think a majority of the Court subscribed to that view. This evidence I believe is misleading for two reasons. One is that it led the jury to view its role in a way that was fundamentally at odds with the Eighth Amendment but also because of language in the offending document itself. Not only did it say that the defendant had been sentenced to die, but that the defendant was asked in open court if he could state good cause why the jury's verdict should not be imposed, that he could not, nor could the court find any. I think a juror could have read this language to be a concession on the part of the defendant or an independent determination by the trial judge that he was in fact deserving of death, and I think this document-- --You don't challenge the factual accuracy of that transcript, do you?"
+                },
+                {
+                    "start": 515.582,
+                    "stop": 518.433,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The factual accuracy of that document?"
+                },
+                {
+                    "start": 518.433,
+                    "stop": 524.528,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah. Did it purport to be a recitation of something that had happened at the sentencing proceeding?"
+                },
+                {
+                    "start": 524.528,
+                    "stop": 527.631,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think it was mere formal language in the document."
+                },
+                {
+                    "start": 527.631,
+                    "stop": 530.162,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It didn't purport to be a recitation, then?"
+                },
+                {
+                    "start": 530.162,
+                    "stop": 544.251,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No. Even if the evidence was not misleading or inaccurate, which I believe it was both, it still was irrelevant to any State valid penalogical concern that the defendant had--"
+                },
+                {
+                    "start": 544.251,
+                    "stop": 556.269,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying that a State could not conclude that the sentencing process is enhanced by having this information, that as a matter of law it can never be enhanced by the jury having this information?"
+                },
+                {
+                    "start": 556.269,
+                    "stop": 559.143,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I think it would have the opposite effect. I think that it would--"
+                },
+                {
+                    "start": 559.143,
+                    "stop": 563.655,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying that as a matter of law a State may not conclude that under any circumstances?"
+                },
+                {
+                    "start": 563.655,
+                    "stop": 569.859,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Yes, unless the State can show a valid State penalogical interest. I cannot think of one."
+                },
+                {
+                    "start": 569.859,
+                    "stop": 571.859,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Unless the State... I didn't hear that last remark."
+                },
+                {
+                    "start": 571.859,
+                    "stop": 578.214,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Unless the State can show that there's a valid State penalogical interest in showing the death penalty, that I cannot think of one at the moment."
+                },
+                {
+                    "start": 578.214,
+                    "stop": 588.202,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you are really arguing for a clear position that the jury may not be informed of an outstanding death sentence."
+                },
+                {
+                    "start": 588.202,
+                    "stop": 589.211,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct."
+                },
+                {
+                    "start": 589.211,
+                    "stop": 595.636,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, can't a jury be informed in the sentencing proceeding of a prior conviction?"
+                },
+                {
+                    "start": 595.636,
+                    "stop": 601.79,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Certainly. Prior convictions are relevant to a concern of the jury, whether he is a threat to society, for example, but--"
+                },
+                {
+                    "start": 601.79,
+                    "stop": 613.167,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're saying that then the jury could have been informed if this sentence had not... had been upheld, it could have been informed that he had been convicted, but he couldn't have been informed of the sentence which was imposed on him?"
+                },
+                {
+                    "start": 613.167,
+                    "stop": 613.978,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That is correct."
+                },
+                {
+                    "start": 613.978,
+                    "stop": 635.921,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if the crime had been convicted after the prior sentence had been imposed, and it was relevant under the law of, say, an aggravating factor, or what-not, that the individual had committed the later felony following receipt of a sentence of death? Could the fact of the sentence be introduced under those circumstances?"
+                },
+                {
+                    "start": 635.921,
+                    "stop": 639.364,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think that would certainly present a much closer question that we have here."
+                },
+                {
+                    "start": 639.364,
+                    "stop": 640.225,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What would the answer be?"
+                },
+                {
+                    "start": 640.225,
+                    "stop": 650.592,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I'm not sure what the answer would be. There would be competing interests there, because that would... the State would have an arguably valid State penalogical interest. I think the important thing--"
+                },
+                {
+                    "start": 650.592,
+                    "stop": 669.253,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought your position in answer to my question was, your theory is it will give the jury a diminished sense of responsibility in every case to know that another jury has already returned a death sentence, and that there are no circumstances in which it would be proper?"
+                },
+                {
+                    "start": 669.253,
+                    "stop": 684.394,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I said that I could think of none, and maybe this would present a circumstance that would be proper, but there would be the competing interest of which... is it more probative, or is it more prejudicial, and that I think is a much closer question than we have presented in this case."
+                },
+                {
+                    "start": 684.394,
+                    "stop": 690.958,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How would that affect your earlier argument that a jury is going to have a diminished sense of responsibility?"
+                },
+                {
+                    "start": 690.958,
+                    "stop": 700.625,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's the prejudicial impact of that evidence, is that it would diminish the jury's sense of responsibility. They would believe that their decision did not matter. A man can only be killed one time, so they would believe--"
+                },
+                {
+                    "start": 700.625,
+                    "stop": 712.684,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is your answer different in response to Justice Souter's hypothetical? What difference does it make what order the crimes... the order in which the crimes were committed?"
+                },
+                {
+                    "start": 712.684,
+                    "stop": 744.825,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--What I was about to say in this case the crime that he got the death penalty for was committed 9 months or so after the crime that he was on trial for at this time. If a defendant kills in prison, that, I think, is the heart of that aggravating circumstance if the State elected to have one, that he killed while in prison or under a sentence of death. The important thing there is that society cannot be protected by the man. He has been incarcerated, and he is still committing crimes. I think there is certainly a way to get that concern before the jury without the prejudicial impact of undermining their sense of responsibility by telling them that he's already been sentenced to death."
+                },
+                {
+                    "start": 744.825,
+                    "stop": 764.619,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Peters, in Caldwell, as I recall, it wasn't only inaccurate, what was told to the jury, but it was intentionally inaccurate. I mean, it was misleading. It was a misleading statement by the prosecutor, isn't that right?"
+                },
+                {
+                    "start": 764.619,
+                    "stop": 765.277,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 765.277,
+                    "stop": 770.031,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And there's no contention of any misleading in this trial, is there?"
+                },
+                {
+                    "start": 770.031,
+                    "stop": 772.644,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I believe it was misleading, because it--"
+                },
+                {
+                    "start": 772.644,
+                    "stop": 787.814,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you say it turned out that the perfectly accurate statement later became inaccurate, because the conviction was set aside, but at the time it was said it was perfectly accurate."
+                },
+                {
+                    "start": 787.814,
+                    "stop": 792.238,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Accurate, but misleading, because it led the jury to believe that its decision did not matter."
+                },
+                {
+                    "start": 792.238,
+                    "stop": 813.171,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's talk about that. Suppose evidence comes out during a trial that is misleading. Is that a basis for reversing even the conviction, never mind the sentence? Where the prosecutor hasn't been responsible for it, but the defendant can come in and show, what this witness testified to was misleading, and indeed it was misleading, is that a basis for setting aside a conviction?"
+                },
+                {
+                    "start": 813.171,
+                    "stop": 820.565,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--If it did not mislead the... I mean, if it did not undermine the sense of responsibility, possibly not, but if we have both of those factors, yes, I believe it is."
+                },
+                {
+                    "start": 820.565,
+                    "stop": 833.545,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Never mind the sense of responsibility for what the sentence is, it could have misled the jury as to the conviction, as to whether the person's guilty or not, but if the prosecutor has not been responsible for that, is that a basis for reversing the conviction?"
+                },
+                {
+                    "start": 833.545,
+                    "stop": 837.118,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If it renders the verdict unreliable, yes, it would be, even--"
+                },
+                {
+                    "start": 837.118,
+                    "stop": 847.263,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you have a case for that? That's extraordinary. We would have many more appeals up here than we do now, if any misleading evidence is a basis for overturning a conviction."
+                },
+                {
+                    "start": 847.263,
+                    "stop": 855.6,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Not if any misleading, but if there's a reasonable likelihood that the verdict was so infected that it's unreliable, I think that it would be. I do not have a case on that."
+                },
+                {
+                    "start": 855.6,
+                    "stop": 873.242,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I don't think it's true. We would have endless appeals if that were the case, and if that's not the case with respect to guilt or innocence, I find it hard to understand why perfectly innocent misleading should provide an automatic appeal with respect to the sentence, either."
+                },
+                {
+                    "start": 873.242,
+                    "stop": 923.014,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In this case, I do not think it was perfectly innocent on the part of the prosecutor. The prosecutor did need to show the jury that John Romano had been previously convicted of a murder, that defense counsel stipulated to that fact. To get the document in was of no help. Once it was stipulated to, there was no question for the jury. The only reason that the State introduced the document as well would be to get this inflammatory information before the jury. The Court of Criminal Appeals held that the sentence of death was not relevant to the jury's consideration, and all lower courts that have considered this have agreed, with one exception, that being Pennsylvania, interpreting their own State law. Even the State has not seriously argued that this evidence is relevant to a State concern. The most that the State has argued in their brief is that it is arguably relevant to show the seriousness of the crime."
+                },
+                {
+                    "start": 923.014,
+                    "stop": 945.447,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Peters, the way misleading evidence is usually entered in these other contexts, in the context of a trial, is that counsel is supposed to be able to counteract it. If it's misleading, he tells the jury, this is misleading. I assume counsel here could have said that. Did counsel try to tell the jury, yes, there is a conviction... the jury was told it was on appeal, wasn't it?"
+                },
+                {
+                    "start": 945.447,
+                    "stop": 945.918,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 945.918,
+                    "stop": 955.155,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The jury knew that. Counsel was free to say, as you've been told, it's on appeal. It may be reversed on appeal, so you should not assume that this individual will be put to death."
+                },
+                {
+                    "start": 955.155,
+                    "stop": 1017.475,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If counsel had done that, I think he would have been precisely within the confines of Caldwell, because he would have told the jury that not only was that jury's verdict subject to appeal, but so was this jury's verdict, and that also might have lessened their responsibility. I think that there was not a way to undo what was done by the admission of this evidence. What evidence of a death sentence really does is to create an image in the minds of the jury that their decision is unimportant, and that is not a valid State penalogical goal. Adding to the prejudice in this case was the way that the evidence came in... the way that the information came before the jury. It came in the form of evidence rather than as an argument. Jurors are routinely told that arguments are not evidence, and that jurors are to base their decision on the evidence. The jury was told that in this case. They were invited to rely the... base their verdict on this evidence and to assign whatever weight they chose to it, therefore the instructions in this case actually compounded the prejudicial effect. The other thing that makes this evidence especially prejudicial is because it's not information--"
+                },
+                {
+                    "start": 1017.475,
+                    "stop": 1021.178,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me, how did they compound the prejudicial effect? I just didn't follow that."
+                },
+                {
+                    "start": 1021.178,
+                    "stop": 1028.771,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--By the instructions. In Caldwell, for example, it was an argument by the prosecutor that caused the jury's sense of responsibility--"
+                },
+                {
+                    "start": 1028.771,
+                    "stop": 1032.964,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh... oh, I see, the fact that the information came from the court compounded the error."
+                },
+                {
+                    "start": 1032.964,
+                    "stop": 1108.955,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The fact that it was evidence, and juries are told not to base their decision on argument of counsel. They're routinely admonished in that regard, and they were in this case, they were in Caldwell, but the court did not feel that that admonition was sufficient to cure the prejudice. In this case, the instructions did not mitigate against the harmful information, but actually compounded it, because the jury was told to base their decision on evidence, and that this exhibit was an item of evidence. Also, the information this jury received is not evidence that is generally already known to the jury such as the ability... the availability of appellate review or powers of commutation, but information that was specific to this case and to this defendant. A jury that fully understands and appreciates the gravity of its task is vital to the American scheme of criminal procedure. It is indispensable to the Eighth Amendment's need for reliability in the determination that death is the appropriate punishment in a specific case. Were we not lawyers trained to question and dissect the obvious, we would see the obvious, and that is that evidence that a capital defendant has already been sentenced to die by another jury in an unrelated case injects an arbitrary factor that undermines the jury's sense of responsibility and renders the verdict unreliable. If there are no further questions, I'll reserve my time for rebuttal, Mr. Chief Justice."
+                },
+                {
+                    "start": 1108.955,
+                    "stop": 1112.946,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Peters. Ms. Blalock... Mrs. Peters."
+                }
+            ],
+            "start": 47.451,
+            "stop": 1147.831
+        },
+        {
+            "turns": [
+                {
+                    "start": 1112.946,
+                    "stop": 1147.831,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, may it please the Court: The Court of Criminal Appeals, in deciding this case, answered the questions that this Court has asked us to discuss, and that is whether or not there was any Eighth or Fourteenth Amendment violation in the introduction of this evidence. The Court of Criminal Appeals recognized this Court's holdings in Caldwell, recognized the standards that were to be applied in determining whether or not there is a Federal constitutional violation, and they determined that there was none. They first engaged in the--"
+                },
+                {
+                    "start": 1147.831,
+                    "stop": 1157.165,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Blalock, may I ask you a preliminary question? Was the prior sentence relevant as a matter of State law?"
+                },
+                {
+                    "start": 1157.165,
+                    "stop": 1160.779,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The Court of Criminal Appeals held that it was not relevant, that it was irrelevant."
+                },
+                {
+                    "start": 1160.779,
+                    "stop": 1161.85,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you don't argue that it was?"
+                },
+                {
+                    "start": 1161.85,
+                    "stop": 1173.938,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor, I only... my only disagreement with the Court of Criminal Appeals decision is that perhaps it erred on the side of conservatism in analyzing this evidence. I think that other States--"
+                },
+                {
+                    "start": 1173.938,
+                    "stop": 1177.19,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in any event, you are not telling us that it was relevant as a matter of State law--"
+                },
+                {
+                    "start": 1177.19,
+                    "stop": 1178.109,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, ma'am."
+                },
+                {
+                    "start": 1178.109,
+                    "stop": 1186.725,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and the defendant had stipulated to instruct the jury that there had been the prior conviction of murder?"
+                },
+                {
+                    "start": 1186.725,
+                    "stop": 1187.376,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, he had."
+                },
+                {
+                    "start": 1187.376,
+                    "stop": 1194.591,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why is it, then, that the State insisted on entering this piece of evidence that showed the sentence?"
+                },
+                {
+                    "start": 1194.591,
+                    "stop": 1203.317,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The State is always entitled to prove its case, regardless of the defendant's stipulations. The State introduced, as is common practice, the judgment and sentence."
+                },
+                {
+                    "start": 1203.317,
+                    "stop": 1214.754,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I mean, it's just curious, since it was irrelevant as a matter of State law, and there had been a stipulation. I just wondered why it was that the State insisted on putting this before the jury."
+                },
+                {
+                    "start": 1214.754,
+                    "stop": 1239.12,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The prosecutor did not know at that time that it was irrelevant. He didn't have the benefit of the Court of Criminal Appeals decision, and it's standard procedure when proving a prior conviction in Oklahoma in a capital case under an aggravating circumstance, or under... or noncapital felony cases that are enhanced by former convictions. Prosecutors prove the prior convictions by introducing the judgment and sentence."
+                },
+                {
+                    "start": 1239.12,
+                    "stop": 1244.373,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, do you think that another State court could find that this is relevant?"
+                },
+                {
+                    "start": 1244.373,
+                    "stop": 1245.565,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, I do."
+                },
+                {
+                    "start": 1245.565,
+                    "stop": 1246.667,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, on what theory?"
+                },
+                {
+                    "start": 1246.667,
+                    "stop": 1254.691,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I believe that this... the fact of the prior sentence, as well as the prior conviction, could be considered relevant. I think that--"
+                },
+                {
+                    "start": 1254.691,
+                    "stop": 1257.263,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How does it help the jury's decision?"
+                },
+                {
+                    "start": 1257.263,
+                    "stop": 1287.352,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--It prevents the arbitrary factor, and the capriciousness that this Court has attempted to avoid in its capital cases. For example, in Oklahoma at this time there were only two possible punishments for first degree murder, and that was life imprisonment, or a death sentence. Giving the jury the additional piece of information about the prior sentence, what had been imposed in the prior first degree murder conviction, prevented them from speculating on what that prior sentence was."
+                },
+                {
+                    "start": 1287.352,
+                    "stop": 1290.805,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the Oklahoma court was wrong in saying that it's not relevant, then?"
+                },
+                {
+                    "start": 1290.805,
+                    "stop": 1293.109,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I don't think the... I think--"
+                },
+                {
+                    "start": 1293.109,
+                    "stop": 1305.059,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's either relevant or it isn't, and you say the Oklahoma court is right, but some other court would be right in reaching a conclusion that's 180 degrees opposite from that-- --and I'm having trouble deciding which is right."
+                },
+                {
+                    "start": 1305.059,
+                    "stop": 1320.35,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I think the Oklahoma Court of Criminal Appeals could have properly decided it was relevant evidence. I think that another court could properly decide that it was relevant evidence under State law, and satisfied some legitimate State interest. I think--"
+                },
+                {
+                    "start": 1320.35,
+                    "stop": 1323.46,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that legitimate State interest is what, again?"
+                },
+                {
+                    "start": 1323.46,
+                    "stop": 1337.69,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--To prevent the jury's speculation about what the prior sentence was that prevents them from oversentencing on the second case, thinking perhaps this defendant received a life sentence on the prior first degree murder conviction, so we will make up for it."
+                },
+                {
+                    "start": 1337.69,
+                    "stop": 1350.028,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you're assuming that they're not following your instructions, and your whole argument assumes that they're not going to play it straight when the judge instructs them on their choices and the basis for their choices in the case before them."
+                },
+                {
+                    "start": 1350.028,
+                    "stop": 1355.535,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I think that's exactly what petitioner does, is assume that they're not following--"
+                },
+                {
+                    "start": 1355.535,
+                    "stop": 1373.504,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but that... isn't that exactly what you're doing? At this moment, that's what you're doing, because your brief says, we accept that the information was irrelevant and further that it could diminish the jury's sense of responsibility, but there were all these other instructions."
+                },
+                {
+                    "start": 1373.504,
+                    "stop": 1378.548,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I do accept that the Court of Criminal Appeals held that it was irrelevant, and I don't have any quarrel with that."
+                },
+                {
+                    "start": 1379.839,
+                    "stop": 1391.196,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Maybe we misunderstood. I thought your answer to Justice Kennedy was that a legitimate argument... i.e., a sound argument could be made that it was not irrelevant, and wasn't that your answer to him?"
+                },
+                {
+                    "start": 1391.196,
+                    "stop": 1398.202,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I believe that another State court could very well find that it was relevant evidence, and I believe the Court of Criminal Appeals could have found that it was relevant evidence."
+                },
+                {
+                    "start": 1398.202,
+                    "stop": 1401.063,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that it would have been a sound conclusion if they had so found."
+                },
+                {
+                    "start": 1401.063,
+                    "stop": 1401.925,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, exactly."
+                },
+                {
+                    "start": 1401.925,
+                    "stop": 1409.838,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And doesn't your argument for the soundness of that conclusion rest on the assumption that the jury in fact will not follow its instructions in the case before them?"
+                },
+                {
+                    "start": 1409.838,
+                    "stop": 1412.98,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I don't believe so. I believe that the additional piece--"
+                },
+                {
+                    "start": 1412.98,
+                    "stop": 1424.618,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how is it relevant if they follow the instructions in the case before them that another jury in another case for another crime sentenced to life or sentenced to death? What's that got to do with it?"
+                },
+                {
+                    "start": 1424.618,
+                    "stop": 1430.632,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--It gives them an additional piece of evidence about what... about that former crime. There's no question that--"
+                },
+                {
+                    "start": 1430.632,
+                    "stop": 1437.308,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why do they need to know anything about the former crime? He's... the defendant is on trial for this crime, not that crime."
+                },
+                {
+                    "start": 1437.308,
+                    "stop": 1445.753,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Absolutely, and were we talking about the guilt phase, that would certainly be true, but in the sentencing phase, the fact of the prior conviction is certainly relevant evidence. That's not at issue."
+                },
+                {
+                    "start": 1445.753,
+                    "stop": 1448.644,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Under what criterion of law?"
+                },
+                {
+                    "start": 1448.644,
+                    "stop": 1455.128,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In the sentencing phase of the capital case... here there were alleged two aggravating circumstances."
+                },
+                {
+                    "start": 1455.128,
+                    "stop": 1468.406,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does Oklahoma define one criterion for... or, strike that. Does Oklahoma provide that one criterion for imposing the death penalty is that a prior death penalty has been imposed? Is that the law?"
+                },
+                {
+                    "start": 1468.406,
+                    "stop": 1468.887,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--absolutely not."
+                },
+                {
+                    "start": 1468.887,
+                    "stop": 1492.462,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then I just don't see the relevance of it at all. I assume your point is that the death penalty would not have been imposed unless it was a particularly serious, heinous kind of a murder, and that the jury who knows someone has not only committed a murder, but committed a murder that a prior jury thought was so horrible that it should be punished by death, that's likely to have been a worse murder, is that what you're saying? If you're not saying that, I don't know what you're saying."
+                },
+                {
+                    "start": 1493.894,
+                    "stop": 1513.737,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because you have to acknowledge that the mere fact that the person was sentenced one way or another is irrelevant to the determination, isn't it? Unless it indicates something about the nature of the person's character, and the only way it can do that is that one presumes that a prior jury doesn't give death unless it was a really horrible crime."
+                },
+                {
+                    "start": 1513.737,
+                    "stop": 1528.987,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--It can give the jury additional evidence about the fact of the prior crime, that it was a particularly horrible crime. We all know that first degree murders are not all the same. It could say something about the defendant's character, the reason for the death sentence was imposed--"
+                },
+                {
+                    "start": 1528.987,
+                    "stop": 1534.71,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this question about... in Oklahoma, the jury does the sentencing even in noncapital cases, isn't that correct?"
+                },
+                {
+                    "start": 1534.71,
+                    "stop": 1535.261,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Yes, Your Honor."
+                },
+                {
+                    "start": 1535.261,
+                    "stop": 1549.471,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And in... when the prosecutor in the sentencing hearing calls the attention of the jury to, say a prior armed robbery conviction, is it the practice to give the details of the armed robbery conviction, or just the statutory crime and the fact that he was found guilty?"
+                },
+                {
+                    "start": 1549.471,
+                    "stop": 1560.948,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In a noncapital case, the only thing that's relevant is the fact of the prior conviction, so the prosecutor merely introduces the judgment and sentence showing there was a prior conviction, showing it was final--"
+                },
+                {
+                    "start": 1560.948,
+                    "stop": 1566.081,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And he's not permitted to go into the gruesome details of the prior one to show this was really a serious armed robbery."
+                },
+                {
+                    "start": 1566.081,
+                    "stop": 1568.212,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Not in a noncapital case."
+                },
+                {
+                    "start": 1568.212,
+                    "stop": 1570.996,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then is there any reason why there should be a different rule in capital cases?"
+                },
+                {
+                    "start": 1570.996,
+                    "stop": 1588.737,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, yes, because the aggravating circumstance is that this evidence was used to prove... there were two different ones, and one was that there was a probability the defendant would pose a continuing threat to society. In order to prove that, the State has to go behind the fact of the mere conviction and show the facts of the crime."
+                },
+                {
+                    "start": 1588.737,
+                    "stop": 1595.78,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is the State permitted to... beyond putting in the death... the fact that he was sentenced to death, is it permitted to put in all the details of the prior conviction?"
+                },
+                {
+                    "start": 1595.78,
+                    "stop": 1606.516,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "As to the continuing threat aggravating circumstance, the State has to put forth that evidence about the prior crime, and it may not even be an adjudicated crime under Oklahoma law."
+                },
+                {
+                    "start": 1606.516,
+                    "stop": 1614.241,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that done here? I mean, the nature of the prior murder for which the conviction was made?"
+                },
+                {
+                    "start": 1614.241,
+                    "stop": 1620.776,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Your Honor, it was. The fact of the Thompson murder, and that was the prior conviction and sentence that we're talking about--"
+                },
+                {
+                    "start": 1620.776,
+                    "stop": 1634.595,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, all the nature and the circumstances. Well, then I don't understand why the death penalty in the earlier case was relevant any more, because if in fact the jury knows first-hand that it was a horrible crime, it doesn't have to know that second-hand from finding out that the death penalty was imposed."
+                },
+                {
+                    "start": 1634.595,
+                    "stop": 1645.023,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--There was also an aggravating circumstance of prior violent felony conviction. In order to prove that, the State had to introduce the judgment and sentence showing-- --the prior conviction."
+                },
+                {
+                    "start": 1645.023,
+                    "stop": 1661.452,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but that doesn't tell the details of the crime. Would you tell us what's in this record about the prior conviction? There's the conviction, and the death sentence, and what else was this jury told about the prior murder?"
+                },
+                {
+                    "start": 1661.452,
+                    "stop": 1664.494,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "In the second stage the State put on--"
+                },
+                {
+                    "start": 1664.494,
+                    "stop": 1672.689,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought it was all based on a stipulation, and the only question was whether the judgment that showed the death sentence would go as well."
+                },
+                {
+                    "start": 1672.689,
+                    "stop": 1693.393,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, ma'am, that's not correct. The State also put on live witnesses who testified as to the facts of the Thompson murder, and that was to show the continuing threat aggravating circumstance. That's part of our argument, that in this case, this additional piece of accurate evidence could not have possibly influenced the jury's verdict. Not only had they already convicted this defendant of first degree murder--"
+                },
+                {
+                    "start": 1693.393,
+                    "stop": 1719.129,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're arguing against the decision that you're defending again, because didn't the Oklahoma Court of Criminal Appeals say, this could diminish the jury's sense of responsibility. It said two things. It was not relevant... the imposition of a death penalty by another jury is not relevant, and it said, learning the defendant had previously received a death sentence could diminish the jury's sense of the importance of its role."
+                },
+                {
+                    "start": 1719.129,
+                    "stop": 1759.717,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The Court of Criminal Appeals recognized that there was a possibility, or at least the issue had been raised that this was a Caldwell-type violation. Then they went through that analysis and held that it was not in this case. They also held that the introduction of this evidence did not infect the sentencing procedure so as to constitute a due process violation, therefore engaging in the Fourteenth Amendment analysis. After that, they held that this piece of evidence was irrelevant and should not have been admitted under State law. They then considered the fact of the admission of this irrelevant evidence under State law in the entire context of the proceedings, and held that it could not have possibly affected the jury's verdict."
+                },
+                {
+                    "start": 1759.717,
+                    "stop": 1766.871,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Blalock, what exactly was it that the Oklahoma Court of Criminal Appeals held was irrelevant, the admission of the sentence?"
+                },
+                {
+                    "start": 1766.871,
+                    "stop": 1783.374,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's all, Your Honor, the fact that the judgment and sentence was not redacted, was not edited to delete that portion that reflected what the defendant had received on the prior first degree murder conviction. That's the only portion of the evidence that the Court of Criminal Appeals found was irrelevant."
+                },
+                {
+                    "start": 1783.374,
+                    "stop": 1795.769,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Blalock, in view of the fact that the court of appeals found there was error here, did it have to conduct harmless error analysis, in your view?"
+                },
+                {
+                    "start": 1795.769,
+                    "stop": 1832.975,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It did not find that there was constitutional error, and what the petitioner presupposes is that the Court of Criminal Appeals engaged in the wrong standard set down by this Court when there's Federal constitutional error. The Court of Criminal Appeals did not ever find that. They didn't find that there was a Federal constitutional error, nor did they find that there was a State constitutional error, they just found that the admission of this evidence was irrelevant, and then, in the context of all the other evidence which was presented in the sentencing stage, decided whether or not it could have affected the jury's verdict, and they held that it did not."
+                },
+                {
+                    "start": 1832.975,
+                    "stop": 1843.35,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What was the standard that the court applied to determine that though there was error, it wasn't fatal?"
+                },
+                {
+                    "start": 1843.35,
+                    "stop": 1861.603,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "They found that, when viewed in the entirety of the evidence, and in the instructions that were given to the jury, that it was highly unlikely that this evidence could have influenced the jury's verdict. We quoted in our brief... there are two different analysis, or two different--"
+                },
+                {
+                    "start": 1861.603,
+                    "stop": 1891.282,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The court seemed to think there was some constitutional component to what it was doing, because it said, we must review this under a heightened standard because the qualitative difference of death from all other punishments requires a correspondingly greater degree of scrutiny, so I'm not... what do all those words add up to? Heightened standard, greater degree of scrutiny... what was the standard that the Oklahoma criminal--"
+                },
+                {
+                    "start": 1891.282,
+                    "stop": 1897.848,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I believe in that context... and that quotation from the court is at page 58 of the Joint--"
+                },
+                {
+                    "start": 1897.848,
+                    "stop": 1898.168,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1898.168,
+                    "stop": 1933.321,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Appendix. The court recognizes that capital sentencing procedures and capital trials require greater degree of scrutiny, and recognizes this Court's decision in California v. Ramos. They then go into their analysis, and make the due process determination whether or not the introduction of this evidence infected the sentencing procedure to the degree that it was unreliable and constituted a due process violation. It then held that it did not."
+                },
+                {
+                    "start": 1933.321,
+                    "stop": 1939.865,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was this heightened standard, was that a harmless error standard, and I believe Justice O'Connor asked you that question earlier."
+                },
+                {
+                    "start": 1939.865,
+                    "stop": 1959.888,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "They did not find constitutional error and then engage in a harmless error analysis under this Court's decisions of what standard applies in constitutional violations, so no, they didn't do that. They just recognized that the evidence was irrelevant, and determined that it couldn't have affected the jury's verdict."
+                },
+                {
+                    "start": 1959.888,
+                    "stop": 1973.746,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, their reasoning, as I understood it, was that there's no Caldwell error unless the alleged defect in the proceedings gave the jury the impression that someone other than the jury would be doing the sentencing. That's the way they reasoned."
+                },
+                {
+                    "start": 1973.746,
+                    "stop": 1977.86,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That was exactly their reasoning as to the Eighth Amendment, the Caldwell violation."
+                },
+                {
+                    "start": 1977.86,
+                    "stop": 1979.009,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a fairly narrow reading of Caldwell."
+                },
+                {
+                    "start": 1979.009,
+                    "stop": 2055.529,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, in this case I believe that they were correct in holding that Caldwell didn't apply. The jury... no one ever indicated or hinted to the jury that they were not the final decisionmakers as to the defendant's death sentence in this case. The prosecutor never told them that, the trial court certainly never told them that, in fact they did the opposite. The jury instructions emphasized to the jury that the decision was up to them, there was certainly no prosecutorial misconduct or any bad faith action on behalf of the State or the trial court in seeking to undermine the jury's responsibility in rendering a sentence in this case. Although I believe that the Court of Criminal Appeals was certainly correct in their analysis under the Eighth and Fourteenth Amendment and held that this was not a Federal constitutional violation, going back to my earlier point, I don't think that they had to determine that the evidence was irrelevant, I think that they could have determined that the evidence was relevant. I think that another State could find under their evidentiary rules that this sort of evidence was relevant."
+                },
+                {
+                    "start": 2055.529,
+                    "stop": 2060.333,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any... do you have any cases that have found this kind of evidence relevant?"
+                },
+                {
+                    "start": 2060.333,
+                    "stop": 2088.05,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The ones that we've cited in our brief, and I believe there is... the primary one is out of Pennsylvania. Most of the cases that have dealt with this type of evidence have been cases in which the jury not through the admission of evidence but through the newspapers, the media, or through their own common knowledge had some knowledge that the defendant had a prior death sentence. Some of them knew that the defendant had a prior death sentence that had been vacated or had a valid outstanding prior death sentence."
+                },
+                {
+                    "start": 2088.05,
+                    "stop": 2103.831,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I was going to ask about that. I take it that under the petitioner's submission, if a juror had such knowledge that would be a ground to excuse for cause? I would take it that would have to be the petitioner's position."
+                },
+                {
+                    "start": 2103.831,
+                    "stop": 2119.314,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, I would think so. Accepting petitioner's argument at face value, I don't think I'm stretching petitioner's argument in saying that any time a juror has knowledge defendant has a prior death sentence, then a fair trial is not possible and a reversal will have to result."
+                },
+                {
+                    "start": 2119.314,
+                    "stop": 2130.954,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, here the instruction came from the court, which gives it added importance, I suppose, and added... courts don't usually instruct on irrelevant matters."
+                },
+                {
+                    "start": 2130.954,
+                    "stop": 2238.693,
+                    "speaker": {
+                        "name": "Andre' Diane Blalock",
+                        "ID": 15534,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The evidence came in the... the knowledge of the prior death sentence came in the form of evidence in the judgment and sentence. The trial court didn't refer to it except to emphasize to the jury that it was not final and that it was on appeal. Pardon me. If there are no further questions, then in conclusion, I would like to reiterate to this Court our position that the Court of Criminal Appeals was correct in their determination of whether or not there is a Federal constitutional violation, and they were correct in their analysis of the effect of the prior death sentence in the context of this case. I would also like to remind you that in this particular case, I realize that what we're primarily concerned with is setting down guidelines or determining for future cases what the effect of this evidence is, or if this evidence should be admitted at all, but in this case, the Court of Criminal Appeals had to engage in a reweighing analysis because the prior violent felony conviction aggravating circumstance fell. They then considered, as this Court has held that they may, the remaining aggravating circumstances, and considered all the mitigating evidence that was presented on behalf of the defendant and held that the best sentence was still the appropriate sentence. Their decision is on page 66 of the Joint Appendix. So certainly in this case there's absolutely no question that that judgment and sentence that reflected that the defendant already had a death sentence could have affected his verdict, could have affected the sentence of death in this case at all, based on what the Court of Criminal Appeals had to do. Thank you."
+                },
+                {
+                    "start": 2238.693,
+                    "stop": 2243.546,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Blalock. Ms. Peters, do you have rebuttal? You have 10 minutes remaining."
+                }
+            ],
+            "start": 1112.946,
+            "stop": 2308.29
+        },
+        {
+            "turns": [
+                {
+                    "start": 2243.546,
+                    "stop": 2308.29,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "May it please the Court: Mrs. Blalock has argued that... said that the jury was never told that the verdict was not up to them. I would submit that this piece of evidence, like a picture, was worth a thousand words. They did not need to be explicitly told that their decision did not matter. There's reason in this record, as well as the other records in Romano's cases, to believe that this jury did in fact approach its duty with less care than it was required to. He has now been tried by three juries because the first trial was vacated and he was retried on that. In all three of those cases, the juries were given identical information going to whether he presents a continuing threat to society. The only difference in any of those cases was in this case, with the jury having the added knowledge that he had already been sentenced to die. The other two juries found that the State did not prove that he presents a continuing threat to society. Only the jury with the knowledge that he had already been sentenced to die made that finding. The problem with what the court of--"
+                },
+                {
+                    "start": 2308.29,
+                    "stop": 2311.382,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If prior verdicts are irrelevant, why are you telling us this?"
+                },
+                {
+                    "start": 2311.382,
+                    "stop": 2315.135,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--If prior verdicts are irrelevant?"
+                },
+                {
+                    "start": 2315.135,
+                    "stop": 2319.817,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your whole point is that it's irrelevant and we shouldn't know--"
+                },
+                {
+                    "start": 2319.817,
+                    "stop": 2321.77,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Prior death sentences are irrelevant."
+                },
+                {
+                    "start": 2321.77,
+                    "stop": 2324.371,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--what prior sentences are. Now you're telling us about those."
+                },
+                {
+                    "start": 2324.371,
+                    "stop": 2330.996,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Only what impact this might have had on the jury as an illustration."
+                },
+                {
+                    "start": 2330.996,
+                    "stop": 2333.938,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're saying-- --Well, that makes me-- --they're not relevant but they're highly prejudicial, that's what you're--"
+                },
+                {
+                    "start": 2333.938,
+                    "stop": 2342.383,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I'm saying that the death sentence was highly prejudicial, and that that evidences what might have happened in this case. The Court of Criminal Appeals--"
+                },
+                {
+                    "start": 2342.383,
+                    "stop": 2345.955,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Of course, that third conviction might have been the only one that was on a Tuesday, too. That might have been the reason."
+                },
+                {
+                    "start": 2345.955,
+                    "stop": 2348.187,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Also, on--"
+                },
+                {
+                    "start": 2348.187,
+                    "stop": 2354.761,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You really don't know. You're just saying that post hoc, therefore, right, that was the reason. You don't know that that's the reason. Maybe. Maybe not."
+                },
+                {
+                    "start": 2354.761,
+                    "stop": 2396.96,
+                    "speaker": {
+                        "name": "Lee Ann Jones Peters",
+                        "ID": 34936,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Certainly, but we know that the only difference in what the jury heard was evidence of the death sentence. When the Court of Criminal Appeals reviewed this case and reweighed, as I said before, they relied on an instruction that was not given, and they presumed the jury's verdict to be correct, so they gave... they relied on findings made by this jury, but if this jury's sentencing responsibility was undermined, its findings of aggravating factors were also affected and could not be relied upon by the jury. It's difficult to imagine what evidence could be more prejudicial to a capital defendant than the fact that he's already been sentenced to die. Thank you."
+                },
+                {
+                    "start": 2396.96,
+                    "stop": 2401.293,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Peters. The case is submitted."
+                }
+            ],
+            "start": 2243.546
+        }
+    ]
+}

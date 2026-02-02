@@ -1,0 +1,2152 @@
+{
+    "title": "Perry v. New Hampshire",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 9.689,
+                    "stop": 33.202,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: An eyewitness identification made under a suggestive influence presents a unique danger of misidentification and a miscarriage of justice. It is that danger of misidentification which implicates due process and requires an evaluation of the reliability of the identification. The constitutional--"
+                },
+                {
+                    "start": 33.202,
+                    "stop": 38.672,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counselor, does your position depend on police involvement at all?"
+                },
+                {
+                    "start": 38.672,
+                    "stop": 40.208,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor."
+                },
+                {
+                    "start": 40.208,
+                    "stop": 48.564,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm -- if a private investigator shows a picture or -- that has no connection to the police, a company's investigator?"
+                },
+                {
+                    "start": 48.564,
+                    "stop": 49.647,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "What I suggest--"
+                },
+                {
+                    "start": 49.647,
+                    "stop": 53.516,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or the news media publishes a picture of someone that it thinks--"
+                },
+                {
+                    "start": 53.516,
+                    "stop": 98.247,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I have a two-part answer to that. The -- the significance of the suggested influence is how it affects reliability. Most of the time that influence, the defense will allege, is from some police activity, and rightly so because they are mostly involved and rightly so because police suspicion is the kind of influence that would direct the witness's attention and say that's the man. But it's not necessarily required, and in fact one of the Federal court of appeal cases, Dunnigan v. Keane, involved exactly that, a private investigator, where a private investigator from a bank showed surveillance photos to the witness and then later the witnesses made an ID."
+                },
+                {
+                    "start": 98.247,
+                    "stop": 126.997,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Guerriero, if it's not -- if it's not limited to suggestive circumstances created by the police, why is unreliable eyewitness identification any different from unreliable anything else? So shouldn't we look at every instance of evidence introduced in criminal cases to see if it was reliable or not?"
+                },
+                {
+                    "start": 126.997,
+                    "stop": 149.345,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. I suggest that eyewitness identification evidence is unique, and I think that this Court recognized that in Wade and in the subsequent cases, in fact described it at that time as probably the leading cause of miscarriages of justice. And in fact experience with the DNA exonerations that we've seen recently in the last 10 or 15 years have shown that."
+                },
+                {
+                    "start": 149.345,
+                    "stop": 158.535,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So at least for all eyewitness testimony, there would have to be some pretesting for reliability? Is that -- is that your contention?"
+                },
+                {
+                    "start": 158.535,
+                    "stop": 178.08,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, and I don't think that's exactly what the Court said in Wade and the subsequent cases. It's the combination of eyewitness identification testimony plus the suggestive influence which makes -- which brings it to sort of the height of suspicion and creates the greatest risk."
+                },
+                {
+                    "start": 178.08,
+                    "stop": 194.624,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And in this case, in which category do you place the eyewitness testimony? Is it police suggestion, or is it suggestive but not through any manipulation on the police's part?"
+                },
+                {
+                    "start": 194.624,
+                    "stop": 221.709,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In our case, we do not allege any manipulation or intentional orchestration by the police. But our position is that it appeared to the witness, to Ms. Blandon, that Mr. Perry was in fact a suspect, and she looked down and there was that suspicion. Now, if we had been able to have our due process claim heard, the judge may or may not have agreed that that was suggestive and created a risk. But--"
+                },
+                {
+                    "start": 221.709,
+                    "stop": 281.396,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think that our cases which exclude or -- or require reversal when there is eyewitness testimony impaired by the police, you think that's really limited to eyewitness testimony? Suppose the police created suggestiveness in another category of evidence. Let's say -- let's say voice evidence, that the killer had left a message on the -- on the phone and the police in some manner create suggestiveness that causes a witness to identify that as the voice of the killer. You really think that we would say, well, this is not eyewitness testimony; eyewitness testimony creates a special risk? Don't you think that we would say whenever the police render evidence unreliable it -- it should be excluded?"
+                },
+                {
+                    "start": 281.396,
+                    "stop": 286.049,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that may be a separate due process claim. For example, if the police--"
+                },
+                {
+                    "start": 286.049,
+                    "stop": 297.238,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Exactly. But -- but that -- that impairs your -- your argument, because if we accept your argument for eyewitness we should similarly accept it for everything else. There is nothing special about eyewitness."
+                },
+                {
+                    "start": 297.238,
+                    "stop": 303.761,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I -- I disagree, Your Honor. I think that what the Court has said is that there is something special about eyewitness identification testimony."
+                },
+                {
+                    "start": 303.761,
+                    "stop": 306.077,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm saying we don't mean it. [Laughter]"
+                },
+                {
+                    "start": 306.077,
+                    "stop": 306.963,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 306.963,
+                    "stop": 323.223,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm saying that it's unbelievable that if the -- if the police created testimony, not eyewitness testimony but testimony that was unreliable because of police suggestiveness, I think we would throw that out as well. Don't you think so?"
+                },
+                {
+                    "start": 323.223,
+                    "stop": 342.719,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I -- well, I think that in any case, and I think the Court has said this in other circumstances, that in any case a defendant could raise a due process claim and say, either because of the way the prosecution handled the evidence or because of the -- the combination of rulings on evidence, that there was a due process violation that implicated fundamental fairness."
+                },
+                {
+                    "start": 342.719,
+                    "stop": 385.546,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In this case, suppose that the police talked to this -- to the lady that was in the -- in the apartment and saw the thing out the window and said, we -- we think we've solved this case but you can't look at this man. We don't want to you look at this man. Don't tell us. We're not going to let you look out that window. It seems to me that the defendant might have a due process argument that the police interfered, that she couldn't say right when he was there, that's not the man. I don't know what you want the police to do in this case. It seems to me it would have been, A, risking this argument from the defendant, and B, improper police conduct, not to ask the woman is this the man?"
+                },
+                {
+                    "start": 385.546,
+                    "stop": 405.71,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I disagree, Your Honor. If the police wanted to ask her to make an identification, they could have done a line-up procedure or a photo line-up procedure fairly promptly that would be distinct from and much more fair than the show-up at the scene. And there was no emergency or exigency here that would require a show-up."
+                },
+                {
+                    "start": 405.71,
+                    "stop": 427.756,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about -- what about unreliable eyewitness testimony in favor of the defendant? Let's assume the same suggestiveness that causes you to exclude it when it's been introduced by the prosecution, but here it's being introduced by the defendant to show that it was somebody else, okay? Is that going to be excluded?"
+                },
+                {
+                    "start": 427.756,
+                    "stop": 432.544,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It may be excluded under the rules of evidence, but the Due Process Clause doesn't--"
+                },
+                {
+                    "start": 432.544,
+                    "stop": 439.181,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think it should be excluded under the rules of evidence? If you say it's so unreliable -- this is a one-way door?"
+                },
+                {
+                    "start": 439.181,
+                    "stop": 441.55,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Due Process Clause--"
+                },
+                {
+                    "start": 441.55,
+                    "stop": 453.107,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All of the evidence that -- that causes the defendant to be convicted is excluded, but -- but any -- any evidence -- any evidence on the other side is not?"
+                },
+                {
+                    "start": 453.107,
+                    "stop": 468.117,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the defendant is obviously not trying to deprive the State of its liberty in the same way that the State is trying to deprive the defendant of his liberty at trial, so the Due Process Clause would not apply in that sense. That's not to say that there wouldn't be evidentiary grounds for the State to raise that objection."
+                },
+                {
+                    "start": 468.117,
+                    "stop": 493.315,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you see, when -- when it's the State that causes the unreliability, I can see why it is a -- a ground that can be invoked only by the defendant. But when you come up with a theory that it doesn't matter whether the State was the cause or not, I don't know why it wouldn't work both ways, that the evidence is inherently unreliable and it ought to be excluded whether it helps the defendant or hurts the defendant."
+                },
+                {
+                    "start": 493.315,
+                    "stop": 494.034,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It -- it--"
+                },
+                {
+                    "start": 494.034,
+                    "stop": 499.338,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Once -- once you take the State out of the mix there is no reason to limit it to the -- to the defendant."
+                },
+                {
+                    "start": 499.338,
+                    "stop": 504.29,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You -- you answered that due process works only in favor of the defendant."
+                },
+                {
+                    "start": 504.29,
+                    "stop": 504.723,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right."
+                },
+                {
+                    "start": 504.723,
+                    "stop": 505.992,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not in favor of the State."
+                },
+                {
+                    "start": 505.992,
+                    "stop": 506.625,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 506.625,
+                    "stop": 512.646,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that is your only -- your only distinction. You are saying that this is a one -- one-way--"
+                },
+                {
+                    "start": 512.646,
+                    "stop": 514.514,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right, Justice Ginsburg."
+                },
+                {
+                    "start": 514.514,
+                    "stop": 515.131,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--street."
+                },
+                {
+                    "start": 515.131,
+                    "stop": 515.464,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 515.464,
+                    "stop": 521.835,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I take it from your -- I take it from your answers that simple unreliability is not enough. If there's testimony--"
+                },
+                {
+                    "start": 521.835,
+                    "stop": 522.552,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 522.552,
+                    "stop": 527.922,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--eyewitness testimony that seems of very dubious unreliability, that cannot be excluded."
+                },
+                {
+                    "start": 527.922,
+                    "stop": 528.672,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right. I--"
+                },
+                {
+                    "start": 528.672,
+                    "stop": 529.172,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Something more is needed."
+                },
+                {
+                    "start": 529.172,
+                    "stop": 530.855,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right, and I might even go further."
+                },
+                {
+                    "start": 530.855,
+                    "stop": 532.374,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Something more is needed; suggestiveness is needed."
+                },
+                {
+                    "start": 532.374,
+                    "stop": 532.807,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 532.807,
+                    "stop": 536.826,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But suggestiveness doesn't require any police involvement? Is that right?"
+                },
+                {
+                    "start": 536.826,
+                    "stop": 537.359,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 537.359,
+                    "stop": 540.194,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you just define what you mean by suggestiveness?"
+                },
+                {
+                    "start": 540.194,
+                    "stop": 556.489,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think the court has given examples. If it's effectively a show-up or a show-up. The example in Foster involved a couple of different kinds of suggestiveness. One was where the police did a line-up where the defendant was the only common person."
+                },
+                {
+                    "start": 556.489,
+                    "stop": 560.707,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but those are all situations where the police is involved, the police are involved."
+                },
+                {
+                    "start": 560.707,
+                    "stop": 576.819,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. The nonpolice examples of suggestiveness that rise to the due process level are mostly going to be show-ups. The example in Dunnigan v. Keane was a private investigator showing, from the bank, that they had an ATM card that was stolen from the person."
+                },
+                {
+                    "start": 576.819,
+                    "stop": 584.74,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what if you have cross-racial identification? Would that qualify on the ground that studies have shown that those may be less reliable."
+                },
+                {
+                    "start": 584.74,
+                    "stop": 596.78,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That may be a separate grounds to move for a jury instruction or for an expert. I'm not sure that -- we certainly don't argue here and it wasn't argued below that that's a separate due process ground."
+                },
+                {
+                    "start": 596.78,
+                    "stop": 621.848,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Why not? I mean, that's the point. Why not? What about an eyewitness identification from 200 yards? You know, normally you'd leave it to the jury and the jury would say that's very unlikely. But you want to say it has to be excluded and if it's not you retry the person. What is magic about suggestiveness as opposed to all of the other matters that could cause eyewitness identification to be wrong?"
+                },
+                {
+                    "start": 621.848,
+                    "stop": 638.393,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Two answers to that, Your Honor. First, it's not that these things are always excluded, and in fact the Court has set a very high bar. I mean, the standard is this evidence is excluded only if it's very substantially likely to lead to a misidentification. So--"
+                },
+                {
+                    "start": 638.393,
+                    "stop": 645.63,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand that, but I need to know what you mean by suggestiveness. What does that mean? Can you just give me a definition of it?"
+                },
+                {
+                    "start": 645.63,
+                    "stop": 684.672,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is conduct or circumstances that point -- that tell the witness that's the man. And most commonly it would be showing a single photograph or presenting the person as a suspect or it appearing, as in this case, that the -- the defendant was a suspect. And that's essentially how the Court has defined it, as conduct that says that's the man. So there may be some things that the defense argues that are suggestive and the trial court looks at it and says, you know, that's a very slight suggestion. You say he is the only guy in the line-up with a mustache. I don't even -- I'm not going any further. I don't think that's sufficient suggestion. That doesn't qualify as saying that's the man."
+                },
+                {
+                    "start": 684.672,
+                    "stop": 700.967,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But just to repeat Justice Scalia's question, once you're not talking about police suggestiveness, once you're talking about suggestiveness that arises from non-State conduct, why should we be focused on suggestiveness as opposed to any other cause of unreliability?"
+                },
+                {
+                    "start": 700.967,
+                    "stop": 708.121,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, because that's what -- my first reason is that that's what the Court focused on in Wade as the main danger."
+                },
+                {
+                    "start": 708.121,
+                    "stop": 723.296,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the Court was focusing on police suggestiveness. That's the context of all our cases. Now, you might say, well, look, there is a bigger problem and the bigger problem is the unreliability of identifications generally, but that doesn't relate to suggestiveness per se."
+                },
+                {
+                    "start": 723.296,
+                    "stop": 749.448,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think our position is in between there. We are not saying that there is a due process right to have eyewitness evidence excluded generally without some suggestiveness. What we are saying is that if the suggestion comes from a nonpolice source or if it, as in this case, involved the police but their involvement was unintentional, it's just accidental, that that suggestiveness should still be considered because--"
+                },
+                {
+                    "start": 749.448,
+                    "stop": 750.081,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What does that mean?"
+                },
+                {
+                    "start": 750.081,
+                    "stop": 772.361,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you distinguish -- do you distinguish the husband's situation? He was an eyewitness too, but there was a motion to suppress her testimony. Is that an example where there is an eyewitness testimony but no suggestiveness? Why didn't you move to suppress the husband's statement?"
+                },
+                {
+                    "start": 772.361,
+                    "stop": 781.919,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Trial counsel simply did not move to suppress that testimony. I don't have a good explanation and, to be frank, I would have filed the motion to suppress his testimony."
+                },
+                {
+                    "start": 781.919,
+                    "stop": 783.869,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you'd put them both in the same category?"
+                },
+                {
+                    "start": 783.869,
+                    "stop": 784.235,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would have."
+                },
+                {
+                    "start": 784.235,
+                    "stop": 806.131,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why isn't it -- this may be -- just again following up on Justice Alito's question, but there is always a degree of suggestiveness. It's not like the person is picked randomly off the street and saying, you know, do you know this person? It's in the context of an investigation. The person has some contact with it. So there is always some suggestiveness that, well, this person might have something to do with what went on."
+                },
+                {
+                    "start": 806.131,
+                    "stop": 821.691,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right. And if it rises to a level of what the Court has given as examples of a show-up or the same defendant appearing in a line-up or something else that says that's the man, then that raises a red flag. And it's not a--"
+                },
+                {
+                    "start": 821.691,
+                    "stop": 840.904,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But whenever -- whenever the witness is asked, at least there is a suggestion that this might be the man. And I don't know why you would think that's any greater than this is the man. The police don't come up usually and say, this is the person that we think did it; is that who you saw? They say, did you see this guy?"
+                },
+                {
+                    "start": 840.904,
+                    "stop": 873.376,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Actually, I disagree with that aspect of your question, Your Honor. And in fact I think the proper police procedure in certainly the police departments that I'm familiar with will instruct the witness that, do not assume that anyone that we think is a suspect is in this line-up. And that's in the standard witness instructions, and they may even do multiple line-ups where they say, okay, we are going to show you three sets of eight and the suspect -- or there may or may not be a suspect in any of them. We just want you to look at this set and see if anyone--"
+                },
+                {
+                    "start": 873.376,
+                    "stop": 878.446,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well what about a situation like the one we had here, where you're not talking about a line-up."
+                },
+                {
+                    "start": 878.446,
+                    "stop": 878.846,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right."
+                },
+                {
+                    "start": 878.846,
+                    "stop": 895.189,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're talking about the scene of a crime, and the police says, do you know this person, did you see this person, or anything else? That in itself, any type of identification in the course of an investigation, I think you would have to say is suggestive, because the person is not picked up randomly."
+                },
+                {
+                    "start": 895.189,
+                    "stop": 907.597,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is, but the key is that it's not the suggestion that results in exclusion. It's the suggestion that raises the red flag that allows the defendant to say, would the trial court please evaluate this according to the standards."
+                },
+                {
+                    "start": 907.597,
+                    "stop": 938.801,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So this is -- again, this is just following up, I guess. But I remember in law school one of the things in criminal law, the professor says, all right, everybody be quiet. And then a certain amount of time goes by and then he starts asking people, well, how much time went by? And people -- some people say 4 minutes, some people say, you know, 1 minute. And it turns out, if I'm remembering correctly, to be a lot shorter than most people think. So that's at least, the point that was trying to be made anyway, at least as unreliable as eyewitness testimony. So your argument would have to cover that, wouldn't it?"
+                },
+                {
+                    "start": 938.801,
+                    "stop": 940.337,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I--"
+                },
+                {
+                    "start": 940.337,
+                    "stop": 956.18,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You know, how long were you there before this individual came into the shop? The person says, I was there for 5 minutes, and that ruins the person's alibi, when it turns out, you know, study after study would say it really was 45 seconds or 1 minute."
+                },
+                {
+                    "start": 956.18,
+                    "stop": 993.02,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think it's important to look back at what the Court said in Wade and in fact how what the Court said in Wade has been borne out. Of course, there is aspects of unreliability to any kind of evidence. Somebody could come and claim that there is issues with false confessions or issues with forensic evidence. I think last term somebody made a claim -- tried to assert a claim regarding DNA evidence that was akin to an eyewitness identification claim. But the point is that this kind of evidence was singled out by the Court and recognized as having particular dangers, and it's been borne out by the studies, not psychological--"
+                },
+                {
+                    "start": 993.02,
+                    "stop": 998.34,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But again, that was in the context of procedures that the police had instituted."
+                },
+                {
+                    "start": 998.34,
+                    "stop": 1000.125,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It may be that--"
+                },
+                {
+                    "start": 1000.125,
+                    "stop": 1034.013,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And your -- and your rationale goes much beyond it. In a way you're infringing on the province of the jury. I don't usually like to reminisce, but there was a case I had where a prosecution witness was very, very certain, all too certain, and I said: Do you ever take your wife out to dinner or go out to dinner with friends? And he said: Oh, yes. I said: Has it ever happened to you that midway in the meal you say, is that our waiter, and you've seen -- the waiter has brought you the menu, he has taken your order, he has brought your food, and you were under no stress at the time."
+                },
+                {
+                    "start": 1034.013,
+                    "stop": 1034.513,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 1034.513,
+                    "stop": 1042.868,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And there was good light. So you teach the jury this way. And you're just -- you're just usurping the province of the jury, it seems."
+                },
+                {
+                    "start": 1042.868,
+                    "stop": 1058.128,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think so, Your Honor. I mean, I think what this Court has said is that this is a special category of evidence that has to be red-flagged by or can be red-flagged by the defense for the trial judge to look at it and say--"
+                },
+                {
+                    "start": 1058.128,
+                    "stop": 1058.497,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is--"
+                },
+                {
+                    "start": 1058.497,
+                    "stop": 1059.83,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--on a case by -- I'm sorry."
+                },
+                {
+                    "start": 1059.83,
+                    "stop": 1064.318,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Go ahead. You were saying on a case -- all you want to do is red-flag it for the judge."
+                },
+                {
+                    "start": 1064.318,
+                    "stop": 1072.555,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And then the trial judge would look at it and in the rare case where he says it's very substantially likely, which we agree is a high standard--"
+                },
+                {
+                    "start": 1072.555,
+                    "stop": 1127.308,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Now, how does that differ from what exists in I think every State and certainly in the Federal Rules in Rule 403? The judge may exclude evidence if its relevance is outweighed by its prejudice or misleading the jury. So why, in any instance where you think that this statement about to come in is unreliable for various reasons, you say: Judge, will you please look please look at Rule 403; I have some experts over here and whatever else you want that would show that this is misleading to the jury for all the reasons you have said in your brief, right. So -- so since that is already the law and it does apply to every piece of evidence, including all the things we've been talking about, what is it that you want to change?"
+                },
+                {
+                    "start": 1127.308,
+                    "stop": 1133.962,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, to answer the first part of your question, what's different about this evidence is that--"
+                },
+                {
+                    "start": 1133.962,
+                    "stop": 1154.309,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I didn't say what's different about it. I'm not looking for a difference. I'm looking -- I'm saying they are all the same. And indeed we do what you want right now. It's called Rule 403 in the Federal system. What I'm asking you is what is it you want done, since all you want is the judge to look at it carefully, that is not done at this moment?"
+                },
+                {
+                    "start": 1154.309,
+                    "stop": 1177.841,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The analysis under 403, which New Hampshire of course has as well, will accord a certain weight and value to the opportunity of counsel to cross-examine the witness and to make arguments to the jury. And unlike any other kind of evidence, this Court has said, precious though it is, the right of cross-examination does not always--"
+                },
+                {
+                    "start": 1177.841,
+                    "stop": 1209.793,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the judges don't, I'm sure -- I'm not 100 percent sure, you'd have to ask a trial judge. But I am sure there are instances where judges say under Rule 403: I conclude it is misleading and it is prejudicial and it can't be made up for, therefore I exclude it. All right, that happens. Now, since that's what you want the judge to do, I repeat my question: What is the difference between what you're asking for and what already exists in the law?"
+                },
+                {
+                    "start": 1209.793,
+                    "stop": 1210.978,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The difference--"
+                },
+                {
+                    "start": 1210.978,
+                    "stop": 1211.978,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Unless -- well, go ahead."
+                },
+                {
+                    "start": 1211.978,
+                    "stop": 1232.642,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm sorry. The difference is that under a normal 403 analysis, when I told the judge, when I said she never could describe his face, she couldn't even say what clothes he was wearing, the judge will respond to me and say, that's fine. That's all great fodder for cross-examination. But the difference with this kind of evidence is that it's not just--"
+                },
+                {
+                    "start": 1232.642,
+                    "stop": 1262.978,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Whoa, wait. Stop you there, because now what you seem to be saying is it isn't the case that you simply want the judge to look at this with care, rather you want the judge to change her result. You want sometimes this to be excluded where under 403 it is sometimes not excluded. Right. Now, I ask -- if that's what you want, that's a different matter. That's a substantive standard. And so you're proposing a different substantive standard and I want to know what it is."
+                },
+                {
+                    "start": 1262.978,
+                    "stop": 1274.236,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It's -- it's the standard that this Court has established, if it's reasonably -- reasonably likely or substantially likely to lead to a risk of misidentification at trial, very substantially likely."
+                },
+                {
+                    "start": 1274.236,
+                    "stop": 1335.976,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That would be really a great change from the way trials are now conducted, wouldn't it. Let me give you this example. A victim is raped and the victim doesn't really have a very good opportunity to see the perpetrator. It's dark, the person has a mask and so forth. A couple of weeks go by and the victim reads on article in the paper that says so-and-so has been arrested for a rape in another part of the city. There is a picture of that person in the paper and the victim says, that's the person who raped me. Now, you want to make it possible for the judge to say that victim may not testify and identify the person that that person -- that the victim says was the perpetrator of the rape, on the ground that the newspaper picture was suggestive, even though there wasn't any police involvement and when you look at all the circumstances, the identification is unreliable. Now, maybe that's a good system, but that is a drastic change, is it not, from the way criminal trials are now conducted?"
+                },
+                {
+                    "start": 1335.976,
+                    "stop": 1345.432,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it's certainly not the change from what the law is in the Federal circuits that we cited. And I would also point out that in one of the--"
+                },
+                {
+                    "start": 1345.432,
+                    "stop": 1351.003,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you know of cases like that in which the judge has said that eyewitness identification cannot come in?"
+                },
+                {
+                    "start": 1351.003,
+                    "stop": 1373.601,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In Thigpen v. Cory, which is a Sixth Circuit case, the court said -- in fact they specifically used the phrase \"police machinations\" -- that this did not arise from police machinations. It was basically happenstance in that case that the witness was -- the witness identified the defendant and it was excluded as unreliable."
+                },
+                {
+                    "start": 1373.601,
+                    "stop": 1379.838,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But we've said in our case, Neil v. Biggers -- that was a rape case and we allowed it. We allowed the eyewitness."
+                },
+                {
+                    "start": 1379.838,
+                    "stop": 1384.809,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well -- and I think the Court said in all its cases, and in particular in Simmons, that each case--"
+                },
+                {
+                    "start": 1384.809,
+                    "stop": 1390.546,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And, in fact we said that it was unnecessarily suggestive, but that it was still reliable."
+                },
+                {
+                    "start": 1390.546,
+                    "stop": 1413.159,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--And it may be. I mean, it may -- you could have an extremely -- you could have a -- the police could do a show-up intending to produce an ID, but if the witness got a very good look at the person, was calm, was maybe a police officer like in Brathwaite and the court said, we don't care how deliberate this -- and even if there is manipulation, we don't care how much of that there is, we find it's reliable here."
+                },
+                {
+                    "start": 1413.159,
+                    "stop": 1439.694,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose that there was some other category of testimony which proved even more unreliable than the category that you're talking about. Let's say that it turned out study after study after study that jailhouse informants lie. And so the testimony of jailhouse informants is likely to be just completely unreliable, to, you know, double as much as eyewitness testimony. Same rule for that?"
+                },
+                {
+                    "start": 1439.694,
+                    "stop": 1465.194,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it would be a very high burden for the defense to meet there. But if the finding was that there are times that a witness, that -- like in the eyewitness situation, where the witness truly believes that they are identifying the right person, but they are actually not and it could result in a miscarriage of justice, then I do believe fundamental fairness requires the Court to say due process doesn't allow that evidence."
+                },
+                {
+                    "start": 1465.194,
+                    "stop": 1482.14,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well, now we are talking about, now we are setting up a standard that applies outside eyewitness testimony. It's just testimony that we find to be -- categories of testimony that we find to be extremely unreliable will be subject to this new due process red flag. Is that right?"
+                },
+                {
+                    "start": 1482.14,
+                    "stop": 1497.315,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I don't think so, Your Honor. But more for a factual reason in that the Court said in 1967 that this is the leading cause of miscarriage of justice. The studies and -- not just studies, but the transcripts and records of actual trials."
+                },
+                {
+                    "start": 1497.315,
+                    "stop": 1513.692,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I understand you have very good empirical evidence which should lead us all to wonder about the reliability of eyewitness testimony. I'm just suggesting that eyewitness testimony is not the only kind of testimony which people can do studies on and find that it's more unreliable than you would think."
+                },
+                {
+                    "start": 1513.692,
+                    "stop": 1530.386,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, maybe if somebody else came along and said, we've done a study and we find this kind of evidence, that in 75 percent of the wrongful convictions, this evidence contributed to the miscarriage of justice, then I would think the Court should take a look at that. But I don't think any other evidence matches that."
+                },
+                {
+                    "start": 1530.386,
+                    "stop": 1546.246,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about all the other safeguards that you have? You can ask the judge to tell the jury: Be careful; eyewitness testimony is often unreliable. You can point that out in cross-examination."
+                },
+                {
+                    "start": 1546.246,
+                    "stop": 1546.763,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1546.763,
+                    "stop": 1572.38,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All those questions. You can say something about it in your summation to the jury. And as Justice Breyer brought up, you have the evidence rule that says if prejudicial value outweighs probative value that the judge can say, I'm not going to let it in. Why aren't all those safeguards enough?"
+                },
+                {
+                    "start": 1572.38,
+                    "stop": 1578.584,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If all of those safeguards were enough, even when the police made--"
+                },
+                {
+                    "start": 1578.584,
+                    "stop": 1587.173,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, leaving aside the police, because there -- there is an interest in deterrence, in deterring the police from manipulating evidence."
+                },
+                {
+                    "start": 1587.173,
+                    "stop": 1608.153,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think deterrence is the primary basis of the court's cases, Your Honor, because the Court has said that if it proves to be reliable, no matter how manipulative the police were, this evidence comes in. So the basis of the rule is not primarily determined -- deterrence; it's the risk of an unfair trial and the risk of a miscarriage of justice."
+                },
+                {
+                    "start": 1608.153,
+                    "stop": 1613.324,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There is a difference between suggestive and suggested by the police."
+                },
+                {
+                    "start": 1613.324,
+                    "stop": 1614.976,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorry, Your Honor, I--"
+                },
+                {
+                    "start": 1614.976,
+                    "stop": 1632.052,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If the suggestion comes from the police, then the evidence will be excluded. If the suggestion comes from someplace else, unless we change the rule--"
+                },
+                {
+                    "start": 1632.052,
+                    "stop": 1633.218,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well I think that that's a--"
+                },
+                {
+                    "start": 1633.218,
+                    "stop": 1635.254,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--it would be admitted."
+                },
+                {
+                    "start": 1635.254,
+                    "stop": 1658.952,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I mean, I think that that's a -- that's a tricky issue to consider, because suggestion coming from the police is different from manipulation. And if -- if the rule is unintended suggestion from the police implicates due process, then Perry was entitled to a due process analysis, because the unintended suggestion here was apparent police suspicion as he stood there."
+                },
+                {
+                    "start": 1658.952,
+                    "stop": 1661.002,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel."
+                },
+                {
+                    "start": 1661.002,
+                    "stop": 1661.452,
+                    "speaker": {
+                        "name": "Richard Guerriero",
+                        "ID": 39386,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 1661.452,
+                    "stop": 1674.395,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "General Delaney."
+                }
+            ],
+            "start": 9.689,
+            "stop": 1700.696
+        },
+        {
+            "turns": [
+                {
+                    "start": 1674.395,
+                    "stop": 1700.696,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: An eyewitness identification implicates due process concerns only when the police arrange a confrontation to elicit a witness's identification of a suspect and use unnecessarily suggestive techniques that skew the fact-finding process. The central concern--"
+                },
+                {
+                    "start": 1700.696,
+                    "stop": 1713.854,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now we've changed the language of Wade when it talks about intentional or unintentional. And you're suggesting that police manipulation always has to be intentionally suggestive?"
+                },
+                {
+                    "start": 1713.854,
+                    "stop": 1715.456,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm not--"
+                },
+                {
+                    "start": 1715.456,
+                    "stop": 1722.026,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even if the policeman tells you he wasn't really thinking or focusing on a distinguishing characteristic in the line-up?"
+                },
+                {
+                    "start": 1722.026,
+                    "stop": 1742.023,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That may play a role, Justice Sotomayor, but only in a limited sense, and not in the way the Petitioner is suggesting we look at unintentional conduct. First, for the due process inquiry to trigger, there must be an arranged confrontation of a suspect and a witness by the police."
+                },
+                {
+                    "start": 1742.023,
+                    "stop": 1752.062,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you tell me what you think would have happened here? there was a reason the police asked this defendant to stay put. They didn't want him to leave the scene, correct?"
+                },
+                {
+                    "start": 1752.062,
+                    "stop": 1753.997,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That -- that's correct."
+                },
+                {
+                    "start": 1753.997,
+                    "stop": 1789.587,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In your judgment -- I think Justice Kennedy hit the nail on the head. My suspicion is that at some point they would have asked the witnesses in the building and engaged in a show-up. What's so different between intentionally doing the show-up and holding the defendant in the back yard standing there next to a police officer, so that anyone who wants to, like this woman, who wants to find the guy, can just point to that one? What's the difference?"
+                },
+                {
+                    "start": 1789.587,
+                    "stop": 1810.751,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The difference in this case is the role that the police played in bringing about potential suggestion under your hypothetical. What the Due Process Clause is concerned about is the role of the police in essentially stacking the deck, putting their thumb on the scale and skewing the fact-finding process. It goes to the intent of the process--"
+                },
+                {
+                    "start": 1810.751,
+                    "stop": 1856.981,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. I mean, the way not to skew it was to put him in the police car and just let him sit there in the dark. So they intentionally made him wait at the scene of the crime. I'm not talking about whether this was necessary or unnecessary, because I think that a perfectly good argument could be made that the police acted reasonably and necessarily; all right? It makes no sense to move a defendant that far from the scene of a crime if you're not sure he is the one who committed the crime, he or she. But I'm -- I'm going to the question of how do we define, if we write this opinion, manipulation without getting into a mens rea type analysis and adding yet another layer to Biggers."
+                },
+                {
+                    "start": 1856.981,
+                    "stop": 1866.687,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, first, I don't think you need to go there in this case. You can simply say that, based on the factual findings of the State court, the police did not induce any type of show-up--"
+                },
+                {
+                    "start": 1866.687,
+                    "stop": 1882.53,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But doesn't -- we face that problem anyway, even if we -- whether or not we decide in this case that it doesn't matter that the police manipulated it, we are always going to have the problem of when has there been police manipulation; right?"
+                },
+                {
+                    "start": 1882.53,
+                    "stop": 1883.216,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 1883.216,
+                    "stop": 1886.001,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, that -- that's not a creation of this -- of this case."
+                },
+                {
+                    "start": 1886.001,
+                    "stop": 1886.884,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1886.884,
+                    "stop": 1906.581,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I -- I would guess that in the case you're talking about, just telling the person to stay where he is, is not -- now, it would be different if -- if the defendant was -- was caught two blocks away and the police bring him back to the scene of the crime and make him stand there so that the woman can see him from the window. That's quite different."
+                },
+                {
+                    "start": 1906.581,
+                    "stop": 1918.722,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is quite different. And Stovall tells us that the test is an objective one. We look at the totality of the circumstances to determine whether there has been suggestive conduct. Now, in that regard--"
+                },
+                {
+                    "start": 1918.722,
+                    "stop": 1923.924,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When you say that's -- when you say that's different, you're not -- you're not suggesting that that would be suggestive, are you?"
+                },
+                {
+                    "start": 1923.924,
+                    "stop": 1924.507,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, I'm not."
+                },
+                {
+                    "start": 1924.507,
+                    "stop": 1944.152,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because presumably, that's the same argument -- that's for the jury and the counsel. They can say during cross-examination the guy was two blocks away, you know, and -- and wasn't it only because the police brought him back that you -- all of that. I don't see what difference it makes in terms of whether you have a suppression hearing before the trial."
+                },
+                {
+                    "start": 1944.152,
+                    "stop": 1977.104,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Mr. Chief Justice. It would not make a difference in that regard. And on the facts of this case, we do have clear factual finding that this police officer in no way -- in no way induced this witness to move towards the window and identify a suspect who just happened to be standing next to a police officer. If the concern under due process in this area has been a deterrence rationale, which this Court has stated in both Neil v. Biggers and in Manson v. Brathwaite, that must be the guiding principle."
+                },
+                {
+                    "start": 1977.104,
+                    "stop": 2005.123,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's both; right, General Delaney? I mean, the Court has certainly talked about deterrence, but the Court also has very substantial discussions in all of these opinions about reliability. And from the criminal defendant's point of view, it doesn't really much matter whether the unreliability is caused by police conduct or by something else. So -- so tell me a little bit why you think the police conduct here, you know, that has to be there in every case?"
+                },
+                {
+                    "start": 2005.123,
+                    "stop": 2030.056,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is true, Justice Kagan, that -- that the opinions have discussed both issues. And I would offer two considerations. First, to the extent that the courts have talked about reliability as the linchpin or the likelihood of misidentification playing a role, they have only done that read in context within and only after an unnecessarily suggestive circumstance that they had applied."
+                },
+                {
+                    "start": 2030.056,
+                    "stop": 2044.665,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems that that's not right. I mean, the reason we want to deter this conduct is because the conduct results in misidentifications and unreliable testimony. That's the reason that deterrence is an important goal, is because this conduct leads to unreliable testimony."
+                },
+                {
+                    "start": 2044.665,
+                    "stop": 2065.162,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is correct, and if we expand that out and we apply that rationale to the circumstances of a case not involving police activity, we lose that deterrence rationale. There is no deterrence involved in a suggestive circumstance that does not involve the police. Civilians are not going to be repeat players in this system."
+                },
+                {
+                    "start": 2065.162,
+                    "stop": 2080.038,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what you're -- what you're saying, I take it, in the answer to Justice Kagan, was that there is really a two-part step. First, was the police procedure unnecessarily suggestive? And then if it was, are there other reliability -- was reliability impaired? So you go -- you ask both questions."
+                },
+                {
+                    "start": 2080.038,
+                    "stop": 2130.437,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And that is the Biggers test. And if we looked at reliability further as sort of the touchstone of our due process inquiry, we would need to misplace completely the role of examining whether the suggestive circumstances are unnecessary. An -- an inquiry into necessity only makes sense in the context of a police investigation or police work. And if we look at Stovall, certainly there is an example of a case that was a show-up, where this Court said that, despite the clearly suggestive circumstances, that show-up was imperative and necessary because the witness may have been about to die. The Court did not conduct a reliability analysis. So if reliability is the linchpin, it puts the Stovall holding in question and really Stovall would be undermined."
+                },
+                {
+                    "start": 2130.437,
+                    "stop": 2151.87,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What you're saying -- what you're saying seems to suggest that the rule we're talking about here is really not an aspect of due process per se, but, like the Fourth Amendment exclusionary rule, it's a special due process exclusionary rule that is meant to deter conduct that could result in a constitutional violation. Is that right?"
+                },
+                {
+                    "start": 2151.87,
+                    "stop": 2188.96,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I think that's correct, Justice Alito. And the analogy I would use would be to your perjury cases. In Mooney you have clearly set a due process standard that prevents police or prosecutors from knowingly using false evidence. And the concern there is how the police will skew the fact-finding process. Stovall and the identification cases are very similar to that. Our concern in essence is that the police through unnecessary suggestion in that circumstance are going to skew the fact-finding process and in this instance, in essence, create a false or altered memory."
+                },
+                {
+                    "start": 2188.96,
+                    "stop": 2207.337,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If -- if the exclusionary aspect of this is not part of due process itself, then doesn't it follow that what due process requires is reliability? So doesn't that mean that the Petitioner's argument is correct, the due process standard is simply reliability, not suggestiveness?"
+                },
+                {
+                    "start": 2207.337,
+                    "stop": 2217.479,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's -- the standard is not reliability, Justice Alito. The standard for due process in this area is the use of orchestrated police suggestion."
+                },
+                {
+                    "start": 2217.479,
+                    "stop": 2235.773,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What -- what about cases with inflammatory evidence, too many lurid photos or testimony that ignites prejudice in the community? That's -- that's a -- that's reliability."
+                },
+                {
+                    "start": 2235.773,
+                    "stop": 2288.575,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is, and we have both constitutional and non-constitutional tools and procedures right now to address that. At the base, we require prosecutors under Jackson v. Virginia to have some minimum level of evidence so that a rational trier of fact can establish guilt beyond a reasonable doubt. Above that, under the Sixth Amendment, we provide tools and procedures that allow a defendant to assess the reliability of evidence through cross-examination and summation and the right to counsel. And beyond that, we have non-constitutional sources under the Rules of Evidence that are specifically designed to assess the relevance and the reliability of the evidence. But if we go before that and say that the Due Process Clause after all that has some additional standing in -- in your jurisprudence to assess reliability, we really have gone to a very different place."
+                },
+                {
+                    "start": 2288.575,
+                    "stop": 2316.759,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You -- you have two cases. You have Mr. Perry's case and you have another case that's very similar. In fact, it's identical, except that in that instance the police officer talking to the witness said, would you take a look out the window and see if you recognize anybody. Now, from the perspective of the defendants, the cases are -- seem -- as far as whether they get a fair trial, the cases are identical, are they not? The evidence is the same. The suggestiveness is the same."
+                },
+                {
+                    "start": 2316.759,
+                    "stop": 2362.12,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Justice Alito. Those cases are quite different. And to the extent we did have objective evidence that the police here had in some way brought that woman to the window to, in essence, conduct a show-up, then we may have triggered the first prong of Biggers. And the court would then be required to do two things: First, to determine whether the circumstances were suggestive; and independent of that, also determine whether it was necessary or not, depending on the circumstances of the investigation. So if in fact the police officer had directed the witness to the window, there may be at least grounds for the Biggers and Manson analysis to come into play. These facts are very different from that."
+                },
+                {
+                    "start": 2362.12,
+                    "stop": 2384.653,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm not sure you answered Justice Alito's questions about why there should be this difference between these two cases. Now you might want to say that where police conduct is involved, the chances of unreliable identification are greater. Or you may want to say something else. But the question is: If we are focused on reliability, why are those two cases any different?"
+                },
+                {
+                    "start": 2384.653,
+                    "stop": 2432.55,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if we do look back to determine whether the circumstances involving the police are any more -- of more serious concern, if we look back to Wade, this Court did talk about the unique role of police suggestion in this context of confrontations. And it specifically focused on the manner and the degree of suggestion in which the manner that police or prosecution present a witness, presents a witness to a suspect, what impact that can have. That unique aspect of police suggestibility, the fact that a police officer when it brings someone forward is going to influence a witness to a high degree, does play a role and is the grounds upon which the Stovall cases have been built."
+                },
+                {
+                    "start": 2432.55,
+                    "stop": 2465.269,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So tell me -- they gave the hypothetical of the police pointing out the defendant out the window. But earlier you said it might be a different case if the defendant was two blocks away and they brought him back. Same scenario. They do that, bring him back two blocks; make him stand at the scene of the crime; and go upstairs, talk to the woman and she spontaneously says: It's the guy standing over there. That would entitle the defendant to a Wade motion? To a Wade hearing?"
+                },
+                {
+                    "start": 2465.269,
+                    "stop": 2476.227,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You would look at the totality of the circumstances. And to the extent from an objective standpoint it could be demonstrated that the police intentionally brought that witness back to the scene--"
+                },
+                {
+                    "start": 2476.227,
+                    "stop": 2520.423,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We are now -- we are now at mens rea again. So what has surprised me about this case is in some ways the way the State court wrote this. Because if the State court had simply said something like, there was no unnecessary show-up here, they were just holding someone until they could figure out what happened, there was no suggestiveness by the police, because the woman pointed out the window, throw out the motion, we wouldn't be here. The argument has become something else now because you're trying to define a level of intent on the part of the police to create unreliability that I think just complicates the inquiry."
+                },
+                {
+                    "start": 2520.423,
+                    "stop": 2567.301,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And I -- and, Justice Sotomayor, I'm not trying to create that complication. And in fact, I would -- I would reference the State court decision a little bit differently. It did ground its holding specifically in a finding that there were no sort of suggestive techniques at play here and no inducement. The trial court order very specifically said it disagrees with the show-up characterization, that the witness had pointed out the Petitioner without any inducement from the police officer. The officer did not direct the witness's attention to the window, and the officer did not ask whether a man in the parking lot was the man who broke into the cars. On those facts, that can dispose of this case without getting into the issue of mens rea."
+                },
+                {
+                    "start": 2567.301,
+                    "stop": 2596.054,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what's happened is that your briefing and your counter's briefing is broader than I think needs to be on the facts of this case. But putting that aside, you've addressed this as the need for police manipulation. If you define it that way, then we do get into a mens rea discussion rather than what I think Biggers and Wade were about, which is are the circumstances created by the police unnecessarily suggestive."
+                },
+                {
+                    "start": 2596.054,
+                    "stop": 2640.116,
+                    "speaker": {
+                        "name": "Michael A. Delaney",
+                        "ID": 35696,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. And I agree with you that the inquiry under the -- under the first prong of Biggers is just that. It's an objective inquiry based on the totality of the circumstances. If there are no further questions, because the defendant's conviction was the product of a fair trial, because the State court properly applied this Court's jurisprudence and precedent in the area of eyewitness identification, and because the Petitioner's proposed rule would markedly expand this Court's due process jurisdiction, we respectfully request that the State court judgment be affirmed. Thank you."
+                },
+                {
+                    "start": 2640.116,
+                    "stop": 2656.425,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Ms. Saharsky."
+                }
+            ],
+            "start": 1674.395,
+            "stop": 2688.146
+        },
+        {
+            "turns": [
+                {
+                    "start": 2656.425,
+                    "stop": 2688.146,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: A due process inquiry is required only when there is a police-arranged confrontation in order to obtain an identification and then the police unnecessarily suggest that a certain suspect is guilty. And that's because, as the State has said, the Court's central concern in these cases is the State putting a thumb on the scales, gaining an unfair advantage. Just as, as Justice Scalia said, the State can't create a false document and introduce it at trial, it can't manipulate someone's memory and then use that evidence to prove guilt at trial."
+                },
+                {
+                    "start": 2688.146,
+                    "stop": 2710.457,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So do you mean to say, Miss Saharsky, that there can never be a due process violation from the admission of unreliable evidence? Assuming that the State has not created that evidence, has not produced that evidence, but the State knows that the evidence is unreliable or has a very substantial chance of being so, that that can never be a due process violation?"
+                },
+                {
+                    "start": 2710.457,
+                    "stop": 2766.923,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm saying that's where the Court's cases are now. The State can't knowingly introduce perjured testimony, but you're not talking about perjured, knowingly perjured testimony. If the question is just unreliable, the Court has said on numerous occasions -- it's rejected claims like that and said: The Constitution doesn't protect to ensure all evidence is reliable. It provides a process by which the court can test reliability through cross-examination, confrontation, et cetera. The Court has -- And that was in Crawford. The Court has also said -- if I can just add one more thing -- in the due process context, that where the check comes in is in Jackson v. Virginia, that the verdict has to have enough evidence to be supported each element of the crime beyond a reasonable that a rational jury could find it. So that is a due process check. But where the Court's cases stand today, the Court has not found, so far as we can tell, a case where it said that the mere introduction of unreliable evidence would isolate the Due Process Clause. And every time it's been confronted with a claim like that, in Dowling, for example, in Colorado v. Connelly, the Court has rejected such a claim."
+                },
+                {
+                    "start": 2766.923,
+                    "stop": 2776.296,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'll give you an extreme example. The extreme example is where an identification has been produced by torture, but the torture has been through a non-State actor. Same answer?"
+                },
+                {
+                    "start": 2776.296,
+                    "stop": 2831.864,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is an extreme example. There are many reasons why, A, the prosecution would never introduce that kind of evidence to begin with, and B, that there would be other checks on the process in addition to the confrontation and cross-examination types of things that we talked about. There would be a check on the process through Brady and Giglio, for example, that if the government knew that those were the circumstances of the identification, they would have to turn that evidence over to the other side. There would also be checks in terms of the trial process if the government actually put on evidence like that. So it is -- it is very unlikely that such a thing would happen. We are not saying that the Court has to hold in this case that due process could never play a role there. But what we are saying here is this is very routine, run-of-the-mill evidence. Someone who saw what happened and wants to come into court and tell the jury that, and as Justice Kennedy noted, you know, what Petitioner is asking for here is to take all of those away from the jury, really usurping the jury function and having these mini trials where the court itself is trying to decide reliability."
+                },
+                {
+                    "start": 2831.864,
+                    "stop": 2847.106,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is interesting. I was trying to find a case where some other class of evidence was excluded because it's unreliability. And in Thompson v. Louisville, as you say, is just insufficient evidence, and that's different. Inflammatory evidence might be an example."
+                },
+                {
+                    "start": 2847.106,
+                    "stop": 2848.775,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. I mean, that's different because--"
+                },
+                {
+                    "start": 2848.775,
+                    "stop": 2850.042,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Lurid photos or something like that."
+                },
+                {
+                    "start": 2850.042,
+                    "stop": 2880.946,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I mean, there you have, first of all, a separate constitutional provision of an impartial jury, and have you a direct influence upon the jury. So it's not just unreliable evidence being a due process problem. You have this separate Sixth Amendment protection and then you have it acting directly on the jury. So we think that's a different case. In the due process context where the Court's cases have really focused is on the States tilting the scales, the States corrupting the process by knowingly introducing perjured testimony, or by for example refusing to disclose material exculpatory evidence--"
+                },
+                {
+                    "start": 2880.946,
+                    "stop": 2891.421,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think there were some early cases when fingerprint testimony couldn't come in, when fingerprint technology was just new. I don't know if those were due process or not."
+                },
+                {
+                    "start": 2891.421,
+                    "stop": 2928.51,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I can't say. I mean, when you look at the Court's more current cases though, to the extent the Court has heard argument like this evidence is too unreliable, we needed a special Constitutional rule. For example, in Ventris, with respect to jail house snitches, the Court rejected that argument. When the Court was told in Colorado v. Connelly there were concerns about reliability. It said: No, reliability is up to the jury, and it uses the State rules of evidence, and this court's not going to be a rule-making organ for rules of procedure. The Constitution puts in place the various checks on the process: Compulsory process, cross-examination, et cetera. And then outside of that, it's really the role of the States to mold the trial process."
+                },
+                {
+                    "start": 2928.51,
+                    "stop": 2946.222,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I was intrigued by what your brief said about Federal Rule of Evidence 403. Do you think that a Federal judge under that rule may exclude the testimony of a witness on the ground that the witness is, in the judgment of the trial judge, completely unbelievable?"
+                },
+                {
+                    "start": 2946.222,
+                    "stop": 2971.087,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I mean you would need to meet the standard of Rule 403 which is that the -- the probative value of the witness would be substantially outweighed by unfair prejudice. I think it is unlikely that evidence would -- of an eyewitness, which the Court has said, particularly in cases like Biggers and Manson, is fairly probative, important evidence; the Court wanted to let it in, even in the circumstances if where you know, the police played a role in manipulation. So probably no, the Court wouldn't -- wouldn't take the--"
+                },
+                {
+                    "start": 2971.087,
+                    "stop": 2991.417,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you think in theory that could be done? So if you put on a cooperating witness in the case and this witness has made 100 inconsistent statements previously and has been convicted of perjury, that the judge can just say you can't put that witness on because that person is -- is a liar, and I'm not going to have the witness testify in my courtroom?"
+                },
+                {
+                    "start": 2991.417,
+                    "stop": 3049.853,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I mean Rule 403 isn't talking about whether evidence is true or false. It's talking about unfair prejudice to the jury, unfair prejudice being -- outweighing the probative value of the testimony. So you know, I think it would be a -- call for the judge in that individual case. I don't know that that -- that that kind of argument has been made very often. But it's not just that trial protection; there are numerous trial protections outside of the constitutional limits that the States have put into place specifically with respect to eyewitness identification testimony. For example, there are special jury instructions that most States use, and New Hampshire used special jury instructions here. And there is something that's really notable about these instructions, which is that what Petitioner wants is when the jury has made a determination here, looking at factors like how far was the witness away from the person, how long was it before -- between the crime and when she made the identification -- the jury heard all of those factors, heard argument on it, was instructed on those things and it made a determination; and what Petitioner wants is for a trial court -- this Court, after the fact -- to use those exact same factors and come to a different conclusion."
+                },
+                {
+                    "start": 3049.853,
+                    "stop": 3057.257,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was -- was the Daubert case our expert witness case where you have to have a threshold showing? Was that due process or was that just -- that was just rule of evidence."
+                },
+                {
+                    "start": 3057.257,
+                    "stop": 3072.3,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, it was just interpreting rule of evidence 70 -- 702. So you know, at the end of the day what -- what Petitioner is really asking for is not some kind of threshold inquiry, but really taking the question of reliability away from the jury, and it would be a very big change in our system. And--"
+                },
+                {
+                    "start": 3072.3,
+                    "stop": 3072.633,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we--"
+                },
+                {
+                    "start": 3072.633,
+                    "stop": 3087.893,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that already follow your adversary rules. I think it's not just one or two. It's about five or six. The floodgates open there? How many -- how many suppressions of witness identification has occurred in those circuits?"
+                },
+                {
+                    "start": 3087.893,
+                    "stop": 3109.156,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It is not many, but the principle the Petitioner is arguing for is a significant one. It is that the Due Process Clause protects against -- protects reliability, and I assure you that once this Court says that this is the case, that there will be defendants throughout the United States making arguments about all different kinds of evidence not involving the police being unreliable, and that that all needs to be taken away for -- from the jury, and--"
+                },
+                {
+                    "start": 3109.156,
+                    "stop": 3115.626,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, suppose the -- lie detectors, for example, that's been taken away from the jury on a categorical basis, right?"
+                },
+                {
+                    "start": 3115.626,
+                    "stop": 3146.847,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, there are some State rules of evidence that do that, but I mean, we are talking about as a matter of due process that it is fundamentally unfair at trial to not allow -- this -- to -- this evidence if given to the trial would be fundamentally unfair. And you know, the Constitution has enshrined the jury as the fundamental guarantee -- the fundamental protector of liberty; and to think that that same Constitution through the Due Process Clause means that run-of-the-mill evidence has to be taken away from the juries, that the trial court can itself look at factors like how good of a view the person had?"
+                },
+                {
+                    "start": 3146.847,
+                    "stop": 3162.691,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There surely is some minimal due process requirement for the admission of evidence, isn't there? Are you saying there is none? If the State abolished the hearsay rule, could it -- would it not be a violation of due process if the prosecution introduced quadruple hearsay?"
+                },
+                {
+                    "start": 3162.691,
+                    "stop": 3170.463,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think that there would initially be a problem with respect to the Confrontation Clause and the court would probably go through the analysis that way. We are not saying that the court--"
+                },
+                {
+                    "start": 3170.463,
+                    "stop": 3179.568,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me give -- you're right. Let me give you another example. Let's say you have -- the State puts on a witness who -- who says this person did it because I saw it in my crystal ball."
+                },
+                {
+                    "start": 3179.568,
+                    "stop": 3193.876,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right. And I think that the answer that I would give is the same one to the question Justice Kagan asked, which is where the Court is now, the Court has never that the introduction of some kind of evidence is so unreliable it'd violate due process. In Dowling, for example, it had evidence that--"
+                },
+                {
+                    "start": 3193.876,
+                    "stop": 3195.495,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is tea leaf reading okay?"
+                },
+                {
+                    "start": 3195.495,
+                    "stop": 3248.88,
+                    "speaker": {
+                        "name": "Nicole A. Saharsky",
+                        "ID": 37291,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What I'm saying is the Court doesn't need to address that question here. It also doesn't need to foreclose it. But this is very run-of-the-mill evidence. But it doesn't mean that the Court could never find that some kind of evidence is so problematic that the Due Process Clause could preclude its admission, but what we're talking about here is fairly run-of-the-mill evidence. I would just point the Court to the decision in Dowling which was about a prior conviction for which the person had been acquitted; and then that evidence was let in at his trial, and he said that's a problem. That evidence is too unreliable and too prejudicial, and the Court said that's not for the Due Process Clause. The Constitution gives you the process to test evidence. It doesn't ensure that all of the evidence that's going be introduced be reliable. And that's what Petitioner is saying here today, and that would be a very expansive view of the Due Process Clause that just can't be reconciled with cases like Dowling and Colorado v. Connelly. If the Court has no further questions we'd submit that the judgment of the court below should be affirmed."
+                },
+                {
+                    "start": 3248.88,
+                    "stop": 3252.849,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Guerriero, you have 2 minutes remaining."
+                }
+            ],
+            "start": 3252.849,
+            "stop": 3330.682
+        }
+    ]
+}

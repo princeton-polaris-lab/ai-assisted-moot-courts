@@ -1,0 +1,1402 @@
+{
+    "title": "Madison v. Alabama",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 7.28,
+                    "stop": 40.04,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, may it please the Court: It's undisputed that Vernon Madison now sits on Alabama's death row, unable to fully orient to time and place. As a result of several strokes, he suffers from acute vascular dementia, which has left his cognitive abilities greatly diminished. He now has intellectual functioning in the borderline range. He has a memory score of 58. And these severe disabilities have rendered him bewildered and confused most of the time."
+                },
+                {
+                    "start": 40.04,
+                    "stop": 82.4,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Stevenson, I'm -- it's a question for both sides, but I'm having trouble with a firm grasp on exactly what issues are presented. Now just tell me if I've got this right: There are two. The first one, I would say, is, does someone who doesn't remember the details of their crime, can he satisfy Ford and Panetti simply on that basis? He knows what capital punishment is, he knows what's going to happen; he just doesn't remember what -- what he did. And the second one is whether or not vascular dementia can be a basis for a Ford claim. In other words, he meets the Ford standard, but it's not caused by insanity; it's called by -- caused by dementia. Now am I right that those are the two separate questions?"
+                },
+                {
+                    "start": 82.4,
+                    "stop": 110.44,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I -- I think they're two related questions. And the only -- I think what we would argue is that that first question is that, yes, memory loss, with some -- something else can render someone incompetent, and that something else may not be dementia -- that is, someone who has a brain injury and is now impaired in a way where they have no memory of anything, it's not vascular dementia -- could also be incompetent to be executed, someone who is actually in a coma."
+                },
+                {
+                    "start": 110.44,
+                    "stop": 111.08,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 111.08,
+                    "stop": 116,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you say must be memory loss plus? And what would the plus be?"
+                },
+                {
+                    "start": 116,
+                    "stop": 144.6,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the -- the examples that come to mind would be the kind of brain damage that is a result of an injury, where the brain is injured and incapable of actually producing memories or creating the kind of rational understanding that this Court has required. A second example would be something like a coma. We would argue that someone who is in a coma is not competent to be executed because their state of mind would not be reconcilable to what this Court has held in Ford and Panetti."
+                },
+                {
+                    "start": 144.6,
+                    "stop": 166.24,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Stevenson, part of the problem is the use of the word \"loss of memory.\" And I -- in your briefs, you seem to go back and forth on this. Are you conceding that amnesia about the incident alone, where you can function in every other way in society, would you be incompetent then? To be executed?"
+                },
+                {
+                    "start": 166.24,
+                    "stop": 168.32,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, that's right. We -- we do not contend --"
+                },
+                {
+                    "start": 168.32,
+                    "stop": 197.28,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So your loss of memory isn't even what the cause of the loss of memory is. If this person who has amnesia can no longer function because they can't even remember how to eat or how to go to the bathroom or how to think about a problem or et cetera, you would say the cause is not what's important; it's whether their cognitive deficiencies cause what? Now fill in the blank."
+                },
+                {
+                    "start": 197.28,
+                    "stop": 214.44,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That -- that's right. Would cause disorientation, cause an inability to understand their circumstances, have the kind of symptoms that we have here. Mr. Madison can't tell you the season of the year. He can't tell you the month of the year. He can't tell you the day of the week. He can't recite the alphabet past G. He can't --"
+                },
+                {
+                    "start": 214.88,
+                    "stop": 233.84,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I just want to understand your -- your answer to the -- to Justice Sotomayor's question. If a person -- if -- if a person simply is without memory of his commission of the capital offense, does that in itself render that person incompetent to be executed?"
+                },
+                {
+                    "start": 233.84,
+                    "stop": 243.32,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I think it could. But I think the reason why I qualify it is because there aren't circumstances that I believe are consistent with what we've argued here."
+                },
+                {
+                    "start": 243.32,
+                    "stop": 257.56,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I think that's a -- a question that calls for a yes or no answer. If the only thing that is lacking is memory of the commission of the capital offense, does that in itself render the person incompetent to be executed?"
+                },
+                {
+                    "start": 257.56,
+                    "stop": 267.92,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it would render someone incompetent if the basis for that inability to remember is medical rather than something else. And here what we've argued is that we're --"
+                },
+                {
+                    "start": 267.92,
+                    "stop": 277.2,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In your original question presented, you ask whether a person, a prisoner whose mental disability leaves him without memory --"
+                },
+                {
+                    "start": 277.2,
+                    "stop": 277.76,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 277.76,
+                    "stop": 300.48,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- of his commission of the capital offense. So do I take you now to be saying that if you are left without memory of the commission of the capital offense for some reason that doesn't have something to do with mental disability, that's not enough? But if there's mental disability that has given rise to this lack of memory, then it is?"
+                },
+                {
+                    "start": 300.48,
+                    "stop": 319.16,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I guess what I'm conceding, Justice Kagan, is that we're arguing that more is required than someone saying I don't remember my crime, you can't execute me. The state has an interest in being able to impose punishment and to execute these kinds of sentences with something more than \"I don't remember.\" We've never argued that."
+                },
+                {
+                    "start": 319.16,
+                    "stop": 333,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I don't understand -- I don't understand your answer. I don't -- I can't think of a situation in which a person would lack memory of the commission of the offense without that being based on a mental condition. By definition, it's a mental condition."
+                },
+                {
+                    "start": 333,
+                    "stop": 358.56,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That -- well, that's my point, Justice Alito. We're arguing that it would have to be accompanied by some mental disability. And here we argued that that disability was dementia. And the reason why I'm stressing that is because you can't understand the nature of that memory loss, you can't rely on it as a credible basis for concluding that someone is incompetent to be executed, until you understand how that's possible. And that's the only point I'm making, is that without something to look to --"
+                },
+                {
+                    "start": 358.56,
+                    "stop": 380.16,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. I suppose what people are thinking of, and I'm -- I'm not even sure if this happens ever or whether there's any sort of physiology behind this, but the idea of a kind of fugue state or a blackout that's unaccompanied by anything else, does that count as the kind of mental disability that you're talking about?"
+                },
+                {
+                    "start": 380.16,
+                    "stop": 441.44,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, it is not. It does not. We're not arguing that someone who is competent to stand trial, who nonetheless at trial maintains that they blacked out or don't remember would, therefore, be incompetent to be executed. What we're arguing is something quite different. Here, we know that Mr. Madison's brain is damaged. We can see it on an MRI. We know that his cognitive abilities have declined. We know that he is not able to understand the things going on around him. And we argued that, because of that dementia, which has very particular features, he is incompetent to be executed. The trial court found that because he's not insane and because he's not psychotic, there is no remedy in the law for him. It was on that basis that the trial court ruled against us. Now it's significant that in this Court -- and the state argued below that incompetency to be executed can only be established where there's a showing of insanity, delusion, or psychosis. In this Court, the state has taken a different position. They now concede that dementia can be a basis on which --"
+                },
+                {
+                    "start": 441.44,
+                    "stop": 483.12,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. Right. Yeah. And that's what's -- that's what strikes -- why this case strikes me as unusual. There are two questions. You concede on one, and the state concedes on the other. You -- you're conceding that simply blacking out, you don't remember the crime, I don't know -- I don't know if that happens often or not, you remember everything else, you know the days of the month and all that -- -- but you just can't remember the crime. You know that you're going to be executed because you committed a crime, but you don't remember anything about it. I understand you to be saying that's not enough. But then I also understand the state, and we can ask them, but I think it is in their brief, to say that if, in fact, you meet the Ford standards, they don't care how you got there; if you got there because you have dementia, you still meet the Ford standards."
+                },
+                {
+                    "start": 483.12,
+                    "stop": 536.4,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, but that's a very different position than what we argued below, because that was our argument, is that we can meet the Ford standards when you consider dementia as a legitimate basis for rendering someone incompetent. And none of the fact-findings were made through that lens. And I think on the first question, what I'm arguing is that we recognize that it's too easy for any offender to say \"I don't remember.\" Defendants at trial often use defenses of \"I don't remember.\" It doesn't preclude the state from trying them, from convicting them, from sentencing them. It doesn't make them incompetent. But, when you have the kind of disorder that Mr. Madison has and he has no ability to remember anything about the circumstances of the offense, he cannot put himself in that situation, then we argue that there is a legitimate basis for arguing that that person cannot rationally understand the circumstances of their execution, and executing them would be inhumane. And the --"
+                },
+                {
+                    "start": 536.4,
+                    "stop": 547.08,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now you don't care -- you don't care how they get there. If they get there because of insanity, fine. If they get there because of dementia, fine. If they get there because they were hit on the head, fine. It's just look at the condition at the -- at that time?"
+                },
+                {
+                    "start": 547.08,
+                    "stop": 549.76,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's the severity of the disability and the reliability of --"
+                },
+                {
+                    "start": 549.76,
+                    "stop": 598.12,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Stevenson, that's the point. Now let's -- -- let's take as given for the moment that the other side has conceded that severe dementia does qualify under Ford and Panetti. And I do -- I'm going to ask the other side where the Court addressed that issue, because I don't see it. They seem to be thinking that only delusions could qualify, not incompetence. But putting that aside for the moment, how would I define severe dementia? What's the difference between mild dementia, moderate, and severe? And where would the fact-finder settle in saying this person is incompetent or not incompetent?"
+                },
+                {
+                    "start": 598.12,
+                    "stop": 630,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. And that's where the medical community has helped us a lot, that science has -- has emerged and evolved quite a bit. Under the DSM-5, there are requirements for moving someone from possible dementia, which we would argue would not be sufficient to render someone incompetent to be executed, just the allegation, some limited memory deficits. Moving someone from possible dementia to probable dementia requires four things. There needs to be an MRI where you can actually see damage to the brain. That's one of the things that --"
+                },
+                {
+                    "start": 630,
+                    "stop": 639.84,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's very -- it's very easy -- it's very hard to be a lay person, but I understand that won't show up for Alzheimer's, for example. Until someone's died and they can open up the brain."
+                },
+                {
+                    "start": 639.84,
+                    "stop": 646.32,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "With -- with some forms. But, for vascular dementia, what we know is that you will see on an MRI iterative --"
+                },
+                {
+                    "start": 646.32,
+                    "stop": 653.12,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm -- I'm less worried about that because I am worried about something like Alzheimer's. Dementia's dementia."
+                },
+                {
+                    "start": 653.12,
+                    "stop": 653.72,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. That's right."
+                },
+                {
+                    "start": 653.72,
+                    "stop": 655.04,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So let's get to the definition."
+                },
+                {
+                    "start": 655.04,
+                    "stop": 746.76,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But I just -- I'm just using the criteria that the medical community gives to us. It has that. We -- we -- we have to be able to assert and prove substantive -- substantial cognitive decline, which we could here. His IQ has dropped dramatically. His memory scores have dropped dramatically. And what the DSM-5 requires is some etiology, something that we can point to that helps us understand the maturation of this disease so that it's not early stage but late stage. And here, of course, you have two life-threatening strokes where he almost died and there were brain injuries. He now has cerebrovascular disease that we can see. So, under those circumstances -- and I -- I concede that there are going to be harder cases, there could be harder cases, but under these circumstances, the evidence is quite dramatic. There was no dispute that Mr. Madison suffers from severe vascular dementia using the criteria that the medical community has given to us about these kinds of diseases, which is why the state's concession that dementia could be a basis is so significant. What we wanted to prove to the judge below is that dementia, when it has these features, renders someone incompetent. And the perfect example comes from the record. Mr. Madison can explain to you that he has a toilet in his cell. It's a 5-by-8 cell. He can explain to you that he can use that toilet. But he routinely urinates on himself and he gets frustrated because he's asking the guards to take him to the toilet. He's not able to hold that memory of the location of the toilet next to his bed when it's time for him to urinate, and so he continues to soil himself."
+                },
+                {
+                    "start": 746.76,
+                    "stop": 786.2,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Madison obviously has serious problems, serious physical problems and mental problems, but I'm quite confused by the arguments that you're making. Isn't it the case that in his order of April 29 Judge Smith found that Madison failed to prove by a preponderance of the evidence that he does not rationally understand the punishment he is about to suffer and why he is about to suffer it? Did he not make that finding and is that not supported by the testimony of the defense expert, Dr. Goff?"
+                },
+                {
+                    "start": 786.2,
+                    "stop": 789.32,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think he -- I don't think he made that finding."
+                },
+                {
+                    "start": 789.32,
+                    "stop": 791.12,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's a direct quote from his order."
+                },
+                {
+                    "start": 791.12,
+                    "stop": 815.48,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yeah, what he did was actually cite Dr. Kirkland's testimony about that point. Dr. Koff said -- Goff said that Mr. Madison can tell you what a murder is if you tell him that. He can say -- he can tell you what the death penalty is. He can tell you -- if you tell him you were convicted of this crime, he can repeat that back to you, but he has no independent knowledge of that. And Dr. Kirkland never testified that he had independent knowledge. And what the court found --"
+                },
+                {
+                    "start": 815.48,
+                    "stop": 823.32,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I don't think you're accurately representing what Dr. Goff testified, but I don't want to argue about what the record shows and doesn't -- and doesn't show."
+                },
+                {
+                    "start": 823.32,
+                    "stop": 828.52,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Dr. Goff was very clear about the point that he did not remember the crime. He did not remember the victim."
+                },
+                {
+                    "start": 828.52,
+                    "stop": 853.88,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, he did not -- he did not remember the crime. He did not remember the victim. But he said he understands the sentence, specifically the meaning of the death sentence. He understands the meaning of execution, and many details involved. He is able to understand the nature of the proceedings. He thinks he understands that what the state is seeking is retribution. He feels his conviction was unjust. He never went around killing folks."
+                },
+                {
+                    "start": 853.88,
+                    "stop": 872.64,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, he didn't -- I think what he said was \"I don't have any\" -- \"I don't think this applies to me. I never went around killing people.\" He wasn't able to actually make a judgment about his conviction because that memory wasn't with him. And that's just what this Court dealt with in Panetti. In Panetti, you had the same circumstance where you have someone who was a delusional but could tell you what murder is, could tell you --"
+                },
+                {
+                    "start": 872.64,
+                    "stop": 878.24,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this order was the order that came before us when this case was before us the last time, is that not right?"
+                },
+                {
+                    "start": 878.24,
+                    "stop": 878.84,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 878.84,
+                    "stop": 898.08,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that's what you're now contesting. You're contesting the order that was already before us that you chose not to contest on appeal in the -- in the Alabama courts. And the only thing that's happened since then, and what you've cited, are the -- the events concerning Kirkwood. Is that right?"
+                },
+                {
+                    "start": 898.08,
+                    "stop": 969.64,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, we've actually contended that the court below should now recognize what the Eleventh Circuit recognized, which is that if you consider dementia, and you apply what we know about dementia to this circumstance, and to Ford and Panetti, you will have to conclude that this man is not competent to be executed. And what the trial court did on the argument of the state is say that we failed because we did not make a threshold showing of insanity. We did not show delusions. The trial court's order in this case starts with our failure to show that he is delusional, and ends with our failure to show that he's delusional. We never suggested that we could prove that he is delusional. What we argued is that his dementia renders him incompetent in a way that does not permit the state, consistent with the Eighth Amendment, to carry out this execution. And because dementia changes the interpretation of these facts, as I was -- as I was arguing, you can tell Mr. Madison that he was convicted in Mobile, that this was the crime, this was the circumstance. He can hold onto that. But the next day, the next week, he's not going to have that memory. And that deprives him of the kind of rational understanding this Court talked about as being critical in Ford and Panetti."
+                },
+                {
+                    "start": 969.64,
+                    "stop": 974.8,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I ask -- can I give you two versions of your argument and you tell me which one you're arguing?"
+                },
+                {
+                    "start": 974.8,
+                    "stop": 977.44,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure. Sure."
+                },
+                {
+                    "start": 977.44,
+                    "stop": 1007.48,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- between the two. So one is just if you have severe dementia, you are incompetent to be executed. That's simple. The other is, if you have severe dementia, you are likely also to have a lack of rational understanding of the kind we talked about in Panetti. So, in other words, the dementia would be the -- the -- the -- the physiological reason, but the standard would still be the Panetti standard."
+                },
+                {
+                    "start": 1007.48,
+                    "stop": 1044.88,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I -- I think it's the latter, Justice Kagan. We're not -- we're not arguing that just the mere proof of severe dementia alone would satisfy the Eighth Amendment because there are dementia sufferers whose long-term memory is actually pretty secured, pretty well intact. They -- they -- they struggle mostly with short-term memory. And the nature of that struggle might allow them to hold onto these long-term memories in a way that they would have a rational understanding of these circumstances. I don't think this is an area where there can be the kind of clarity of category or offense that would allow this Court to say those people are incompetent, these people are not. And that's what this Court was dealing with in Ford and Panetti."
+                },
+                {
+                    "start": 1044.88,
+                    "stop": 1101.88,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what -- what then -- as -- as probably you know, I think, that there are many, many, many prisoners on death row under threat of execution who are in their 40s, 50s, 60s, 70s, possibly 80s, who have been there for 20, 30, 40 years perhaps. So this will become a more common problem. The standard used in Ford is -- the word they often use is insane. All right? In Panetti, the word they use, he has no comprehension of why he has been singled out. All right? If you are writing this standard for the situation I described, what words would you use? What's the sentence that you believe should be seen in the U.S. reports in this on -- on a problem that I think is general?"
+                },
+                {
+                    "start": 1101.88,
+                    "stop": 1149.76,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yeah, if I can just first contextualize that problem before giving that answer. I mean, I -- I -- I don't think that the age of the offender is a predictor of the scale of this phenomena, at least based on what we're talking about here. And this was an issue that came up in Ford, where there was a real concern about the flood gates. And we put a footnote in our brief about the incidence, how frequently competency to be executed -- competency to be executed claims are raised. And it's actually relatively infrequent, Justice Breyer. Ninety-three percent of the 1300 people who have gotten execution dates over the last 30 years did not raise a competency to be executed claim, even though many of them were older than Mr. Madison. Mr. Madison's problems are -- are cerebrovascular, which, of course, can happen at any age. I take your point."
+                },
+                {
+                    "start": 1151.48,
+                    "stop": 1152.68,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- dementia of many kinds."
+                },
+                {
+                    "start": 1152.68,
+                    "stop": 1153.76,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "-- I take your point."
+                },
+                {
+                    "start": 1153.76,
+                    "stop": 1161.96,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All sorts of things. And so we could litigate each case, case by case, or you answer what I -- I mean --"
+                },
+                {
+                    "start": 1161.96,
+                    "stop": 1211.68,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, that's right. The rule I -- I would argue is that where someone has a disability that renders them incapable of orienting to time or place or rationally understanding the circumstances of their offense, they are incompetent. And there has been no reliable determination of rational understanding of the circumstances here, because the court was unwilling to consider any evidence about that mental state that was outside the scope of insanity, delusion, or psychosis. And we think, as the Eleventh Circuit did, when you accept dementia as a relevant basis for coming to that conclusion, the Eleventh Circuit had no difficulty finding that he's clearly incompetent. Even the dissenting judge starts his dissent, \"Mr. Madison is clearly incompetent.\""
+                },
+                {
+                    "start": 1211.68,
+                    "stop": 1221.76,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When you back -- when you went back to the trial court, you emphasized the events concerning Kirkwood. What is his situation now?"
+                },
+                {
+                    "start": 1221.76,
+                    "stop": 1229.6,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Dr. Kirkland has been suspended. He is no longer a practicing psychology -- psychologist. He is under threat of criminal prosecution."
+                },
+                {
+                    "start": 1229.6,
+                    "stop": 1232.96,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the grand jury refuse to return a true bill for him?"
+                },
+                {
+                    "start": 1232.96,
+                    "stop": 1237.36,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They did at one point. But he is still under investigation, still suspended."
+                },
+                {
+                    "start": 1237.36,
+                    "stop": 1239.4,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He's still under investigation by whom?"
+                },
+                {
+                    "start": 1239.4,
+                    "stop": 1313.56,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "By the State of Alabama. There are multiple counties involved in the circumstances that gave rise to this. And our only point with that, Justice Alito, is that the -- the court relied so heavily on this conclusion that we didn't think was supported by the record, that we -- we thought that it was relevant that Dr. Kirkland's reliability be addressed. But our broad point was that, given what we know about dementia, given that if you apply dementia to these facts and circumstances, the trial court would have to conclude, like the Eleventh Circuit did, that Mr. Madison is incompetent. The state argued that you can't do that in trial court; you can only find incompetency if there's psychosis or insanity or delusions. And that was the basis on the trial court's rejection of our argument. And I don't think it's too difficult to articulate this concept of -- of incompetency that relates to rational understanding, orientation, disorientation, is a key factor. And that's for me perhaps useful for a court to articulate because, in a lot of ways, your inability to orient to time and place is going to undermine your ability to rationally understand what's going on. And that's a fairly well-developed area of the medical profession. It's what --"
+                },
+                {
+                    "start": 1315.04,
+                    "stop": 1331.56,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- with the determination -- what do you do with the determination that, one, he knew that he was subject to execution for having killed a police officer?"
+                },
+                {
+                    "start": 1331.56,
+                    "stop": 1431.48,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I'd -- I would deal with that the same way the Court dealt with that in Panetti. The abstract understanding that someone who's convicted of a murder can be executed does not help resolve the question of whether this defendant has a rational understanding of his circumstances. And the example that I use is a common one, common problem you see in dementia. When someone goes to see their mother and their mother doesn't recognize them, it's heartbreaking. It's devastating. Once you understand that the reason why they can't recognize you is dementia, you have a different relation -- relationship to what that means. You can say \"I'm your daughter,\" and that person will respond to you as their daughter. But, when you come back the next day, they don't have a rational understanding of who you are. And what the trial court and what the state has argued is essentially, if we can get the patient to say, \"yes, that's my daughter,\" we can conclude that they have a rational understanding of their circumstances, of their family. And that's the tragedy of dementia. You can't sustain that understanding. And that's where the orientation to time and place becomes critical. Now there are other circumstances. I -- I just wanted to be clear that we're not contending that this should be an unworkable standard for states, that someone saying \"I don't remember\" is sufficient. I think here there was a very key -- clear case. No one disputes the severity of his mental and physical decline, his disabilities. He's legally blind now. He can't speak without slurring his speech. He's incontinent. He can't walk without assistance. Everyone, including the trial court, observed that he is a very severely ill person."
+                },
+                {
+                    "start": 1431.48,
+                    "stop": 1435.2,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have there been changes even since 2016? Is this continuing?"
+                },
+                {
+                    "start": 1435.2,
+                    "stop": 1467.92,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It is a degenerative disease and, yes, he continues to -- to decline. And, of course, the circumstances that he is in add to that decline. He's locked in a 5-by-8 cell. He's been in solitary confinement for 33 years. He is in pain. There isn't the kind of medical care that he might otherwise get. So there's no question, and -- and Dr. Goff was very clear about this, and the APA's brief makes this clear, that his condition will continue to degenerate and his ability to function will diminish as well. But the point --"
+                },
+                {
+                    "start": 1467.92,
+                    "stop": 1495.52,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Stevenson, the court below believed that Dr. Kirkland and Goff's evaluations were essentially similar. Do you agree with that assessment? If you don't, tell me how you relate that lack of similarity to the question of his reliability. And what do you think the trial court should have done -- -- in order to deal with that?"
+                },
+                {
+                    "start": 1495.52,
+                    "stop": 1552.52,
+                    "speaker": {
+                        "name": "Bryan A. Stevenson",
+                        "ID": 18009,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yeah. Okay. Well, I think the primary difference is that Dr. Kirkland in no way was willing to acknowledge dementia as relevant to his evaluation. So his fact-findings about what the patient remembers were made without any context or any understanding of dementia as relevant to that. Dr. Goff, on the other hand, said you cannot find that Mr. Madison has any independent recollection of the crime, the circumstances, the events that led to his arrest. Dr. Goff made the finding that he doesn't understand from day to day what's happening, that he's disoriented, that he's bewildered. None of those findings were found by Dr. Kirkland. And so Dr. Goff's evaluation, of course, was that he would not be competent to be executed when you consider these medical facts. And Dr. Kirkland, the trial judge, nor the state ever acknowledged dementia as relevant to the determination, which is why I don't think this Court can find that that was a reliable determination. I'd like to reserve the rest of my time for rebuttal if there are no further questions."
+                },
+                {
+                    "start": 1552.52,
+                    "stop": 1560.08,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Govan."
+                }
+            ],
+            "start": 7.28,
+            "stop": 1583.28
+        },
+        {
+            "turns": [
+                {
+                    "start": 1560.08,
+                    "stop": 1583.28,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This Court granted certiorari on two questions. With respect to the first question concerning whether the state may execute an offender who does not remember committing the capital offense, there is absolutely no objective evidence of a national consensus supporting such a rule, and Mr. Madison does not offer any evidence to the contrary. Now, on the second question presented --"
+                },
+                {
+                    "start": 1583.28,
+                    "stop": 1676.12,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I go back to -- can I start there? It seems to me as I'm reading through some of the materials that you pointed to in your brief that, under the common law, there were different kinds of -- of defenses to murder, including lunacy. I see one of your sources, Cowell, and the other Hale, talking about lunacy being a condition unlike insanity, which they defined as never being in touch with reality. They define lunacy as being able to remember some things but not others. And yet, to a source, the common law excused lunatics, so that if states are folding in dementia into lunacy, into insanity, into other sort of broader labels just like the common law did, how can I rely on your statement that there's no consensus? I don't even know that we have to get there because your adversary has said that he thinks this folds into Ford and Panetti because it's not dementia qua dementia; it's a certain kind of dementia that doesn't put you in rational touch with your decision-making in your moment. But, putting that aside, I -- I'm taking on your starting proposition."
+                },
+                {
+                    "start": 1676.12,
+                    "stop": 1687.04,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, for two points. The first, just to address the common law, is that, when we look back at the common law, they were addressing something different, where someone has completely lost his wits. We're talking about absolute madness."
+                },
+                {
+                    "start": 1687.04,
+                    "stop": 1696.56,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, they define \"lunacy\" as someone who can remember sometimes and not remember -- have his wits sometime and not have his wits other times."
+                },
+                {
+                    "start": 1696.56,
+                    "stop": 1710.04,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, our -- our view of the common law, and those sources, we're talking about something different. Not remembering the offense would not fit into those categories of someone -- absolute madness or -- or losing their wits. And the second point --"
+                },
+                {
+                    "start": 1710.04,
+                    "stop": 1744.8,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if you don't think a demented person who today doesn't remember you as your son, who doesn't know where he or she is, who doesn't know to call -- to go to the bathroom in the pot right next to him -- you don't call that being out of your wits? It could be that maybe tomorrow they might for a few minutes remember, but at the moment that they're having that episode, are they within their wits?"
+                },
+                {
+                    "start": 1744.8,
+                    "stop": 1759.24,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, we -- we have not -- there -- there could be -- again, dementia exists on a spectrum. So there's no doubt there could be some case where someone has dementia where they could have lost their wits or meet the Ford and Panetti standard, but that's not what we have here. And that's --"
+                },
+                {
+                    "start": 1759.24,
+                    "stop": 1774.28,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but you -- it is my understanding, I'll ask the same question I asked earlier of the two questions accurate, you -- you are arguing that simply because somebody doesn't remember the crime, that that doesn't help satisfy Ford and Panetti, right?"
+                },
+                {
+                    "start": 1774.28,
+                    "stop": 1775.12,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, Your Honor."
+                },
+                {
+                    "start": 1775.12,
+                    "stop": 1785.16,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you've conceded that if the person meets the Ford and Panetti standard by virtue of vascular dementia, that he meets the Ford and Panetti standard, right?"
+                },
+                {
+                    "start": 1785.16,
+                    "stop": 1797.12,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, yes, if someone has vascular dementia or any other mental illness, if it precludes them from having a rational understanding of their punishment, and that they will die when they're executed, they would meet the Ford and Panetti standard."
+                },
+                {
+                    "start": 1797.12,
+                    "stop": 1817.44,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So -- so I understand your friend who have conceded that simply not remembering the crime is not enough. And you're arguing that if it's vascular dementia that affects you up to the point of Ford and Panetti, that that is enough. So are all we arguing about whether -- is whether Mr. Madison himself meets the Ford and Panetti standard?"
+                },
+                {
+                    "start": 1817.44,
+                    "stop": 1826.92,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's exactly right, Your Honor. And that's the question that had -- was already presented to the state trial court in 2016, which this Court reviewed those same facts last year and summarily --"
+                },
+                {
+                    "start": 1826.92,
+                    "stop": 1838.28,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this -- but this -- the decision we're now reviewing said the Supreme Court said must be insane. This man isn't insane. End of case."
+                },
+                {
+                    "start": 1838.28,
+                    "stop": 1890.8,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, but that -- that doesn't change the scenario. And we have to explain the context that that occurred. That was just a summary denial in the exact same case. After this Court summarily reversed the Eleventh Circuit, the Alabama Supreme Court set Madison's execution date again. And what Mr. Madison did is he filed another petition of the same Alabama statute that uses that term \"insanity\" -- that's why that term was used -- alleging the exact same evidence that he presented to the trial court, the same trial court judge in 2016, which had previously rejected. That court held a hearing in 2018 and essentially asked Madison: Do you have anything else new to present? And Mr. Madison said: No. And on page 12 of that hearing transcript, Mr. Madison said -- Mr. Madison said: We are obviously relying on the evidence that was previously before the court. And so, when the court was presented with that same evidence, he said this Court, the Supreme Court has already said --"
+                },
+                {
+                    "start": 1890.8,
+                    "stop": 1937.2,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is there ever a place where the court makes clear that it understands that insanity is not a sine qua non, that dementia could do the trick in satisfying the Ford/Panetti standard? Is there ever a place where the court says, even though, you know, I understand that I'm not necessarily looking for delusions or schizophrenia or insanity and all the -- the ways that we -- that we saw it in Ford and Panetti, that if I find somebody who's experiencing the kind of dementia that would prevent him from having a rational understanding of the crime and punishment, that that's enough? Is there ever a place where the court makes clear that it knows that?"
+                },
+                {
+                    "start": 1937.2,
+                    "stop": 1946.32,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, yes, several parts, Your Honor. On page 3 and 4 of the court's order, the 2016 order, it set out the Panetti standard in full. On page 10 of the court's order --"
+                },
+                {
+                    "start": 1946.32,
+                    "stop": 1957.28,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I don't think that that does it. I mean, you can set out the Panetti standard. The question is whether you understand that dementia can be the basis for satisfying the Ford and Panetti standard."
+                },
+                {
+                    "start": 1957.28,
+                    "stop": 1973.4,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Absolutely. On page 6 through 8 of that court's order, the trial court specifically outlined Dr. Goff's testimony about that, including the fact that he had had strokes, that because of those strokes, he had had a loss, a memory loss, that he had cognitive decline. He considered --"
+                },
+                {
+                    "start": 1973.4,
+                    "stop": 1988.52,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. But if you're just listing that evidence, what you might think as a court if you're looking for delusions is that's all relevant, I'm listing the evidence, but that's irrelevant. Is there ever a place where the court makes it clear that that is relevant?"
+                },
+                {
+                    "start": 1988.52,
+                    "stop": 2005,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because it specifically said in its conclusion on page 10 that it was considering all the testimony of Dr. Goff and that eventually made the final finding, which Justice Alito pointed to, that \"Madison has a rational understanding as required by Panetti that he is going to be executed.\" And it's important also to note that there were --"
+                },
+                {
+                    "start": 2005,
+                    "stop": 2021.76,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But do you see what I mean, Mr. Govan? And I won't belabor this, but you can list all the evidence and think to yourself: I'm listing all the evidence, but I find all this evidence utterly irrelevant to the legal standard because I think delusions are required to satisfy Ford and Panetti."
+                },
+                {
+                    "start": 2021.76,
+                    "stop": 2042.84,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I understand, Your Honor. I guess the point is that the judge never made that finding. There's no point in the judge's order where it said: I hear this evidence from Madison's expert, but I can't consider it. That was never in the order. The judge never said that I'm denying his competency petition because he doesn't have a delusion. That's -- that's what my friend has argued below, but that's not consistent --"
+                },
+                {
+                    "start": 2042.84,
+                    "stop": 2059.56,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess what you're saying is either way. We -- we can't tell either way whether -- is that what you're saying? We can't -- we can't tell that he thought that delusions were required, and we can't tell that -- whether he thought that dementia could satisfy?"
+                },
+                {
+                    "start": 2059.56,
+                    "stop": 2074.4,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, that's not what we're saying at all. We're saying, number one, that he did consider all this evidence presented by Dr. Goff. And, number two, there is not a single point that Madison can point to where the trial court said: I can't consider this evidence. That just does not appear in the record."
+                },
+                {
+                    "start": 2074.76,
+                    "stop": 2141.48,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do you think? That is, what does the state think about the standard, which perhaps would be an addition to Ford or Panetti, which was mentioned, if the two -- and it's not exclusive, but if two things are true; one, he does not recall his crime; and, second, he has a severe inability to orient himself to time or place, which means the kinds of things that were described. Yes, I recognize you today; tomorrow I can't, not a clue, not a clue where anything is, though sometimes he answers the right questions. That's what I mean by that. But you heard the words. So judging going back to the Eighth Amendment and using the rationale of Ford, not the words, and Panetti, is there a -- would you accept the fact that such a person cannot be executed under the Eighth Amendment? And, if not, what's the difference?"
+                },
+                {
+                    "start": 2141.48,
+                    "stop": 2146.12,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, the difference is -- is that, under Ford and Panetti, Madison has an understanding of what matters."
+                },
+                {
+                    "start": 2146.12,
+                    "stop": 2204.84,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no, I'm not saying -- I understand that the words I just used are different than Ford and Panetti, but a person in that circumstance either can be executed or not. That would be perhaps a new standard or a modification of Ford and Panetti. So I want to know if you think such a person can be executed and what your objection is to adding the words I just said as an additional standard, if you like, or a modification or interpretation of the existing standard, if you prefer? The words are, one, he does not recall his crime, and, two, he has a severe inability to orient -- mental ability -- he has a severe inability to orient himself to time and place."
+                },
+                {
+                    "start": 2204.84,
+                    "stop": 2212.2,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I'll take the first one, Your Honor. Not remembering the crime, that would create an unworkable rule for the state ever to prove because, essentially, it would follow that --"
+                },
+                {
+                    "start": 2212.2,
+                    "stop": 2217.68,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And nobody's -- nobody's arguing that in this case. Mr. Stevenson made that clear."
+                },
+                {
+                    "start": 2217.68,
+                    "stop": 2224.72,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that was the question we -- the principal question that we granted, but, apparently, it's fallen out of the case."
+                },
+                {
+                    "start": 2224.72,
+                    "stop": 2229.64,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, I think the reason it's fallen out is because there's such a clear lack of objective evidence for such a rule."
+                },
+                {
+                    "start": 2229.64,
+                    "stop": 2249,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that isn't -- that isn't -- that -- that's not really my point. We've all seen people in final stages of Alzheimer's. All right? Think of such a person. Now is there any reason to execute that person when you wouldn't execute the people in Ford and Panetti?"
+                },
+                {
+                    "start": 2249,
+                    "stop": 2260.44,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, because, in this case, the state would still have a strong interest in seeking retribution for a horrible crime. If someone -- even if they can't remember the crime, that doesn't somehow lessen their ability to understand --"
+                },
+                {
+                    "start": 2261.88,
+                    "stop": 2283.04,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- we're mixing up the questions. We understand your friend on the other side to say not remembering the crime is not enough, right? But, if the person meets the standards of Ford and Panetti, as stated in Ford and Panetti, the fact that he got there through vascular dementia, I understand you to say that doesn't make a difference. That still qualifies."
+                },
+                {
+                    "start": 2283.04,
+                    "stop": 2293.04,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. Yes, Your Honor. That -- that -- that scenario, whether it's vascular dementia or any other type of mental illness, that would just be the starting point. And the state isn't going to say that and has never said that --"
+                },
+                {
+                    "start": 2293.04,
+                    "stop": 2392.96,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. In Panetti, the man understood that the -- that he was in jail, that the state was charging him with a crime, that it was going to put him to death. He believed they wouldn't, because of his delusions, ultimately succeed, but he understood perfectly well that set of facts. And we said that still qualified him. So we have a man here who knows that he's incarcerated or kept in a cage because he's in a bed, he can't move on his own, can't remember where the bathroom is next to him, can't see, slurs his words. He's really not quite there. But he knows that someone says he committed a murder and that they're trying to kill him, but he doesn't understand why. He can't be present enough in time to rationally understand or reflect on what he has done because he can't retain information for long. And why is that different than Panetti? In Panetti, the man was blaming someone else, which may be even worse for some people, or saying that someone else is going to protect him. But if you can't rationally appreciate why you're putting -- being put to death, how does that fulfill the Panetti standard?"
+                },
+                {
+                    "start": 2392.96,
+                    "stop": 2426.08,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, because this case is different than the facts of Panetti. So, in Panetti, the problem was the inmate knew he was going to be executed, but he didn't understand why. He believed that the reason he was going to be executed was because it was a -- a sham to get him from -- stop preaching. There is no confusion from Mr. Madison's perspective. His own expert said that, quote, and this is on page 7 of his report, \"he understands the sentence, specifically the meaning of a death sentence.\" And he said, quote, that \"Madison said the reason he was in prison was because of murder.\" And that -- and that's the difference here in this particular case, is that his own expert admitted --"
+                },
+                {
+                    "start": 2426.08,
+                    "stop": 2465.72,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what if he can't understand or really follow through in his thinking what that means? I mean, he's just not rational in the way you and I understand it. I certainly don't think a demented person who has Alzheimer's and is put in a -- in an institution might have a moment of understanding one memory, and I think that they are rational. I certainly don't think you would let them buy an apartment in Florida the way he told one of his lawyers he was going to do after this case ended."
+                },
+                {
+                    "start": 2465.72,
+                    "stop": 2481.48,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, with respect, on the things that matter, he does understand. And we haven't talked about all the things that he -- he does recall both before and after the offense. He remembers that he was convicted of multiple juvenile offenses and sent -- spent time in a youth detention facility. He remembers that --"
+                },
+                {
+                    "start": 2481.48,
+                    "stop": 2506.44,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Govan, can I ask you whether you think this is at all relevant? At the time of the conviction, over 30 years ago, Madison was competent. There was no doubt about that. But I think this -- wasn't this a case of a judge overriding a jury recommendation against death in -- in Madison's case?"
+                },
+                {
+                    "start": 2506.44,
+                    "stop": 2508.16,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2508.16,
+                    "stop": 2543.48,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So suppose he had come to that, the end of the trial, in the condition he now is in; that is, he can't see, he can barely walk, all of the other conditions that Mr. Stevenson brought out. Is there any likelihood that a jury would have recommended death for such a person or that a judge would override the jury's recommendation for life rather than death?"
+                },
+                {
+                    "start": 2543.48,
+                    "stop": 2569.52,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Judge, I don't know. That would be a situation that would -- would take place in a normal sentencing hearing to determine whether those mitigating circumstances -- aggravating circumstances outweigh the mitigators. But I would say what matters here is -- is that scenario would not impact the state's -- the constitutionality of seeking a death sentence or the -- the propriety of seeking a death sentence, which, again, nothing about Mr. Madison's conditions impact the state's interest in seeking retribution for a -- a heinous crime."
+                },
+                {
+                    "start": 2569.52,
+                    "stop": 2584.52,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you -- I mean, what is the significance? I -- I would have thought all we were concerned about is mental significance -- mental ability and understanding, the various things, blindness, inability to -- to walk. None of that should -- is relevant under Ford and Panetti, is it?"
+                },
+                {
+                    "start": 2584.52,
+                    "stop": 2604.64,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Your Honor. That's correct. In fact, Panetti talks about something similar to that, that there could be other -- another category of inmates who, as a result of not mental illness, that they're recalcitrant, they're callous, they -- they blame other people for the crime. That -- that's not what Panetti is seeking to carve out the narrow exception for people who are insane."
+                },
+                {
+                    "start": 2604.64,
+                    "stop": 2609.28,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What -- what is your view on the significance of the MRI evidence?"
+                },
+                {
+                    "start": 2609.28,
+                    "stop": 2651.84,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, and that -- that kind of -- Mr. Madison's point on that is kind of missing, I guess, the point. MRIs can help diagnose vascular dementia. And we've never disputed whether he has vascular dementia or not. But MRIs can't help determine whether someone has a rational understanding. That's something that is inherently going to come from talking with a particular inmate and particularly in this case, where the dispositive fact that Mr. Madison is relying on is that he can't remember the crime. That's inherently something that only comes from the defendant. And he would have to admit that, whether to a psychologist or in testimony. And that can't be the rule because, if that was the case, no inmate would ever admit to committing the crime if that meant that he were incompetent."
+                },
+                {
+                    "start": 2651.84,
+                    "stop": 2657.48,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you -- you've already prevailed on that point at least with respect to your adversary's view, right?"
+                },
+                {
+                    "start": 2657.48,
+                    "stop": 2657.88,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2657.88,
+                    "stop": 2682.12,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. So I would have thought we can stop arguing about it, but -- we don't have to -- we don't have to accept a concession, but the -- the concern about the MRI evidence is that it would, if I understand it, tend to show something that is going to have a broader effect than just not remembering the facts of the crime. Is -- is that not right?"
+                },
+                {
+                    "start": 2682.12,
+                    "stop": 2693.4,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, I think MRI evidence can help. There is this suggestion as far as the -- the diagnosing. So that certainly can -- can help with the individual fact determinations that a trial court would make."
+                },
+                {
+                    "start": 2693.4,
+                    "stop": 2702.48,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah, but there's no MRI evidence that's going to be looked at and you can say this shows that he doesn't remember the facts of the crime. That doesn't -- isn't going to have broader significance, right?"
+                },
+                {
+                    "start": 2702.48,
+                    "stop": 2758.56,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct. But, again, in this -- in this case, of course, the trial court did consider -- and just in this particular case, did consider the fact that, according to Dr. Goff, this was a progressive disease. But, at the end of the day, the court held that there was a rational understanding. I just -- one point I also want to make in this particular case, that the petition, whether Madison's position, whether going to the first question or the second question would be contrary to how competency determinations are done across the board at any level, whether competency to stand trial, competency to be executed, competency to waive appeals. They all function the same way. It's not the fact that someone comes to the court and says to a trial court: Oh, I have a -- I have this particular mental illness and, therefore, I meet the competency standard. It would apply the exact same way it occurred here, that they -- that it would consider that evidence and determine whether they have a rational understanding. And that's what the trial court did here."
+                },
+                {
+                    "start": 2758.56,
+                    "stop": 2775.56,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you would think that if he came before the trial court on a question of competence to stand trial with what his mental condition is now, his lack of orientation to time and place, that he would have been found competent to stand trial?"
+                },
+                {
+                    "start": 2775.56,
+                    "stop": 2800.24,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, I do, because, again, he would have what the -- the rational understanding that would be required in even the competency to stand trial setting, which is a rational understanding of the facts, the factual proceedings, and the ability to assist with counsel. And here, that's what Madison's expert said, that he did understand, quote, \"he has been able to understand the nature of the pending proceeding and he has an understanding of what he was tried for.\" So, yes."
+                },
+                {
+                    "start": 2800.24,
+                    "stop": 2832.84,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And -- and -- and what if what they meant by that was you can -- you can make him understand what is going on today, but then tomorrow he comes back and you have to do it all over again, and then tomorrow -- the next day comes back and you have to do it all over again? In other words, he -- you -- you can -- you can -- you can get him to understand something, but then he loses it. That's -- because that's the way memory works with people in this -- with this form of dementia. What about that?"
+                },
+                {
+                    "start": 2832.84,
+                    "stop": 2949.16,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, that -- that might be a closer question, again, that you would determine on the factual circumstances in front of that particular court. But, again, that -- that's not what we have here. It was clear -- Mr. Madison said to both experts that he remembered that he had three separate trials, that he was convicted of a death sentence. He -- to both experts, he believed that he did not agree with the particular sentence. So that's not what we have here in this particular case because, as this Court noted before, both experts' testimony demonstrated that he did have a rational understanding of his particular sentence in this case. Another point that would just need -- I just want to harken back to, the -- the fact of -- we've talked about the original rule, that Madison in the first question presented, is that there's just simply no objective evidence of a position supporting Madison's position, either under the first or second question presented. No state legislature has determined that prohibits states, of the 31 states that have the death penalty, has prohibited states from carrying out an execution for someone who has a mental illness or who cannot remember the particular facts of the crime. The lower courts are -- are uniform in that respect in addressing competency as well, and the Texas brief points that out in regards to competency to stand trial. And we point out in our brief that of the three states that have addressed an issue similar to this, they have all come down on Alabama's side, that simply having dementia and not remembering the facts of the crime does not prevent you per se from having a rational understanding. So the final point I would just mention to this Court is what, again, what Madison seeks is unprecedented. This Court has never created a categorical rule excluding someone from capital punishment where at least there was some objective evidence of a national consensus in that direction. Here, there is none. And the consequences of such a rule would prevent the state from carrying out an execution on Madison, who -- a convicted --"
+                },
+                {
+                    "start": 2949.16,
+                    "stop": 2964.4,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you don't disagree that Ford and Panetti, read properly, would not be limited to insanity, delusion, or severe dementia?"
+                },
+                {
+                    "start": 2964.4,
+                    "stop": 2978.6,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Of course not. All those things are included in Ford and Panetti. And the thing is that in this case, the trial court did consider them and found that notwithstanding those conditions, the fact that he had these strokes and memory loss, he still had a rational understanding of his -- -- crime and punishment."
+                },
+                {
+                    "start": 2978.6,
+                    "stop": 3037.92,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- interesting to me because I don't read anywhere in Kirkland where he did any analysis of rationality. What he did, as I understood it, is just does he remember his crime or something -- he doesn't remember his crime, but does he understand where he is and what they're going to do to him? That's not the same as rational understanding. He did no memory test to see how long Mr. Madison retained information generally. He did not describe the extent of his dementia. He didn't do any of the things one would expect if he was going to opine on rationality. So how -- the only one who did that was Dr. Goff, and that part of his discussion was not addressed by the Court below at all."
+                },
+                {
+                    "start": 3037.92,
+                    "stop": 3086.2,
+                    "speaker": {
+                        "name": "Thomas R. Govan, Jr.",
+                        "ID": 63033,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Just -- just two points in response to that, Your Honor. We disagree, number one, on page 2 of Dr. Kirkland's report, he did set out the Ford and Panetti standard. And as the trial court noted in the hearing, doctor -- that particular doctor had done, I think, approximately 4,000 competency evaluations, which was for competency to stand trial, was -- is similar to the standard for competency to be executed, as the Texas brief points out, and he did analyze the rational understanding. And it would make sense, again, why Dr. Kirkland would not specifically inquire to whether an inmate would remember committing the crime, because that is not determinative under Ford and Panetti. But, in this case, because Madison does have a rational understanding that he was convicted of the crime of murder, that he will be executed for that murder, we would ask this Court to affirm the state court."
+                },
+                {
+                    "start": 3086.2,
+                    "stop": 3089.72,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Stevenson, you have four minutes remaining."
+                }
+            ],
+            "start": 3089.72,
+            "stop": 3351.6
+        }
+    ]
+}

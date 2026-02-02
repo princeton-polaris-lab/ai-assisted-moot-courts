@@ -1,0 +1,2780 @@
+{
+    "title": "Lujan v. G & G Fire Sprinklers, Inc.",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 9.856,
+                    "stop": 12.624,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please this Court-- --Yes, I think we'll wait just a minute until some of the crowd clears out."
+                },
+                {
+                    "start": 12.624,
+                    "stop": 14.241,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Very well, Your Honor."
+                },
+                {
+                    "start": 14.241,
+                    "stop": 17.526,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Kerrigan, you may proceed."
+                }
+            ],
+            "start": 9.856,
+            "stop": 171.712
+        },
+        {
+            "turns": [
+                {
+                    "start": 17.526,
+                    "stop": 171.712,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This case comes on a second time for review before this Court following the initial petition for granting petition for certiorari in 1999, when the Court vacated the decision of the Ninth Circuit, and sent the case back for reconsideration under this Court's decision in American Manufacturers Mutual Insurance Company v. Sullivan. We argued at that time that the decision of the Ninth Circuit was a radical departure from established principles of constitutional law, and the cases decided under the Due Process Clause of the Fourteenth Amendment, and the Court, we would submit, has only paid lip service to this Court's decision in Sullivan and again renders a decision which compounds confusion in the law and is again a radical departure. The Ninth Circuit again takes the position that any interest or any declaim for payment under a public works contract is a property interest within the meaning of the Fourteenth Amendment. That is a decision and a viewpoint which is contrary to every other circuit that has decided that question, including the Second District and the Court of Appeals in the First and Seventh Circuits. Also, in the Ninth Circuit the position has been for a number of years, as reflected in San Bernadino Physicians Services, that these types of interests in construction contracts, public construction contracts, were not within the concept of property within the Due Process Clause. This Court in Sullivan made it clear that in order to determine that there was a property interest, that a plaintiff had to pass certain minimum standards, had to surmount certain hurdles of pleading and evidence that were never surmounted in this case and it is clear in this case that, to use the language of Sullivan, that plaintiff has never made good on its claim."
+                },
+                {
+                    "start": 171.712,
+                    "stop": 178.616,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kerrigan, has the California law changed since this case came about?"
+                },
+                {
+                    "start": 178.616,
+                    "stop": 187.404,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There is, as we pointed out in our brief, Your Honor, the legislature has enacted some new laws which--"
+                },
+                {
+                    "start": 187.404,
+                    "stop": 195.743,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Under the new law, can the State labor department require the withholding by the contractor from the sub?"
+                },
+                {
+                    "start": 195.743,
+                    "stop": 211.17,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There are some instances under the new law where the DLSE, the Division of Labor Standards Enforcement, can require a withholding."
+                },
+                {
+                    "start": 211.17,
+                    "stop": 222.311,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the law at the time this case arose was different, and there was no requirement... the labor department couldn't require the withholding, is that right?"
+                },
+                {
+                    "start": 222.311,
+                    "stop": 242.224,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under the law that existed at this time, the only party who is required to withhold was the awarding body, the State agency. The private parties, the general contractor, the prime contractor was not required to withhold. That was a matter within his discretion. Now--"
+                },
+                {
+                    "start": 242.224,
+                    "stop": 260.603,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any practical instance in which the prime would not withhold? After all, the prime is not going to get paid. What prime would want to keep the underpayment, rather than shifting it to a third party?"
+                },
+                {
+                    "start": 260.603,
+                    "stop": 295.609,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, to start with the very obvious, Justice Ginsburg, there would be the situation where the prime doesn't owe any money to the sub. They get the withholding notice, there's nothing to withhold. That's a very obvious example. There are also examples, for instance, where the situation of the subcontractor would be such that if there was a withholding it would put him out of business, and it might be in the interest of the prime contractor not to put the sub out of business because it might jeopardize performance under the contract. That is another example."
+                },
+                {
+                    "start": 295.609,
+                    "stop": 314.07,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you know if practically these... I know you... are possibilities. Practically, has there ever been a case where DLSE has told the prime, we're reducing your amounts by X, where there hasn't been a pass-on?"
+                },
+                {
+                    "start": 314.07,
+                    "stop": 331.699,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That has happened. That does happen. There are long-term relationships in this industry. Some of these people have been dealing with each other for years. There are situations where they could be fixed, where people have trust in each other, and in fact that has occurred, yes."
+                },
+                {
+                    "start": 331.699,
+                    "stop": 339.003,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because there would be a penalty. It's not just that the wages would be withheld, but there would be a penalty imposed, a daily penalty, isn't that--"
+                },
+                {
+                    "start": 339.003,
+                    "stop": 340.953,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There would be. The law requires that."
+                },
+                {
+                    "start": 340.953,
+                    "stop": 342.538,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--So it could mount up pretty high."
+                },
+                {
+                    "start": 342.538,
+                    "stop": 351.977,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Depending on the nature of the violation, it certainly could, and some of these violations are very substantial, and the amounts of money are very substantial."
+                },
+                {
+                    "start": 351.977,
+                    "stop": 397.957,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even if there were no statutory provision authorizing the prime to withhold, wouldn't it be true, under the law of contract in, I assume every State, that under the circumstances of this case the prime could withhold anyway, because the contract law is assumed to be made to incorporate whatever positive legal obligations there are, and if there is a positive legal obligation on the part of the sub to pay a prevailing wage, and the sub is not doing it, couldn't the prime say, you are breaching the contract to that extent, and because I can be sued I'm going to protect myself by withholding something from my payment to you?"
+                },
+                {
+                    "start": 397.957,
+                    "stop": 402.159,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is indeed the case, and that's been the history of the construction industry."
+                },
+                {
+                    "start": 402.159,
+                    "stop": 407.58,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He can do it, but he'd be liable if he was wrong about whether the sub was in breach or not."
+                },
+                {
+                    "start": 407.58,
+                    "stop": 409.563,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "He... absolutely. He would be absolutely be liable."
+                },
+                {
+                    "start": 409.563,
+                    "stop": 421.657,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "In other words, he'd be accepting on faith the State's determination that the sub was in breach, and if he was wrong about it he'd be liable for damages. Isn't he also going to have to pay the sub in this case if the State is wrong?"
+                },
+                {
+                    "start": 421.657,
+                    "stop": 422.873,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely, Your Honor."
+                },
+                {
+                    "start": 422.873,
+                    "stop": 443.736,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Sure, so my question is, if the authorization in the statute is a key to a determination that there is State action here, wouldn't the general law of contract be an equal key, even if this provision did not exist?"
+                },
+                {
+                    "start": 443.736,
+                    "stop": 444.87,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorry, Your Honor."
+                },
+                {
+                    "start": 444.87,
+                    "stop": 456.128,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "In other words, if this is State... put it another way. Why should we say it is State action when he is doing absolutely... the prime is doing absolutely nothing more than the prime could do under the general law of contract?"
+                },
+                {
+                    "start": 456.128,
+                    "stop": 475.59,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that's in fact the case, Your Honor. The relationship of the prime and the sub in this industry, and as far as... and as long as this industry has existed, has been that if there are situations of this kind under custom and practice, the prime withholds."
+                },
+                {
+                    "start": 475.59,
+                    "stop": 484.528,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr.-- --You would accept that argument? Yes. Mr. Kerrigan, G & G Fire Sprinklers, the respondent here, they are the sub we're talking about here?"
+                },
+                {
+                    "start": 484.528,
+                    "stop": 486.413,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor, Mr. Chief Justice."
+                },
+                {
+                    "start": 486.413,
+                    "stop": 494.669,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And did they ever sue in any California court to recover what they claim to have been owed?"
+                },
+                {
+                    "start": 494.669,
+                    "stop": 515.167,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not only did they not sue, they never submitted any kind of a claim that we're aware of. They never reduced any kind of a claim to writing that we're aware of, and when we talk about a claim in this case we're talking about something that's an abstraction, because G & G never availed itself of any remedies in any California court."
+                },
+                {
+                    "start": 515.167,
+                    "stop": 524.022,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "May I ask a further question on that? Have they ever represented that they did, in fact, comply with the statutes concerning the level of compensation?"
+                },
+                {
+                    "start": 524.022,
+                    "stop": 592.747,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Never. Never, and there's nothing in the record where they ever made the claim that they complied with the prevailing wage requirements, or any other conditions of the contract. There's nothing in the record, and we've been in front of the Ninth Circuit three times on this, we've been in the district court two or three times, and there's no such claim. Now, one of the other questionable, we suggest, determinations of the Ninth Circuit was that a cause of action, a trial in a court of law was not a hearing within the meaning of due process, that somehow there was some requirement that the hearing had to be an administrative hearing, and we believe that that is contrary to the decisions of this Court in cases like Hudson v. Palmer, and Ingraham v. Wright, where the Court at least in those cases suggested that a trial in a court of law was, indeed, a hearing within the meaning of due process."
+                },
+                {
+                    "start": 592.747,
+                    "stop": 603.205,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "May I ask you on that question... I understand they haven't done it, but is there an administrative procedure in which they could have said, here are our books, take a look at it, and we've done everything we're supposed to do, or do they have to sue?"
+                },
+                {
+                    "start": 603.205,
+                    "stop": 612.144,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There is... certainly that could have been done informally, and there's certainly communications between the parties. There was no such administrative procedure at that time."
+                },
+                {
+                    "start": 612.144,
+                    "stop": 615.429,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is there... under the amended statute, is there such a procedure?"
+                },
+                {
+                    "start": 615.429,
+                    "stop": 633.391,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There was a temporary regulation put in effect during the course of this appeal that has been utilized prospectively, and there have been a number of hearings under that regulation, but there was none at this time."
+                },
+                {
+                    "start": 633.391,
+                    "stop": 663.577,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's pretty high-handed, don't you think? I mean, the State, without giving the sub even a chance to respond to these allegations simply directs the prime contractor to give the State the money owed to the sub? It's a kind of garnishment, I guess, and that's what makes it a little different from the ordinary contract case. The way the statute reads, what you must pay to the State is the money owing to the sub."
+                },
+                {
+                    "start": 663.577,
+                    "stop": 768.096,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice Scalia, we would say it is completely different than a garnishment. We would say there is a spectrum of situations that one would pose in these cases. You have on the far end of the, extreme end of the spectrum cases that like the James Good Realty, the Hawaiian case, where a party was divested of real property interest. You have the Sniadach case, where there was a garnishment, where property is in possession of the... let's say, the subcontractor, and that property is divested and the right is divested. This is a situation where there are two parties, one party claims that the other party is not entitled to the property, or in this case the money, and the other party is claiming that they are entitled to the money. We think it's perfectly reasonable, especially in view of the well-known insolvency of the subcontractors, that for the protection of the workers on these projects, that the withholding is appropriate. And Justice Stevens in Sullivan said, and I think that... as we said in our brief, I think that philosophy kind of tends to underscore the decision in Sullivan that there is nothing unreasonable if a party in good faith, who has possession of the property or the goods, takes the position that they're going to hold onto that property to preserve the status quo until some kind of a reasonable determination can be made, and we don't think it's high-handed."
+                },
+                {
+                    "start": 768.096,
+                    "stop": 781.337,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But the one difference is, as Justice Scalia points out, it isn't the prime that made the decision to do this. It's the State agency, the enforcement agency said, you pay over... Mr. Prime, you pay over to the State what would otherwise be paid to the sub."
+                },
+                {
+                    "start": 781.337,
+                    "stop": 826.449,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor, but it isn't like a garnishment, where there is a clear entitlement, property interest in the property or money. Here there's a disputed claim, and that's all there is, and we are saying, based on the disputed claim, we're not going to pay you for the box of ballpoint pens that the supplier gave us. We're going to withhold payment on that. If, every time the State does not pay its bills on time because there's a dispute, a good-faith dispute, and if that's going to be a violation of the Due Process Clause, we don't think that's what was intended by the people who drafted the Due... the Fourteenth Amendment."
+                },
+                {
+                    "start": 826.449,
+                    "stop": 844.68,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I guess there was a good-faith dispute in Roth as to whether the employee could be dismissed or not. That was just simply a contract case, and we said you couldn't do it without a prior hearing. How do you distinguish Roth from the ordinary contract case?"
+                },
+                {
+                    "start": 844.68,
+                    "stop": 862.391,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, as this Court has said in Sullivan and almost every other case, the first inquiry is always the nature and extent of the property right, if any, and you can't get to that point in this case or any other case until you've determined that there is a property right within the meaning of the Due Process Clause."
+                },
+                {
+                    "start": 862.391,
+                    "stop": 875.799,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And if I have someone who owes me under a contract, I have a valid contract claim against somebody, the State can take that away, and they have taken away property? Surely that's not right."
+                },
+                {
+                    "start": 875.799,
+                    "stop": 896.779,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we disagree, obviously, on that point. We think the situation is such, because of the interest of the State and because of the workers who would be affected, and because of the notorious insolvency of subcontractors, that it's an appropriate mechanism."
+                },
+                {
+                    "start": 896.779,
+                    "stop": 921.078,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The State can... does not interfere with any property rights when it takes the chose in action that I have against somebody who owes me money? The State can simply take that, and I have no remedy? I mean, you're saying it's not property. It is not property. That's extraordinary."
+                },
+                {
+                    "start": 921.078,
+                    "stop": 929.167,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--because, as the Court said in Roth, it's a unilateral expectation."
+                },
+                {
+                    "start": 929.167,
+                    "stop": 933.119,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "They held it was a property right in Roth."
+                },
+                {
+                    "start": 933.119,
+                    "stop": 934.987,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that was a different situation."
+                },
+                {
+                    "start": 934.987,
+                    "stop": 938.105,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It was a contract claim, is all it was, same as here."
+                },
+                {
+                    "start": 938.105,
+                    "stop": 953.615,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It was also an individual claiming right under a contract in a whole line of cases, beginning with Goldberg v. Kelly, where there has been expansion in the area of due process claims. If there are no other questions, I would reserve my--"
+                },
+                {
+                    "start": 953.615,
+                    "stop": 955.432,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, may I just ask you this question?"
+                },
+                {
+                    "start": 955.432,
+                    "stop": 955.733,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 955.733,
+                    "stop": 980.449,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I take it you agree that there would be a statement of a property interest if the claim was not merely that they withheld money from me, but they held, withheld money from me under a contract in which I have performed every obligation that I had under that contract. Would you agree that that would state a property interest?"
+                },
+                {
+                    "start": 980.449,
+                    "stop": 982.301,
+                    "speaker": {
+                        "name": "Thomas S. Kerrigan",
+                        "ID": 42931,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, we would. We definitely would."
+                },
+                {
+                    "start": 982.301,
+                    "stop": 992.974,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm not sure. Well, the question wasn't asked you. [Laughter] Thank you, Mr. Kerrigan. Mr. Lamken, we'll hear from you."
+                }
+            ],
+            "start": 17.526,
+            "stop": 1032.651
+        },
+        {
+            "turns": [
+                {
+                    "start": 992.974,
+                    "stop": 1032.651,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The California Labor Code does not deprive respondent of a property interest without due process for three reasons. First, respondent has not established a present entitlement to payment of money from the State, second, with respect to a cause of action, respondent has not established that it was subject to a deprivation, and third, with respect to any property interest at issue in this case, a lawsuit for the recovery of money allegedly owed, breach of contract or otherwise, is all the process that is due."
+                },
+                {
+                    "start": 1032.651,
+                    "stop": 1039.22,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "As for point three, how do you explain Roth? I really don't understand why Roth is different."
+                },
+                {
+                    "start": 1039.22,
+                    "stop": 1052.978,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Roth is different from this case for two reasons. When the State accorded the individual a for-cause termination contract in that case he had a present property interest in his employment that the State could not deprive him of without some predeprivation process. Under progress--"
+                },
+                {
+                    "start": 1052.978,
+                    "stop": 1064.403,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What do you mean? We were talking about his future employment. He was going to be dismissed for the next year, and it said, you know, we're terminating you. You have year-by-year employment. We're not going to reemploy you next year."
+                },
+                {
+                    "start": 1064.403,
+                    "stop": 1091.855,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, to the extent he could not... there was no property interest in reemployment, the Court held that there was no property interest because he didn't have a guaranteed right to reemployment in Roth. In cases like Loudermill, where the person could not be dismissed and had a guaranteed right to continued employment, this Court said there had to be a hearing before they could dismiss him for cause, and a person in that case, where there is a for-cause termination provision, has a present property interest in their employment, which cannot be taken away from them absent some sort of hearing."
+                },
+                {
+                    "start": 1091.855,
+                    "stop": 1101.545,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What is the difference between a present property interest in my employment and a present property interest in the money that you owe me? I don't understand why the one should be treated differently."
+                },
+                {
+                    "start": 1101.545,
+                    "stop": 1126.76,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the latter is much more akin to the payments at issue in Sullivan, which progress payments under an installment contract are typically understood to be earned one at a time, as the performance for each installment is performed, and the failure of a party to perform all the requirements in the contract, including in this case the prevailing wage term, is the failure of a constructive condition or, in this case, an expressed condition that would give rise to the entitlement for payment."
+                },
+                {
+                    "start": 1126.76,
+                    "stop": 1146.157,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What if we assume that the subcontractor did not violate the law, everything was fine, the State was just in error. Let's just make that assumption. Would there be some kind of property right in the subcontractor to expect payment under the contract?"
+                },
+                {
+                    "start": 1146.157,
+                    "stop": 1181.247,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, because one of the rights... in terms of present entitlement to payment, the California law and the contracts provide that the immediate right to payment doesn't attach in cases of dispute until the plaintiff has proven his entitlement, so in this case the cause... the lawsuit is the mechanism by which entitlement is proved, so that would not establish a present property interest in immediate payment, but it would certainly establish a property interest in the cause of action for payment. But with respect to the cause of action, we don't believe respondent has suffered a deprivation, because he's never made an effort to assert that cause of action."
+                },
+                {
+                    "start": 1181.247,
+                    "stop": 1192.971,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So California can simply take all choses in action-- --because they don't really exist? They don't exist until you've proven them in court and California can simply take them?"
+                },
+                {
+                    "start": 1192.971,
+                    "stop": 1209.147,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Precisely the opposite, Justice Scalia. A chose in action is a species of property. However, respondent in this case has not attempted to assert its cause of action, and the State has not purported to exterminate it. Accordingly, there hasn't been a deprivation. Until he attempts to assert his cause of action the State or somebody else--"
+                },
+                {
+                    "start": 1209.147,
+                    "stop": 1218.372,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "A chose in action is a chose in action before it's asserted. It is property, before it's asserted. You're telling me it's not property until you go into court?"
+                },
+                {
+                    "start": 1218.372,
+                    "stop": 1267.484,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is property. It just hasn't been... there's been no deprivation until you go into court and the court says, there's no cause of action, we will not recognize it, and you cannot convert this into a right to payment. The example is, in, for example, Logan v. Zimmerman Brush, the person submitted a claim for payment. That was a property right. When the court... excuse me, when the agency in that case said, oh, we've moved to slowly, accordingly we're not going to make good on this claim for payment, and anyway, even if you're entitled, it terminated that property interest. It no longer existed. The chose of action was erased, and the person was remitted to a lawsuit for a court action to try and recover damages. In contrast, where you submit the claim, and the court is considering it, or you're sitting on the claim and you have not yet submitted it, the State hasn't passed on whether it's going to terminate it, or whether it's going to respect it. It's simply sitting there, an inchoate cause of action that you have not yet asserted."
+                },
+                {
+                    "start": 1267.484,
+                    "stop": 1300.657,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But it seems to me that what you're doing is combining the analysis of whether there is a deprivation of a property interest with the analysis of whether there is an adequate State process for asserting it, and you have said, I guess your third point is, there is an adequate State process and therefore there has been no denial of due process in this situation. That part I understand. But the fact that you haven't gone to court doesn't seem to me to have any bearing on whether you have a property interest or not."
+                },
+                {
+                    "start": 1300.657,
+                    "stop": 1302.907,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, we don't believe you... when... in the--"
+                },
+                {
+                    "start": 1302.907,
+                    "stop": 1304.192,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Then I misunderstood you, I think."
+                },
+                {
+                    "start": 1304.192,
+                    "stop": 1326.807,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. When you have a chose in action, whether you have asserted it or not, that is, in our view, a property interest. What going to court does is, it may terminate it, or it may cause it to ripen into a right, full right to payment, so in this case, because the cause of action has never been asserted, there's been no deprivation of the cause of action. For example, respondent in this case never sought an assignment of the prime--"
+                },
+                {
+                    "start": 1326.807,
+                    "stop": 1344.267,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Okay, then you're saying there's no due process violation for two reasons, number 1, you have never made an appropriate claim. Number 2, even if you had, there is an adequate State process in a right to sue. Are those the two points you're making?"
+                },
+                {
+                    "start": 1344.267,
+                    "stop": 1367.515,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. It is in a sense a lot like Williamson County. It's akin to a ripeness argument. In that case, the Court held that there's no taking without just compensation, if you haven't sought the compensation which you claim to be your due. In our view, there is no deprivation of property in the form of a chose of action without due process unless you've asked for the process that's your due and the State has, in fact, said to you, you cannot have process."
+                },
+                {
+                    "start": 1367.515,
+                    "stop": 1374.371,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But that comes very close, as others have suggested, to shifting from the property analysis to the due process analysis."
+                },
+                {
+                    "start": 1374.371,
+                    "stop": 1386.929,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That, I think, is inherent in the nature of recognizing that a chose of action is a species of property. The chose of action, by its very nature, is recognized and turned into a present right to payment through judicial or administrative process."
+                },
+                {
+                    "start": 1386.929,
+                    "stop": 1395.451,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you... just to make one thing clear, you do not question the fact that there's State action involved here, and there are property rights. You're just saying there's no violation of the Due Process Clause."
+                },
+                {
+                    "start": 1395.451,
+                    "stop": 1398.57,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "To the extent... well, to the extent that a chose of action is at issue here--"
+                },
+                {
+                    "start": 1398.57,
+                    "stop": 1399.47,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I understand, yes."
+                },
+                {
+                    "start": 1399.47,
+                    "stop": 1412.846,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--we think there has been no deprivation here and, based on the post-1998 version of the statutes, we believe that there is State action. Based on the version of the statute that the Ninth Circuit examined, however, we dispute whether a State action has been established."
+                },
+                {
+                    "start": 1412.846,
+                    "stop": 1420.4,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "How is there State action? You have a contractor who decides to withhold money from another contractor."
+                },
+                {
+                    "start": 1420.4,
+                    "stop": 1459.375,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That was what the Ninth Circuit's analysis was, and I would agree with you that that is incorrect. However, as of January 1, 1998, the State has authority to either order the prime contractor to withhold money, and the second thing is that it also exempts the prime contractor from certain penalties if the prime contractor... and this is section 1775(b)(1) through (4) are the relative provisions, post-1998. It exempts the prime contractor from penalties if the prime contractor withholds money from the subcontractor. When the State threatens penalties against a prime contractor for not withholding, we would believe that is sufficient to establish State action. When it's left holding--"
+                },
+                {
+                    "start": 1459.375,
+                    "stop": 1489.33,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I mean, there's obviously State action in the State law. There are books in California filled with State laws, and anyone could complain about any one of those laws, that they violate the Constitution and, indeed, if you had a law governing court procedure, which you thought was very, very, very unfair, I suppose that might violate the Constitution, too, so sure, maybe this is unconstitutional in that sense, but in that sense, what's unconstitutional about it?"
+                },
+                {
+                    "start": 1489.33,
+                    "stop": 1507.042,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... Justice Breyer, I think what I hear you asking is, when the State does not take coercive action against the prime contractor and merely enables him to withhold money, I would agree with you, there is no State action. When the State threatens the prime contractor with penalties and coerces them to withhold money, that would be different."
+                },
+                {
+                    "start": 1507.042,
+                    "stop": 1516.48,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So the penalty... it's the penalty. In other words, they're assessing a penalty of money against a contractor, and they have to have a fair procedure for doing that."
+                },
+                {
+                    "start": 1516.48,
+                    "stop": 1521.967,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That, I think, is the due process question you're asking, not the State action question, which is--"
+                },
+                {
+                    "start": 1521.967,
+                    "stop": 1527.502,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, no, that would be State action, and it would have to comport with due process. Yes, but I mean, don't we have the sub here?"
+                },
+                {
+                    "start": 1527.502,
+                    "stop": 1537.977,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. With respect to the subcontractor, we don't believe that there is State action based on the mere fact that the State authorizes a prime contractor to withhold money, so I think I'm in firm agreements with you, Justice Breyer."
+                },
+                {
+                    "start": 1537.977,
+                    "stop": 1548.516,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it doesn't coerce the contractor to withhold money? I mean, that puts it a little kindly, don't you think? The State is saying, you give us the money that you owe to the sub."
+                },
+                {
+                    "start": 1548.516,
+                    "stop": 1571.115,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, on the contrary, Your Honor. The State is not taking money out of the prime contractor's hands. This is money that is already in the State's hands. The State is merely saying-- --prime contractor, you have breached your requirement of ensuring that all workers on this project, all workers, whether yours or a sub's, are paid the prevailing wage. Because you have breached that obligation, we... a constructive condition has failed, and we are not paying you the money that would otherwise be due."
+                },
+                {
+                    "start": 1571.115,
+                    "stop": 1587.659,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, they say a little more than that. You have breached it in that your subcontractor has breached it. And therefore we are withholding the amount that you would have paid to your subcontractor, and you don't consider that to be inducing the prime contractor not to pay off the sub?"
+                },
+                {
+                    "start": 1587.659,
+                    "stop": 1596.932,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We're not withholding the amount that you would have paid your subcontractor. We are withholding the amount that wasn't paid to the workers. We're withholding the amount that is the measure of your breach."
+                },
+                {
+                    "start": 1598.598,
+                    "stop": 1606.154,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--You're withholding a portion of the money that he was supposed to pay to a subcontractor-- --saying that he doesn't owe it to the subcontractor."
+                },
+                {
+                    "start": 1606.154,
+                    "stop": 1614.894,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right, but the State is utterly indifferent as to whether the prime contractor withholds that money from the subcontractor under the pre-1998 version, because it's the prime contractor--"
+                },
+                {
+                    "start": 1614.894,
+                    "stop": 1615.344,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Lamken."
+                },
+                {
+                    "start": 1615.344,
+                    "stop": 1616.477,
+                    "speaker": {
+                        "name": "Jeffrey A. Lamken",
+                        "ID": 31508,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Thank you."
+                },
+                {
+                    "start": 1616.477,
+                    "stop": 1619.279,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Seideman, we'll hear from you."
+                }
+            ],
+            "start": 992.974,
+            "stop": 1631.938
+        },
+        {
+            "turns": [
+                {
+                    "start": 1619.279,
+                    "stop": 1631.938,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, may it please the Court:"
+                },
+                {
+                    "start": 1631.938,
+                    "stop": 1643.311,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Seideman, would you tell us just what your client did after the prime withheld the payment by way of seeking redress, or responding to that?"
+                },
+                {
+                    "start": 1643.311,
+                    "stop": 1666.343,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, my... there had been this... notices to withhold issued on a number of projects, as prime contractor and subcontractor to G & G, and what G & G did is, filed lawsuits under the labor code to seek recovery of its money, and prosecuted those lawsuits. In the declaration--"
+                },
+                {
+                    "start": 1666.343,
+                    "stop": 1670.112,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "This was in the California superior court?"
+                },
+                {
+                    "start": 1670.112,
+                    "stop": 1688.275,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, and in fact in the declaration by DLSE in the district court the... that they put into evidence, their counsel talks about one of the cases that he litigated. In fact, the depositions that we put into evidence in the district court were taken in the--"
+                },
+                {
+                    "start": 1688.275,
+                    "stop": 1698.131,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "This was in response to the withholding by the prime in this particular case? You can answer that yes or no, I think."
+                },
+                {
+                    "start": 1698.131,
+                    "stop": 1733.554,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. What happened was, those cases were settled. Then what happened was, and we... what had happened was, we had filed a lawsuit in district court contending the procedure was unconstitutional. The cases were settled. The district court lawsuit was dismissed without prejudice, pursuant to the agreement, and then notices were issued again. We filed this lawsuit after one of the notices, the notice was issued--"
+                },
+                {
+                    "start": 1733.554,
+                    "stop": 1737.922,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Did you file anything in State court after this particular notice?"
+                },
+                {
+                    "start": 1737.922,
+                    "stop": 1741.743,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. We never needed to, so we didn't."
+                },
+                {
+                    "start": 1741.743,
+                    "stop": 1745.545,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you'll find out here whether you needed to or not. [Laughter]"
+                },
+                {
+                    "start": 1745.545,
+                    "stop": 1751.199,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I mean, we didn't need to to get the money back. We preserved... we would have filed to the extent we needed to to get our money back."
+                },
+                {
+                    "start": 1751.199,
+                    "stop": 1756.336,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Oh, so you... well then, you... what, you got your money back? As a result of the Federal suit?"
+                },
+                {
+                    "start": 1756.336,
+                    "stop": 1763.907,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I... well, they released the notices to withhold. I can... that is... the deal is, he released the notices to withhold."
+                },
+                {
+                    "start": 1763.907,
+                    "stop": 1770.077,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So the respondent has been paid in full, under this contract?"
+                },
+                {
+                    "start": 1770.077,
+                    "stop": 1777.666,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there were more notices to withhold issued later by DLSE, after the facts that are in the joint appendix."
+                },
+                {
+                    "start": 1777.666,
+                    "stop": 1784.337,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, as far as what is before us, has the respondent been paid in full now?"
+                },
+                {
+                    "start": 1784.337,
+                    "stop": 1797.33,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There was one project that was litigated and is still in litigation, that was litigated on a lawsuit by the DLSE. The other two, they released the notices to withhold, and the answer is yes on those two projects."
+                },
+                {
+                    "start": 1797.33,
+                    "stop": 1801.865,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Was the release the result of some order from the Federal court?"
+                },
+                {
+                    "start": 1801.865,
+                    "stop": 1818.243,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the Federal court never ordered them to release the notices to withhold. The Federal court just declared that they were unconstitutional, the procedure was unconstitutional, and that any notices were null and void. They... and then they released the notices."
+                },
+                {
+                    "start": 1818.243,
+                    "stop": 1822.045,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So the release was in response to that order of the Federal court?"
+                },
+                {
+                    "start": 1822.045,
+                    "stop": 1826.03,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would assume it was. I mean, in other words--"
+                },
+                {
+                    "start": 1826.03,
+                    "stop": 1841.609,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, what would they have to do to comply with the judgment of the Ninth Circuit, I mean, the judgment of the district court, which the Ninth Circuit affirmed? It said, you can't, under... consistent with due process, hold back this money, isn't that right?"
+                },
+                {
+                    "start": 1841.609,
+                    "stop": 1845.994,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They would... no, they would just have to have a hearing procedure."
+                },
+                {
+                    "start": 1845.994,
+                    "stop": 1858.801,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right. Now, was there an adjudication whether these wages had been paid or not? Was there ever an adjudication concerning whether the prevailing wage had been paid?"
+                },
+                {
+                    "start": 1858.801,
+                    "stop": 1862.605,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, on some projects there were. On some projects--"
+                },
+                {
+                    "start": 1862.605,
+                    "stop": 1864.339,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, on the ones that are involved in this case."
+                },
+                {
+                    "start": 1864.339,
+                    "stop": 1877.247,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In one case there was. On the other two they dropped the claims ultimately and didn't pursue them. They filed... in one they filed a lawsuit and they abandoned it after... it was dismissed for failure of prosecution in the State court."
+                },
+                {
+                    "start": 1877.247,
+                    "stop": 1893.539,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Seideman, you're going to really have to really enlighten me, because I understood your opponent to answer one of my questions by saying that your client had never claimed compliance with the prevailing wage law with respect to the contracts in dispute in this case. Was he wrong?"
+                },
+                {
+                    "start": 1893.539,
+                    "stop": 1895.941,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. We've always claimed compliance. We--"
+                },
+                {
+                    "start": 1895.941,
+                    "stop": 1907.266,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Where in the record do you show that you claim compliance with the matters in dispute here, or where in your brief do you... I didn't know you said it in your brief."
+                },
+                {
+                    "start": 1907.266,
+                    "stop": 1946.641,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, on the brief on page 50, at the end, it says, G & G did plead and prove that it disputed the assertion that it violated the prevailing wage law, citing to the joint appendix at 69 and at the 191, wherein the declaration by G & G says, it disputes these violations of the prevailing... that there weren't violations of the prevailing--"
+                },
+                {
+                    "start": 1946.641,
+                    "stop": 1956.599,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "At page 49 and 50 it says, the withholding was adequately pleaded and proven, but I'm not sure that you say that you had complied with the statue."
+                },
+                {
+                    "start": 1956.599,
+                    "stop": 1958.182,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, the last paragraph."
+                },
+                {
+                    "start": 1958.182,
+                    "stop": 1970.608,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The last paragraph says that. After you get to that... the last paragraph in your brief, you finally get-- --That last paragraph says, you proved that you disputed the assertion that it had violated."
+                },
+                {
+                    "start": 1970.608,
+                    "stop": 2050.31,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that's correct. We didn't litigate in the district court whether or not... we didn't litigate the underlying question of whether or not there was or was not a violation. I mean, our contention in the case, and our contention of the property interest, is as follows. Maybe in a... let me use an example to try to explain. An awarding body, which can be school district, a city or whatever, makes a determination that payment is due under the contract, so let's say, they say today, payment is due, pick up the check Friday. On Thursday, at that point there is a marketable common law right to property, the right to money due, that has a value. If the payment request was submitted on behalf of the subcontractor, then the payment that's made by the awarding body to the prime contractor passes. It then goes to the subcontractor, so that that property right that exists at that time, there's a property right of the prime contractor and the subcontractor. The prime contractor's right as to that money is of little value. The valuable right is the subcontractor."
+                },
+                {
+                    "start": 2050.31,
+                    "stop": 2053.262,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, why is the prime's right of little value?"
+                },
+                {
+                    "start": 2053.262,
+                    "stop": 2058.23,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because he has to turn that money over immediately to the subcontractor, so it wouldn't have--"
+                },
+                {
+                    "start": 2058.23,
+                    "stop": 2061.181,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, but he gets a 15-percent override or something like that, doesn't he?"
+                },
+                {
+                    "start": 2061.181,
+                    "stop": 2061.447,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 2061.447,
+                    "stop": 2062.065,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I mean, he gets something."
+                },
+                {
+                    "start": 2062.065,
+                    "stop": 2077.991,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I mean... I mean, it's... I just mean monetarily. It's a marketable right, and it's a common law property right. Then the DLSE issues a notice to withhold the next day. It seizes that property, and--"
+                },
+                {
+                    "start": 2077.991,
+                    "stop": 2082.31,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Whom does the notice to withhold go? The awarding authority?"
+                },
+                {
+                    "start": 2082.31,
+                    "stop": 2115.366,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It goes to the awarding body, and the... which is not in privity with the DLSE. What distinguishes it from a breach of contract is that... is, I would say, five factors, that you have regulatory enforcement action enforcing the law, by regulatory enforcement officials not party to the contract, imposing penalties and... or third party liabilities, taking money due under the contract with no risk of a proprietary loss."
+                },
+                {
+                    "start": 2115.366,
+                    "stop": 2142.433,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why do you think those take it out of the ordinary contract law that, you know, if the prime owes you money, you're the sub, you have a contractual right to that money, don't you? I mean, if you fully completed work, and there has been no notice that you failed to pay prevailing wages, you have a right against the prime, don't you? At least, certainly when I practiced law you did."
+                },
+                {
+                    "start": 2142.433,
+                    "stop": 2166.632,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You have a right to the money due. That money due is paid by the awarding body. When the notice to withhold seizes the money by issuing it to the awarding body, who I would point out has the same discretion that the prime contractor is said to have... the awarding body has to put aside, if it's a $50,000 notice to withhold, $50,000."
+                },
+                {
+                    "start": 2166.632,
+                    "stop": 2183.094,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But the prime's... the sub's contract is with the prime, isn't it? It's not with the awarding body. That's what mechanic's liens are for. If you can't get the prime to pay, you could perhaps have a lien... I don't know what California law is, but certainly you have a... your contractual relationship is with the prime."
+                },
+                {
+                    "start": 2183.094,
+                    "stop": 2186.879,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The right of the subcontractor is to receive the money paid by the awarding body."
+                },
+                {
+                    "start": 2186.879,
+                    "stop": 2194.133,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But does the subcontractor have a contractual right against the prime or not?"
+                },
+                {
+                    "start": 2194.133,
+                    "stop": 2205.674,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He does up until the time the notice to withhold is issued. Then at that time he does not. At that time, the only right, it's transformed into a new right."
+                },
+                {
+                    "start": 2205.674,
+                    "stop": 2218.85,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But why does he cease to have a right at that time? If he has performed, I don't know why he doesn't have the same right against the prime whether the State has issued a notice of withholding or not."
+                },
+                {
+                    "start": 2218.85,
+                    "stop": 2223.969,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because the seizure of the money by the State--"
+                },
+                {
+                    "start": 2223.969,
+                    "stop": 2256.123,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, but you're talking about the money as though the money were particular dollar bills, and the subcontractor has a right to particular dollar bills that the prime gets from the State. I mean, that's not the way we analyze contracts. The sub has a right to be paid for the work that he did in accordance with his contract with the prime, and that right is either good or bad quite independent of what is happening between the prime and the State. Isn't that true?"
+                },
+                {
+                    "start": 2256.123,
+                    "stop": 2265.479,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Actually, it's not, because there's... the prime contractor has an obligation, when he receives the money from the awarding body, to pay it to the subcontractor."
+                },
+                {
+                    "start": 2265.479,
+                    "stop": 2270.283,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And he has that obligation because he has contracted with the subcontractor to pay him."
+                },
+                {
+                    "start": 2270.283,
+                    "stop": 2272.985,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, and so that when the--"
+                },
+                {
+                    "start": 2272.985,
+                    "stop": 2284.043,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Which is true in any situation in which there's a prime and a sub, so what is different about the fact that the prime in this case has contracted with the State?"
+                },
+                {
+                    "start": 2284.043,
+                    "stop": 2296.35,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In the case of a subcontractor, what is different is that when the... when a notice to withhold seizes the money due to the awarding body--"
+                },
+                {
+                    "start": 2296.35,
+                    "stop": 2305.123,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "In other words, you say seizes the money due, what you mean is, it's a notice that they refuse to pay under their contract with the prime."
+                },
+                {
+                    "start": 2305.123,
+                    "stop": 2319.383,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, that's not actually what's happening here, because the party to the contract is the owner of the property, which in these cases was a public entity. It can be a private entity under public--"
+                },
+                {
+                    "start": 2319.383,
+                    "stop": 2324.268,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So in other words, you're distinguishing between the State and the public entity."
+                },
+                {
+                    "start": 2324.268,
+                    "stop": 2326.537,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Absolutely. They're not in privity."
+                },
+                {
+                    "start": 2328.321,
+                    "stop": 2352.954,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, this is where... I mean, exact... I enter into a contract to have my house built, but the prime is going to have subs. I say, when you get to the garden, I don't want any of those gardeners walking with their muddy boots in the house, and so here's what happens. If that gardener, landscape gardener has people with muddy boots, and they walk around the house, some money is going to be withheld from your progress payment, including $50 worth of liquidated damages. Got it? Yes, they got it, everybody's got it."
+                },
+                {
+                    "start": 2352.954,
+                    "stop": 2353.57,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct, Your Honor."
+                },
+                {
+                    "start": 2353.57,
+                    "stop": 2367.78,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No problem. But now the State enters into that exact same contract. How does that change anything? Contract disputes are not property under Roth, Zindeman, et cetera. I would have thought that was Hornbook, and so what's different about this?"
+                },
+                {
+                    "start": 2367.78,
+                    "stop": 2410.475,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it changes... first practically, and then legally. What changes practically is that when you don't pay in the hypothetical you take a proprietary risk. If you don't pay, then you're subject to potential losses imposed by the contractor who doesn't pay. If an owner, like an awarding body, like a school district or whatever, says I'm not going to pay you, they take the proprietary risk. You take... they take a proprietary risk. You, as a contractor, can generate a lot of leverage to prevent baseless refusals to pay by an owner. You... when the DLSE as an enforcement agency seizes money, you have no leverage and no ability to generate leverage."
+                },
+                {
+                    "start": 2410.475,
+                    "stop": 2447.182,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you've lost me... I... my... you've got my example in mind of the muddy boots. Now... and the muddy boots has $50 liquidated damages in it, and by the way, I write into the contract too, I don't care about the boots. It's my Aunt Ella who cares-- [Laughter] --and so all this is going to be run by her, and she's going to be the one who decides. Now, I guess I could write that in, too. Now, I'm just saying how does it differ-- --because we happen to have the State here, and we don't have Aunt Ella, we have the labor department, and we don't have exactly a progress payment, but it's pretty analogous. What's the difference?"
+                },
+                {
+                    "start": 2447.182,
+                    "stop": 2483.989,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It differs if getting the muddy boots... if the muddy boot problem is a violation of the law and, rather than you saying, under the contract, I'm asserting the muddy boot problem, the enforcement official from the building department, let's say, issues an order and orders you not to pay the contractor, and you now cannot pay pursuant to that order, then the order by that official, we would contend, is a deprivation of property."
+                },
+                {
+                    "start": 2483.989,
+                    "stop": 2517.662,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, I know that's what you're contending and I agree with you totally that there are those differences. We don't have Aunt Ella, we have a person who is called the labor department, and it's quite true that she doesn't say it formally, they do it formally in an order, and it's true that the contracting party is the State and not a private person. But again, if we accepted your view that it makes a difference, then all these building contracts would suddenly become State action under Roth, Zindeman, et cetera. Every claim like that would end up in court under some kind of constitutional analysis. I've never heard of anything like that."
+                },
+                {
+                    "start": 2517.662,
+                    "stop": 2549.883,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the difference, Your Honor, is that in the circuit court cases that dealt with the question of whether there's a property right, they were dealing with the question of a different right, a right that never existed at common law, and it's not a marketable right. The question they were addressing was, is the right that the other party won't breach the contract now a property right based on the status of a contract with the Government? That's a different property right than the--"
+                },
+                {
+                    "start": 2549.883,
+                    "stop": 2553.918,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Go ahead. Finish your answer, Mr. Seideman."
+                },
+                {
+                    "start": 2553.918,
+                    "stop": 2556.887,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--than the common law right to the money due."
+                },
+                {
+                    "start": 2556.887,
+                    "stop": 2570.461,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You say you did... you could have sued in the State court over this, I gather, because you did in other cases. You could have sued the prime saying it was wrong to withhold my progress payment?"
+                },
+                {
+                    "start": 2570.461,
+                    "stop": 2574.08,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You could sue under the labor code."
+                },
+                {
+                    "start": 2574.08,
+                    "stop": 2578.8,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you could sue somewhere under California law?"
+                },
+                {
+                    "start": 2578.8,
+                    "stop": 2586.906,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You could have a lawsuit where the money is held until all appellate rights are exhausted."
+                },
+                {
+                    "start": 2586.906,
+                    "stop": 2592.643,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, and I gather you did have such a lawsuit, did you not, in California State courts?"
+                },
+                {
+                    "start": 2592.643,
+                    "stop": 2595.143,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "On other cases? Yes, we did have lawsuits."
+                },
+                {
+                    "start": 2595.143,
+                    "stop": 2596.295,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You sued the prime?"
+                },
+                {
+                    "start": 2596.295,
+                    "stop": 2599.597,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. We sued the awarding body."
+                },
+                {
+                    "start": 2599.597,
+                    "stop": 2602.332,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--You sued the... and why did you not sue the--"
+                },
+                {
+                    "start": 2602.332,
+                    "stop": 2609.403,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We... but it's... the awarding body is a nominal party. The DLSE defends the case as a real party in interest, so you're really litigating with the DLSE."
+                },
+                {
+                    "start": 2609.403,
+                    "stop": 2612.188,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Why didn't you sue the prime contractor?"
+                },
+                {
+                    "start": 2612.188,
+                    "stop": 2620.043,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The prime contractor has a defense under the labor code. As long as that notice to withhold is pending--"
+                },
+                {
+                    "start": 2620.043,
+                    "stop": 2643.993,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, but I'm sorry, a moment ago, if I was following what you were saying, you were telling us that you had, in fact, pleaded and it was, in fact, the case that you had performed everything that you were obligated to perform under your contract, so if that is so, why didn't you simply sue the prime contractor in a State court saying, I've done everything I have to do, give me my money?"
+                },
+                {
+                    "start": 2643.993,
+                    "stop": 2673.678,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If a lawsuit is not filed under the labor code within 90 days of completion, then the seizure, the notice to withhold becomes permanent, so that if you're the subcontractor, and you're the one suffering the loss because it's been passed through to you, if you don't endeavor to protect that right in general, in the prime contractor suit, then the prime contractor clearly would have an absolute defense to your lawsuit under the contract because he--"
+                },
+                {
+                    "start": 2673.678,
+                    "stop": 2685.053,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why would the prime contractor have a defense to your lawsuit merely because the prime contractor has lost his defense to the Government's withholding? That's what I'm not following."
+                },
+                {
+                    "start": 2685.053,
+                    "stop": 2695.878,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If the prime contractor files the lawsuit under the labor code, then so long as that lawsuit is pending, he has a defense under the labor code, and generally because--"
+                },
+                {
+                    "start": 2695.878,
+                    "stop": 2721.676,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Even if you sue him in a contract action in California, and you prove what you have represented to us you could prove, i.e., that you performed everything you were obligated to perform, including paying the prevailing wage, even though the findings were that you had proven all of that, the prime contractor still would not be liable to you under the contract, because it was engaged in a dispute with the State?"
+                },
+                {
+                    "start": 2721.676,
+                    "stop": 2729.432,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't believe the court would even, frankly, hear the issue. They would say, until the labor code lawsuit is decided--"
+                },
+                {
+                    "start": 2729.432,
+                    "stop": 2743.191,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--but I'm asking you a question about California law. Are you saying that that is California law, that you can prove your case and, because your prime is having a dispute with the State, you still would not be awarded your damages?"
+                },
+                {
+                    "start": 2743.191,
+                    "stop": 2744.357,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. That's the law. That is the law."
+                },
+                {
+                    "start": 2744.357,
+                    "stop": 2745.074,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "That is the law of California?"
+                },
+                {
+                    "start": 2745.074,
+                    "stop": 2758.215,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is the law under the labor code. The exclusive remedy to seek recovery of the money held is the labor code procedure-- --The labor code says the money can be withheld by the prime contractor from the subcontractor, so that--"
+                },
+                {
+                    "start": 2758.215,
+                    "stop": 2771.022,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--That's controverted. I am sure the other side says that the code does not eliminate any cause of action that the sub has against the prime. Now, is there a dispute between the two sides on that issue?"
+                },
+                {
+                    "start": 2771.022,
+                    "stop": 2799.225,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the difficulty, Your Honor, though, is that the problem here, the due process problem that we addressed in the courts below, is that when you have enforcement officials who are issuing these notices to withhold, that they can issue in any amount as they deem fit, in which they have no proprietary risk in doing that, so it's not like dealing with a party to a contract."
+                },
+                {
+                    "start": 2799.225,
+                    "stop": 2817.086,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, but please come back to my question. You are contending that you had no cause of action against the prime, that any cause of action against the prime for his breach of contract with you was suspended by the labor code."
+                },
+                {
+                    "start": 2817.086,
+                    "stop": 2819.705,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "With regard to this withholding, yes."
+                },
+                {
+                    "start": 2819.705,
+                    "stop": 2829.244,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you have... you've answered these questions with some qualification. You say, you couldn't do it under the labor code. Could you do it under any branch of California law?"
+                },
+                {
+                    "start": 2829.244,
+                    "stop": 2831.777,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. What I meant is, as to the withholding of money, that--"
+                },
+                {
+                    "start": 2831.777,
+                    "stop": 2846.754,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Could you answer my question yes or no? Could you have sued the prime alleging that you had fully complied and had paid required wages in... under any provision of California law?"
+                },
+                {
+                    "start": 2846.754,
+                    "stop": 2848.389,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 2848.389,
+                    "stop": 2856.477,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What provision of the labor code eliminates that? I mean, it's rather crucial to your case. What provision is it?"
+                },
+                {
+                    "start": 2856.477,
+                    "stop": 2857.927,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "1729."
+                },
+                {
+                    "start": 2857.927,
+                    "stop": 2870.219,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "1729. That's-- --Does your answer assume that the prime has made an assignment to the sub of the prime's right to receive the money?"
+                },
+                {
+                    "start": 2870.219,
+                    "stop": 2879.427,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It assumes that the... well, yes, in a sense. It assumes the prime contractor--"
+                },
+                {
+                    "start": 2879.427,
+                    "stop": 2890.616,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I mean, that's the way it works, isn't it? When the prime withholds, the prime generally assigns to the sub the right to litigate for the money with the agency, with the contracting agency."
+                },
+                {
+                    "start": 2890.616,
+                    "stop": 2896.27,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right. If the prime contractor forfeited their right under the labor code, then it would be a different situation."
+                },
+                {
+                    "start": 2896.27,
+                    "stop": 2928.158,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I thought your position on your brief was that there was no guarantee of the assignment, that one of the reasons why you said you had no remedy is that the labor code gives the prime contractor a right to seek the money that's being suspended, and the labor code itself doesn't give any right to the subcontractor, and therefore you said that there's no remedy guaranteed you under the law, I thought was... that was the position you took in your brief."
+                },
+                {
+                    "start": 2928.158,
+                    "stop": 2937.097,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "What we're saying is that the seizure of the money means that it takes you years to take that money back."
+                },
+                {
+                    "start": 2937.097,
+                    "stop": 2951.356,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, there is a provision, though, in the labor code allowing a prompt hearing with the labor commission, or commissioner, to deal with this problem of the withholding."
+                },
+                {
+                    "start": 2951.356,
+                    "stop": 2964.347,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, there... I... there was no provision... there is no provision other than some regulations that were adopted in... temporary regulations in response to this lawsuit."
+                },
+                {
+                    "start": 2964.347,
+                    "stop": 3000.456,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, what about section 1742.1? It says the labor commissioner shall, upon receipt of a request from the affected contractor or subcontractor, within 30 days of the assessment, afford the opportunity to meet concerning the assessment and, upon request, provide a hearing and so forth and so on. Did you... did the subcontractor here ask for a hearing?"
+                },
+                {
+                    "start": 3000.456,
+                    "stop": 3018.334,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There's no such procedure that exists. That procedure that is being referred to is either of the statutes that are not in effect yet, or I believe... it's... 1742.1--"
+                },
+                {
+                    "start": 3018.334,
+                    "stop": 3023.369,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There was no provision for a hearing in effect at the time this case arose?"
+                },
+                {
+                    "start": 3023.369,
+                    "stop": 3036.295,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There was absolutely no right to a hearing. There's no right to a hearing that exists in any statute other than what hearing rights they have said they're going to implement in July of this year."
+                },
+                {
+                    "start": 3036.295,
+                    "stop": 3041.331,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Uh-huh. But there was none for you at the time?"
+                },
+                {
+                    "start": 3041.331,
+                    "stop": 3066.414,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No hearing rights of any kind, no right of any... the only way to know the basis of the notice to withhold is to file the lawsuit, subpoena the DLSE records, subpoena them to a deposition, and discover on what basis they asserted this notice to withhold. There's no other right to any information. There's no other right to anything. That--"
+                },
+                {
+                    "start": 3066.414,
+                    "stop": 3095.834,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Would you tell us where we could find section 1729? I can't find it in the blue brief... 108? 1727 is there, but I don't see 1729. It goes from 1727 to 1741. Page 108 of the petition for cert.--"
+                },
+                {
+                    "start": 3095.834,
+                    "stop": 3147.4,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But the point that I wanted to make is that the fundamental due process problem here, which is also what, in their first petition and in other briefs, the DLSE has stated what they call the critical failing, the real injury that occurs here, and what we believe is the due process problem, is that you have enforcement officials seizing this money... whether it's a prime contractor or subcontractor, you're in the same boat with an assignment or a prime contractor, they can seize money in any amount. There's no type of hearing. There's--"
+                },
+                {
+                    "start": 3147.4,
+                    "stop": 3167.264,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--1720, 1729 says that it's lawful for the contractor to withhold if the subcontractor has failed to comply with the terms of this chapter. Now, if you have paid wages, you presumably have not failed to comply with the terms of the chapter."
+                },
+                {
+                    "start": 3167.264,
+                    "stop": 3177.786,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And whether you've paid it is determined in this labor code lawsuit that's provided for."
+                },
+                {
+                    "start": 3177.786,
+                    "stop": 3204.687,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, but that, this section 1729 doesn't say that. You're saying-- --Go ahead. I'm sorry, Chief. No, I take it... you're saying that, I take it, that the reference that the language on account of failure simply refers to the reason given by the State for withholding, as opposed to the fact of failure or nonfailure."
+                },
+                {
+                    "start": 3204.687,
+                    "stop": 3217.28,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, right, and in either event, even if you had the right to sue the prime contractor, you still have the problem that you have enforcement officials that can cut off your payments without any hearing right, and--"
+                },
+                {
+                    "start": 3217.28,
+                    "stop": 3253.303,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Oh, I grant you that, but I mean, what we were trying to get at is, whether you had a cause of action that you could assert in a California court, and your answer is, no, I don't, because even if I prove to the court's satisfaction, the fact-finder's satisfaction that I have paid the prevailing rate, so long as the prime can show that the State is with... or the public authority is withholding payment because the State claims I didn't, that is a defense. That's your position."
+                },
+                {
+                    "start": 3253.303,
+                    "stop": 3258.238,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, yes, and therefore that's why I don't think the court would even litigate--"
+                },
+                {
+                    "start": 3258.238,
+                    "stop": 3283.722,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But Mr. Seideman, what were the suits that you brought? I'm looking at your brief, at page 3. You refer to prior cases, and you say, a State court ordered G & G and DLSE to mediate, and a settlement was reached. There must have been some procedure that you were availing yourself of under State law and State court. What was it?"
+                },
+                {
+                    "start": 3283.722,
+                    "stop": 3291.494,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We were suing under the labor code, it's a labor code lawsuit that you're allowed to get the money back. The problem, the due process problem--"
+                },
+                {
+                    "start": 3291.494,
+                    "stop": 3305.069,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Under what section? I... you're just-- --You're making it so difficult for us because the sections aren't attached to the brief. We don't understand what you're alleging. Under what section of the labor code?"
+                },
+                {
+                    "start": 3305.069,
+                    "stop": 3308.789,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--1731 through 1733."
+                },
+                {
+                    "start": 3308.789,
+                    "stop": 3314.174,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And that allows you to file a suit."
+                },
+                {
+                    "start": 3314.174,
+                    "stop": 3318.311,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and if you're a subcontractor--"
+                },
+                {
+                    "start": 3318.311,
+                    "stop": 3321.447,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Against whom? Against whom, the labor department?"
+                },
+                {
+                    "start": 3321.447,
+                    "stop": 3328.667,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, no. It's nominally the awarding body, but the real party in interest is the DLSE, who defends the lawsuit."
+                },
+                {
+                    "start": 3328.667,
+                    "stop": 3337.957,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, is that not adequate post-deprivation relief, even if you assume there's some State action and some problem?"
+                },
+                {
+                    "start": 3337.957,
+                    "stop": 3339.475,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor."
+                },
+                {
+                    "start": 3339.475,
+                    "stop": 3340.125,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 3340.125,
+                    "stop": 3363.174,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because when you have a seizure by enforcement officials, something is forfeited for a violation of law, the Court has stated in prior cases that there needs to be some type of a right to at least a prompt post-deprivation hearing to determine if there's a basis of probable validity for the seizure."
+                },
+                {
+                    "start": 3363.174,
+                    "stop": 3371.613,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, here's a right to a post-deprivation proceeding. You say it isn't sufficiently prompt? Why?"
+                },
+                {
+                    "start": 3371.613,
+                    "stop": 3386.205,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Because even if it's completely baseless, the DLSE action, completely meritless baseless action, the procedure is, all the money is held until the completion of the lawsuit and appellate rights, so they can hold money for 3 years."
+                },
+                {
+                    "start": 3386.205,
+                    "stop": 3391.007,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Could the prime make the same argument, constitutional argument that you're making on behalf of the sub?"
+                },
+                {
+                    "start": 3391.007,
+                    "stop": 3397.513,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We contend we are... we've always contended we are a prime contractor and a subcontractor."
+                },
+                {
+                    "start": 3397.513,
+                    "stop": 3402.632,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right, so whether he's a prime or a sub makes no difference for purposes of the argument you're presenting to us here?"
+                },
+                {
+                    "start": 3402.632,
+                    "stop": 3403.334,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Exactly."
+                },
+                {
+                    "start": 3403.334,
+                    "stop": 3408.386,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, if you don't like it, don't enter into the contract. I mean, aren't all these terms of the contract?"
+                },
+                {
+                    "start": 3408.386,
+                    "stop": 3409.036,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor."
+                },
+                {
+                    "start": 3409.036,
+                    "stop": 3410.505,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "If you don't like the terms, don't enter into it."
+                },
+                {
+                    "start": 3410.505,
+                    "stop": 3412.857,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Actually, no. Your Honor. None of the--"
+                },
+                {
+                    "start": 3412.857,
+                    "stop": 3417.459,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Isn't it... under California law they don't incorporate the law into the contract? I've never heard of that."
+                },
+                {
+                    "start": 3417.459,
+                    "stop": 3420.577,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, yes. Yes. In that sense, all of--"
+                },
+                {
+                    "start": 3420.577,
+                    "stop": 3430.151,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right, so they're all terms of the contract, so the answer is, you have a claim, you think... or you get the money, they think you don't. They set up some procedures, you don't like them... sorry."
+                },
+                {
+                    "start": 3430.151,
+                    "stop": 3438.605,
+                    "speaker": {
+                        "name": "Stephen A. Seideman",
+                        "ID": 42139,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--On all contracts there are, Your Honor, laws that one has to comply with, including these. There are safety laws--"
+                },
+                {
+                    "start": 3438.605,
+                    "stop": 3448.011,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thanks, Mr. Seideman. Mr. Kerrigan, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3448.011,
+            "stop": 3450.127
+        }
+    ]
+}

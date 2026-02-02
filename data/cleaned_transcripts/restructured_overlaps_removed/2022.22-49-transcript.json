@@ -1,0 +1,1641 @@
+{
+    "title": "Lora v. United States",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 6.63,
+                    "stop": 135.2349999,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Subsection 924(j) does not include or incorporate a bar against concurrent sentences. The government admits that at common law and under sentencing law, the default was to allow judges discretion to sentence concurrently or consecutively. The government also admits that, standing alone, subsection 924(j) does not bar concurrent sentences. What the government says is that the bar of subsection 924(c)(1)(D)(ii) applies. But that bar specifically applies only to sentences \"imposed under this subsection.\" That is subsection (c), not another subsection, such as subsection (j). And that distinction is compelled by this Court's precedent in Koons Buick. Moreover, there is nothing in the penalty provision of subsection (j) that refers to subsection (c). Indeed, Congress enacted subsection (j) as a new subsection, not as a part of subsection (c). And it makes sense that there is discretion under subsection (j). (j)(1) primarily was concerned with imposing the death penalty for a murder by the use of a firearm and doesn't implicate consecutive sentences. And (j)(2) has a wide variety of conduct from involuntary manslaughter to voluntary manslaughter. The government's answer to all of this is that somehow subsection (c) is wholly incorporated into subsection (j) by implication. But that can't be right. Nothing in the text supports that, and it creates impossibilities. For example, voluntary manslaughter with a machine gun has a mandatory minimum penalty under subsection (c) of 30 years but a maximum penalty of 15 years under subsection (j). They can't coexist. This Court should hold that subsection (j) means what it says and reverse the court below. I welcome the Court's questions."
+                },
+                {
+                    "start": 135.2349999,
+                    "stop": 149.23,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do you do with the government's argument that seems to suggest that it's simply an accumulation of the penalties, an aggregation or an increase of the penalties under (c)?"
+                },
+                {
+                    "start": 149.23,
+                    "stop": 174.62,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's not just that, and the reason is it defines a separate crime, right? So there are additional elements, the element of a death, in subsection (j). It's not just an enhanced penalty provision. It actually creates a new crime. And if it didn't do that, you would run into the constitutional problems we discuss in our brief because you have to have the additional element of a death proven beyond a reasonable doubt by the jury."
+                },
+                {
+                    "start": 174.62,
+                    "stop": 180.84,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How could this have been written to come out in the government's favor from your perspective?"
+                },
+                {
+                    "start": 180.84,
+                    "stop": 243.795,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It could have been written a lot of ways. So number one is Congress could have said Section (C) in (c)(1)(D)(ii). It could have said that the bar applies to this section, not subsection. Subsection (j) could have referred back to subsection (c) or (c)(1)(D)(ii) in the penalty provision, which it didn't do. I suppose there are other ways that Congress could have written it as well. I mean, Congress could have included subsection (j) in subsection (c) at the outset, and it didn't do that. And it was very important, I think, if you look at the -- the history, that Congress really wanted to make a special emphasis in -- in (j) that it was doing something new, right? It was adding the death penalty for the use of a firearm. It was adding this really pretty broad variety of conduct in (j)(2) for manslaughter. And it purposely did not include it in subsection (c). And so the only, I think, natural conclusion that we can draw is that Congress did have a reason for doing it separately, and we believe that the text of that -- of that subsection really controls here."
+                },
+                {
+                    "start": 243.795,
+                    "stop": 254.795,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's right, though, isn't it, that a conviction under subsection 924(j), you can't get one unless you prove beyond a reasonable doubt a violation of subsection (c)?"
+                },
+                {
+                    "start": 254.795,
+                    "stop": 282.86,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is true. The -- the underlying factual elements of having a drug trafficking crime or a crime of violence do have to be proven. I would just add, though, that it's not the same thing as actually charging somebody under subsection (c), right? And so the government in the ordinary course does not charge under both subsections. It hypothetically could, but it usually doesn't. And so it's different from a situation where a criminal defendant was charged under (c) and charged under (j) --"
+                },
+                {
+                    "start": 282.86,
+                    "stop": 288.69,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the -- what is the substantive difference? The government has to prove the (c) violation beyond a reasonable doubt."
+                },
+                {
+                    "start": 288.69,
+                    "stop": 293.38,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The substantive difference is that the defendant isn't convicted under (c)."
+                },
+                {
+                    "start": 293.38,
+                    "stop": 309.955,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I know that. That -- I'm not sure that is substantive -- -- as opposed to technical in terms of you're -- you're -- you're -- whether you're going to be charged under (c) or not, if you're charged under (j), you still have to prove all the elements of (c)."
+                },
+                {
+                    "start": 309.955,
+                    "stop": 336.115,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the factual elements of the generic (c) crime, not the more specific ones of the sub- -- sub-crimes, but, yes -- -- that -- that is true. That is true. But we don't think it moves the needle for the government for the reason I was getting at, is that it's still not a conviction under (c) because the only -- indictment, charge, conviction, and sentence was imposed under (j) rather than under (c). But I think your factual point is absolutely right, Mr. Chief Justice."
+                },
+                {
+                    "start": 336.115,
+                    "stop": 378.4,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Perhaps the text of the provision dooms the government's position, but they do have -- and that's a question that we can talk about -- but they do have this argument about what Congress had in mind. Suppose that someone during a drug trafficking offense shoots somebody and the person doesn't die, so that's a -- a violation of (c), right? And that cannot be made consecutive to the sentence on the drug trafficking offense -- it cannot be made concurrent with the sentence on the underlying drug trafficking offense."
+                },
+                {
+                    "start": 378.4,
+                    "stop": 379.04,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under (c)."
+                },
+                {
+                    "start": 379.04,
+                    "stop": 379.47,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Under (c)."
+                },
+                {
+                    "start": 379.47,
+                    "stop": 379.805,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct. Right."
+                },
+                {
+                    "start": 379.805,
+                    "stop": 389.935,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's correct. But then, if the person dies and then the charge is under (j) -- -- the sentence could be made concurrent?"
+                },
+                {
+                    "start": 389.935,
+                    "stop": 400.17,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it depends on how it's charged, right? If -- if -- you're saying that the person was injured, charged under (c), convicted under (c), then later dies?"
+                },
+                {
+                    "start": 400.17,
+                    "stop": 425.71,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. Dies before the case is tried. But, while the person is lingering in the hospital -- -- all the government -- the government has a potential (c) conviction -- -- which cannot be made concurrent. But, if the person dies, then it can be made concurrent. And the government's argument is this makes no sense. Congress couldn't have possibly wanted a result like that. What's your answer to that?"
+                },
+                {
+                    "start": 425.71,
+                    "stop": 503.07500005,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think the first answer is that the person could be charged with the death penalty, right, potentially for that murder. And so then, number one, the sentence is much more severe, and, number two, the whole issue of concurrent or consecutive sentences is irrelevant. So -- so I think that's part of what may have been going on with Congress, is they -- they put this as a separate subsection, realizing that the death penalty was kind of a unique special circumstance. I also think that there are, particularly in -- in the involuntary manslaughter area, and we included a few examples of this in our brief, where you would very much like to have discretion in crimes where there is not much of a mens rea to cause death, but because death was caused, there's probably going to be a fairly high or somewhat higher penalty anyway, and you may not want to run it concurrently -- or, rather, consecutively with a gun charge because you may have somebody in those circumstances who had little to no mens rea in an involuntary manslaughter situation going to jail for 20 or 25 or 30 years. And so there is some of that in there as well. But I think probably the primary concern was adding the death penalty, and it didn't make a whole lot of sense to add a bar on concurrent sentences when you're introducing the death penalty."
+                },
+                {
+                    "start": 503.07500005,
+                    "stop": 509.955,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They weren't assuming, though, that all the crimes would be -- committed under (j) would be death penalty by any stretch."
+                },
+                {
+                    "start": 509.955,
+                    "stop": 511.51,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. That's correct."
+                },
+                {
+                    "start": 511.51,
+                    "stop": 517.655,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it would still have effect in all those other cases that would still be under (j)."
+                },
+                {
+                    "start": 517.655,
+                    "stop": 526.93,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It -- it would, but, remember, all we're saying is it preserves discretion. In an appropriate circumstance, a trial judge absolutely can still sentence consecutively."
+                },
+                {
+                    "start": 526.93,
+                    "stop": 545.4,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. I'm just getting to the point I -- I tend to doubt Congress really intended your result. You -- you -- so I take that heroic effort to explain why Congress might have wanted to get to this result. I think your better argument for me is that's just what it says."
+                },
+                {
+                    "start": 545.4,
+                    "stop": 592.61,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I -- I -- I would agree with this in this respect, Justice Kavanaugh. I do think the textual argument is the strongest argument here, and I think it's really sort of a dispositive argument because the text says what it says. And it's really not susceptible of the government's interpretation, particularly not the position the government took in its brief. I mean, I suppose there were other ways that you could potentially try to argue this, but to argue that subsection (c) is entirely incorporated into subsection (j), it not only conflicts in the way I've said, but it violates that principle that you're not supposed to, I guess, import elephants through mouse holes. And in the few words that says -- that sets forth in the prefatory phrase that, you know, in the course of violating subsection (c), that means that I think we counted there's like 700 words of subsection (c) automatically comes into subsection (j)."
+                },
+                {
+                    "start": 592.61,
+                    "stop": 624.19,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, with respect to the intent, though, I mean, don't you also have the argument that the statute actually in (j) increases the maximums, that -- that it -- yes, it doesn't necessarily have or specifically incorporate the floors that (c) has, but Congress sometimes also expresses its intentions with respect to the seriousness of offenses by making the statutory maximum higher. Isn't that also what's going on here?"
+                },
+                {
+                    "start": 624.19,
+                    "stop": 628.25,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that's absolutely correct, Justice Jackson, yes, and that is another element to this."
+                },
+                {
+                    "start": 628.25,
+                    "stop": 640.645,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it doesn't -- it's not necessarily the case that your position leads to the view that it's sort of nonsensical because Congress was pointing to a more serious offense and giving lighter penalties."
+                },
+                {
+                    "start": 640.645,
+                    "stop": 673.595,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct. I think that's absolutely right. I think it's the full gamut. And, again, because of that, because of all of those features of subsection (j), I think that just suggests having the discretion to modify the sentences where appropriate, but, again, in many of these cases, I would think a judge would sentence consecutively, wouldn't use his or her discretion to sentence concurrently, but there are those sort of rare circumstances where that would occur. And then, of course, the sort of, you know, elephant in the room, the death penalty situation, where, obviously, we wouldn't be having consecutive sentences."
+                },
+                {
+                    "start": 673.595,
+                    "stop": 743.95,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I ask you a question about section (c)(1)(C), capital C -- -- which is on 2(a), the addendum to the -- the SG's brief. And the provision says, \"In the case of a violation of this subsection that occurs after a prior conviction under this subsection has become final, then very stiff mandatory minimums\" -- \"minimums apply.\" Okay? So two situations, and it concerns whether there's first a (c) violation and then a (j) violation or first a (j) violation and then a (c) violation. So, in the first situation, there's a conviction under (c). So this would count because it is obviously a conviction under (c), okay, in the case of a violation of this subsection, which occurs after a prior conviction under this subsection. So the prior conviction is under this subsection. So that counts. And then the (j) conviction would also count because this would be a conviction that is \"a violation of (c),\" right?"
+                },
+                {
+                    "start": 743.95,
+                    "stop": 787.73999995,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm not sure that it would. I would say this. I think that -- that there is some additional ambiguity in this provision potentially. I don't think it's necessary to resolve this case. I'm not sure it would, though, because my point that I was making to the Chief Justice's question is that we don't think, although, again, I don't think you need to decide this, we don't think that a conviction under (j) is also a conviction under (c), even though those prefatory elements of (c) do have to be found. And so I think a good criminal defense lawyer might argue in that circumstance that it wouldn't apply because the -- the conviction, at least the conviction under (j) wouldn't have been a conviction under this subsection because it wasn't a conviction under (c)."
+                },
+                {
+                    "start": 789.38,
+                    "stop": 803.11,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- (j) says a person who in the course of a violation of subsection (c) -- -- causes. So you don't think that there -- that there would be a -- this would be in the course of a violation of subsection (c) under (j)?"
+                },
+                {
+                    "start": 803.11,
+                    "stop": 818.08,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I -- I -- I -- I think it's arguable, but I think -- I think that there is also an argument that it isn't because, unless there was actually a conviction under (c), I -- I'm not sure that that word \"violation\" effectively is perfected until there's actually a conviction under (c)."
+                },
+                {
+                    "start": 818.08,
+                    "stop": 849.125,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're reading an awful lot into the -- the use of \"in violation\" as opposed to \"under.\" But, here, you seem to be reversing course. In any event, if that's -- if it -- if it is as I described so that -- -- there would be -- the mandatory minimums would come into play in that situation, now we reverse the sequence. First, there's a (j) conviction, and you say that's not under (c), so it doesn't count. And then it's followed by a (c) conviction. Well, there would be no mandatory minimums there."
+                },
+                {
+                    "start": 849.125,
+                    "stop": 852.33,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under this provision, but there would be other mandatory minimums I understand."
+                },
+                {
+                    "start": 852.33,
+                    "stop": 853.25,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But not under this provision."
+                },
+                {
+                    "start": 853.25,
+                    "stop": 853.56,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 853.56,
+                    "stop": 865.915,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you have this weird situation where whether or not the sentence can be consecutive or concurrent depends on the sequence of the -- of the violations, whether (c) comes first or (j) comes first."
+                },
+                {
+                    "start": 865.915,
+                    "stop": 883.81,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yeah, and that's why I think my answer is that while I understand where you're -- you're -- you're coming from, and I do think the prosecutors could make that argument, I think there's also room to read the statute to say that this -- this -- this particular provision isn't triggered unless you've actually had a conviction under (c), not just --"
+                },
+                {
+                    "start": 883.81,
+                    "stop": 889.89,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And doesn't the prosecution control that? I thought -- I thought it depended on what was being charged."
+                },
+                {
+                    "start": 889.89,
+                    "stop": 890.835,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does. It does."
+                },
+                {
+                    "start": 890.835,
+                    "stop": 907.25,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. So, if they charge a (c) -- a (j) violation, although they might have to prove the predicates from (c), if the only thing on the table is (j) because that's the way they've charged it, then they're stuck with the penalty structure that attaches to (j), right?"
+                },
+                {
+                    "start": 907.25,
+                    "stop": 908.19,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I agree, yes."
+                },
+                {
+                    "start": 908.19,
+                    "stop": 917.79,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if they charge it as a (c) -- I mean, they're sort of -- they're making the decision upfront as to which set of penalties they intend to argue for."
+                },
+                {
+                    "start": 917.79,
+                    "stop": 927.92,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. Right. And as you pointed out, you know, subsection (j) has -- has higher maximums in a variety of ways, and that may be one reason why the government would want to prosecute under (j) rather than --"
+                },
+                {
+                    "start": 927.92,
+                    "stop": 949.61,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, surely, the government knows and then they make a decision, do we want to make this a (j) or (c), do we want to charge both? And then, when we get down to brass tacks in terms of which one, sort of like a lesser included offense scenario, we then decide. But it seems like the government has a lot of control over which one of these penalty regimes take place in any given case."
+                },
+                {
+                    "start": 949.61,
+                    "stop": 950.125,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They do."
+                },
+                {
+                    "start": 950.125,
+                    "stop": 971.83,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that your argument? So that if -- your argument is dependent on the fact that (c) was not mentioned in the indictment and is not mentioned in the judgment of sentence? So, if they charged in violation of (c) and (j) and that's what the judgment of sentence said, this would be a different case? Is that your argument? I didn't understand that to be your argument."
+                },
+                {
+                    "start": 971.83,
+                    "stop": 988.13,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, let's put it this way. I don't think it's necessary for -- to decide the case, but I think, in that circumstance, you would have to then resolve this question of whether you actually have to charge under (c), and we think you would have to charge under (c) to get the -- the sort of other benefits of (c)."
+                },
+                {
+                    "start": 988.13,
+                    "stop": 1005.565,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not sure I understand. Maybe -- -- I have a block on this. Would you like us to rule -- do you think we should just say the government decided it wasn't going to mention (c) in the indictment and it's not in the judgment of sentence, therefore, that's the end of the case?"
+                },
+                {
+                    "start": 1005.565,
+                    "stop": 1009.78,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that would be a very reasonable way to decide the case, yes."
+                },
+                {
+                    "start": 1009.78,
+                    "stop": 1018.27,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're suggesting that if the next time around with the next person the government had said (c) and (j), what would follow?"
+                },
+                {
+                    "start": 1018.27,
+                    "stop": 1060.905,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that's a more complicated situation. The government says they can't do it, right? The government says in their brief steadfastly they think there's a double jeopardy problem doing it. Our answer is that's not nearly as clear as the government seems to say, but they seem to think it. So I think, at that point, the onus would be on the government to try to justify why they would be able to do both, contrary to what they've said, you know, for at least 10 years apparently. But I do think that's a different circumstance. It's not this case. And I think, as Justice Jackson suggested, there are good reasons to choose either (c) or (j) in an appropriate case. And that's what the government has done. But, hypothetically, you know, there -- there may be circumstances where they try to charge under both, and then that question has to be addressed."
+                },
+                {
+                    "start": 1060.905,
+                    "stop": 1085.095,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Actually, this issue of which you charge under is up to the government, and, really, the only time they have -- they have to make a choice is when they're seeking the death penalty, correct? Because, when you think about it, a life sentence is permissible for virtually all of the crimes that are being charged that -- that cause a death, correct?"
+                },
+                {
+                    "start": 1085.095,
+                    "stop": 1096.28,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Usually, yes. And I think there may be a few rare circumstances where the maximums elsewhere in (j) might come into play, but, yes, usually, I think it's the death penalty is the main reason."
+                },
+                {
+                    "start": 1096.28,
+                    "stop": 1104.01,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so the government can charge even a death under (c) if it doesn't intend to seek the death penalty?"
+                },
+                {
+                    "start": 1104.01,
+                    "stop": 1106.485,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It could potentially try to do that, yes."
+                },
+                {
+                    "start": 1106.485,
+                    "stop": 1135.4,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose a person is charged under (j)(2), a person who in the course of a violation of subsection (c) causes the death of a person through the use of a firearm, shall, if the killing is manslaughter, as defined in Section 1112, be punished as provided in that section. So, in that situation, is the person convicted under (j) and 1112 or just under (j)?"
+                },
+                {
+                    "start": 1135.4,
+                    "stop": 1159.26,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it's just under (j), but (j) then specifically incorporates that penalty provision, which gives the maximums for involuntary manslaughter and voluntary manslaughter. For voluntary, it's 15 years, and for involuntary, it's eight years. But it -- you wouldn't -- you wouldn't consider that person to have been convicted under 1112 because they wouldn't have been charged, tried, and convicted under 1112. It would just be (j)."
+                },
+                {
+                    "start": 1159.26,
+                    "stop": 1168.755,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think it's ever possible for somebody to be convicted under two -- under the operation jointly of two separate provisions?"
+                },
+                {
+                    "start": 1168.755,
+                    "stop": 1184.97,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Potentially, if it is clearly charged that way. Maybe in the lesser included offense instruction situation, but even there, I think you would have to have a verdict that made it clear that the defendant was being convicted under the lesser -- -- included offense as well."
+                },
+                {
+                    "start": 1184.97,
+                    "stop": 1199.865,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- if it's charged that way? I mean, it's very common for somebody to be -- to be charged with an offense in violation of 18 U.S.C. Section 2 and another provision. So there, what -- under what provision is the person convicted?"
+                },
+                {
+                    "start": 1199.865,
+                    "stop": 1232.74000005,
+                    "speaker": {
+                        "name": "Lawrence D. Rosenberg",
+                        "ID": 35042,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If it's charged that way, I mean, again, it depends on the actual circumstances of the case, but I -- I think there you definitely have to have the charge under the provision you're talking about. Again, I think a criminal defense attorney would argue that there has to be something on the verdict form that makes clear that they're being convicted under both statutes. But, certainly, it helps if you're being charged under the statute. Here, they're not charged under (c), they're not tried under (c), they're not convicted under (c), so you can't say that this was a sentence imposed under (c)."
+                },
+                {
+                    "start": 1232.74000005,
+                    "stop": 1243.765,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Anything further? Thank you, counsel. Ms. Ross."
+                }
+            ],
+            "start": 6.63,
+            "stop": 1382.545
+        },
+        {
+            "turns": [
+                {
+                    "start": 1243.765,
+                    "stop": 1382.545,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: Section 924(j)(1) provides enhanced federal penalties for the most serious Section 924(c) offenders, those who not only bring a gun to a crime of violence or drug trafficking crime but actually take it out and use it to kill someone. In doing so, Section 924(j) does not eliminate the basic sentencing requirements of Section 924(c). Under ordinary principles of statutory interpretation, this Court should harmonize Sections 924(c) and (j). And under the Court's Blockburger precedent, the most natural way to do that is to read Section 924(j) to create an aggravated version of the same Section 924(c) offense. In cross-referencing subsection (c), Section 924(j) sweeps in all of subsection (c)'s provisions. It does not, as my friend suggests, pick and choose particular factual elements. And Section 924(c) states that its mandatory minimum sentence shall apply to any person who engages in the basic offense conduct. As the questions this morning have indicated, Petitioner plainly falls within that category. Section 924(j) then incorporates -- then requires that the court consider whether to add additional punishment for the homicide. Whatever overall sentence the court chooses, it is therefore imposed under both Sections 924(c) and (j), and the consecutive sentencing requirement applies. Now my friend says that reading -- this reading causes conflict between the mandatory minimum sentences in Section 924(c) and Section 924(j)'s incorporation of the punishments for murder and manslaughter and, in particular, the involuntary manslaughter provision he was discussing this morning. But those provisions can be harmonized in the way I've just described. Indeed, Section 924(c)(5), on page 3a of the Government's appendix, necessarily works this way. It includes its very own 15-year mandatory minimum for using armor-piercing ammunition and then adds on top the same murder and manslaughter penalties nearly verbatim as Section 924(j). Just as there's no internal inconsistency in Section 924(c)(5), there's no internal inconsistency in the government's reading of Sections 924(c) and (j). I welcome the Court's questions."
+                },
+                {
+                    "start": 1382.545,
+                    "stop": 1413.44,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do you do with the language in 924(c) that refers to sentences -- it says notwithstanding any other provision of law, no sentence imposed on a person under this subsection. I -- I -- I would get -- understand your argument if it said \"section,\" but \"subsection.\" So how do you reconcile that with your -- what you just said?"
+                },
+                {
+                    "start": 1413.44,
+                    "stop": 1464.91,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure, Justice Thomas. I want to first take the \"under\" piece of that question and then explain why we think this section was not a way to write the statute. So, for \"under,\" we think, as this Court explained in National Association of Manufacturers, under Zekmelion, it has to take its meaning from context. In that case, the Court described the word \"under\" as meaning by reason of the authority of. We think it's clear here that Section 924(c) is providing at least some of the authority for the 924(j) sentence. It's providing the -- the factual elements, as my friend explained, although I think we disagree about precisely which ones. And in our view, it's providing the mandatory minimum penalty as well as the consecutive sentencing requirement itself. And so we do think that a sentence that is imposed for a violation of subsection (j), which necessarily requires, as the Chief Justice was noting, a jury to find the elements of (c) is imposed under both subsections."
+                },
+                {
+                    "start": 1464.91,
+                    "stop": 1476.71,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but why is that, Ms. Ross? I mean, suppose that (j) had not said in the course of a violation of subsection (c) but just repeated all of subsection (c)'s language. Then what?"
+                },
+                {
+                    "start": 1476.71,
+                    "stop": 1515.02,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So I think that would be a much more difficult case, and my friend would have a much better argument. I think the problem with his argument is that what he would like you to do, if you look at page 1a of the Government's appendix, is look at paragraph (c)(1)(A), start reading about two -- two-and-a- half lines down where it says \"Any person who,\" read all the way through there, stop at the penultimate line of that sort of lead paragraph where it says \"shall\" and incorporate only that bracketed content. That's, of course, not what Section 924(j) says. It refers to subsection (c) as a whole. It doesn't reference paragraph (c)(1)(A). It doesn't reference any of the particular elements."
+                },
+                {
+                    "start": 1515.02,
+                    "stop": 1543.615,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it also doesn't say if you're convicted of subsection (c). I mean, I think that's the problem for your argument. It says \"in the course of a violation of subsection (c).\" And so I don't understand why the government believes in this case that it's entitled to the penalty structure that comes with Section (c) if a person is convicted of (c) when (j) doesn't say and it could easily have said any person who's convicted of subsection (c), et cetera."
+                },
+                {
+                    "start": 1543.615,
+                    "stop": 1581.12,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So, Your Honor, I think it is certainly true that -- that Congress could have been clearer in this provision. My point was simply that it also doesn't say what Petitioner is suggesting. We think the best reading of this statute is that (c) provides the basic elements of the offense. It provides the basic sentences. And then (j) sort of comes in to say and when there's a death, we're going to add these other penalties. And I think that's consistent, as I was saying in my introduction, with how (c)(5) works. I think it necessarily has to work that way. And so we think there's -- there's nothing wrong with sort of taking these provisions as they come, walking through (c) before you get to (j)."
+                },
+                {
+                    "start": 1581.12,
+                    "stop": 1620.415,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what do you do with the fact that (j) was actually enacted at a different time than (c)? And that suggests to me that Congress was careful and thoughtful about the placement of (j). They could have put it in (c) to accomplish what you've talked about, but they didn't. And (j) has its own penalty provision, not specifically cross-referenced in any way to (c)'s penalty provisions. So I guess it just sort of seems to me that the enactment history also undermines the government's view that (j) is supposed to be ordering some sort of aggregation of the (c) penalties."
+                },
+                {
+                    "start": 1620.415,
+                    "stop": 1704.78,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Certainly. So we actually think that the history is quite helpful for us, and if I could just explain why. I think there are three really key dates here. The first is that in 1968 Congress enacted this provision (c) without any concurrent consecutive requirement. A couple of years later, it adds the -- the consecutive sentences bar. And then, in 1994, as Your Honor noted, Congress added subsection (j). And I think what's really significant at that time is that when Congress did so and it cross-referenced subsection (c) as a whole, subsection (c) was much simpler than it is today. It involved only three paragraphs, paragraphs (1), (2), and (3). Paragraphs (2) and (3), as today, defined drug trafficking crime and crime of violence. Everyone agrees that those have to come in, that the cross-reference to -- to (c) and (j) necessarily includes those. And then, in paragraph (c)(1), it included all of the substance of the offense. So it included the base offense elements. It included certain mandatory minima, for example, if a particular type of weapon was used. And it included the bar on consecutive sentences. And I think it's particularly unlikely in 1994, when Congress cross-referenced subsection (c) as a whole, that what it really meant to do was -- was take subsection (c)(1) -- (c)(2) and (3) and then particular words and phrases out of (c)(1). I think, when Congress said subsection (c), it meant subsection (c)."
+                },
+                {
+                    "start": 1704.78,
+                    "stop": 1717.77,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, of course, it doesn't say subsection (c) as a whole. It just says a violation of subsection (c). I -- I appreciate that you keep saying that every time you talk about subsection (c) as it's referenced in (j), but that's not what it says."
+                },
+                {
+                    "start": 1717.77,
+                    "stop": 1722.47,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's correct that it -- it -- it says a violation of subsection (c), but if you look at subsection (c) --"
+                },
+                {
+                    "start": 1722.47,
+                    "stop": 1739.335,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which you can commit without reference to subsection (c)'s cumulative penalties or any penalty, any of the mandatory minimums or anything like that, right? It's not the government's position that you wouldn't have a violation of subsection (c) without, you know, the penalty structure."
+                },
+                {
+                    "start": 1739.335,
+                    "stop": 1803.74000005,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that's correct, Your Honor, but I think it's also not true that Congress was sort of focusing on those elements in particular. I think another point that was discussed earlier with respect to -- to what Congress was doing in this provision was, you know, the focus on the death penalty. And while I think that that is obviously something was concerned with -- Congress was concerned with when it added subsection (j), it's clear that Congress also knew, as Justice Kavanaugh was pointing out earlier, that term-of-year sentences would continue to apply for (j) violations. That's in the language of (j)(1), of course. And we think that it's just completely implausible that at the time that Congress was enacting this statute, it meant to keep a mandatory minimum consecutive sentence, as this Court explained in Abbott, explained three -- Congress explained three times over that it's so important that individuals who engage in that base offense conduct receive that mandatory minimum consecutive sentence but at the same time eliminated that when the person actually takes the gun out and kills someone."
+                },
+                {
+                    "start": 1803.74000005,
+                    "stop": 1810.335,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is correct, isn't it, that under your theory, subparagraph (c)(5)(B) is superfluous?"
+                },
+                {
+                    "start": 1810.335,
+                    "stop": 1829.1,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So, Justice Sotomayor, I think that's respectfully not quite the right way to look at it. I think anyone who was sentenced under Section (c)(5)(B) would have to be sentenced under Section (c)(5)(A) as well, and so you sort of have to take (c)(5) as a whole. And, of course, (c)(5), because it's providing --"
+                },
+                {
+                    "start": 1829.1,
+                    "stop": 1843.41,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But still, why add it if how you kill somebody is irrelevant under your view? Because they're all going to get the same sentence, so why did Congress add (c)(5)(B)?"
+                },
+                {
+                    "start": 1843.41,
+                    "stop": 1849.54,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think there's a good explanation in the legislative history, Justice Sotomayor. I think my best guess is --"
+                },
+                {
+                    "start": 1849.54,
+                    "stop": 1869.415,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's because your reading doesn't treat them separately. You want us to mesh them together. That's the reason why. Petitioner's reading gives a reason. You're absolutely right. If you do it in this way, you're going to get this minimum. If you don't do it in this way, you get the maximum under (j) alone."
+                },
+                {
+                    "start": 1869.415,
+                    "stop": 1885.08,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So, if I'm understanding the question correctly, Justice Sotomayor, I think the difference Petitioner posits between (c)(5)(B) and (j) is, you know, everybody agrees that (c)(5)(B) has its own mandatory minimums -- or excuse me, (c)(5)(A) has its own mandatory minimum. So then he says the work that (c)(5) --"
+                },
+                {
+                    "start": 1885.08,
+                    "stop": 1885.59,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No I'm talking about (c)(5)(B)."
+                },
+                {
+                    "start": 1885.59,
+                    "stop": 1913.41,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right. And he says that the work that (c)(5)(B) is doing is that it is requiring a consecutive sentence, whereas, under (j), that's optional. And, respectfully, I just think there's no indication that Congress was seeking to distinguish between these provisions in that way. I think the far better reading is probably that Congress was just trying to be complete and make sure that there was no confusion that the -- the same penalties that apply in (j) would still apply if you killed someone through the use of the armor-piercing ammunition."
+                },
+                {
+                    "start": 1913.41,
+                    "stop": 1917.205,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't the truth of the matter here that Congress just made a mistake?"
+                },
+                {
+                    "start": 1917.205,
+                    "stop": 1960.52,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, if you thought that Congress just made a mistake, particularly, you know, we haven't really discussed the Blockburger question, I do want to get there, but if you thought that Congress made a mistake such that, you know, the right result from the language was that this is all one offense, we have to charge (j) or (c), but when we charge (j), when we recognize what Congress recognized is a far more serious offense, then we lose the -- the mandatory minimum consecutive penalty in (c), you know, I think that might be a case for an absurdity type of construction because it is so implausible, but, of course, we don't think you need to get there because we think the text and the structure and the history of this statute are themselves sufficient to -- to clarify whatever ambiguity there is here."
+                },
+                {
+                    "start": 1961.16,
+                    "stop": 1983.215,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- absurd? You have a sentence that gives you permission to impose the death penalty. That's a really big difference. We do things -- we rule under absurdity where it makes no sense whatsoever. The whole purpose of (j) was to give the prosecutor even more of a weapon, death."
+                },
+                {
+                    "start": 1983.215,
+                    "stop": 2015.44,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So a couple of points on that, Your Honor. I think, obviously, that is a purpose of (j), but I think, as I was noting, you know, there are inevitably going to be term-of-year sentences under (j), and in that instance, I think it is quite implausible. You don't even need to get to absurdity. I'd point to this Court's decision in Abbott, where it rejected implausible, bizarre results under 924(c). It -- it's quite implausible that Congress intended when you actually take the gun out and kill someone with it for a lesser sentence to be possible than when it's simply in -- in the -- -- defendant's pocket on that."
+                },
+                {
+                    "start": 2015.44,
+                    "stop": 2016.75,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Keep going, I'm sorry."
+                },
+                {
+                    "start": 2016.75,
+                    "stop": 2071.99,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh. On that, I just wanted to point out, you know, my friend was talking about it makes sense to have discretion perhaps in the involuntary manslaughter context. You know, a few points on that. One is that I think involuntary manslaughter here is really the tail wagging the dog. If you look at pages 9 to 10 of Petitioner's reply brief, where he's talking about this -- you know, most of his examples are involuntary manslaughter, and then, on page 23, he's talking about, you know, the physician who is going to prescribe suicide-inducing drugs and he brings his gun because he's concerned that the family is going to violently intervene and then the gun goes off and it kills the -- the -- excuse me, the -- the elderly patient. I think that's so unlikely that that should not sort of drive the -- the train here. And I think it's also true that -- that even that doesn't make sense because Congress, of course, didn't want discretion when no manslaughter occurred. And so it doesn't make any sense to say you need it -- -- when you committed the base conduct but also committed involuntary manslaughter."
+                },
+                {
+                    "start": 2071.99,
+                    "stop": 2099.33,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- what I think Congress was generally concerned and is still concerned about what it views as light sentences in cases involving guns, so 924, drug and crimes of violence where guns are -- are carried or used. But, if you think about 924(j), do you think Congress was concerned that judges were imposing light sentences when there was a killing as well?"
+                },
+                {
+                    "start": 2099.33,
+                    "stop": 2115.885,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So -- so I think, quite frankly, Justice Kavanaugh, Congress was probably concerned that the existing federal murder statute just wouldn't reach this conduct because it applies only in the special maritime and territorial jurisdiction of the United States. And so that, I think, is why you get 924(j) as an independent provision --"
+                },
+                {
+                    "start": 2118.165,
+                    "stop": 2144.405,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- but you want to read in the -- the no -- no concurrent sentence provision into 924(j), and I -- I realize I'm reconstructing here, so -- but Congress could think, okay, there's a problem with light sentencing in certain kinds of drug/gun cases, but I'm not sure they would have thought there's a problem of light sentencing in cases where there's a killing. But I'm --"
+                },
+                {
+                    "start": 2144.405,
+                    "stop": 2182.295,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So -- so two points on that, Your Honor, maybe three. The first, I guess, which is a nonpoint, is that I don't have anything specific in the legislative history on this. The second point, you know, I think you could probably always say something like that in mandatory minimum cases. You know, the -- it's sort of self-evidently serious conduct and, therefore, maybe you don't need a mandatory minimum, yet Congress goes ahead and does it. And the third point is just that in 924(c)(5), I think you could make exactly that argument and, of course, Petitioner agrees that that falls under (c) and therefore has the -- the bar on consecutive sentences -- or, excuse me, the bar on concurrent sentences. And so all we think is that, you know, when you kill somebody without the armor-piercing ammunition, the same -- the same rule applies."
+                },
+                {
+                    "start": 2182.295,
+                    "stop": 2214.91,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But can I go back to the absurdity point? Because I guess I'm wondering the opposite of what Justice Kagan said was, which -- which is, isn't the truth of the matter that we have a different Congress in 1994 than we had in 1968 so that, when (j) was created, perhaps that Congress made a different policy choice about the determination of mandatory minimums versus increasing the maximums, all of that seems perfectly rational to me as opposed to absurd. So can you speak to that kind of thought process?"
+                },
+                {
+                    "start": 2214.91,
+                    "stop": 2223.53,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Certainly. You know, I -- I just want to caution I think we're sort of pretty far into speculating about what Congress may or may not have thought. We really don't have anything on this, I think, from the relevant period."
+                },
+                {
+                    "start": 2223.53,
+                    "stop": 2270.64,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "True, but you made the absurdity argument, and what that -- -- calls upon us to do is to evaluate the extent to which Congress's determination is or is not absurd. And what I'm positing is that a Congress in 1994 that is looking at (j) and the circumstances that you describe as someone dying in the context of use-and-carry scenarios could have decided we're not going to put another mandatory minimum in this. Instead, we're going to offer the government the death penalty. We're going to increase -- make it any term of years, which means that the government can argue at sentencing consecutiveness. The government can argue that this should be really much higher than a 924. We're going to blow the top off of the maximums, and that's the way we want to handle this situation. Why is that absurd?"
+                },
+                {
+                    "start": 2270.64,
+                    "stop": 2280.78,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So -- so I think that's just not the way this Court has thought about 924(c). If you look at Abbott, I think the Court could have said precisely that in Abbott. It was construing the \"in addition to\" language."
+                },
+                {
+                    "start": 2280.78,
+                    "stop": 2306.295,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm asking how the Court looks at -- at (j), not 924(c). What -- why is it absurd for a Congress that is enacting (j) to have had a separate penalty structure that did not incorporate the mandatory minimums of (c) but instead took care of that circumstance through, as the text says here, giving the death penalty, increasing the maximums and the like?"
+                },
+                {
+                    "start": 2306.295,
+                    "stop": 2330.455,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Again, you know, I think it is just fundamentally at odds. I think, generally, this Court looks at a statute as a whole, even when pieces are amended at different times. I think that's what the Court did do in Abbott. And I think it would not make sense to say, you know, Congress built on this by allowing the death penalty but at the same time thinking that a five-year mandatory consecutive term was simply too much. I -- I -- I don't think that sort of holds up as a matter of logic."
+                },
+                {
+                    "start": 2330.455,
+                    "stop": 2360.565,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We have sort of a strange situation here where Petitioner argues -- invokes the rule of lenity but argues that -- at least this is what I got from the brief -- that it's possible for the government to charge a (c) violation and a (j) violation separately. They would be two -- there would be two separate violations. And you, on the other side, say, no, you can't do that. So could you comment on this?"
+                },
+                {
+                    "start": 2360.565,
+                    "stop": 2469.66,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Absolutely, Justice Alito. I appreciate the opportunity to do so. First off, I think you're absolutely correct. I heard my friend this morning say that, you know, the double jeopardy issue isn't as clear as we say. In his brief, I think it's pellucid. I would tell you pages 15, 17, and 22 of the reply brief, where he's quite clear that he thinks, as Your Honor mentioned, that we can charge, convict, and get cumulative punishments on both (c) and (j). Now I think that makes sense if you think these are standalone punishment provisions for the reasons I was just describing. It just makes no sense to think that Congress put the government in this catch-22 where, on the one hand, it can, you know, charge what everybody agrees is the lesser offense in (c), be guaranteed a mandatory minimum consecutive sentence, but it has to leave on the shelf this provision that Congress, clearly concerned about gun murders in the course of 924(c) violations, created, or, on the other hand, it can charge the (j) but lose the mandatory minimum consecutive sentence. I think that doesn't make sense, and I think, if you come to a reading where you think these are separate penalty provisions, that's actually the best evidence that these are, in fact, separate offenses for Blockburger. We, by contrast, have long taken the position based on this Court's Blockburger jurisprudence that these are one offense. Generally, when you have a greater and a lesser included offense in the same section of a statute, we do -- you know, this Court's cases have treated those as the same offense. And so we reconcile the statute by saying it's one offense, and that means that, you know, the (c) penalties come along with the greater (j) offense. If the Court disagrees with us on this -- I think this is extremely important in practice -- I think it has to or it should say that these are separate offenses for purposes of Blockburger because, for the reasons I was just noting, you know, it really makes no sense to have one offense, but the government has to choose one or the other."
+                },
+                {
+                    "start": 2470.05,
+                    "stop": 2472.435,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- the government, going forward, will charge both."
+                },
+                {
+                    "start": 2472.435,
+                    "stop": 2474.59,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Justice Kavanaugh. And, again --"
+                },
+                {
+                    "start": 2474.59,
+                    "stop": 2484.54,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the -- the problem is really retrospective from your perspective, because, going forward, you'll charge 924(c) and 924(j) in circumstances like this?"
+                },
+                {
+                    "start": 2484.54,
+                    "stop": 2512.19,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct with one wrinkle. You know, we've talked a little bit about what 924(j) gets us in terms of the -- or -- or permits in terms of the death penalty. 924(j) and 924(c) are also different for statute of limitations purposes. So 924(c) is subject to the default five-year federal statute of limitations. 924(j)(1) at least, as a capital offense, has no statute of limitations. And so there will be cases, quite frankly, this case included, in which the government only can go forward on a (j) count."
+                },
+                {
+                    "start": 2513.165,
+                    "stop": 2513.94,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. Go ahead."
+                },
+                {
+                    "start": 2513.94,
+                    "stop": 2514.65,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, go ahead."
+                },
+                {
+                    "start": 2514.65,
+                    "stop": 2527.715,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would -- if you do go with both, aren't you going to be confronted with the problem that your friend talked about, which, for the same offense, you could get one sentence that says the minimum of 30 years and the other one maximum 15?"
+                },
+                {
+                    "start": 2527.715,
+                    "stop": 2598.5,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think so, Chief -- Mr. Chief Justice, because I think these -- we're talking about separate counts here. So he's saying that we can bring, you know, a three-count indictment, Count 1 is the underlying crime of violence or drug -- drug trafficking crime, Count 2 is the (c), and Count 3 is the (j). And so, you know, you would then have those sentences. And I think, to go to Justice Kavanaugh's point, you know, that actually -- or perhaps it may have been Justice Alito's point -- that actually may not be more lenient in practice because I think, as in this case, you know, the court here had a (j) in front of it. It, as most, if not all, courts of appeals do, read (j) to include the mandatory minimum on (c), and it said, you know, I think the (c) five-year mandatory minimum here is sufficient given the other counts in the indictment. I think you couldn't do that on Petitioner's rule if these are separate charges and separate convictions and separate punishments because the separate (j) offense would require its own sentence, and that sentence would have to be subject to subsection (c)'s consecutive sentencing requirement in the sense that it, like all other sentences, would have to be consecutive to (c). So I think Petitioner's rule actually is -- is less lenient in a number of cases."
+                },
+                {
+                    "start": 2598.5,
+                    "stop": 2629.825,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If the Court were to rule for Mr. Lora on the question presented on the theory that this language in (j), \"in the course of violation of subsection (c),\" does not incorporate all of subsection (c), and the Court were to leave it at that, and the Court were to say nothing about the Blockburger question, which isn't really before us in the same way, what would the government do? Would the government then say, okay, things have changed, we're viewing this differently now, we're going to start charging (c) and (j)?"
+                },
+                {
+                    "start": 2629.825,
+                    "stop": 2675.06,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So I think we might well take that course, Justice Kagan, again, because I think that's sort of the natural consequence of treating the (j) as not incorporating the (c) penalties. But I think there's a sort of on-the-ground practical reason why I would counsel the Court against doing that, and that's because a number of courts of appeals have precedent on the Blockburger question. And so I think -- and generally holding in line with the government's view that they're one offense, but also holding that, you know, (j) incorporates (c)'s penalties. And so I think, if you dismantle half of that without dismantling all of it, we could be in a position where courts of appeals, under their prior panel rules, might not think that they could reverse that precedent and would have to go en banc. And it's just, you know, a use of judicial resources that I think is unnecessary. Given that the parties have joined issue on this question, I think it's well presented in the papers here."
+                },
+                {
+                    "start": 2675.06,
+                    "stop": 2682.91,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I just be very clear? You said you would counsel against us doing -- and I want to be exactly sure on what you're counseling us against doing."
+                },
+                {
+                    "start": 2682.91,
+                    "stop": 2724.57,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I appreciate it, and I appreciate the Court's indulgence in my counseling anything. You know, I -- I think what the Court should not do is hold that Petitioner is correct that the (j) -- that (j) does not include the (c) sentencing provisions but leave open whether this is one or two offenses for Blockburger purposes. Obviously, we also think you shouldn't do that and hold it's one offense for Blockburger purposes. We think, if you're going to say, as Mr. Lora argues, that (j) does not sweep in the (c) penalties, then we think the Court should also make clear, as Mr. Lora argues, that, you know, in part, because of that, given the intertwined relationship between the two questions, these are separate offenses."
+                },
+                {
+                    "start": 2724.85,
+                    "stop": 2757.55,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's not the Blockburger test. I don't understand. So you're -- you're suddenly now asking us as a result of this case to revisit Blockburger and what it says about when there are separate offenses? So you've already said that this fails the Blockburger test. That's the government's view. And I understood Justice Kagan to be saying, can we not talk about that in this case, whether it meets the Blockburger test or not, and still rule in favor of Mr. Lora? And you're saying no. But I don't understand why that is."
+                },
+                {
+                    "start": 2757.55,
+                    "stop": 2773.11,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure. So we take the Blockburger test as it exists. We think, under the Blockburger test, we have the better reading of the statute. We think it's a greater and a lesser included offense. That's normally one offense. But the natural consequence of that is that the penalty provisions of (c) apply to (j) as well."
+                },
+                {
+                    "start": 2773.11,
+                    "stop": 2785.325,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Can we disagree with that part of it without revisiting whether it's one or a different offense? You've said two different things in that. I mean, I didn't understand Blockburger to speak to the penalties in this way."
+                },
+                {
+                    "start": 2785.325,
+                    "stop": 2803.425,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So I think one of the clues you might look to in the Blockburger analysis, and we think the clearest clue in this case if you come out in Mr. Lora's direction, is whether it's a standalone penalty scheme or it's incorporating another provision's penalty. And I think that is how the two are related. Now, again --"
+                },
+                {
+                    "start": 2803.425,
+                    "stop": 2818.185,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what's your answer to that question? You say it -- it -- it satisfies the Blockburger test, meaning that they are one and the same, like a lesser included offense, but it also incorporates the other penalty. Is that your view?"
+                },
+                {
+                    "start": 2818.185,
+                    "stop": 2853.03,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I might have lost you there, but I think what we say as our frontline position -- I want to be clear about this because I think it's extremely important. Our frontline position is that these are one offense for purposes of Blockburger. That is because, you know, (c) -- (j) cross-references (c), they're in the same section, they're part of the same -- you know, they're a greater and lesser included offense, cases like Brown versus Ohio and Garrett, which strongly suggest they're one offense. If they're one offense, we think it is necessarily true that the penalties of (c) are read into (j) because all (j) is doing at that point is adding an additional element and it's increasing the penalty."
+                },
+                {
+                    "start": 2853.03,
+                    "stop": 2868.695,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that what Blockburger says? If they're one offense, then the penalties of one necessarily get imported into the other? That's what I'm asking you. -- you if we decided in your favor using the Blockburger standard in the way you want us to?"
+                },
+                {
+                    "start": 2868.695,
+                    "stop": 2886.46,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think that's quite right in the sense that I think subsequent cases in that line look to features of the statute and sort of their level of interdependent -- the two crimes' level of interdependentness -- or interdependence. And one of those clues, I think, would be the -- the way that the penalty provisions interact."
+                },
+                {
+                    "start": 2886.46,
+                    "stop": 2914.21,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, I'm having a whole lot of problem here. You just started this section on saying that you couldn't charge 924(c) because it has a five-year limitation. So we're going to hypothesize that you could have and, if you did, that you didn't -- wouldn't have violated the Double Jeopardy Clause. That's what you want us to do? To hypothesize that you could have and wouldn't."
+                },
+                {
+                    "start": 2914.21,
+                    "stop": 2936.56,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Sotomayor, I think what we're asking you to -- so let me rephrase this. I think Petitioner was very clear in his briefs that there's no anomaly on his reading. There's no problem with saying that (j) doesn't incorporate the (c) penalties because the government can also bring a (c) charge whenever it can bring a (j) charge, with the exception of statute of limitations questions, which are sort of on a -- on a different --"
+                },
+                {
+                    "start": 2936.56,
+                    "stop": 2958.06,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that -- that hurts you too because it makes it different not just in terms of the maximum but also gives you a greater statute of limitations than (c) does. So there's a lot of reasons to treat (j) differently and separately, because you're getting two benefits, one, a greater maximum, and second, a longer statute of limitations."
+                },
+                {
+                    "start": 2958.06,
+                    "stop": 2969.79,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I certainly understand that, Justice Sotomayor. Of course, our fundamental submission is that -- that Congress, having given us those things, it's irrational to think -- didn't think that at least the mandatory minimum for the base offense -- -- was required."
+                },
+                {
+                    "start": 2969.79,
+                    "stop": 2992.595,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- to go back to Justice Jackson's question, we can't know what Congress was thinking except that it knew to add armor in (c) and yet it created (j) separately. And what it did in (j) was to raise the statutory maximum and give you a statute of limitations benefit."
+                },
+                {
+                    "start": 2992.595,
+                    "stop": 2997.23,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Of course, it did the same things in (c)(5). I think the better understanding of (c)(5) is probably --"
+                },
+                {
+                    "start": 2997.23,
+                    "stop": 3005.63,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, it -- it didn't -- it made a minimum of -- it -- it didn't. It just added armor-piercing."
+                },
+                {
+                    "start": 3005.63,
+                    "stop": 3037.58,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, (c)(5)(B) does give you a -- a maximum sentence of the death penalty and therefore -- Well, I think the better explanation on (c)(5) is probably that armor-piercing ammunition is sort of of a flavor with the other enhancements that are in (c) throughout, so machine gun, you know, different types of weapons, things like that. And so (c)(5) may have been included there. But, of course, you know, I -- I -- I don't have a legislative history cite for you on that. We're all just speculating about why Congress did what it did here."
+                },
+                {
+                    "start": 3037.58,
+                    "stop": 3041.93500005,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe we should just go back to the language."
+                },
+                {
+                    "start": 3041.93500005,
+                    "stop": 3046.485,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Justice Thomas?"
+                },
+                {
+                    "start": 3046.485,
+                    "stop": 3059.965,
+                    "speaker": {
+                        "name": "Clarence Thomas",
+                        "ID": 15100,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You were going to counsel us on how best to write an opinion if we came out in favor of Mr. Lora, and I don't think you quite finished."
+                },
+                {
+                    "start": 3059.965,
+                    "stop": 3110.825,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Justice Thomas. So I -- I've tried to explain that I think, if you hold that (j) -- you don't walk through (c) first, you don't apply (c)'s \"any person who\" language, which we think clearly applies to a person who violates (j). If you disagree with us on that, then we think you would be saying that (j)'s penalty provision -- or, excuse me, (c)'s penalty provisions are not read into (j), and at that point, I think you would explain, as Mr. Lora did in his briefs, that the reason that doesn't create an anomaly where the lesser conduct in (c) has a greater in this sense penalty of a consecutive mandatory sentence is that, in fact, the government is able to charge both (c) and (j) separately and to obtain cumulative punishments on each going forward because they are separate offenses."
+                },
+                {
+                    "start": 3110.825,
+                    "stop": 3112.835,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Alito?"
+                },
+                {
+                    "start": 3112.835,
+                    "stop": 3130.505,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we agree with -- excuse me, if we agree with Petitioner, could someone convicted under (j) be placed on probation? Would (c) -- (c)(1)(D)(i) apply?"
+                },
+                {
+                    "start": 3130.505,
+                    "stop": 3153.25,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So, frankly, Justice Alito, I -- I think the answer depends on the classification of the manslaughter and -- or of (j) as a certain type of felony. I think it is possible in -- depending on how you sort of squint at the relevant statutes in an involuntary manslaughter case perhaps, but I think it's just sort of untested. I -- I'm not sure the answer to that question."
+                },
+                {
+                    "start": 3153.25,
+                    "stop": 3156.865,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Sotomayor? Justice Kagan?"
+                },
+                {
+                    "start": 3156.865,
+                    "stop": 3178.555,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just to quickly summarize your answer to Justice Thomas just now because I want to be very clear on this. If you lose on your main argument and they prevail, then you can, you think, charge both (c) and (j), and you will, presumably, and you will defend that against any Blockburger or other kind of argument?"
+                },
+                {
+                    "start": 3178.555,
+                    "stop": 3186.62,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I think that is likely the case. You know, I don't want to commit the Department because it would obviously -- -- depend a bit on what the Court's opinion said. Right."
+                },
+                {
+                    "start": 3186.62,
+                    "stop": 3193.61,
+                    "speaker": {
+                        "name": "Brett M. Kavanaugh",
+                        "ID": 17766,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- you would have the authority to, you think, and you may do so and you would defend that if you lose on the main submission in this case."
+                },
+                {
+                    "start": 3193.61,
+                    "stop": 3205.78,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I thank that's right, Justice Kavanaugh. Blockburger is, of course, a rule of legislative intent. It's a presumption. And so I think depending on what else you think the legislature intended, we sort of have to readjust and rethink how we've approached this question."
+                },
+                {
+                    "start": 3206.795,
+                    "stop": 3208.87,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Justice Barrett? Justice Jackson?"
+                },
+                {
+                    "start": 3208.87,
+                    "stop": 3322.11,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I guess I don't understand a point about Blockburger, and it's a little -- it goes back to what Justice Kavanaugh just said. I heard you say that Mr. Lora's position is that (c)'s penalty provisions are not read in, and the reason why that doesn't create an anomaly is because they are separate offenses. That's his view. All right. What if we agree that the reason why they don't create an anomaly is, first, because that's -- the text obviously says -- doesn't say they're read in, but, setting that aside, they don't create an anomaly because (j) is still broad enough to allow for the greater penalty because the -- the government sets this up as a catch-22 that -- and that's really underlying your Blockburger concern. You said earlier, you know, the government would have to leave on the shelf the mandatory minimums in (c) if it picks (j). But I guess I don't understand why they're not -- why the government perceives itself to be losing the opportunity for a higher penalty if it picks (j). You still go to court and you still say a killing happened in the context of this carrying -- carrying an offense, and so, Your Honor, in your discretion to impose the death penalty or the term of years or whatever, we argue that you should give this person more than a person who just would have gotten five years under the mandatory minimum, and, as Justice Kavanaugh pointed out, nine times out of ten you would get it because the court sees a death in the situation, and (j) permits the court to impose a higher penalty for that. So it's not a situation in which, by picking (j), you somehow are relegated to smaller or lesser penalties in a way that might implicate your Blockburger concern."
+                },
+                {
+                    "start": 3322.11,
+                    "stop": 3329.205,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So -- so, respectfully, Justice Jackson, of course, on the -- the frontline textual issue, which I took you to put to one side, we disagree."
+                },
+                {
+                    "start": 3329.205,
+                    "stop": 3329.68,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, yes."
+                },
+                {
+                    "start": 3329.68,
+                    "stop": 3345.89,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Moving to the anomaly point, I think the anomaly is sort of at a -- a finer level of gradation than that. I think it's not just, you know, would a -- a court necessarily reach this result nine times out of ten. We hope that's true. But we think Congress didn't leave it to that nine times out of ten for what it's actually doing."
+                },
+                {
+                    "start": 3345.89,
+                    "stop": 3374.625,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But maybe they did in (j), just not in (c). I mean, the only anomaly that you see or that you're pointing to is the fact that in a (c) situation, Congress sets a floor and doesn't let the court go below, and in a (j) situation, it doesn't. It gives it a broader range. It throws off the maximum. And you have to argue in a (j) situation that, Judge, you should give a much higher penalty here, which the government would certainly do, and nine times out of ten the court would agree."
+                },
+                {
+                    "start": 3374.625,
+                    "stop": 3390.955,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right, but -- but, to go back to where the Chief Justice started this morning, you know, the (j) necessarily includes the (c). Anybody who's convicted of (j) has been found -- not -- not just violated out in the world but has been found by a jury or agreed in a plea agreement that they violated every element of (c)."
+                },
+                {
+                    "start": 3392.3,
+                    "stop": 3425.445,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "-- isn't the only thing that the government is saying is that and, therefore, it incorporates the -- the -- the block on the judge's discretion with respect to the floor? That's your only point, because, fine, so it incorporates all the elements, but the only real difference between those two from the government's perspective is that in a (c) situation, the court can't go below five years. In a (j) situation, they could. But, because a (j) situation involves a death, my question is, under what circumstance is a court actually going to go below the five years?"
+                },
+                {
+                    "start": 3425.445,
+                    "stop": 3431.465,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So I think it's not just the mandatory minimum, it's also, of course, the mandatory consecutive nature of the sentence. I think --"
+                },
+                {
+                    "start": 3431.465,
+                    "stop": 3434.99,
+                    "speaker": {
+                        "name": "Ketanji Brown Jackson",
+                        "ID": 33869,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if they get death, it doesn't matter, says your friend on the other side."
+                },
+                {
+                    "start": 3434.99,
+                    "stop": 3466.315,
+                    "speaker": {
+                        "name": "Erica L. Ross",
+                        "ID": 62958,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure, but I think Congress necessarily knew both because of the words of the statute and because, of course, the mandatory death penalty had long been held unconstitutional that there would be term of years sentences under this provision, and so I don't think it makes sense to say that Congress thought, you know, we need to make sure there's a five-year at a minimum -- and, obviously, they go up from there -- consecutive sentence when someone holds the gun in their pocket. But, if they take it out and kill someone, you know, all bets are off because we're going to increase it on the -- the other end. I just don't think that that's the best reading of the statute."
+                },
+                {
+                    "start": 3466.315,
+                    "stop": 3473.70999985,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Rebuttal, Mr. Rosenberg?"
+                }
+            ],
+            "start": 3473.70999985,
+            "stop": 3685.405
+        }
+    ]
+}

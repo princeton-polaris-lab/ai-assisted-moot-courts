@@ -1,0 +1,2253 @@
+{
+    "title": "Celotex Corporation v. Edwards",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.372,
+                    "stop": 162.337,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: At issue in this case is whether the bankruptcy court presiding over the Celotex Chapter 11 case had jurisdiction to enter an interim stay of execution on supersedeas bonds by judgment creditors of Celotex. That stay restrained the Edwardses from collecting their judgment against Celotex, which was largely for punitive damages from Northbrook, the surety on the supersedeas bond posted for the benefit of Celotex, for the benefit of the Edwardses. The case arises out of the Edwards' admitted collateral attack on the bankruptcy court stay order when they requested under Rule 65.1 that the district court in Texas which had originally presided over their personal injury claim against Celotex granted them permission to enforce the supersedeas bond against Northbrook notwithstanding the bankruptcy court's stay order. At the time Celotex filed its bankruptcy petition it had posted similar supersedeas bonds in over 100 separate appeals using 70 million dollars of assets to secure its obligations to the sureties. Celotex was defending over 100,000 personal injury and wrongful death cases, all of which were the result of the same conduct by a predecessor that had merged into Celotex, which was the same basis for the claims of the Edwardses. These cases arise from exposure to asbestos-containing products. They were manufactured by Philip Carey Corporation, a corporation that was merged into Celotex in the early 1970's. Over the objections of Celotex and Northbrook, the Texas district court granted the Edwards' request for permission to ignore the bankruptcy court's stay order. The Fifth Circuit affirmed. A similar attempted collateral attack by the same plaintiffs' counsel was rejected by the Fourth Circuit when it reversed a Virginia district court order that had granted permission to ignore the bankruptcy court's stay order. The Fourth Circuit directed that the judgment creditor had to seek direct from the bankruptcy court. In response to the improper collateral attack arguments raised by Celotex, the Edwardses concede that the judgment of the Fifth Circuit must be reversed if the bankruptcy court had subject matter jurisdiction to issue its interim stay of the execution upon Celotex' supersedeas bonds. That's the issue in this case. The statutory basis of the bankruptcy court's subject matter jurisdiction is 28 U.S.C. section 1334(b), which states that the district courts have jurisdiction of all civil proceedings arising under title 11 or arising in or related to cases under title 11."
+                },
+                {
+                    "start": 162.337,
+                    "stop": 183.501,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, would you explain how the proceeding on the bond will affect the bankruptcy estate? What are the ways in which it will? The money Northbrook has to pay is outside the bankruptcy estate, of course, so how will it affect the bankruptcy estate?"
+                },
+                {
+                    "start": 183.501,
+                    "stop": 213.853,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice O'Connor, the way it affects the estate is that Celotex has a contractual relationship with Northbrook that was entered into as part of the posting of the supersedeas bond. To secure that contractual relationship, Celotex, under a settlement agreement that resolved certain insurance coverage disputes with Northbrook, pledged that if Northbrook had to pay a bond it could exercise rights of set-off against the funds that would otherwise be available to Celotex for payment to its creditors, so that although under the--"
+                },
+                {
+                    "start": 213.853,
+                    "stop": 219.757,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what was pledged are funds that otherwise would be in the general bankruptcy estate."
+                },
+                {
+                    "start": 219.757,
+                    "stop": 236.452,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. The money that Northbrook would pay to the Edwardses is not subject to the property of the estate. The property pledged by Celotex to Northbrook is property of the estate, and it's that interconnection that creates the effect. This--"
+                },
+                {
+                    "start": 236.452,
+                    "stop": 244.939,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, the estate would get back that property pledged, I assume, only if there's some invalidity in the pledge, is that--"
+                },
+                {
+                    "start": 244.939,
+                    "stop": 246.658,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is absolutely correct, Justice Scalia."
+                },
+                {
+                    "start": 246.658,
+                    "stop": 250.093,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Is there thought to be some invalidity in it?"
+                },
+                {
+                    "start": 250.093,
+                    "stop": 293.972,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. There are two bases upon which Celotex for the benefit of its estate is presently prosecuting adversary proceedings in the bankruptcy court to bring back into, to recover for the benefit of all of its creditors, those funds. The first premise is, is that the vast majority of the Edwards' claim is for punitive damages. 245,000 dollars of their claim is for punitive damages. Under the principles of equitable subordination codified in section 510(c) of the Bankruptcy Code, Celotex is seeking, through the bankruptcy court, to subordinate those claims, which would then invalidate and bring back to the estate those funds that were transferred to Northbrook. The second attack that's been made--"
+                },
+                {
+                    "start": 293.972,
+                    "stop": 303.061,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Those claims seeking to bring back those... the judgment has already been rendered with regard to those claims."
+                },
+                {
+                    "start": 303.061,
+                    "stop": 349.84,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, but it is a judgment for punitive awards which under normal bankruptcy practice would not be recoverable in lieu of the ability to compensate regular compensatory awards. The invalidity of the claim... the obligation of Northbrook on the judgment to the Edwardses is predicated upon the affirmance by the Fifth Circuit of that judgment. The Bankruptcy Code expressly permits a basis upon which equitable subordination can occur, so that one creditor cannot recover for its benefit claims to the detriment of other creditors if the bankruptcy court finds appropriate grounds for that to occur."
+                },
+                {
+                    "start": 349.84,
+                    "stop": 355.826,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, didn't you say what was infected was the collateral, not the judgment itself?"
+                },
+                {
+                    "start": 355.826,
+                    "stop": 356.611,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 356.611,
+                    "stop": 366.883,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what would be the basis for setting aside the transfer from Celotex to Northbrook to secure the appeal bonds?"
+                },
+                {
+                    "start": 366.883,
+                    "stop": 385.845,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under the bankruptcy code, the transfer by Celotex to Northbrook was for the indirect benefit of the Edwardses. Northbrook would not stand as a surety for Celotex but for the existence of adequate collateral. The Bankruptcy Code contemplates that transfers both direct and indirect can be avoided, and so--"
+                },
+                {
+                    "start": 385.845,
+                    "stop": 393.266,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you attacking those as preferences, or fraudulent, or... what's the basis for attacking that transfer?"
+                },
+                {
+                    "start": 393.266,
+                    "stop": 418.316,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Within the group of bonds there are preferences, there are fraudulent transfers. The area of fraudulent transfers is what is applicable in connection with the Edwards' claim because it is outside the 90-day preference period. You know, Celotex maintains that the transfer for the indirect benefit of the Edwardses to Northbrook constituted a fraudulent conveyance, constructively fraudulent."
+                },
+                {
+                    "start": 418.316,
+                    "stop": 432.474,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is it for the indirect benefit of the Edwardses? If the bond had not been posted, the Edwardses would have executed-- --and the money would have been gone. So how does it benefit the Edwardses? It seems to me it was entirely for the benefit of Celotex, to enable it not to have to pay the judgment."
+                },
+                {
+                    "start": 432.474,
+                    "stop": 474.151,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is the issue, because the... in order to avoid the transfer, Celotex must establish insolvency at the time of the transfer, or insolvency as a result of the transfer, and a lack of reasonably equivalent value in exchange for the transfer. Celotex' financial condition, as is evidenced by the record in the bankruptcy court, which is not before and never was brought to the record that's before this Court coming from the Fifth Circuit, demonstrates that the financial condition of Celotex at the time of these transfers of its assets to the surety was the same as at the time of the filing of its bankruptcy petition, so what the bankruptcy court has done in this case is, it has continued a stay and maintained the status quo using its powers under section 105--"
+                },
+                {
+                    "start": 474.151,
+                    "stop": 490.846,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not concerned with the insolvent status, I give you that, but what conceivable basis is there for arguing that it was not for the benefit of Celotex, which is a necessary condition to say that, you know, that somehow this thing could be called back?"
+                },
+                {
+                    "start": 490.846,
+                    "stop": 524.28,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, that would be the defense that is being raised to the fraudulent conveyance claim. However, constructively fraudulent conveyances where there's a lack of reasonably equivalent value under the bankruptcy code can be called back. And Celotex did not benefit. Remember, Your Honor, Celotex will never receive any of these funds. It will only... this is a question of allocating limited resources among a few judgment creditors who had the benefit of supersedeas bonds, and hundreds of thousands of other judgment creditors whose claims arise from the exact same conduct."
+                },
+                {
+                    "start": 524.28,
+                    "stop": 533.884,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, please help me. I really don't understand this. Isn't it the case that despite Celotex's insolvency the judgment could have been executed upon?"
+                },
+                {
+                    "start": 533.884,
+                    "stop": 537.688,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, during... absent the posting of the supersedeas bond."
+                },
+                {
+                    "start": 537.688,
+                    "stop": 538.204,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Absent the posting of the bond."
+                },
+                {
+                    "start": 538.204,
+                    "stop": 556.565,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And Your Honor, the issue that is being litigated now is whether the forbearance that is affected by the supersedeas bond is sufficient consideration to meet the reasonably equivalent consideration test in order to... in order to avoid a constructively fraudulent transfer."
+                },
+                {
+                    "start": 556.565,
+                    "stop": 569.957,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, could you help me just with this one very preliminary question? It seems to me you're arguing the merits of the bankruptcy court's injunction, and I thought your basic position was that even if the injunction was erroneously entered, you should still prevail."
+                },
+                {
+                    "start": 569.957,
+                    "stop": 582.517,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, that's absolutely correct. I'm merely responding to the inquiries from the Court. I have a zeal for the merits of the bankruptcy court, but whether the bankruptcy court was right or wrong, the Fifth Circuit should have recognized that... that injunction."
+                },
+                {
+                    "start": 582.517,
+                    "stop": 584.919,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems to me the thrust of your argument is we shouldn't be deciding that, either."
+                },
+                {
+                    "start": 584.919,
+                    "stop": 604.963,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct, Your Honor. We do not think that it is appropriate at this time for this Court to deal with the merits, but only whether or not there was a relationship, a related two-jurisdiction issue. Did the bankruptcy court have some connection? Is there a nexus between what's occurring with these supersedeas bonds and the estate--"
+                },
+                {
+                    "start": 604.963,
+                    "stop": 613.669,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your position is that if the Edwardses thought the bankruptcy court was wrong, they should appeal to the eleventh... the district court in the Eleventh Circuit, not take it up in the Fifth Circuit."
+                },
+                {
+                    "start": 613.669,
+                    "stop": 623.358,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. The actual stay called for the parties to come first to the bankruptcy court to seek modification. If it was denied they would have appellate rights to the Eleventh Circuit."
+                },
+                {
+                    "start": 623.358,
+                    "stop": 631.027,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "On that point, I want to ask, was Northbrook subject to the stay order? Did the stay order run against Northbrook--"
+                },
+                {
+                    "start": 631.027,
+                    "stop": 631.861,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 631.861,
+                    "stop": 633.527,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Specifically?"
+                },
+                {
+                    "start": 633.527,
+                    "stop": 701.005,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in the mass tort context with 100,000 the stay order doesn't name anybody specifically. You know, that's the problem that you have logistically, practically with that type of proceeding. The bankruptcy court was confronted at the early stages of the Celotex reorganization with, you know, hundreds and hundreds of appeals, not only these types of appeals, but Celotex was involved in insurance coverage disputes that were rather complex throughout the country, ADR proceedings, all types of administrative and judicial proceedings, so that the court entered this broad stay as a case management mechanism. Subsequently, the court has specified the applicability of the stay and has considered efforts to modify the stay on behalf of all of the bonded claimants. Counsel for the Edwardses came to the court shortly after the bankruptcy case was filed seeking to have the State modify it, and at that time the court clarified, you know, that... its determination with respect to the status of the supersedeas bond and that it applied even when the appeal had been resolved without effect."
+                },
+                {
+                    "start": 701.005,
+                    "stop": 721.3,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it comes down to which is the proper circuit, ultimately, to resolve this legal question of whether the appeal bond can be thrown back for the benefit of all the creditors. It's just that... it's a question of whether it's the Eleventh Circuit or the Fifth Circuit that's going to make that ruling."
+                },
+                {
+                    "start": 721.3,
+                    "stop": 741.813,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. We maintain that Congress under the Bankruptcy Clause empowered the district court in the Middle District of Florida having jurisdiction over the bankruptcy case filed by the Celotex Corporation to consider all matters that are related to that case."
+                },
+                {
+                    "start": 741.813,
+                    "stop": 771.065,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And would that bar another circuit from reexamining this order if there were... because there's colorable jurisdiction to issue it? Suppose the assertion was that there was a patent jurisdictional defect. I don't think that assertion is made here, but suppose it were, would that bar the Fifth Circuit from making this inquiry?"
+                },
+                {
+                    "start": 771.065,
+                    "stop": 784.742,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. We would agree that if there was a patent jurisdictional defect, then the collateral attack rule would have an exception that would permit the Fifth Circuit to... or the district court in Texas to consider the matter."
+                },
+                {
+                    "start": 784.742,
+                    "stop": 792.681,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So is your position here that there is no patent defect, that there is at least colorable jurisdiction, and that that's the end of the matter?"
+                },
+                {
+                    "start": 792.681,
+                    "stop": 811.393,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor, although I think that it has... I think it's appropriate that the court that issued... I think it's good public policy that the court that issues an injunction, that has colorable jurisdiction to enter that injunction, should... you know, a party should respect and obey that injunction."
+                },
+                {
+                    "start": 811.393,
+                    "stop": 856.77,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, at this point, mustn't we decide more than colorable, because at least in the forum where the appeal bond was lodged, that's a mechanical procedure, ordinarily. You called it... you said everyone agreed that in the Fifth Circuit there was a collateral attack on the bankruptcy court's stay order, but in fact what there was was a motion under the Federal rules to realize the judgment against the appeal bond. It wasn't a separate proceeding collaterally attacking the stay in the bankruptcy court, so it's not like a little jurisdiction. The question is, does the bankruptcy court have subject matter jurisdiction? It either does or it doesn't."
+                },
+                {
+                    "start": 856.77,
+                    "stop": 864.007,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I agree with that, Your Honor, that either the bankruptcy court had subject matter jurisdiction, or the bankruptcy court did not have subject matter jurisdiction."
+                },
+                {
+                    "start": 864.007,
+                    "stop": 866.293,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you're relying on 105 for that?"
+                },
+                {
+                    "start": 866.293,
+                    "stop": 871.697,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, we rely on 1334(b) for the subject matter jurisdiction of the bankruptcy court."
+                },
+                {
+                    "start": 871.697,
+                    "stop": 881.386,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So we have to make a detailed inquiry, or the Fifth Circuit is entitled to make a detailed inquiry, into the jurisdiction under 1334?"
+                },
+                {
+                    "start": 881.386,
+                    "stop": 896.745,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I think that they were entitled to look at the jurisdiction that was asserted by the bankruptcy court, and finding that jurisdiction exists in the bankruptcy court, then they should have deferred to the stay that was entered by that court unless and until it was modified on direct appeal."
+                },
+                {
+                    "start": 896.745,
+                    "stop": 932.668,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying that jurisdiction existed if there was a colorable claim that the property could come into the estate, and this is where I find I have difficulty. You're saying it is a colorable claim so long as the property used to belong to the bankrupt. You're saying that even without... without any assertion of facts that would somehow demonstrate that there's a real possibility that the property could be included within the bankruptcy estate, even without that, it is still related to--"
+                },
+                {
+                    "start": 932.668,
+                    "stop": 954.165,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. The circuit court test with respect to related-to jurisdiction, which is a broad definition, and Congress intended it to be broadly construed as part of the uniformity associated with bankruptcy matters, intended that the bankruptcy court, or the district court exercising bankruptcy jurisdiction have broad jurisdiction."
+                },
+                {
+                    "start": 954.165,
+                    "stop": 969.041,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It doesn't say, might be related to. It says, related to. Isn't it reasonable to interpret that to mean that there must be some facts that would give rise to a colorable claim that the money can be recovered by the bankrupt estate? And what are they here?"
+                },
+                {
+                    "start": 969.041,
+                    "stop": 986.903,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the facts are that the transfers made by the Celotex Corporation were made at a time when it was insolvent. The facts are that the... at the time of these events, there was no consideration that was increased to the Celotex estate."
+                },
+                {
+                    "start": 986.903,
+                    "stop": 993.223,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, I don't understand why that claim would be affected one way or another by whether the bonding company pays out on the bond."
+                },
+                {
+                    "start": 995.159,
+                    "stop": 1010.184,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't... I guess I have the same question. Isn't your claim broader than that? Even if there were no attack on these bonds, isn't it your position that the bankruptcy court would still have jurisdiction to enter an injunction against realizing on the bond?"
+                },
+                {
+                    "start": 1010.184,
+                    "stop": 1019.623,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely, Your Honor, because it protects the reorganization process, and that is precisely why the collateral attack by the Fifth Circuit should not be condoned."
+                },
+                {
+                    "start": 1019.623,
+                    "stop": 1045.771,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that the only-- --But how-- --I'm sorry. Go ahead. No, I was going to say, the only jurisdictionally relevant fact that you have to establish is that, if in fact the Edwardses realized on the bond, there would be a consequence to the bankruptcy estate, i.e., the bonding company would then presumably realize on its collateral. That's all you have to show, isn't it?"
+                },
+                {
+                    "start": 1045.771,
+                    "stop": 1048.021,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1048.021,
+                    "stop": 1064.916,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, if the respondents had just executed on their judgment, that would not have been anything that would be covered by the stay, I take it, of the bankruptcy court?"
+                },
+                {
+                    "start": 1064.916,
+                    "stop": 1092.983,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, in order for the... in order for the respondents after the bankruptcy was in place to have executed against Northbrook, they would have had to have asserted some procedure to comply with due process, and Rule 65.1 provides that expedited summary-type procedure, and what the Edwardses sought here was permission from the district court to pursue their remedies against Northbrook, and of course that--"
+                },
+                {
+                    "start": 1092.983,
+                    "stop": 1098.018,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what would have been the situation had there been no supersedeas bond?"
+                },
+                {
+                    "start": 1098.018,
+                    "stop": 1107.291,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Had there been no supersedeas bond, then the bankruptcy would have implemented a stay that would have precluded the Edwardses as all other creditors--"
+                },
+                {
+                    "start": 1107.291,
+                    "stop": 1110.176,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would have precluded any execution of the judgment."
+                },
+                {
+                    "start": 1110.176,
+                    "stop": 1110.778,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor."
+                },
+                {
+                    "start": 1110.778,
+                    "stop": 1113.646,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the bond was put up-- --And the bond-- --before there was any bankruptcies."
+                },
+                {
+                    "start": 1113.646,
+                    "stop": 1114.162,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1114.162,
+                    "stop": 1130.989,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The bond was then obtained prior to the filing of bankruptcy, to enable the respondents to go ahead and... and obtain their money on the basis of the supersedeas bond."
+                },
+                {
+                    "start": 1130.989,
+                    "stop": 1147.284,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor. One of the issues in this case is the purpose of a supersedeas bond. Is it to enhance the entitlement of the judgment creditor, or is it merely to preserve the judgment creditor's standpoint during the pendency of an appeal if that appeal is without effect?"
+                },
+                {
+                    "start": 1147.284,
+                    "stop": 1169.014,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, do you say the test for whether it is related to the bankruptcy proceeding is the test employed by the Third Circuit in Pacor v. Higgins? Do all the courts of appeal apply that same test, or is there some diversity-- --among the circuits?"
+                },
+                {
+                    "start": 1169.014,
+                    "stop": 1192.33,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--to the best of my knowledge, there's almost uniform following of that particular test, and you know, some circuits have adopted slightly different language, but all of them have recognized that if there could be any conceivable effect on the property of the debtor's estate or on the allocation of property among creditors, then there is related-to jurisdiction."
+                },
+                {
+                    "start": 1192.33,
+                    "stop": 1203.97,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the only conceivable effect here is if Celotex can establish that its transfer of the collateral to Northbrook was a fraudulent transfer?"
+                },
+                {
+                    "start": 1203.97,
+                    "stop": 1228.07,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That would be one. The other would be if we can equitably subordinate the punitive award that the Edwardses have recovered, because the Edwardses are seeking to have collected a punitive award against Celotex, while other creditors similarly situated will not be in a position to recover in full any of their compensatory claims, and so those are issues that the bankruptcy court as part of its power to adjust debtor-creditor relationships--"
+                },
+                {
+                    "start": 1228.07,
+                    "stop": 1242.245,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How did the Edwardses get away from this, then? Supposing that they had actually been... the bond had paid them off, paid off their judgment, could the bankruptcy court still come after them?"
+                },
+                {
+                    "start": 1242.245,
+                    "stop": 1255.303,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, there is a limit to the avoiding powers that a debtor in possession will be able to exercise. However, there are remedies up until such time as the statute of limitations has expired."
+                },
+                {
+                    "start": 1255.303,
+                    "stop": 1277.835,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, if the automatic stay in bankruptcy didn't occur until after that judgment was rendered, and is there any precedent for saying when somebody has a good judgment, and the judgment is paid before the bankruptcy petition is filed, but yet the bankruptcy estate can go back and get that court judgment, can set aside that court judgment? I don't know--"
+                },
+                {
+                    "start": 1277.835,
+                    "stop": 1295.178,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "From a fraudulent transfer standpoint, no, Your Honor, because there would be a satisfaction of the judgment that would have occurred prior to the filing of the bankruptcy petition. From a preference standpoint, yes. The avoidance powers would enable a recovery with respect to a preferential transfer that was made within the 90-day period before bankruptcy."
+                },
+                {
+                    "start": 1295.178,
+                    "stop": 1303.048,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Preferential transfer that consists of a payment of a judgment? Do you know any case where a payment of a judgment has been set aside?"
+                },
+                {
+                    "start": 1303.048,
+                    "stop": 1326.846,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "As a preference, yes, Your Honor, because within the 90-day period, if the debtor is insolvent, if the payment effects a benefit to the judgment creditor on behalf of an antecedent debt, meaning that it has to be not a contemporaneous exchange of value, but for an antecedent debt, then the Bankruptcy Code does provide the remedy for purposes of bringing and recovering--"
+                },
+                {
+                    "start": 1326.846,
+                    "stop": 1371.894,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, let me ask you this hypothetical. Suppose... suppose there's a piece of property that Celotex sold 10 years ago, and it sold it with a condition subsequent, that if a certain event occurred, the property would revert to Celotex. There is now pending a lawsuit between two third parties who have nothing to do with Celotex or Northbrook or anybody else, involving ownership of this property. Could the bankruptcy court stay that proceeding on the theory that since there was this reversionary provision, although there's no reason whatever to believe that the event which would produce the reversion has occurred... no reason whatever to believe that... nonetheless, it is related to the bankruptcy? Could that be stayed?"
+                },
+                {
+                    "start": 1371.894,
+                    "stop": 1374.846,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I believe so, Your Honor, because if there is a reversionary interest--"
+                },
+                {
+                    "start": 1374.846,
+                    "stop": 1379.898,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So related to just means, what, it means somehow the bankrupt's property is involved?"
+                },
+                {
+                    "start": 1379.898,
+                    "stop": 1382,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Could have a conceivable effect."
+                },
+                {
+                    "start": 1382,
+                    "stop": 1386.754,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Conceivable regardless of reality? I mean, you can make up facts--"
+                },
+                {
+                    "start": 1386.754,
+                    "stop": 1403.995,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. I think that... you know, I think that the Third Circuit in Pacor is a good example of a situation where the Court defined conceivable effect, but determined that there would be no enhancement of the estate, there was no harm to the estate, and therefore determined that the matter was not related to the bankruptcy proceeding."
+                },
+                {
+                    "start": 1403.995,
+                    "stop": 1430.63,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, that's one reason it couldn't have any conceivable effect. Another reason it couldn't have conceivable effect is that there is no way in the world that the claim which would bring it back into the State could be vindicated, so that if I feel that way about whether there was consideration given for the posting of this security, whether not having to pay it immediately is adequate consideration, I have brought this case parallel with the hypothetical I just gave you."
+                },
+                {
+                    "start": 1430.63,
+                    "stop": 1439.819,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Even if you disagree with the merits of the remedies, or the available remedies, you know, courts should respect stays and injunctions entered by other courts."
+                },
+                {
+                    "start": 1439.819,
+                    "stop": 1441.336,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Unless it is patently frivolous."
+                },
+                {
+                    "start": 1441.336,
+                    "stop": 1447.655,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Unless it's patently frivolous, unless there's no subject matter jurisdiction, or unless there's no personal jurisdiction, which are not issues in this case."
+                },
+                {
+                    "start": 1447.655,
+                    "stop": 1454.411,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why isn't it patently frivolous here if there is... was, indeed, equivalent value given for the posting of the security?"
+                },
+                {
+                    "start": 1454.411,
+                    "stop": 1472.623,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is the issue, because forbearance is not quantifiable, and the evidence in the bankruptcy court, again not in the record before the Fifth Circuit, is that the financial condition of Celotex was the same on the petition date as it was at the time of the transfer for the indirect benefit of the Edwardses."
+                },
+                {
+                    "start": 1472.623,
+                    "stop": 1483.764,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you're saying that that determination, or the determination of your position, simply cannot be made without a full trial on the merits, and therefore there's no opportunity to come under the frivolousness rule in this case."
+                },
+                {
+                    "start": 1483.764,
+                    "stop": 1496.822,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct, and the Fourth Circuit recognized this, so it would be hard to say that it was completely frivolous when the Fourth Circuit in Willis recognized the exact same Celotex, the exact same factual circumstance--"
+                },
+                {
+                    "start": 1496.822,
+                    "stop": 1507.963,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does that position of yours turn in any respect on the fact that Northbrook was itself bound by the order of the bankruptcy court?"
+                },
+                {
+                    "start": 1507.963,
+                    "stop": 1511.246,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. Northbrook's caught in the middle, because they're bound by--"
+                },
+                {
+                    "start": 1511.246,
+                    "stop": 1517.819,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If Northbrook had not been caught in the middle, would your position be different?"
+                },
+                {
+                    "start": 1519.935,
+                    "stop": 1521.187,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--thinking how they would not be."
+                },
+                {
+                    "start": 1521.187,
+                    "stop": 1538.565,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--That is to say, suppose Northbrook had not been bound by the order because there was no personal jurisdiction over it, or it had no knowledge of the order. I'm just trying to find out whether or not Northbrook's position before the bankruptcy court is the linchpin of your argument."
+                },
+                {
+                    "start": 1538.565,
+                    "stop": 1547.002,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. Northbrook is like stakeholders. Northbrook is happy to compensate the Edwardses. Northbrook is happy to give the funds back to the-- --To the debtors."
+                },
+                {
+                    "start": 1547.002,
+                    "stop": 1550.29,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--in its view, by the order that the bankruptcy court issued."
+                },
+                {
+                    "start": 1550.29,
+                    "stop": 1551.406,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct, Your Honor."
+                },
+                {
+                    "start": 1551.406,
+                    "stop": 1561.729,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it takes the position, and you take the position on its behalf, that if that order is to be revised or amended or suspended as to Northbrook, it has to be the issuing court that does that."
+                },
+                {
+                    "start": 1561.729,
+                    "stop": 1569.085,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct, Your Honor. That is precisely why this Court should reverse the Fifth Circuit. Mr. Chief Justice, if there are no further questions, I'd like to--"
+                },
+                {
+                    "start": 1569.085,
+                    "stop": 1579.574,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I do have one question about the status of what you call the avoidance action, where there were motions for summary judgment pending as of last March. Have those been disposed of?"
+                },
+                {
+                    "start": 1579.574,
+                    "stop": 1600.204,
+                    "speaker": {
+                        "name": "Jeffrey W. Warren",
+                        "ID": 33528,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor, they're still in litigation now. There are 229 parties to that litigation, and the bankruptcy court has under advisement summary judgments. The court just recently accepted new briefing based upon this Court's decision in BFP with respect to the fraudulent transfer issues."
+                },
+                {
+                    "start": 1600.204,
+                    "stop": 1609.329,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Warren. Mr. Rosenthal, we'll hear from you."
+                }
+            ],
+            "start": 10.372,
+            "stop": 1640.198
+        },
+        {
+            "turns": [
+                {
+                    "start": 1609.329,
+                    "stop": 1640.198,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: Our position in this case is that the Fifth Circuit properly declined to follow the bankruptcy court's stay order because the bankruptcy court lacked jurisdiction to stay proceedings by the Edwardses against Northbrook, and I would respond to a comment that Justice Kennedy made earlier, we are claiming a patent jurisdictional defect in the stay order, which was issued 5 days after the bankruptcy. We are claiming that the bankruptcy court had no jurisdiction, and it is patent that the court had no jurisdiction."
+                },
+                {
+                    "start": 1640.198,
+                    "stop": 1650.304,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Rosenthal, did you ever file a motion in the Florida Bankruptcy Court seeking relief from the injunction?"
+                },
+                {
+                    "start": 1650.304,
+                    "stop": 1663.813,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I personally did on behalf of other clients, not on behalf of the Edwards. Our firm represents numerous clients who have... who had at the time of the bankruptcy appeals that were pending--"
+                },
+                {
+                    "start": 1663.813,
+                    "stop": 1668.198,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why didn't you follow that procedure on behalf of these respondents?"
+                },
+                {
+                    "start": 1668.198,
+                    "stop": 1680.906,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Because it was our opinion, Your Honor, that the bankruptcy court had patently no jurisdiction to enjoin proceedings that did not involve the debtor at all, and that were not directed against the debtor, or against the debtor's property."
+                },
+                {
+                    "start": 1680.906,
+                    "stop": 1686.608,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did it have no jurisdiction to do that as to Northbrook?"
+                },
+                {
+                    "start": 1686.608,
+                    "stop": 1690.012,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It had no jurisdiction to do that as to Northbrook, yes, Your Honor."
+                },
+                {
+                    "start": 1690.012,
+                    "stop": 1711.258,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you deny, Mr. Rosenthal, that the claim that your opponent has made that if, in fact, the Edwardses realize on the bond, the bonding company is going to go against the collateral, the collateral is going to affect the value of the bankruptcy estate. Do you... is there a flaw in at least that sequence of reasoning?"
+                },
+                {
+                    "start": 1711.258,
+                    "stop": 1725.185,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I... I can't dispute the fact that the bond has been collateralized, but I do believe that at the time of the affirmance of the judgment Celotex lost whatever interest it had in the bond itself."
+                },
+                {
+                    "start": 1725.185,
+                    "stop": 1744.312,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but that's not the argument. I mean, that's a different argument, but the argument that's being made here is that the proceeding against the bond, if allowed to run its course, and it's successful, as presumably it would be, would affect the value of the bankruptcy estate?"
+                },
+                {
+                    "start": 1744.312,
+                    "stop": 1746.348,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I do disagree with that assertion, Your Honor."
+                },
+                {
+                    "start": 1746.348,
+                    "stop": 1758.156,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why do you... what's the misstep? You admit the bond is subject to collateral-- --and the collateral is in the bankruptcy estate. Okay. What's wrong with his reasoning?"
+                },
+                {
+                    "start": 1758.156,
+                    "stop": 1764.476,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We're not seeking the collateral. We're only seeking to enforce the independent obligation of Northbrook to us."
+                },
+                {
+                    "start": 1764.476,
+                    "stop": 1791.127,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, he isn't claiming that you are seeking the collateral. All he's claiming is that the proceedings against the collateral will affect the value of the bankruptcy estate, and he is saying that therefore the... in effect the status of the collateral and any threat to it is a matter which is related to the Chapter 11 proceeding, and that's all that's necessary for jurisdiction under 1334(b)."
+                },
+                {
+                    "start": 1791.127,
+                    "stop": 1801.935,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's all that's necessary for jurisdiction under the Pacor test, which says any proceeding whose outcome could conceivably affect the bankruptcy estate is--"
+                },
+                {
+                    "start": 1801.935,
+                    "stop": 1816.693,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, this is more than... you're quite right about your statement of the test, but isn't this a little bit stronger than merely conceivable? If you go against the collateral, the collateral isn't going to be there, and they have priority. The collateral isn't going to be there in the general bankruptcy estate."
+                },
+                {
+                    "start": 1816.693,
+                    "stop": 1822.247,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that's up to Northbrook, Your Honor. I think that if Northbrook enforces that, I think maybe--"
+                },
+                {
+                    "start": 1822.247,
+                    "stop": 1833.387,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, presumably Northbrook is not going to open its veins and bleed to death. I mean, it's reasonable to suppose that Northbrook is going to want to realize on its collateral, isn't it? There's nothing frivolous about that assumption, is there?"
+                },
+                {
+                    "start": 1833.387,
+                    "stop": 1843.743,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, there's no, but as between us bleeding to death and Northbrook bleeding to death, I think the bond, the obligation that Northbrook entered into to us, puts Northbrook in the shoes of bleeding--"
+                },
+                {
+                    "start": 1843.743,
+                    "stop": 1858.385,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that may be a good argument in front of the court that decides what should be done, as to whether there should be an injunction or not, but I don't see that that goes to jurisdiction. The question on jurisdiction is, is it related, and of course it's related, because it's going to affect the bankruptcy estate. At least, that's his argument."
+                },
+                {
+                    "start": 1858.385,
+                    "stop": 1904.999,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, my argument is that there is a limit on that... on the relationship, on the degree to which a bankruptcy court can exercise jurisdiction over proceedings which are tangentially related to a bankruptcy. For example, in the Pacor case, the plaintiff sued a defendant, the defendant sued a codefendant for indemnity, that codefendant went into Chapter 11, Pacor argued, well, this proceeding... the plaintiff's proceeding against us is a proceeding related to the bankruptcy of the codefendant because the... if the plaintiff prevails, that will create a claim of indemnity from us against the codefendant, and therefore it's related to a bankruptcy, and under that-- --broad test... I'm sorry."
+                },
+                {
+                    "start": 1904.999,
+                    "stop": 1939.906,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--isn't it a little abstract to say these claims are not related to the bankruptcy? Isn't it in fact the case that these personal injury claims are what drove Celotex and companies similarly situated into bankruptcy, so it's quite... I can understand the abstract categorization that you're making, and is it not possible that if Celotex didn't think it had a shot at defeating the punitive recoveries, it might have gone into bankruptcy earlier when faced with these hundreds of claims?"
+                },
+                {
+                    "start": 1939.906,
+                    "stop": 1971.176,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the question implicates two issues, one is the possible success of the avoidance action, and the other is just the effect on the bankruptcy, and I think that that basis for the judgment really has nothing to do with our claim against Northbrook. Our claim is on Northbrook's claim to us. The very purpose of the bond is to ensure that that satisfaction of the judgment is unrelated to the financial condition of the debtor. That's built into the entire concept, so I think that--"
+                },
+                {
+                    "start": 1971.176,
+                    "stop": 1978.447,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which is a good argument on the merits of whether there should be an injunction, but I don't see why it is significant with respect to jurisdiction."
+                },
+                {
+                    "start": 1978.447,
+                    "stop": 1983.815,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, if the test for jurisdiction is related-to, then I think it does certainly apply."
+                },
+                {
+                    "start": 1983.815,
+                    "stop": 2001.444,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not... you don't take a merits... I guess what I'm hearing from you is a kind of a merits first approach to jurisdiction. If you lose on the merits, there's no jurisdiction, but the words, related to, in a jurisdictional statute, have generally been given a very broad meaning."
+                },
+                {
+                    "start": 2001.444,
+                    "stop": 2045.723,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't deny that, but I do believe there is a limit, and I do believe that that crosses that limit. And I think that the underlying purpose of a supersedeas bond or transactions like it, like the letters of credit on which the New York Clearinghouse, the banks of New York, filed an amicus brief saying that the assertion, not just the exercise... not just the wielding of power, but the action assertion of jurisdiction, that very ability, threatens the viability of those kinds of financial transactions. And I think that to suggest, to define related-to as anything that could affect, however indirectly, a bankruptcy, would basically give the bankruptcy courts infinite jurisdiction. I don't think that's--"
+                },
+                {
+                    "start": 2045.723,
+                    "stop": 2060.898,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you can argue in the bankruptcy court that the stay shouldn't have issued. You can appeal to the district court or the court of appeals that supervises the bankruptcy court. I mean, it's not as if the bankruptcy court makes a wrong decision you're just permanently stuck with it."
+                },
+                {
+                    "start": 2060.898,
+                    "stop": 2073.706,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that's true, but I think, again, to require someone who has a right on an independent obligation to go and litigate in the bankruptcy court would undermine the very purpose of that--"
+                },
+                {
+                    "start": 2073.706,
+                    "stop": 2084.681,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well then, Congress shouldn't have worded it as related to. I mean, you know, I think your argument is basically you don't like the breadth of jurisdiction conveyed... conferred by Congress."
+                },
+                {
+                    "start": 2084.681,
+                    "stop": 2144.552,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I don't think that Congress' jurisdiction has been interpreted that broadly. I think that again, the Pacor case, there was a relationship with the bankruptcy, a tangential one, but the Court held there was no jurisdiction in that case, and that's under the broadest test that's been articulated. In the Lemco case decided by this Court, one of the alternative grounds for the holding was that the bankruptcy court's attempt to stay administrative proceedings was unlikely to impair the bankruptcy court's exclusive jurisdiction over the property of the estate, and I suggest that's exactly the same situation here. Northbrook's actions may affect the property of the estate, although I even doubt that, because I think the likelihood of avoiding the transfer is infinitesimal, and I think that the avoidance claims were textual, but that's Northbrook v. Celotex. Our claim against Northbrook does not affect the debtor's estate any more than the plaintiff's claim against Pacor in the Pacor case."
+                },
+                {
+                    "start": 2144.552,
+                    "stop": 2158.193,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But nonetheless, if Northbrook goes against Celotex as a result of your collecting on the bond because of the collateral that Celotex... that could diminish the Celotex bankruptcy estate, could it not?"
+                },
+                {
+                    "start": 2158.193,
+                    "stop": 2179.785,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and that action could be stayed, as the bankruptcy court recognized in its own opinion. Again, this... the purpose of the supersedeas bond is risk allocation. It is... and the court used language like this. We're shifting the battleground, taking the risk of Celotex's future insolvency off us and putting it onto Northbrook, and if--"
+                },
+                {
+                    "start": 2179.785,
+                    "stop": 2192.192,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Rosenthal, what would have happened if, after the district court judgment, an appeal bond is put up, and while the appeal is pending, the Chapter 11 had been filed, what would have been the situation of the Edwardses then?"
+                },
+                {
+                    "start": 2192.192,
+                    "stop": 2224.663,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the Edwardses would be stayed by the automatic stay. The circuit courts are uniform on that, and we have not challenged that, because the proceeding is against Celotex. As long as the matter is in appeal, the proceeding is against Celotex, not the bond company. The difference in this case was, the appeal was decided, the case was over, and the Edwardses had a right to execution and had a... had a, basically a retroactive right to collect on the judgment, retroactive to when they got the judgment, which was a year and a half before the bankruptcy, and a year and a half ago the bond was posted at that time as well."
+                },
+                {
+                    "start": 2224.663,
+                    "stop": 2233.852,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask a rather elementary question? I must confess my ignorance about some of this. Your clients are not parties to the injunction, is that right?"
+                },
+                {
+                    "start": 2233.852,
+                    "stop": 2235.752,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not formal parties, no, Your Honor."
+                },
+                {
+                    "start": 2235.752,
+                    "stop": 2246.41,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it arguable that they're in contempt of court in Tampa? Have any contempt proceedings been brought against them? How about contempt proceedings against the bonding company?"
+                },
+                {
+                    "start": 2246.41,
+                    "stop": 2250.109,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. The bond company has resisted payment on the bond."
+                },
+                {
+                    "start": 2250.109,
+                    "stop": 2257.747,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the procedure, proceeding there which is testing the validity of the injunction as applied to them? If any."
+                },
+                {
+                    "start": 2257.747,
+                    "stop": 2313.199,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--several claimants who argue a right to their bonds have filed a motion to lift the stay to execute on their bonds, and they did this... I can't say when. I believe sometime in 1992. The bankruptcy court denied the motions to lift the stay, which is reported in the Joint Appendix, and that, I believe an appeal has been taken from that order denying the motion or the stay, and it is still pending 2 years later in the district court. And I think that illustrates, again, to embroil us, who should be guaranteed a right of immediate access and a right of immediate satisfaction of the bond and the right to the mechanisms provided in the Federal rules for enforcement of a bond will be denied if the response is, go to the bankruptcy court and litigate in the bankruptcy court. That dishonors the transaction."
+                },
+                {
+                    "start": 2313.199,
+                    "stop": 2322.638,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But again, you would agree that if the injunction is ultimately upheld... say if the Fifth Circuit decision stands, too, don't you run some risk of being held in contempt of court ultimately and punished for that?"
+                },
+                {
+                    "start": 2322.638,
+                    "stop": 2323.671,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, we do."
+                },
+                {
+                    "start": 2323.671,
+                    "stop": 2325.007,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you're willing to take that risk, in effect."
+                },
+                {
+                    "start": 2325.007,
+                    "stop": 2344.921,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and again I think that fact illustrates, or refutes the claim that attacks such as these will proliferate, or affirmance of the Fifth Circuit's decision will encourage persons to make these kinds of attacks on bankruptcy court orders."
+                },
+                {
+                    "start": 2344.921,
+                    "stop": 2395.103,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Rosenthal, isn't that unseemly in the Federal system this should go... be settled in one place or another and then to have the risk of contempt because the Edwardses are resisting the authority of the courts within the Eleventh Circuit, to say that what has happened in Fifth Circuit is okay but that can be checked later on through contempt proceedings... for the smooth functioning of a Federal system, shouldn't it be clear that either you're right or Mr. Warren is right about the authority of the courts within the Eleventh Circuit?"
+                },
+                {
+                    "start": 2395.103,
+                    "stop": 2452.94,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In most circumstances, yes, Your Honor, it would be. In a case of what we believe to be patent excursion beyond jurisdictional limits, we say that this procedure is appropriate, that the checks on the ability, or... and the restraints on the willingness of people to make, these kinds of parties to make these kinds of collateral attacks, are the availability of contempt proceedings, and the district court and Fifth Circuit that receives the challenge, they were fully aware of the bankruptcy court's stay order at the time that this issue was litigated, the district court and the Fifth Circuit both. We didn't hide it. We said, the bankruptcy court has attempted to stay execution but we don't believe that it has jurisdiction to do this, and that was litigated, and both the district court and the Fifth Circuit said, you are entitled to proceed on the supersedeas bond. To do otherwise would undermine the very purpose of the transaction."
+                },
+                {
+                    "start": 2452.94,
+                    "stop": 2484.225,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you agree that if the Fifth Circuit was wrong about the jurisdiction of the bankruptcy court, however wrong the bankruptcy court may have been on the merits of granting the stay, if they were wrong about the jurisdiction, the authority of the bankruptcy court to issue its stay, that would include all the personal injury people who already had judgments, then this gets sorted out in the Eleventh Circuit and not in the Fifth Circuit? The question is, was there authority in the bankruptcy court in Florida, in the district court in Florida."
+                },
+                {
+                    "start": 2484.225,
+                    "stop": 2507.34,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And my answer to that would be no, and again, I'm sure that if we thought that it was a close question, we wouldn't have pursued this challenge, but I don't believe it is a close question. I don't believe that there is a risk of the Eleventh Circuit finding jurisdiction of any kind in the bankruptcy court to stay these kinds of unrelated proceedings."
+                },
+                {
+                    "start": 2507.34,
+                    "stop": 2539.378,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Warren, if I hear you correctly, you are not arguing that there is no possibility... no realistic possibility, no argument, that Northbrook cannot be prevented from executing a bond collateral. You acknowledge that there may be a basis, after you collect from Northbrook, for saying that Northbrook has no right to--"
+                },
+                {
+                    "start": 2539.378,
+                    "stop": 2543.63,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that claim could be made. I think that--"
+                },
+                {
+                    "start": 2543.63,
+                    "stop": 2544.48,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But you haven't made it."
+                },
+                {
+                    "start": 2544.48,
+                    "stop": 2549.5,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. I have not, as, again, our position is we're unrelated to that issue, that--"
+                },
+                {
+                    "start": 2549.5,
+                    "stop": 2559.206,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You just argue on the basis of lack of relationship, not the fact that there may not be some plausible basis for thinking that Northbrook can't use the collateral."
+                },
+                {
+                    "start": 2559.206,
+                    "stop": 2566.626,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. I think that at the time of... I actually don't think that Celotex has a right to the collateral."
+                },
+                {
+                    "start": 2566.626,
+                    "stop": 2575.482,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But would you not agree, at least as a matter of jurisdiction, the bankruptcy court would at least have jurisdiction to enjoin Northbrook from trying to realize on the collateral?"
+                },
+                {
+                    "start": 2576.416,
+                    "stop": 2576.932,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, I do."
+                },
+                {
+                    "start": 2576.932,
+                    "stop": 2586.371,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So then Northbrook would be under conflicting obligations-- --No, because they can-- --if the Fifth Circuit standpoint-- --They can pay the judgment without... and lose on both cause."
+                },
+                {
+                    "start": 2586.371,
+                    "stop": 2595.91,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Northbrook... that's true. Northbrook... Northbrook issued the bond. They assumed that obligation to us. They took the risk, and--"
+                },
+                {
+                    "start": 2595.91,
+                    "stop": 2605.332,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You can pay... am I wrong in thinking that the Edwardses have realized on the appeal bond, that you've gotten paid, or you haven't?"
+                },
+                {
+                    "start": 2605.332,
+                    "stop": 2608.201,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We have not, Your Honor. We have not received the funds on that."
+                },
+                {
+                    "start": 2608.201,
+                    "stop": 2610.319,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But under the Fifth Circuit judgment you could."
+                },
+                {
+                    "start": 2610.319,
+                    "stop": 2611.853,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. We're entitled to."
+                },
+                {
+                    "start": 2611.853,
+                    "stop": 2616.407,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you... what... why are you not... this is some voluntary understanding?"
+                },
+                {
+                    "start": 2616.407,
+                    "stop": 2625.829,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, it is a voluntary understanding on our part. Celotex has agreed to not pursue contempt proceedings against us--"
+                },
+                {
+                    "start": 2625.829,
+                    "stop": 2626.513,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If you don't collect."
+                },
+                {
+                    "start": 2626.513,
+                    "stop": 2628.881,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If we don't collect, yes, Your Honor."
+                },
+                {
+                    "start": 2628.881,
+                    "stop": 2650.644,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Rosenthal, on rehearing, the Court of Appeals for the Fifth Circuit, in its amendment to the opinion, its last couple of sentences say, \"Thus, we have not held that the bankruptcy court in Florida was necessarily wrong, we have only concluded that the district court, over which we do have appellate jurisdiction, was right. \" Do you defend that analysis of the matter?"
+                },
+                {
+                    "start": 2650.644,
+                    "stop": 2694.371,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I don't, Your Honor. That language, I think, to give my own interpretation to it, it is, we're not reversing an order of a court in another circuit over which we don't have jurisdiction, we're just affirming a decision below, because I think that language is in response to statements made in the petition for rehearing that you're effectively reversing an order in another circuit, and I think that was to respond to that. But I do think that the bankruptcy court's order, to the extent that it assumed that there was jurisdiction to do this, was necessarily wrong. If the bankruptcy court was right in assuming jurisdiction over the bond, then I don't think that the Fifth Circuit could have ruled the way it did."
+                },
+                {
+                    "start": 2694.371,
+                    "stop": 2698.323,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's accurate enough to say that the Fifth Circuit is not saying that the bankruptcy court was wrong."
+                },
+                {
+                    "start": 2698.323,
+                    "stop": 2699.289,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I agree with that, Your Honor."
+                },
+                {
+                    "start": 2699.289,
+                    "stop": 2702.208,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is only saying that the Texas court was right."
+                },
+                {
+                    "start": 2702.208,
+                    "stop": 2705.041,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, and I don't think that language really adds to the analysis--"
+                },
+                {
+                    "start": 2705.041,
+                    "stop": 2709.862,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let him who can read conclude that therefore the other court was wrong."
+                },
+                {
+                    "start": 2709.862,
+                    "stop": 2771.935,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, that's correct, and I think that again the Fifth Circuit was well aware of the effect of its order, effect of the bankruptcy... aware that its order did conflict with the bankruptcy court's order, and was delicate in its language saying, no, you don't have the power to do this. I do want to emphasize that, to the extent that the order could be connected in any way with the adversary proceedings, to the extent that Celotex has a... or claims an interest in the property because of the adversary proceeding, we've said in our brief that we think that would be patently frivolous. I would reiterate that, and add that the bankruptcy... to the extent that the order staying enforcement on bonds generally is an injunctive order, it did not comply with the requirements of Rule 65, there's no showing of a likelihood of success in the avoidance action and Celotex did not even attempt to show a likelihood of success."
+                },
+                {
+                    "start": 2771.935,
+                    "stop": 2798.42,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does that court have jurisdiction? I mean, supposing a court with conceded jurisdiction, say a Federal court with diversity jurisdiction under the statute, issues an injunction which does not comply with Rule 65, and that judgment simply becomes final without any appeal, could the object of the... the person who is constrained by the injunction challenge that collaterally because it violated Rule 65?"
+                },
+                {
+                    "start": 2798.42,
+                    "stop": 2805.324,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that the person could challenge it if it makes no pretense to obey Rule 65, and this does not."
+                },
+                {
+                    "start": 2805.324,
+                    "stop": 2812.244,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in other words, you're saying that if a court does not comply with Rule 65, that deprives it of jurisdiction?"
+                },
+                {
+                    "start": 2812.244,
+                    "stop": 2813.845,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It... the... no, no, Your Honor."
+                },
+                {
+                    "start": 2813.845,
+                    "stop": 2816.131,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That would be an extraordinary departure from our cases."
+                },
+                {
+                    "start": 2816.131,
+                    "stop": 2823.951,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I'm not saying that. I'm saying that if an order that... that... I think there are two different concepts."
+                },
+                {
+                    "start": 2823.951,
+                    "stop": 2825.57,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why don't you answer my question."
+                },
+                {
+                    "start": 2825.57,
+                    "stop": 2844.865,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that no, an order under Rule 65, that's not properly entered under Rule 65, doesn't defeat the court's own jurisdiction, but to the... but that it does make the order unenforceable for another reason, and that is that it's patently frivolous with no pretense to validity, another exception to the collateral attack."
+                },
+                {
+                    "start": 2844.865,
+                    "stop": 2866.314,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but supposing the bankruptcy court has before it a controversy that is not at all patently frivolous... that is, it concededly relates to the bankruptcy... and issues an injunction which doesn't comply with Rule 65, does that mean it can't rely on the subject matter of the controversy before it to sustain jurisdiction, just because the injunction didn't comply with Rule 65?"
+                },
+                {
+                    "start": 2866.314,
+                    "stop": 2905.838,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. That... it's a different issue than the jurisdictional issue. It's a different defect with the order, and that's all I'm saying. There are two defects with the order. To the extent that it's issued under the bankruptcy court's general jurisdiction to supervise a bankruptcy, and deal with product problems related to however tangential the bankrupt's estate, there's no jurisdiction to do that. To the extent that it's related, or attempted to be related, and I'm not even sure if it's argued to be related specifically to the adversary proceeding, then it is... to not comply with the injunction rule is patently frivolous and has no pretense to validity."
+                },
+                {
+                    "start": 2905.838,
+                    "stop": 2920.098,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but don't our cases say that if an injunction's issued in violation of Rule 65 you don't collaterally attack it, you go back to the court that issued the injunction and say, this was wrong because you didn't comply with Rule 65?"
+                },
+                {
+                    "start": 2920.098,
+                    "stop": 2933.156,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, that's true, with the exceptions listed... that is, lack of jurisdiction, or no conceivable... patently frivolous with no pretense to validity."
+                },
+                {
+                    "start": 2933.156,
+                    "stop": 2940.159,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you're splitting those apart? You're saying one is no jurisdiction, the other is, I would say patently frivolous?"
+                },
+                {
+                    "start": 2940.159,
+                    "stop": 2947.265,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. They are distinct bases for attacking orders of any kind, injunctive or otherwise."
+                },
+                {
+                    "start": 2947.265,
+                    "stop": 2960.539,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in other words, an order that is patently frivolous, in your view, and whatever... you haven't defined that... could be collaterally attacked even though the court which entered that order unquestionably had jurisdiction. That's an extraordinary doctrine."
+                },
+                {
+                    "start": 2960.539,
+                    "stop": 2962.341,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But it is a doctrine of this Court."
+                },
+                {
+                    "start": 2962.341,
+                    "stop": 2964.71,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What case is it based on?"
+                },
+                {
+                    "start": 2964.71,
+                    "stop": 2971.281,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Walker v. City of Birmingham recognizes that as an exception to the effective injunctive orders."
+                },
+                {
+                    "start": 2971.281,
+                    "stop": 2994.229,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're saying, I take it, that a bankruptcy court that unquestionably has jurisdiction over the parties before it does not have to be obeyed by the district court who is entertaining the case of United States v. Nixon should that court happen to issue an injunction relating to that case, which has no conceivable relationship, even though the court has jurisdiction over the parties?"
+                },
+                {
+                    "start": 2994.229,
+                    "stop": 2997.431,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. If I understand the hypothetical, I think, yes."
+                },
+                {
+                    "start": 2997.431,
+                    "stop": 3054.899,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not trying to trick you. [Laughter] What I don't understand, though, about your position, is this. If it had been your contention that there's no way in which Northbrook would not be entitled to retain the collateral after it pays the bond, then... then I might go along with you, but you are not making that argument. You are perfectly willing to entertain the possibility that Northbrook will pay the bond and then get left high and dry at the other end of the transaction by not being able to retain its collateral. It seems to me that the whole purpose of this provision that enables the bankruptcy court to have jurisdiction over all proceedings related to cases is to prevent just that kind of thing from happening, to prevent inconsistent determinations by courts with respect to the same matter."
+                },
+                {
+                    "start": 3054.899,
+                    "stop": 3079.63,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Perhaps I didn't understand your earlier hypothetical as well as I should have. The... if you were asking, does Northbrook have a right to retain the collateral, I think the answer to that is clearly yes, Celotex has lost its property interest in that. If your question is, does the retention of the collateral that Celotex posted affect Celotex's estate, I think yes, this is property that--"
+                },
+                {
+                    "start": 3079.63,
+                    "stop": 3100.11,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is the answer clearly yes? It's a transfer. The collateral was transferred within the preference period, or it could be attacked as fraudulent of other creditors. I don't understand why that's so clear. The transfer of the collateral, which I take it was... these are claims that Celotex had against its own insurer?"
+                },
+                {
+                    "start": 3100.11,
+                    "stop": 3100.793,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 3100.793,
+                    "stop": 3115.97,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was what the collateral was, and if the transfer occurred within the preference period or could otherwise be... could be characterized as fraudulent, then why isn't that a valid claim?"
+                },
+                {
+                    "start": 3115.97,
+                    "stop": 3120.857,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That... that is true. That certainly isn't the situation here, and that's why I think--"
+                },
+                {
+                    "start": 3120.857,
+                    "stop": 3130.963,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought Mr. Warren said that's exactly what the situation was, that they were attacking the transfer from Celotex to the insurer as either preferential or fraudulent."
+                },
+                {
+                    "start": 3130.963,
+                    "stop": 3166.386,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Oh, I'm sorry, yes. That is... they are attacking that. That attack has no validity whatsoever. This bond was posted well in excess of the fraudulent... I mean, I'm sorry, the preference period, well in excess of the statutory period for avoiding constructively fraudulent transfers under section 548, and was done for purposes of satisfying or securing an antecedent debt which is expressly said to be not a fraudulent transfer."
+                },
+                {
+                    "start": 3166.386,
+                    "stop": 3177.027,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I asked you earlier whether you were making any of those arguments that in fact there's no colorable basis for saying that Northbrook doesn't own this collateral, and you said no, that's not the argument you're making."
+                },
+                {
+                    "start": 3177.027,
+                    "stop": 3201.725,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor, I think that I... as I understood your question, it was, does the retention of collateral affect Celotex, because we were dealing with the broad jurisdictional question under 1334(b), and I said yes, I think the retention of collateral affects Celotex certainly more directly than our claim against Northbrook, but no, I do not think the transfer could colorably be attacked. I think it defies--"
+                },
+                {
+                    "start": 3201.725,
+                    "stop": 3212.698,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does Northbrook agree with you? This is a stakeholder that says, I don't care who gets paid, I don't want to have to pay twice. So we're hearing from you to say that they don't have any problem, Northbrook--"
+                },
+                {
+                    "start": 3212.698,
+                    "stop": 3227.338,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--My understanding of Northbrook's position is they've opposed the... they've defended the avoidance action in Florida and in fact characterized the bankruptcy court's injunction or stay order in this case as novel, which I think is strong language from an insurance--"
+                },
+                {
+                    "start": 3227.338,
+                    "stop": 3239.562,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--That's quite different from saying they haven't got a colorable basis for the claim, that there is no... in the bankruptcy court there's no colorable basis to set aside the transfer to the insurer."
+                },
+                {
+                    "start": 3239.562,
+                    "stop": 3267.344,
+                    "speaker": {
+                        "name": "Brent M. Rosenthal",
+                        "ID": 17985,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, but I would, Your Honor. I say that there is no colorable basis. To say that a party a year before, or more than a year before a bankruptcy, that pays a debt, pays a judgment, or secures a judgment through a supersedeas bond, has committed or performed a fraudulent transfer, is an Alice-in-Wonderland concept, and I submit that it's absolutely not colorable. Thank you, Your Honor."
+                },
+                {
+                    "start": 3267.344,
+                    "stop": 3276.652,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Rosenthal. Mr. Warren, you have 2 minutes remaining."
+                }
+            ],
+            "start": 3276.652,
+            "stop": 3301.483
+        }
+    ]
+}

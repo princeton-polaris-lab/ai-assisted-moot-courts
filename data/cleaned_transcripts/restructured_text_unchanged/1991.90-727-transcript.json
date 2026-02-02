@@ -1,0 +1,2162 @@
+{
+    "title": "Holmes v. Securities Investor Protection Corporation",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 12.891,
+                    "stop": 53.718,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Chief Justice, and may it please the Court: The question this case presents is whether a party, which was neither a purchaser nor seller of securities, and for that reason lacks standing to sue for securities fraud under the Exchange Act, section 10(b) and rule 10b-5, may nevertheless sue for the same conduct... security-based fraud in the sale of securities... as a predicate act of racketeering activity under RICO. In order to answer this question, the Court will be called upon to construe section 1964--"
+                },
+                {
+                    "start": 53.718,
+                    "stop": 55.418,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you say predicate act?"
+                },
+                {
+                    "start": 55.418,
+                    "stop": 57.92,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, a predicate act of racketeering activity."
+                },
+                {
+                    "start": 57.92,
+                    "stop": 60.705,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not a predicate crime, is that it?"
+                },
+                {
+                    "start": 60.705,
+                    "stop": 62.705,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think they're pretty much--"
+                },
+                {
+                    "start": 62.705,
+                    "stop": 65.239,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or a predicate violation of law?"
+                },
+                {
+                    "start": 65.239,
+                    "stop": 80.35,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I would prefer the term \"predicate act\" because it's neutral. As you'll see in my argument, I don't think necessarily all of these things are crimes, although I believe the overwhelming import in the criminal portion of RICO is to delineate crimes. I think when we're talking about--"
+                },
+                {
+                    "start": 80.35,
+                    "stop": 80.533,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "This is civil?"
+                },
+                {
+                    "start": 80.533,
+                    "stop": 101.013,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--civil RICO, we're not speaking about crimes. I think we're speaking about a crime only in so far as it a... as it is a component of an element of a civil cause of action. I think it makes a difference, and I'll try to get to that. But I do agree that RICO is a criminal act, and that it purports to delineate crimes, but it also purports to delineate acts more generally."
+                },
+                {
+                    "start": 101.013,
+                    "stop": 112.469,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah, but you're going to be... I suppose you're going to be arguing that if this conduct wasn't a violation of the securities law, it can't be a predicate act."
+                },
+                {
+                    "start": 112.469,
+                    "stop": 114.188,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You're absolutely correct. That is exactly--"
+                },
+                {
+                    "start": 114.188,
+                    "stop": 119.975,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But aren't you arguing then that the act has to be a violation of the securities law?"
+                },
+                {
+                    "start": 119.975,
+                    "stop": 123.26,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The act... well, there are different schools of thought as to what--"
+                },
+                {
+                    "start": 123.26,
+                    "stop": 124.96,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you go ahead. I'm sorry I interrupted."
+                },
+                {
+                    "start": 124.96,
+                    "stop": 187.832,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, there are different schools of thought as to exactly what the nature of the conduct is that defines the RICO predicate acts. In any event, this Court will be called upon to construe the following three key phrases. Section 1964(c) states, any person injured in his business or property... and the Court will be called upon to construe the meaning of \"injured in his business or property. \" --by reason of... and the Court will be called upon to construe the meaning of the phrase 1962. And that, Justice White, gets into your question about what is a violation of 1962. I think the RICO Act means 1962 defines certain wrongful acts or crimes, whatever you like, and it then incorporates... it says you cannot commit a pattern of racketeering activity with respect to these crimes or acts. And then the definition of racketeering activity in section 1961 lists about 36 crimes or acts, and one of them is fraud in the sale of securities. That's the one we'll be talking about today."
+                },
+                {
+                    "start": 187.832,
+                    "stop": 189.182,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just interrupt there?"
+                },
+                {
+                    "start": 189.182,
+                    "stop": 189.365,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure."
+                },
+                {
+                    "start": 189.365,
+                    "stop": 197.416,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you not assume for purpose of your argument that such a fraud actually occurred, that there was a predicate act. You just challenge the causal connection between it and your client."
+                },
+                {
+                    "start": 197.416,
+                    "stop": 206.522,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I must assume it in this posture of the case because we're here on a motion for summary judgment. At trial we'll contest it, but I do agree that for purpose of this argument we assume there was a fraud because it--"
+                },
+                {
+                    "start": 206.522,
+                    "stop": 208.522,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And therefore... and also a predicate act."
+                },
+                {
+                    "start": 208.522,
+                    "stop": 215.961,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, no, I think not. Because there was no standing. I think, absent standing, there--"
+                },
+                {
+                    "start": 215.961,
+                    "stop": 218.194,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but standing doesn't affect whether the act occurred, does it? Because... it affects whether--"
+                },
+                {
+                    "start": 218.194,
+                    "stop": 221.163,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think it does the way... I'm sorry. Go ahead."
+                },
+                {
+                    "start": 221.163,
+                    "stop": 238.256,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, I can understand your argument that there's no standing here, no causal connection and all, but if the violation of 10b occurred, and that's a predicate act within the statute, I don't understand why you don't concede there was a predicate act, but merely argue that it didn't have the necessary causal connection."
+                },
+                {
+                    "start": 238.256,
+                    "stop": 248.528,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because I think... well, I do make those additional arguments, but I think standing is an element of the cause of the civil cause of action, which is what I think RICO intends to incorporate when it talks about fraud in the sale of securities."
+                },
+                {
+                    "start": 248.528,
+                    "stop": 254.063,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think Blue Chip holds that in 10b-5, that there's no 10b-5 violation at all?"
+                },
+                {
+                    "start": 254.063,
+                    "stop": 284.463,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, but I think that the Blue Chip means that there's no 10b violation for which anyone can sue if there's no standing. And RICO is intended, I believe, to incorporate the wisdom of Blue Chip. So I think they are related to each other. I think... I think that the restatement of the question here essentially is, is the Securities Investor Protection Corporation, SIPC, a person or a party that was injured by reason of this alleged fraud in the sale of securities."
+                },
+                {
+                    "start": 284.463,
+                    "stop": 295.354,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't it agreed that SIPC is simply here standing in the shoes of investors who themselves could not have met the Birnbaum test?"
+                },
+                {
+                    "start": 295.354,
+                    "stop": 388.153,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not at all, Your Honor. Not at all, Chief Justice. For the reason that I believe that the record shows and the law is that SIPC is not subrogated to any of those claims. There are two... SIPC essentially paid out money to two categories of investors, people who were customers of the failed brokerage firm. They paid out money to investors who bought and sold the allegedly manipulated securities, and they paid out money to people who didn't. Now, as to the people who did buy and sell the allegedly manipulated securities, they commenced a class action. It was settled. They got their recovery. So SIPC can't be subrogated to their claim, because it's already been exercised. As to the people who didn't buy or sell the allegedly manipulated securities, SIPC can't be subrogated to their claim because they, like SIPC, are too remote from the event to have a claim in the first place. Furthermore, the Ninth Circuit held that the only way SIPC can acquire a subrogation right... and this is in an earlier case. This is the third time this case has reached the Ninth Circuit. In an earlier case, which is in the record, the Ninth Circuit held that SIPC is subrogated to any fraud claims if and only if the brokers who SIPC came in to pay out exercised unauthorized use of customer funds to buy the manipulated securities. That didn't happen. Discovery has established that didn't happen, so there's no fraud claim for SIPC to be subrogated to. And therefore, SIPC cannot come here as a subrogee. We must look at SIPC only as SIPC and ensure, if you will, that paid out monies, and not as a subrogee, because there is no subrogation. In addition, Your Honor... I'm sorry, Chief Justice--"
+                },
+                {
+                    "start": 388.153,
+                    "stop": 388.986,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I interrupt for... right there?"
+                },
+                {
+                    "start": 388.986,
+                    "stop": 389.153,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Sure."
+                },
+                {
+                    "start": 389.153,
+                    "stop": 405.246,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As to the category of customers who purchased or sold the manipulated securities, and who had their own class action and recovered some of their own money, did that recovery not reduce the obligation of SIPC to pay to them their losses?"
+                },
+                {
+                    "start": 405.246,
+                    "stop": 407.062,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think it worked that way. It probably should have--"
+                },
+                {
+                    "start": 407.062,
+                    "stop": 408.531,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So they got a double recovery, in effect?"
+                },
+                {
+                    "start": 408.531,
+                    "stop": 418.551,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's the problem. That's... you have hit, Justice Stevens, on exactly the problem of allowing SIPC a recovery here. There would be a double recovery, and since it's RICO, it would be a sextuple recovery."
+                },
+                {
+                    "start": 418.551,
+                    "stop": 446.618,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we didn't grant certiorari to review SIPC's separate standing. We thought we were taking a case that simply involved a question of, for instance, posed in section 2 of the questions presented, whether a person has standing under RICO when they wouldn't have if they were just going under a straight Securities Act claim. Why do we need to get into all of these ramifications of what SIPC did or didn't do?"
+                },
+                {
+                    "start": 446.618,
+                    "stop": 475.767,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think you do. SIPC's brief raises them, and therefore, I'm responding to the questions from the Court and anticipating them in SIPC's position. But I will tell you, totally apart from the uniqueness of SIPC... and I agree, that's not the larger, more interesting question. The larger, more interesting question is do we have... you're looking at SIPC as SIPC, not as a subrogee... do we have a situation in which SIPC was injured by reason of the alleged violation. And I'd like to get into the facts and show why I think we do not have such a situation."
+                },
+                {
+                    "start": 475.767,
+                    "stop": 502.632,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let me just ask you one question. I think it's related to what we've granted certiorari. Supposing there had been no lawsuit by the customers of these firms that had purchased and sold securities, that they lost their money when the brokerage firm went bankrupt. And the amount paid by SIPC to them was precisely the amount that they lost in making purchases and sales of the manipulated securities. Would you say, then, that there was no standing on the part of SIPC to reimburse?"
+                },
+                {
+                    "start": 502.632,
+                    "stop": 515.239,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. If in fact it was a valid subrogation to people who had a claim, who were themselves purchasers and seilers of securities, there would be a... there would be standing, and I wouldn't be able to make the argument I'm making. I'm making the argument--"
+                },
+                {
+                    "start": 515.239,
+                    "stop": 527.13,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So doesn't our answer in this case depend on the extent to which there is subrogation of claims of purchasers or... the extent to which SIPC reimbursed persons who had valid claims?"
+                },
+                {
+                    "start": 527.13,
+                    "stop": 595.839,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Unfortunately, in part, it does. This is not a case that purely raises the purchaser-seller issue. It does raise these related questions of who SIPC is and what it did. But I'm trying to address, and I think the Court is most interested in, the pure question. Unfortunately, the question of less general interest comes from this record and cannot be avoided. But discussing the pure general question of do we have here... is SIPC, in its own capacity, a purchaser or seller of securities, which it clearly was not, and therefore, does it have standing, I'd like to ask the Court to look at the key phrases in RICO. First, \"the injured in his business or property. \" phrase. What that has come to mean in the decisions of this Court and other courts is essentially that a person must be directly injured in their business or property. If, for example, a corporation is the target of a racketeering act, a shareholder cannot sue for injury to the corporation because the shareholder was not the direct victim; the corporation was. Cases have held that if a union is the target of racketeering activity, the union member may not sue for RICO because it was not the directly injured victim; the union was. Well, here--"
+                },
+                {
+                    "start": 595.839,
+                    "stop": 602.326,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that argument is the same whether or not it's a securities violation, which is the alleged predicate act, or any other violation?"
+                },
+                {
+                    "start": 602.326,
+                    "stop": 626.535,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely. That's absolutely correct. And here... indeed, I think the purchase of seller implication in the doctrine of standing comes directly from the general principals of RICO. You don't have to focus on securities law to reach the same conclusion. I completely agree with you, Justice Kennedy, that looking at the general concept of RICO, SIPC here is not a person who was directly injured. The direct victims--"
+                },
+                {
+                    "start": 626.535,
+                    "stop": 641.545,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your argument depends on our looking first to find out in what capacity SIPC brought the suit, whether it was subrogee for purchasers of manipulated securities or something else."
+                },
+                {
+                    "start": 641.545,
+                    "stop": 776.464,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It doesn't matter, Justice O'Connor. You reach the same result either way because, on this record, there is nothing for SIPC to be subrogated to, and therefore, this Court is faced with a pure question. If there were a viable argument that SIPC is subrogated to a claim, then you could go off on a subrogation issue. But there isn't. SIPC isn't subrogated to anything. I'm addressing that because SIPC talks about it. But if one accepts the notion that SIPC isn't subrogated to anything, then one reaches the general question. And I think that's this case. I think SIPC is subrogated to nothing, and we reach the general question. And the general question... the first proposition on the general question is that we do not have a party that was directly injured. SIPC was not directly injured. If there were direct victims, it were the purchasers and sellers of these allegedly manipulated securities, not SIPC. The second important point, I believe, is that any injury to SIPC was not by reason of the alleged fraud in... of the sale of securities. And what I mean by that is that this Court has said in Sedima, SIPC paying out money. Here there were many, many intervening events. The harm complained of operated on the purchasers and sellers of securities. Now, in addition, for that to happen, it had to be the case that these two brokerage firms took a large position in the allegedly manipulated securities. And it had to be the case that the brokerage firms were otherwise in precarious financial condition, and therefore, taking this position and these securities caused their financial demise. It had to be the case that SIPC comes in and says, well, let's make the failure of these brokerage firms subject to SIPA. And it had to be the case that the composition of the assets of the defunct brokerage firms was such that they could not pay out or simply give to the customers of the brokerage firms their securities. All of those events, none of which were intended or foreseen by the persons that allegedly committed the securities fraud, had to occur before SIPC would sustain the loss that it sustained. This is causation run rampant, attenuated causation, the kind of speculation in causation that goes way beyond the bounds of proximate cause and should not be tolerated."
+                },
+                {
+                    "start": 776.464,
+                    "stop": 794.407,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Samet-- --May I interrupt there? You've put in an awful lot of events. Supposing that all that was involved is that the brokerage firm itself had taken a large position in manipulated securities and there... and that was the only thing that caused it to fail. And as a result of the failure, SIPC had to pay a lot of money to its customers."
+                },
+                {
+                    "start": 794.407,
+                    "stop": 822.807,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we have an even clearer case here because the brokerage firm... the trustees of the brokerage firm are themselves parties to the action, the brokerage firm did take a position in the securities, and we're not challenging the trustees' standing. We're challenging SIPC's standing. So I agree with the implication of your question that if the brokerage firm was itself a purchaser or seller, we wouldn't have the argument we have. But it's SIPC that's coming in, and they're not a purchaser or seller, and therefore, we have the argument on standing that we wouldn't if the brokerage firm were the only plaintiff, or the trustees were the only plaintiffs."
+                },
+                {
+                    "start": 822.807,
+                    "stop": 840.519,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm still not sure what your answer is. If the record showed that the only reason the firm failed was because it made purchases of the manipulated securities, and that's the only reason SIPC paid any money to the firm, would there be sufficient direct causation?"
+                },
+                {
+                    "start": 840.519,
+                    "stop": 843.252,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That would be a closer, harder question. It's not the question we now have--"
+                },
+                {
+                    "start": 843.252,
+                    "stop": 844.668,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what's the answer to that question?"
+                },
+                {
+                    "start": 844.668,
+                    "stop": 846.335,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, that's the one you don't have to write an opinion on. I would--"
+                },
+                {
+                    "start": 846.335,
+                    "stop": 850.204,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but I think you're general approach to it might decide that case."
+                },
+                {
+                    "start": 850.204,
+                    "stop": 851.187,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think so."
+                },
+                {
+                    "start": 851.187,
+                    "stop": 857.424,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because you said, as I understand you, that unless SIPC itself were a purchaser or seller of securities, it has no RICO claim."
+                },
+                {
+                    "start": 857.424,
+                    "stop": 867.797,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think the logic of the general approach, and I agree you presented a tougher case than the one we have here today, but the logic of the general approach is that if you ain't a purchaser or seller, you ain't got standing."
+                },
+                {
+                    "start": 867.797,
+                    "stop": 873.35,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm surprised you found that a hard question, Mr. Samet. I... given your approach, I would think that's an easy question."
+                },
+                {
+                    "start": 873.35,
+                    "stop": 877.635,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think any question this Court poses, I recognize is a hard question."
+                },
+                {
+                    "start": 877.635,
+                    "stop": 883.539,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, unless you think that somehow, simply because you are a but for... a but-for cause is a direct cause."
+                },
+                {
+                    "start": 883.539,
+                    "stop": 885.408,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, a but-for cause is not a--"
+                },
+                {
+                    "start": 885.408,
+                    "stop": 892.145,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All that the question showed is a clear but-for cause. Is there no difference between a but-for cause and a direct cause?"
+                },
+                {
+                    "start": 892.145,
+                    "stop": 895.597,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, are you using direct cause in the sense of proximate cause or not in your question?"
+                },
+                {
+                    "start": 895.597,
+                    "stop": 899.899,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's the way you're using it, isn't it? I'm using it the way you're using it. I thought you meant proximate cause."
+                },
+                {
+                    "start": 899.899,
+                    "stop": 900.065,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I do."
+                },
+                {
+                    "start": 900.065,
+                    "stop": 903.017,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, one could be a but-for cause without being a proximate cause."
+                },
+                {
+                    "start": 903.017,
+                    "stop": 904.583,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely. And that's what we have--"
+                },
+                {
+                    "start": 904.583,
+                    "stop": 905.217,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So then why was it a hard question?"
+                },
+                {
+                    "start": 905.217,
+                    "stop": 910.504,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's what we... as I say, I'm trying to be polite and respectful. I think I've answered the question, I didn't find it that hard to do."
+                },
+                {
+                    "start": 910.504,
+                    "stop": 911.471,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "xxx anyway."
+                },
+                {
+                    "start": 911.471,
+                    "stop": 916.325,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Maybe it wasn't that hard, but in any event--"
+                },
+                {
+                    "start": 916.325,
+                    "stop": 918.71,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then again, what is the answer? [Laughter]"
+                },
+                {
+                    "start": 918.71,
+                    "stop": 936.801,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The answer is, in my view, if you are not a purchaser or seller you are not causally connected, proximate cause, by reason of the alleged harm. That's my answer. But again, I can see where you're coming from, and I think I can--"
+                },
+                {
+                    "start": 936.801,
+                    "stop": 942.586,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even though... even though but for the illegal conduct, the SIPC would not have had to pay any money."
+                },
+                {
+                    "start": 942.586,
+                    "stop": 965.2,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. And that's Justice Scalia... that's the point in Justice Scalia's question. There's a difference between but-for causation and proximate causation, and I do want to be clear about that, if I wasn't clear about anything else. But-for causation is not enough to establish the by reason of requirement to be satisfied. It's got to be proximate causation. I don't think there is proximate causation if you're not a purchaser or seller of securities. I don't think you can get that causal connection."
+                },
+                {
+                    "start": 965.2,
+                    "stop": 973.621,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now what if the predicate acts relied on are wire fraud or mail fraud? Does that alter the analysis in some way?"
+                },
+                {
+                    "start": 973.621,
+                    "stop": 989.983,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm very glad you raised that question. I don't think it alters the analysis at all. And indeed, what has happened in litigation generally, and in this litigation, is people with a simple turn of phrase... and that's what SIPC did in this complaint, they pled alternatively securities fraud and/or wire and mail fraud. But the analysis is exactly the same."
+                },
+                {
+                    "start": 989.983,
+                    "stop": 997.719,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, of course, for wire fraud or for mail fraud, do you still have to... you say there still has to be a purchaser or seller?"
+                },
+                {
+                    "start": 997.719,
+                    "stop": 1020.268,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, for the reason that the provisions of 1964(c), the requirement that injury be to a person's business or property, meaning direct injury, and that the injury be by reason of, meaning proximate causal connection, those two requirements come from 1964(c), which applies to all predicate acts. And therefore, they apply whether you're talking wire/mail fraud, or whether you're talking securities fraud."
+                },
+                {
+                    "start": 1020.268,
+                    "stop": 1029.691,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then as presented so far, your argument doesn't depend on our opinion in Blue Chip Stamps. It's an interpretation of the RICO section itself."
+                },
+                {
+                    "start": 1029.691,
+                    "stop": 1036.678,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's absolutely true, Mr. Chief Justice, but you were correct in saying as presented so far. I've not gotten to the point yet, as I'm about to, to discuss Blue Chip."
+                },
+                {
+                    "start": 1036.678,
+                    "stop": 1038.361,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're getting to the third point, are you?"
+                },
+                {
+                    "start": 1038.361,
+                    "stop": 1041.896,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I've got at least three, yes. Three, and I'll go more if I'm permitted."
+                },
+                {
+                    "start": 1041.896,
+                    "stop": 1044.265,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You might think of more on the way, is that it?"
+                },
+                {
+                    "start": 1044.265,
+                    "stop": 1046.117,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I will keep going as long as I can."
+                },
+                {
+                    "start": 1046.117,
+                    "stop": 1049.583,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Well, anyway, you've gotten... you've got through two of them."
+                },
+                {
+                    "start": 1049.583,
+                    "stop": 1257.029,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. And the third... the third one has to do with in effect, Blue Chip, and that is this: that the RICO predicate act is defined as fraud in the sale of securities. And that's a very interesting definition of a predicate act, it contrasts with the other predicate acts in the statute. All the other predicate acts define crimes as crimes, for example, murder, kidnappings, State crimes... and also Federal crimes by citation to Federal statutes. If there was going to be a parallel incorporation of a securities crime, it should have said, for example, any violation of section 32 of the Securities Exchange Act, which is what criminalizes securities law violations. It doesn't say that. It says something much more narrow. It says fraud in the sale of securities. It also doesn't say any fraud in connection with securities. That would be fraud. But no, this predicate act is more narrowly drafted. Fraud in the sale of securities. That makes the concept of sale central. And that brings us, in my view, to the Chief Justice's excellent opinion when he was an associate justice in Blue Chip Stamp, which spoke about what the requirements were for standing with respect to fraud in the sale of securities. And those principles... that decision in 1975, was based upon, and involved from a principal of law back in the Birnbaum case, dating back to 1952, a Second Circuit case. And those principles were accepted ever since 1952, even earlier, really. They've existed in securities law for 40 years, and when RICO was passed in 1970, Congress reflected no intention to overrule, subvert, circumvent, do away with, existing securities laws, principles, and decisions. And so that standing limitation that comes from Blue Chip should be carried forward when looking at RICO. And RICO talks about fraud in the sale of securities because that's a piece of learning, basic learning, about what fraud in the sale of securities is and involved, and it's a settled, litigated matter at the Supreme Court level, that is a decision that there was no objection to at all anywhere in the congressional history of RICO. So it seems to me we have here all but an incorporation by reference in the listing of predicate acts of this decision in Blue Chip, and the whole developed notions of securities law and standing surrounding it. And they carry with it certain principles of standing. Congress didn't intend to overrule those principles. They should be carried forward into RICO when RICO incorporates fraud in the sale of securities as a predicate act. So those are the principal reasons why I think essentially we have a situation where the very language of section 1964(c) in its three component parts, \"injured in his business or property. \" RICO either because of the way RICO was drafted or because of what RICO incorporates by reference. But either way, one reaches the same result. Now, there are a couple of arguments that I've seen in SIPC's brief, and I'm sure that the Court has looked at them and has considered them, and I'd like to comment on them for a moment. One has to do with the principle of broad construction. SIPC says RICO is to be construed broadly. True enough. RICO is to be construed broadly. But broad construction does not mean construction in contradiction of the plain meaning of the words of the statute. And what we are arguing here--"
+                },
+                {
+                    "start": 1257.029,
+                    "stop": 1261.999,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why is RICO to be construed broadly? Is that something this Court has said?"
+                },
+                {
+                    "start": 1261.999,
+                    "stop": 1263.516,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--This statute says it."
+                },
+                {
+                    "start": 1263.516,
+                    "stop": 1264.618,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The statute says it."
+                },
+                {
+                    "start": 1264.618,
+                    "stop": 1276.14,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The statute says it. And also, I think that this Court has managed to decide cases by not viewing the statutory mandate to construe RICO broadly as central to this Court's decision. I think that's a correct approach. I don't think--"
+                },
+                {
+                    "start": 1276.14,
+                    "stop": 1276.707,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What does the statute say?"
+                },
+                {
+                    "start": 1276.707,
+                    "stop": 1458.766,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The statute at some point says... I don't have the section offhand... says that RICO is to be construed liberally to effectuate its remedial purposes. That's in the RICO statute. That's a statutory mandate. I don't think that statutory mandate need or should govern or even applies to your decision, but SIPC thinks it does. It's in their brief, so I'm raising it to talk about. I think that all \"broad meaning\" means is that you should look at the plain meaning of the words, apply them fairly. And when one does that here, one reaches a conclusion, I believe, that there's no standing. So I don't think the requirement that RICO be construed broadly, if it is a requirement, need dictate your decision. The second argument that SIPC has raised, which I think should not persuade this Court... and I'd like to deal with it just to be sure, if there are any questions on it... has to do with the express and implied limitation or differentiation. SIPC says, pointing back to the Blue Chip decision... which SIPC... by the way, SIPC doesn't even recognize it's bound by Blue Chip. In one of it's footnotes, SIPC suggests that Blue Chip, unfortunately precludes SIPC from recovering. Blue Chip... it's not unfortunate, it's correct law. But in any event, Blue Chip evolved from section 10(b) and rule 10b-5, and judicially implied causes of action. RICO, of course, is express. The Ninth Circuit and SIPC have tended to put significance of that and have said that because RICO is express and Blue Chip is dealing with implied remedy, somehow the construction of them should be different, or the construction of RICO should be more broad because one is dealing with an express statute. But if one looks at what it is that's expressed in 1964(c), what the express... statute expresses, it has the very limitations on it that we are arguing for... namely, that the injury must be by reason of, and it must be injury to the business or property of the claimant. Now there is another aspect of the case, which again is unique to SIPC, does not involve the general principal, but I think it needs to be address only because I think this Court should deal with the general principal, and it would be unfortunate... unfortunate, I think, for the case law in general... if the Court focuses only on the nature of SIPC, so I would like to briefly address that for a second. Because SIPC argues that they have a special status, and somehow, whatever the general rule is should not apply to them. That's in SIPC's brief. I'd like to make clear, in the event it isn't already so, that SIPC is not a Government agency, that SIPC is not a successor in interest to the brokerage firm. That's the trustees. And the trustee standing is undisputed. They've got standing. They're in the case. That SIPC is not an agency trained in prosecutorial discretion. SIPC is not the Department of Justice; SIPC is not the Securities and Exchange Commission. Though SIPC is statutorily mandated, it is essentially mandated, it is a private system of mandatory assessments against securities brokerage firms. So I don't think that SIPC deserves that the special status that would be accorded the Department of Justice in a criminal prosecution. This isn't the Department of Justice; it isn't the criminal prosecution."
+                },
+                {
+                    "start": 1458.766,
+                    "stop": 1472.21,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you tell me whether the record shows the extent to which SIPC... when it makes payments like they made here, some, I don't know, $ 12, 000, 000 or whatever it was... to what extent are they subrogated to the rights of the person to whom they made the payment? Does the record tell us?"
+                },
+                {
+                    "start": 1472.21,
+                    "stop": 1493.752,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's a matter of dispute. I would say that we could look at the record and argue about it. But SIPC would say that they are subrogated. We would say that they are subrogated only to claims against the brokers and not necessarily to all third-party claims. And we would say the Ninth Circuit said in this case that they're not subrogated to claims against... to fraud claims against third parties. And SIPC did not appeal that determination."
+                },
+                {
+                    "start": 1493.752,
+                    "stop": 1495.835,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you would take the position they're not subrogated."
+                },
+                {
+                    "start": 1495.835,
+                    "stop": 1496.251,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1496.251,
+                    "stop": 1501.203,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It would seem to me it would help you to take the position they were subrogated in order to avoid your client's risk of double recovery."
+                },
+                {
+                    "start": 1501.203,
+                    "stop": 1510.975,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, I think if I take the position they're subrogated, then maybe they can... they can acquire the claim of a purchaser of seller. If I take the position they're not subrogated, they can't get near a purchaser or seller."
+                },
+                {
+                    "start": 1510.975,
+                    "stop": 1515.394,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but the purchaser or seller's going to sue. Well, I don't understand. I'm sorry."
+                },
+                {
+                    "start": 1515.394,
+                    "stop": 1519.497,
+                    "speaker": {
+                        "name": "Jack I. Samet",
+                        "ID": 32959,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorrier. Thank you. I'd like to reserve my remaining time for rebuttal."
+                },
+                {
+                    "start": 1519.497,
+                    "stop": 1522.097,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Samet. Mr. Blakey, we'll hear from you."
+                }
+            ],
+            "start": 12.891,
+            "stop": 1599.449
+        },
+        {
+            "turns": [
+                {
+                    "start": 1522.097,
+                    "stop": 1599.449,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Chief Justice Rehnquist, may it please the Court. Must every person injured in his business or property by reason of a violation of the Racketeer Influenced and Corrupt Organizations Act, when the predicate offenses are securities fraud, mail fraud, and wire fraud, be a purchaser and seller... or seller to have a claim for relief? Mr. Holmes says yes. Securities Investor Protection Corporation says no. SIPC's arguments may be summarized in three words and three short paragraphs: text, text, text. RICO expressly incorporates by reference the express criminal provisions of the Securities and Exchange Act of 1934. It does not incorporate the '34 act's judicially implied civil claim for relief. As such, the purchaser-seller limitations on the implied private enforcement mechanism of the 1934 act, recognized by this Court in 1975 in Blue Chip, are simply not relevant under RICO's expressed private enforcement act."
+                },
+                {
+                    "start": 1599.449,
+                    "stop": 1617.125,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there some questions, though, about how direct the injury must be for purposes of a RICO claim? There's some discussion of that in some lower court cases, I take it, dealing with shareholders of corporations and union members and the like."
+                },
+                {
+                    "start": 1617.125,
+                    "stop": 1633.468,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There is indeed. The phrase \"injured in his business or property. \" has been understood... and properly, I think... in the context of corporations to exclude shareholders, in the context of unions to exclude members, in the context of counties to exclude taxpayers."
+                },
+                {
+                    "start": 1633.468,
+                    "stop": 1641.656,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the argument is made here that SIPC similarly stands in an indirect relationship to this claim."
+                },
+                {
+                    "start": 1641.656,
+                    "stop": 1675.062,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, if the relationship between a broker and his customers, which is the relationship we deal here, has as its best common law analogue, bailor-bailee, and the classic position has been between bailor-bailee, that either has the ability to sue for injury to the property. I would suggest to you, Justice O'Connor, however, that this relationship is not the common law relationship of bailor-bailee, but the peculiarly statutory relationship of a customer and a broker-dealer."
+                },
+                {
+                    "start": 1675.062,
+                    "stop": 1696.475,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you explain to me, if you would, please, the capacity in which SIPC's suit is before us here? Are you subrogated? Is SIPC suing as a subrogee of anybody who had bought manipulated securities?"
+                },
+                {
+                    "start": 1696.475,
+                    "stop": 1721.608,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is suing in several capacities for several claims. It is not suing for, at this time, as a subrogee of any of the customers that had a purchaser-seller 10b-5 claim. That's a separate claim and a separate cause of action. And this record indicates that SIPC was unable to show that any of the customers on behalf... it's speaking--"
+                },
+                {
+                    "start": 1721.608,
+                    "stop": 1723.477,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you still won the case."
+                },
+                {
+                    "start": 1723.477,
+                    "stop": 1775.077,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We still won the case, Justice White, because we are suing as a subrogee of customers who were not purchaser-sellers. And under the peculiar provisions of SIPA, we are a real party in entrance in all matters growing out of liquidations, and thus, we have a... are entitled to be heard for all claims that can be asserted by the trustee. And we are, in addition, subrogated to the trustees' claims insofar as we have paid him or advanced him money. So we are here, not in our own right. We do not stand in our own shoes; we stand in the shoes of customers who are not purchaser-seller, who were nonetheless injured. And we stand in parallel shoes, statutorily, with the trustee itself."
+                },
+                {
+                    "start": 1775.077,
+                    "stop": 1777.945,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that the theory of the court of appeals?"
+                },
+                {
+                    "start": 1777.945,
+                    "stop": 1781.147,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, what's happened between--"
+                },
+                {
+                    "start": 1781.147,
+                    "stop": 1782.313,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, was it or not?"
+                },
+                {
+                    "start": 1782.313,
+                    "stop": 1785.599,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. The only issue faced--"
+                },
+                {
+                    "start": 1785.599,
+                    "stop": 1789.384,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What... are you defending the court of appeals rationale?"
+                },
+                {
+                    "start": 1789.384,
+                    "stop": 1790.669,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I am... yes."
+                },
+                {
+                    "start": 1790.669,
+                    "stop": 1794.721,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That isn't the rationale you just stated."
+                },
+                {
+                    "start": 1794.721,
+                    "stop": 1801.542,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice White, I'm... an interesting thing happened between the court of appeals and the Supreme Court."
+                },
+                {
+                    "start": 1801.542,
+                    "stop": 1804.243,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's not strange. [Laughter]"
+                },
+                {
+                    "start": 1804.243,
+                    "stop": 1877.489,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The argument that was presented in the court of appeals was basically an interpretation of the phrase \"any person\". And we took the not unusual position that \"any person\" didn't mean any purchaser and seller. And what's happened between the court of appeals and the Supreme Court is my good friend has moved off to the right a little bit and is trying to get the purchaser-seller limitations in through the back door. Having failed to get it in through any person, he's attempting to insert it in through \"injury to business or property\" or \"by reason of\". And we raised in the brief that this is perhaps not within the petition for cert. Nevertheless, I am perfectly willing to discuss that with the Court since you surely have discretion to hear anything that you want. To the degree that he's challenged my \"in my business or property\" standing, to degrees that he has challenged my \"injury by reason of\", I have felt duty bound to answer those arguments. I need not answer them to support the court of appeals. Nevertheless, the court of appeals is equally supported in its own terms in arguments that I have made here today."
+                },
+                {
+                    "start": 1877.489,
+                    "stop": 1895.284,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you a question at this point? You point out there are three categories of claims: those by the individuals and sellers who are suing on their own, and you're not subrogated as to them; the intermediate non-purchaser or seller-customer claims; and third, the firm claims themselves, where you are subrogated."
+                },
+                {
+                    "start": 1895.284,
+                    "stop": 1896.017,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1896.017,
+                    "stop": 1912.377,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, my question is this. Supposing that the combination of recoveries in the first and third categories exceeds or equals the amount of damage done by the defendants. Are you still entitled to recover something additional for the second category of claims?"
+                },
+                {
+                    "start": 1912.377,
+                    "stop": 1923.315,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I have to kind of go back through and figure it out. The way it works out, there's no double recovery. If the parties themselves... if the purchaser-seller customers recover--"
+                },
+                {
+                    "start": 1923.315,
+                    "stop": 1924.684,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "100 cents on the dollar."
+                },
+                {
+                    "start": 1924.684,
+                    "stop": 1929.052,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--100 cents on a dollar, and we did not reimburse any of them, that takes care--"
+                },
+                {
+                    "start": 1929.052,
+                    "stop": 1930.002,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, so they would not be... okay."
+                },
+                {
+                    "start": 1930.002,
+                    "stop": 1933.037,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's not taking any... take care of--"
+                },
+                {
+                    "start": 1933.037,
+                    "stop": 1937.239,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Then there's a category of nonpurchaser-seller customers whom you did reimburse."
+                },
+                {
+                    "start": 1937.239,
+                    "stop": 1939.089,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. We now stand in their shoes."
+                },
+                {
+                    "start": 1939.089,
+                    "stop": 1950.197,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And assume that the wrongdoers have paid the firm everything it tortiously took from this firm, and the other customers, everything that they lost. Are you still entitled to recover for the--"
+                },
+                {
+                    "start": 1950.197,
+                    "stop": 1952.249,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If everybody has been paid off everything--"
+                },
+                {
+                    "start": 1952.249,
+                    "stop": 1960.854,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, not the category that you've had to reimburse, because they were presumably hurt by other... you know, this is not the sole cause of the failure of this firm."
+                },
+                {
+                    "start": 1960.854,
+                    "stop": 2125.858,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, I think it's really appropriate to talk about how this firm went under. This firm did not go under simply by a fraud in the purchase and sale of security. The underlying challenge here is to have schemed to defraud. And in the scheme to defraud, we had factually a situation where... and maybe I should explain the record here. Mr. Holmes' co-conspirator, Mr. Lugo, took stock out of proprietary account in First State, and moved it into Mr. Holmes' account. And the reason he did that is he would avoid his liquidity crisis that would come from the discount for the stock in the proprietary account. He did that for one purpose and one purpose only, to hide the fact that he had a net capital deficiency. Because he was able to hide the fact that he had a net capital deficiency, he was able to stay in business for a longer period of time. And not only did he go under, and had he not done it, he would have gone under for about $ 700, 000... he... not only he went under, but he took in Sebag in California. He hid that, not from purchaser-sellers. He hid that from the regulatory system. And we are part and parcel of the regulatory system. The scheme to defraud that did in these two broker-dealers is a scheme that transcends fraud on individual purchaser and sellers who were customers. It's a fraud against the broker-dealer and it's a fraud against the regulatory system as well. Let me give it to you as a practical example. Suppose a terrorist group wanted to engage in fundraising activities and they decided to work a life insurance scam involving some of its own members. And they blow up an airplane to collect the life insurance on those two member passengers. Clearly the insurance company, if it pays off, will be subrogated to the estates in their claims. The issue here, though, is whether there is an injury in the business or property and a proximate cause relationship to the injury also done to the other passengers and to the airlines. And that's precisely what we have here. This is not a fraud directed to just some purchasers. It was a fraud that in its scheme took in the broker-dealers and all of the customers who were there. Accordingly, we suggest that there is a... SIPC is a proper party plaintiff to bring it because it stands in--"
+                },
+                {
+                    "start": 2125.858,
+                    "stop": 2131.928,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But as you describe it, let's be sure I understand, as you describe it, I would think my second category would also have a cause of action against these people."
+                },
+                {
+                    "start": 2131.928,
+                    "stop": 2140.868,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Oh, I think they do. I think the other customers have a category and a claim. Interestingly enough, if we've paid them off--"
+                },
+                {
+                    "start": 2140.868,
+                    "stop": 2142.834,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even though they are not purchasers or sellers."
+                },
+                {
+                    "start": 2142.834,
+                    "stop": 2163.197,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. Well, they may have it under the security statutes, too. What we would suggest to you is, and now I'm not really arguing securities. I'm arguing injury to business or property, and I'm arguing injury by reason of, which has nothing to do, as he's presented it, with the fact that it's underlying security."
+                },
+                {
+                    "start": 2163.197,
+                    "stop": 2185.861,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know any other statute where there is not some proximity requirement placed upon the ability to recover. I mean, really what you're saying is if by reason of this fraud somehow somebody's uncle got mad and cut them out of the will, they would have a cause of action under RICO so long as they could establish that causality."
+                },
+                {
+                    "start": 2185.861,
+                    "stop": 2238.626,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. But let me give you a slightly different example from the common law. It is standard Hornbook law that if I defrauded a testator into leaving to me property, and Justice White would have been the person to whom the request goes, he has a claim for relief against me, even though he's not the immediate target because he's within the intended sphere. Let me rive you another example... is if a group of corporations undertake a pattern of fraud to cheat the Government, clearly the Government can sue, but what about the next honest bidder who would have obtained the bid but for? I think that next honest bidder has a claim for relief. And on this issue, which is the proximate cause question, there was a summary judgment below."
+                },
+                {
+                    "start": 2238.626,
+                    "stop": 2241.625,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you have any cases on that? That surprises me."
+                },
+                {
+                    "start": 2241.625,
+                    "stop": 2242.542,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2242.542,
+                    "stop": 2244.511,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The defrauded bidder would have--"
+                },
+                {
+                    "start": 2244.511,
+                    "stop": 2245.094,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2245.094,
+                    "stop": 2248.129,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I mean the bidder who would have gotten it but for the fraud?"
+                },
+                {
+                    "start": 2248.129,
+                    "stop": 2251.831,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. The Environmental Tectonics v.--"
+                },
+                {
+                    "start": 2251.831,
+                    "stop": 2257.152,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "On the basis of defrauding or on the basis of unfair business practices?"
+                },
+                {
+                    "start": 2257.152,
+                    "stop": 2298.109,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. Environmental Tectonics v. Kirpatrick, which is both an antitrust case and a securities... I mean and a RICO case... 847 F. 2d 1052 1007, in the Third Circuit, affirmed on other grounds by this Court. My reference to the defrauded testator is supported by Bohannon v. Wachovia Bank and Trust Company, 210 North Carolina 679. My illustration of the terrorist in the airplane, slightly modified, is reflected in Judge Posner's RICO decision in the Seventh Circuit in the matter of E.D.C.--"
+                },
+                {
+                    "start": 2298.109,
+                    "stop": 2318.568,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the terrorist in the airplane is different. These are other people who are harmed proximately by the same act, although they are not the persons who have the cause of action for the fraud. But they are proximately harmed by the same act. Here you have a person who is further down the line. Every time you harm somebody you harm other people who are dependent on that somebody. And that's what occurred here."
+                },
+                {
+                    "start": 2318.568,
+                    "stop": 2330.443,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, no, we're not arguing that the mother, the brother, the uncle, of any of the purchasers, or the landlord of one of the customers who now, because the customer was defrauded, can't continue to maintain his rent."
+                },
+                {
+                    "start": 2330.443,
+                    "stop": 2332.311,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about the employees of Sebag?"
+                },
+                {
+                    "start": 2332.311,
+                    "stop": 2333.061,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 2333.061,
+                    "stop": 2333.945,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why not?"
+                },
+                {
+                    "start": 2333.945,
+                    "stop": 2365.413,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The injury there is precisely to injury... to... this is the corporate analogy. The injury is to Sebag. Sebag has the claim for relief. The customer... the customers were not injured in their business and property within the meaning of RICO, injured in their business or property. But we sue here for the injury to the customers. The causal relationship between their illegal conduct and the injury to the customers is the same, whether it is a purchaser-seller customer, or whether it is a nonpurchaser-seller customer."
+                },
+                {
+                    "start": 2365.413,
+                    "stop": 2387.361,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could I ask the question in another way? Some courts have spoken of it in terms of a direct injury requirement. Is it your position that if there is such a requirement for a RICO cause of action, that the customers who were not purchasers of the manipulated securities were nonetheless directly injured?"
+                },
+                {
+                    "start": 2387.361,
+                    "stop": 2420.382,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. This is a question of proximate causation, and it's a question as to which we raised in the court below, a material question of fact, as so found by Judge Toshima. It is a question that the defendant below defended on the grounds that there was no proximate relationship between his personal conduct and the fraud and the collapse. That was accepted by Judge Toshima, and it was reversed by the Ninth Circuit on the grounds that he was equally responsible with his xx conspirators' conduct."
+                },
+                {
+                    "start": 2420.382,
+                    "stop": 2433.023,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this, Mr. Blakey? This intermediate group of customers who did not themselves buy or sell, under your view of RICO I take it they would have been able to sue under RICO?"
+                },
+                {
+                    "start": 2433.023,
+                    "stop": 2450.735,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Clearly under RICO, and a minimum, the predicate offense is mail fraud or wire fraud. And we think they could just as easily sue using a fraud... the Securities Act because this does not incorporate 10b-5."
+                },
+                {
+                    "start": 2450.735,
+                    "stop": 2454.187,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How could they sue? What money was obtained from them?"
+                },
+                {
+                    "start": 2454.187,
+                    "stop": 2458.453,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's the loss that they suffered. As soon... what happened here--"
+                },
+                {
+                    "start": 2458.453,
+                    "stop": 2463.523,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Anyone that is caused a loss by the deceiving of someone else has a cause of action for fraud?"
+                },
+                {
+                    "start": 2463.523,
+                    "stop": 2499.863,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, part of the problem here is that scheme to defraud is not equivalent to common law deceit. As this Court has recognized, for example, in Carpenter, it extends to misappropriation. This Court has not limited scheme to defraud to the common law meaning. It included chicanery and overreaching. And the chicanery and overreaching in this situation caused this broker-dealer to go under. When that broker-dealer went under, it took out the business and it took out the property that the broker-dealer had in its hands."
+                },
+                {
+                    "start": 2499.863,
+                    "stop": 2506.85,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They are all subsequent consequences of the fraud. They are not themselves a defrauding."
+                },
+                {
+                    "start": 2506.85,
+                    "stop": 2516.539,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, but in this context, the defrauding was of the broker-dealership itself. For example, if you sink a boat, it sinks all passengers."
+                },
+                {
+                    "start": 2516.539,
+                    "stop": 2525.561,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, it's called a sinking, though. It's not called fraud. Fraud means obtaining money or property from someone. It doesn't mean tricking someone and--"
+                },
+                {
+                    "start": 2525.561,
+                    "stop": 2541.904,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's what common law deceit meant. Mail fraud says scheme to defraud and scheme to defraud has never been limited to common-law deceit. If Congress had meant common-law deceit in 1972 when it enacted the mail fraud statute, it would have said deceit."
+                },
+                {
+                    "start": 2541.904,
+                    "stop": 2564.566,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I'm not saying it means common-law deceit. I am saying that it means obtaining money or property from someone. And your claim here is not based upon... even on this other category of persons, is not based on obtaining any money or property from them. They are consequentially injured because of the wrongful obtaining of property and money from somebody else. It's just one of the ripples that--"
+                },
+                {
+                    "start": 2564.566,
+                    "stop": 2623.354,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The issue here is... can be put in terms of what is the target of the fraud. If you focus the target only to obtain the property from the meaning person, you answer is obviously correct. But all... but the problem with target in that context, it's a nubber-band word. You can narrow it that way or you can extend it to ask what were the means by which the property was done in? And if the means included destroying someone else's property, as you got there, that person is part of the intended scope of the fraud. And he equally ought to have a claim for relief as the person who is the primary target. You can be an intended target and not be the primary target. That's the airplane example. My intended target was my two people and the insurance company, but I took out the whole airplane. My intended target was cheating the people who were buying and selling the stock, but my impact of it was to take out the entire broker-dealership."
+                },
+                {
+                    "start": 2623.354,
+                    "stop": 2643.377,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You took them down directly. When you took the plane down, you took them down directly. They didn't go down as a result of the other people going down. The analog to your plane incident is the business run by the person who was bombed fails because he's no longer managing it. That's the analog to what's going on here--"
+                },
+                {
+                    "start": 2643.377,
+                    "stop": 2667.81,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Scalia, this is a fact-specific question that was raised in the trial court and the held... the holding below is that we raised a material question of fact on that question. And I think that it is in one sense not in the grant of cert, but if it is in the grant of cert, we have to deal with the facts as argued and found below, the facts as--"
+                },
+                {
+                    "start": 2667.81,
+                    "stop": 2670.928,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What fact? What fact is found below that I am contradicting?"
+                },
+                {
+                    "start": 2670.928,
+                    "stop": 2696.675,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, if you take a look at the Bunnington Park. When property was taken out of one account and put into another, to keep the broker-dealership alive, that is part of the scheme to defraud. And it was only because it was kept alive for a period of time that when it did collapse it took out not only the property of the immediate target of the fraud. It took out all the other customers' property as well."
+                },
+                {
+                    "start": 2696.675,
+                    "stop": 2705.983,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Blakey, you're speaking as if it were a trial below. But as I understand it... and you talk about facts that were found below. The district court granted summary judgment, did it not?"
+                },
+                {
+                    "start": 2705.983,
+                    "stop": 2712.387,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It granted summary judgment only on the issue is we were not a purchaser-seller."
+                },
+                {
+                    "start": 2712.387,
+                    "stop": 2714.337,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Were other issues actually tried?"
+                },
+                {
+                    "start": 2714.337,
+                    "stop": 2716.421,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "All the other issues were raised."
+                },
+                {
+                    "start": 2716.421,
+                    "stop": 2719.64,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I didn't ask you whether they were raised; I asked you whether they were tried."
+                },
+                {
+                    "start": 2719.64,
+                    "stop": 2721.742,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They were posed in a motion for--"
+                },
+                {
+                    "start": 2721.742,
+                    "stop": 2722.208,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I didn't--"
+                },
+                {
+                    "start": 2722.208,
+                    "stop": 2722.791,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, they were not tried."
+                },
+                {
+                    "start": 2722.791,
+                    "stop": 2727.26,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Okay. Then answer the question briefly, if you will. They were not tried. Is that correct?"
+                },
+                {
+                    "start": 2727.26,
+                    "stop": 2727.593,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 2727.593,
+                    "stop": 2739.234,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And then the Ninth Circuit reviewed the... reversed the grant of summary judgment. There were no factual findings made in the sense you're talking about. Both courts were dealing with motions for summary judgment."
+                },
+                {
+                    "start": 2739.234,
+                    "stop": 2741.42,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Perhaps I misspoke. What I should--"
+                },
+                {
+                    "start": 2741.42,
+                    "stop": 2741.803,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think you did."
+                },
+                {
+                    "start": 2741.803,
+                    "stop": 2767.368,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And I withdraw what I said, and would like to rephrase it. For the purposes of the summary judgment, the lower court found that we had raised a material question of fact on each of these other issues, that there was an enterprise that we were employed and associated by, that there was a pattern, and that there was a nexus, a proximate cause nexus between the wrongdoer's conduct and the injuries sustained."
+                },
+                {
+                    "start": 2767.368,
+                    "stop": 2771.903,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The court found that in a summary judgment proceeding?"
+                },
+                {
+                    "start": 2771.903,
+                    "stop": 2772.97,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It found that we had raised--"
+                },
+                {
+                    "start": 2772.97,
+                    "stop": 2773.938,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You had raised that?"
+                },
+                {
+                    "start": 2773.938,
+                    "stop": 2865.429,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--a material question of fact as to it. And therefore, we were entitled to a trial on that question. And what we... but having found that, it then dismissed it on the grounds that we lack purchaser-seller standing. The difficultly with purchaser-seller standing is that it is a concept that can be used in several different senses. It can be used in the sense of describing the class you may sue. It can be, as he's using it, describing the nature of the injury or causation. What he has done with Blue Chip is take what pleases him from it. There is in Blue Chip a clear indication that the purchaser-seller limitations are somewhat arbitrary and that they deny some deserving plaintiffs of an opportunity to sue. It is mitigated, however, this Court said, by the fact that there can be claims for relief under other bodies of law. The example given in the footnote, footnote 9, comes from loss on securities. And it points to the fact that in the Birnbaum case itself, a subsequent suit was brought for an accounting. And in that suit for the accounting, nonpurchaser-sellers were able to establish a wrong, injury, and causation and recover on the same facts. What we are here with RICO is another claim for relief. We are not suing under 10b-5 and its implied claim for relief. We're suing under the standard."
+                },
+                {
+                    "start": 2865.429,
+                    "stop": 2894.615,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but you are claiming that you have been injured in your business or property. And I suppose the antitrust laws say that a person injured in his business or property can recover treble damages if it's by reason of an antitrust violation. And yet we say that... we say that only those people who are directly injured can recover. An indirect purchaser cannot."
+                },
+                {
+                    "start": 2894.615,
+                    "stop": 2896.548,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think--"
+                },
+                {
+                    "start": 2896.548,
+                    "stop": 2900.4,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is not a very popular decision among plaintiffs' lawyers."
+                },
+                {
+                    "start": 2900.4,
+                    "stop": 2926.55,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think my case does not rest on the legislative history, and I'm willing to stick with the text. Nevertheless, in the legislative history it's very clear, as this Court pointed out in Sedima, that one of the reasons RICO was not drafted as an amendment to the Antitrust Act, but rather as a freestanding statute was to avoid precisely narrow standing limitations of antitrust and proximate cause--"
+                },
+                {
+                    "start": 2926.55,
+                    "stop": 2936.756,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know, but it used that language \"anybody injured in his business or property. \" And the antitrust laws, you're not injured in your business or property, within the meaning of the antitrust laws, if you're an indirect purchaser rather than a direct one."
+                },
+                {
+                    "start": 2936.756,
+                    "stop": 2975.631,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The same word in different contexts will have different meanings. The meaning that it ought to have in this context is a function of the purpose that it serves in this statute. In order to avoid precisely those narrow standing limitations and proximate cause limitations, RICO was drafted outside of the antitrust acts, and its liberal construction was enjoined. If his argument is plausible and my argument is plausible, that is to say it's a genuine ambiguity, the statute suggests that this Court ought to take that construction of the statute that enhances its remedial purposes and not--"
+                },
+                {
+                    "start": 2975.631,
+                    "stop": 2988.956,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You seem to say... you seem to concede that surely there are some kinds of injuries that will be... that would be caused by a securities fraud that would not be recoverable under RICO. Some can be too remote."
+                },
+                {
+                    "start": 2988.956,
+                    "stop": 2990.573,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, absolutely."
+                },
+                {
+                    "start": 2990.573,
+                    "stop": 2999.646,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the claim here is that any... anybody injured except the purchaser or seller is just too remote from the fraud to--"
+                },
+                {
+                    "start": 2999.646,
+                    "stop": 3103.297,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But the purchaser-seller limitation deals with the class who consume, not the nature of the injury or the causation relationship. If it were otherwise, footnote 9 in the Court's opinion in Blue Chip would no longer have meaning. Let me refer to one other case. The language, 1934 act is squarely interpreted by this Court in National Securities... SEC v. National Security... to refer to coverage... that is, the wrongdoer's conduct, and not to the status of the plaintiff. It is precisely that language in 1969 that was incorporated into RICO. Since 1970, this Court has decided 10 RICO appeals. Each time, properly, it has declined to add language to the statute that was not there: not organized crime, not legitimate, not racketeering, not competitive. Indeed, the failure to add racketeering and competitive in Sedima would seem a fortiori to dictate the result in this case. Not in an enterprise in Rusello, not only in Tafflin, and it is not subtracted from property legal fees. We think that this Court in this case ought not to depart from that well-reasoned line... unbroken line of decisions, and add purchaser-seller to RICO."
+                },
+                {
+                    "start": 3103.297,
+                    "stop": 3106.482,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I thought you were going to say the odds are against you this time. [Laughter]"
+                },
+                {
+                    "start": 3106.482,
+                    "stop": 3118.591,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I teach at Notre Dame, and we from time to time act when the odds are against us, unfortunately, not always successfully, as last weekend shows."
+                },
+                {
+                    "start": 3118.591,
+                    "stop": 3119.025,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Not last weekend."
+                },
+                {
+                    "start": 3119.025,
+                    "stop": 3119.875,
+                    "speaker": {
+                        "name": "G. Robert Blakey",
+                        "ID": 24938,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 3119.875,
+                    "stop": 3124.743,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Blakey. Mr. Samet, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3124.743,
+            "stop": 3168.254
+        }
+    ]
+}

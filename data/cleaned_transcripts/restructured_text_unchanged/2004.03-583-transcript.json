@@ -1,0 +1,2781 @@
+{
+    "title": "Leocal v. Ashcroft",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 14.368,
+                    "stop": 65.804,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Drunk driving offenses, while most serious and regrettable, were never intended to be crimes of violence under 18 U.S.C., section 16, triggering removal as an aggravated felony. We are asking this Court to so conclude and eliminate the disparity and patchwork of decisions that are in the... that are currently in the circuit courts of appeals depending upon the vagaries of where a removal proceeding is instituted. The Court need not go any further than straight statutory construction and the language of the statutes involved. Indeed, the Florida DUI statute has only two essential elements: driving while intoxicated and causing serious injury. 18 U.S.C., section 16--"
+                },
+                {
+                    "start": 65.804,
+                    "stop": 105.473,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess what bothers me about this is that clause (b) of 18 U.S. Code, section 16 is... it says the crime of violence means any other offense that's a felony and, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense. If someone drives while drunk, have they not created a substantial risk of the automobile or the vehicle causing personal or property damage to another?"
+                },
+                {
+                    "start": 105.473,
+                    "stop": 111.129,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice O'Connor, there certainly is an increased risk of an accident."
+                },
+                {
+                    "start": 111.129,
+                    "stop": 113.896,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A substantial risk if a person is drunk."
+                },
+                {
+                    "start": 113.896,
+                    "stop": 120.667,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I would agree that there is a substantial risk of an accident if one is driving drunk."
+                },
+                {
+                    "start": 120.667,
+                    "stop": 126.528,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So how is it that we should construe this provision in subsection (b)?"
+                },
+                {
+                    "start": 126.528,
+                    "stop": 135.445,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, subsection (b) also has the use of force as an element, and it is the use of force that is the critical terminology here."
+                },
+                {
+                    "start": 135.445,
+                    "stop": 166.939,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, before you quite get there... and of course, that's where you... you should go and I don't mean to sidetrack you. But the phrase before that is by its nature, so that we don't look at the specific details of the offense. We look to the offense itself. And if by its nature, as a generic matter, as a categorical matter, there is a substantial risk, then quite without reference to the particular facts of the case, it seems to me that the statute applies. So you have to address the by its nature as well."
+                },
+                {
+                    "start": 166.939,
+                    "stop": 191.543,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Justice Kennedy, I would... I would indicate that it's the categorical approach that this Court has indicated should be used in the Taylor case, as well as the courts of appeals have applied the categorical approach... indeed, the Doe case in the First Circuit did so... to look at whether or not that element is present in the underlying predicate of facts. And the element is the use of force."
+                },
+                {
+                    "start": 191.543,
+                    "stop": 232.288,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Sollers, I thought your... your response to the problem of (b) was that (b) also requires not just... not just a risk that there be physical injury, but a substantial risk that physical force against person or property be used. So it's still the same terminology, using physical force. And the question we have before us is whether that terminology means it must intentionally be applied or could simply be applied carelessly, negligently, as by someone who is driving DUI. Isn't... isn't that the... the answer to this."
+                },
+                {
+                    "start": 232.288,
+                    "stop": 233.486,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 233.486,
+                    "stop": 236.458,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or at least your... your proffered answer to the problem of (b)."
+                },
+                {
+                    "start": 236.458,
+                    "stop": 257.346,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Justice Scalia. Critical is that the actor intended to use force. That is the statutory construction here and it is clear, as you look at the statutory scheme, that individuals who engaged in an accident were not intended to be removed as aggravated felons."
+                },
+                {
+                    "start": 257.346,
+                    "stop": 273.404,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, once again, do you have to have intent in the particular case? Because the offense must by its nature... you mean by the nature of the particular offense that this person committed or by nature of the felony broadly categorized?"
+                },
+                {
+                    "start": 273.404,
+                    "stop": 293.921,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I think under the categorical approach, you look to the essential elements of the underlying offense. And I go back to the DUI statute in Florida which does not have the element of the use of force. Indeed, that statute is a strict liability statute. It requires no mens rea whatsoever, does not even require negligence for a conviction."
+                },
+                {
+                    "start": 293.921,
+                    "stop": 314.522,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you suggesting then that it should vary from State to State whether the vehicle homicide is a crime of violence, that we should look to the particular State, so that people engaged in the same conduct in one State will be subject to removal and others will not?"
+                },
+                {
+                    "start": 314.522,
+                    "stop": 358.733,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, Justice Ginsburg, there are a number... almost every State has a similar statute to the one in Florida. Where there is a... simply a causation of injury, there's an enhanced penalty for a drunk driving offense. Of course... so I would suggest that if this Court were to find, as we believe it should, that the use of force is required for it to be an aggravated felony, it would apply across all 50 States. If one were to intentionally use force, there obviously are other statutes that would capture it. Intentional endangerment, for instance. If one were--"
+                },
+                {
+                    "start": 358.733,
+                    "stop": 360.895,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "People who are drunk can intend to use force."
+                },
+                {
+                    "start": 360.895,
+                    "stop": 377.968,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely, Your Honor. It's absolutely the case that somebody could intend to use force who is drunk, but again, there are other statutes, more serious statutes, intentional endangerment, vehicular assault, statutes such as that, that would pick up such an action."
+                },
+                {
+                    "start": 377.968,
+                    "stop": 379.454,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What... what about burglary?"
+                },
+                {
+                    "start": 379.454,
+                    "stop": 422.634,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Burglary is an offense that has typically been looked at as a B offense. Even though I will say that burglary has now been added as a specific offense under the aggravated felony listing in the INA, burglary is the offense that... that is typically viewed as one that causes someone to be in a position where they will engage in a volitional act of force. In other words, you break into a house, that's a volitional act in and of itself, but then you are... you have not used force against a person, but you have put yourself in a position where you are likely to intentionally use force against someone you come upon."
+                },
+                {
+                    "start": 422.634,
+                    "stop": 425.978,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about the risk of the driver going the wrong way on a freeway?"
+                },
+                {
+                    "start": 425.978,
+                    "stop": 428.29,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's absolutely--"
+                },
+                {
+                    "start": 428.29,
+                    "stop": 432.915,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's... that's a substantial risk, or it's a risk at least, of... of drunk driving."
+                },
+                {
+                    "start": 432.915,
+                    "stop": 434.501,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely, and so is--"
+                },
+                {
+                    "start": 434.501,
+                    "stop": 436.009,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see how that's different from burglary."
+                },
+                {
+                    "start": 436.009,
+                    "stop": 459.598,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I would suggest, Justice Kennedy, that it's different because it is not a intentional use of force. It is an accidental action. It is a diminished mens rea. And again, you look, in order to determine whether or not a crime of violence has occurred, at the underlying elements of the statute, and this Florida statute simply has no mens rea requirement whatsoever."
+                },
+                {
+                    "start": 459.598,
+                    "stop": 467.671,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is your... is... is your argument really that there's got to be an intentional use of force or an intentional use of force in order to injure?"
+                },
+                {
+                    "start": 467.671,
+                    "stop": 480.674,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Our argument is that there has to be simply the intentional use of force in order for it to be a crime of violence."
+                },
+                {
+                    "start": 480.674,
+                    "stop": 487.445,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Without looking... without looking to the... to the consequence, to... to the... to the result?"
+                },
+                {
+                    "start": 487.445,
+                    "stop": 490.312,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that's correct, Justice Souter."
+                },
+                {
+                    "start": 490.312,
+                    "stop": 491.782,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He's intentionally driving a car--"
+                },
+                {
+                    "start": 491.782,
+                    "stop": 491.986,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 491.986,
+                    "stop": 497.187,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that's speeding along at 65 miles an hour. That's intentionally using force, surely."
+                },
+                {
+                    "start": 497.187,
+                    "stop": 507.551,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I would suggest that it's intentionally driving the car, but I would not agree that it is the intentional use of force against a person or property of another."
+                },
+                {
+                    "start": 507.551,
+                    "stop": 509.037,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about 95 miles an hour?"
+                },
+                {
+                    "start": 509.037,
+                    "stop": 520.554,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, there's a continuum, and that may suggest recklessness, but again, this statute that we're looking at, the Florida statute, does not require recklessness. It does not require even negligence. It's a strict--"
+                },
+                {
+                    "start": 520.554,
+                    "stop": 520.926,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you disagree--"
+                },
+                {
+                    "start": 520.926,
+                    "stop": 521.919,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Excuse me, Your Honor."
+                },
+                {
+                    "start": 521.919,
+                    "stop": 531.329,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--you disagree with Ninth Circuit that said negligence is not covered, but a reckless state of mind would be covered."
+                },
+                {
+                    "start": 531.329,
+                    "stop": 549.783,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I'm not necessarily taking a position as to whether or not that's... the Ninth Circuit is accurate on that. What I am taking a position on is the very statute at issue, which is the Florida DUI statute, which has no negligence requirement, no negligent... or no recklessness requirement."
+                },
+                {
+                    "start": 549.783,
+                    "stop": 554.734,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but we have to look down the road to the next case. So, you know, you can't just not answer that."
+                },
+                {
+                    "start": 554.734,
+                    "stop": 569.223,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you just responded to my question that it's the same in all 50 States. So either it's peculiar to Florida or it's... if I take your last answer to be correct, it would be the same in all 50 States."
+                },
+                {
+                    "start": 569.223,
+                    "stop": 609.802,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The analysis that we believe is the correct analysis here is to look at the underlying statute to see whether it has use of force, and this statute has no such element. It... and it has... again, it has no mens rea requirement. Now, interestingly, the Ninth Circuit decision looked at the very same Florida statute because the removal proceeding had been initiated out in California... so that's why the Ninth Circuit looked at the Florida statute... and found that it was not a crime of violence because it did not have the element of the use of force. It did, as you say, indicate that a recklessness standard would satisfy a crime of violence in the Ninth Circuit."
+                },
+                {
+                    "start": 609.802,
+                    "stop": 612.857,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what about a drive-by shooting into an occupied building?"
+                },
+                {
+                    "start": 612.857,
+                    "stop": 616.534,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "A drive-by shooting into an occupied building--"
+                },
+                {
+                    "start": 616.534,
+                    "stop": 623.526,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. You're not sure you're going to hit anybody. You're not even sure there's anybody in the building, but you drive by and you just shoot a... a bullet into the building."
+                },
+                {
+                    "start": 623.526,
+                    "stop": 624.369,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I--"
+                },
+                {
+                    "start": 624.369,
+                    "stop": 627.713,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You... you would say that the... is that covered by this statute? I'd certainly want that--"
+                },
+                {
+                    "start": 627.713,
+                    "stop": 629.199,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor, absolutely."
+                },
+                {
+                    "start": 629.199,
+                    "stop": 629.671,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Why is it?"
+                },
+                {
+                    "start": 629.671,
+                    "stop": 631.428,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's intentional use of force."
+                },
+                {
+                    "start": 631.428,
+                    "stop": 653.885,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Against a person. It has to be the intentional use of force against a person. He didn't... he didn't intend to hit a person. He just didn't care whether there was anybody there or not. It's the classic recklessness case. Classic... he didn't... wasn't shooting at any particular person. Just having a good old time shooting out a window in a... in a building. He didn't know was anybody in there or not."
+                },
+                {
+                    "start": 653.885,
+                    "stop": 659.542,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, that is intentional conduct that has a substantial likelihood of... of causing injury."
+                },
+                {
+                    "start": 659.542,
+                    "stop": 662.969,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So is... so is driving under the influence. It seems to me--"
+                },
+                {
+                    "start": 662.969,
+                    "stop": 686.868,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I thought your argument was that there's got to be more than simply a risk of causing injury. I thought your argument was that there has got to be a risk of acting intentionally to cause injury, as in the case of the burglar who suddenly is surprised. Now... now, which is it? Is it... if... if it's merely causing injury, then you're in trouble under part (b)."
+                },
+                {
+                    "start": 686.868,
+                    "stop": 687.694,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 687.694,
+                    "stop": 694.67,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If it's causing... if it's... it's using force for the purpose of causing injury, then I can see at least a consistent argument."
+                },
+                {
+                    "start": 694.67,
+                    "stop": 702.805,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, you are absolutely correct. It is the use... the intentional use of force which causes injury, that is--"
+                },
+                {
+                    "start": 702.805,
+                    "stop": 705.527,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--So you've changed your answer to my previous question then."
+                },
+                {
+                    "start": 705.527,
+                    "stop": 710.181,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... I may have, and if I did, I... I apologize. I may have misunderstood Your Honor, but--"
+                },
+                {
+                    "start": 710.181,
+                    "stop": 715.298,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, so is recklessness enough or not? I... I don't understand what you're saying."
+                },
+                {
+                    "start": 715.298,
+                    "stop": 719.096,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, our... Justice O'Connor--"
+                },
+                {
+                    "start": 719.096,
+                    "stop": 723.721,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The... the shooting, random shooting, in a building for target practice."
+                },
+                {
+                    "start": 723.721,
+                    "stop": 731.068,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is an intentional act. The pulling of the trigger was an intentional act that has--"
+                },
+                {
+                    "start": 731.068,
+                    "stop": 735.36,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So is getting behind a wheel when you're drunk and turning on the keys."
+                },
+                {
+                    "start": 735.36,
+                    "stop": 760.252,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. That is... I... I must distinguish the two however. I would suggest that while absolutely a... a regrettable and serious act to get behind the wheel when one is drunk... and we do not condone that whatsoever... the act of use of force that is involved is at most negligence."
+                },
+                {
+                    "start": 760.252,
+                    "stop": 813.423,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought that what you were saying, which I understood, is that if somebody intentionally uses force and hurts somebody... might hurt somebody, that falls within the statute. If they do it negligently, they don't. If they do it recklessly, recklessly and often assimilated to intention in the law, gross... you know, recklessness and sometimes it isn't. So I thought you were going to say we didn't have to decide that one. Many States require negligence only for drunk driving hurting somebody. Some may require recklessness. So we may have to decide it some day. Now, that... that's where... that's where I came into this argument. Now, if you're disowning that, I want to know. If you're accepting it, I want to know."
+                },
+                {
+                    "start": 813.423,
+                    "stop": 817.677,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I accept that, Your Honor, Justice Breyer."
+                },
+                {
+                    "start": 817.677,
+                    "stop": 825.767,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but what's your answer on recklessness? That's fine. Maybe we don't have to today, but we have to look ahead. What are we going to say about it?"
+                },
+                {
+                    "start": 825.767,
+                    "stop": 858.832,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, this case is based on a... an underlying statute that has no mens rea requirement whatsoever, and a crime of violence requires an intentional use of force. The legislative history I believe dictates such a conclusion. If you look at 18 U.S.C., section 16, its origins were all... was... was... the origin was the D.C. Court Reform Act, which was a detention... a detention statute."
+                },
+                {
+                    "start": 858.832,
+                    "stop": 859.204,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You... you responded--"
+                },
+                {
+                    "start": 859.204,
+                    "stop": 885.764,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your answer might be recklessness. I mean, I think that's a hard question, but... but I guess you could say recklessness in respect to shooting? Of course, it's covered. Recklessness in respect to drunk driving? I'm not so sure. It may depend on the nature of the crime, the nature of the underlying conduct. But you may not accept that. You may want an all or nothing answer, in which case you can answer. I'd have to say I don't know."
+                },
+                {
+                    "start": 885.764,
+                    "stop": 913.9,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I thought you responded to Justice Breyer's first inquiry reckless, at least maybe, and if that was your answer, if I understood your... that you agreed with him, why isn't getting into a car when you are drunk inherently reckless because you know there's a high risk of hurting someone?"
+                },
+                {
+                    "start": 913.9,
+                    "stop": 942.878,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, there is a continuum... there's no question about it... of mens rea, beginning... you know, you have the strict liability offense all the way to specific intent. I don't know where it falls to get into a car when you're drunk, but I will suggest that the analysis for this Court in determining whether or not it's a crime of violence is to look at the underlying statute. And the underlying statute does not require even mere negligence for a conviction."
+                },
+                {
+                    "start": 942.878,
+                    "stop": 961.909,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but that's because there's always a substantial risk. Whether there's an intent to be negligent or a likelihood of negligence or a likelihood of risk, that's inherent in driving a car while you're drunk. You want this Court to say, in effect, that there is no substantial risk in drunk driving."
+                },
+                {
+                    "start": 961.909,
+                    "stop": 963.6,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. No, Justice--"
+                },
+                {
+                    "start": 963.6,
+                    "stop": 965.541,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No substantial risk of use of force."
+                },
+                {
+                    "start": 965.541,
+                    "stop": 984.45,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this question about substantial risk? Say it's... there's always a substantial risk when you get in the car and you're intoxicated. Does it make any difference whether you actually cause an injury or not? There are two drivers, equally... equally drunk and equally negligent. One hits somebody and the other doesn't. Are they treated alike or are they treated differently under the statute?"
+                },
+                {
+                    "start": 984.45,
+                    "stop": 1000.425,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, under this particular statute, it requires the causation of the injury, but it's simply a causation statute. It's the consequence. And that's one of the elements of the offense. So it does make a difference for this particular statute, otherwise I assume you'd be convicted of simply DUI."
+                },
+                {
+                    "start": 1000.425,
+                    "stop": 1004.511,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if there's... if there's clearly the substantial risk but he was lucky enough not to hit anybody, then he's not covered."
+                },
+                {
+                    "start": 1004.511,
+                    "stop": 1006.785,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "He'd be covered by a DUI--"
+                },
+                {
+                    "start": 1006.785,
+                    "stop": 1008.271,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand, but he would not be covered--"
+                },
+                {
+                    "start": 1008.271,
+                    "stop": 1008.521,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--if he was caught."
+                },
+                {
+                    "start": 1008.521,
+                    "stop": 1010.955,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--He would not be deportable."
+                },
+                {
+                    "start": 1010.955,
+                    "stop": 1013.451,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1013.451,
+                    "stop": 1018.014,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but why when the statute says the offense by its nature includes the risk?"
+                },
+                {
+                    "start": 1018.014,
+                    "stop": 1031.267,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Excuse me. I misanswered your question. He would, under the determination in the Eleventh Circuit, be deportable because they have found that there is... it is a crime of violence--"
+                },
+                {
+                    "start": 1031.267,
+                    "stop": 1032.586,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Whether or not you hit anybody?"
+                },
+                {
+                    "start": 1032.586,
+                    "stop": 1042.784,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--You don't necessarily have to hit somebody. A lot of these cases actually look at straight DUI offenses. A lot of these immigration cases are involving straight DUI--"
+                },
+                {
+                    "start": 1042.784,
+                    "stop": 1064.099,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, excuse me. I thought we were looking at aggravated felony, and does not Florida make it a felony, a serious felony, if you cause serious bodily injury? That's what puts it into the category of a third degree felony. If you're just driving under the influence, it doesn't appear to fall in that category. Maybe I'm not reading it right--"
+                },
+                {
+                    "start": 1064.099,
+                    "stop": 1064.553,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I believe that's right."
+                },
+                {
+                    "start": 1064.553,
+                    "stop": 1066.411,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but that's how I read the Florida statute."
+                },
+                {
+                    "start": 1066.411,
+                    "stop": 1110.007,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe that's right in Florida, Justice O'Connor. That's correct. But a moment ago, Justice Kennedy asked me a question about substantial risk. And yes, Justice Kennedy, there is a substantial risk of an accident from getting behind the wheel when you're drunk. But we suggest... and... and we believe that the... the statutory construction supports us... that there is not a substantial of the intentional use of force. And that's... that's the difference. It's the consequence. In the cases... a number of cases have, improperly so, focused on the consequence, the actual injury and not the actual use of force, which is the key element under a crime of violence, 18 U.S.C., section 16, which is what we're construing."
+                },
+                {
+                    "start": 1110.007,
+                    "stop": 1110.583,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Sollers--"
+                },
+                {
+                    "start": 1110.583,
+                    "stop": 1128.954,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If this were a straight criminal statute and the arguments on each side were very close, you would be entitled to rely on the rule of lenity. This is just a reflection really of a criminal statute. It's a deportation statute. Are you entitled to rely on the rule of lenity here?"
+                },
+                {
+                    "start": 1128.954,
+                    "stop": 1153.74,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. We... first of all, I would say that we do not need to rely on the rule of lenity because the straight language of the statute supports our position. There is no element in the Florida statute, use of force. However, if it's a close call, we would be able to rely on the rule of lenity. This is a most severe, severe punishment that is--"
+                },
+                {
+                    "start": 1153.74,
+                    "stop": 1158.183,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but it's... it's never been regarded as criminal, a deportation proceeding."
+                },
+                {
+                    "start": 1158.183,
+                    "stop": 1167.721,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is not, but, of course, 18 U.S.C., section 16 is the criminal statute, and that is what we're here to decide, the reach of 18 U.S.C. 16."
+                },
+                {
+                    "start": 1167.721,
+                    "stop": 1175.644,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, it... it doesn't impose criminal penalties on its own. Is it used in other criminal statutes that do impose criminal penalties?"
+                },
+                {
+                    "start": 1175.644,
+                    "stop": 1176.942,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Absolutely. It's used in--"
+                },
+                {
+                    "start": 1176.942,
+                    "stop": 1188.998,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well, that's... that's your answer, that... that you can't interpret section 16 one way for purposes of deportation statutes and another way for purposes of criminal statutes. And therefore, the rule of lenity does apply."
+                },
+                {
+                    "start": 1188.998,
+                    "stop": 1190.028,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely, Your Honor."
+                },
+                {
+                    "start": 1190.028,
+                    "stop": 1201.091,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the rule of lenity apply in sentencing statutes as opposed to the definition of crimes? I don't... I don't know."
+                },
+                {
+                    "start": 1201.091,
+                    "stop": 1234.202,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't know the answer to that. I... you know, I know the rule of lenity is to be applied to criminal statutes. I am not sure on sentencing statutes. But I will say that... you know, we are not saying that someone who gets behind a wheel who's drunk should not be punished. My client spent 2 years in jail and was immediately taken to INA facility and... and kept there for several months before he was shipped back to Haiti, where he remains now. So it is not as if he has not paid a... a severe price for what he did."
+                },
+                {
+                    "start": 1234.202,
+                    "stop": 1306.648,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Sollers, let... let me ask you about the recklessness problem that... that a number of us have. You... you insist on... on defining the crime of violence as one that requires the intentional application of force against an individual. Why... why do you need that in order to win your case? Why couldn't you just define it as the intentional... the intentional... use of a mode of force that is likely to injure an individual? Now, driving on a highway is not... is not likely to injure an individual. Shooting a gun into... into a building is likely to... to injure an individual. Why shouldn't that be the... the distinction? Either you intend to use it against a person or you have intentionally used a mode of force that is in its nature likely to injure a person, not caring whether it does or not."
+                },
+                {
+                    "start": 1306.648,
+                    "stop": 1356.347,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I understand your question, Justice Scalia. I... you know, our analysis is strictly on the statute itself, 18 U.S.C., section 16, which requires as an element the use of force or a substantial risk that force... that the use of force may occur. And in our view, this... getting in a car while... any driving certainly involves risk. There's no question about that, and it's enhanced if one is intoxicated. But it is not... not the case that Congress intended that drunk driving offenses and accidents relating from a drunk driving offense should trigger the draconian remedy of removal. And that... that's what our position is."
+                },
+                {
+                    "start": 1356.347,
+                    "stop": 1376.243,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just... just following up on Justice Scalia's question, the point would be that shooting a gun is the threatened use of... of physical force against a person or property. Getting into a car is not the threatened use of physical force against anything."
+                },
+                {
+                    "start": 1376.243,
+                    "stop": 1380.458,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's not the intentional use of any force. That's correct, Your Honor."
+                },
+                {
+                    "start": 1380.458,
+                    "stop": 1393.478,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But why don't we interpret it as getting into a car while drunk and, as Justice O'Connor points out, while drunk and causing an injury? Otherwise, the statute isn't even applicable."
+                },
+                {
+                    "start": 1393.478,
+                    "stop": 1468.053,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, certainly there is an enhanced risk from getting into the car while you're drunk. However, again, the Florida statute and statutes like it across the country do not have any mens rea element whatsoever required for conviction. Therefore, it's not subsumed by 18 U.S.C., section 16, which requires use of force as an element. If one looks at the aggravated felonies that have been added, on four of five occasions the list of aggravated felonies have been added to the INA. Never has an non-intent crime been added. There have been multiple occasions in which Congress has had the opportunity to specifically add DUI offenses. They have never been added. If one looks at the INA and the addition of serious offenses for which an alien can be inadmissible, that addition in 1990... and the Congress specifically listed separately DUI offenses, DUI-type offenses, and crimes of violence, showing that Congress did not believe that DUI offenses were subsumed by 18 U.S.C., section 16."
+                },
+                {
+                    "start": 1468.053,
+                    "stop": 1485.021,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Government suggests that Congress in an excess of caution might have listed DUI because... because the decisions in the lower courts were divided on the question of the correct categorization."
+                },
+                {
+                    "start": 1485.021,
+                    "stop": 1486.136,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is--"
+                },
+                {
+                    "start": 1486.136,
+                    "stop": 1490.76,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And then it would do nothing... it would have changed nothing. It just would have been clarified."
+                },
+                {
+                    "start": 1490.76,
+                    "stop": 1523.37,
+                    "speaker": {
+                        "name": "Joseph S. Sollers, III",
+                        "ID": 33069,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, there is no legislative history that... to indicate that Congress so thought. Certainly that is a hypothetical possibility. We do not believe that's the case. If you look later on in 1990, crimes of violence were specifically added as aggravated felonies, and the... the Congress did not add DUI offenses along with the crimes of violence. It simply added 18 U.S.C., section 16. If I may, I'm going to reserve the rest of my time."
+                },
+                {
+                    "start": 1523.37,
+                    "stop": 1527.003,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Sollers. Mr. Himmelfarb, we'll hear from you."
+                }
+            ],
+            "start": 14.368,
+            "stop": 1561.637
+        },
+        {
+            "turns": [
+                {
+                    "start": 1527.003,
+                    "stop": 1561.637,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Drunk driving that kills or seriously injures another person is a serious offense. It is a violent offense in the ordinary sense of that term, and it satisfies the statutory definition of crime of violence. The felony offense of which petitioner was convicted by its nature involves a substantial risk that physical force may be used against the person or property of another."
+                },
+                {
+                    "start": 1561.637,
+                    "stop": 1567.127,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say used against the person. Doesn't that connote some more intent than there is here?"
+                },
+                {
+                    "start": 1567.127,
+                    "stop": 1589.295,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We don't think so, Mr. Chief Justice. Statutory terms take their meaning from context, and in the context of section 16, we think the better reading of use is that it doesn't require any particular mens rea. The thing that's being defined in section 16 is a crime of violence and violence does not have any particular mens rea associated--"
+                },
+                {
+                    "start": 1589.295,
+                    "stop": 1605.149,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I have to tell you. In a... in a traffic court where we see all too many drunk driving cases go through the calendar, no injury is involved. I recognize there is in this case. In the... in the drunk driving case without... without any aggravating factors, I just don't think judges think of those as crimes of violence."
+                },
+                {
+                    "start": 1605.149,
+                    "stop": 1606.756,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1606.756,
+                    "stop": 1609.729,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you... do you tell your family I committed a crime of violence?"
+                },
+                {
+                    "start": 1609.729,
+                    "stop": 1616.666,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There are a few things to be said about the simple offense of drunk driving, not the aggravated offense. The first is that--"
+                },
+                {
+                    "start": 1616.666,
+                    "stop": 1623.436,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And... and incidentally, because I thought your opening remarks were applicable to drunk driving as an offense generically and... and as a whole."
+                },
+                {
+                    "start": 1623.436,
+                    "stop": 1645.477,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Justice Kennedy, we have taken that position in the lower courts and before the Board of Immigration Appeals. It's not necessary for the Court to agree with that position in order for us to prevail here. As an initial matter, the simple offense of drunk driving is ordinarily a misdemeanor, and since it doesn't have force as an element, it could only be a crime of violence if it fell under 16(b) which covers only felonies."
+                },
+                {
+                    "start": 1645.477,
+                    "stop": 1653.279,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yet the mental state is presumably the same whether it's drunken driving without injury or drunken driving with injury."
+                },
+                {
+                    "start": 1653.279,
+                    "stop": 1658.026,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's true, Mr. Chief Justice. That's not the distinction we're drawing."
+                },
+                {
+                    "start": 1658.026,
+                    "stop": 1660.71,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know you're not, but why... why don't you? [Laughter]"
+                },
+                {
+                    "start": 1660.71,
+                    "stop": 1694.429,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we think the... when I say that the Court need not agree with us that simple drunk driving is a crime of violence in order to hold that drunk driving resulting in serious injury is, I say that because if you take the view that physical force requires an actual crash, which is petitioner's view, which is the narrow understanding of the term physical force, it may or may not be the case... it is a debatable proposition... that if you're simply driving drunk, there's a substantial risk you're going to crash into somebody. Somebody might make the argument that while there's a risk, it's not a substantial risk."
+                },
+                {
+                    "start": 1694.429,
+                    "stop": 1707.682,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, it certainly would come within (a). It certainly would come within (a). An offense... it doesn't have to be a felony to be within (a). An offense that has an element the threatened use of physical force against the person or property of another."
+                },
+                {
+                    "start": 1707.682,
+                    "stop": 1715.939,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Justice Scalia, we read threatened use and attempted use to require intentional conduct. So we don't--"
+                },
+                {
+                    "start": 1715.939,
+                    "stop": 1720.768,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh. So you need intent for (a) but you don't need intent for (b)."
+                },
+                {
+                    "start": 1720.768,
+                    "stop": 1733.993,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. You need intent under (a) for a threat or an attempt because a threat or an attempt by its nature is an intentional act. But the use of physical force in either (a) or (b) is not by its nature an intentional--"
+                },
+                {
+                    "start": 1733.993,
+                    "stop": 1738.146,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then... then you... then you think (a) does not apply to ordinary DUI."
+                },
+                {
+                    "start": 1738.146,
+                    "stop": 1739.593,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right. That was my position."
+                },
+                {
+                    "start": 1739.593,
+                    "stop": 1744.19,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh. I thought your... I thought your position was that ordinary DUI is a crime of violence."
+                },
+                {
+                    "start": 1744.19,
+                    "stop": 1746.485,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We have taken that position in the lower courts."
+                },
+                {
+                    "start": 1746.485,
+                    "stop": 1747.683,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you don't believe it. [Laughter]"
+                },
+                {
+                    "start": 1747.683,
+                    "stop": 1757.692,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We believe... our position in the lower courts is that it's a crime of violence under 16(b), but there are arguments... the argument the other way--"
+                },
+                {
+                    "start": 1757.692,
+                    "stop": 1761.308,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wait, wait, wait. Ordinary DUI is a crime of violence under 16(b)."
+                },
+                {
+                    "start": 1761.308,
+                    "stop": 1761.308,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right."
+                },
+                {
+                    "start": 1761.308,
+                    "stop": 1763.166,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not a felony. Ordinary DUI is not a felony."
+                },
+                {
+                    "start": 1763.166,
+                    "stop": 1769.853,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If it's a misdemeanor, it couldn't be a crime of violence under (a) because force isn't an element and under (b) because it's not a felony."
+                },
+                {
+                    "start": 1769.853,
+                    "stop": 1770.225,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1770.225,
+                    "stop": 1770.68,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There are--"
+                },
+                {
+                    "start": 1770.68,
+                    "stop": 1773.818,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That... that is your current position and... and we can take that."
+                },
+                {
+                    "start": 1773.818,
+                    "stop": 1783.206,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. My position is that the Court doesn't have to reach the question of whether drunk driving without the aggravated injury element is a crime of violence."
+                },
+                {
+                    "start": 1783.206,
+                    "stop": 1795.262,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe... maybe we do and... and this depends on... on something I just don't know. Maybe you do. Are there States that define the second or a third subsequent DUI offense as felonious rather than a misdemeanor?"
+                },
+                {
+                    "start": 1795.262,
+                    "stop": 1796.21,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, there is."
+                },
+                {
+                    "start": 1796.21,
+                    "stop": 1807.084,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then... then we do have to reach that issue because those would qualify as felonies, and on your analysis of (b), which doesn't require intent, they... they would... they would fall under (b)."
+                },
+                {
+                    "start": 1807.084,
+                    "stop": 1809.584,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right. There are simple--"
+                },
+                {
+                    "start": 1809.584,
+                    "stop": 1826.468,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I just want to make sure I understand it. So that if we accept your position and there are States that... that do classify subsequent offenses as felonies regardless of injury, there would be some DUI offenses without injury that would be crimes of violence and... and a basis for deportation."
+                },
+                {
+                    "start": 1826.468,
+                    "stop": 1852.93,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is our position. It's also our position that the Court need not accept it in order for us to prevail in this case. There is a difference between the sort of driving that takes place when somebody simply drives drunk and doesn't cause an injury and the sort of driving that takes place when somebody not only drives drunk but injures another person. If somebody is driving and swerving or driving and falling asleep at the wheel or driving and doing any of the things--"
+                },
+                {
+                    "start": 1852.93,
+                    "stop": 1897.8,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And might be lucky and nothing happens. I mean, that's the... the problem thing. Two people who engage in identical conduct, one has the misfortune to hit someone, the other doesn't, but they're both equally swerving in and out. The... the distinction is whether someone is hit. And in that light, suppose there were an involuntary manslaughter conviction for someone who was speeding but cold sober, speeding, cold sober, and killing someone because he couldn't stop the car fast enough. Would that also be a crime of violence?"
+                },
+                {
+                    "start": 1897.8,
+                    "stop": 1941.64,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We think it would be, Justice Ginsburg. And to respond to your first question, the distinction between those two situations is that you have to look not at the underlying conduct to decide whether something is a crime of violence, but you have to look at the offense with which the defendant was charged and of which he was convicted and see what the elements are and what the risk is by its nature. So if somebody is charged and convicted simply of simple driving under the influence, that crime by its nature may or may not involve a substantial risk of force even though in a particular case someone might be swerving. But if there's injury, the crime by its nature has to entail the sort of driving beyond the ordinary drunk driving offense--"
+                },
+                {
+                    "start": 1941.64,
+                    "stop": 1942.094,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's simply--"
+                },
+                {
+                    "start": 1942.094,
+                    "stop": 1952.497,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then... then the word substantial risk does no work in... in that... in the... in the case that Justice Ginsburg put. We just ignore substantial risk."
+                },
+                {
+                    "start": 1952.497,
+                    "stop": 1955.925,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, we don't think you do, Justice Kennedy. My point is that--"
+                },
+                {
+                    "start": 1955.925,
+                    "stop": 1959.268,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why do we need substantial risk? They hit... they hit somebody. We know they hit somebody. That's it."
+                },
+                {
+                    "start": 1959.268,
+                    "stop": 1961.663,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, here... here's the--"
+                },
+                {
+                    "start": 1961.663,
+                    "stop": 1967.524,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the question is, what about her other hypothetical where the person is driving 90 miles an hour and hits no one?"
+                },
+                {
+                    "start": 1967.524,
+                    "stop": 1968.928,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, our--"
+                },
+                {
+                    "start": 1968.928,
+                    "stop": 1970.043,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's still a substantial risk."
+                },
+                {
+                    "start": 1970.043,
+                    "stop": 2011.547,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--our primary submission is that the crime at issue here falls under 16(a) because the use of force is an element because if you're driving drunk, you can't injure somebody without using force. But our fallback position is that even if, as petitioner contends, the only time you use force in the drunk driving context is when you actually crash your car into somebody, and he hypothesizes these types of injuries which in his view don't involve physical force. There is, at a minimum, going to be a substantial risk that you will crash your car into somebody if you're not only driving drunk, but driving drunk in a way that results in injury no matter how the injury is caused."
+                },
+                {
+                    "start": 2011.547,
+                    "stop": 2025.36,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--If your primary position is (a), then... then I think you're back to the... to the situation that ordinary DUI would come under (a). It has an element the threatened use of physical force."
+                },
+                {
+                    "start": 2025.36,
+                    "stop": 2038.325,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. We don't rely on the threat... the threat language in 16(a), Justice Scalia. We rely on use. If you drive drunk and you injure somebody, you're using physical force against that person. But even--"
+                },
+                {
+                    "start": 2038.325,
+                    "stop": 2038.663,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I see."
+                },
+                {
+                    "start": 2038.663,
+                    "stop": 2049.675,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in your submission, as I understand it, the attempted use or threatened use is really a worse offense than the use because it involves intent, whereas use doesn't necessarily involve actual intent."
+                },
+                {
+                    "start": 2049.675,
+                    "stop": 2053.473,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I don't... I don't think the measure of the seriousness of a crime--"
+                },
+                {
+                    "start": 2053.473,
+                    "stop": 2074.527,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What we're really looking at here, when you get all done with all this, is is this a person who should be sent back to Haiti because of this particular act that occurred. And the irony of it, it seems to me, is that in terms of moral culpability and... and the kind of person we don't want to stay in this country, it doesn't really make any difference whether he hit somebody when he was drunk or not."
+                },
+                {
+                    "start": 2074.527,
+                    "stop": 2095.621,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Justice Stevens, I think that's an important point. We don't think that mens rea is the measure of the seriousness of a crime. There are a number of crimes that are indisputably crimes of violence under petitioner's view that are mens rea crimes that, in the scheme of things, people would think are not as serious as drunk driving resulting in serious--"
+                },
+                {
+                    "start": 2095.621,
+                    "stop": 2096.53,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What... what are they? What are they?"
+                },
+                {
+                    "start": 2096.53,
+                    "stop": 2101.194,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, for example, simple misdemeanor assault would be a crime of violence under 16(a)."
+                },
+                {
+                    "start": 2101.194,
+                    "stop": 2107.183,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, of course. It's a crime of violence because you intend to apply force to the body of another person."
+                },
+                {
+                    "start": 2107.183,
+                    "stop": 2117.586,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's right, Justice Scalia, but for example, reckless homicide, a depraved heart murder, which in most States is second degree murder, under petitioner's view of things--"
+                },
+                {
+                    "start": 2117.586,
+                    "stop": 2118.495,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A depraved heart murder?"
+                },
+                {
+                    "start": 2118.495,
+                    "stop": 2119.815,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Mr. Chief Justice."
+                },
+                {
+                    "start": 2119.815,
+                    "stop": 2121.301,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What sort of a murder is that?"
+                },
+                {
+                    "start": 2121.301,
+                    "stop": 2125.016,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's a... that's a... that's the... the... I think the common law term for reckless homicide."
+                },
+                {
+                    "start": 2125.016,
+                    "stop": 2128.593,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A malignant and abandoned heart is what we learned in law school. [Laughter]"
+                },
+                {
+                    "start": 2128.593,
+                    "stop": 2136.039,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that's... that's the same thing, Mr. Chief Justice. But in any event, that doesn't require intentional conduct. That requires only recklessness."
+                },
+                {
+                    "start": 2136.039,
+                    "stop": 2206.462,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's why, I guess, reckless is a harder matter. But you started with context, and when I looked at the context of this statute, the context to me seemed to be that this is not... this is a statute that has nothing to do with immigration. 16 is a definition that's a kind of receptacle that other statutes refer to. And it was part of the original criminal code reform in the '80's. And the purpose of that was to pull together words that are similar throughout the U.S. Code and give them a common definition. And the history of this refers back to the D.C. Code. The history of this and other similar language in the code makes clear that what they're talking about are things like murder, manslaughter, burglary, robbery, extortion, blackmail. They give examples for all these things elsewhere in the code with similar language. So if I look at the context, the context to me says, though the language can be read to cover it, this has nothing to do with drunk driving. Now, that's when you talk about context. I have that in my mind as context. Now, you tell me why I'm wrong."
+                },
+                {
+                    "start": 2206.462,
+                    "stop": 2248.405,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think there are a couple of reasons why you're wrong. The first is that insofar as section 16 was based in whole or in part on the D.C. Code provision, the D.C. Code provision listed specific crimes. Congress did not do that. It had two general definitions. So it's perfectly reasonable to think that Congress would be aware that it would be foreseeable to Congress that the general definitions, the general language it was using might pull in some crimes that were not among those listed in the D.C. Code provision. The second point is that the very first crime listed in that D.C. Code provision is murder, and as I've just said, second degree murder includes in many jurisdictions reckless homicide."
+                },
+                {
+                    "start": 2248.405,
+                    "stop": 2285.186,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. I... I put aside the reckless argument, and I'm not relying on the D.C. Code. That was but one example. I'm saying this same language appears elsewhere in the U.S. Code, 924(e). Wherever it does appear, they list things like burglary, arson, extortion, explosives, and otherwise. And there's no indication that this is meant to be something different and there's every indication from the purpose of it being written in the criminal code reform that Congress is seeking a common definition. That's what's moving me. So your response to that is what?"
+                },
+                {
+                    "start": 2285.186,
+                    "stop": 2292.411,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, insofar as the issue is whether Congress could have had this type of crime in mind, we think the answer is yes."
+                },
+                {
+                    "start": 2292.411,
+                    "stop": 2294.574,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, it could have. I'm saying it didn't have."
+                },
+                {
+                    "start": 2294.574,
+                    "stop": 2298.251,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, let me... let me rephrase the question and the answer."
+                },
+                {
+                    "start": 2298.251,
+                    "stop": 2298.994,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I want your evidence that it did have."
+                },
+                {
+                    "start": 2298.994,
+                    "stop": 2304.499,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Insofar as the issue is whether Congress did have this type of crime of mind, we think the answer is yes."
+                },
+                {
+                    "start": 2304.499,
+                    "stop": 2305.06,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because?"
+                },
+                {
+                    "start": 2305.06,
+                    "stop": 2339.201,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because a... a... the classic example of a crime of violence, as you have just pointed out, is murder, and as I've said, reckless homicide is a form of murder. The definition of use that petitioner is advancing is to employ something for a purpose. So the mens rea that he advocates be... be read into the statute is purposefulness, and it's not at all clear that recklessness, which is a lesser form of mens rea, fits at all comfortably with the concept of purposefulness."
+                },
+                {
+                    "start": 2339.201,
+                    "stop": 2379.779,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you a question? Maybe I'm repeating a little bit of what Justice Breyer asked. But in the blue... statutory appendix to the blue brief, they quote from section 101, and they point out that the term aggravate... of the INA... the term aggravated felony means either a... for purposes of 1182, either any felony... any crime of violence or, 3, a crime of reckless driving described as intoxicated. And it seems to me that statute draws a rather sharp distinction between crime of violence as defined in section 16 of title 18, on the one hand, and reckless driving that we're talking about in this case, on the other, which suggests to me that maybe Congress thought the two were different."
+                },
+                {
+                    "start": 2379.779,
+                    "stop": 2387.292,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we don't... we don't think it does, Justice Stevens, and... and that's even apart from the fact that the Congress that enacted that--"
+                },
+                {
+                    "start": 2387.292,
+                    "stop": 2388.201,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was different. Right."
+                },
+                {
+                    "start": 2388.201,
+                    "stop": 2407.233,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--statute was a different Congress from the one that enacted section 16. But the... the thrust of petitioner's argument under 1101(h) is that if you interpret a crime of violence to include drunk driving resulting in bodily injury, you will render 1101(h)(3) essentially superfluous."
+                },
+                {
+                    "start": 2407.233,
+                    "stop": 2423.041,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I don't think your... your that was a different Congress argument carries much weight. We don't usually interpret the United States Code to be chaotic because each of the sections has been enacted by a different Congress. We try to reconcile the whole thing."
+                },
+                {
+                    "start": 2423.041,
+                    "stop": 2423.867,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that--"
+                },
+                {
+                    "start": 2423.867,
+                    "stop": 2430.76,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I think it... it is telling that this thing does seem to separate reckless driving from... from a crime of violence."
+                },
+                {
+                    "start": 2430.76,
+                    "stop": 2442.071,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that's the point I was just about to make, Justice Scalia, and we think it does separate the two, and there is no overlap. There is some overlap, but there's not complete overlap."
+                },
+                {
+                    "start": 2442.071,
+                    "stop": 2445.621,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you agree that... that the rule of lenity applies?"
+                },
+                {
+                    "start": 2445.621,
+                    "stop": 2459.078,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it... it applies in the sense that if, at the very end of the interpretive process, the Court is left with a grievous doubt as to which way it should rule, yes. It doesn't apply in the sense that we don't think there is a grievous doubt in the case."
+                },
+                {
+                    "start": 2459.078,
+                    "stop": 2471.81,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you say the same thing about... isn't there also a principle that in deportation statutes, ambiguities are to be construed in favor of the alien?"
+                },
+                {
+                    "start": 2471.81,
+                    "stop": 2483.477,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, there is, to be sure, language in this Court's decisions suggesting that. We have never agreed with that view. We think the immigration context is very different from the criminal context."
+                },
+                {
+                    "start": 2483.477,
+                    "stop": 2488.678,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what difference does it make if you concede the rule of lenity, which says the same thing? Ambiguities are to be resolved in favor of the--"
+                },
+                {
+                    "start": 2488.678,
+                    "stop": 2490.823,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It... it doesn't, Justice Scalia. Our only point--"
+                },
+                {
+                    "start": 2490.823,
+                    "stop": 2491.294,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--They're the same."
+                },
+                {
+                    "start": 2491.294,
+                    "stop": 2522.94,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Our only point is that if... if the rule of lenity is to be applied here, we think that the basis for applying it is that we're dealing with a criminal statute, not that we're dealing with a criminal statute incorporated into the immigration laws. I do want to say a little bit more about the... the text and statutory context definition of crime of violence. Apart from the thing that's being defined, crime of violence... and as I've said, we don't think that the word violence has any mens rea necessarily associated with it. The definition of the thing that's being defined is the use of physical force--"
+                },
+                {
+                    "start": 2522.94,
+                    "stop": 2535.982,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say the word violence doesn't. And I think you're probably right. There are all sorts of violent things that happen. But you're dealing with the phrase, crime of violence. And more often than not, crime does have."
+                },
+                {
+                    "start": 2535.982,
+                    "stop": 2549.894,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's exactly right, Mr. Chief Justice. Crime, more often than not, does but it doesn't always. So we think the focus should be on whether the crime involves violence, which we think is essentially an actus reus and not a mens rea."
+                },
+                {
+                    "start": 2549.894,
+                    "stop": 2551.752,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What does actus reus mean?"
+                },
+                {
+                    "start": 2551.752,
+                    "stop": 2573.217,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Actus reus means the actual criminal conduct as opposed to the defendant's state of mind when he's carrying out that conduct. And since legislatures do regulate... do impose criminal liability for violent acts and they have varying degrees of mens rea in those criminal definitions, we don't think that a mens rea should be read into this statute."
+                },
+                {
+                    "start": 2573.217,
+                    "stop": 2583.498,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You say if I bump into somebody getting off the bus, I've... I've committed, as far as actus reus is concerned, an act of violence. Right?"
+                },
+                {
+                    "start": 2583.498,
+                    "stop": 2585.317,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Justice Scalia."
+                },
+                {
+                    "start": 2585.317,
+                    "stop": 2586.265,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I say, excuse me, but--"
+                },
+                {
+                    "start": 2586.265,
+                    "stop": 2588.745,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We don't think so. The--"
+                },
+                {
+                    "start": 2588.745,
+                    "stop": 2592.747,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I committed... committed an act of violence. [Laughter] This is just not normal use of language."
+                },
+                {
+                    "start": 2592.747,
+                    "stop": 2611.862,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Courts... courts have generally read use of physical force in section 16 to mean something more than force in a literal or a scientific sense. Force in this context means violent or force that has the risk of causing injury. Now--"
+                },
+                {
+                    "start": 2611.862,
+                    "stop": 2621.067,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I bump into him really hard, really hard. He falls down. I've committed an act... an act of violence?"
+                },
+                {
+                    "start": 2621.067,
+                    "stop": 2626.761,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, of course, Justice Scalia, you would have to have a legislature criminalizing that conduct, and I think it's very unlikely--"
+                },
+                {
+                    "start": 2626.761,
+                    "stop": 2634.07,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not talking about criminalizing. I'm just talking about normal English usage. Would you say that I committed an act of violence? I don't think so."
+                },
+                {
+                    "start": 2634.07,
+                    "stop": 2634.525,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I--"
+                },
+                {
+                    "start": 2634.525,
+                    "stop": 2641.295,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't care how hard I... I accidentally bumped into him. You wouldn't say, you know, Scalia... he's a violent man. [Laughter]"
+                },
+                {
+                    "start": 2641.295,
+                    "stop": 2668.699,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Scalia, if two outfielders are chasing after a fly ball and they crash into each other, the next day in the newspaper you may well read a headline that talks about a violent crash in the outfield during that game. I don't think it does any violence, if you'll forgive the expression-- [Laughter] --to ordinary English usage to say that when there is a collision between cars, when there is a collision between athletes who are running at full speed, that is a violent act."
+                },
+                {
+                    "start": 2668.699,
+                    "stop": 2669.897,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no."
+                },
+                {
+                    "start": 2669.897,
+                    "stop": 2670.285,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you think it's standard--"
+                },
+                {
+                    "start": 2670.285,
+                    "stop": 2679.889,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You'd say it is a violent result. Yes, a violent crash. You're right. They'd say that in the paper. But they wouldn't say that the two players were committing acts of violence."
+                },
+                {
+                    "start": 2679.889,
+                    "stop": 2690.663,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a totally different meaning of violence. You can talk about a violent wind. [Laughter] It... it has nothing to do with when you're talking about a violent act in the sense of... of crime."
+                },
+                {
+                    "start": 2690.663,
+                    "stop": 2732.19,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I've been... I've been speaking of the thing that's being defined. I want to speak some more about the definition that's really the ultimate statutory language that's being interpreted, which is use of physical force. In the context of section 16, we think that the use of physical force means the application, the exertion, the putting into action of physical force, and in the absence of some specification of a purpose, for example, the use of physical force to subdue an attacker or to gain entry to a building, we don't think that the exertion, application, or putting into action of physical force has any particular mens rea associated with it."
+                },
+                {
+                    "start": 2732.19,
+                    "stop": 2746.968,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why in the... in the House... in the Senate report on this bill, the example that they use for the first is an assault or a battery. Nobody has used, you know, blindly in your sleep knocking over a table and--"
+                },
+                {
+                    "start": 2746.968,
+                    "stop": 2751.798,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that... that wouldn't be a crime, of course, Justice Breyer."
+                },
+                {
+                    "start": 2751.798,
+                    "stop": 2752.541,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--No. Right."
+                },
+                {
+                    "start": 2752.541,
+                    "stop": 2753.163,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "An assault--"
+                },
+                {
+                    "start": 2753.163,
+                    "stop": 2756.506,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, it's pretty hard to assimilate your model to like an assault."
+                },
+                {
+                    "start": 2756.506,
+                    "stop": 2788.39,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the... our essential point is that legislatures define crimes with all sorts of mens rea, ranging from specific intent on one end of the spectrum to strict liability on the other. And sometimes the thing that is being prohibited involves violence and sometimes it doesn't. DUI manslaughter, DUI resulting in serious injury is a classic example of a case where the thing that is being criminalized, the act, is violent but the mens rea is not an intent mens rea."
+                },
+                {
+                    "start": 2788.39,
+                    "stop": 2806.556,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about negligent homicide? You... you absent mindedly don't see a stop sign. You go through the stop sign and someone is killed or just injured. Someone is injured through your negligence driving a car. Is that... under your definition, that's a crime of violence."
+                },
+                {
+                    "start": 2806.556,
+                    "stop": 2809.983,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think... I think we would have to agree with that, Justice Scalia."
+                },
+                {
+                    "start": 2809.983,
+                    "stop": 2811.097,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, I think you would, and boy, that's a--"
+                },
+                {
+                    "start": 2811.097,
+                    "stop": 2815.638,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So every driving accident is a crime of violence--"
+                },
+                {
+                    "start": 2815.638,
+                    "stop": 2817.003,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, no, Justice Breyer."
+                },
+                {
+                    "start": 2817.003,
+                    "stop": 2818.322,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--if there's negligence involved."
+                },
+                {
+                    "start": 2818.322,
+                    "stop": 2821.582,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Most driving accidents aren't criminal at all. It... it takes--"
+                },
+                {
+                    "start": 2821.582,
+                    "stop": 2830.87,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But any... any one that is criminal... let's see. Criminal negligence in respect to driving becomes a crime of violence under your definition."
+                },
+                {
+                    "start": 2830.87,
+                    "stop": 2837.723,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't... I don't know that legislatures generally criminalize most car accidents."
+                },
+                {
+                    "start": 2837.723,
+                    "stop": 2845.997,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why isn't it if there's a traffic infraction involved? A traffic infraction... you went through a stop sign. In Justice Scalia's example, he went through a stop sign."
+                },
+                {
+                    "start": 2845.997,
+                    "stop": 2849.712,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't... I don't think that would be a felony or even a misdemeanor."
+                },
+                {
+                    "start": 2849.712,
+                    "stop": 2850.167,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It doesn't have to be a felony."
+                },
+                {
+                    "start": 2850.167,
+                    "stop": 2850.455,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It doesn't have to be--"
+                },
+                {
+                    "start": 2850.455,
+                    "stop": 2851.82,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It just has to be an offense--"
+                },
+                {
+                    "start": 2851.82,
+                    "stop": 2852.192,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think--"
+                },
+                {
+                    "start": 2852.192,
+                    "stop": 2852.935,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--certainly an offense."
+                },
+                {
+                    "start": 2852.935,
+                    "stop": 2861.645,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think a traffic infraction probably would not be even a misdemeanor. So there's a whole set of driving infractions that wouldn't even rise to the level of a misdemeanor."
+                },
+                {
+                    "start": 2861.645,
+                    "stop": 2890.502,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I don't know, and if you're going to... if you're... you're making an argument based on what the language read most broadly can accommodate, and if we're going to follow that criterion, then the... the reference to the... to the infraction in (a) is offense. An offense is certainly broad enough to... to include driving infractions, as well as misdemeanors. I mean, if... if you want a broad interpretation, you're going to pick up a lot."
+                },
+                {
+                    "start": 2890.502,
+                    "stop": 2904.164,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I'm... I'm not sure we are, Justice Souter, because a traffic infraction would not have as an element the use of force. If you drive through a stop sign and you're cited for driving through a stop sign, the offense you're cited for would not have an element--"
+                },
+                {
+                    "start": 2904.164,
+                    "stop": 2914.379,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The offense you're... you're cited for is driving your car through the stop sign and you've just been telling us that... that using an automobile is inherently a use of force. Sure, it would cover it."
+                },
+                {
+                    "start": 2914.379,
+                    "stop": 2923.899,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. No, Justice Souter. We... we agree that the use of force has to be directed against another person."
+                },
+                {
+                    "start": 2923.899,
+                    "stop": 2930.421,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the offense you're cited for in Justice Scalia's hypo is negligent homicide, not going through a stop sign."
+                },
+                {
+                    "start": 2930.421,
+                    "stop": 2931.414,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 2931.414,
+                    "stop": 2935.212,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's right, but you... you agree negligent homicide would... would be covered."
+                },
+                {
+                    "start": 2935.212,
+                    "stop": 2967.906,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We do. I just want to say one last thing about the other part of this case. Most of the discussion has been whether use requires intent. Petitioner actually makes two alternative arguments. One has to do with the meaning of the word use. The other has to do with the meaning of physical force. We don't think that the physical force part of this case is truly in dispute. His view is that physical force requires that the driver actually crash into somebody, but we think that if you're--"
+                },
+                {
+                    "start": 2967.906,
+                    "stop": 2974.843,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. He said his view is that the... that the physical force requires an element of intent, which you dispute."
+                },
+                {
+                    "start": 2974.843,
+                    "stop": 2977.072,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's true, Justice Souter. I was--"
+                },
+                {
+                    "start": 2977.072,
+                    "stop": 2991.949,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He's making the... he's making the same argument that Justice Holmes said the dog understands, the difference between getting tripped over and kicked. And... and you're saying no. The dog's perception doesn't count in... in the... the interpretation of... of using force."
+                },
+                {
+                    "start": 2991.949,
+                    "stop": 3054.47,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I agree he's making an argument about the requirement of intent which he thinks the word use encompasses. He's also making an alternative argument, which is whether or not use requires intent, the crime does not have as an element the use of physical force because you could injure somebody by driving drunk without the use of physical force. And he gives examples of how you could do that. Our position is that even if those examples he gives, for example, swerving and forcing somebody off the road or falling asleep at the wheel and having somebody else crash into you, even if those examples do not, by themselves, involve the use of... involve physical force, it's our view that if you're driving drunk and you're doing those things, there's a substantial risk of physical force. So on the physical force part of the case, we think we win under 16(b), which means that the only issue that's really in dispute between the parties is whether use requires intent. And for all the reasons in our brief and the reasons I've given today, I think our position is correct."
+                },
+                {
+                    "start": 3054.47,
+                    "stop": 3059.837,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Himmelfarb. Mr. Sollers, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3059.837,
+            "stop": 3105.823
+        }
+    ]
+}

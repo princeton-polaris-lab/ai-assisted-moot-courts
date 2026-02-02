@@ -1,0 +1,2229 @@
+{
+    "title": "Parke v. Raley",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 39.899,
+                    "stop": 133.454,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This case concerns Ricky Raley's 1986 conviction as a persistent felony offender under Kentucky law. That conviction was based on two prior guilty plea convictions. On the 1981 conviction the record was a plea negotiation form. Raley filed a pretrial motion to suppress the evidence of those two prior convictions. At the suppression hearing Raley acknowledged that the plea, 1981 plea was recommitted by counsel and that he was guilty of the offenses to which he pleaded. The Sixth Circuit ordered a new hearing regarding that plea and resulting persistent felony offender conviction. The attorney general of the Commonwealth of Kentucky respectfully contends that because a challenge to a prior conviction offered for purposes of sentencing enhancement is a collateral attack the convicted defendant should bear the burden of proof to demonstrate the invalidity of the prior conviction. The Kentucky Supreme Court has ruled that the validity of a prior conviction under the persistent felony offender law is not an element of the offense, and that ruling should be binding on the Federal court under this Court's opinion in Martin v. Ohio. Further, the ruling of the Kentucky Supreme Court is fully consistent with the analysis employed by this Court in Lewis v. United States under the Federal convicted felony possession of firearm law."
+                },
+                {
+                    "start": 133.454,
+                    "stop": 144.644,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Sonego, the Kentucky Supreme Court allows a defendant to make some sort of challenge to the validity of a prior conviction under this statute, doesn't it?"
+                },
+                {
+                    "start": 144.644,
+                    "stop": 164.585,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor. It must be by a pretrial motion and it's a hearing conducted outside the presence of the jury and decided by the judge as a matter of law. But it's also clear, of course, that the Kentucky Supreme Court believes it is compelled to do so under the opinions of this Court in allowing such a challenge."
+                },
+                {
+                    "start": 164.585,
+                    "stop": 175.033,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you don't think it was just interpreting Kentucky's, the Kentucky recidivous statute when it said that you can make that sort of challenge?"
+                },
+                {
+                    "start": 175.033,
+                    "stop": 206.533,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor, the Commonwealth contends that the Kentucky Supreme Court was viewing itself compelled by decisions of this Court. We have cited the case of Commonwealth v. Gadd where the court discusses the fact that the prior, the validity of the prior conviction is not an element of the offense itself and believes itself compelled to allow a pretrial challenge in order to comport with due process rulings by this Court."
+                },
+                {
+                    "start": 206.533,
+                    "stop": 217.261,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the Commonwealth wants something more favorable to it from this Court than they've got even from the Supreme Court of Kentucky, say nothing of the Sixth Circuit?"
+                },
+                {
+                    "start": 217.261,
+                    "stop": 236.484,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, of course this Court could reverse on much narrower grounds. Your Honor, the Commonwealth would be happy with a more favorable ruling, but this Court could reverse on more narrower grounds simply by putting the burden of proof on the convicted defendant to show--"
+                },
+                {
+                    "start": 236.484,
+                    "stop": 237.195,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As the Supreme Court of Kentucky did."
+                },
+                {
+                    "start": 237.195,
+                    "stop": 245.121,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct, Your Honor. That's the primary issue that this Court must resolve today in this case and--"
+                },
+                {
+                    "start": 245.121,
+                    "stop": 254.498,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I wonder if there isn't even a more narrow ground than that, because is it not true that the proceeding that we're involved in is a collateral attack on the 1987 conviction?"
+                },
+                {
+                    "start": 254.498,
+                    "stop": 263.545,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It was a habeas corpus proceeding. Yes, Your Honor, it was a habeas corpus proceeding against the persistent felony offender."
+                },
+                {
+                    "start": 263.545,
+                    "stop": 273.592,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the question in this case is whether the procedure followed in Kentucky satisfies due process sufficiently to defeat a collateral attack on the 1987 conviction, isn't that correct?"
+                },
+                {
+                    "start": 273.592,
+                    "stop": 314.319,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, it is. It is actually a double-header collateral attack, if you'll pardon my use of that analogy. We have a habeas corpus attack on the persistent felony offender conviction which in turn was based on the 1981 conviction subsumed within the persistent felony offender conviction. And I would point out to the Court also that according to Raley's habeas corpus petition filed in this case he was still serving time on the 1981 conviction when he filed that habeas petition. So clearly he was not attacking the 1981 conviction itself, but only insofar as it resulted in a persistent felony offender conviction."
+                },
+                {
+                    "start": 314.319,
+                    "stop": 334.764,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In fact I'm not sure it is even a collateral attack on the '81 conviction. It's the contention that in the '87 proceedings it's fundamentally unfair to use the 1981 conviction. They wouldn't have to set aside the '81 conviction in order to say that was fundamentally unfair one way or the other. In other words I really think you have only got one collateral attack, and that's this proceeding."
+                },
+                {
+                    "start": 334.764,
+                    "stop": 366.198,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I would be, I would have to agree with you that there should only be one collateral attack, but clearly you are correct in saying that this collateral attack was brought because of the persistent felony offender conviction, not because of the 1981 conviction. It would appear since Mr. Raley did not attack the 1981 conviction he was satisfied with the result in that situation."
+                },
+                {
+                    "start": 366.198,
+                    "stop": 385.992,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could a state say that, introduce in the record evidence of a conviction is conclusive proof that the person was indeed convicted of the crime for purposes of the persistent felony offender statute?"
+                },
+                {
+                    "start": 385.992,
+                    "stop": 392.597,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, the Kentucky Supreme Court has said that the judgment is sufficient to satisfy the statute--"
+                },
+                {
+                    "start": 392.597,
+                    "stop": 396.2,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, not... can it be conclusive evidence?"
+                },
+                {
+                    "start": 396.2,
+                    "stop": 404.007,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor, it could be conclusive evidence if--"
+                },
+                {
+                    "start": 404.007,
+                    "stop": 408.95,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could a state provide that the record conviction itself suffices?"
+                },
+                {
+                    "start": 408.95,
+                    "stop": 425.23,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor, I think the state could provide that by following the analogy of Lewis v. United States in taking the position that a collateral challenge would have to precede the subsequent charge."
+                },
+                {
+                    "start": 425.23,
+                    "stop": 440.972,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that the status of being a person with a record conviction is all that's needed from a constitutional standpoint to suffice for your being convicted under a statute like the PFO statute in Kentucky?"
+                },
+                {
+                    "start": 440.972,
+                    "stop": 460.845,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. I think the question about whether or not the challenge should be brought prior to the subsequent offender charge being filed has been discussed by some of the Federal courts under the Federal sentencing guidelines, and I think there may be a few states that have--"
+                },
+                {
+                    "start": 460.845,
+                    "stop": 473.663,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the same answer apply if there is a separate offense for being a PFO? At that point does the state have some additional burden beyond showing record evidence of the conviction?"
+                },
+                {
+                    "start": 473.663,
+                    "stop": 494.376,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor, I don't think that should make a difference. Kentucky chooses to employ jury sentencing, and for that reason requires a persistent felony offender charge be included in the indictment. But I think Kentucky could, if it eliminated jury sentencing, follow something analogous to the Federal sentencing guidelines."
+                },
+                {
+                    "start": 494.376,
+                    "stop": 508.016,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would your answer be the same if all parties conceded that the prior conviction was obtained through an unknowing plea?"
+                },
+                {
+                    "start": 508.016,
+                    "stop": 519.225,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, I think it would. I interpret the cases of this Court as saying--"
+                },
+                {
+                    "start": 519.225,
+                    "stop": 521.607,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about an uncounseled plea, there is no counsel present?"
+                },
+                {
+                    "start": 521.607,
+                    "stop": 530.593,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I would have to, I would have to say that the precedents of this Court establish that a defendant may attack an uncounseled guilty plea."
+                },
+                {
+                    "start": 530.593,
+                    "stop": 533.415,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why? What is the difference in the two cases?"
+                },
+                {
+                    "start": 533.415,
+                    "stop": 548.104,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The difference is, Your Honor, the defendant presumably has had the advice of counsel and therefore certainly had an opportunity to discuss with counsel the events leading to the guilty plea."
+                },
+                {
+                    "start": 548.104,
+                    "stop": 555.297,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the difference depend upon the fundamentality or the gravity of the constitutional violation?"
+                },
+                {
+                    "start": 555.297,
+                    "stop": 567.808,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, I think that is an important point to make because the Court has clearly stated the right to counsel is fundamental. It has been applied retroactively to the criminal cases."
+                },
+                {
+                    "start": 567.808,
+                    "stop": 585.409,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, under the hypothesis we're assuming that the guilty plea was uninformed, it was a completely uninformed waiver. Why is that any different from a case where there's no counsel?"
+                },
+                {
+                    "start": 585.409,
+                    "stop": 655.474,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I think the difference is the court has assumed that where counsel is not provided it is more likely an innocent man would plead guilty than otherwise. Where counsel has been provided then counsel has the opportunity to point out to the defendant his rights and possible defenses that may exist, the opportunity to discuss the evidence that might be introduced against him, and the possible sentences that may result. The Commonwealth respectfully contends that placing the burden of proof on a convicted defendant making a collateral attack for purposes of sentencing enhancement is consistent with this Court's ruling in Medina v. California, where the Court ruled that the state could require the defendant to demonstrate he was incompetent to stand trial, and that case was also based on Martin v. Ohio."
+                },
+                {
+                    "start": 655.474,
+                    "stop": 660.308,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's the relevant historical tradition here, do you think?"
+                },
+                {
+                    "start": 660.308,
+                    "stop": 792.145,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, the history of the precedents of the Court have directed that the denial of counsel is a fundamental right permitting a collateral attack on a guilty plea, and have also indicated that an involuntary guilty plea may be collaterally attacked. I don't believe the Court has indicated any other basis for a collateral attack. The Court's precedents, such as United States v. Timmreck, direct attention to fundamental defects in the proceeding that would make the resulting conviction fundamentally unfair and potentially or probably result in an innocent person being convicted. And certainly probable innocence is an important factor, as this Court has made clear in evaluating the circumstances of a collateral attack. The history of the precedents of this Court clearly indicate that on a collateral attack the convicted defendant must bear the burden of proof. That has been clear at least since Johnson v. Zerbst in 1938 and this Court has repeatedly reiterated that the burden for a collateral attack should fall on the convicted defendant who mounts such an attack. Most recently in Hill v. Lockhart the Court placed the burden of proof on the convicted defendant to establish ineffective assistance of counsel. This was consistent with the Court's earlier ruling in Strickland v. Washington regarding counsel provided for a trial. The Court has also made it clear that a collateral attack is not a substitute for an appeal and therefore a higher standard must be applied in that situation. Within the context of sentencing enhancement it really is a double collateral attack that is being mounted in the proceedings."
+                },
+                {
+                    "start": 792.145,
+                    "stop": 818.044,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask a question about the nature of the burden you think the petitioner would have? Suppose he gets on the witness stand and says the judge didn't ask me any questions and I didn't understand what the crime was I was charged with. That's all he says. Does that carry his burden? Does it shift the burden to the state to go forward and prove otherwise?"
+                },
+                {
+                    "start": 818.044,
+                    "stop": 874.254,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, that could shift the burden of proof to the prosecution, bearing in mind this Court said in Marshall v. Lonberger that the defendant must convince the trial court of the credibility of his testimony, or whatever witnesses. But I certainly, if I were prosecuting the case, would want to present whatever evidence I had at that point and not take a chance on the judge deciding the defendant was a credible witness. But certainly, as this Court has indicated most recently I guess in the dissenting opinion in Marshall, in Loper v. Beto, defendant's own testimony certainly opens serious credibility questions. And I think again the lower Federal courts have also indicated they have serious doubts about the ease with which a defendant may come forward and claim some sort of constitutional violation without any corroboration."
+                },
+                {
+                    "start": 874.254,
+                    "stop": 885.813,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But then what if the only other documentary evidence is that there was no transcript prepared, even though say normally they do prepare a transcript but in his case they didn't? What more is he supposed to do in your view?"
+                },
+                {
+                    "start": 885.813,
+                    "stop": 924.838,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, he certainly could present other witnesses such as his former attorney, the former judges, bystanders, Kentucky allows a bystander bill. A bystander can be able to observe the proceedings since they normally occur in the courtroom. Things of that nature. A court clerk may have been present. Part of the problem, of course, is that, as this Court has noted, there's no time limit on a collateral attack and a collateral attack may go back many years. Likewise Kentucky has no prescribed time limit on making a collateral attack."
+                },
+                {
+                    "start": 924.838,
+                    "stop": 930.805,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the practice in Kentucky about making a transcript of plea hearings?"
+                },
+                {
+                    "start": 930.805,
+                    "stop": 936.02,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I understand the normal practice, Your Honor, has been only if an appeal was taken."
+                },
+                {
+                    "start": 936.02,
+                    "stop": 936.781,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I see."
+                },
+                {
+                    "start": 936.781,
+                    "stop": 941.213,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The judge could order it, but otherwise it wouldn't be made."
+                },
+                {
+                    "start": 941.213,
+                    "stop": 967.362,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Sonego, when you concede that at least a certain quantity of evidence would be sufficient to shift the burden to the state, do you mean that it would be enough to shift the burden of proof or just that it would be enough to shift the burden of going forward in the sense that if there's a prima facie case made and the state does nothing the state presumably is going to lose if the judge accepts the evidence as it appears? Do you mean then a shifting of the burden of proof or just the burden of production?"
+                },
+                {
+                    "start": 967.362,
+                    "stop": 986.794,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, in this case the Commonwealth is arguing under Johnson v. Zerbst it should be the burden of proof, but certainly the opinion of the Kentucky Supreme Court seemed to indicate it's simply the burden of producing the evidence. Apparently Kentucky follows the slightly lower standard at this point."
+                },
+                {
+                    "start": 986.794,
+                    "stop": 999.422,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Sonego, I, my understanding is that you did not raise below the contention that the entire issue could not be raised on habeas."
+                },
+                {
+                    "start": 999.422,
+                    "stop": 1002.925,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The matter of the Boykin warning, Your Honor?"
+                },
+                {
+                    "start": 1002.925,
+                    "stop": 1003.155,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 1003.155,
+                    "stop": 1036.477,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, the Commonwealth's position is that that was inherent in our argument that Dunn v. Simmons was wrongly decided and is inherent in the issue of which side must bear the burden of proof, because the question becomes how is that burden of proof to be satisfied. Cases were cited such as Hill v. Lockhart from this Court also indicating that Boykin was not an essential component of a valid guilty plea. I will reserve the--"
+                },
+                {
+                    "start": 1036.477,
+                    "stop": 1050.787,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you make the argument below in the court of appeals that for purposes of Federal habeas corpus this kind of a claim was not entertainable?"
+                },
+                {
+                    "start": 1050.787,
+                    "stop": 1057.044,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor, that was not a precise argument caption. We presented--"
+                },
+                {
+                    "start": 1057.044,
+                    "stop": 1060.987,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're making an argument here that wasn't made in the court of appeals?"
+                },
+                {
+                    "start": 1060.987,
+                    "stop": 1071.463,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, in one sense, Your Honor, but we're contending that it was subsumed within the other arguments presented, the argument that Dunn v. Simmons was wrongly decided."
+                },
+                {
+                    "start": 1071.463,
+                    "stop": 1074.097,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How was it subsumed? Tell me again."
+                },
+                {
+                    "start": 1074.097,
+                    "stop": 1080.841,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We contended that the Sixth Circuit's opinion in Dunn v. Simmons was in error, which placed the burden of proof on the Commonwealth."
+                },
+                {
+                    "start": 1080.841,
+                    "stop": 1082.604,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean the state court was in error?"
+                },
+                {
+                    "start": 1082.604,
+                    "stop": 1086.788,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The Sixth Circuit's opinion in Dunn v. Simmons."
+                },
+                {
+                    "start": 1086.788,
+                    "stop": 1086.948,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1086.948,
+                    "stop": 1095.474,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And by asking the Sixth Circuit to reexamine that ruling we contend that they also had to reexamine whether it fared around a Boykin warning."
+                },
+                {
+                    "start": 1095.474,
+                    "stop": 1096.375,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I see."
+                },
+                {
+                    "start": 1096.375,
+                    "stop": 1103.738,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "More recently in the McLaughlin case the Sixth Circuit seems to have indicated a Boykin warning is not an essential component of a guilty plea."
+                },
+                {
+                    "start": 1103.738,
+                    "stop": 1120.49,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask one further, just a practical question? As I understand, you don't write up the transcript if there's no appeal. Are the stenographer's notes either preserved on tape or available if they were challenged say within 2 or 3 years? I can understand how they would be lost if you had to wait 10, 15 years. But is there--"
+                },
+                {
+                    "start": 1120.49,
+                    "stop": 1134.73,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe the Chief Justice of the Kentucky Supreme Court has directed the stenographers to try to save their notes for 5 years, but there is no further evidence in this case."
+                },
+                {
+                    "start": 1134.73,
+                    "stop": 1138.663,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And they don't regularly make sound transcripts of these hearings, do they?"
+                },
+                {
+                    "start": 1138.663,
+                    "stop": 1143.107,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I believe that some court reporters do and some don't."
+                },
+                {
+                    "start": 1143.107,
+                    "stop": 1144.549,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's up to the court reporter, in other words?"
+                },
+                {
+                    "start": 1144.549,
+                    "stop": 1149.07,
+                    "speaker": {
+                        "name": "Ian G. Sonego",
+                        "ID": 28684,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, that's my understanding. I'll reserve the balance of my time for rebuttal."
+                },
+                {
+                    "start": 1149.07,
+                    "stop": 1152.613,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Sonego. Mr. Manning, we'll hear from you."
+                }
+            ],
+            "start": 39.899,
+            "stop": 1233.772
+        },
+        {
+            "turns": [
+                {
+                    "start": 1152.613,
+                    "stop": 1233.772,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: I'd like to begin by explaining what we think, believe is the proper standard for evaluating this claim. We believe that it's set forth in this Court's decision in Chapman v. United States. In that case the Court held that a person who has been convicted is eligible and the court may impose whatever punishment is authorized by statute for the offense, so long as that penalty is not cruel and unusual and so long as the penalty is not based on some arbitrary distinction that would violate the due process clause of the Fifth Amendment. In this case the Kentucky Supreme Court has definitively interpreted its persistent felony offender statute to turn on the fact of conviction. As my colleague from the Commonwealth pointed out, that is clear from the court's decision in Commonwealth v. Gadd at page 917. It says the fact of conviction is what the statute relies on. The question is whether it is arbitrary for the state to treat somebody as a persistent or repeat offender on the basis of the fact of a prior conviction. We believe that it is not irrational for the state to do so even if the state is unwilling to allow a collateral attack in which the defendant may raise every issue that he could have raised on a direct appeal of the prior conviction."
+                },
+                {
+                    "start": 1233.772,
+                    "stop": 1246.344,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just ask, because I want to be sure I understand you correctly, you say as a matter of Kentucky law the fact of conviction is the critical thing. Is that an element of the offense that must be proved beyond a reasonable doubt as a matter of Kentucky law?"
+                },
+                {
+                    "start": 1246.344,
+                    "stop": 1307.878,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does have to be proved beyond a reasonable doubt under Kentucky law and it is proven to the jury. But this Court's cases have for many years made clear that it is not, it is not dispositive that an offense is, that, I'm sorry, that a persistent felony offender status is determined by a jury and even determined beyond a reasonable doubt. In Graham v. West Virginia the Court said even though it's charged separately, even though it's decided by a jury, a persistent felony offense is a sentencing factor that enhances the punishment. It is not a separate offense as such. And even if it were the question would be the same, whether it's rational for the state to treat some people as persistent offenders and punish them more harshly on the ground that they have prior convictions. And we believe that it is rational for the state to do so even if, as I mentioned, there is not a full right to appeal. There is nothing in this Court's cases that says that to treat somebody as a persistent felony offender they have to be retried for their past crimes."
+                },
+                {
+                    "start": 1307.878,
+                    "stop": 1328.882,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Manning, do some states characterize their recidivous statutes as being separate offenses as opposed to sentencing enhancing, and if they do are they then required to prove the prior offenses beyond a reasonable doubt or is your answer still the same?"
+                },
+                {
+                    "start": 1328.882,
+                    "stop": 1399.853,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It depends on how they... I mean under this Court's cases such as Martin v. Ohio and Patterson v. New York the answer is that it doesn't really matter whether they treat them as offenses as such or as sentencing factors under state laws. They are free to define the offenses in a manner that treats the prior conviction as such, the fact of conviction as the critical element. There is nothing in this Court's cases that suggests that the validity in general of a prior conviction must be an element of an offense. And indeed in response to Justice O'Connor's question, the history is quite to the contrary. The longstanding tradition was that states would traditionally allow people charged as multiple offenders or treated and sentenced as persistent offenders to attack their prior convictions only on the ground that the prior conviction was entered by a court without jurisdiction over the prior offense, and that is evident from 25 Am Jur at page 266 to 267, 1940, 16 Corpus Juris at 1342, 1918, Kelly v. People--"
+                },
+                {
+                    "start": 1399.853,
+                    "stop": 1404.137,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And is the rule the same if the conviction is uncounseled, if there is no compliance with Gideon?"
+                },
+                {
+                    "start": 1404.137,
+                    "stop": 1427.647,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor. The rules are slightly different when the conviction is uncounseled, and that's evident from this Court's cases in Tucker and Burgett. But we believe that the reason that that's so is the right to counsel is on a different plane from typical errors that would impact a conviction. As this Court has stated many times, the right to counsel goes to the very integrity of the fact finding process."
+                },
+                {
+                    "start": 1427.647,
+                    "stop": 1429.77,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there anything else that's on that plane?"
+                },
+                {
+                    "start": 1429.77,
+                    "stop": 1469.504,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we would suggest that the kind of error would have to be a fundamental structural error such as perhaps the adjudication of the case before a kangaroo court or the adjudication of the case before a biased judge, something that went to the very legitimacy of the process and not merely cause one to doubt the reliability of the conviction, but the very legitimacy of the proceeding from which it was rendered. And that, by the way, brings the Tucker and Burgett line of cases into line with the traditional basis for providing relief from final judgments of the conviction, i.e. that it was rendered by a court that didn't have competent jurisdiction."
+                },
+                {
+                    "start": 1469.504,
+                    "stop": 1481.004,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about a case in which the defendant had a lawyer but did not speak English and the lawyer didn't speak anything but English and the judge didn't speak anything but English. Would that be sufficient to taint the conviction?"
+                },
+                {
+                    "start": 1481.004,
+                    "stop": 1510.313,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, that... your question essentially is the same as asking whether a defendant can raise a voluntariness claim in general in the context of a collateral attack in a sentence enhancement proceeding, and our answer to that would be no. We think that the question is whether society can rationally treat a final conviction as conclusive without giving the defendant an opportunity in the run of cases to raise all manner of trial error in the prior conviction."
+                },
+                {
+                    "start": 1510.313,
+                    "stop": 1512.864,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in the hypothetical I gave you if the lawyer wasn't there he could--"
+                },
+                {
+                    "start": 1512.864,
+                    "stop": 1514.905,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorry?"
+                },
+                {
+                    "start": 1514.905,
+                    "stop": 1518.528,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--In the hypothetical I gave you the presence of the lawyer would make the difference?"
+                },
+                {
+                    "start": 1518.528,
+                    "stop": 1525.763,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The presence... presumably the lawyer... yes, if the defendant has a lawyer then the courts--"
+                },
+                {
+                    "start": 1525.763,
+                    "stop": 1527.945,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even if the defendant can't communicate with the lawyer?"
+                },
+                {
+                    "start": 1527.945,
+                    "stop": 1531.047,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the lawyer presumably will get an interpreter, Your Honor."
+                },
+                {
+                    "start": 1531.047,
+                    "stop": 1534.85,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm assuming he didn't in the case. They were busy, you know, some of these courtrooms get pretty busy."
+                },
+                {
+                    "start": 1534.85,
+                    "stop": 1539.752,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, with respect, it's always possible to come up with very--"
+                },
+                {
+                    "start": 1539.752,
+                    "stop": 1542.975,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand, but your position is right to counsel and that's it?"
+                },
+                {
+                    "start": 1542.975,
+                    "stop": 1543.986,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the court--"
+                },
+                {
+                    "start": 1543.986,
+                    "stop": 1545.558,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or don't, or no jurisdiction."
+                },
+                {
+                    "start": 1545.558,
+                    "stop": 1565.733,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right to counsel and fundamental structural errors that would be equivalent, and we frankly think there are very few. I would like to point out that whatever the class of errors is, Boykin is far, far from it. It is a prophylactic error. It is not... to say that a court has violated Boykin is not to say that it has violated the Constitution."
+                },
+                {
+                    "start": 1565.733,
+                    "stop": 1574.569,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what about a plea where all admit that the plea was entered unknowingly and without knowledge of any rights?"
+                },
+                {
+                    "start": 1574.569,
+                    "stop": 1655.875,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Again, Your Honor, that would be the same question as Justice Stevens asked, which is whether a state must allow the defendant to raise such a claim. I mean, if the defendant is... certainly as a matter of state law the state could allow a defendant to raise such a claim, but the question is whether it would be irrational to foreclose a defendant from raising challenges to the voluntariness of his plea in the run of cases and to treat a prior conviction as conclusive of the fact that this person is a repeat offender and deserves harsher punishment than somebody who has not previously been convicted. The due process inquiry in this case is very, very close to an equal protection question. You have two defendants, both of whom are identical in every respect except that one of them has never been convicted of a crime before and one of them has a record that has two prior convictions that are regular on their face. And we submit that under this Court's cases the question is whether it is a rational distinction to punish the second defendant who has two convictions more heavily. And the answer is, with the exception of fundamental errors in the prior convictions such as the ones that were identified by this Court's cases in Tucker and Burgett, it is entirely rational for the states to make that differentiation and entirely constitutional for the states to implement their persistent felony offender statutes on that basis. If there are no further questions."
+                },
+                {
+                    "start": 1655.875,
+                    "stop": 1662.48,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Manning. Mr. Clare, we'll hear from you."
+                }
+            ],
+            "start": 1152.613,
+            "stop": 1707.29
+        },
+        {
+            "turns": [
+                {
+                    "start": 1662.48,
+                    "stop": 1707.29,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This is an extremely important case because it deals with Boykin v. Alabama and the rights of defendants to be guaranteed their constitutional rights. Every morning at 9 a.m., Monday through Friday, in Louisville, Kentucky in the hall of justice the first floor is swarming with people. There are eight district courts that line the left-hand side of the courthouse and outside the double doors of each of those courts there are hundreds of defendants waiting their turn."
+                },
+                {
+                    "start": 1707.29,
+                    "stop": 1708.783,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're talking about what, Jefferson County?"
+                },
+                {
+                    "start": 1708.783,
+                    "stop": 1771.943,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's Jefferson County, Kentucky, where this plea was taken. These defendants are charged with everything from speeding tickets, traffic violations, to multiple count felony complaints. The atmosphere of the courthouse resembles a bus station before the passengers are boarded and the buses are about to depart. The defendants wait their turn, waiting their turn come from all walks of life. Most of them, though, are undereducated and from the lower socio-economic background. Each court has on its dockets 50 to 200 cases. It goes from 9 o'clock in the morning until 11:30. Afternoon court starts at 1 o'clock. There are three to four prosecutors in each courtroom conferencing the cases, there's the judge, a couple sheriffs, and a clerk. The goal of everybody is to get the cases decided and to move on to the next one."
+                },
+                {
+                    "start": 1771.943,
+                    "stop": 1773.735,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They have an hour and a half for lunch?"
+                },
+                {
+                    "start": 1773.735,
+                    "stop": 1775.726,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They have an hour and a half."
+                },
+                {
+                    "start": 1775.726,
+                    "stop": 1777.088,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's more than we do."
+                },
+                {
+                    "start": 1777.088,
+                    "stop": 1850.909,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They usually get an hour if they go up until 12 o'clock. The pace in the courts is hectic. The prosecutors and the judge need to finish their docket and to move on. Because of this there is a strong pressure to plead guilty. The court wants to clean its docket, the defense counsel wants to get to the next client, and the prosecutor wants to finish his job for that morning. The only time that the Constitution comes up in all these proceedings is when the Boykin sheet comes into play. The Boykin sheet sets forth the constitutional rights the defendants have. Before the court will take a plea it wants a Boykin sheet in that case jacket and it reviews that Boykin sheet with each of the defendants. The defendant signs on the bottom, the defense counsel signs on the bottom, and the judge signs on the bottom and it is placed in the record. It lists the constitutional rights and the defendant states in open court on the record that he has read the Boykin sheet, that he is aware of his constitutional rights, and when he is pleading he knows he is waiving them. This is video recorded in some of the courtrooms, but audio recorded in all of the courtrooms."
+                },
+                {
+                    "start": 1850.909,
+                    "stop": 1855.474,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course he might lie about that just as he would lie about his guilty plea, right?"
+                },
+                {
+                    "start": 1855.474,
+                    "stop": 1856.863,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "A defendant may lie--"
+                },
+                {
+                    "start": 1856.863,
+                    "stop": 1859.815,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, just to move things along, as you say."
+                },
+                {
+                    "start": 1859.815,
+                    "stop": 1872.595,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Many times people will enter into a plea of guilty for many different reasons, but the important point here is that on the record he has acknowledged that he is giving up certain rights."
+                },
+                {
+                    "start": 1872.595,
+                    "stop": 1912.134,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're painting this as a right somehow so fundamental that it requires the permission of collateral attack in a subsequent proceeding, and I fail to see that it's that fundamental. I mean, I am sure it's very useful. I have no doubt about that. But you're telling us that in order to rush things along defendants are willing to plead guilty, but in order to rush things along they would not be willing to say well, what do you want me to say for the Boykin sheet, of course, yes, I'll say whatever you need said. I mean, maybe, but I don't see how that's so fundamental that we should allow it to be attacked collaterally."
+                },
+                {
+                    "start": 1912.134,
+                    "stop": 1933.706,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We are collaterally attacking the 1987 conviction, which is an attack at the procedure used by the State of Kentucky. Justice Stevens stated that I believe you only get one collateral attack here. The collateral attack is of the '87, not the '81 and the '79 conviction."
+                },
+                {
+                    "start": 1933.706,
+                    "stop": 1943.466,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wherein you say their procedure is bad is that it does not permit a collateral attack on the earlier conviction, right? Isn't that wherein you say their procedure was bad?"
+                },
+                {
+                    "start": 1943.466,
+                    "stop": 1977.56,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That, the way... yes. That's how their procedure is incorrect. Because Boykin says that if the record is silent as to the waiver of these constitutional rights then it is, that conviction is void. What the Sixth Circuit done, has done is to follow the line of the waiver of the right to counsel cases, saying that when the record is silent you get a hearing. There's a presumption against the waiver of those constitutional rights that are inherent in a plea of guilty."
+                },
+                {
+                    "start": 1977.56,
+                    "stop": 1986.135,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you think a Boykin violation is on the same level as the violation of the failure to furnish counsel at all?"
+                },
+                {
+                    "start": 1986.135,
+                    "stop": 2001.9,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "As far as... yes. A Boykin violation is meaning that the defendant has not been advised of his rights on the record. There is no guarantee that he is advised of his constitutional rights, and therefore that conviction is void."
+                },
+                {
+                    "start": 2001.9,
+                    "stop": 2024.665,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words you're saying it is enough simply to prove, on collateral attack now, it is enough simply to prove that he didn't get the warnings from the judge himself? It is not necessary to go further and prove that his plea was in fact unknowing or involuntary?"
+                },
+                {
+                    "start": 2024.665,
+                    "stop": 2027.757,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is exactly what this Court said in Boykin v. Alabama."
+                },
+                {
+                    "start": 2027.757,
+                    "stop": 2030.01,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Boykin, was Boykin a collateral attack?"
+                },
+                {
+                    "start": 2030.01,
+                    "stop": 2032.361,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Boykin was not a collateral attack."
+                },
+                {
+                    "start": 2032.361,
+                    "stop": 2038.275,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And it was dicta too. To say that something was void is dicta."
+                },
+                {
+                    "start": 2038.275,
+                    "stop": 2062.811,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Boykin did not address the collateral attack and the rights that were being given up in Boykin were fundamental constitutional rights, which is the same thing that is taking place when you enter to a guilty plea and if you waive your right to counsel. They are fundamental constitutional rights."
+                },
+                {
+                    "start": 2062.811,
+                    "stop": 2081.384,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Clare, now this, the defendant after this 1987 conviction could have challenged in a direct appeal any claim that he might have that he didn't waive his constitutional rights, could he not?"
+                },
+                {
+                    "start": 2081.384,
+                    "stop": 2085.237,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He challenged his, procedurally--"
+                },
+                {
+                    "start": 2085.237,
+                    "stop": 2088.449,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was open to him on direct appeal, to challenge?"
+                },
+                {
+                    "start": 2088.449,
+                    "stop": 2094.264,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--On direct appeal he went straight from the circuit court on his motion to suppress the entry of the convictions to the court of appeals--"
+                },
+                {
+                    "start": 2094.264,
+                    "stop": 2099.579,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I'm talking about the earlier conviction itself when it was handed down."
+                },
+                {
+                    "start": 2099.579,
+                    "stop": 2102.32,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The '87 conviction?"
+                },
+                {
+                    "start": 2102.32,
+                    "stop": 2112.366,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. I think he... as I recall it he was charged most recently in Kentucky as a persistent offender."
+                },
+                {
+                    "start": 2112.366,
+                    "stop": 2112.957,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct--"
+                },
+                {
+                    "start": 2112.957,
+                    "stop": 2116.87,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And Kentucky relied on two earlier convictions."
+                },
+                {
+                    "start": 2116.87,
+                    "stop": 2117.812,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2117.812,
+                    "stop": 2128.801,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, on both earlier convictions is it not true that the defendant could have challenged on direct appeal whatever claim he had at that time--"
+                },
+                {
+                    "start": 2128.801,
+                    "stop": 2129.763,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, he could have."
+                },
+                {
+                    "start": 2129.763,
+                    "stop": 2130.561,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that he didn't understand his rights."
+                },
+                {
+                    "start": 2130.561,
+                    "stop": 2130.741,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2130.741,
+                    "stop": 2131.452,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But he didn't do that."
+                },
+                {
+                    "start": 2131.452,
+                    "stop": 2132.373,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He didn't do that."
+                },
+                {
+                    "start": 2132.373,
+                    "stop": 2146.995,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And yet you say that now, later, when he is charged with some consequence of those final convictions that now he can still make that kind of a challenge. That's your position?"
+                },
+                {
+                    "start": 2146.995,
+                    "stop": 2153.343,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "My position is that this is not now a collateral attack of those convictions. He is not seeking--"
+                },
+                {
+                    "start": 2153.343,
+                    "stop": 2164.321,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, your position is that now, after they have become final, that he can nevertheless reopen the validity of those convictions."
+                },
+                {
+                    "start": 2164.321,
+                    "stop": 2183.473,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--My position is that now they are final and the State of Kentucky wants to use them to prove the present crime of being a persistent felony offender. They must prove those elements of that crime beyond a reasonable doubt. When they enter the conviction, at that point he may challenge--"
+                },
+                {
+                    "start": 2183.473,
+                    "stop": 2193.331,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're saying that the Constitution requires Kentucky to require more than just putting into evidence those convictions?"
+                },
+                {
+                    "start": 2193.331,
+                    "stop": 2199.905,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. Once the defendant alleges that the convictions are not constitutionally valid--"
+                },
+                {
+                    "start": 2199.905,
+                    "stop": 2206.45,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But don't the vast majority of states just allow proof of former conviction?"
+                },
+                {
+                    "start": 2206.45,
+                    "stop": 2221.392,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Once the defendant alleged that they were not constitutionally valid and there is not a silent record, the presumption is then in the defendant's favor that he did not waive his constitutional rights, and there is no record there to prove that he did."
+                },
+                {
+                    "start": 2221.392,
+                    "stop": 2260.607,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why, who cares? I mean, you say the presumption is in his favor. That assumes that it's relevant whether he waived his rights or not. You say they have to prove it beyond a reasonable doubt. They have proved beyond a reasonable doubt that he stands convicted of these prior crimes. The element of the offense is standing convicted of these prior crimes you are convicted of an additional crime. They have proved beyond a reasonable doubt that indeed he was convicted of those prior crimes. Your argument is well, he was wrongly convicted of those prior crimes, but that's not an element of the offense. The offense is that he was convicted and has not by appeal overturned those convictions. It seems to me the element is entirely proven."
+                },
+                {
+                    "start": 2260.607,
+                    "stop": 2279.317,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The State of Kentucky states it is a conviction. I do not believe that the state legislature meant that it meant an invalid conviction or a conviction that was not constitutionally valid. It must be assumed that the legislature when they said conviction, that it meant a conviction that was valid under the Constitution."
+                },
+                {
+                    "start": 2279.317,
+                    "stop": 2304.284,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I doubt whether the legislature meant the all prior convictions to be retried every time, which is the only way you can know for sure that it was a valid conviction, is to retry it. It seems to me if it's there on the books and he hasn't appealed, it's a valid conviction. Mr. Clare, are you attacking the former conviction as such or attacking its use here?"
+                },
+                {
+                    "start": 2304.284,
+                    "stop": 2305.666,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm attacking its use."
+                },
+                {
+                    "start": 2305.666,
+                    "stop": 2307.666,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're not attacking the conviction as such?"
+                },
+                {
+                    "start": 2307.666,
+                    "stop": 2308.818,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not attacking the conviction at all."
+                },
+                {
+                    "start": 2308.818,
+                    "stop": 2310.809,
+                    "speaker": {
+                        "name": "Harry A. Blackmun",
+                        "ID": 15045,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't that a significant distinction?"
+                },
+                {
+                    "start": 2310.809,
+                    "stop": 2322.908,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is the distinction that I've been trying to establish here. Thank you for bringing that up. This, we are not attacking, or he is not seeking relief from the '81 or from the '79 one. He is not--"
+                },
+                {
+                    "start": 2322.908,
+                    "stop": 2328.293,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It can't be used because it's invalid, isn't that what you're saying? It cannot be used because it's invalid."
+                },
+                {
+                    "start": 2328.293,
+                    "stop": 2329.532,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2329.532,
+                    "stop": 2363.478,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The time to show that it was invalid was the time it was received, by appealing it and getting it set aside. Let me put it another way. Is it irrational for the state, you think it is irrational for the state to say that a person who has been lawfully convicted, has failed to take an appeal and the conviction is still on the book, deserves to be punished for a later crime as a repeat offender more severely than someone who does not stand in that situation? Is that an irrational judgment on the part of the state?"
+                },
+                {
+                    "start": 2363.478,
+                    "stop": 2364.848,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That was a long--"
+                },
+                {
+                    "start": 2364.848,
+                    "stop": 2369.142,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I wanted to be sure I wasn't leaving anything out."
+                },
+                {
+                    "start": 2369.142,
+                    "stop": 2433.795,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The state in the sentencing phases can establish any elements that it wants as long as they are within parameters in order to enhance the defendant's sentence. This is not the same as like in the Federal sentencing guidelines where they have adopted certain elements to be used in the sentencing phase. This, Mr. Raley is being convicted of a crime and to prove the crime they must show all the elements, prove all elements. One of the elements is a conviction. That's all the state said there, and that's where we go back to the waiver of counsel cases. And basically what the Sixth Circuit has done is to say under Boykin if the record is silent it is presumed that that conviction is invalid constitutionally, and then they have a hearing. And the Sixth Circuit's ruling was the hearing should be redone in the State of Kentucky using the correct Federal standard."
+                },
+                {
+                    "start": 2433.795,
+                    "stop": 2484.138,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I suppose in one sense, under your theory of the case at least, you would still have an argument for the defendant even if we said Boykin is a prophylactic rule, it cannot be alleged on collateral attacks, Stone v. Powell applies. I assume under your theory of the case you could still argue that the conviction was improper and that Kentucky has therefore not made its case in the 1987 proceeding. In a sense you don't... Boykin certainly helps you, but it's not essential for you to make this defense, is it?"
+                },
+                {
+                    "start": 2484.138,
+                    "stop": 2489.831,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe I understood that."
+                },
+                {
+                    "start": 2489.831,
+                    "stop": 2506.143,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in other words you argue in a case that comes up that's like this, even if we had said that Boykin is not available on collateral attack you'd say well, that's irrelevant. The state has the burden to show that the conviction was properly entered."
+                },
+                {
+                    "start": 2506.143,
+                    "stop": 2506.964,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2506.964,
+                    "stop": 2512.878,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So in that sense, although Boykin helps you it is not essential to your case."
+                },
+                {
+                    "start": 2512.878,
+                    "stop": 2538.025,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm asserting that this is not a collateral, that this is not a collateral attack of those prior convictions. There are issues raised about Stone v. Powell being a prophylactic rule, first off it was alleged that those could not be addressed here by this Court because they were not raised in the lower courts, were not considered by the Sixth Circuit in their opinion, was not raised in the petition for cert. It wasn't until the final briefs here that that came up."
+                },
+                {
+                    "start": 2538.025,
+                    "stop": 2566.154,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if that is so it seems to me that you have to answer the arguments made by Kentucky and by the Solicitor General and indicated, rephrased by Justice Scalia, that the gravamen of the offense here is being convicted of a third offense when you have the status of being convicted of two earlier ones, whether or not those convictions were valid."
+                },
+                {
+                    "start": 2566.154,
+                    "stop": 2593.402,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "My response is the same as with Justice Scalia, was that by using the word convict in the statute that the legislature placed in there or assumed, although we cannot assume what they meant because they have to state exactly, but they used the word to convict, and that it would not have been an assumption to use an invalid conviction or a constitutionally invalid conviction."
+                },
+                {
+                    "start": 2593.402,
+                    "stop": 2629.3,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I would have no problem if the, you know, the Kentucky Supreme Court decided the case on that basis, that when our legislature said convict it meant validly convict. They are free to say that, that that's what their legislature meant. But I had thought, in fact I am sure that this case comes up here on the basis that, regardless of what the state legislature intended, the Constitution requires, the Federal Constitution requires that the prior conviction have been a valid conviction or that he be permitted to prove that it wasn't at least insofar as the Boykin issue is concerned. Isn't that how the case comes before us?"
+                },
+                {
+                    "start": 2629.3,
+                    "stop": 2711.533,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is... yes. And if they were, if the State of Kentucky, they decided the case of Gadd v. Commonwealth which was based upon Burgett v. Texas, and I believe that the decision of the State of Kentucky, the supreme court there, was wrong when it's not following Burgett. The State of Kentucky in essence would not allow any defendant to come back and challenge any conviction that was used on the PFO whether or not he had counsel or not under that scenario. I believe that these rights that you waive when you enter a guilty plea are equal to the right to counsel. In fact in the case of the Supreme Court of Duke v. Warden you all know that the waiver, or the entering of a guilty plea is one of the most devastating waivers that there is because you are giving up three constitutional rights at one time, and the right to counsel, that you can't put a hierarchy between those constitutional rights. And if a defendant has waived his right to trial, right to call witnesses, or right to be free from self-incrimination, that those are just as important as his right to counsel. He should have the opportunity to challenge a guilty plea that is being used to prove a present crime."
+                },
+                {
+                    "start": 2711.533,
+                    "stop": 2713.586,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Of course he had counsel."
+                },
+                {
+                    "start": 2713.586,
+                    "stop": 2716.039,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He did have counsel in this instance, yes, he did."
+                },
+                {
+                    "start": 2716.039,
+                    "stop": 2729.007,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think part of your submission is that the guilty plea does not necessarily indicate that he was actually guilty of the offenses?"
+                },
+                {
+                    "start": 2729.007,
+                    "stop": 2732.83,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The factual--"
+                },
+                {
+                    "start": 2732.83,
+                    "stop": 2740.625,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. Well, don't, just the fact that he wasn't advised doesn't mean that he didn't admit that he committed the offenses."
+                },
+                {
+                    "start": 2740.625,
+                    "stop": 2744.638,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's almost a distinction between a confession--"
+                },
+                {
+                    "start": 2744.638,
+                    "stop": 2759.799,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean voluntariness, the voluntariness requirement doesn't necessarily, if ignored it doesn't necessarily mean that he didn't admit to the offenses and that his admission is valid."
+                },
+                {
+                    "start": 2759.799,
+                    "stop": 2761.431,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--A confession. It would have been--"
+                },
+                {
+                    "start": 2761.431,
+                    "stop": 2762.082,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2762.082,
+                    "stop": 2767.174,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It could have been equivalent to a confession, which is not the same thing at all as a conviction."
+                },
+                {
+                    "start": 2767.174,
+                    "stop": 2768.656,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2768.656,
+                    "stop": 2770.156,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You could confess--"
+                },
+                {
+                    "start": 2770.156,
+                    "stop": 2771.408,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--He did plead guilty, didn't he?"
+                },
+                {
+                    "start": 2771.408,
+                    "stop": 2772.89,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--He did plead guilty."
+                },
+                {
+                    "start": 2772.89,
+                    "stop": 2779.171,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And didn't he, didn't he agree that he committed the offenses charged?"
+                },
+                {
+                    "start": 2779.171,
+                    "stop": 2783.015,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "With his plea of guilty that is what takes place."
+                },
+                {
+                    "start": 2783.015,
+                    "stop": 2799.746,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. But you're not, you're not saying that these convictions were invalid in the sense that he didn't commit the offense, it's just that he wasn't advised properly in pleading guilty?"
+                },
+                {
+                    "start": 2799.746,
+                    "stop": 2825.774,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I do not know the specific facts of what Mr. Raley did or whether or not the facts actually constitute the crime. The record is not there to show and I cannot state to this Court that his plea of guilty was a admission or a confession as to the elements of the crime, because there is not a record to tell me that."
+                },
+                {
+                    "start": 2825.774,
+                    "stop": 2831.238,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought a plea of guilty was always an admission to all the elements of the crime."
+                },
+                {
+                    "start": 2831.238,
+                    "stop": 2840.845,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "A plea of guilty is an admission to all the elements of the crime. Maybe I'm not seeing the distinction that you're trying to make."
+                },
+                {
+                    "start": 2840.845,
+                    "stop": 2855.544,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, are you saying that if a plea is involuntary it may not, it is not a knowing confession or not a knowing admission of all the elements of the crime?"
+                },
+                {
+                    "start": 2855.544,
+                    "stop": 2872.755,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Knowing and intelligent. But the issue here is whether or not Kentucky has created a record so that those convictions may be reviewed later, and that's what Boykin was so insistent upon."
+                },
+                {
+                    "start": 2872.755,
+                    "stop": 2882.082,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the issue is really whether the Constitution requires Kentucky to have created a record so as to justify a challenge to a conviction."
+                },
+                {
+                    "start": 2882.082,
+                    "stop": 2885.585,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Whether or not Boykin--"
+                },
+                {
+                    "start": 2885.585,
+                    "stop": 2889.718,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I prefer to use the Constitution."
+                },
+                {
+                    "start": 2889.718,
+                    "stop": 2924.981,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What... the Constitution guarantees certain rights to the defendants, and then Boykin is interpreted to mean that those rights must be told to the defendants on the record and the court has the duty to advise those defendants on the record of those constitutional rights. But in essence if a defendant has constitutional rights he is not aware of they are not of any substantial use to him. I believe that is the purpose behind Boykin, to advise the defendants of their rights, and it places a duty upon the court to make sure that he is aware of those rights."
+                },
+                {
+                    "start": 2924.981,
+                    "stop": 2941.861,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I take it you're contending that the Federal Constitution requires the Kentucky courts in an enhancement proceeding to entertain attacks on prior convictions?"
+                },
+                {
+                    "start": 2941.861,
+                    "stop": 2947.657,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The way the--"
+                },
+                {
+                    "start": 2947.657,
+                    "stop": 2950.827,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The Kentucky court did entertain the attack--"
+                },
+                {
+                    "start": 2950.827,
+                    "stop": 2951.548,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, it did."
+                },
+                {
+                    "start": 2951.548,
+                    "stop": 2956.052,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and I suppose you contend that the Federal Constitution requires them to."
+                },
+                {
+                    "start": 2956.052,
+                    "stop": 2958.704,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, that is my contention."
+                },
+                {
+                    "start": 2958.704,
+                    "stop": 2971.734,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And hence, and similarly you think the Federal Constitution requires a Federal habeas court to entertain those claims of the invalidity of prior convictions?"
+                },
+                {
+                    "start": 2971.734,
+                    "stop": 2977.025,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In the instance when you're using the conviction to prove a present crime--"
+                },
+                {
+                    "start": 2977.025,
+                    "stop": 2978.135,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2978.135,
+                    "stop": 2980.659,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But the habeas corpus is distinct from that--"
+                },
+                {
+                    "start": 2980.659,
+                    "stop": 2980.889,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In an enhancement."
+                },
+                {
+                    "start": 2980.889,
+                    "stop": 3003.926,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--because it's not being used to convict a defendant of a present crime. A habeas is a collateral attack for relief but is not establishing any new present crime of a persistent felony offender status. The State of Kentucky could, the legislature could rewrite their sentencing rules, and if they did we may not be here, but they haven't. They have used the word conviction."
+                },
+                {
+                    "start": 3003.926,
+                    "stop": 3067.498,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Clare, this may be just a problem of terminology, but I'm not sure I agree with you that this is not a collateral attack. It seems to me that a collateral attack consists of anything that seeks to deprive a prior judgment of its normal effect. It doesn't have to dissolve the prior judgment entirely, but anything that seeks to deprive it of what would be its normal effect. So if in a later suit, for example, you seek to deny res judicata effect to an earlier decision that's considered a collateral attack on the earlier decision, if you say it was a wrong decision, therefore it shouldn't be res judicata. That's a collateral attack, and that's what you're seeking to do here. You're seeking to say that this conviction, which would normally have the effect of rendering you liable to a higher penalty the next time you're convicted, in this case should not have that effect because it was not a valid judgment. Why isn't that properly called a collateral attack on the judgment?"
+                },
+                {
+                    "start": 3067.498,
+                    "stop": 3077.433,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the collateral attack is used in a habeas proceeding, the distinction that I'm trying to maintain."
+                },
+                {
+                    "start": 3077.433,
+                    "stop": 3098.18,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I understand that. It certainly is not, you're correct that it is, it does not undo the whole, every aspect of the prior decision the way a habeas proceeding would. But the point I make to you is that a collateral attack does not always do that. There are many other sorts of collateral attacks and it seems to me this is one sort of collateral attack."
+                },
+                {
+                    "start": 3098.18,
+                    "stop": 3229.874,
+                    "speaker": {
+                        "name": "J. Gregory Clare",
+                        "ID": 29571,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That may be true and your analogy may be correct, but it is very distinguishable from a habeas proceeding, and that's what I'm... the point is that on the habeas proceeding the defendant may be greatly limited. But here it is not a habeas proceeding, it's the correct procedure to use in the lower court level when they're proving a persistent felony offender. And that's the distinction that I'm trying to draw. The petitioner would have the State of Kentucky allow the presumption of regularity of the prior convictions to overcome its presumption against the waiver of the constitutional right. We submit that the presumption against the waiver of the constitutional right, as this Court has recognized in the waiver of counsel cases, is a much greater presumption than the interest of having a presumption of regularity for the prior convictions. It was also discussed the burden of proof that would take place in the hearing if the Sixth Circuit has remanded it back to the State of Kentucky, and what is the proper burden of proof. Because this Court has said in the right to counsel cases that those convictions are presumptively invalid, we believe that the burden of proof here should be at least a clear and convincing burden of proof. They have asserted that the burden of proof should be by a preponderance of the evidence and cited Johnson v. Zerbst, but Johnson v. Zerbst was entered long before the right to counsel cases have come into play. And the right to counsel cases would support at least a clear and convincing standard of proof in placing the burden upon the Commonwealth to prove that the conviction is constitutionally valid. Thank you."
+                },
+                {
+                    "start": 3229.874,
+                    "stop": 3234.787,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Clare. Mr. Sonego, you have 2 minutes remaining."
+                }
+            ],
+            "start": 3234.787,
+            "stop": 3254.492
+        }
+    ]
+}

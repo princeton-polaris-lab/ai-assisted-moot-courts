@@ -1,0 +1,2125 @@
+{
+    "title": "United States v. Jones",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 8.29,
+                    "stop": 54.804,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Since this Court's decision in Katz v. United States, the Court has recognized a basic dichotomy under the Fourth Amendment. What a person seeks to preserve as private in the enclave of his own home or in a private letter or inside of his vehicle when he is traveling is a subject of Fourth Amendment protection. But what he reveals to the world, such as his movements in a car on a public roadway, is not. In Knotts v. United States, this Court applied that principle to hold that visual and beeper surveillance of a vehicle traveling on the public roadways infringed no Fourth Amendment expectation of privacy."
+                },
+                {
+                    "start": 54.804,
+                    "stop": 74.032,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Knotts, though, seems to me much more like traditional surveillance. You're following the car and the beeper just helps you follow it from a -- from a slightly greater distance. That was 30 years ago. The technology is very different and you get a lot more information from the GPS surveillance than you do from following a beeper."
+                },
+                {
+                    "start": 74.032,
+                    "stop": 109.626,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The technology is different, Mr. Chief Justice, but a crucial fact in Knotts that shows that this was not simply amplified visual surveillance is that the officers actually feared detection in Knotts as the car crossed from Minnesota to Wisconsin. The driver began to do certain U-turns and the police broke off visual surveillance. They lost track of the car for a full hour. They only were able to discover it by having a beeper receiver in a helicopter that detected the beeps from the radio transmitter in the can of chloroform."
+                },
+                {
+                    "start": 109.626,
+                    "stop": 128.743,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's a good example of the change in technology. That's a lot of work to follow the car. They've got to listen to the beeper; when they lose it they have got to call in the helicopter. Here they just sit back in the station and they -- they push a button whenever they want to find out where the car is. They look at data from a month and find out everywhere it's been in the past month. That -- that seems to me dramatically different."
+                },
+                {
+                    "start": 128.743,
+                    "stop": 139.974,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But it doesn't expose anything, Mr. Chief Justice, that isn't already exposed to public view for anyone who wanted to watch, and that was the crucial principle that the Court applied--"
+                },
+                {
+                    "start": 139.974,
+                    "stop": 145.439,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, under that rationale, could you put a beeper surreptitiously on the man's overcoat or sport coat?"
+                },
+                {
+                    "start": 145.439,
+                    "stop": 163.729,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Probably not, Justice Kennedy; and the reason is that this Court in Karo v. United States -- United States v. Karo -- specifically distinguished the possibility of following a car on a public roadways from determining the location of an object in a place where a person has a reasonable expectation of privacy."
+                },
+                {
+                    "start": 163.729,
+                    "stop": 168.725,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh -- oh, no. This is special device. It measures only streets and public elevators and public buildings."
+                },
+                {
+                    "start": 168.725,
+                    "stop": 182.627,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In that event, Justice Kennedy, there is a serious question about whether the installation of such a device would implicate either a search or a seizure. But if it did not, the public movements of somebody do not implicate a seizure."
+                },
+                {
+                    "start": 182.627,
+                    "stop": 194.075,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And on that latter point, you might just be aware that I have serious reservations that there wasn't -- that there -- about the way in which this beeper was installed. But you can get to that at -- at your convenience."
+                },
+                {
+                    "start": 194.075,
+                    "stop": 198.369,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Dreeben, I'd like to get to it now. [Laughter]"
+                },
+                {
+                    "start": 198.369,
+                    "stop": 199.152,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Happy to, Your Honor."
+                },
+                {
+                    "start": 199.152,
+                    "stop": 305.421,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I have to give a little prologue to my question. When -- when wiretapping first came before this Court, we held that it was not a violation of the Fourth Amendment because the Fourth Amendment says that the -- \"the people shall be secured in their persons, houses, papers and effects against unreasonable searches and seizures; and wiretapping just picked up conversations. \" \"That's not persons, houses, papers and effects. \" Later on, we reversed ourselves and, as you mentioned, Katz established the new criterion, which is, is there an invasion of privacy? Does -- are you obtaining information that a person had a reasonable expectation to be kept private? I think that was wrong. I don't think that was the original meaning of the Fourth Amendment. But nonetheless it's been around for so long, we are not going to overrule that. However, it is one thing to add that privacy concept to the Fourth Amendment as it originally existed and it is quite something else to use that concept to narrow the Fourth Amendment from what it originally meant. And it seems to me that when that device is installed against the will of the owner of the car on the car, that is unquestionably a trespass and thereby rendering the owner of the car not secure in his effects -- the car is one of his effects -- against an unreasonable search and seizure. It is attached to the car against his will, and it is a search because what it obtains is the location of that car from there forward. Now, why -- why isn't that correct? Do you deny that it's a trespass?"
+                },
+                {
+                    "start": 305.421,
+                    "stop": 319.647,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It may be a technical trespass, but it was equally a technical trespass in the United States v. Karo when a can of ether was transferred to somebody that had -- and it had a radio transmitter--"
+                },
+                {
+                    "start": 319.647,
+                    "stop": 331.611,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but the owner of the can at the time it was installed consented, and that is not this case. There is no consent by the owner of the property to which this device was affixed. In fact, it was done, as Justice Scalia indicated, surreptitiously."
+                },
+                {
+                    "start": 331.611,
+                    "stop": 338.922,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But there was no consent to the owner of the can once he acquired it to have it contain a foreign item installed by the government."
+                },
+                {
+                    "start": 338.922,
+                    "stop": 347.762,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's too bad. That doesn't make it a trespass. I mean-- --It may be a sneaky thing to do, but -- but every sneaky thing is not a trespass."
+                },
+                {
+                    "start": 347.762,
+                    "stop": 364.566,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, this Court thought that it was a technical trespass in Karo and said that made no difference because the purpose of the Fourth Amendment is to protect privacy interests and meaningful interferences with possessory interests, not to cover all technical trespasses. And the case that I--"
+                },
+                {
+                    "start": 364.566,
+                    "stop": 372.08,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So we've narrowed the Fourth Amendment? So the -- the privacy rationale doesn't expand it, but narrows it in some respects."
+                },
+                {
+                    "start": 372.08,
+                    "stop": 403.74,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It changes it, Justice Scalia. And I think the case that most clearly illustrates the distinction between trespass and Fourth Amendment protection is Oliver v. United States, the case that reaffirmed the open fields doctrine. In that case, there was absolutely no doubt that the police committed a trespass under local law. They entered, they crossed fences, they ignored big \"no trespassing\" signs; and this Court held that the interests that are protected by trespass law are distinct from the interests protected by the Fourth Amendment."
+                },
+                {
+                    "start": 403.74,
+                    "stop": 409.8,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Undoubtedly, but the rationale of that case was that it was not an unreasonable-- --it was not an unreasonable search."
+                },
+                {
+                    "start": 409.8,
+                    "stop": 422.856,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--there was no search, Justice Scalia. The rationale of that case was that open fields are not among the things that are protected by the Fourth Amendment. And the Court was very specifically focused on the distinction between trespass law and Fourth Amendment law."
+                },
+                {
+                    "start": 422.856,
+                    "stop": 433.571,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You think there would also not be a search if you put a GPS device on all of our cars, monitored our movements for a month? You think you're entitled to do that under your theory?"
+                },
+                {
+                    "start": 433.571,
+                    "stop": 436.071,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The justices of this Court?"
+                },
+                {
+                    "start": 436.071,
+                    "stop": 440.13,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. [Laughter]"
+                },
+                {
+                    "start": 440.13,
+                    "stop": 448.206,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under our theory and under this Court's cases, the justices of this Court when driving on public roadways have no greater expectation--"
+                },
+                {
+                    "start": 448.206,
+                    "stop": 457.437,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So your answer is yes, you could tomorrow decide that you put a GPS device on every one of our cars, follow us for a month; no problem under the Constitution?"
+                },
+                {
+                    "start": 457.437,
+                    "stop": 470.729,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, equally, Mr. Chief Justice, if the FBI wanted to it could put its team of surveillance agents around the clock on any individual and follow that individual's movements as they went around on the public streets and they would thereby gather--"
+                },
+                {
+                    "start": 470.729,
+                    "stop": 557.986,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that seems to get -- to me to get to what's really involved here, the issue of whether there is a technical trespass or not is potentially a ground for deciding this particular case, but it seems to me the heart of the problem that's presented by this case and will be presented by other cases involving new technology is that in the pre-computer, pre-Internet age much of the privacy -- I would say most of the privacy -- that people enjoyed was not the result of legal protections or constitutional protections; it was the result simply of the difficulty of traveling around and gathering up information. But with computers, it's now so simple to amass an enormous amount of information about people that consists of things that could have been observed on the streets, information that was made available to the public. If -- if this case is decided on the ground that there was a technical trespass, I don't have much doubt that in the near future it will be probable -- I think it's possible now in many instances -- for law enforcement to monitor people's movements on -- on public streets without committing a technical trespass. So how do we deal with this? Do we just say, well, nothing is changed, so that all the information that people expose to the public -- is, is fair game? There is no -- there is no search or seizure when that is -- when that is obtained, because there isn't a reasonable expectation of privacy? But isn't there a real change in -- in this regard?"
+                },
+                {
+                    "start": 557.986,
+                    "stop": 600.279,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think, Justice Alito, that there is a particularly dramatic change in this case from what went on in the Karo and the Knotts cases. It is possible to envision broader advances in technology that would allow more public information to be amassed and put into computer systems. But I think that the remedy for that, if this Court agrees with the principles in Knotts and Karo and applies them to this case, the remedy is through legislation, just as when the Court held that amassing pen register data, all of the numbers that you dial on your telephone, the lengths of the times of the calls. The Court was confronted in that case with Justice Stewart's view in dissent--"
+                },
+                {
+                    "start": 600.279,
+                    "stop": 639.111,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it -- it is a third party involved in the telephone -- in the pen register case. And here, it's the police. Essentially, I think you answered the question that the government's position would mean that any of us could be monitored whenever we leave our -- our homes, so the only thing secure is the home. Is -- I mean, this is -- that is the end point of your argument, that an electronic device, as long as it's not used inside the house, is okay."
+                },
+                {
+                    "start": 639.111,
+                    "stop": 655.509,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, we are talking here about monitoring somebody's movements in public. We are not talking about monitoring their conversations, their telephone calls, the interior of their cars, their private letters or packages. So there are enclaves of Fourth Amendment protection that this Court has recognized."
+                },
+                {
+                    "start": 655.509,
+                    "stop": 725.762,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what -- but what is the question that I think people are driving at, at least as I understand it and certainly share the concern, is that if you win this case then there is nothing to prevent the police or the government from monitoring 24 hours a day the public movement of every citizen of the United States. And -- and the difference between the monitoring and what happened in the past is memories are fallible, computers aren't. And no one, at least very rarely, sends human beings to follow people 24 hours a day. That occasionally happens. But with the machines, you can. So if you win, you suddenly produce what sounds like 1984 from their brief. I understand they have an interest in perhaps dramatizing that, but -- but maybe overly. But it still sounds like it. And so what protection is there, if any, once we accept your view of the case, from this slight futuristic scenario that's just been painted, and is done more so in their briefs?"
+                },
+                {
+                    "start": 725.762,
+                    "stop": 740.113,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice Breyer, first of all, this is exactly the argument that was presented to the Court in Knotts. If you go back to 1983, the beeper technology in that case seemed extraordinarily advanced and there was a potential for it to be used. The--"
+                },
+                {
+                    "start": 740.113,
+                    "stop": 771.488,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, that's true. And they do have a limit. In this case, they say Knotts involved a single journey, or let's say it involved four journeys. And let's say it involved 4 journeys in 2 days. This involves every journey for a month, so they say whatever the line is that's going to protect us, it's short of every journey in a month. So I'm not asking -- I'm saying I accept your point there, and what do you say is the limit?"
+                },
+                {
+                    "start": 771.488,
+                    "stop": 802.228,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I first want to address the suggestion that you could draw a line somewhere between a month and a trip and have a workable standard for police officers to use. Police officers use a variety of investigative techniques which in the aggregate produce an enormous amount of information. Pen registers, trash pulls; they look at financial records. They conduct visual surveillance. And under a principle of law that says 1 trip is okay but 30 trips in not, there is absolutely no guidance for law enforcement in how they are--"
+                },
+                {
+                    "start": 802.228,
+                    "stop": 839.68,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, there is the same kind of guidance that you have in any case of this Court that uses the technique which is used sometimes, and I think it's used for example in the bribing the judge case, you know, with campaign contributions. You draw an outer limit, you say you can't go beyond that. We know within that there is no standard. We'll leave it for the lower courts to work out and we'll review it over time. That's not necessarily desirable, but that is a method this Court has sometimes used. But even if it's wrong, I want to know, are you saying there is no limit or are you suggesting one?"
+                },
+                {
+                    "start": 839.68,
+                    "stop": 859.141,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm suggesting that the Court do the same thing that it did in Knotts. This case does not involve 24-hour surveillance of every citizen of the United States. It involves following one suspected drug dealer as to whom there was very strong suspicion, for a period of time that actually is less than a month, because the beeper technology failed during--"
+                },
+                {
+                    "start": 859.141,
+                    "stop": 874.463,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then you're -- you're moving away from your argument. Your argument is, it doesn't depend how much suspicion you have, it doesn't depend on how urgent it is. Your argument is you can do it, period. You don't have to give any reason. It doesn't have to be limited in any way, right?"
+                },
+                {
+                    "start": 874.463,
+                    "stop": 876.775,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is correct, Mr. Chief Justice."
+                },
+                {
+                    "start": 876.775,
+                    "stop": 887.018,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't the normal way in these situations that we draw these limits how intrusive the search can be, how long it can be, is by having a magistrate spell it out in a warrant?"
+                },
+                {
+                    "start": 887.018,
+                    "stop": 899.47,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "When you're talking about the movements of a car on a public roadway, which even Justice Breyer's question seems to concede could be monitored for a day or perhaps 4 days, there is no Fourth Amendment search -- unless--"
+                },
+                {
+                    "start": 899.47,
+                    "stop": 907.183,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you're talking about the difference between seeing the little tile and seeing a mosaic. The one gives you information, the other doesn't."
+                },
+                {
+                    "start": 907.183,
+                    "stop": 916.082,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--So does a pen register, so does a garbage pull. So does looking at everybody's credit card statement for a month. All of those things this Court has held are not searches. And that--"
+                },
+                {
+                    "start": 916.082,
+                    "stop": 962.873,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Dreeben, this case started out with a warrant. There was a warrant and the limits weren't followed. The warrant said 10 days, do this in 10 days, and the police took 11. They were supposed to do it in D.C. Instead, they did it in Maryland. So the police could have gotten permission to conduct this search. In fact, they had received it. Now, I take it that the practice had been, because it's in the electronic surveillance manual, that you better get a warrant. Was there any problem about when this kind of surveillance is wanted by the government, get a warrant? Were they encountering difficulty getting warrants?"
+                },
+                {
+                    "start": 962.873,
+                    "stop": 1025.794,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In this case, there would not have been any difficulty getting a warrant, Justice Ginsburg. And the warrant authorized things beyond just monitoring the car. It authorized entering the car in order to install it, which wasn't necessary here. It also authorized monitoring the car in a location where there was a reasonable expectation of privacy. This case is only about monitoring a car on public streets. But I think it's very important to keep in mind that the -- the principal use of this kind of surveillance is when the police have not yet acquired probable cause, but have a situation that does call for monitoring. And I'd like to give an example. If the police get an anonymous phone call that a bomb threat is going to be carried out at a mosque by people who work at a small company, the bomb threat on an anonymous call will not provide even reasonable suspicion under this Court's decision in Florida v. J.L.-- But you can hardly expect the FBI to ignore a credible, detailed-sounding piece of information like that. Now, the--"
+                },
+                {
+                    "start": 1025.794,
+                    "stop": 1032.763,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If you get an anonymous tip that there is the same bomb in somebody's house, do you get a warrant or do -- do you just go in?"
+                },
+                {
+                    "start": 1032.763,
+                    "stop": 1037.603,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--You do neither, because without probable cause you cannot enter the house."
+                },
+                {
+                    "start": 1037.603,
+                    "stop": 1040.149,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then why are you asking for a different rule in this situation?"
+                },
+                {
+                    "start": 1040.149,
+                    "stop": 1056.831,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because the -- the police in this situation have the traditional means available to investigate these sorts of tips. They could put teams of agents on all the individuals who are within the pool of suspicion and follow them 24/7. And that would raise--"
+                },
+                {
+                    "start": 1056.831,
+                    "stop": 1125.895,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're -- you're now suggesting n answer to Justice Kennedy's question, which is it would be okay to take this computer chip, put it on somebody's overcoat and follow every citizen everywhere they go indefinitely. So -- under your theory, and the theory espoused in your brief, you could monitor and track every person through their cell phone, because today the smartphones emit signals that police can pick up and use to follow someone anywhere they go. Your theory is so long as the -- that all -- that what is being monitored is the movement of person, of a person, they have no reasonable expectation that their possessions will not be used by you. That's really the bottom line-- --to track them, to invade their sense of integrity in their choices about who they want to see or use their things. That's really argument you're making."
+                },
+                {
+                    "start": 1125.895,
+                    "stop": 1152.716,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Justice Sotomayor, I think that that goes considerably farther than our position in this case, because our position is not that the Court should overrule United States v. Karo and permit monitoring within a private residence. That is off limits absent a warrant or exigent circumstances plus probable cause. And monitoring an individual through their clothing poses an extremely high likelihood that they will enter a place where they have a reasonable expectation of privacy."
+                },
+                {
+                    "start": 1152.716,
+                    "stop": 1154.713,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Cars get parked in a garages. It happened here."
+                },
+                {
+                    "start": 1154.713,
+                    "stop": 1161.666,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, but a car that's parked in a garage does not have a reasonable expectation of privacy as to its location. Anyone can observe--"
+                },
+                {
+                    "start": 1161.666,
+                    "stop": 1167.613,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Neither does a person. A person goes home and their overcoat gets hung on a hanger. What's the difference?"
+                },
+                {
+                    "start": 1167.613,
+                    "stop": 1178.296,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Once the -- once the effect is in the house, under Karo there is an expectation of privacy that cannot be breached without a warrant, and we are not asking the Court to overrule that."
+                },
+                {
+                    "start": 1178.296,
+                    "stop": 1224.139,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Tell me what the difference between this and a general warrant is? I mean-- --what motivated the Fourth Amendment historically was the disapproval, the outrage, that our Founding Fathers experienced with general warrants that permitted police indiscriminately to investigate just on the basis of suspicion, not probable cause and to invade every possession that the individual had in search of a crime. How is this different-- --this kind of surveillance where there is no probable cause, there is not even necessarily reasonable suspicion in--"
+                },
+                {
+                    "start": 1224.139,
+                    "stop": 1251.159,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--A warrant authorizes a search. This authorizes the ability to track somebody's movements in a car on a public roadway, a subject as to which this Court said in Knotts that no individual has a reasonable expectation of privacy because when they go out in their car their car is traveling on public roads. Anyone can look. The police have no obligation to avert their eyes from anything that any member of the public--"
+                },
+                {
+                    "start": 1251.159,
+                    "stop": 1277.929,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if we -- I give you that, that it's in public. Does the reasonable expectation of privacy trump that fact? In other words, if we ask people, do you think it's -- it violates your right to privacy to have this kind of information acquired, and everybody says yes, is it a response that, no, that takes place in public, or it simply the reasonable expectation of privacy regardless of the fact that it takes place in public?"
+                },
+                {
+                    "start": 1277.929,
+                    "stop": 1303.451,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, something that takes place in public isn't inherently off limits to a reasonable expectation of privacy. That's essentially the holding of Katz. You go into a phone booth, you're in a public; making your calls within the phone booth is subject to a reasonable expectation of privacy. But this Court, with full awareness of that holding, in Knotts and in Karo recognized that surveillance of a vehicle traveling on the public roadways doesn't fit that description."
+                },
+                {
+                    "start": 1303.451,
+                    "stop": 1323.987,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You can see, though, can't you, that 30 years ago if you asked people does it violate your privacy to be followed by a beeper, the police following you, you might get one answer, while today if you ask people does it violate your right to privacy to know that the police can have a record of every movement you made in the past month, they might see that differently?"
+                },
+                {
+                    "start": 1323.987,
+                    "stop": 1338.62,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They probably would also feel differently about being followed 24/7 by a team of FBI agents, who gain far more information than a GPS device produces. GPS only gives you the approximate location of the car as it drives on the roads."
+                },
+                {
+                    "start": 1338.62,
+                    "stop": 1340.09,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And speed as well."
+                },
+                {
+                    "start": 1340.09,
+                    "stop": 1352.523,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The approximate speed, the location traveled, that -- that is what the GPS provides. It doesn't show you where the car stopped. It doesn't show you who was driving the car. It doesn't show you who was--"
+                },
+                {
+                    "start": 1352.523,
+                    "stop": 1359.694,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "An easy way, to pick someone up for speeding when you suspect something far worse but have no probable cause."
+                },
+                {
+                    "start": 1359.694,
+                    "stop": 1369.283,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, this Court held in Whren v. United States that when the police have probable cause to stop someone for a traffic violation they can do that. There are protections--"
+                },
+                {
+                    "start": 1369.283,
+                    "stop": 1391.304,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was when the police came upon the violator. But this is, it's all in the computer. The police can say, we want to find out more about X, so consult the database, see if there is an indication that he was ever speeding in the last 28 days."
+                },
+                {
+                    "start": 1391.304,
+                    "stop": 1433.068,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice Ginsburg, it's not very hard for police to follow somebody and find a traffic violation if they want to do that. But to answer in part Justice Breyer's earlier concern about limiting principles, this Court recognized in the Whren decision that, although the Fourth Amendment is not a restriction on discriminatory or arbitrary or oppressive stops that are based on invidious characteristics, the Equal Protection Clause is. The First Amendment also stands as a protection. If this Court believes that there is an excessive chill created by an actual law or universal practice of monitoring people through GPS, there are other constitutional principles that are available."
+                },
+                {
+                    "start": 1433.068,
+                    "stop": 1476.613,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the Fourth Amendment protects us against unreasonable searches and seizures. And if I were to try to explain to someone, here is the Fourth Amendment, the Fourth Amendment says -- or it has been interpreted to mean that if I'm on a public bus and the police want to feel my luggage, that's a violation, and yet this kind of monitoring, installing the GPS and monitoring the person's movement whenever they are outside their house in the car is not? It just -- there is something about it that, that just doesn't parse."
+                },
+                {
+                    "start": 1476.613,
+                    "stop": 1500.837,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm quite sure, Justice Ginsburg, that if you ask citizens whether the police could freely pick up their trash for a month and paw through it looking for evidence of a crime, or keep a record of every telephone call that they made for the duration and the number that it went through, or conduct intense visual surveillance of them, that citizens would probably also find that to be, in the word that Respondents choose to use--"
+                },
+                {
+                    "start": 1500.837,
+                    "stop": 1541.353,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they won't and probably couldn't physically. Start with the other end. Start, what would a democratic society look like if a large number of people did think that the government was tracking their every movement over long periods of time. And once you reject that, you have to have a reason under the Fourth Amendment and a principle. And what I'm looking for is the reason and the principle that would reject that, but wouldn't also reject 24 hours a day for 28 days. Do you see where I'm -- that's what I'm listening very hard to find."
+                },
+                {
+                    "start": 1541.353,
+                    "stop": 1562.001,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think -- all right. Justice Breyer, two things on that. First of all, I think the line-drawing problems that the Court would create for itself would be intolerable, and better that the Court should address the so-called 1984 scenarios if they come to pass rather than using this case as a vehicle for doing so. Second, if the Court--"
+                },
+                {
+                    "start": 1562.001,
+                    "stop": 1581.431,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--This case is not that vehicle. The GPS technology today is limited only by the cost of the instrument, which frankly right now is so small that it wouldn't take that much of a budget, local budget, to place a GPS on every car in the nation. Almost every car has it now."
+                },
+                {
+                    "start": 1581.431,
+                    "stop": 1588.053,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think it would be virtually impossible to use the kinds of tracking devices that were used in this case on everyone, because--"
+                },
+                {
+                    "start": 1588.053,
+                    "stop": 1590.833,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Don't we have any legislatures out there that could stop this stuff?"
+                },
+                {
+                    "start": 1590.833,
+                    "stop": 1623.117,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice Scalia, the legislature is a safeguard, and if the Court believes that there needs to be a Fourth Amendment safeguard as well, we have urged as a fallback position that the Court adopt a reasonable suspicion standard, which would allow the police to conduct surveillance of individuals in their movements on public roadways, which they can do visually in any event, and would allow the police to investigate leads and tips that arise under circumstances where there is not probable cause."
+                },
+                {
+                    "start": 1623.117,
+                    "stop": 1627.723,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Who would be under your test the judge of the reasonable suspicion?"
+                },
+                {
+                    "start": 1627.723,
+                    "stop": 1658.931,
+                    "speaker": {
+                        "name": "Michael R. Dreeben",
+                        "ID": 35719,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "As in most reasonable suspicion cases, it's the police at the front end and it's the courts at the back end if there are motions to suppress evidence. But fundamentally, just as in the pen register example and in the financial records example, if this Court concludes, consistent with its earlier cases, that this is not a search yet all Americans find it to be an omen of 1984, Congress would stand ready to provide appropriate protection. If I may save the rest of my time for rebuttal."
+                },
+                {
+                    "start": 1658.931,
+                    "stop": 1664.491,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you. Our questions have eaten into your rebuttal time, so we'll give you the full time. Mr. Leckar."
+                }
+            ],
+            "start": 8.29,
+            "stop": 1692.244
+        },
+        {
+            "turns": [
+                {
+                    "start": 1664.491,
+                    "stop": 1692.244,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: I want to talk about the one issue that the United States didn't talk about, which is whether this is a seizure. This case can be resolved on a very narrow basis, a very narrow basis: What are the consequences when the police without a warrant install a GPS secretly on a car of any citizen of the United States and they want to use the evidence gained that way in a criminal trial? Our position is that's a seizure."
+                },
+                {
+                    "start": 1692.244,
+                    "stop": 1694.573,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the size of this device?"
+                },
+                {
+                    "start": 1694.573,
+                    "stop": 1695.259,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm sorry, Your Honor?"
+                },
+                {
+                    "start": 1695.259,
+                    "stop": 1696.682,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the size of this device?"
+                },
+                {
+                    "start": 1696.682,
+                    "stop": 1717.657,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The record doesn't show in this case, but we know -- we learned last week, Justice Alito, from the NACDL that there is now a GPS on the market that weighs 2 ounces and is the size of a credit card. Think how easy it would be for any law enforcement agent of the 880,000 in the United States to stick one of those on anybody's vehicle."
+                },
+                {
+                    "start": 1717.657,
+                    "stop": 1723.889,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if it was put on the license place. Would that be a technical trespass? Is that the property of the driver?"
+                },
+                {
+                    "start": 1723.889,
+                    "stop": 1734.651,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, a license plate as I understand it is the property of the State and driving is a privilege. But it's not a technical trespass in this particular case. Mr. Jones has a right--"
+                },
+                {
+                    "start": 1734.651,
+                    "stop": 1740.914,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I didn't own my license plate? I didn't know that. How do you know that? [Laughter] I paid for my license plate."
+                },
+                {
+                    "start": 1740.914,
+                    "stop": 1745.317,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We don't need to get into it, but \"Live Free Or Die\"--"
+                },
+                {
+                    "start": 1745.317,
+                    "stop": 1768.729,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What I'm saying, Justice Kennedy and Justice Scalia, is this: That the issue insofar as the seizure is concerned is, is it meaningful. Everybody agrees here that there is -- that Antoine Jones had the right to control the use of his vehicle. The question is, was the interference a meaningful deprivation of his possessory interest."
+                },
+                {
+                    "start": 1768.729,
+                    "stop": 1777.288,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I didn't -- I didn't hear an answer to Justice Alito's question. What is your position on the placement of the GPS device on the State-owned license plate."
+                },
+                {
+                    "start": 1777.288,
+                    "stop": 1780.1,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They can't do it. They can't do it, Your Honor. It's a seizure."
+                },
+                {
+                    "start": 1780.1,
+                    "stop": 1792.953,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a-- --If my understanding is correct that it's the State's license plate that they require you to have, so your trespass theory it would seem falls apart with respect to that particular scenario."
+                },
+                {
+                    "start": 1792.953,
+                    "stop": 1799.765,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, first of all, Justice -- Chief Justice Roberts, my -- you would probably see the GPS and in that case--"
+                },
+                {
+                    "start": 1799.765,
+                    "stop": 1802.651,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. It's the size of a credit card. You slip it behind the license plate."
+                },
+                {
+                    "start": 1802.651,
+                    "stop": 1813.554,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In that particular case, what you have done is you have -- the installation of the GPS, it is a seizure. What makes it meaningful is the use of that GPS."
+                },
+                {
+                    "start": 1813.554,
+                    "stop": 1829.456,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, this is ridiculous. Look at -- you give the State permission to put the license plate -- to carry -- to have your car carry the State's license plate. You do not give anybody permission to have your car carry a tracking device."
+                },
+                {
+                    "start": 1829.456,
+                    "stop": 1829.971,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1829.971,
+                    "stop": 1836.389,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And whether it's put directly on the car or directly on something that the car is carrying doesn't seem to me to make any difference."
+                },
+                {
+                    "start": 1836.389,
+                    "stop": 1846.197,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought it made a difference under your theory, which focused on the question of trespass, because it was attached to an effect owned by somebody else. This is an effect not owned by the individual."
+                },
+                {
+                    "start": 1846.197,
+                    "stop": 1846.961,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1846.961,
+                    "stop": 1850.65,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the trespass theory anyway doesn't seem ridiculous to me."
+                },
+                {
+                    "start": 1850.65,
+                    "stop": 1862.051,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But it's an effect, Your Honor. The Fourth Amendment protects effects, it protects people. If you put it on somebody's briefcase, you put it on somebody's car, you have affected their possessory interest. Then the question becomes--"
+                },
+                {
+                    "start": 1862.051,
+                    "stop": 1886.463,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Leckar, I guess I'm not sure I quite understand the argument, because a trespass is accomplished no matter what you put on somebody's car or somebody's overcoat or what have you. You could put a nonworking device on somebody's car and it would still be a trespass. But surely the same constitutional problem is not raised. So how do you get from the trespass to the constitutional problem."
+                },
+                {
+                    "start": 1886.463,
+                    "stop": 1899.894,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--As I -- thank you, Justice Kagan. As I said moments ago, what makes it meaningful, what makes it a meaningful deprivation of a possessory interest, is once the GPS gets activated. We look at reality. We follow what Silverman v--"
+                },
+                {
+                    "start": 1899.894,
+                    "stop": 1922.931,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it doesn't make it a seizure. That doesn't make it a seizure. It makes it a search. I mean, you can say that there is a trespass for the purpose of obtaining information, which makes it a search. But I don't see how it's a seizure. A seizure, you have to bring something within your control. You have to stop the person or stop the vehicle. What has been seized when you -- when you slap a tracking device on a car?"
+                },
+                {
+                    "start": 1922.931,
+                    "stop": 1936.786,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What has been seized is Antoine's -- data. Data is seized that is created by the GPS. Antoine Jones has the right, Your Honor, to control the use of his vehicle. And what the government did was surreptitiously deprive him of the use of that--"
+                },
+                {
+                    "start": 1936.786,
+                    "stop": 1942.254,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you have any case involving seizure of -- of data floating in the air as opposed to papers?"
+                },
+                {
+                    "start": 1942.254,
+                    "stop": 1952.154,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The closest case I could come, Your Honor, would be Silverman, where the Court called a Fourth Amendment violation where the spike mike just touched -- touched the ventilator unit."
+                },
+                {
+                    "start": 1952.154,
+                    "stop": 1960.308,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not a violation unless, in addition to a search, it is an unreasonable search. And since you already -- and the same is true of seizure, isn't it?"
+                },
+                {
+                    "start": 1960.308,
+                    "stop": 1960.885,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 1960.885,
+                    "stop": 1978.846,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you already have everybody agrees it's at least a search. So what do you care whether the -- and there is a case called Karo which says whether it's a trespass doesn't really matter. The question is the reasonableness of it. And that's what I think -- I mean you can argue trespass as much as you want, but I'll still have in mind is it reasonable."
+                },
+                {
+                    "start": 1978.846,
+                    "stop": 1979.423,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right."
+                },
+                {
+                    "start": 1979.423,
+                    "stop": 2025.963,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I think that's the question we've been debating. And I would like to know from you -- what they are saying is that the parade of horribles we can worry with -- worry about when it comes up, the police have many, many people that they suspect of all kinds of things ranging from kidnappings of lost children to terrorism to all kinds of crimes. They're willing to go as far as reasonable suspicion in a pinch. And they say at least with that you will avoid the 1984 scenario and you will in fact allow the police to do their work with doing no more than subjecting the person to really good knowledge of where he is going on the open highway. They probably put it better than I did, but I'd appreciate your views on that."
+                },
+                {
+                    "start": 2025.963,
+                    "stop": 2060.42,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Reasonable suspicion, Justice Breyer, is something that the Court has adopted for limited intrusions. And I refer you to the United States v. Place. Every 10 seconds of the day for 28 days is by no person's lights a limited intrusion. That said, what happened -- what happened here -- society does not view as reasonable the concept that the United States Government has the right to take a device that enables them to engage in pervasive, limitless, cost-free -- cost-free surveillance, that completely replaces the human equation--"
+                },
+                {
+                    "start": 2060.42,
+                    "stop": 2060.966,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you know that?"
+                },
+                {
+                    "start": 2060.966,
+                    "stop": 2077.129,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Why does it have to be cost-free. Suppose the police department says: We've got two things. We can put 30 deputies on this route and watch this person or we can have a device with a warrant. What difference does it make?"
+                },
+                {
+                    "start": 2077.129,
+                    "stop": 2087.72,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What happens is the police have the capacity with GPS to engage in grave abuse, grave abuse of individual and group liberties, Your Honor."
+                },
+                {
+                    "start": 2087.72,
+                    "stop": 2101.685,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But suppose what they got is nothing more than what they would have had if they had 30 deputies staked out along the route. That's all. They'd get the same from 30 deputies. A constitutional violation?"
+                },
+                {
+                    "start": 2101.685,
+                    "stop": 2106.963,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, if they use a GPS, Your Honor. Any placement of a GPS on anybody's car--"
+                },
+                {
+                    "start": 2106.963,
+                    "stop": 2148.93,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, no. We are assuming that there is no initial trespass, which is a problem in this case. You're saying it's -- it's the quantity and -- of the information seized and the time over which it's seized. And that's the proposition we are testing. And it seems to me what you're saying is that the police have to use the most inefficient methods. I'm fully aware of the 1984 ministry of love, ministry of -- of peace problem. But this -- your argument it seems to me has no principled distinction from the case that I put."
+                },
+                {
+                    "start": 2148.93,
+                    "stop": 2189.068,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think I can help you with that. We are not asking to make the police less efficient than they were before GPS came into effect. We are simply saying that the use of a GPS has grave potential, grave threats of abuse to privacy; that people have an expectation, Justice Kennedy, that their neighbor is not going to use their car to track them. People have an -- under Rakas -- I refer the Court to footnote 12 in the Rakas case. Antoine Jones had control of that car. Control of that -- of the vehicle meant that he had a reasonable expectation that society is prepared to view as objectively reasonable. The government--"
+                },
+                {
+                    "start": 2189.068,
+                    "stop": 2204.643,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But he wouldn't -- he wouldn't be protected against a surveillance camera that could get information, and is this really different in kind from the surveillance camera?"
+                },
+                {
+                    "start": 2204.643,
+                    "stop": 2240.643,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. First of all, you have a physical invasion. That's Bond v. United States. You have an invasion of his possessory interest, placement on the car. Physical invasion of a possessory interest, Justice Ginsburg, is more significant, has always been viewed by this Court as more invasive than mere video -- mere visual surveillance. And even with a camera, it depends on the type of the video camera. We are not saying that the police are prohibited from having individual video cameras or several video cameras to surveil people. What we are saying here is this device, this device that enables limitless, pervasive, indiscriminate--"
+                },
+                {
+                    "start": 2240.643,
+                    "stop": 2257.996,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the difference really? I'm told -- maybe this is wrong, but I'm told that if somebody goes to London, almost every place that person goes there is a camera taking pictures, so that the police can put together snapshots of where everybody is all the time. So why is this different from that."
+                },
+                {
+                    "start": 2257.996,
+                    "stop": 2261.385,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's pretty scary. I wouldn't want to live in London under those circumstances."
+                },
+                {
+                    "start": 2261.385,
+                    "stop": 2268.537,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it must be unconstitutional if it's scary. [Laughter] I mean, what is it, the scary provision of what article?"
+                },
+                {
+                    "start": 2268.537,
+                    "stop": 2293.763,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And in fact, those cameras in London actually enabled them, if you watched them, I got the impression, to track the bomber who was going to blow up the airport in Glasgow and to stop him before he did. So there are many people who will say that that kind of surveillance is worthwhile, and there are others like you who will say, no, that's a bad thing. But that isn't the issue exactly in front of us."
+                },
+                {
+                    "start": 2293.763,
+                    "stop": 2296.855,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Your Honor. What we have here is a physical--"
+                },
+                {
+                    "start": 2296.855,
+                    "stop": 2299.432,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what Justice Kagan wanted to know is why not."
+                },
+                {
+                    "start": 2299.432,
+                    "stop": 2301.663,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Because you have a physical invasion of property."
+                },
+                {
+                    "start": 2301.663,
+                    "stop": 2333.245,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, my goodness. Sorry, I just had that expression because I'm reading. \"The existence of a physical trespass is only marginally relevant to the question of whether the Fourth Amendment has been violated, however, for an actual trespass is neither necessary nor sufficient to establish a constitutional violation. \" That's Karo. So you can talk if you'd like. It's your hour. But I would really be very interested in hearing you on the assumption that the real issue here is whether this is reasonable."
+                },
+                {
+                    "start": 2333.245,
+                    "stop": 2354.75,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's not, Your Honor. This is not a Karo case. First of all, in Karo the installation was essentially consented to. You took -- the package came in by virtue of somebody who was working for the government. So the installation was not unlike this case -- was unlike this case, where it was surreptitious and directly engaged in by a government agent."
+                },
+                {
+                    "start": 2354.75,
+                    "stop": 2370.59,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're -- you're mixing, you're mixing two things. You're the one -- I thought your position was that the initial trespass is not important. That's the narrow way to decide the issue. You don't want us to do that. So now we ask you about Karo and you say: Oh, well, there was a trespass. So that's -- that's not -- that's not a responsive answer."
+                },
+                {
+                    "start": 2370.59,
+                    "stop": 2376.479,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, but technology, as you observed, Justice Kennedy, is dramatically different with GPS than was present in Karo."
+                },
+                {
+                    "start": 2376.479,
+                    "stop": 2415.291,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's going to be dramatically different in the next step. There are now satellites that look down and can hone in on your home on a block and in a neighborhood. I don't see that far in the future when those cameras are going to be able to show you the entire world and let you track somebody on the camera from place to place. So if -- give us a theory. Is that okay for the police to access those cameras and look at you moving from place to place? And if that's okay, then why is this not okay? What is your theory of your case?"
+                },
+                {
+                    "start": 2415.291,
+                    "stop": 2441.624,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Our theory, Justice Sotomayor, with respect to video camera, if they are targeting an individual, this presents a gray question. It's a question that need not be resolved given this case. But if the Court wanted to address that question, once the police target somebody, they want to engage in individualized targeting for use of a pervasive network of cameras -- and GPS is like a million cameras. That's -- the New York Court of Appeals pointed that out, and this--"
+                },
+                {
+                    "start": 2441.624,
+                    "stop": 2443.655,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think there are about 28 satellites up there."
+                },
+                {
+                    "start": 2443.655,
+                    "stop": 2457.947,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--All right. It's 28 cameras, but the equivalent of a camera tracking you every street corner you're on everywhere. Once you have individualized suspicion like that, if the Court wanted to deal with it, I believe you would have to have a warrant."
+                },
+                {
+                    "start": 2457.947,
+                    "stop": 2540.726,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Leckar, your -- all of this discussion, you're going into it, but the questioning leads you into it, it seems to me leaps over the difficult part of your case. The issue before us is not -- not in the abstract whether this police conduct is unreasonable. The unreasonableness requirement or the unreasonableness prohibition does not take effect unless there has been a search. And our cases have said that there is no search when -- when you are in public and where everything that you do is open to -- to the view of people. That's the hard question in the case, not whether this is unreasonable. That's not what the Fourth Amendment says, the police can't do anything that's unreasonable. They can do a lot of stuff that's unreasonable without violating the Fourth Amendment and that -- the protection against that is the legislature. But you have to establish, if you're going to go with Katz, that there has been an invasion of, of privacy when all that -- all that this is showing is where the car is going on the public streets, where the police could have had round-the-clock surveillance on this individual for a whole month or for 2 months or for 3 months, and that would not have violated anything, would it? Why? Because there is no invasion of privacy. So why is this an invasion of privacy?"
+                },
+                {
+                    "start": 2540.726,
+                    "stop": 2557.123,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because it is -- it is a complete robotic substitute. It's not a -- it's not a tail. And interestingly enough, Your Honor. The government only cited in its brief one instance of a 24-hour surveillance for all of 2 days. What you have here, Justice Scalia, is -- I'm going to refer to your dissent."
+                },
+                {
+                    "start": 2557.123,
+                    "stop": 2574.694,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "100 times zero equals zero. If -- if there is no invasion of privacy for 1 day, there is no invasion of privacy for 100 hundred days. Now, it may be unreasonable police conduct, and we can handle that with laws. But if there is no invasion of privacy, no matter how many days you do it, there is no invasion of privacy."
+                },
+                {
+                    "start": 2574.694,
+                    "stop": 2592.656,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Scalia, what -- I'm going to refer to your dissent along with Justice Breyer in Bond v. United States. A GPS in your car is, or anybody's car, is like -- without a warrant, is like having an -- it makes you unable to get rid of an uninvited stranger. That's what it is. Now what--"
+                },
+                {
+                    "start": 2592.656,
+                    "stop": 2597.826,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So is a tail. So is a tail when the police surveil -- surveil you for, for a month."
+                },
+                {
+                    "start": 2597.826,
+                    "stop": 2619.847,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The question we have to answer in this case, Justice Scalia, is this. A tail -- if they can -- if they want to tail, if they want to commit the resources, that's fine. But what a GPS does, it involves -- it allows the government to engage in unlimited surveillance through a machine, through a machine robotically. Nobody is even involved monitoring it. The record in this case showed that many times the police officers just let -- let the machine go on."
+                },
+                {
+                    "start": 2619.847,
+                    "stop": 2630.516,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, where would you draw the line? Suppose that the GPS was used only to track somebody's movements for one day or for 12 hours or for 3 hours. Would that be all right?"
+                },
+                {
+                    "start": 2630.516,
+                    "stop": 2638.217,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Our position, Justice Alito, is, no circumstances should a GPS be allowed to be put on somebody's car. But we recognize--"
+                },
+                {
+                    "start": 2638.217,
+                    "stop": 2640.916,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Put aside -- put aside the trespass question."
+                },
+                {
+                    "start": 2640.916,
+                    "stop": 2667.624,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm not addressing it purely as a trespass. Our view is the GP -- the use of a GPS as a search in and of itself should be, is -- should be viewed as unreasonable. But if the Court were uncomfortable with that, if the Court had concerns with that, we suggested in our brief some possibilities: One day; one trip; one person per day or a trip; or perhaps when you use it exactly as a beeper, when you follow it, when you actually physically follow it."
+                },
+                {
+                    "start": 2667.624,
+                    "stop": 2682.886,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that sounds like a legislative line. But what is the difference between following somebody for 12 hours, let's say, and monitoring their movements on a GPS for 12 hours? You would say that the latter -- your first argument is, there is a problem with the latter but not with the former. But what would the reason for that be?"
+                },
+                {
+                    "start": 2682.886,
+                    "stop": 2685.853,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because it's an unreasonable invasion of privacy, Your Honor."
+                },
+                {
+                    "start": 2685.853,
+                    "stop": 2697.22,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What -- what is the difference in terms of one's privacy whether you're followed by a police officer for 12 hours and you don't see the officer or whether you're monitored by GPS for 12 hours?"
+                },
+                {
+                    "start": 2697.22,
+                    "stop": 2706.798,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because -- because what you have here is society does not expect that the police, the human element would be taken out of -- would be taken out of the surveillance factor."
+                },
+                {
+                    "start": 2706.798,
+                    "stop": 2738.002,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You know, I don't know what society expects and I think it's changing. Technology is changing people's expectations of privacy. Suppose we look forward 10 years, and maybe 10 years from now 90 percent of the population will be using social networking sites and they will have on average 500 friends and they will have allowed their friends to monitor their location 24 hours a day, 365 days a year, through the use of their cell phones. Then -- what would the expectation of privacy be then?"
+                },
+                {
+                    "start": 2738.002,
+                    "stop": 2778.595,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the use of a cell phone, there are two ways of looking at it. As Justice Kennedy observed in Quon, cell phones are becoming so ubiquitous, there may be privacy interests. Our view is that currently the use of a cell phone, that's a voluntary act. People nowadays understand that there are ways to monitor by way of a cell phone. But I started my oral argument with this basic precept, Justice Alito. This case does not require us to decide those issues of emerging technology. It's a simple case at the core: Should the police be allowed surreptitiously to put these machines on people's cars and either -- call it a seizure, call it a search, call it a search and seizure, in the words of Katz, or call it a Fourth Amendment violation."
+                },
+                {
+                    "start": 2778.595,
+                    "stop": 2798.681,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that -- maybe that's a good way to decide the case. But I just wonder, would Mr. Jones or anybody else be really upset if they found that the police had sneaked up to their car and put an inert device the size of their credit card on the underside of the car? What would they say about that, other than the fact that the police are wasting money doing this?"
+                },
+                {
+                    "start": 2798.681,
+                    "stop": 2804.96,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If it were nothing more than a note, say, or even a bumper sticker like you get at South of the Border, probably nothing."
+                },
+                {
+                    "start": 2804.96,
+                    "stop": 2808.895,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't even see it. It's just a little wafer, they put it under the car, it does nothing."
+                },
+                {
+                    "start": 2808.895,
+                    "stop": 2812.08,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's a little wafer that's got an enormous capacity."
+                },
+                {
+                    "start": 2812.08,
+                    "stop": 2818.359,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this one does nothing, and you -- so you would go -- you would sue -- you would bring a trespass action."
+                },
+                {
+                    "start": 2818.359,
+                    "stop": 2821.704,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, heavens, no, Your Honor. If it did nothing, first, it wouldn't be a Fourth Amendment problem."
+                },
+                {
+                    "start": 2821.704,
+                    "stop": 2829.902,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what's you're concerned about is not this little thing that's put on your car. It's not this invasion of your property interest. It's the monitoring that takes place."
+                },
+                {
+                    "start": 2829.902,
+                    "stop": 2833.512,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The monitoring makes it meaningful. Putting it on enables them to--"
+                },
+                {
+                    "start": 2833.512,
+                    "stop": 2852.549,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But to ask Justice Alito's question in a different way, suppose that the police could do this without ever committing the trespass. Suppose that in the future all cars are going to have GPS tracking systems and the police could essentially hack into such a system without committing the trespass. Would the constitutional issue we face be any different?"
+                },
+                {
+                    "start": 2852.549,
+                    "stop": 2908.683,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--As I assume, that's because of manufacturers doing it, or because Congress has legislated it, Justice Kagan? Under either circumstance, people would know. They would know that their privacy rights have been taken away. Whether that would be possible to go through Congress, I seriously doubt, but people would know. In this particular case, Antoine Jones had no idea whatsoever that his possessory interest in that property was about to be deprived by the government in a meaningful way to allow them to get information they couldn't have otherwise have gotten. Justice Alito, what happens here, GPS produces unique data. When you and I drive down the street, we don't emit GPS data. What makes GPS data meaningful is the act -- is the use and placement of the GPS device, that was in this case, in this case, unconsented to by Antoine Jones unknowingly. And the government knew that. That's why they went and did it surreptitiously, because they couldn't get it any other way."
+                },
+                {
+                    "start": 2908.683,
+                    "stop": 2933.468,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Lots of communities have, including Washington, cameras on -- at intersections on stop lights. Suppose the police suspected someone of criminal activity and they had a computer capacity to take pictures of all the intersections that he drove through at different times of day, and they checked his movements and his routes for 5 days. Would that be lawful?"
+                },
+                {
+                    "start": 2933.468,
+                    "stop": 2936.872,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that would be allowable, Your Honor. I don't think--"
+                },
+                {
+                    "start": 2936.872,
+                    "stop": 2937.672,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You think it would be?"
+                },
+                {
+                    "start": 2937.672,
+                    "stop": 2945.701,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that would be permissible, Your Honor. First of all, you don't have an invasion of -- you don't have a physical intrusion, unlike this case. People nowadays--"
+                },
+                {
+                    "start": 2945.701,
+                    "stop": 2957.697,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have -- you have a targeted invasion. It's over a period of time. It's over a long -- it's over a wide space, and it seems to me that -- it seems to me that you have to answer my question yes to be consistent with what you've said earlier."
+                },
+                {
+                    "start": 2957.697,
+                    "stop": 2989.883,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor. As I said earlier, that you can have an -- you can have an occasional video camera out there. People understand nowadays that there may be video cameras out in public space. The -- but we don't have any -- society does not expect or view it as reasonable to have the equivalent of a million video cameras following you everywhere you go. A few video cameras, people know. They've cropped -- they've cropped up and they have been accepted. But this is a horse of an entirely different color. This is a small device that enables the government to get information of a vast amount of--"
+                },
+                {
+                    "start": 2991.587,
+                    "stop": 2996.212,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What an unworkable rule with no -- tethered to no principle."
+                },
+                {
+                    "start": 2996.212,
+                    "stop": 2997.632,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry?"
+                },
+                {
+                    "start": 2997.632,
+                    "stop": 3006.611,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What an unworkable rule tethered to no principle. A thousand video cameras may or may not be okay, depending on how large the city is?"
+                },
+                {
+                    "start": 3006.611,
+                    "stop": 3045.267,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Justice Sotomayor. I think the workable rule and the simplest rule that should be adopted is this. I think the Court should say to the law enforcement agency: You came here looking for a rule; we are going to give you a rule. If you want to use GPS devices, get a warrant, absent exigent circumstances or another recognized exception to the Fourth Amendment, because of their capacity for -- to collect data that you couldn't realistically get; because of the vanishingly low cost, because of their pervasive nature, that you should get a warrant any time -- you must get a warrant any time you're going to attach a GPS to a citizen's effect or to a citizen's person."
+                },
+                {
+                    "start": 3045.267,
+                    "stop": 3059.543,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that gets back to Justice Scalia's question, which is you've got to determine that there has been a search first before you impose the warrant requirement. And it seems to me that your -- the warrant requirement applies only with respect to searches, right?"
+                },
+                {
+                    "start": 3059.543,
+                    "stop": 3060.92,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's -- and seizures."
+                },
+                {
+                    "start": 3060.92,
+                    "stop": 3070.884,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And seizures. So while it might seem like a good idea to impose the requirement on this particular technological device, you still have to establish that it's a search."
+                },
+                {
+                    "start": 3070.884,
+                    "stop": 3100.808,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But if you know, if you the police agents know -- this is the deliberative process. These devices aren't used for just quick one-off surveillance. They are used to track people over time, as witness this case, every 10 seconds of the day for 28 days. If you know you're going to do that and you know, Justice Roberts that this device -- this device has an amazingly invasive power and capacity. If you know you're going to do that and you're a law enforcement agent, then you do what they did originally. You get a warrant."
+                },
+                {
+                    "start": 3100.808,
+                    "stop": 3124.439,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now we pushed your -- we pushed your friend to the limits of his theory. Your theory I take it would apply if you're going to do it for 3 minutes, right? Where is the car? You push a button; it's 3 minutes; you say that's still a Fourth Amendment violation? Don't talk to me about how long they are going to be doing it, or all the information. We have to test the validity on the theory of your proposition that it violates the Fourth Amendment to do this for 3 minutes."
+                },
+                {
+                    "start": 3124.439,
+                    "stop": 3131.435,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I -- I think it does, Your Honor, because of the -- society does not expect -- society views it as objectively reasonable not to expect--"
+                },
+                {
+                    "start": 3131.435,
+                    "stop": 3155.05,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You said that several times. How do we tell? I mean, I don't know what society expects. I suppose if you ask people do you think it's a violation of privacy for the police to do this for no reason for a month, maybe they would come out one way. If you asked the people do you think the police have to have probable cause before they monitor for 5 minutes the movements of somebody they think is going to set off a huge bomb, maybe you get a different answer."
+                },
+                {
+                    "start": 3155.05,
+                    "stop": 3167.233,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--You look to -- you look to the common law. You look to well established case law. You look to statutes in several jurisdictions; I think there are seven or eight that said this sort of practice should be prohibited."
+                },
+                {
+                    "start": 3167.233,
+                    "stop": 3195.738,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excellent. Yes. Of course a legislature can take care of this, whether or not there is an invasion of privacy. And they can pick 5 days out of the air. You can't do it for any more than 5 days, or you can't do it to more than -- than 50 people at a time. They can take care of all of that stuff. We can't do that in a decision under the -- under the Fourth Amendment. Why isn't this precisely the kind of a problem that you should rely upon legislatures to take care of?"
+                },
+                {
+                    "start": 3195.738,
+                    "stop": 3235.687,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's the same -- that's the same -- same problem that the United States advanced before this Court in the United States v. District Court; give it to Congress. And what this Court there did, it held a Fourth Amendment violation so far as domestic security is concerned and gave Congress suggestions. In this particular case I could probably give you 535 reasons why not to go to Congress-- [Laughter] --but let me suggest something, Justice Scalia. What happened was the United States has adopted a shifting position. They came to this Court and they said we want a workable rule; give us a workable rule. You either overrule the D.C. Circuit, which you should not do, or give us a workable rule. Now they have said in their brief oh, let's take it to the legislature. They can't have it both ways."
+                },
+                {
+                    "start": 3235.687,
+                    "stop": 3276.31,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you take it to Congress the other way? I mean, can you say that a general search of this kind is not constitutional under the Fourth Amendment, but should Congress pick out a subset thereof, say the -- terrorism or where there is reasonable cause or like the FISA court or special courts to issue special kinds of warrants, that that's a different question which we could decide at a later time? That's a negative way of -- I mean that way favors you in the result, but I've -- I've been looking for if there is a way of going to Congress to create the situations where they can do it, rather than the situations where they can't."
+                },
+                {
+                    "start": 3276.31,
+                    "stop": 3288.884,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Breyer, that was exactly what Congress, what happened when the foreign intelligence surveillance courts were created. You hit it right on the nail. All this Court has to do is decide the narrow question before it, which I've articulated several times."
+                },
+                {
+                    "start": 3288.884,
+                    "stop": 3311.983,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see why it's any of Congress's business if it's a -- if it's a purely intrastate operation. Congress can control police practices that don't violate the Fourth Amendment throughout the country. I mean, maybe interstate, interstate beepers and interstate tracking devices, yes, but so long as you track within -- within the State isn't that okay?"
+                },
+                {
+                    "start": 3311.983,
+                    "stop": 3357.697,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. First of all, let me refer to Chief -- to Justice Frankfurter's comments a long time ago in Watts v. Indiana: Justices are not ignorant of the law, what they know to be true as men and women, but other legislatures will follow Congress. But what we have here -- what we have here is a live case of controversy in which Antoine Jones' control of his vehicle and his car was converted into an electronic GPS electronic transceiver serving the government. So that case is here and it -- it needs to be decided. One doesn't need to address technologies that aren't here before the Court today. You could; we could venture down that road. We could discuss drone surveillance, we could discuss balloon surveillance and other types of surveillance, but we don't have to. It's a narrow--"
+                },
+                {
+                    "start": 3357.697,
+                    "stop": 3388.343,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There was a warrant -- there was a warrant in this case. This is a puzzling aspect of the case to me and maybe there -- it's irrelevant for present purposes. There was a warrant and the two violations of are violations of a statute and a rule, neither of which may carry an exclusionary rule sanction with them or exclusionary rule penalty with them. It's not clear at all that there as a violation of the Fourth Amendment. So it's a little strange that we are deciding whether a warrantless search here would have been unconstitutional, when there was a warrant."
+                },
+                {
+                    "start": 3388.343,
+                    "stop": 3394.918,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They had the choice. They could have easily -- they could have gone back to the district judge and said -- given the district judge--"
+                },
+                {
+                    "start": 3394.918,
+                    "stop": 3411.818,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, that's not my point. The point is that the violation of the 10-day rule and the violation of the statutory prohibition on -- or maybe it's in the rule, the prohibition on the judge in the district, ordering the installation only in the district are not Fourth Amendment requirements."
+                },
+                {
+                    "start": 3411.818,
+                    "stop": 3417.769,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. That's correct, Your Honor, but what we have -- what we have here is a warrantless intrusion. When -- when the warrant--"
+                },
+                {
+                    "start": 3417.769,
+                    "stop": 3420.327,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not a warrantless intrusion, there was a warrant."
+                },
+                {
+                    "start": 3420.327,
+                    "stop": 3428.45,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But the warrant was not in effect. At the -- at the time the -- the GPS was placed, Justice Alito, there was no warrant. There's a case this Court decided in the--"
+                },
+                {
+                    "start": 3428.45,
+                    "stop": 3443.038,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think that's been conceded by both sides and that's accepted by both sides. The warrant expired. There was no warrant. The government certainly could have gone back and said, judge, we didn't make it; we need a little more time; give us 10 more days."
+                },
+                {
+                    "start": 3443.038,
+                    "stop": 3450.536,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They could -- they could conceivably gone back there and explained to the district judge why they couldn't have installed it in that period of time. The--"
+                },
+                {
+                    "start": 3450.536,
+                    "stop": 3458.031,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think if you look at the lower court case law, you will find that a violation of the 10-day rule is not necessarily a violation of the Fourth Amendment. And--"
+                },
+                {
+                    "start": 3458.031,
+                    "stop": 3458.562,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I understand that."
+                },
+                {
+                    "start": 3458.562,
+                    "stop": 3466.435,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--doesn't vitiate the warrant. The warrant doesn't necessarily dissolve or evaporate when those 10 days expire. Maybe those cases are wrong."
+                },
+                {
+                    "start": 3466.435,
+                    "stop": 3485.835,
+                    "speaker": {
+                        "name": "Stephen C. Leckar",
+                        "ID": 41652,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There is a 1920 Supreme Court decision decided during the Prohibition era that specifically said that when a warrant expires there is no warrant. When the 10-day rule in that case is expired, there is no warrant. We have a warrantless intrusion here. The government didn't have to do a warrantless intrusion. I ask the Court to -- affirm."
+                },
+                {
+                    "start": 3485.835,
+                    "stop": 3487.223,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Dreeben, 5 minutes."
+                }
+            ],
+            "start": 3487.223,
+            "stop": 3531.455
+        }
+    ]
+}

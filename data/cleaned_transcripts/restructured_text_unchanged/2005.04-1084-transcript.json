@@ -1,0 +1,3536 @@
+{
+    "title": "Gonzales v. O Centro Esp\u00edrita Beneficente Uni\u00e3o do Vegetal",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 9.824,
+                    "stop": 52.834,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court-- The Court of Appeals decision in this case carves out an exception to the categorical prohibition for the Controlled Substances Act in order to permit respondents to import, distribute, and use a Schedule 1 controlled substance. The Court of Appeals believed this exception was justified by the Religious Freedom Restoration Act in order to enable respondents to use hoasca tea, which contains dimethyltryptamine, or DMT, in the substance, for religious purposes. The court of appeals was wrong. RFRA carries forward the compelling interest test, as set forth in prior Federal court decisions."
+                },
+                {
+                    "start": 52.834,
+                    "stop": 67.024,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I address a preliminary inquiry that I have? Are we reviewing here the issuance of the injunction by the trial court?"
+                },
+                {
+                    "start": 67.024,
+                    "stop": 68.302,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, a preliminary injunction."
+                },
+                {
+                    "start": 68.302,
+                    "stop": 74.922,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And we have to find that, for the trial court to have issued it, it was an abuse of discretion?"
+                },
+                {
+                    "start": 74.922,
+                    "stop": 87.963,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, with respect to certain aspects of the preliminary injunction question, yes. For example, whether a preliminary injunction should... is the proper remedy if all the other criteria are satisfied."
+                },
+                {
+                    "start": 87.963,
+                    "stop": 88.129,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You know--"
+                },
+                {
+                    "start": 88.129,
+                    "stop": 88.513,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But--"
+                },
+                {
+                    "start": 88.513,
+                    "stop": 99.881,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--the court found evidence in equipoise and so on and so forth, so I just wondered, at the bottom line, what our legal standard is here."
+                },
+                {
+                    "start": 99.881,
+                    "stop": 106.452,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. We believe that the Court of Appeals erred... or District Court and Court of Appeals erred, as a matter of law, in entering the injunction--"
+                },
+                {
+                    "start": 106.452,
+                    "stop": 107.88,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Abused its discretion."
+                },
+                {
+                    "start": 107.88,
+                    "stop": 116.01,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, abused... a court always abuses its discretion if it... if it commits a legal error. So, that is basically our position here."
+                },
+                {
+                    "start": 116.01,
+                    "stop": 155.415,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems to me your position is that you must... we must give controlling determinative weight to the fact that it's listed in Schedule 1. And the respondents say you don't give it any weight at all, it's all on a case by case basis. Is there a middle ground that there... which I think would allow you to prevail here... that there is a presumption that there is a compelling governmental interest when it's in Schedule 1? It's a rebuttable presumption, but it's a presumption that, when it's in Schedule 1, it's a compelling interest."
+                },
+                {
+                    "start": 155.415,
+                    "stop": 156.231,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 156.231,
+                    "stop": 156.675,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The--"
+                },
+                {
+                    "start": 156.675,
+                    "stop": 238.335,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--first of all, our principal submission is that Congress's designation in Schedule 1 is sufficient unto itself. But we also do include a further submission that, if the Court didn't disagree with that, that Congress's... Congress, in Schedule 1, has said that any mixture containing any amount of a listed hallucinogenic substance is barred. And there's no question that this substance contains that. But if the Court was going to look beyond that to the facts of this case, there's also no question in this case that respondents' use of the substance produces the very effects that led Congress to put the substance on Schedule 1. So, to allow the... to allow the substance to be used would be in direct derogation of Congress's judgment. The disagreement, such as there is, goes not to the... not to that question. And that's on page 214(a) of the joint appendix... or the petition appendix. The District Court specifically found that those effects are produced. Respondents' argument in the lower courts was essentially that those effects shouldn't matter, or that those effects should be ignored. But we think that that's inconsistent with Congress's judgment. So, my point is, if you go beyond the text of the statute, it shouldn't be for anything more than to... for the Court to assure itself that the effects that caused Congress to list the subject, in fact, occur, and--"
+                },
+                {
+                    "start": 238.335,
+                    "stop": 239.029,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler--"
+                },
+                {
+                    "start": 239.029,
+                    "stop": 246.81,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, but part of the statute is Sherbert and Verner and the test that Congress says we have to apply to its acts here."
+                },
+                {
+                    "start": 246.81,
+                    "stop": 265.626,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. But under... the Act does say carry forward the prior Federal court decisions. But, prior to Smith, this Court, on a number of occasions, had recognized the compelling interest in uniform enforcement of important statutes that could not function under a system of individualized religious--"
+                },
+                {
+                    "start": 265.626,
+                    "stop": 266.026,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr.--"
+                },
+                {
+                    "start": 266.026,
+                    "stop": 266.376,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--exemptions."
+                },
+                {
+                    "start": 266.376,
+                    "stop": 327.207,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Kneedler, I think everyone would concede that there is a compelling interest, governmental interest, to have the Controlled Substances Act on that level, yes. But then, Congress has passed another statute that says all laws shall be subject to RFRA... shall be subject to RFRA. So, we can't just look at \"Is there a compelling State interest for the controlled Substances Act? \" in a vacuum. We have to take what was a later statute, RFRA, to which the Controlled Substances Act is made subject by Congress. And I thought the argument was, is there a compelling State interest in that context? How can there be, given the situation with peyote and, \"We're just like the Native American Church in that regard? \""
+                },
+                {
+                    "start": 327.207,
+                    "stop": 371.328,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the argument is not that the Controlled Substances Act is not subject to RFRA. It is subject to RFRA. But... just as it was subject to the First Amendment's Free Exercise Clause... and, in this Court's preSmith cases, in which the Court... at least Congress understood the Court to have been applying a compelling interest test, the Court was applying that compelling interest test to particular statutes under which individualized religious exemptions would not be feasible, and held, as a categorical matter, that they were not required. The Social Security Act, the tax code, the laws against polygamy, the Sunday closing laws, all are... all of those are ones in which the Court had previously concluded that individualized exceptions were not appropriate."
+                },
+                {
+                    "start": 371.328,
+                    "stop": 392.899,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would understand that if the Government had acted uniformly. But we do have two situations that seem to be like... the peyote and this case. And if the Government must accommodate to one, why not to the other?"
+                },
+                {
+                    "start": 392.899,
+                    "stop": 406.256,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In the peyote exception, Congress was acting under its distinct constitutionally recognized authority with respect to Indian tribes. The Indian Commerce Clause specifically authorizes Congress to legislate with respect to Indian tribes--"
+                },
+                {
+                    "start": 406.256,
+                    "stop": 407.006,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's--"
+                },
+                {
+                    "start": 407.006,
+                    "stop": 407.434,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--as--"
+                },
+                {
+                    "start": 407.434,
+                    "stop": 425.239,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But it still shows... whatever power they were... they were proceeding under, it still shows that it's not all that important that nobody be able to use a substance banned by category 1. I mean--"
+                },
+                {
+                    "start": 425.239,
+                    "stop": 425.656,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I--"
+                },
+                {
+                    "start": 425.656,
+                    "stop": 430.966,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--whatever power it was under, it's a demonstration that you can make an exception without the sky falling."
+                },
+                {
+                    "start": 430.966,
+                    "stop": 440.868,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I, in no way, think that Congress believed that by enacting the special provision for Indian tribes, it was thereby opening the Controlled Substances Act to individualized--"
+                },
+                {
+                    "start": 440.868,
+                    "stop": 441.151,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 441.151,
+                    "stop": 441.951,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--religious exceptions."
+                },
+                {
+                    "start": 441.951,
+                    "stop": 447.077,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--maybe Congress didn't assume that. They probably didn't think about it. But what's wrong with the argument?"
+                },
+                {
+                    "start": 447.077,
+                    "stop": 475.636,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think what's wrong with the argument is that what Congress did with respect to Indian tribes was take a look at that distinct context and conclude that, for a variety of reasons... and, particularly, respecting the autonomous authority of an independent Indian tribe to control its internal affairs this exception applies only to members of recognized Indian tribes... that, in that context, balancing all of the relevant considerations... not the sort of balance under RFRA--"
+                },
+                {
+                    "start": 475.636,
+                    "stop": 476.246,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it--"
+                },
+                {
+                    "start": 476.246,
+                    "stop": 479.928,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--but balancing all the considerations under the... its Indian power, concluded there was--"
+                },
+                {
+                    "start": 479.928,
+                    "stop": 497.818,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Justice Scalia's point is, no matter what the legal theory, the evidence, historical evidence, seems to indicate that the sky didn't fall. And if it didn't fall for the larger number of Native Americans involved who use peyote, and the very small number using this drug, can't we, kind of, think that at least, \"Well, maybe it's not all that compelling? \""
+                },
+                {
+                    "start": 497.818,
+                    "stop": 503.194,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But that was... that was a specific judgment made by Congress itself, looking at--"
+                },
+                {
+                    "start": 503.194,
+                    "stop": 503.877,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, Mr. Kneedler, may I--"
+                },
+                {
+                    "start": 503.877,
+                    "stop": 503.96,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--all the factors."
+                },
+                {
+                    "start": 503.96,
+                    "stop": 504.577,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--may I stop you--"
+                },
+                {
+                    "start": 504.577,
+                    "stop": 504.86,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 504.86,
+                    "stop": 517.839,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--there? Because, correct me if I'm wrong, but it was my impression that the DEA was allowing an exemption for peyote use by the Native American Church before Congress passed the law."
+                },
+                {
+                    "start": 517.839,
+                    "stop": 545.231,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That... that's correct, but that was understood at the... at... back in 1970, or back, actually, in '65, when that was first adopted, to have been consistent with Congress's original intent in passing the statute, and the Controlled Substances Act, which carried forward the schedules. But, in any event, Congress has now addressed the subject by statute, following the enactment of RFRA, following this Court's decision in Smith, and which has brought things into quite different focus."
+                },
+                {
+                    "start": 545.231,
+                    "stop": 578.582,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if you take it that the Government was right... before Congress passed the law, the Government was right to give the exemption to allow that ceremonial use of peyote, then I don't see how you get mileage from a congressional act that was passed later than Congress's is saying, \"Executive, we agree with you, you did right. \" But it's not... you... I don't see how you can rely on the congressional statute when the Government was doing this even without a--"
+                },
+                {
+                    "start": 578.582,
+                    "stop": 578.932,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, and--"
+                },
+                {
+                    "start": 578.932,
+                    "stop": 579.843,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--congressional statute."
+                },
+                {
+                    "start": 579.843,
+                    "stop": 612.516,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--the statute actually, you know, now gives some firm statutory basis for that exception, which may not really have existed so comfortably after this Court's decision in Smith. And there was, it's true, nothing specific in the statute before. The critical point, though, to bear in mind for the sort of claim that respondents are arguing for here is that it would turn over to 700 district judges a determination based on particular records, particular credibility determinations, the judgment as to whether--"
+                },
+                {
+                    "start": 612.516,
+                    "stop": 612.75,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes, but--"
+                },
+                {
+                    "start": 612.75,
+                    "stop": 612.833,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--an exception--"
+                },
+                {
+                    "start": 612.833,
+                    "stop": 615.538,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--isn't that exactly the... what the Act does? That's--"
+                },
+                {
+                    "start": 615.538,
+                    "stop": 615.954,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No--"
+                },
+                {
+                    "start": 615.954,
+                    "stop": 617.032,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--why they passed it."
+                },
+                {
+                    "start": 617.032,
+                    "stop": 618.292,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--With all respect--"
+                },
+                {
+                    "start": 618.292,
+                    "stop": 620.736,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that's why we came out the other way in Smith, by the way."
+                },
+                {
+                    "start": 620.736,
+                    "stop": 634.692,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But-- [Laughter] --but even when Congress went back to preSmith, again Congress recognized that there are certain statutes in... that serve a compelling interest that would be undermined by individualized determinations, and the Controlled--"
+                },
+                {
+                    "start": 634.692,
+                    "stop": 635.326,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it didn't--"
+                },
+                {
+                    "start": 635.326,
+                    "stop": 636.036,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Substances Act--"
+                },
+                {
+                    "start": 636.036,
+                    "stop": 653.076,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--say that, did it? I mean, it did seem to indicate, after the passage of RFRA, courts are supposed to examine, in each case, whether there is a compelling State interest and whether it's closely enough related."
+                },
+                {
+                    "start": 653.076,
+                    "stop": 673.57,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But it... but that was the test that the Court was applying, as Congress understood it, prior to Smith, in which, I repeat, the Court said there were certain statutes that categorical judgments could be made about. And the Controlled Substances Act is such a statute, as this Court recognized in Raich and in Oakland Cannabis--"
+                },
+                {
+                    "start": 673.57,
+                    "stop": 674.42,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I want you--"
+                },
+                {
+                    "start": 674.42,
+                    "stop": 674.931,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--where the Court--"
+                },
+                {
+                    "start": 674.931,
+                    "stop": 679.796,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--to stay on this point, because it's important, but if this were a Schedule 2 substance, would your argument be the same?"
+                },
+                {
+                    "start": 679.796,
+                    "stop": 729.525,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Our argument would be the same, but for an additional reason there, and that is that even where Congress has... or even where a substance may be distributed and used, it is only for medical purposes, which is in furtherance of, not in derogation of, the health and safety purposes of the statute. And even then, it is done to very strict... pursuant to very strict controls that are really incompatible with sacramental use of a substance. There is a requirement of prescription, or dispensing by a physician under physician control, with recordkeeping... identifying the dosage, the amount of the sacrament... recordkeeping of the person who takes it. There is... there is an incompatibility and potential entanglement problem in how to... in trying to apply a system like that, even under Schedule 2. But under Schedule 1, what you have is contraband, as this Court said--"
+                },
+                {
+                    "start": 729.525,
+                    "stop": 730.053,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But suppose we--"
+                },
+                {
+                    "start": 730.053,
+                    "stop": 730.469,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--in Raich."
+                },
+                {
+                    "start": 730.469,
+                    "stop": 753.035,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I grant you that administrative considerations are relevant. Of course they're relevant. But that's far from saying they're determinative. And then we're back to what Justice Souter said, absolutely relevant in deciding the compelling interest, but the fact that peyote seems to have been administered without the sky falling in suggests that, here, they're not determinative. That's all."
+                },
+                {
+                    "start": 753.035,
+                    "stop": 798.565,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, if I could go back to the way the Controlled Substances Act operates, it does not permit a rescheduling or use of a drug based on individualized determinations made by individual Federal District Courts making their own judgment about how serious the risk is. If a substance is going to be moved from Schedule 1 to Schedule 2, for example, to allow medical use, that is done through a centralized administrative determination involving coordination between the Secretary of Health and Human Services and the Attorney General, in which expert opinions are gotten and a judgment is made, but the judgment is made only if there is an accepted medical use. In other words, there has to be not... a consensus, not simply an... a determination by one religious group or one judge--"
+                },
+                {
+                    "start": 798.565,
+                    "stop": 798.849,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But--"
+                },
+                {
+                    "start": 798.849,
+                    "stop": 800.327,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that something may be so."
+                },
+                {
+                    "start": 800.327,
+                    "stop": 802.088,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--RFRA overrides all that."
+                },
+                {
+                    "start": 802.088,
+                    "stop": 802.898,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. I--"
+                },
+                {
+                    "start": 802.898,
+                    "stop": 830.656,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand RFRA to be... to say there can be an exception to all Federal statutes where someone makes a religious objection to compliance and, in the judgment of the court, there's not a compelling State interest in the Government going ahead with the statute. So, you know, whatever the scheme was under the drug laws, it seems to me it's subject to this new legislation."
+                },
+                {
+                    "start": 830.656,
+                    "stop": 857.287,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We're not saying it's not subject to the legislation, but in deciding how the compelling interest applies under the statute... just as under the First Amendment itself, before RFRA was passed, and the one is to replicate the other... the court... there were certain statutes, when the court looked at the way they operated and what was necessary to their effectuation, the court said that individualized exceptions would not be feasible. And there's no reason to believe, and every reason to disbelieve--"
+                },
+                {
+                    "start": 857.287,
+                    "stop": 858.437,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, when you talk about--"
+                },
+                {
+                    "start": 858.437,
+                    "stop": 859.764,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that Congress meant to put that to one side."
+                },
+                {
+                    "start": 859.764,
+                    "stop": 893.215,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--reasons to believe and disbelieve, we don't have to make a once and for all determination, do we? A lot of your concerns talk about what's going to happen if this exception is granted. Now, if some of those things come true, can't this issue be revisited? I don't regard... maybe I'm wrong, but, under RFRA, you're not saying it's a compelling interest test. It may be... may not be satisfied in this case, but if it turns out there's a lot of diversion of the hallucinogen or the membership of the church expands in a way that leads you to believe it's being abused, I mean, then you'd look at it again, right?"
+                },
+                {
+                    "start": 893.215,
+                    "stop": 925.905,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I have several responses to that. That sort of approach, putting to the test basically a congregation by congregation... or denomination by denomination, to use familiar terms... test about whether a... an exception should be recognized for a particular religion, itself, presents difficult questions. If you... if you have a particular religious sect that believes that it is... that it is important to invite everyone to the table... not simply a closed group that has gone through screening, but a... but everyone to their table--"
+                },
+                {
+                    "start": 925.905,
+                    "stop": 926.305,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that--"
+                },
+                {
+                    "start": 926.305,
+                    "stop": 931.032,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that would be... but that would... that... the... a court would be in a judgment about... in saying that that--"
+                },
+                {
+                    "start": 931.032,
+                    "stop": 941.884,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Couldn't have said it better. And that's what we said in Smith. But Congress didn't like Smith and has enacted this statute obviously to undo, to the extent it can, the effect of our judgment in Smith."
+                },
+                {
+                    "start": 941.884,
+                    "stop": 972.436,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, what... it did not seek, under the judgment in Smith. What the Court was... what Congress was responding to was the... what it understood to be the the test. It reinstated the compelling interest test, but specifically said it was not disagreeing with the outcome of any particular case under that prior test. And three of those cases... Hernandez, concerning the tax code; Lee, concerning the Social Security Act; and Braunfeld, regarding the Sunday closing laws... were all ones that adopted the approach that I have suggested."
+                },
+                {
+                    "start": 972.436,
+                    "stop": 990.175,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your... but your approach is totally categorical. If you had a group that had, once a year, one drop of the hallucinogen involved here, per member, and it was rigorously policed, your position would still be the same--"
+                },
+                {
+                    "start": 990.175,
+                    "stop": 990.586,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Our--"
+                },
+                {
+                    "start": 990.586,
+                    "stop": 993.957,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--even applying RFRA, which sets forth a compelling interest test."
+                },
+                {
+                    "start": 993.957,
+                    "stop": 1015.112,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--our principal position would be the same. And I... and I think that that approach is consistent with Justice O'Connor's opinion in Smith, which got a lot of prominence in the subsequent debate about RFRA, because, in that... in that opinion, even though the compelling interest test was applied, Justice O'Connor concluded that that test was satisfied because--"
+                },
+                {
+                    "start": 1015.112,
+                    "stop": 1019.661,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Congress disagreed, ultimately. They allowed the use of peyote."
+                },
+                {
+                    "start": 1019.661,
+                    "stop": 1028.801,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And that's an important point. Congress doing it does not open the Controlled Substances Act to the individualized determinations by 700 District Courts."
+                },
+                {
+                    "start": 1028.801,
+                    "stop": 1029.152,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It makes--"
+                },
+                {
+                    "start": 1029.152,
+                    "stop": 1029.652,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler--"
+                },
+                {
+                    "start": 1029.652,
+                    "stop": 1029.902,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but in--"
+                },
+                {
+                    "start": 1029.902,
+                    "stop": 1030.579,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--a specialized judgment."
+                },
+                {
+                    "start": 1030.579,
+                    "stop": 1073.111,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--may Congress, consistent with the Establishment Clause, say that we will create an exception for peyote, but not for this other church, which has far fewer members, less risk of diversion, has been found to be a genuine religion? The problem of preferring one religious group over another, it seems to me, arises once there is an exception for the Native American Church. And I heard you say, \"Well, the Indian tribes are special. \" but is that... that's it. It would have to be--"
+                },
+                {
+                    "start": 1073.111,
+                    "stop": 1113.948,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we think that... we think that's critical, because what... just as in this Court's decision in Laurel, what Congress has done is to act to respect the autonomous, independent institutions of the tribe. That also meets certain law enforcement concerns, because you have the tribal government, you have tribal law enforcement personnel, you have tribal culture and tradition that is independent simply of the religion. You have... you have the entire tribal cultural structure that Congress could quite reasonably regard as being different. And respecting that distinct political attribute of tribes under this Court's decision in Morton versus Mancari, we don't think, creates an Establishment Clause problem. What--"
+                },
+                {
+                    "start": 1113.948,
+                    "stop": 1155.269,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--May I... may I ask you one question about the procedural posture of this case? This is an appeal from a preliminary injunction. That's how it got here. And we have been discussing, mostly, the case just as though it had been a permanent injunction. The... there are pieces of this case, like the Treaty and what it allows and doesn't allow, that... where the record is so thin. Is there a way of dealing with this case so there is the full airing that it never got, without resolving, at this point, other issues--"
+                },
+                {
+                    "start": 1155.269,
+                    "stop": 1155.653,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I--"
+                },
+                {
+                    "start": 1155.653,
+                    "stop": 1156.43,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--you've been debating?"
+                },
+                {
+                    "start": 1156.43,
+                    "stop": 1201.367,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I... on that limited point, if the Court applied the usual standards for the granting of a preliminary injunction, I think that the Court could quite readily reverse the preliminary injunction here, because that requires a clear showing of a substantial likelihood of success on the merits, plus that the other factors be decided. And with respect to the application of the Convention, that's really a question of law. And the United States took the position before the District Court in this case, that the Convention applied to the tea. We think it's unquestionably a mixture, and, therefore, a preparation within the meaning of the... of the Convention, and the... and the District Court's injunction really puts the United States in violation of an international agreement that is critical to prohibiting trafficking--"
+                },
+                {
+                    "start": 1201.367,
+                    "stop": 1201.467,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they were--"
+                },
+                {
+                    "start": 1201.467,
+                    "stop": 1201.733,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do--"
+                },
+                {
+                    "start": 1201.733,
+                    "stop": 1202.217,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--in drugs."
+                },
+                {
+                    "start": 1202.217,
+                    "stop": 1202.3,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--do your briefs--"
+                },
+                {
+                    "start": 1202.3,
+                    "stop": 1202.767,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1202.767,
+                    "stop": 1221.7,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--indicate, or does the record indicate, that the Government was foreclosed from presenting any evidence it wanted to present? If you, for some reason, go back, and this whole thing is done again, whether they... is there important additional evidence for you to introduce, or do we essentially have the case in front of us, so far as you're concerned?"
+                },
+                {
+                    "start": 1221.7,
+                    "stop": 1239.85,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in... as far as our position is concerned on our submission so far, we don't think the Court needs any further evidence. On the question of the application of the Convention, as we say, we believe that is a question of law. This Court has long deferred to the position of the executive branch on the interpretation of Conventions. And--"
+                },
+                {
+                    "start": 1239.85,
+                    "stop": 1253.291,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, I was a little unclear about your position on the Convention. I thought, at some... one point, you said that it didn't really add much to your argument under the Controlled Substances Act, which implemented the Convention. Is--"
+                },
+                {
+                    "start": 1253.291,
+                    "stop": 1253.374,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, it--"
+                },
+                {
+                    "start": 1253.374,
+                    "stop": 1253.991,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--there an independent--"
+                },
+                {
+                    "start": 1253.991,
+                    "stop": 1254.074,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, it--"
+                },
+                {
+                    "start": 1254.074,
+                    "stop": 1254.691,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--argument?"
+                },
+                {
+                    "start": 1254.691,
+                    "stop": 1268.941,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, we believe that complying with an international Convention designed to prohibit trafficking in drugs is, itself, a compelling interest. And the... under this Court's decisions in--"
+                },
+                {
+                    "start": 1268.941,
+                    "stop": 1269.608,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--How--"
+                },
+                {
+                    "start": 1269.608,
+                    "stop": 1282.799,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that would be incorporated in RFRA. And it... a... an order that puts the United States in violation of that... and the Court of Appeals didn't really deny... a majority of the judges, anyway... deny that this injunction requires the United States to violate the Convention--"
+                },
+                {
+                    "start": 1282.799,
+                    "stop": 1283.149,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, it--"
+                },
+                {
+                    "start": 1283.149,
+                    "stop": 1286.248,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--by facilitating the importation of drugs from outside the country."
+                },
+                {
+                    "start": 1286.248,
+                    "stop": 1314.212,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, what do you... here's the problem that I have, particularly at the stage of the preliminary injunction, with that argument. The... they're... the Convention also includes that provision that its terms will be defined, enforced, and so on, in harmony, or conformity, with the domestic law of the signatory. Our domestic law includes RFRA. That would seem to open the door for, in effect, a RFRA exception."
+                },
+                {
+                    "start": 1314.212,
+                    "stop": 1316.223,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, that exception is--"
+                },
+                {
+                    "start": 1316.223,
+                    "stop": 1318.827,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me... let me... let me just finish my... let me get to my... let me get to my question--"
+                },
+                {
+                    "start": 1318.827,
+                    "stop": 1319.338,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Sorry."
+                },
+                {
+                    "start": 1319.338,
+                    "stop": 1364.025,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--before you answer it. [Laughter] My... the particular concern I have with that, at the preliminary injunction stage, is not necessarily that that particular argument should, for all times, be assessed correctly by the... by the District Court. But it seems to me that if the District Court at least plausibly reads that exception to negate your argument, isn't that good enough, at the preliminary injunction stage, as a basis for the Court saying, \"Look, you haven't... you, the Government... haven't carried your burden to show the affirmative defense here? \""
+                },
+                {
+                    "start": 1364.025,
+                    "stop": 1369.401,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "This is a... the interpretation of the Convention is a legal question, not a factual one. And Article 22 refers--"
+                },
+                {
+                    "start": 1369.401,
+                    "stop": 1373.433,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is, there's no question. But we're still at the preliminary injunction stage."
+                },
+                {
+                    "start": 1373.433,
+                    "stop": 1375.871,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. But respondent would bear the... would bear the burden of--"
+                },
+                {
+                    "start": 1375.871,
+                    "stop": 1378.643,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why does the respondent bear the burden? You have the burden--"
+                },
+                {
+                    "start": 1378.643,
+                    "stop": 1379.576,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because this is to--"
+                },
+                {
+                    "start": 1379.576,
+                    "stop": 1379.903,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--under the statute."
+                },
+                {
+                    "start": 1379.903,
+                    "stop": 1390.811,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--this is a change of the status quo. And to require the Government to allow the importation of a substance is prohibited by the Convention. But if I--"
+                },
+                {
+                    "start": 1390.811,
+                    "stop": 1390.811,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1390.811,
+                    "stop": 1391.094,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--if I could--"
+                },
+                {
+                    "start": 1391.094,
+                    "stop": 1427.516,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--no, but I realize that... could we pause on that for a second? Because you apparently take the position... the Government takes the position that when... under the governing law, the Government would have an affirmative burden, ultimately, to defend... in this case, on compelling interest, least restrictive, et cetera... that, at the preliminary injunction stage, the applicant for the injunction has the burden to negate the probability that the Government will carry its burden on the ultimate issue. And I don't see why that should be so at all."
+                },
+                {
+                    "start": 1427.516,
+                    "stop": 1433.642,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, at least with respect to the interpretation of a Convention, where the... where the Government has taken--"
+                },
+                {
+                    "start": 1433.642,
+                    "stop": 1433.642,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but let--"
+                },
+                {
+                    "start": 1433.642,
+                    "stop": 1433.742,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, I--"
+                },
+                {
+                    "start": 1433.742,
+                    "stop": 1433.742,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--just--"
+                },
+                {
+                    "start": 1433.742,
+                    "stop": 1434.158,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I under--"
+                },
+                {
+                    "start": 1434.158,
+                    "stop": 1434.592,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--go through--"
+                },
+                {
+                    "start": 1434.592,
+                    "stop": 1435.269,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I understand the--"
+                },
+                {
+                    "start": 1435.269,
+                    "stop": 1435.685,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Get to the Convention--"
+                },
+                {
+                    "start": 1435.685,
+                    "stop": 1435.919,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I understand the broader point, but--"
+                },
+                {
+                    "start": 1435.919,
+                    "stop": 1449.709,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--later. Get to the general... first get to the general issue. Does the applicant for the injunction have the burden to negate the probability that the Government will prevail in its affirmative defense, ultimately?"
+                },
+                {
+                    "start": 1449.709,
+                    "stop": 1450.025,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We--"
+                },
+                {
+                    "start": 1450.025,
+                    "stop": 1450.953,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that your position?"
+                },
+                {
+                    "start": 1450.953,
+                    "stop": 1462.306,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, that is our position, and we cite cases in the... in the brief that say that. But it is not critical to the outcome of this case with respect to the Convention issue and several other of the issues that--"
+                },
+                {
+                    "start": 1462.306,
+                    "stop": 1462.8,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1462.8,
+                    "stop": 1463.316,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that I... that I was going to--"
+                },
+                {
+                    "start": 1463.316,
+                    "stop": 1464.066,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the Convention--"
+                },
+                {
+                    "start": 1464.066,
+                    "stop": 1464.482,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--So--"
+                },
+                {
+                    "start": 1464.482,
+                    "stop": 1466.604,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--issue goes directly to your affirmative defense."
+                },
+                {
+                    "start": 1466.604,
+                    "stop": 1500.759,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It goes... but it is a question of law. And the article of the Convention that you're referring to is... concerns the penal provisions. In other words, Article 7 of the Convention requires each party to prohibit... this is Article 7, on page 288(a)... requires that... each State to prohibit these substances. Twenty two simply goes to the criminal provisions that each party's State will adopt internally to carry that out. But it doesn't... it doesn't detract from the... from the categorical obligation under Article 7, which--"
+                },
+                {
+                    "start": 1500.759,
+                    "stop": 1500.925,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the--"
+                },
+                {
+                    "start": 1500.925,
+                    "stop": 1501.525,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--would prohibit it."
+                },
+                {
+                    "start": 1501.525,
+                    "stop": 1522.003,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--part of the Treaty question that I had is also... this is a root that you are... and it contains DMT. And the Treaty doesn't ban everything that contains DMT... for example, pineapple and bananas. The question is the ratio of the DMT to the entire plant."
+                },
+                {
+                    "start": 1522.003,
+                    "stop": 1522.347,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1522.347,
+                    "stop": 1525.802,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that sounds like a factual question that ought to be developed."
+                },
+                {
+                    "start": 1525.802,
+                    "stop": 1539.736,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think where you have a mixture that... a mixture of two plants that are put together for the specific purpose of using them for the hallucinogenic purposes, that goes far beyond simply whether a particular substance--"
+                },
+                {
+                    "start": 1539.736,
+                    "stop": 1542.046,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Pineapples, we... what about those?"
+                },
+                {
+                    "start": 1542.046,
+                    "stop": 1542.424,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1542.424,
+                    "stop": 1543.851,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I drank pineapple--"
+                },
+                {
+                    "start": 1543.851,
+                    "stop": 1544.767,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Plants--"
+                },
+                {
+                    "start": 1544.767,
+                    "stop": 1545.778,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--juice this morning. [Laughter]"
+                },
+                {
+                    "start": 1545.778,
+                    "stop": 1556.863,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--as such, are not covered. But when you make a mixture of something for the specific purpose of releasing its hallucinogenic purpose... qualities, we think that that's clearly covered by the Convention. If I may reserve the--"
+                },
+                {
+                    "start": 1556.863,
+                    "stop": 1558.041,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do you say... I'm sorry."
+                },
+                {
+                    "start": 1558.041,
+                    "stop": 1559.385,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I was just going to reserve the--"
+                },
+                {
+                    "start": 1559.385,
+                    "stop": 1560.429,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, you want to reserve your time. Okay."
+                },
+                {
+                    "start": 1560.429,
+                    "stop": 1571.582,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Kneedler. Ms. Hollander."
+                }
+            ],
+            "start": 9.824,
+            "stop": 1591.225
+        },
+        {
+            "turns": [
+                {
+                    "start": 1571.582,
+                    "stop": 1591.225,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court-- The Government's position here, that the Court should completely defer to Congress's generalized finding to wholly exempt Schedule 1 of Controlled Substances Act from RFRA's mandate is fundamentally and structurally incompatible with RFRA."
+                },
+                {
+                    "start": 1591.225,
+                    "stop": 1603.439,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you seem to give the fact that it's listed in Schedule 1 zero weight. It seems to me, at the very least, there should be a presumption that this is a compelling interest."
+                },
+                {
+                    "start": 1603.439,
+                    "stop": 1606.027,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, and--"
+                },
+                {
+                    "start": 1606.027,
+                    "stop": 1612.397,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And when the... and when the evidence is in equipoise, as the district judge thought it would, that presumption, it seems to me, carries the day for the Government."
+                },
+                {
+                    "start": 1612.397,
+                    "stop": 1702.698,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, the District Court... we give it deference, as did the District Court. Judge Parker specifically found, contrary to what the Government says, that he began by looking at Schedule 1, and he specifically says... I believe it's on page 212(a) of the petitioner's appendix... that he had to begin there. And he said, \"This Court must give due regard for the fact that Congress put DMT into Schedule 1. \" But then he applied RFRA. And in applying RFRA, he went on to apply RFRA and to specifically find that applying RFRA, which requires not only a compelling interest, but a compelling interest to the person, that the Government did not meet its burden in this case of showing harm, any risk of harm, to these members, or any risk of diversion. And I'd like to go back, for a moment, to the issue of peyote, because, first of all, if you look at the congressional record in 1965, for what that's worth, there's not one mention... and it's on page... starts on page 480 of the joint appendix... there's no mention of Indian tribes, there's no mention of sovereign issues with the Indian tribes. There's a mention of the Native American Church and the First Amendment and why this exemption has to be made. And, in fact, our record is--"
+                },
+                {
+                    "start": 1702.698,
+                    "stop": 1706.896,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we know whether you can be a member of that church without being an Indian?"
+                },
+                {
+                    "start": 1706.896,
+                    "stop": 1751.422,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, sir, we do, Your Honor. We know that. And it is throughout our brief. There's many mentions of it, the fact that there have been non Native American members since the beginning of the Native American Church. I would direct the Court to the easiest one, which is at the joint appendix at page 500, which is a memo from a DEA legal counsel talking about this. And, in fact, at the hearing in our case, on the very last day... it was on November 2nd, 2001, at page 1933... Mr. Adam Zubin, representing the Government, specifically said, and I quote, \"The Federal Government places no restrictions on who can participate in the Native American Church. \" So, we have two things. We have the exemption in 1965--"
+                },
+                {
+                    "start": 1751.422,
+                    "stop": 1771.844,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, your theory would be if you had a religious group that... whose doctrine was that you should proselytize through hoasca, and they want everybody to come, and they're aggressive in doing that, and distributing hoasca, that the Government should be in a position of saying, \"This religious group can use it, but that religious group can't? \""
+                },
+                {
+                    "start": 1771.844,
+                    "stop": 1776.626,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, it would depend, again, on the facts of that case."
+                },
+                {
+                    "start": 1776.626,
+                    "stop": 1800.319,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, they're the kind of the... the ones I just gave you. In other words, if there's going to be a greater threat of diversion to... it's not limited to the members of a very cohesive and limited group, but it's... they're... they aggressively try to reach out, but it's all part of a sincere religious belief, that we should, in applying RFRA, draw distinctions between the group you represent and that hypothetical group?"
+                },
+                {
+                    "start": 1800.319,
+                    "stop": 1814.092,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The distinctions... yes and no, and let me explain, Your Honor... Mr. Chief Justice... the distinction is that if the Government could meet a compelling interest and actually show a risk of diversion--"
+                },
+                {
+                    "start": 1814.092,
+                    "stop": 1815.269,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm assuming they show--"
+                },
+                {
+                    "start": 1815.269,
+                    "stop": 1815.769,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that they--"
+                },
+                {
+                    "start": 1815.769,
+                    "stop": 1815.952,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that there is--"
+                },
+                {
+                    "start": 1815.952,
+                    "stop": 1816.202,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--showed it--"
+                },
+                {
+                    "start": 1816.202,
+                    "stop": 1816.618,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1816.618,
+                    "stop": 1839.551,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--then they would have different facts. And the different facts in that case would mean that, in that case, the Government would win. Now, I'd like to point out, although I realize you've just presented me with a hypothetical... however, there are 250,000 members of the Native American Church, and the record in our case is that there's never been any evidence of any diversion. And, although the Government has--"
+                },
+                {
+                    "start": 1839.551,
+                    "stop": 1840.145,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if we--"
+                },
+                {
+                    "start": 1840.145,
+                    "stop": 1840.711,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just--"
+                },
+                {
+                    "start": 1840.711,
+                    "stop": 1862.732,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--think that the Treaty... the Convention entered into in 1971... makes clear that hoasca is covered, then does that provide a compelling interest for the Government, because it requires the Government to prohibit the importation? If we think, as a matter of law, the Convention covers hoasca."
+                },
+                {
+                    "start": 1862.732,
+                    "stop": 1872.058,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor, it doesn't, because, again, the Government has... we have to look at the Treaty, just like we look at any other law... RFRA clearly says--"
+                },
+                {
+                    "start": 1872.058,
+                    "stop": 1894.572,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if we conclude, looking at the Treaty, that it prohibits hoasca, covers it, and that it provides that nations that enter into the Convention must avoid importation of it, then is that a compelling interest under RFRA?"
+                },
+                {
+                    "start": 1894.572,
+                    "stop": 1896.283,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It may... yes, Your Honor--"
+                },
+                {
+                    "start": 1896.283,
+                    "stop": 1896.76,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is?"
+                },
+                {
+                    "start": 1896.76,
+                    "stop": 1931.89,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--it may be a compelling interest, but it still may not satisfy RFRA, because RFRA specifically requires that it be a compelling interest to the person. And we... the Government would have to put on evidence. And even though is a question of law, that doesn't preclude the District Court hearing evidence which he has not heard at... to this point... put on evidence showing that the... that the compelling interest the Government has asserted in this case, which is that it would lose its leadership position in the international community, would really be a compelling interest, and that it could not be accommodated."
+                },
+                {
+                    "start": 1931.89,
+                    "stop": 1964.646,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that isn't the compelling interest. The compelling interest is, we signed a Treaty, and you follow it. Now, how can you say that the Government wouldn't have a compelling interest in following a Treaty where they... where they promised to ban the substance? I mean, they're not... they're just saying RFRA doesn't apply where that's at stake. Now, what's the argument against that? You're saying the argument against that is, maybe it really isn't a compelling interest? Well, okay. Why not? I mean, it sounds to me as if it would be. They have a Treaty. They have to live up to their word, period. What's wrong with that?"
+                },
+                {
+                    "start": 1964.646,
+                    "stop": 1971.683,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There's nothing wrong with that, Your Honor. The... what's wrong with that is that RFRA requires the Government to go further than that."
+                },
+                {
+                    "start": 1971.683,
+                    "stop": 1984.291,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It does? All right. That's an issue, I guess. I'd have to decide, is a compelling and... does it require the Government to go further? But you concede that if it doesn't require the Government to go further, you lose."
+                },
+                {
+                    "start": 1984.291,
+                    "stop": 1992.094,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If the Treaty does include hoasca, which we believe that it doesn't."
+                },
+                {
+                    "start": 1992.094,
+                    "stop": 1994.232,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. So, that's a different issue. Why doesn't it?"
+                },
+                {
+                    "start": 1994.232,
+                    "stop": 2022.924,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Why doesn't it? It doesn't. And the... and, interestingly, the executive took the reverse position that it's taking here throughout the history of this Treaty until this litigation, and it doesn't cover hoasca, because it doesn't cover plants, or infusions from plants. And that is the position. And the reason why the U.S. would not lose its leadership position is that that's the position of Brazil, which allows religious use--"
+                },
+                {
+                    "start": 2022.924,
+                    "stop": 2032.842,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't care whose position it is. The language does not admit of that exception. There's nothing in the language of it that would suggest that exception at all. What language do you rely upon for that exception?"
+                },
+                {
+                    "start": 2032.842,
+                    "stop": 2039.002,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The Treaty... we have to rely, Your Honor, on the Treaty as a whole. And what--"
+                },
+                {
+                    "start": 2039.002,
+                    "stop": 2042.273,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As a whole, anywhere in it... give me language anywhere in the whole Treaty that--"
+                },
+                {
+                    "start": 2042.273,
+                    "stop": 2042.74,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What the--"
+                },
+                {
+                    "start": 2042.74,
+                    "stop": 2044.05,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--suggests that exception."
+                },
+                {
+                    "start": 2044.05,
+                    "stop": 2057.241,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The Treaty that the... the language that suggests that exception is, first of all, in Article 32, that talks about the traditional use of plants. It is in the fact that plants are not covered. And so, a--"
+                },
+                {
+                    "start": 2057.241,
+                    "stop": 2057.907,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but a--"
+                },
+                {
+                    "start": 2057.907,
+                    "stop": 2058.585,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--preparation--"
+                },
+                {
+                    "start": 2058.585,
+                    "stop": 2069.786,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--solution that includes the substance DMT is covered, by definition, as I understand it. Tea is a solution, and it includes DMT. Isn't that the end of the issue?"
+                },
+                {
+                    "start": 2069.786,
+                    "stop": 2081.449,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor, it isn't. And the reason it isn't is, if we look... several places, one is the conduct of our Treaty partners, none of whom agree with that position... we look at--"
+                },
+                {
+                    "start": 2081.449,
+                    "stop": 2094.03,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's wrong... can you tell me, on the face of it, what's wrong with it? I mean, I... if I have tea at 5 o'clock, I think I'm drinking a solution that includes the little things that come out of the tea leaves. And that's what we've got involved here."
+                },
+                {
+                    "start": 2094.03,
+                    "stop": 2096.551,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe our Treaty partners are just violating the Treaty."
+                },
+                {
+                    "start": 2096.551,
+                    "stop": 2099.572,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, if they are, then we are, also--"
+                },
+                {
+                    "start": 2099.572,
+                    "stop": 2100.172,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2100.172,
+                    "stop": 2100.666,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--because--"
+                },
+                {
+                    "start": 2100.666,
+                    "stop": 2103.621,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Tell me what's wrong with the analysis of the solution?"
+                },
+                {
+                    "start": 2103.621,
+                    "stop": 2104.137,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The--"
+                },
+                {
+                    "start": 2104.137,
+                    "stop": 2113.201,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I have specific language from the Treaty's commentary in front of me that supports you. Are you not going to read that? [Laughter]"
+                },
+                {
+                    "start": 2113.201,
+                    "stop": 2115.105,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I was--"
+                },
+                {
+                    "start": 2115.105,
+                    "stop": 2118.593,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "She's not going to read it, because I asked her for language in the--"
+                },
+                {
+                    "start": 2118.593,
+                    "stop": 2119.087,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In the Treaty."
+                },
+                {
+                    "start": 2119.087,
+                    "stop": 2120.003,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Treaty. In--"
+                },
+                {
+                    "start": 2120.003,
+                    "stop": 2120.487,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I was--"
+                },
+                {
+                    "start": 2120.487,
+                    "stop": 2120.97,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--the Treaty--"
+                },
+                {
+                    "start": 2120.97,
+                    "stop": 2121.053,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I--"
+                },
+                {
+                    "start": 2121.053,
+                    "stop": 2123.13,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--not in the legislative history of the Treaty. [Laughter]"
+                },
+                {
+                    "start": 2123.13,
+                    "stop": 2158.342,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I was... I was trying to answer Justice Scalia's question. But let me say this. And of course I would read the language of the commentary and the INCB and the opinion of our former ambassador, Herbert Okun, in Brazil and France. But let me also say, if I may, that the position of the executive, until this... until this litigation, has been the same. And the reason we know that is precisely what you said, Your Honor. Mescaline is also covered by the Treaty. Peyote is not. The Native--"
+                },
+                {
+                    "start": 2158.342,
+                    "stop": 2158.603,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I--"
+                },
+                {
+                    "start": 2158.603,
+                    "stop": 2159.169,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--American--"
+                },
+                {
+                    "start": 2159.169,
+                    "stop": 2161.807,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--thought that's because we made a special reservation for peyote."
+                },
+                {
+                    "start": 2161.807,
+                    "stop": 2198.013,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Mr. Chief Justice. We did make a special reservation, but it didn't matter yet, because it's never been covered. That reservation, if you go back and look at what the Senate said at the time, and what... there are no plants. They're just not listed in the Treaty. They purpose of the reservation was, in an abundance of caution, in case it would be... in case it would be added in the future, then plants, and solutions from plants, would be covered. But as it stands now, members of the Native American Church drink a tea containing peyote and--"
+                },
+                {
+                    "start": 2198.013,
+                    "stop": 2198.446,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, are you--"
+                },
+                {
+                    "start": 2198.446,
+                    "stop": 2198.446,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--mescaline."
+                },
+                {
+                    "start": 2198.446,
+                    "stop": 2211.969,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--saying that there are... there's basically an ambiguity in the Treaty, that solutions derived from plants are not covered, but solutions that include DMT are covered, and there... therefore, there is a question?"
+                },
+                {
+                    "start": 2211.969,
+                    "stop": 2237.079,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The... yes, the ambiguity arises because what the Treaty means is that if you were to extract the DMT and then add it to something, which can't be done here and could have no religious meaning for the UDV, and we're not even sure if... chemically, if it's possible. If you were to extract it and then add it, then you would have a solution containing DMT. And that's--"
+                },
+                {
+                    "start": 2237.079,
+                    "stop": 2243.432,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But solution is defined by the number of steps in the process that gets the substance into the water? Is that--"
+                },
+                {
+                    "start": 2243.432,
+                    "stop": 2243.799,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 2243.799,
+                    "stop": 2244.409,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--correct?"
+                },
+                {
+                    "start": 2244.409,
+                    "stop": 2248.031,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, I didn't write this Treaty, and I... and I must say-- [Laughter]"
+                },
+                {
+                    "start": 2248.031,
+                    "stop": 2249.114,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I'm not blaming you--"
+                },
+                {
+                    "start": 2249.114,
+                    "stop": 2249.197,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that it--"
+                },
+                {
+                    "start": 2249.197,
+                    "stop": 2249.58,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--for it--"
+                },
+                {
+                    "start": 2249.58,
+                    "stop": 2249.68,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that it--"
+                },
+                {
+                    "start": 2249.68,
+                    "stop": 2249.863,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but I--"
+                },
+                {
+                    "start": 2249.863,
+                    "stop": 2272.945,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that it-- [Laughter] It's not the clear... the clearest writing, but we know... we know what its meaning is, and we do have to look at the travaux, which goes into long detail about why they even mention plants, because of their fear, in the future, that plants might be covered. Now, other plants are covered--"
+                },
+                {
+                    "start": 2272.945,
+                    "stop": 2273.479,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can--"
+                },
+                {
+                    "start": 2273.479,
+                    "stop": 2275.117,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--in a different Treaty. But--"
+                },
+                {
+                    "start": 2275.117,
+                    "stop": 2284.281,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Can I make a suggestion as to why, even if it is covered by the Treaty, it may not be a compelling State interest to comply with the Treaty?"
+                },
+                {
+                    "start": 2284.281,
+                    "stop": 2287.135,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Say yes. Let me him make that--"
+                },
+                {
+                    "start": 2287.135,
+                    "stop": 2290.001,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. [Laughter] I'm just waiting."
+                },
+                {
+                    "start": 2290.001,
+                    "stop": 2291.745,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It was the right answer."
+                },
+                {
+                    "start": 2291.745,
+                    "stop": 2293.172,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm just trying--"
+                },
+                {
+                    "start": 2293.172,
+                    "stop": 2293.589,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because I haven't--"
+                },
+                {
+                    "start": 2293.589,
+                    "stop": 2294.183,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--to be polite."
+                },
+                {
+                    "start": 2294.183,
+                    "stop": 2312.156,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--it made. I... I mean, isn't it well established that statutes trump treaties, that if Congress decides, in a subsequent statute, to ignore a Treaty, it may do so? Now, if this RFRA can trump a statute, it would seem to me, a fortiori, it can trump a Treaty."
+                },
+                {
+                    "start": 2312.156,
+                    "stop": 2316.604,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, it can, Your Honor. It can trump the Treaty, and that... and that is--"
+                },
+                {
+                    "start": 2316.604,
+                    "stop": 2317.115,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, compliance--"
+                },
+                {
+                    "start": 2317.115,
+                    "stop": 2317.482,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--correct."
+                },
+                {
+                    "start": 2317.482,
+                    "stop": 2319.97,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--with a Treaty is not necessarily a compelling State interest."
+                },
+                {
+                    "start": 2319.97,
+                    "stop": 2330.044,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It is not. And... but we don't even have to go that far, because, if we do the RFRA analysis, the Government must show a compelling interest to the person and, in addition--"
+                },
+                {
+                    "start": 2330.044,
+                    "stop": 2330.805,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, surely--"
+                },
+                {
+                    "start": 2330.805,
+                    "stop": 2331.122,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--the--"
+                },
+                {
+                    "start": 2331.122,
+                    "stop": 2338.786,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--surely RFRA doesn't say that you disregard treaties or you disregard statutes in determining what's a compelling interest."
+                },
+                {
+                    "start": 2338.786,
+                    "stop": 2341.824,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. You don't disregard them, Your Honor, but--"
+                },
+                {
+                    "start": 2341.824,
+                    "stop": 2358.186,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And getting back to the first question that Justice Breyer asked... and then we got off on what the Treaty really means... but assuming that the Treaty does prohibit the importation of this substance... assuming that... is there any evidence that the District Court thought that this was a compelling interest?"
+                },
+                {
+                    "start": 2358.186,
+                    "stop": 2361.041,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the... no, the District Court--"
+                },
+                {
+                    "start": 2361.041,
+                    "stop": 2362.485,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "None at all."
+                },
+                {
+                    "start": 2362.485,
+                    "stop": 2371.309,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--analyzed the Treaty differently, and analyzed the Treaty to not apply to hoasca, for all the reasons that are... that are in his opinion in our brief. And, therefore--"
+                },
+                {
+                    "start": 2371.309,
+                    "stop": 2382.89,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, if we disagree with you on the Treaty, then the appellate court's opinion doesn't really even address the point whether or not this and/or the statute, together, can be a compelling interest."
+                },
+                {
+                    "start": 2382.89,
+                    "stop": 2391.454,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. If you disagree with the District Court on that, then the case should be remanded for it to... for additional--"
+                },
+                {
+                    "start": 2391.454,
+                    "stop": 2420.606,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know if there isn't a factual question here. I mean, I thought Justice Scalia, if it were to be up to him, did take into account official commentaries to treaties. But maybe he doesn't. Anyway, I take them into account. And I... and in respect to that, I read this as saying, specifically, that the plants... it doesn't include the substance if it is a substance clearly distinguished from the substance constituting its active principal... and the example they give is mimosa root, which contains DMT."
+                },
+                {
+                    "start": 2420.606,
+                    "stop": 2421.706,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's true. And--"
+                },
+                {
+                    "start": 2421.706,
+                    "stop": 2448.998,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And then, that's also true of the bananas and pineapples, et cetera. And there's a court holding that hoasca's out of it, in France and one in the Netherlands, all of which I think was relevant to a Treaty. All right? Now, the Government has come in with a counterargument and said it clearly does cover, I guess, even mimosa roots, where they are imported solely for the purpose of extracting DMT. Now, what's the response to that?"
+                },
+                {
+                    "start": 2448.998,
+                    "stop": 2460.172,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The response to that, Your Honor, is that there is no DMT extracted in this case. Although the Government said that in their brief, there is no evidence of that, and it is contrary to the evidence--"
+                },
+                {
+                    "start": 2460.172,
+                    "stop": 2468.647,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it has to be extracted at some point to be... to get into... I'm right here... to get into the tea, right? It's extracted by the preparation of the tea."
+                },
+                {
+                    "start": 2468.647,
+                    "stop": 2469.991,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Mr. Chief--"
+                },
+                {
+                    "start": 2469.991,
+                    "stop": 2473.28,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The plants are not... the plants are not imported, right? Just the tea."
+                },
+                {
+                    "start": 2473.28,
+                    "stop": 2474.99,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The tea is imported. But the--"
+                },
+                {
+                    "start": 2474.99,
+                    "stop": 2475.618,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 2475.618,
+                    "stop": 2482.338,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--but the tea is made just like you would make tea if you mixed chamomile and mint, and then--"
+                },
+                {
+                    "start": 2482.338,
+                    "stop": 2482.688,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2482.688,
+                    "stop": 2483.965,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--and then you took the leaves out. What you have--"
+                },
+                {
+                    "start": 2483.965,
+                    "stop": 2484.692,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2484.692,
+                    "stop": 2498.632,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--in that tea is a collection of a tremendous number of alkaloids. And what the commentary is saying is that you would have to pull this alkaloid out. And that would be a chemical process. There's further... there's further--"
+                },
+                {
+                    "start": 2498.632,
+                    "stop": 2507.031,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess I... if I could just go back to the point. You're emphasizing that the Treaty doesn't cover the importation of plants. But you're not importing plants, you're--"
+                },
+                {
+                    "start": 2507.031,
+                    "stop": 2507.458,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That--"
+                },
+                {
+                    "start": 2507.458,
+                    "stop": 2513.167,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--importing a mixture that must contain the covered hallucinogen or it doesn't have its effect."
+                },
+                {
+                    "start": 2513.167,
+                    "stop": 2544.347,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. However, under the Treaty, it's not... it's not covered by the Treaty, because it is not separate. If DMT were separated, then it would be covered by the Treaty. And, actually, if you look at the 1988 Treaty, going even farther, and its commentary, the commentary in the 1988 Treaty, which has to be read in connection with the 1971 Treaty, specifically defines preparation as the extraction--"
+                },
+                {
+                    "start": 2544.347,
+                    "stop": 2544.514,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So, under your--"
+                },
+                {
+                    "start": 2544.514,
+                    "stop": 2545.174,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--of the drug."
+                },
+                {
+                    "start": 2545.174,
+                    "stop": 2548.529,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--theory, a marijuana tea would not be covered by the Treaty."
+                },
+                {
+                    "start": 2548.529,
+                    "stop": 2556.926,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not by this Treaty. But that... marijuana, coca leaves and poppies are specifically covered by the 1961 Treaty."
+                },
+                {
+                    "start": 2556.926,
+                    "stop": 2567.939,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but they're not being imported, they're transformed into this tea. And you... saying the active substance isn't there independently, so it's not covered. And that seems to me to be a... an erroneous reading of the Treaty."
+                },
+                {
+                    "start": 2567.939,
+                    "stop": 2617.586,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the difference, for example, with marijuana, is that if you look at the 1961 Treaty, it says \"the plant, all parts of the plant, everything from the plant. \" It's all covered. What the 1971 Treaty did was different. And if you read the 1971 Treaty and the 1988 Treaty and their commentaries, if I can rely on their commentaries, and the International Narcotics Control Board, what they are expressing is a concern for the traditional religious and mystical use of plants in religion, and that's what they were concerned about, and that's why they didn't put this in, and that's why they specifically have, in the commentary, that the example of mimosa... and they also have an example of peyote in the same paragraph 12, where they--"
+                },
+                {
+                    "start": 2617.586,
+                    "stop": 2635.142,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "About commentary or travaux, I don't mind using them for treaties, so long as they don't contradict the Treaty. Do we have any case where we use the... les travaux preparatoires to actually contradict the language of the Treaty?"
+                },
+                {
+                    "start": 2635.142,
+                    "stop": 2637.086,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Not to my--"
+                },
+                {
+                    "start": 2637.086,
+                    "stop": 2639.724,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that's what, it seems to me, is going on here."
+                },
+                {
+                    "start": 2639.724,
+                    "stop": 2678.818,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor, it's not contradicting the Treaty, because the Government is taking this one sentence preparation, and the Government has a definition of it, for this litigation only, that is contrary to the definition in the Treaty the way it is interpreted by the travaux and by the commentary, and by this executive, which means that the executive's position here is really entitled to no deference; because, otherwise, the tea drunk by the Native American Church, the peyote tea, would also be covered."
+                },
+                {
+                    "start": 2678.818,
+                    "stop": 2689.486,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, as... I understand the Treaty. What the Treaty says is, you can't import substances listed in Schedule 1. Then you look at Schedule 1, and it doesn't say hoasca."
+                },
+                {
+                    "start": 2689.486,
+                    "stop": 2690.036,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's--"
+                },
+                {
+                    "start": 2690.036,
+                    "stop": 2722.227,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It says DMT> [\"]. And then it has another... and, interpreting that, it says the fact, if you look at that list and it says DMT> [\"], means what it says, you can't import DMT. It's a drug importation statute, and it doesn't cover plants that contain the substance DMT. Otherwise, we'd have... throw out bananas and... or mimosa, anyway. And we're not looking to intent on that. Now, that's a possible interpretation that doesn't contradict anything. And--"
+                },
+                {
+                    "start": 2722.227,
+                    "stop": 2724.515,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, except that you don't import the plants, right?"
+                },
+                {
+                    "start": 2724.515,
+                    "stop": 2736.628,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct. And we don't import DMT. We import a tea that contains an enormous number of alkaloids. And it was clear in--"
+                },
+                {
+                    "start": 2736.628,
+                    "stop": 2738.472,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You're in trouble. That's harder, then, if it's--"
+                },
+                {
+                    "start": 2738.472,
+                    "stop": 2741.093,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It was... it's clear--"
+                },
+                {
+                    "start": 2741.093,
+                    "stop": 2746.386,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But, of course, the reason you import it is because it contains this particular substance. [Laughter]"
+                },
+                {
+                    "start": 2746.386,
+                    "stop": 2772.156,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct, Your Honor. That is correct. However, the Treaty wanted to be... the Treaty writers were very careful to not impinge on traditional religious use. And RFRA... and there's one more thing that I've been trying to say, and that is that RFRA requires not just a compelling interest, but a compelling interest to the person, and it requires least restrictive means."
+                },
+                {
+                    "start": 2772.156,
+                    "stop": 2773.273,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know what you mean by that. You said that before, too."
+                },
+                {
+                    "start": 2773.273,
+                    "stop": 2773.489,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Least--"
+                },
+                {
+                    "start": 2773.489,
+                    "stop": 2776.26,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you explain that again? You said a compelling interest to the... what person?"
+                },
+                {
+                    "start": 2776.26,
+                    "stop": 2777.226,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To the person. To what person?"
+                },
+                {
+                    "start": 2777.226,
+                    "stop": 2780.131,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--To the aggrieved person. To this particular--"
+                },
+                {
+                    "start": 2780.131,
+                    "stop": 2784.907,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Isn't the compelling interest in enforcing it against the aggrieved person. Isn't that what you mean?"
+                },
+                {
+                    "start": 2784.907,
+                    "stop": 2785.073,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2785.073,
+                    "stop": 2787.434,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right. That's correct. But--"
+                },
+                {
+                    "start": 2787.434,
+                    "stop": 2787.517,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, okay."
+                },
+                {
+                    "start": 2787.517,
+                    "stop": 2802.551,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--but RFRA also requires that the Government prove, if it proves a compelling interest, to enforce it against the person, and if it gets there, it also must prove that it is furthering that compelling interest by the least restrictive means. Now--"
+                },
+                {
+                    "start": 2802.551,
+                    "stop": 2835.819,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if the interest is defined, as Mr. Kneedler did... that is, these drugs are \"No, absolutely prohibited\". --then how can you have any less restrictive means? It seems to me that you can... I understand your argument about a compelling State interest has to be judged in context... to the person, to this church. But if Mr. Kneedler is correct that the compelling State interest is that this is a proscribed drug, then there can't be any least restrictive means."
+                },
+                {
+                    "start": 2835.819,
+                    "stop": 2857.063,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I disagree, Your Honor. For example, other countries that have domestic policies have found ways to accommodate that have not violated the Treaty. For example, Switzerland provides needles and heroin to its... to its drug users. And the United States has not objected that this is a violation of the Treaty."
+                },
+                {
+                    "start": 2857.063,
+                    "stop": 2857.49,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What about--"
+                },
+                {
+                    "start": 2857.49,
+                    "stop": 2857.94,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And--"
+                },
+                {
+                    "start": 2857.94,
+                    "stop": 2899.755,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I worry about the general proposition we would be adopting if we say, you know, one narrow exception is not a... doesn't contravene a compelling State interest. What about... I assume there is still a Federal law against bigamy that applies in Federal territories. Now, what if, you know, a small religious group comes forward and said, you know, \"We... our religion requires bigamy. \" \"There are not a whole lot of us. \" \"We're just a little tiny group. \" \"So, we demand, under RFRA, an exemption from this absolute law. \" \"Why does it have to be absolute? \" \"It's just a little tiny exception, only a few of us. \""
+                },
+                {
+                    "start": 2899.755,
+                    "stop": 2900.766,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 2900.766,
+                    "stop": 2903.188,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "At least for now. [Laughter]"
+                },
+                {
+                    "start": 2903.188,
+                    "stop": 2956.949,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Until they reproduce. [Laughter] Your Honor, the analysis would be the same. First, that religion would have to prove it was a sincere religion and meet that burden. And then the Government could come forward with a compelling interest that... and the... and perhaps find the same thing that was found in Reynolds, which was not a strict scrutiny case, but may come out the same way... the sanctity of marriage, the other issues. And those would be issues of fact for a district judge to decide, under his discretion. And it... all RFRA does is give every religious organization, the minority ones and the majority ones, the opportunity to go into court as an aggrieved person and make their claim and see whether the Government can meet its burden."
+                },
+                {
+                    "start": 2956.949,
+                    "stop": 2978.288,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you a question... tangential just a little, but going back to the Chief Justice's question earlier about diversion? And his suggestion was, if they're... proselyte the religion, you get all sorts of converts who will just use it in the same way as the small number use it now. Would that be diversion, or would it be diversion... diverting it to some people who are not members of the religion?"
+                },
+                {
+                    "start": 2978.288,
+                    "stop": 2979.038,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2979.038,
+                    "stop": 2981.226,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What does the word \"diversion\" mean in this context?"
+                },
+                {
+                    "start": 2981.226,
+                    "stop": 2991.267,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--\"Diversion\", Your Honor, is a term of art here. And I thought I answered it that way, but maybe I was unclear. It means diversion from licit use to illicit use. So, it's--"
+                },
+                {
+                    "start": 2991.267,
+                    "stop": 2995.76,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but then, getting more members to... converted to the religion would not be diversion."
+                },
+                {
+                    "start": 2995.76,
+                    "stop": 3000.393,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, it would not be diversion. There would only be a problem if the Government, for example, showed--"
+                },
+                {
+                    "start": 3000.393,
+                    "stop": 3000.993,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 3000.993,
+                    "stop": 3043.135,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--that there was some diversion outside. And that's why I used the example of the Native American Church; there's never been any diversion. I'd like to go back to one other issue that perhaps I didn't make clear. What the... it's true that the UDV does not import the plants. But it's those plants that are sacred to the UDV. It can't substitute them. Not only is DMT in bananas and pineapple, but Phalaris grass, for example, that... and there's a picture of one in our joint appendix at page 518, I believe... grows in this country. A recreational user could just go and, you know, mix the Phalaris--"
+                },
+                {
+                    "start": 3043.135,
+                    "stop": 3043.135,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes, but--"
+                },
+                {
+                    "start": 3043.135,
+                    "stop": 3043.818,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--grass."
+                },
+                {
+                    "start": 3043.818,
+                    "stop": 3077.169,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I don't see... I mean, I see I was not right. You do import drums of tea. And they say, in the Treaty, that a preparation is a solution or mixture containing a substance. And it would seem to be a solution or a mixture containing DMT. And the commentary that I thought helped you does concern plants, but you're not importing plants. So, now I'm rather troubled to see if there is any way that this Treaty is interpreted in a manner that allows you to win. What is it?"
+                },
+                {
+                    "start": 3077.169,
+                    "stop": 3092.603,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the... what the commentary says is that it is not a covered preparation, that an infusion or tea made from the roots of a plant is not a covered preparation, and that--"
+                },
+                {
+                    "start": 3092.603,
+                    "stop": 3148.57,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Hollander, may I just, on this point... it's the same question I raised with Mr. Kneedler. We're talking about a preliminary injunction. Your side, I think, said, \"Go for the permanent injunction. \" \"We have a lot more to put in. \" The presentation on the Treaty was rather thin, below. I take it from Mr. Kneedler's argument that he's saying the preliminary injunction, or not, is really the thing. If the Government wins, no preliminary injunction. There's not going to be any show for a permanent injunction. But, on your side of it, what more would you be putting in? Let's say you prevail at the preliminary injunction stage. Would you then say, \"See, Judge, now you can enter a permanent injunction? \" Or you... would you be putting in more evidence? And if so, what kind?"
+                },
+                {
+                    "start": 3148.57,
+                    "stop": 3279.852,
+                    "speaker": {
+                        "name": "Nancy Hollander",
+                        "ID": 37155,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, we certainly have a great deal of more evidence, Your Honor, that we can put in. We have substantial evidence on the Treaty, and evidence we haven't even talked about here, proving that this hoasca is not covered by the Treaty. We have additional health and safety evidence. We have additional evidence to show lack of diversion. We have additional evidence that Judge Parker talks about to show targeting of the religion and selective prosecution. We have a great deal more evidence we can put on. But, of course, it depends on what the Government puts on. Because, at this point, the Government has not met any of its burdens. Now, you're correct about the Treaty. None of that has gone on. The Government resisted any evidence about the Treaty, resisted the very best evidence, which was the International Narcotics Control Board's opinion that hoasca is not covered by the Treaty. And we now have... we now have more that we would put on. And, you know, what the church and its members seek is just the right to practice their religious faith, as Congress guaranteed them in RFRA. Because Congress guaranteed and recognized that religious liberty is a core value in this country. Two courts below found, on a lengthy factual record, that the Government had not met the burdens Congress imposed. This Court should do... even if this Court believes that it's a close question... should do then what it did in Ashcroft v. ACLU, affirm the preliminary injunction, remand this case for a trial on the merits. If this Court were to do anything less than that, it's really to deny Congress's intent and Congress's policy here, because Congress's policy is that religious freedom, religious liberty, shall not be burdened unless, and until, the Government meets its burdens. The District Court clearly found, and said, that the Government did not show a risk of harm, did not show a risk of diversion; and, therefore, he found that the Government did not meet its compelling interests in this case. And we would ask the Court to affirm the preliminary injunction, remand this case to the District Court. Thank you."
+                },
+                {
+                    "start": 3279.852,
+                    "stop": 3283.057,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Hollander. Mr. Kneedler, you have 4 minutes left."
+                }
+            ],
+            "start": 3283.057,
+            "stop": 3325.8
+        }
+    ]
+}

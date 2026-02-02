@@ -1,0 +1,2643 @@
+{
+    "title": "Pierce County v. Guillen",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 12.932,
+                    "stop": 74.539,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: From the enactment of the 1966 Highway Safety Act, a congressional report, specifically number 17 to the 89th Congress, which is quoted on page 2 of the blue brief, congressional reports noted that, quote, no other part of the State program is as basic to ultimate success, nor as demanding of complete cooperation, end quote, as State collection of accident reports, because they are the basis for hazard identification and correction. However, soon after the 1973 Highway Safety Act made accident data collection a condition to Federal hazard elimination funds the Secretary of Transportation reported to Congress that States strongly objected, because they feared that their collection of accident data would be used against them in damage actions. Because of this, unintended liability exposure threatened the integrity and proper operation of a cooperative Federal-State program that has saved thousands of lives--"
+                },
+                {
+                    "start": 74.539,
+                    "stop": 78.819,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you help us figure out how to interpret this statute?"
+                },
+                {
+                    "start": 78.819,
+                    "stop": 79.764,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor."
+                },
+                {
+                    "start": 79.764,
+                    "stop": 99.754,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It says data, highway safety data compiled or collected by a State. Now, I suppose that in a crossing like we have here, where there might have been accidents from time to time, that there would be police reports or highway officer reports of motor vehicle accidents at that site, right?"
+                },
+                {
+                    "start": 99.754,
+                    "stop": 100.505,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 100.505,
+                    "stop": 116.41,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And those presumably are not either compiled or collected for the purpose of getting highway funding from the Federal Government. They're compiled, I gather, to serve the normal functions of law enforcement."
+                },
+                {
+                    "start": 116.41,
+                    "stop": 119.422,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, no, that's not completely correct."
+                },
+                {
+                    "start": 119.422,
+                    "stop": 119.7,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No?"
+                },
+                {
+                    "start": 119.7,
+                    "stop": 130.401,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They are collected and compiled for purposes of highway hazard identification, essentially, from the very beginning."
+                },
+                {
+                    "start": 130.401,
+                    "stop": 140.435,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, don't you suppose that at least in some jurisdictions, maybe not Tacoma, but in some jurisdictions you will find just ordinary police reports--"
+                },
+                {
+                    "start": 140.435,
+                    "stop": 141.337,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it's my--"
+                },
+                {
+                    "start": 141.337,
+                    "stop": 164.344,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--of accidents, and sometime later, perhaps the State might decide, or the county, I'd like to have some Federal money to make some changes at that crossing, and maybe we can use some of the data to assemble it to try to apply for Federal money. Now, how should we interpret that statute?"
+                },
+                {
+                    "start": 164.344,
+                    "stop": 191.927,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, in the... if I understand the hypothetical, the... Your Honor is postulating a situation where there is an accident report purely State in origin. Just to help the Court, I don't know that such a thing exists after the crash data forms. It's to be understood that the Department of Transportation has been, since 1966, working with the States to develop a uniform crash data form, and that... I think it's becoming more and more successful as that goes on, so I'm--"
+                },
+                {
+                    "start": 191.927,
+                    "stop": 200.027,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So your point is that the police officers are using a kind of a unified Federal traffic report--"
+                },
+                {
+                    "start": 200.027,
+                    "stop": 200.6,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Essentially--"
+                },
+                {
+                    "start": 200.6,
+                    "stop": 201.328,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--when there's an accident?"
+                },
+                {
+                    "start": 201.328,
+                    "stop": 231.802,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The forms are not all the same, because each State has the right to choose how to put it together, but the elements of the forms are dramatically Federal in their nature, and they're Federal totally directed toward the issue of highway design. That's why... Nation-wide there was a report cited by the Washington State amici and multi-State amicus, amici briefs that pointed out that Nation-wide before 1966 there was no standard at all."
+                },
+                {
+                    "start": 231.802,
+                    "stop": 282.925,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let me ask you this. At page 20 of the respondent's brief we have four different interpretations, possible interpretations of the acts set forth. Do we have to choose among those in order, as a predicate before reaching the constitutional issue, and I'll just... and this is in line with Justice O'Connor's question. If we took the most expansive view of the alternatives that she presents, then the opinion that we would write, it seems to me, would be different than if we took the more narrow, the most narrow view, and that leads me to the question, do we have to have a statutory construction at the beginning point of our holding?"
+                },
+                {
+                    "start": 282.925,
+                    "stop": 293.496,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't believe so, Your Honor, and the county's position, and we believe it's well-founded, is that the constitutional issue is not an excuse for artificially narrowly interpreting--"
+                },
+                {
+                    "start": 293.496,
+                    "stop": 315.053,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but I think that our Court has always preferred, along the lines suggested by Justice O'Connor and Justice Kennedy, to construe a statute to avoid constitutional problems if we can, and certainly the respondents here at least suggest there are several different constructions. Are you not prepared to say which of those you favor?"
+                },
+                {
+                    "start": 315.053,
+                    "stop": 324.295,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I've... I'm happy... in fact, I had intended to, if given the opportunity, to provide the Court the way the county believes the statute should be interpreted."
+                },
+                {
+                    "start": 324.295,
+                    "stop": 325.507,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'll give you that opportunity right now."
+                },
+                {
+                    "start": 325.507,
+                    "stop": 325.956,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Okay. [Laughter]"
+                },
+                {
+                    "start": 325.956,
+                    "stop": 338.608,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, that's our question, and you might bear in mind if you wish that I think we generally construe evidentiary privileges narrowly."
+                },
+                {
+                    "start": 338.608,
+                    "stop": 427.413,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. However, as the Court pointed out on that issue of narrow construction that... in the Shapiro case, I believe, which was also a raw data case whose purpose was to encourage participation, that even after quoting the standard, the test of a narrow construction... the test was first put to Congress' intent, and that the issue of, you know, that particular rule of construction is not to be used in a way to artificially narrowly interpret what Congress meant, and if Congress meant something, then that's the test. To answer Justice... Chief Justice Rehnquist's question, how does the county say the statute should be interpreted, pretty much we agree with the logic of the United States Solicitor General, but just would suggest that the, their logic be extended to what we believe is the logical conclusion. In other words, we disagree with plaintiffs that it only covers generated documents, because under 409 that's interpretation conflicts with what this Court has said the plain meaning of compiled means, as this Court has discussed in the John Doe case cited to the Court. Also, this reads out of 409 the express protection also of data collected, not just generated. It ignores the legislative history of why 409 was amended, and why it used the language compiled--"
+                },
+                {
+                    "start": 427.413,
+                    "stop": 430.428,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're telling us what's wrong with the other reading. Which is your reading?"
+                },
+                {
+                    "start": 430.428,
+                    "stop": 465.235,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Our reading, Your Honor, is that there should be... this Court should establish a bright line rule that documents collect... as the language says, for... we would ask the Court to enforce the language of the statute, which reads, documents and data, quote, compiled or collected for the purpose, end quote, of specified highway safety programs, and here's the operative language, quote, shall not be subject to discovery or admitted into evidence in a Federal or State proceeding or considered for any other purposes in any action for damages arising from any occurrence at a location mentioned or addressed in those documents or data. In other words--"
+                },
+                {
+                    "start": 465.235,
+                    "stop": 470.184,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It doesn't say documents. I mean, you quoted it, you began the quote after--"
+                },
+                {
+                    "start": 470.184,
+                    "stop": 471.069,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes--"
+                },
+                {
+                    "start": 471.069,
+                    "stop": 471.849,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--after the noun."
+                },
+                {
+                    "start": 471.849,
+                    "stop": 472.993,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. I--"
+                },
+                {
+                    "start": 472.993,
+                    "stop": 475.134,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The noun you inserted was documents."
+                },
+                {
+                    "start": 475.134,
+                    "stop": 475.989,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. There are specific--"
+                },
+                {
+                    "start": 475.989,
+                    "stop": 476.763,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It says--"
+                },
+                {
+                    "start": 476.763,
+                    "stop": 477.566,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--references to specific types."
+                },
+                {
+                    "start": 477.566,
+                    "stop": 478.449,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It says data, doesn't it?"
+                },
+                {
+                    "start": 478.449,
+                    "stop": 484.848,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It says data, and also lists reports, lists... and that sort of thing, and I was trying to condense it down, but yes."
+                },
+                {
+                    "start": 484.848,
+                    "stop": 499.022,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To be plain, do you mean that everything that goes to the Public Works Department, everything that eventually gets to the Public Works Department and is relevant to the safety of highway crossings is exempt from discovery?"
+                },
+                {
+                    "start": 499.022,
+                    "stop": 501.257,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, that is what we're saying."
+                },
+                {
+                    "start": 501.257,
+                    "stop": 525.366,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Every fact, so that if the Department of Environmental Protection has prepared a report saying the accidents are wrecking the grass and the flowers at an intersection, and that report is then given to whatever the data collection agency here is for this purpose, that all of that data, including the data in the Department of Environmental Protection, is then covered by the privilege? Is that your position?"
+                },
+                {
+                    "start": 525.366,
+                    "stop": 534.562,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "To the extent that characterization goes to the data that's in the reports. It's not to say that... all we're saying--"
+                },
+                {
+                    "start": 534.562,
+                    "stop": 535.321,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's my question."
+                },
+                {
+                    "start": 535.321,
+                    "stop": 535.619,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 535.619,
+                    "stop": 548.714,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The same data is in the environmental report. That data is then given to the collection agency. Does the data, even in the hands of the Environmental Department, become subject to the privilege at that point, on your reading?"
+                },
+                {
+                    "start": 548.714,
+                    "stop": 562.416,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We believe the... again, if it meets the test of dealing with an occurrence at a... again, following the language of the statute, an occurrence at the location mentioned or addressed in such reports in the damage action, then that report that it's collected and compiled by--"
+                },
+                {
+                    "start": 562.416,
+                    "stop": 566.545,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not talking about the report. I'm talking about the fact which is reported."
+                },
+                {
+                    "start": 566.545,
+                    "stop": 566.91,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 566.91,
+                    "stop": 568.291,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The data in the report."
+                },
+                {
+                    "start": 568.291,
+                    "stop": 568.641,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 568.641,
+                    "stop": 570.409,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does that... does that data--"
+                },
+                {
+                    "start": 570.409,
+                    "stop": 571.251,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You can answer that yes or no."
+                },
+                {
+                    "start": 571.251,
+                    "stop": 572.006,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--become subject to the privilege?"
+                },
+                {
+                    "start": 572.006,
+                    "stop": 591.233,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, if Your Honor means, when you say data, going to the report to get the data, to... if you were to... if that person who wanted to raise that issue were to go to the person who, or the entity that created that information, and were to depose that, those people, they could get the information that way. All we're talking about--"
+                },
+                {
+                    "start": 591.233,
+                    "stop": 605.862,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Then your... then the answer to my question, I guess, is no, the data does not become, as such, subject to the privilege. It's only the data as held by the collection agency. You can still go to the Environmental Department, depose them, get your information?"
+                },
+                {
+                    "start": 605.862,
+                    "stop": 606.45,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, you can."
+                },
+                {
+                    "start": 606.45,
+                    "stop": 606.714,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 606.714,
+                    "stop": 607.824,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, and I'm sorry I misunderstood you."
+                },
+                {
+                    "start": 607.824,
+                    "stop": 608.41,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, could you--"
+                },
+                {
+                    "start": 608.41,
+                    "stop": 609.391,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What if you don't have to depose them?"
+                },
+                {
+                    "start": 609.391,
+                    "stop": 613.057,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--go to the Police Department under this uniform Federal form you were telling us about it?"
+                },
+                {
+                    "start": 613.057,
+                    "stop": 614.55,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm sorry, I missed the question."
+                },
+                {
+                    "start": 614.55,
+                    "stop": 620.99,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You said at the outset that there's a uniform document for collisions or crashes or something."
+                },
+                {
+                    "start": 620.99,
+                    "stop": 621.333,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 621.333,
+                    "stop": 624.665,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the Police Department fills it out. Can you go to the Police Department and get that information?"
+                },
+                {
+                    "start": 624.665,
+                    "stop": 634.419,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under our interpretation, you could find the officer, you could depose the officer, but you cannot get the report if it's collected and filed for hazard identification."
+                },
+                {
+                    "start": 634.419,
+                    "stop": 647.016,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, so then Justice Souter's hypothetical is different from this. You said in Justice Souter's hypothetical that you could go to that Department and get the document, but if you go to the Police Department you can't get the document."
+                },
+                {
+                    "start": 647.016,
+                    "stop": 647.301,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No--"
+                },
+                {
+                    "start": 647.301,
+                    "stop": 649.087,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You didn't say he could get the document."
+                },
+                {
+                    "start": 649.087,
+                    "stop": 649.238,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 649.238,
+                    "stop": 650.644,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You said you could depose him--"
+                },
+                {
+                    "start": 650.644,
+                    "stop": 650.908,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 650.908,
+                    "stop": 662.207,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and that was what my question was going to be. Are you drawing a distinction between getting the document that was generated in the Environmental Agency and deposing the person who made the document?"
+                },
+                {
+                    "start": 662.207,
+                    "stop": 663.879,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. That's a distinction that the cases make--"
+                },
+                {
+                    "start": 663.879,
+                    "stop": 676.367,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why? It says data. I don't care about the cases. I care about the text of the statute. It's data whether it's in a document or whether it's in some deponent's head. Data is data."
+                },
+                {
+                    "start": 676.367,
+                    "stop": 697.5,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that certainly is a fair interpretation of the statute. What we're trying to do is synthesize how the courts have looked at this, and they have drawn the distinction saying that really what the purpose of this was to put plaintiffs back in the position they were before. All this mechanism of creating accident data existed beforehand. That's what they had to do. They didn't have this silver platter."
+                },
+                {
+                    "start": 697.5,
+                    "stop": 704.888,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They could get a police report of an accident. Isn't that standard routine in negligence cases?"
+                },
+                {
+                    "start": 704.888,
+                    "stop": 715.168,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, before the 1966 Highway Safety Act they could not get an accident, a collection of accident reports, at least in Washington State, and it's my understanding Nation-wide, just by asking for them--"
+                },
+                {
+                    "start": 715.168,
+                    "stop": 722.372,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you could certainly get a police... at least judging from my own practice in Arizona you could certainly get an individual police report of an accident."
+                },
+                {
+                    "start": 722.372,
+                    "stop": 737.795,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. If you knew the... and that's the point. You essentially have to know what plaintiffs are trying to find out to get the document, because you couldn't ask for all the accidents at this intersection. You could ask for a date and people involved, but you couldn't ask for, give me all the accidents at a particular intersection."
+                },
+                {
+                    "start": 737.795,
+                    "stop": 741.663,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but you could ask for the police report of the particular accident that you were concerned with."
+                },
+                {
+                    "start": 741.663,
+                    "stop": 744.818,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Prior to 1966, yes, Your Honor, that's correct. That's--"
+                },
+                {
+                    "start": 744.818,
+                    "stop": 745.962,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm still slightly mixed up."
+                },
+                {
+                    "start": 745.962,
+                    "stop": 746.397,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Okay."
+                },
+                {
+                    "start": 746.397,
+                    "stop": 794.936,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Imagine the forest service in the State collects, because they have tree lovers, a piece of paper that says the elm trees at the intersection of such-and-such were diseased, all right. Now, that's done for purposes of tree health, and there's a piece of paper in the environmental tree section which has that written right on it, and one day the Transportation Department for safety reasons says, send us a Xerox of that, okay. The question I think Justice Souter was asking and Justice Scalia, and I would certainly ask, is, in your view, when they send a subpoena or discovery to the tree department to get that piece of paper, can they get it?"
+                },
+                {
+                    "start": 794.936,
+                    "stop": 795.36,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 795.36,
+                    "stop": 796.374,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No?"
+                },
+                {
+                    "start": 796.374,
+                    "stop": 796.831,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 796.831,
+                    "stop": 818.482,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well. Suppose that the Transportation Department one day wrote a witness' name down, an address which they got from the internal State government telephone book. In your opinion, could a plaintiff go and ask for a telephone book? The answer, I guess, is no."
+                },
+                {
+                    "start": 818.482,
+                    "stop": 820.12,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Let me think about that for a minute."
+                },
+                {
+                    "start": 820.12,
+                    "stop": 835.676,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I don't see what the difference would be. They didn't collect the telephone book for purposes of... they didn't make the telephone book for the purposes of accidents, but one day somebody went to the telephone book and copied some information out of it for the purpose of accidents--"
+                },
+                {
+                    "start": 835.676,
+                    "stop": 836.241,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think what they copied--"
+                },
+                {
+                    "start": 836.241,
+                    "stop": 846.605,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and that's why, you see, exactly why I find your interpretation of the statute rather strained, so what is the answer to what my hypothetical suggests?"
+                },
+                {
+                    "start": 846.605,
+                    "stop": 856.705,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, since my answer would be strained if I said the photo, the telephone book, what I'm referring to would be what was written down for the purposes, and collected for the purposes--"
+                },
+                {
+                    "start": 856.705,
+                    "stop": 860.906,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you said that they could not get the piece of paper--"
+                },
+                {
+                    "start": 860.906,
+                    "stop": 861.062,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 861.062,
+                    "stop": 861.944,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--in the Tree Division--"
+                },
+                {
+                    "start": 861.944,
+                    "stop": 862.407,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The--"
+                },
+                {
+                    "start": 862.407,
+                    "stop": 873.353,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and all I'm having trouble is distinguishing between the piece of paper written for tree health and the address in the telephone book written so people can know where people should be phoned."
+                },
+                {
+                    "start": 873.353,
+                    "stop": 898.319,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The piece of paper written for tree help... and I'm sorry I misunderstood the question. I thought the Court was asking about the telephone book. The telephone book, no. The piece of paper that was written down from that, yes, because that's collected and compiled, and that's really what the SHOTS case said, that if there's a question about this of whether this was really fairly included for the purposes of 152, then for that purpose you have an in camera inspection."
+                },
+                {
+                    "start": 898.319,
+                    "stop": 922.92,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what is there that suggests that Congress wanted to change the game to that extent? One can understand what you've suggested before, wanting to keep personal injury plaintiffs in the same place they were before this legislation, but your interpretation takes away from plaintiffs things that they would have had access to before."
+                },
+                {
+                    "start": 922.92,
+                    "stop": 927.092,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, we... respectfully, we disagree with that characterization of our position."
+                },
+                {
+                    "start": 927.092,
+                    "stop": 934.885,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you just, in response to the Chief's question, said that at least the police report of this accident was routine."
+                },
+                {
+                    "start": 934.885,
+                    "stop": 956.293,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The police report of this accident, when you go and ask for... and the reason why is because... because of the Highway Safety Act, 1966 Highway Safety Act, the accident reports were indexed by location. You could go and get a specific report if you knew the facts enough of the accident, but only that accident report, not all of them, and that is how 409--"
+                },
+                {
+                    "start": 956.293,
+                    "stop": 957.558,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's not because of a privilege, is it?"
+                },
+                {
+                    "start": 957.558,
+                    "stop": 960.356,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. It is because of a privilege."
+                },
+                {
+                    "start": 960.356,
+                    "stop": 970.026,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought the reason for that is the police said, look, we don't have to do your homework for you. If you know what you want, we'll give it to you. If you don't know what you want, we don't have to search for it. Isn't that the reason?"
+                },
+                {
+                    "start": 970.026,
+                    "stop": 976.496,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, because the police don't do that. The police don't care about highway design factors other than because the form asks them to."
+                },
+                {
+                    "start": 976.496,
+                    "stop": 991.094,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, so in the past, then, and in accordance with Justice Ginsburg's question, you could have asked for the police report, and in Justice Breyer's example, I presume you could have gone to the Tree Division and said, let's have the slip of paper that says the elm trees are diseased. Now, you can't do that."
+                },
+                {
+                    "start": 991.094,
+                    "stop": 993.222,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I believe that--"
+                },
+                {
+                    "start": 993.222,
+                    "stop": 1010.615,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And Justice Ginsburg's question is, I thought it was supposed to leave things, as it were, level, the way they were, that a disadvantage was not being created, it was simply, the intent was simply to avoid creating a new advantage which would deter the State. Isn't that the way we should read the statute?"
+                },
+                {
+                    "start": 1010.615,
+                    "stop": 1021.089,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think the purpose, yes, Your Honor, is to avoid discouraging States from participating, and allowing them to get accident reports from the hands of third parties does discourage States from participating."
+                },
+                {
+                    "start": 1021.089,
+                    "stop": 1022.489,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you like to reserve your time?"
+                },
+                {
+                    "start": 1022.489,
+                    "stop": 1023.584,
+                    "speaker": {
+                        "name": "Daniel R. Hamilton",
+                        "ID": 20962,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I would, Your Honor. Thank you very much."
+                },
+                {
+                    "start": 1023.584,
+                    "stop": 1025.698,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Clement."
+                }
+            ],
+            "start": 12.932,
+            "stop": 1071.32
+        },
+        {
+            "turns": [
+                {
+                    "start": 1025.698,
+                    "stop": 1071.32,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: The 1995 amendment to section 409 is, contrary to the determination of the Washington State supreme court, constitutional. The provision protects data that is compiled and collected for purposes of applying for Federal highway funds from being used in State and Federal court litigation. The documents at issue are inherently Federal in character, and so Congress has the power to prohibit the use of those documents in both Federal and State court litigation."
+                },
+                {
+                    "start": 1071.32,
+                    "stop": 1087.303,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what about documents created not for the purpose of getting Federal funds, not for section 152, but for some other purpose, some of which are later incorporated in a Federal funding application--"
+                },
+                {
+                    "start": 1087.303,
+                    "stop": 1088.965,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think those documents--"
+                },
+                {
+                    "start": 1088.965,
+                    "stop": 1089.656,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--by a different agency?"
+                },
+                {
+                    "start": 1089.656,
+                    "stop": 1113.652,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--I think those documents, Justice O'Connor, would be discoverable and admissible if the documents were sought from the party that collected them for a purpose different than the Federal highway funding purposes, but what the statute, I think, does prohibit is somebody going to the State Highway Traffic Department and essentially engaging in a one-stop shopping enterprise where they can get all sorts of documents that have been collected--"
+                },
+                {
+                    "start": 1113.652,
+                    "stop": 1119.747,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you differ from petitioner in your reading of the statute. Yours is much narrower, I take it."
+                },
+                {
+                    "start": 1119.747,
+                    "stop": 1137.503,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--That's exactly right, Justice O'Connor, and so as a result of our interpretation of the statute, the typical police accident report can be obtained from the Police Department and, I think with respect to Justice Breyer's hypothetical, the report about the tree can be obtained from the State Tree Department or the State Environmental Department."
+                },
+                {
+                    "start": 1137.503,
+                    "stop": 1150.276,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me ask a somewhat different question, although I'm not sure we've resolved the point that we've been inquiring about. Would a State have the right to waive this privilege?"
+                },
+                {
+                    "start": 1150.276,
+                    "stop": 1196.745,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think that's a difficult question, Justice Kennedy. I think that as you know, as a general matter evidentiary privileges are waivable, and so... and that's the proposition this Court has established in cases like Menzonato and Hill, but there is a sense in which this privilege exists, in our view, primarily for the benefit of the Federal Government, so that we can obtain accurate, complete, and candid assessments of highway traffic safety requirements, and so, there's a suggestion, for example, in the Hill decision at footnote 3 that, when a third party's interests are at stake, that the court may not find waiver under those circumstances as readily as it would otherwise, so our view I think would be that although the Court need not definitively resolve it in this case, there's a strong argument that the privilege would not be waivable."
+                },
+                {
+                    "start": 1196.745,
+                    "stop": 1210.723,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me just interrupt you, if I may. Are you saying that the lawyer defending the county, if the plaintiff called him up and said, I'd like to see these reports, and the lawyer said, well, they're privileged, but I think I'll give them to you because I think it's in everybody's interests to know the facts, that would violate the Federal statute?"
+                },
+                {
+                    "start": 1210.723,
+                    "stop": 1214.623,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think the admissibility of those materials--"
+                },
+                {
+                    "start": 1214.623,
+                    "stop": 1216.602,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm just asking you about showing them to the plaintiff."
+                },
+                {
+                    "start": 1216.602,
+                    "stop": 1239.054,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--I think there's a sense in which it would violate the Federal statute, but I'm not suggesting that the Department of Transportation is going to be able to leap to the defense of the statute in that hypothetical and assert the interests of the statute. I think, however, if a State wanted to take a systematic policy of disregarding section 409, I think that would implicate the Federal interests, and I'm not sure that a State would be able to do it."
+                },
+                {
+                    "start": 1239.054,
+                    "stop": 1257.116,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, supposing this simply comes up during a trial. A witness is put on the stand, asked about the preparation of a report, and the State doesn't object, and it would be objectionable under the statute. Now, is that something that could be challenged on appeal, say?"
+                },
+                {
+                    "start": 1257.116,
+                    "stop": 1283.108,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I don't think so, Chief Justice. I think it is something that could be procedurally defaulted, but I do think if in a case like that the State went to the trial judge and said, look, there is this provision of Federal law, section 409, that says this material can't come in, but we're happy to just disregard that provision, I think the trial court might well be within its rights to say that no, we're not going to disregard that provision of Federal law, we're going to keep the material out, but I do think it could be--"
+                },
+                {
+                    "start": 1283.108,
+                    "stop": 1301.634,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "With these rights, is it a matter of discretion for the trial court? I mean, it would be one thing to say it's mandatory, it's a Federal requirement, and now you're suggesting that the lawyer can overlook it, and the court could or must act on its own?"
+                },
+                {
+                    "start": 1301.634,
+                    "stop": 1314.694,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, I'm suggesting that the language of the statute is mandatory. It says that it shall not be admitted, so I think if the language is brought to the attention of the trial court judge, he or she would be in a position where they ought to exclude the evidence."
+                },
+                {
+                    "start": 1314.694,
+                    "stop": 1353.715,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How would this be enforced by the Federal Government? I understand, and correct me if I'm wrong, that the Federal funding is not tied to the 409 privilege, but is tied to the 152 reporting obligations, so what Federal enforcement would there be for a county that says, we think it's fair for the plaintiff to have accident reports, so we'll give them. What Federal... how would that mandatory requirement that you just stated be enforced by the Federal authorities?"
+                },
+                {
+                    "start": 1353.715,
+                    "stop": 1365.291,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think under the circumstances that you're envisioning, Justice Ginsburg, the Federal Government would not provide funds under 152 or 130 or 144 to that particular locality."
+                },
+                {
+                    "start": 1365.291,
+                    "stop": 1380.525,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying that the 409 privilege is not simply a right of the State agency, but is... that the funding depends on the State's asserting that privilege?"
+                },
+                {
+                    "start": 1380.525,
+                    "stop": 1480.985,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "It certainly depends on the States or the localities abiding by that privilege as a general matter. I don't think a State or a locality can take a cavalier position of saying, we're just not going to be bound by the provisions of this Federal statute, but yet we'd still like to take the money under those three statutes. I don't think that's permissible, and the reason is, is that section 409, although it may benefit the State in a particular litigation, does serve an important Federal interest, and that is the interest in getting complete and candid information to assess and to award Federal highway funds. By analogy, I would suggest this Court look to its decision in the Buckman Company v. Plaintiff's Committee case, because in that case this Court recognized that the FDA approval process, and the process for applying for FDA approval, is inherently Federal in character, and so this Court preempted State tort law that might distort the effect of applying for FDA approval. In the same way, the process of applying for Federal highway funds and the documents that are used for that purpose have an inherently Federal character, and so the Federal Government has an interest in making sure that the information provided to the Federal Government is accurate and complete, and it has an ability, Congress has the power to take those essentially Federal documents and protect them both in State and Federal court litigation. Now, I would suggest that the answer to the waiver question, unlike the answer to the statutory construction question, is not a necessary component of this Court's decision. We think the better view is that it could be... is that it could not be waived, at least in gross. Of course, if it could be waived, I think that is an additional answer to any accountability questions that may arise, but again, we think the better view is that it can't be waived."
+                },
+                {
+                    "start": 1480.985,
+                    "stop": 1491.186,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Clement, one of the arguments made by respondent Guillen is that... is a Tenth Amendment argument. Do you think he has standing to make that argument?"
+                },
+                {
+                    "start": 1491.186,
+                    "stop": 1519.115,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think the better view is that he doesn't have standing to raise that argument, and I'll also suggest that if they wanted to make a Tenth Amendment argument, and wanted this Court to decide the difficult question of whether or not an individual had standing to raise a Tenth Amendment argument, that they probably should have raised the Tenth Amendment argument before the conclusion section of their brief, and I think this Court would be well-advised not to definitively decide whether or not an individual had standing to raise a Tenth Amendment issue. I--"
+                },
+                {
+                    "start": 1519.115,
+                    "stop": 1542.729,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... what's special about the... this is just an assertion that the Federal Government has no authority to do what it has done, and you say an individual who has been harmed by the Federal Government's exceeding its authority does not have standing to challenge? It seems to me we do it all the time."
+                },
+                {
+                    "start": 1542.729,
+                    "stop": 1556.359,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, Justice Scalia, I don't think all Tenth Amendment challenges are created equal, and I think therein lies the difference. If all the Tenth Amendment challenge is, is a mirrored reflection of Congress not having the enumerated power to enact a statute--"
+                },
+                {
+                    "start": 1556.359,
+                    "stop": 1558.019,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's all it--"
+                },
+                {
+                    "start": 1558.019,
+                    "stop": 1559.428,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--How about a Commerce Clause challenge?"
+                },
+                {
+                    "start": 1559.428,
+                    "stop": 1559.722,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1559.722,
+                    "stop": 1578.394,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Absolutely. In those kind of cases, the individual does have standing, but this Court on various occasions has suggested that there's an additional component to the Tenth Amendment, that it's not just a reflection of the enumerated powers of Congress, but, rather, there are certain special areas of State prerogatives that the Federal Government can't intrude through congressional acts."
+                },
+                {
+                    "start": 1578.394,
+                    "stop": 1581.299,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we allow those challenges all the time in separation of powers cases."
+                },
+                {
+                    "start": 1581.299,
+                    "stop": 1601.514,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think that's right, but Justice Kennedy, I think there's something that certainly seems different. If the gravamen of the complaint is that there's some element of State sovereignty that Congress cannot intrude upon, and the State doesn't object to that intrusion, it seems odd that the individual would have third party standing to raise that objection."
+                },
+                {
+                    "start": 1601.514,
+                    "stop": 1605.1,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why couldn't you say the same thing for the Executive and the legislature in a case like Chadha?"
+                },
+                {
+                    "start": 1605.1,
+                    "stop": 1618.69,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Again, I think you could, and I think that's why with respect to a more typical Tenth Amendment challenge that's based on an enumerated power, or the lack of an enumerated power, there would be standing. I think what this Court suggested--"
+                },
+                {
+                    "start": 1618.69,
+                    "stop": 1625.579,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't... whenever the Government goes beyond its enumerated power, it is infringing upon the powers of the States, isn't it?"
+                },
+                {
+                    "start": 1625.579,
+                    "stop": 1627.109,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1627.109,
+                    "stop": 1639.837,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All the Tenth Amendment says is, you know, other than the enumerated powers, the other powers continue where they used to be, with the States. In other words, I don't see anything special about a Tenth Amendment claim."
+                },
+                {
+                    "start": 1639.837,
+                    "stop": 1649.915,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In Buckley v. Valeo we held that the Appointment Clause, where the President had signed the legislation, could be raised by private individuals."
+                },
+                {
+                    "start": 1649.915,
+                    "stop": 1741.382,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--No, I understand that, and that was also true in Chadha. I think if there is a difference, and this Court suggested there might be a difference in the TVA case, if there is a difference it's because there are certain Tenth Amendment challenges that have the nature of just an intrusion on State sovereignty that's particularized. The hypothetical that the cases have often talked about is moving a State capital, and if the State doesn't object to moving the State capital, it's hard to see why an individual ought to be able to raise that question. I think the more important point, though, for this case is that there was a suggestion to this effect in this Court's TVA decision. If this Court wants to revisit that decision, it probably doesn't want to do it in a case where the Tenth Amendment challenge is not properly raised and isn't even raised at all in the briefing before this Court until the conclusionary section of the brief. With respect to the enumerated powers questions, which I think are the gravamen of respondent's case and the Washington supreme court's decision, there's no question the individual has standing. That was true in this case, in this Court's decision in United States v. Lopez and would be equally true here. And I think this Court can take comfort in knowing that this is, at bottom, an enumerated powers case, not a Tenth Amendment case in any specialized sense, because the Washington State supreme court found it unobjectionable that section 409 would apply in its pre-1995 amendment version, and what that indicates is that there's nothing sacrosanct about State courts' procedures, or State evidentiary rules."
+                },
+                {
+                    "start": 1741.382,
+                    "stop": 1762.418,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Don't you think that our opinion in the Commerce Clause case, in order to have persuasive force, should begin with an interpretation of the statute, recognize that a privilege can be waived or not waived? I find it very difficult to see how this opinion can be written when we're not sure of the reach of the statute."
+                },
+                {
+                    "start": 1762.418,
+                    "stop": 1791.048,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I agree with you entirely, Justice Kennedy, that this Court should define the scope of the statute before deciding whether or not it's constitutional, and we would urge the United States' construction of the statute. I would say that the waiver question is somewhat different. I don't think the constitutionality of the statute turns on the waiver question. If the Court disagrees, we would urge the Court first to find that this privilege is not waivable at least in gross and, second, that even if it is waivable, the statute remains constitutional."
+                },
+                {
+                    "start": 1791.048,
+                    "stop": 1794.035,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we have a final State decision here, Mr. Clement?"
+                },
+                {
+                    "start": 1794.035,
+                    "stop": 1814.164,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think you do have a final State decision, and I think that's most clear with respect to the PDA action... that's the State Public Disclosure Act that was brought... because in that case the Washington supreme court held that the four documents were disclosable and said that attorney's fees would be appropriate. In this--"
+                },
+                {
+                    "start": 1814.164,
+                    "stop": 1821.365,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There was a fifth document, though, and they didn't... there was no appeal on that one, right?"
+                },
+                {
+                    "start": 1821.365,
+                    "stop": 1854.171,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, but there was no cross-appeal on that document either, Justice Scalia, so I think that document is no longer part of the case. When the Washington court of appeals held that four of the five documents needed to be disclosed, Pierce County took an appeal to the Washington State supreme court, but I don't think that the Guillens filed a cross-appeal suggesting that the fifth document ought to be disclosed, and so I really think the fifth document is no longer in the case, and since the Washington supreme court found that attorney's fees were appropriate, that means that there was a final judgment. That's true both at the--"
+                },
+                {
+                    "start": 1854.171,
+                    "stop": 1910.59,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Clement, there was... you said that the PDA suit, the four documents were required to be turned over under that, but I thought the Washington supreme court said that accident reports from nonofficers, from witnesses, would not be disclosable under the PDA, though they would be subject to discovery under rule 26(b), so the notion that the PDA suit was the one that determined that these four documents were required to be turned over, I don't understand that, because I thought there was one part at least, the reports from nonofficers, that the county prevailed on before the Washington supreme court, but that it was a Pyrrhic victory because they lost on that point under 26(b)."
+                },
+                {
+                    "start": 1910.59,
+                    "stop": 1920.58,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--That's not how I read the decision, Justice Ginsburg. I thought... I read the decision as the four documents were clearly going to be disclosed as part of the PDA action."
+                },
+                {
+                    "start": 1920.58,
+                    "stop": 1934.096,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you read the decision to say that these documents are not disclosable under our Freedom of Information Act, nevertheless they can be discovered in a civil litigation?"
+                },
+                {
+                    "start": 1934.096,
+                    "stop": 2071.558,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "That's not, with respect, how I read the opinion. I read the opinion that those four documents are disclosable under the PDA. The only objection to disclosure under the PDA that was raised by the county was section 409, and with that issue resolved against the county, I took the import of the decision that those documents would be disclosed. At that point, I think it's clearly a final decision, because this Court has held in the Beckton Dickinson case in the context of section 1291 that the fact that attorney's fees need to be resolved on remand doesn't deprive a decision of finality, and in that decision this Court relied on 1257 decisions, and so I would think that the same rule would apply in both contexts, so I think that the PDA action clearly is final. I think the tort action is a more difficult question as to whether that's final. I think this Court might have to change its... to modify its precedents a bit, but I think it might be a wise course in light of what Congress has done here. I think this case is quite analogous to a case that this case found final called National Mercantile Bank v. Langdow, and in that case there was a State venue provision that a Federal statute trumped, and the State supreme court found that the... this Court found that the State's decision saying that State law trumped the Federal statute was final, and I think the cases are quite parallel. They both involved congressional efforts to modify State procedure in order to serve a Federal interest, and in both cases when the State court disregarded the Federal interest and either through constitutional means or statutory means found the Federal statute inapplicable, this Court found that there was a final judgment in the Langdow case, and I think by extension of that decision, they could find a final judgment here. I think the main difference between this case and Langdow is that in Langdow this Court took the position that upon remand there would be no further litigation available in the State court where the lawsuit was filed. Here, there might be some litigation that would go on in the tort action, for example, but I think the important thing is that the Federal interest has been extinguished, and I think if there's any play in the joints in this Court's finality decisions, I think that this would be a particularly important case to find a final decision, because an act of Congress has been held unconstitutional."
+                },
+                {
+                    "start": 2071.558,
+                    "stop": 2074.434,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we need to find finality with respect to both?"
+                },
+                {
+                    "start": 2074.434,
+                    "stop": 2083.88,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I don't think so, Your Honor. I think that these actions are severable. They were consolidated for purposes of appeal before the Washington supreme court, and I think that--"
+                },
+                {
+                    "start": 2083.88,
+                    "stop": 2094.518,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if I don't want to wrestle with the complexities of the tort action, what would we do, just dismiss that case as improvidently granted and decide the other one?"
+                },
+                {
+                    "start": 2094.518,
+                    "stop": 2109.057,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--I think that would be fair, or this Court could just sort of ignore the tort case and say that it's going to take jurisdiction over the PDA action and decide this Federal statutory issue in the context of the State PDA action, and then--"
+                },
+                {
+                    "start": 2109.057,
+                    "stop": 2114.832,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we can't ignore it. I mean, we've taken the case. We've granted certiorari. We've got to do something with it."
+                },
+                {
+                    "start": 2114.832,
+                    "stop": 2115.611,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, I--"
+                },
+                {
+                    "start": 2115.611,
+                    "stop": 2116.752,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just hide it under--"
+                },
+                {
+                    "start": 2116.752,
+                    "stop": 2118.032,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--There's only one case--"
+                },
+                {
+                    "start": 2118.032,
+                    "stop": 2144.413,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--I mean, I think that this Court could say that to the extent that the tort action is before it, that that action is not final, and that... or they're not going to... the Court's not going to definitively resolve that, and that the PDA action is final. I would... this Court in a different context actually managed to bifurcate a single case and say that one part of the case was final and the accounting action that was subject to remand was not final. That's the W. W."
+                },
+                {
+                    "start": 2144.413,
+                    "stop": 2145.512,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--We wouldn't want to do that too often, I think."
+                },
+                {
+                    "start": 2145.512,
+                    "stop": 2145.73,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "[Laughter]"
+                },
+                {
+                    "start": 2145.73,
+                    "stop": 2200.779,
+                    "speaker": {
+                        "name": "Paul D. Clement",
+                        "ID": 37772,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "No, no, but I think if you can do that in a single case, I think you can certainly do it in a case like this, where they started as separate actions, were consolidated only for purposes of appeal, and really have separate life. If, for example, this Court hadn't exercised jurisdiction, what would have happened is that the two cases would have gone back down. The PDA action would have been essentially over, because as the county suggested, there's nothing left in the PDA action on remand. The tort action would go on, and once the PDA action went back to the trial court, then it would have been appropriate to appeal that on a separate track from the tort action, and there would have been really no point to making the county go through that exercise, and so I think the PDA action is final. If there are no further questions, I think the important submission from the Government is that the 1995 amendments can be given force in a way that renders them still quite well within the Congress' power under the Commerce, Spending, and Necessary and Proper Clauses."
+                },
+                {
+                    "start": 2200.779,
+                    "stop": 2204.442,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Clement. Mr. Mungia, we'll hear from you."
+                }
+            ],
+            "start": 1025.698,
+            "stop": 2259.022
+        },
+        {
+            "turns": [
+                {
+                    "start": 2204.442,
+                    "stop": 2259.022,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The statute does have to be construed, but regardless of how the statute's construed, it clearly does not meet this Court's requirements under South Dakota v. Dole because 409 is not conditional. You read the plain language of 409, and it's not conditional in nature. It's a mandate, and if somehow it could be construed as being conditional, it's certainly ambiguous, as we've seen many interpretations and many questions as to the operation of 409. 409 cannot be justified under the Commerce Clause. It does not regulate commercial or economic activity. Instead, it regulates State courts, and that is the peculiar nature of this dispute, because what is at issue is, is what does a State... this is completely an intrastate concern."
+                },
+                {
+                    "start": 2259.022,
+                    "stop": 2288.769,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is it intrastate? If you simply have a... if you interpret the statute to say, a document that is prepared primarily for this... for getting money, primarily for getting money out of the Federal Government can't be discoverable in a tort action? What part of the Constitution would that violate, if that's how you interpret it? You'd get all your documents, I guess, and so would anyone like you, but that seems to be basically what the Government's arguing--"
+                },
+                {
+                    "start": 2288.769,
+                    "stop": 2289.426,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice--"
+                },
+                {
+                    "start": 2289.426,
+                    "stop": 2290.68,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I... yes."
+                },
+                {
+                    "start": 2290.68,
+                    "stop": 2324.046,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Breyer, I agree with the Solicitor General's interpretation of the statute, we still get our documents, and I do want to make it clear for the record, and I think it's clear in the briefs, Pierce County took a different tack on this and had a very wide scope of interpretation. However, despite that fact, there still has to be authority under the Commerce or Spending Clause, and I may not get it in this issue if we get our documents, that's correct, but I'm saying that no matter what, the act has to have authority under some article I, section (a) basis."
+                },
+                {
+                    "start": 2324.046,
+                    "stop": 2346.896,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's certainly right, and so Congress says, we have a Federal interest in trying to minimize accidents, and in order to do that, we want to get information from the States when they want our money, and to be sure the information is accurate, we want to be sure that at least the information they give us, they're collecting with an eye towards being accurate rather than with an eye towards protecting themselves from tort litigation."
+                },
+                {
+                    "start": 2346.896,
+                    "stop": 2348.942,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice--"
+                },
+                {
+                    "start": 2348.942,
+                    "stop": 2351.534,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It sounds reasonable to me. What's unreasonable about that?"
+                },
+                {
+                    "start": 2351.534,
+                    "stop": 2363.716,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Breyer, because the analysis starts, is this commercial or interstate activity that in fact the Federal Government is regulating, and they're not, they're regulating State courts. And again--"
+                },
+                {
+                    "start": 2363.716,
+                    "stop": 2370.909,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they're regulating in the interest of a commerce-type thing that's preventing automobile accidents."
+                },
+                {
+                    "start": 2370.909,
+                    "stop": 2386.729,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is the disputable part, as to whether or not there's any evidence in, within... not only in the record, or anywhere that can be found, whether this action, indeed, would prevent any further accidents. All the statute does--"
+                },
+                {
+                    "start": 2386.729,
+                    "stop": 2410.98,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When Congress makes that judgment, don't we owe it substantial deference? That is, we're not going to sit as a committee of Congress to determine whether there's a link between the condition of these intersections and vehicles going in and out of States. If Congress made that judgment, it's not for us to question it, is it?"
+                },
+                {
+                    "start": 2410.98,
+                    "stop": 2448.545,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Ginsburg, that is the historic and that is the correct analysis. This Court has been very deferential to Congress', even if there's something within the information source that could support that reasoning, and again I'll go to U.S. v. Lopez and U.S. v. Morrison for that proposition, where in U.S. v. Lopez, there were no congressional findings at least this Court alluded to. They do not have to make congressional findings, as long as there's something out there, some information, and the same thing with U.S. v. Morrison. Even when Congress did make a congressional finding, this Court said we're not going to necessarily find that in fact they had a substantial effect on interstate commerce."
+                },
+                {
+                    "start": 2448.545,
+                    "stop": 2475.084,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you just to back up for a moment to address the question that Mr. Clement did about the separateness of these two? Is there anything in the tort action that you are seeking that's different from the PDA action, or are these essentially two actions seeking the same material?"
+                },
+                {
+                    "start": 2475.084,
+                    "stop": 2534.25,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, no. They are seeking different materials, and the materials we sought in the tort action were much broader than what we sought in the Public Disclosure Act, and the materials... I do want to say this as far as that, there is no judgment in the tort action. I mean, that should be clear. There is no final judgment. This is a discovery order that was taken up on interlocutory appeal. Now, whether or not there is a final judgment in the PDA action is a closer question, but I would point out to the Court, page 114 of the Washington State supreme court's opinion that you'll find at Appendix A-114 directs the lower courts to make their rulings in accord with the court's opinion, and did not simply say these documents either are or are not discoverable, and thus it is debatable whether or not there is a final judgment even in the Public Disclosure Act case."
+                },
+                {
+                    "start": 2534.25,
+                    "stop": 2554.678,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the way you interpreted it, although you say it's debatable, is that everything that falls under the PDA, everything that... those four documents, those are not available to you. That's what Mr. Clement said, I think, that that's what rendered the PDA action final."
+                },
+                {
+                    "start": 2554.678,
+                    "stop": 2573.072,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, and I read the opinion differently, where in fact we do get those documents, and I... we may have a fight back at the trial court as to the language of the Washington State supreme court, because I realize in its opinion it said that those would normally not be discoverable under the PDA, but then you have to look at the purpose of the documents."
+                },
+                {
+                    "start": 2573.072,
+                    "stop": 2592.108,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You set forth four alternative interpretations at page 20 of your brief. Do any of the documents involved in either of the tort action or the PDA action comprise just those set forth in your category 1, which is reports and data that the State agency actually prepares itself?"
+                },
+                {
+                    "start": 2592.108,
+                    "stop": 2607.82,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Kennedy, the documents that we sought under the PDA, even under the narrowest construction, under the narrowest construction, we get the documents, just on a statutory construction under the PDA request."
+                },
+                {
+                    "start": 2607.82,
+                    "stop": 2611.877,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But some of the documents you requested fit naturally within your category 1?"
+                },
+                {
+                    "start": 2611.877,
+                    "stop": 2612.536,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 2612.536,
+                    "stop": 2613.539,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right."
+                },
+                {
+                    "start": 2613.539,
+                    "stop": 2624.867,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And so at least in this case, this Court need not address the constitutional issues, finding no final judgment in the tort action and, in fact, a narrow construction for the PDA action."
+                },
+                {
+                    "start": 2624.867,
+                    "stop": 2632.515,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry, I'm not sure I understood. You say the documents that you requested fell within category 1?"
+                },
+                {
+                    "start": 2632.515,
+                    "stop": 2639.293,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Of our interpretation, which is a very narrow construction of the statute. That's correct, Justice Stevens."
+                },
+                {
+                    "start": 2639.293,
+                    "stop": 2645.026,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, they were documents that were actually prepared to get highway funds?"
+                },
+                {
+                    "start": 2645.026,
+                    "stop": 2646.33,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I'm sorry, if I--"
+                },
+                {
+                    "start": 2646.33,
+                    "stop": 2647.975,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's what I understood you to say."
+                },
+                {
+                    "start": 2647.975,
+                    "stop": 2659.227,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Oh, no, I'm sorry. I'm saying we would get those documents under our construction. In other words, they do not fall within the parameters of that narrow construction, because these are documents that in fact were prepared by another agency."
+                },
+                {
+                    "start": 2659.227,
+                    "stop": 2664.291,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So in your view, none of the documents that you're... that are in dispute fall within category 1."
+                },
+                {
+                    "start": 2664.291,
+                    "stop": 2669.729,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, under the PDA action, that is correct, not the tort action but the PDA action."
+                },
+                {
+                    "start": 2669.729,
+                    "stop": 2672.189,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do they fall in category 2? Can you tell us?"
+                },
+                {
+                    "start": 2672.189,
+                    "stop": 2685.691,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. If they don't fall within category 1... I'm sorry, Justice Kennedy. If they fall within category 2, yes, they would. Under the PDA action, those documents would fall within--"
+                },
+                {
+                    "start": 2685.691,
+                    "stop": 2688.13,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Documents the agency has in its possession?"
+                },
+                {
+                    "start": 2688.13,
+                    "stop": 2747.117,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct, they fall within category 2. And I do want to point out to this Court that, in fact, Pierce County's position, and it's shown in the record, was that we could not even discover the names of witnesses or the names of the people involved in the accidents, and that's surely not part of the Federal highway funding data, because why is the Federal Government concerned with the names of the people involved in the accidents, and I think this is a concern about putting documents, if you will, in a black hole and allowing certain information which our supreme court has held is essential to the proper determination of these claims, based upon State and local law. They are essential to those determinations going in, and now no longer being discoverable. I think that is a very basic concern with this statute, and why at least one reason it should take a narrow construction, or at the very widest, the construction put forward by the Solicitor General."
+                },
+                {
+                    "start": 2747.117,
+                    "stop": 2767.996,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the construction put forward by the Solicitor General, as I understand it, is you can get it from the agency, like a law enforcement agency, but not from the Public Works Department if the purpose is to implement the Federal program. That's the Government's position?"
+                },
+                {
+                    "start": 2767.996,
+                    "stop": 2769.395,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Justice Ginsburg."
+                },
+                {
+                    "start": 2769.395,
+                    "stop": 2792.424,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But under that position, I suppose, in the day when we have this great data base and all reports are there initially, then under the Government's approach, everything would be exempt from discovery. Do you read their position to say that?"
+                },
+                {
+                    "start": 2792.424,
+                    "stop": 2797.582,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, Justice Ginsburg, I do, and that is the day, if it's not today, that this court--"
+                },
+                {
+                    "start": 2797.582,
+                    "stop": 2825.293,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I didn't read it that way. I thought what they were saying was consistent with if it... and maybe it's in this case. I don't think it is, but I mean, if you ever have the great single data base, you'd look to see whether the document was primarily created for the one purpose or the other. Where it's primarily created for accident reports, you get it. Where it's primarily created to get money from the Government, you don't. I mean, does that work as an interpretation? I'm not sure we have to reach it, but if we did?"
+                },
+                {
+                    "start": 2825.293,
+                    "stop": 2900.674,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Breyer, as far as interpreting the electronic portion, it probably is a reasonable interpretation, and you're right, I mean, it's not part of this case, but it probably will have to be faced sooner or later. Going back to the scope, again, because we are talking about the interpretation of this, Pierce County took the position they were... and this is in the companion Witmer case, which is the one... there was a companion case at the State level, where private highway surveys done by, I believe it was the McDonald's and the Chevron Company, which the county then took within its possession, it was unwilling to disclose because under 409, so again I think the county's position was a very broad one, that anything that goes in within their possession then becomes nondiscoverable and you cannot use it, which I think is a completely unreasonable interpretation. I do want to take a few minutes and talk about the Spending Clause, because this is not a condition. If you read section 409, the plain language of 409, it's mandatory, and surely when Congress has intended to use its Spending Clause powers, I think especially in the Federal highway setting, it's been very clear."
+                },
+                {
+                    "start": 2900.674,
+                    "stop": 2929.385,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see how you can characterize section 409 as a condition. It's an incentive provided to... for the State to participate in this Federal funding program. The Federal Government hopes to get information from the State, and thinks that they'll be more apt to get it by providing the protections of section 409. I don't see it as a condition at all."
+                },
+                {
+                    "start": 2929.385,
+                    "stop": 2942.554,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice O'Connor, I agree. I don't think it's a condition either. Whether you want to term it as an incentive or something else... they term it as a mandate. I think regardless of how you term it, then it cannot be authorized under the Spending Clause."
+                },
+                {
+                    "start": 2942.554,
+                    "stop": 2942.996,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But--"
+                },
+                {
+                    "start": 2942.996,
+                    "stop": 2956.034,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, why not? It's a necessary and proper means of ensuring that the Federal money is spent wisely and efficiently. Now, I don't see the big issue there, frankly."
+                },
+                {
+                    "start": 2956.034,
+                    "stop": 2982.428,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Under the Spending Clause analysis, this Court has long gone through through Pennhurst, through South Dakota v. Dole, and just recently in Durham v. Gorham, it's clear that the conditions have to be spelled out. Now, this is clearly some sort of imposition, and if it's not Spending Clause, then they'd have to have it under the Commerce Clause authority, which goes under another analysis."
+                },
+                {
+                    "start": 2982.428,
+                    "stop": 2982.997,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You'd have another--"
+                },
+                {
+                    "start": 2982.997,
+                    "stop": 2991.04,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--No State has to participate in this program if it doesn't want to. If a State wants to turn down Federal money it can, can it not?"
+                },
+                {
+                    "start": 2991.04,
+                    "stop": 3014.831,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It can turn down Federal money, and that's the interesting, Mr. Chief Justice, about 409. Again, just reading the plain language of 409, it is mandatory, and there's no provision... even if you cross-reference to 152, there's nothing which puts anybody on notice about how this... how a State can avoid the mandates of 409."
+                },
+                {
+                    "start": 3014.831,
+                    "stop": 3015.948,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it can avoid--"
+                },
+                {
+                    "start": 3015.948,
+                    "stop": 3035.655,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But you can agree, nonetheless, that a State can refuse to participate? You say you can't, by reading 409, tell that it isn't just a legislative command based on something other than the Spending Clause, but don't... you do agree, don't you, that if a State didn't take the Federal money, it would not be bound by 409?"
+                },
+                {
+                    "start": 3035.655,
+                    "stop": 3044.897,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, I think that's an open question, and I don't necessarily agree with that. I think you have to read the plain language, and it seems like Congress is saying you will do this."
+                },
+                {
+                    "start": 3044.897,
+                    "stop": 3046.695,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You think it's just categorical, then?"
+                },
+                {
+                    "start": 3046.695,
+                    "stop": 3047.066,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 3047.066,
+                    "stop": 3055.769,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how could that be if... how could any document be collected for the purpose of participating in the Federal program if the State doesn't participate in the Federal program?"
+                },
+                {
+                    "start": 3055.769,
+                    "stop": 3079.44,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because if you read section 152, what it mandates States to do is come up with a list and a survey of hazardous sites. That's all it says, in 52(a), that's the mandatory part. So Congress, if it has the authority, can tell the States, do this list. Now, the question, that begs the question whether or not Congress has that authority. I think then that's when you have to turn to the Commerce--"
+                },
+                {
+                    "start": 3079.44,
+                    "stop": 3097.257,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do the list whether or not you have any Federal money, is that what you're saying? This is not tied to Federal spending. That's what you seem to be saying. That it's independent Federal obligation on the States whether or not they receive any Federal money. Is that how you read 152?"
+                },
+                {
+                    "start": 3097.257,
+                    "stop": 3135.117,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Ginsburg, that's correct. I think if you read the plain language, 152, unlike 23 U.S.C. 131, 141, 159, 161, where it's clear that Congress says you must control highway billboard signs or you lose 10 percent of your funding, you must control size and weights of vehicles that go on interstate highways or you lose 10 percent of your funding. Those are all clear. In fact, in the Dole case, under 23 U.S.C. 158, I think that the title of the act was withdrawal of Federal funds."
+                },
+                {
+                    "start": 3135.117,
+                    "stop": 3165.161,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Aren't we losing sight of the fact, the rather plain fact that the States and the counties wanted this? They weren't satisfied with the program originally because they feared these documents would be discoverable, and make the county liable. Do you have another Spending Clause case where the States and the counties came to Congress and said, please give us a privilege, and then say, well, now it's mandatory and it's some kind of a club rather than a carrot?"
+                },
+                {
+                    "start": 3165.161,
+                    "stop": 3188.241,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, I have two responses. One, I think actually this Court addressed that same sort of analysis in New York v. U.S., where the Solicitor General argued that because New York officials wanted the benefits of the Low-Level Hazardous Waste Act, therefore it cannot later challenge certain provisions of that act, and this Court rejected that argument."
+                },
+                {
+                    "start": 3188.241,
+                    "stop": 3193.618,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this very provision they wanted, not the thing in general."
+                },
+                {
+                    "start": 3193.618,
+                    "stop": 3246.826,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And that goes... then to my second part of my response is, and I think it's a fundamental part of the constitutional analysis, because here, if the States wanted this protection they had the means to do it themselves, and this Court has explained, again citing from New York v. U.S., State sovereignty isn't for the benefit of the States, it's for the benefit of the citizens to derive the benefits of liberty from the division of separate powers, so it really, just because State officials want it, it's clearly that the people of the State of Washington did not want this, because it infringed upon a State cause of action. In fact, so much so that the State supreme court was willing to hold it was unconstitutional."
+                },
+                {
+                    "start": 3246.826,
+                    "stop": 3257.602,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that goes to the waiver point. I assume the State can waive it if its citizens instruct it to do so, or maybe not. The Government says no."
+                },
+                {
+                    "start": 3257.602,
+                    "stop": 3270.358,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I... Justice Kennedy, you look at the language, and in fact you look at the early responses by Pierce County, where Pierce County clearly said, we cannot... I mean, we must... we don't have that choice. We cannot--"
+                },
+                {
+                    "start": 3270.358,
+                    "stop": 3275.28,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The hypothetical is that the State could waive it if it wanted to. That's the--"
+                },
+                {
+                    "start": 3275.28,
+                    "stop": 3276.711,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And Justice Kennedy--"
+                },
+                {
+                    "start": 3276.711,
+                    "stop": 3277.342,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--hypothetical question."
+                },
+                {
+                    "start": 3277.342,
+                    "stop": 3338.775,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, and I... Justice Kennedy, my response is, I don't see how the State could, because I think just for the very reasons, as was pointed out by the Solicitor General, where do you cross that line between, I guess, a single waiver, and then it becoming endemic. I think that's the whole problem here. Under the recent cases under the Commerce Clause, and again I just want to spend a couple of minutes on the U.S. v. Lopez and Morrison cases, it seems clear that again this type of activity, what's being regulated is, in fact, State courts, in fact, the admissibility, the discovery of evidence, and that is certainly intrastate, and there's no contention here that somehow justice, or the discovery of documents is somehow commercial in nature, and you cannot make that argument, so I think there is no basis under either the Spending or the Commerce Clause to support this legislation."
+                },
+                {
+                    "start": 3338.775,
+                    "stop": 3348.629,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is it irrelevant under your argument that the object of the Federal legislation is safety in an artery of commerce? Is that beside the point?"
+                },
+                {
+                    "start": 3348.629,
+                    "stop": 3378.124,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Souter, the object at least for the Federal Highway Act is safety. I don't think the same thing can be said about 409, because then you're becoming... as this Court said in U.S. v. Lopez, you're building inference upon inference, because you have to go and say, if these documents are no longer, in fact, discoverable, would it result in safer interstate travel, and there's just too many intermediate steps."
+                },
+                {
+                    "start": 3378.124,
+                    "stop": 3384.744,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you that think the Federal interest in this case is comparable to the Federal interest in Lopez, the ultimate interest?"
+                },
+                {
+                    "start": 3384.744,
+                    "stop": 3390.023,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that the... Justice Souter, the Federal interest in section 409--"
+                },
+                {
+                    "start": 3390.023,
+                    "stop": 3413.071,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I'm talking about the ultimate Federal interest that gives rise to all of this regulation, which is the safety of an artery of commerce. Are you either disputing that that is the object, or are you saying that that object is on par for constitutional purposes with the significance of the Government's object in Lopez?"
+                },
+                {
+                    "start": 3413.071,
+                    "stop": 3423.266,
+                    "speaker": {
+                        "name": "Salvador A. Mungia",
+                        "ID": 41799,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Souter, I think it's more the latter. I'm saying that the Federal Government certainly has an interest in the safe passage of interstate--"
+                },
+                {
+                    "start": 3423.266,
+                    "stop": 3430.332,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Mungia. Mr. Hamilton, you have 3 minutes remaining."
+                }
+            ],
+            "start": 3430.332,
+            "stop": 3628.511
+        }
+    ]
+}

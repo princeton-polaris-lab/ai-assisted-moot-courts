@@ -1,0 +1,2420 @@
+{
+    "title": "United States v. Dominguez Benitez",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.173,
+                    "stop": 54.968,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This Court has consistently held in both harmless error and plain error cases that an error affects substantial rights if it affected the outcome of the district court proceeding. Applying that principle to a violation of rule 11 at a guilty plea proceeding, 9 of the 12 courts of appeals that hear criminal cases have concluded that a rule 11 error affects substantial rights if it affected the defendant's decision to plead guilty, which means that the defendant would not have gone forward with his plea if the error had not occurred. That standard is correct. The Ninth Circuit standard which the--"
+                },
+                {
+                    "start": 54.968,
+                    "stop": 69.212,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just ask this one question? Because I'm... I'm not at all sure of the... is it perfectly clear that the... in terms... effect of the decision necessarily is equated to the fact he would not have otherwise have pleaded guilty?"
+                },
+                {
+                    "start": 69.212,
+                    "stop": 100.531,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In the context of a guilty plea, I think it is, Justice Stevens. That's the relevant decision. This Court's cases have applied the harmless error and plain error effect on substantial rights element in a variety of circumstances: at a detention hearing, during the course of a grand jury proceeding, most frequently a trial, of course, and also at sentencing. Each of those four circumstances, the Court made clear that the relevant question was whether the effect of that particular proceeding would have been the same-- --if the error had not been made."
+                },
+                {
+                    "start": 100.531,
+                    "stop": 150.347,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Except that we... I mean, the... the meaning of that term varies. In... in some contexts, we say, well, it's... it's enough if... if confidence in... in that the result would have been the same has been shattered. In... in the case at the other extreme with a case... we... I think that is strongest for you, we... we've said in the ineffective assistance of counsel context, yes, you've got to show that he wouldn't have pleaded guilty or he's got to show that he wouldn't have pleaded guilty otherwise. And... and it seems to me that the... the issue here is, is this enough... is the context here enough like the context in ineffective assistance of counsel to... to put the heaviest burden on the petitioner, or is it... are there... are enough distinctions so that maybe the burden shouldn't be quite that heavy?"
+                },
+                {
+                    "start": 150.347,
+                    "stop": 182.082,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We think the... we think it's directly analogous to the ineffective assistance of counsel context. In that context, you have a deficient performance by the defendant's lawyer in connection with advice about a guilty plea. And this Court's decision in Hill v. Lockhart makes clear that the next step of the Strickland analysis, the prejudice analysis, is whether but for that deficient performance, the defendant would not have pleaded guilty and would have gone forward to trial. We think the same rule applies here."
+                },
+                {
+                    "start": 182.082,
+                    "stop": 248.826,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Let me... let me suggest at least a reason why maybe it isn't. I'd like your comment on it. In... in the ineffective assistance of counsel context, one reason for putting a high... you know, the heaviest burden on the defendant is that it is so very difficult to police effective assistance as you go along. The judge watching the... the plea hearing has no way of knowing what's going on or has gone on between the lawyer and... and the client. Here, we're in a different position. There... there are a couple of people in a position to... to avoid the kind of problem that we've got here. One obviously is the Federal judge. If he had a checklist in front of him, something like this wouldn't have happened. The second is counsel for the Government. The counsel for the Government can get up in a case like this and say, Judge, you forgot something, and avoid this problem. So it may be that because there are easier ways to avoid this, the burden on the defendant shouldn't have to be so heavy. What do you say to that?"
+                },
+                {
+                    "start": 248.826,
+                    "stop": 279.196,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, this Court's decision makes clear in Vonn that the defendant has a burden, of course, rejected the contention in that case that no matter when... regardless of the circumstances of when a rule 11 error occurs, the Government bears the burden of showing that there was no effect on substantial rights. The holding of Vonn is that the defendant bears the burden. The only question in this case is what that standard is, and we think again it's directly analogous to the ineffective assistance of counsel context."
+                },
+                {
+                    "start": 279.196,
+                    "stop": 290.087,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you don't think that the standard for plain error that the Court spelled out in United States v. Olano provides the standard?"
+                },
+                {
+                    "start": 290.087,
+                    "stop": 294.991,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice O'Connor, that's exactly our position. Our position is that a straightforward application of Olano--"
+                },
+                {
+                    "start": 294.991,
+                    "stop": 321.475,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if... if that's so, Olano's fourth prong, if you will, is that the error... asks whether the error seriously affects the fairness, integrity, or public reputation of judicial proceedings. And I'm not sure that I understand, under your test, how that fourth prong would be applied or if it's still part of the test."
+                },
+                {
+                    "start": 321.475,
+                    "stop": 394.087,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It certainly is, Justice O'Connor. We make two alternative arguments, one under the third prong of the plain error rule, one under the fourth. Our primary submission is that in order to satisfy the requirement of the plain error rule... in other words, in order to show an effect on substantial rights... that's right... a defendant has to show that the error affected his decision to plead guilty. Our alternative argument is that the Court... even if the Ninth Circuit standard is correct so that a defendant would not have to show that the error affected his decision to plead guilty in order to show an effect on substantial rights and he could therefore satisfy the third requirement of the plain error rule, he can't satisfy the fourth requirement unless he makes that showing. And we think that conclusion follows from this Court's decisions in Cotton and Johnson where the Court assumed, without deciding, that the failure to submit an element of the offense to the grand jury or the petit jury affected substantial rights, but held that the defendant could not satisfy the fourth requirement of the plain error rule because the error had no effect on the outcome of the grand jury proceeding or of the trial. So we're making two alternative arguments here, one under the--"
+                },
+                {
+                    "start": 394.087,
+                    "stop": 449.538,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you a question about the practical aspect of it? And you're asking the Court to choose... well, the plain error is what we're doing and how high a burden the defendant would have to meet. But this relates to a question Justice Souter asked. I was surprised, given that this was not a new district judge, that she didn't have a litany that would cover all the rule 11 elements. And I was also surprised that the Assistant U.S. Attorney didn't say at the end of the colloquy, judge, you forgot to mention that this plea can't be withdrawn. Is there a manual that judges follow? Are U.S.... Assistant U.S. Attorneys instructed, when something is left out of rule 11, to remind the judge?"
+                },
+                {
+                    "start": 449.538,
+                    "stop": 504.773,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Justice Ginsburg, my understanding is that there is a bench book available to judges, and obviously there are a great many district judges in the United States district courts and some are going to be more meticulous than others. Assistant U.S. Attorneys often or at least are supposed to bring checklists with them to a guilty plea proceeding so that they can ensure that rule 11 is strictly complied with. Of course, a prosecutor has no more interest in litigating a rule 11 error on appeal than anybody else does. So it's very much in the prosecutor's interest to try to ensure that there's strict compliance. Vonn makes clear, though, that in the event that one of the... one of the advisements slips... and there was only one here that the district judge did not give... it's the defendant's burden to object and if he doesn't, he's in a plain error posture on appeal, not a harmless error posture."
+                },
+                {
+                    "start": 504.773,
+                    "stop": 513.311,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Himmelfarb, is it... is it clear in this case that the defendant believed that he could withdraw his plea? Do we know that?"
+                },
+                {
+                    "start": 513.311,
+                    "stop": 516.063,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We don't. The record is silent on that question."
+                },
+                {
+                    "start": 516.063,
+                    "stop": 529.138,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think that... that a defendant making a guilty plea would normally believe that he could withdraw it when the Government has promised him nothing except that it would recommend to the judge a certain sentence?"
+                },
+                {
+                    "start": 529.138,
+                    "stop": 548.802,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it depends, Justice Scalia. In a case like this, we think a defendant would not reasonably be under that impression because in this case, this... this defendant... respondent was repeatedly advised that the judge was not bound by the guilty plea and that he would face a 10-year mandatory minimum sentence if the parties' recommendation was not followed."
+                },
+                {
+                    "start": 548.802,
+                    "stop": 561.559,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If I was given all of that information, I... I certainly wouldn't leap to the conclusion that, well, if the judge doesn't accept it, I can withdraw the guilty plea. I don't know why he would naturally believe that. I would think he would naturally believe the opposite."
+                },
+                {
+                    "start": 561.559,
+                    "stop": 563.825,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We agree, Justice Scalia, and that's why we think--"
+                },
+                {
+                    "start": 563.825,
+                    "stop": 575.717,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wasn't... wasn't that covered in... in the plea agreement itself which was translated into Spanish for him, specifically that he could not... he could not withdraw his plea if the judge did not accept the plea?"
+                },
+                {
+                    "start": 575.717,
+                    "stop": 578.419,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That... that's exactly right, Mr. Chief Justice."
+                },
+                {
+                    "start": 578.419,
+                    "stop": 580.704,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your basic point is that this part of the rule is pointless."
+                },
+                {
+                    "start": 580.704,
+                    "stop": 583.405,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not at all, Justice Stevens."
+                },
+                {
+                    "start": 583.405,
+                    "stop": 585.59,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I guess that's Justice Scalia's point."
+                },
+                {
+                    "start": 585.59,
+                    "stop": 602.2,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. There may-- [Laughter] My point is that in a case like this where a defendant is advised that the judge is not bound by the parties' agreement, it's probably not reasonable for that defendant to assume that he can withdraw his plea if the judge doesn't follow the--"
+                },
+                {
+                    "start": 602.2,
+                    "stop": 617.36,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My point is not that it's pointless. My point is that when it is omitted, it does not necessarily produce substantial injustice. It's a good idea to give it, of course. But in the absence of giving it, I would think that normally you'd think that he would assume that anyway."
+                },
+                {
+                    "start": 617.36,
+                    "stop": 620.479,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's exactly right. That's our position, Justice Scalia."
+                },
+                {
+                    "start": 620.479,
+                    "stop": 625.399,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if that's right and I were a district judge, I could probably save time by just omitting this regularly then."
+                },
+                {
+                    "start": 625.399,
+                    "stop": 655.769,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Justice Stevens, I don't think that's likely to happen. District judges are generally quite conscientious about complying with rule 11. Prosecutors are generally quite conscientious about making sure that district judges comply with rule 11. Nobody has an interest in having appellate litigation over rule 11 errors. Everyone has an interest... everyone has an interest in making sure that rule 11 is strictly complied with so that the judgment of conviction can be entered and people can move on to other business. So I don't think--"
+                },
+                {
+                    "start": 655.769,
+                    "stop": 675.332,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even... even respondent doesn't argue here that any omission from the rule 11 requirement produces an automatic reversal. Does respondent argue that? So, I mean, that's... that's not the theory here, that if you don't... if you don't produce an automatic reversal, people won't give the rule 11 requirements."
+                },
+                {
+                    "start": 675.332,
+                    "stop": 699.781,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right. The Ninth Circuit does not have a rule of automatic reversal. The Ninth Circuit standard is if the error is not minor or technical and the defendant wasn't otherwise aware of the omitted information, he shows an effect on substantial rights. Our position is that knowledge of the omitted information is a sufficient condition to defeat a claim that there was an effect on substantial rights, but it's not necessary."
+                },
+                {
+                    "start": 699.781,
+                    "stop": 713.29,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, is knowledge of requirement a wholly subjective test? We... we want to know what this defendant thought. Or is it what a reasonable person would have concluded based on all of the circumstances?"
+                },
+                {
+                    "start": 713.29,
+                    "stop": 744.143,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's a subjective standard, Justice Kennedy. In the context of a guilty plea, when the question is whether the error affected the defendant's decision to plead guilty, the relevant question is whether this particular defendant would have pled... would have gone to trial. No, you don't. You can't because by definition in the plain error/harmless error context, you're limited to the record on appeal. Objective considerations are obviously relevant in making the subjective determination of whether this particular defendant would have pled guilty."
+                },
+                {
+                    "start": 744.143,
+                    "stop": 750.129,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, you're limited to the record on appeal. Could there have been a hearing in the... in the district court on the rule 11--"
+                },
+                {
+                    "start": 750.129,
+                    "stop": 763.704,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There could, Justice Kennedy. For example, if the defendant had moved to withdraw his plea after he pled but before sentencing, it might have been within the district court's discretion to hold a hearing and you could have had the defendant testify at that hearing."
+                },
+                {
+                    "start": 763.704,
+                    "stop": 766.139,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But after sentence, it's impossible for him to testify?"
+                },
+                {
+                    "start": 766.139,
+                    "stop": 773.912,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's right. Under... under rule 11, a defendant can move to withdraw his plea for any reason before it's accepted."
+                },
+                {
+                    "start": 773.912,
+                    "stop": 779.732,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But he didn't do that. This question wasn't raised until appeal... the appeal. He didn't say--"
+                },
+                {
+                    "start": 779.732,
+                    "stop": 782.432,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's exactly right. It wasn't raised at any point in the district court, Justice Ginsburg."
+                },
+                {
+                    "start": 782.432,
+                    "stop": 788.672,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But... but my question is in... in other cases it would not be possible to put him on the stand at any time after sentencing."
+                },
+                {
+                    "start": 788.672,
+                    "stop": 800.027,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. After sentencing, the rule makes clear a defendant can't move to withdraw his plea. The only way he can attack his plea is by direct appeal or a collateral attack. But before sentencing it's--"
+                },
+                {
+                    "start": 800.027,
+                    "stop": 801.495,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "On collateral attack, could he take the stand?"
+                },
+                {
+                    "start": 801.495,
+                    "stop": 807.466,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Sure. It would be within the discretion of the district judge and his willingness to testify."
+                },
+                {
+                    "start": 807.466,
+                    "stop": 815.037,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Under your-- --Can you-- --Excuse me. Can you collaterally attack a plea before you appealed and sought to have it set aside?"
+                },
+                {
+                    "start": 815.037,
+                    "stop": 831.646,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Mr. Chief Justice. There's... there's, of course, a requirement that you file a direct appeal. Otherwise you will have procedurally defaulted. I should also say that this Court held in Timmreck that a formal violation of rule 11, which is all that we have here, is not cognizable in a 2255 proceeding."
+                },
+                {
+                    "start": 831.646,
+                    "stop": 862.432,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Normally... you may know... I'm just drawing on your background. Normally when you say did it affect somebody's substantial rights, when I see those words, I think the judge did something to this person. And when I say did it affect his substantial rights, I think, well, did it matter in terms of what the judge or the jury did to him. Now, is that a correct way to think about it? Are there other instances where substantial rights means something different than that?"
+                },
+                {
+                    "start": 862.432,
+                    "stop": 868.335,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In the ordinary context, the relevant decision-maker is, of course, the judge, and the--"
+                },
+                {
+                    "start": 868.335,
+                    "stop": 917.168,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I'm not talking about... I'm saying something happened to this human being who is there in court, and when I say did this affect his substantial rights, I usually ask myself did this error make a difference in terms of what happened to him. That's how I... it's very colloquial, but that's the question I normally ask myself. Now, maybe all these years I've been doing it wrong or maybe there's some circumstances where I should ask that question. You know, like a death case, which is a horrible case, sometimes there's harmless error and usually the question there is did it matter in terms of his being sentenced to death. Those come up a lot. I'm just asking you a general question. I don't have a point here. I'm trying to figure out how best to think about this."
+                },
+                {
+                    "start": 917.168,
+                    "stop": 920.37,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. We think your formulation is exactly the right way to think--"
+                },
+                {
+                    "start": 920.37,
+                    "stop": 930.659,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Fine. If that is the correct formulation, can you think of other instances in the criminal law where substantial rights meant something other than this formulation?"
+                },
+                {
+                    "start": 930.659,
+                    "stop": 937.213,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I can. The... an affect on substantial rights means that there's an affect on the outcome."
+                },
+                {
+                    "start": 937.213,
+                    "stop": 940.867,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's my question. I'm asking it to inform myself and I have the same question for the other side too."
+                },
+                {
+                    "start": 940.867,
+                    "stop": 952.105,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Let... let me qualify that... that answer if I could, Justice Breyer. That is the general rule. There are, of course, certain types of error, as this Court has made clear, which do not require a showing of--"
+                },
+                {
+                    "start": 952.105,
+                    "stop": 954.722,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Like structural error. That's one kind of exception."
+                },
+                {
+                    "start": 954.722,
+                    "stop": 955.224,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's exactly right."
+                },
+                {
+                    "start": 955.224,
+                    "stop": 961.378,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I don't think we normally speak in terms of substantial rights in those cases. Maybe we do. I don't know."
+                },
+                {
+                    "start": 961.378,
+                    "stop": 968.214,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, sometimes the question will be whether the third requirement of the plain error rule, which is a substantial rights requirement, has been affected."
+                },
+                {
+                    "start": 968.214,
+                    "stop": 977.57,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. So... so structural error cases are an instance where my colloquial question is not right and nobody claims here this is a structural error case."
+                },
+                {
+                    "start": 977.57,
+                    "stop": 984.576,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We certainly don't, Justice Breyer. I... I don't believe respondent does, and the court of appeals did not take that position either."
+                },
+                {
+                    "start": 984.576,
+                    "stop": 1017.381,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Himmelfarb, there's... there's another specific about this case that might have averted what happened. The... the entire plea agreement was read to the defendant in translation because he didn't speak English. And that was the day before. If it had been the practice to give him a copy of the translation, instead of just having him hear it orally, then it would have... might better for him to read and we would have had more security that he knew."
+                },
+                {
+                    "start": 1017.381,
+                    "stop": 1051.268,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice Ginsburg, I don't know as an empirical matter which is more likely to ensure that a defendant is aware of what's in the plea agreement, sitting down with a lawyer and a Spanish interpreter as happened here and having the three of them go over the plea agreement, having the Spanish interpreter translate it for the defendant in the presence of counsel so that the defendant can ask any questions of counsel that are necessary and counsel can answer them, on the one hand, or the suggestion which you just made."
+                },
+                {
+                    "start": 1051.268,
+                    "stop": 1070.182,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I meant both, that is, that there would be the written... written-out plea agreement, which if he could read English, he could have read, and then the lawyer and the translator go over that written document with him, that that I think would be more effective than just hearing it orally."
+                },
+                {
+                    "start": 1070.182,
+                    "stop": 1084.876,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Again, I'm not sure whether that's true as an empirical matter. As a legal matter, the question here is when a defendant has forfeited a claim of error and he has to show an effect on substantial rights on appeal, if you have--"
+                },
+                {
+                    "start": 1084.876,
+                    "stop": 1096.833,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I didn't mean this to be legally dispositive. It's in the same way... how could this be warded off so we don't get a Federal case out of these rule 11 slips."
+                },
+                {
+                    "start": 1096.833,
+                    "stop": 1132.356,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Again, Justice Ginsburg, I... I don't think it's ordinarily the practice of U.S. Attorney's offices to provide Spanish translations of plea agreements to Spanish speakers who don't speak English. It's always the practice, whether the translator is at... comes at the defendant's expense or the court's expense, for a translator to translate the plea agreement for the defendant in... in the presence of counsel. I... I don't know what would be the source of any requirement for the Government to provide a Spanish--"
+                },
+                {
+                    "start": 1132.356,
+                    "stop": 1160.24,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I wasn't suggesting that... that it was a requirement. May... may I ask just one more puzzling thing about this case, background of it? The reason that the deal didn't... wasn't possible was that this man had three priors instead of everybody thought... well, at least the judge thought or the prosecutor thought, until the presentence report, there was only one. But the defendant must have known how many priors he had."
+                },
+                {
+                    "start": 1160.24,
+                    "stop": 1195.447,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right. The defendant, of course, knew that he had three prior convictions and not just one. I'm not sure what bearing that fact has on the plain error analysis in this case because it's not just the fact of the prior convictions that would have rendered this defendant ineligible for a sentence below the mandatory minimum. There has to be a guidelines calculation and assignment of criminal history points to each conviction, and if you get above one criminal history point, you're not eligible for a sentence below the mandatory minimum. So you would--"
+                },
+                {
+                    "start": 1195.447,
+                    "stop": 1204.953,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you might... you might say that the fact that the defendant must have known that he had three priors would have made him realize that the plea agreement probably wouldn't be accepted."
+                },
+                {
+                    "start": 1204.953,
+                    "stop": 1212.958,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--One could reasonably conclude that he should have had substantial doubt about whether he would have been eligible for the--"
+                },
+                {
+                    "start": 1212.958,
+                    "stop": 1224.016,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you assuming he understood the sentencing guidelines in that detail? It'd be rather unusual. The basic problem here is we're dealing with dumb defendants. [Laughter] That's the problem. That's why you have to tell them twice."
+                },
+                {
+                    "start": 1224.016,
+                    "stop": 1259.37,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, that's true, Justice Stevens. Rule 11 imposes a requirement on the district judge to advise the defendant of his rights. Nobody disputes that that didn't happen here for one of the advisements and nobody disputes that there was therefore rule 11 error. Nor does anybody dispute that it was a plain error. But since defendant didn't object... respondent didn't object in the district court, we're in a plain error posture. That is a difficult standard to meet. He has to show not only that there's an error that's plain, but he has to satisfy these two other requirements that I'll mention."
+                },
+                {
+                    "start": 1259.37,
+                    "stop": 1296.56,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why shouldn't it be as an objective test, do you think? I don't know why you focus on... on something else. I mean, can't we assess whether... in determining whether it affects substantial rights, how the evidence against the defendant was, what the benefits of the plea were, and what he was told in just objective terms? In other words, reasonable probability. Yes. I mean, why do you want to make it something else?"
+                },
+                {
+                    "start": 1296.56,
+                    "stop": 1307.251,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Justice O'Connor, it is absolutely the case that in undertaking this analysis, a court should and ordinarily will look at objective factors. In most cases--"
+                },
+                {
+                    "start": 1307.251,
+                    "stop": 1313.355,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would think you would win under an objective test. I don't know why you're trying to urge something else."
+                },
+                {
+                    "start": 1313.355,
+                    "stop": 1338.489,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We think that... we agree that we win under either an objective or a subjective standard, given the strength of the case against respondent and given the fact that he received a substantial benefit from pleading. We think that a... a subjective test is the appropriate one because this is not a situation like you have when there's trial error and you have to determine whether the jury objectively would have reached the same decision--"
+                },
+                {
+                    "start": 1338.489,
+                    "stop": 1346.243,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but if you're doing a subjective test, you might as... as long as you're doing that, why not accept the Ninth Circuit test: did he know?"
+                },
+                {
+                    "start": 1346.243,
+                    "stop": 1356.783,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Justice Kennedy, we think that if he did knew... if he did know, that's a sufficient basis for rejecting his claim because if he knew, the fact that the judge didn't tell him a second time--"
+                },
+                {
+                    "start": 1356.783,
+                    "stop": 1367.306,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. I... I thought that this was the Ninth Circuit test that you disagree with. And my... my point is if you're going to go this objective route, you might as well ask the basic question as the Ninth Circuit did."
+                },
+                {
+                    "start": 1367.306,
+                    "stop": 1391.055,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We... we have no problem with the question Ninth Circuit asks. Our problem is that they stopped after they asked that question. That should probably be the first question. If there's evidence in the record that the defendant was otherwise aware of the omitted rule 11 information, it would be very difficult to say that he would have gone to trial if the judge had omitted to say something that he already knew. That's why we think that's a sufficient--"
+                },
+                {
+                    "start": 1391.055,
+                    "stop": 1396.825,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I still would like to understand why you think an objective test is not acceptable."
+                },
+                {
+                    "start": 1396.825,
+                    "stop": 1419.34,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In... in the... when a defendant is confronted with a choice of pleading guilty or going to trial, he has... he, of course, has an absolute right to go to trial. No matter how strong the evidence is against him, no matter what benefits he could get from pleading guilty, if he chooses, for whatever personal or idiosyncratic reason, to go to trial despite those things, he's got the right to do it. That's why we think--"
+                },
+                {
+                    "start": 1419.34,
+                    "stop": 1467.171,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Maybe... maybe you think the courts would not... would not stand by an objective test in the situation where the facts are such that any intelligent defendant would have... would have made the plea even if he knew that it couldn't be revoked. But this particular defendant, for whatever reason... and it's clear on the record he told his counsel or he left... left a note and said, well, there's no harm in making this plea because I can always withdraw it if the judge doesn't go along with the recommended sentence. And in that situation, I think it's very hard for a court to say, oh, yes, a... since a reasonable defendant would... would have gone ahead anyway, this... this defendant who would not have gone ahead anyway must be held to his guilty plea."
+                },
+                {
+                    "start": 1467.171,
+                    "stop": 1526.024,
+                    "speaker": {
+                        "name": "Dan Himmelfarb",
+                        "ID": 20994,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that's right. Let me... let me just add this point to what I've already said. While the objective question of whether a reasonable defendant in the defendant's circumstances would have pleaded is not, we think, the correct analysis under the third component of the plain error rule, we do think it could be taken into account in connection with the fourth requirement, which is the discretionary component. So, in other words, if you have a situation where a defendant for some idiosyncratic reason was intent on going to trial, even though it was essentially suicidal for him to do that, he might be able to satisfy the third requirement because it affected his decision to plead guilty, but a court could permissibly say, that doesn't serious affect the fairness, integrity, and public reputation of judicial proceedings because he undoubtedly would have been convicted if he had gone to trial and would have gotten a longer sentence. I'd like to reserve the balance of my time for rebuttal."
+                },
+                {
+                    "start": 1526.024,
+                    "stop": 1529.828,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Himmelfarb. Ms. Mossman, we'll hear from you."
+                }
+            ],
+            "start": 10.173,
+            "stop": 1601.674
+        },
+        {
+            "turns": [
+                {
+                    "start": 1529.828,
+                    "stop": 1601.674,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: I have three points to make. First, Olano created a framework that the lower courts have been consistently applying... applying in evaluating forfeited errors in a rule 11 context for 11 years. Second, now having suffered an adverse ruling in a fact-specific case, the Government is urging this Court to adopt a strict, heavy burden, bright line, but-for prejudice test in every case that eliminates the lower court's flexibility. Third, not only is the Government's test incorrect, but the Ninth Circuit cited and applied Olano and was consistent with Olano in Benitez. Now, first, the Olano standard is a national standard under plain error review where an error affects the substantial rights. And that means... generally is taken to mean it's prejudiced. And in most cases prejudice means that it affects the outcome of the proceedings. In Benitez, this is what the Ninth Circuit held as well because in Benitez, if it's not minor or technical, that means it's prejudicial."
+                },
+                {
+                    "start": 1601.674,
+                    "stop": 1605.293,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why? But that's not so. Has... has-- --I mean--"
+                },
+                {
+                    "start": 1607.095,
+                    "stop": 1648.738,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I read the Ninth Circuit. It seemed to me we said just what you said we said. What the Ninth Circuit says is Benitez must prove that the error was not minor or technical, which by the way, has nothing to do with it because a minor or technical error could well affect the outcome. And then it says, and that he did not understand the rights at issue, which again is a necessary but not sufficient condition. Now, where did they say anything about substantial rights? They used those words, but if substantial rights means what I... we just discussed, which I'd like your view about, they never talked about substantial rights. Well, didn't they say just what I read? So why isn't it like summary reverse? We said this. You say that."
+                },
+                {
+                    "start": 1648.738,
+                    "stop": 1658.194,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, it's... we... we see that not minor or technical means it has... it affected his substantial rights, and they actually cite to Olano."
+                },
+                {
+                    "start": 1658.194,
+                    "stop": 1669.085,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I see. Now, then what does affect substantial rights mean? Now, we have an error here that's not minor or technical. Now he, in fact... let's say second... did not understand that he had a right to withdraw."
+                },
+                {
+                    "start": 1669.085,
+                    "stop": 1669.985,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct."
+                },
+                {
+                    "start": 1669.985,
+                    "stop": 1678.674,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, is that the end of the thing? Ah, ah, where... that's... that's the point. Where in this opinion does it say that's not the end of the matter?"
+                },
+                {
+                    "start": 1678.674,
+                    "stop": 1681.243,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, they do go to fourth prong. They--"
+                },
+                {
+                    "start": 1681.243,
+                    "stop": 1690.949,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no, not the fourth prong. Where does it say that's not the end of the matter under the third prong? You see, I could have a nontechnical matter. Correct?"
+                },
+                {
+                    "start": 1690.949,
+                    "stop": 1691.515,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct."
+                },
+                {
+                    "start": 1691.515,
+                    "stop": 1705.675,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I could... it could have affected my understanding, but it might be that I would have pled guilty anyway. That's what's worrying me. And the most obvious case is where the judge gives me the sentence I hoped for."
+                },
+                {
+                    "start": 1705.675,
+                    "stop": 1716.031,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is the obvious case, Justice Breyer, and that was Chan and they cite to that in Benitez where they got exactly the sentence that they bargained for. Therefore, the error is not minor or technical."
+                },
+                {
+                    "start": 1716.031,
+                    "stop": 1735.527,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I'm sorry. A terribly minor, terribly important error, terribly important. Indeed, the judge has a whooping cough fit and nothing comes out of his mouth, but he gives them the sentence he asks for. Okay? What about that?"
+                },
+                {
+                    "start": 1735.527,
+                    "stop": 1754.239,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think what's coupled here is that it has to be knowing. There has to be a knowingness and a voluntariness. And in that situation, if the... if the defendant knew that he was possibly... that the sentence that he bargained for was--"
+                },
+                {
+                    "start": 1754.239,
+                    "stop": 1762.512,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. The... he knew nothing. The defendant new nothing. It was a major error. He just got what he asked for."
+                },
+                {
+                    "start": 1762.512,
+                    "stop": 1771.867,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We believe that is consistent. He... he got what he... if the sentence is less than he... or got the sentence that he bargained for, where is the error?"
+                },
+                {
+                    "start": 1771.867,
+                    "stop": 1807.522,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course. Of course. That's what's bothering me. If in fact the major error... and he did not understand it... made no difference to the outcome, then, says the Government, he shouldn't be able to appeal it. And that's the problem. As I read the Ninth Circuit, they didn't make that last statement. And they want an... do you agree with them that they should have an opportunity to go back and to say, judge, we want this client also to be able to show it made no difference to the outcome? If you agree with that, that's the end of the case I think."
+                },
+                {
+                    "start": 1807.522,
+                    "stop": 1816.378,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Breyer, if they... if it's a major rule 11 error, it would not be minor or technical. The analysis would... would address that fact."
+                },
+                {
+                    "start": 1816.378,
+                    "stop": 1823.115,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how... how do you know, just from reading rule 11, which errors are minor and technical and which aren't?"
+                },
+                {
+                    "start": 1823.115,
+                    "stop": 1826.084,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We don't believe all errors in rule 11--"
+                },
+                {
+                    "start": 1826.084,
+                    "stop": 1830.018,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you... how do you... what's your standard for telling the difference?"
+                },
+                {
+                    "start": 1830.018,
+                    "stop": 1835.605,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, we think... Congress has enacted this and the full panoply of errors--"
+                },
+                {
+                    "start": 1835.605,
+                    "stop": 1836.289,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Panoply."
+                },
+                {
+                    "start": 1836.289,
+                    "stop": 1843.945,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--of rule 11 advisements are important, and none them can be considered minor or technical-- --in and of themselves."
+                },
+                {
+                    "start": 1843.945,
+                    "stop": 1856.086,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But just a moment ago, you said not every rule 11 violation is necessarily not minor or technical. You say it's... you... I thought you intimated some of the could be."
+                },
+                {
+                    "start": 1856.086,
+                    "stop": 1861.073,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's part of the analysis. I think you have to complete the analysis."
+                },
+                {
+                    "start": 1861.073,
+                    "stop": 1869.077,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but I'm trying to get you to answer a rather specific question. How do you define minor or technical?"
+                },
+                {
+                    "start": 1869.077,
+                    "stop": 1911.422,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think that was brought out in actually the advisory committee notes. So, for instance, if the... if the judge failed to advise the defendant that if he lies on the stand, he'd be subjected to perjury charges. That's considered not a minor or... that's considered basically a minor or technical advisement. Also, if there was... the judge failed to cite to an elements of the offense, but the defendant demonstrated that he specifically knew about that, that would not be considered minor or technical. If the judge misstates a... the maximum sentence, but the defendant receives a sentence that's substantially lower, that was considered under the advisory committee notes basically--"
+                },
+                {
+                    "start": 1911.422,
+                    "stop": 1918.176,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the... did the advisory committee purport to cover all possible minor or technical errors?"
+                },
+                {
+                    "start": 1918.176,
+                    "stop": 1920.278,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They were just giving... it was illustrative I believe."
+                },
+                {
+                    "start": 1920.278,
+                    "stop": 1920.811,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Examples."
+                },
+                {
+                    "start": 1921.361,
+                    "stop": 1942.375,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In... in assessing how weighty this particular lapse is, should we take into account that as far as I know, this defendant has never said in the district court or on appeal that he indeed wants to go to trial."
+                },
+                {
+                    "start": 1942.375,
+                    "stop": 1947.763,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's our position that I wouldn't be here if he didn't want his plea vacated."
+                },
+                {
+                    "start": 1947.763,
+                    "stop": 1974.43,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But he... on... on... the plea vacated is one thing. Because then you have... given that he has three priors, his sentence... he was sentenced at the mandatory minimum. How much better could he do on a resentencing? So it's got to be he wants to go to a trial because do you agree that if we... if we just say new sentencing, he couldn't do any better given--"
+                },
+                {
+                    "start": 1974.43,
+                    "stop": 2000.23,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Ginsburg, it's our position that this particular defendant at every single proceeding, he... he expressed his dissatisfaction with his counsel, and the respondent's second letter to the court, which is at the joint appendix, number 96, was exactly... could be construed, because it was a pro se filing, as a motion to withdraw. He asked for new counsel to look at his case anew."
+                },
+                {
+                    "start": 2000.23,
+                    "stop": 2011.705,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But that's not the question I asked you. I asked did he ever say at any stage, judge, I'd like to have a trial. I want to plead not guilty."
+                },
+                {
+                    "start": 2011.705,
+                    "stop": 2031.1,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, after the conference on the substitution of hearing, a sentencing date was... was set, and this particular defendant did not object to the... to a trial date... excuse me... a trial date was set, and this particular defendant did not object. His attorney made some comments about maybe it's not necessary."
+                },
+                {
+                    "start": 2031.1,
+                    "stop": 2040.121,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not... one thing not to object to a setting of a trial date, but did this man ever say I want to exercise my right to trial by jury?"
+                },
+                {
+                    "start": 2040.121,
+                    "stop": 2051.295,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "His first statement to the court at that substitution of... of counsel hearing was at no time have I decided to go to trial. But that's not conclusive. He needed more--"
+                },
+                {
+                    "start": 2051.295,
+                    "stop": 2055.65,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought he was stronger than that. I thought... thought he had said at one point I don't want to go to trial."
+                },
+                {
+                    "start": 2055.65,
+                    "stop": 2061.069,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--He never said that specifically or definitively. He said at no time have I decided not--"
+                },
+                {
+                    "start": 2061.069,
+                    "stop": 2103.565,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in any case, if he... if... but his concern is that his substantial rights or... have been violated. And the possible effect on the outcome is relevant. And my question is how could the outcome be affected if he got the mandatory minimum? He got the lowest sentence that the law allowed the judge to impose. So unless he wants to go to trial, he isn't harmed by what happened. And so I'm asking if there's any stage where he said, I want to go to trial."
+                },
+                {
+                    "start": 2103.565,
+                    "stop": 2137.285,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--This particular defendant made requests of his attorney that were not brought to the court's attention. He acted pro se in... in three instances. We... the record is actually void to know if he... and he was actually silenced when he wanted to ask this... the judge questions at his change of plea hearing. He said I was asked... I wanted to ask the judge questions and I was silenced. So the record is actually void specifically to answer your question. We don't--"
+                },
+                {
+                    "start": 2137.285,
+                    "stop": 2142.637,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What was... what was the evidence in the case? What was the evidence against him? What... what did the Government have?"
+                },
+                {
+                    "start": 2142.637,
+                    "stop": 2153.111,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Basically his own confession and two co-defendants. He was caught by... basically the deal went down through a confidential informant."
+                },
+                {
+                    "start": 2153.111,
+                    "stop": 2157.765,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would... would anybody in his right mind have wanted to go to trial?"
+                },
+                {
+                    "start": 2157.765,
+                    "stop": 2160.048,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "In our opening brief--"
+                },
+                {
+                    "start": 2160.048,
+                    "stop": 2162.567,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And risk getting more than the mandatory minimum?"
+                },
+                {
+                    "start": 2162.567,
+                    "stop": 2183.748,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In our opening brief, we completely briefed out the defense of entrapment, and this is brought out through the... the language of this defendant through the three letters that were submitted to the court through his own pro se actions. We believe that he had a possible defense of entrapment. I was not his trial attorney. So--"
+                },
+                {
+                    "start": 2183.748,
+                    "stop": 2186.083,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you... you have looked at the cases on entrapment."
+                },
+                {
+                    "start": 2186.083,
+                    "stop": 2186.666,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2186.666,
+                    "stop": 2198.057,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if you've got a predisposition, you don't have much of a prayer on a entrapment claim. And he had three priors. Were... were the three priors of the same... same line of commerce?"
+                },
+                {
+                    "start": 2198.057,
+                    "stop": 2200.009,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, they were not. No, they... they were not, Justice Scalia."
+                },
+                {
+                    "start": 2200.009,
+                    "stop": 2218.304,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If... if you were to prevail and he were to have a trial and be convicted, could he get a more lengthy sentence or would that raise problems of vindictive prosecution? Would failure to accept responsibility be a ground for an increase?"
+                },
+                {
+                    "start": 2218.304,
+                    "stop": 2221.873,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't think that would be fair. He has a fundamental right to go to trial."
+                },
+                {
+                    "start": 2222.791,
+                    "stop": 2227.51,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--My question is can he get... if he gets a new trial, can he get an increased sentence?"
+                },
+                {
+                    "start": 2227.51,
+                    "stop": 2231.295,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's possible, but... it's possible, Your... Justice Kennedy."
+                },
+                {
+                    "start": 2231.295,
+                    "stop": 2234.08,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's... there's no vindictive prosecution problem?"
+                },
+                {
+                    "start": 2234.08,
+                    "stop": 2266.302,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There possibly is. I mean, I... he would not get the acceptance of responsibility points, but that... but the acceptance of responsibility points doesn't make the... the bottom line here because of the mandatory minimum. So he still would be looking at a 10-year mandatory minimum, even if he went to trial, and often defendants that go to trial on these drug convictions do get the mandatory minimum, irregardless if they have gone to trial or... and even irregardless if they don't get the acceptance of responsibility points."
+                },
+                {
+                    "start": 2266.302,
+                    "stop": 2277.175,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Let me... let me ask you this question. You argue for a subjective test in a context in which the defendant can't take the stand to say what his understanding was. That doesn't make a lot of sense to me."
+                },
+                {
+                    "start": 2277.175,
+                    "stop": 2284.698,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, defendants plead guilty for all types of reasons. We don't know what's in the mind of defendants."
+                },
+                {
+                    "start": 2284.698,
+                    "stop": 2313.899,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. But you're saying that you want to subjective test. You want... you want to defend the Ninth Circuit which said the question is whether or not he knew that he had this specific burden, that he was waiving the specific right the minute he entered the plea. And you want a... a test to say that he didn't, in fact, know that. And yet, we can't put him on the stand. That... that seems to me an odd test. An odd... an odd way to run the system."
+                },
+                {
+                    "start": 2313.899,
+                    "stop": 2329.494,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think it's important to see if the... this implicates the constitutional principles under the Due Process Clause. It has to be a knowing and voluntary plea. That is a subjective test. That's sort of built into the rule 11--"
+                },
+                {
+                    "start": 2329.494,
+                    "stop": 2336.481,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the Ninth Circuit didn't follow... didn't find that his plea was involuntary in a constitutional sense."
+                },
+                {
+                    "start": 2336.481,
+                    "stop": 2349.724,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Excuse me, Chief... Mr. Chief Justice. They did under the fourth prong of Olano. They... the actual citation would have been he did not understand the... the consequences of his plea, which is therefore not voluntary."
+                },
+                {
+                    "start": 2349.724,
+                    "stop": 2353.442,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did... did they say it was a constitutionally invalid plea?"
+                },
+                {
+                    "start": 2353.442,
+                    "stop": 2354.91,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They cited to Graibe."
+                },
+                {
+                    "start": 2354.91,
+                    "stop": 2364.983,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms. Mossman, you've been asked questions by several different members of the Court and you don't seem to really respond to the questions. I'm asking you a very specific question now."
+                },
+                {
+                    "start": 2364.983,
+                    "stop": 2370.304,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor. They cited to Graibe with cites to the Constitution."
+                },
+                {
+                    "start": 2370.304,
+                    "stop": 2407.542,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm rather confused because are... where... there... there are two kinds of questions we've been discussing. One is whether in fact, if he had been told specifically, what he was supposed to be told, he would then have withdrawn his guilty plea. That's question one. And most of what we've been talking about is that. But I thought we're actually here to ask a different question and the different question is I thought the Ninth Circuit... and I did think that from reading its opinion... said what we've just been discussing has nothing to do with the matter."
+                },
+                {
+                    "start": 2408.827,
+                    "stop": 2419.45,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All that... all that the person has to show is that he didn't understand his rights. Now, what do you think about that question?"
+                },
+                {
+                    "start": 2419.45,
+                    "stop": 2422.485,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think, Justice Breyer--"
+                },
+                {
+                    "start": 2422.485,
+                    "stop": 2448.002,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So let's assume... it's absolutely clear. They can come in with 52 bishops who are prepared to swear that if he had understood everything perfectly, he nonetheless would have gone ahead and pled guilty. But it's also clear he did not understand his rights. Okay?"
+                },
+                {
+                    "start": 2448.002,
+                    "stop": 2448.535,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2448.535,
+                    "stop": 2449.904,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's supposed to happen?"
+                },
+                {
+                    "start": 2449.904,
+                    "stop": 2454.439,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If he... is he alleging a rule 11 violation?"
+                },
+                {
+                    "start": 2454.439,
+                    "stop": 2490.212,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, there... look, what happened was the judge never told him that you're stuck with your plea if I don't give you what you think you're going to get. He never told him that. It's clear in rule 11 he was supposed to. And now, in addition, we know for sure that this person didn't understand that. But we also know for sure it made not one whit of difference to his plea. What's supposed to happen?"
+                },
+                {
+                    "start": 2490.212,
+                    "stop": 2495.266,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Breyer, this is... I believe you're talking about a motivated pleader, a pleader that was--"
+                },
+                {
+                    "start": 2495.266,
+                    "stop": 2497.402,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm talking what I think is about this case."
+                },
+                {
+                    "start": 2497.402,
+                    "stop": 2498.052,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--This case."
+                },
+                {
+                    "start": 2498.052,
+                    "stop": 2522.1,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. I think as it's presented in the questions presented and in the opinion that was written by the Ninth Circuit. Now, I might be wrong and you could explain to me why I'm not. But... but in any case, if you think that might be this case that's presented here, I... in the Ninth Circuit opinion, I'd... I'd like an answer or your best answer."
+                },
+                {
+                    "start": 2522.1,
+                    "stop": 2539.195,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I... Justice, if I can answer your question, it's the... a defendant that's caught in the justice... a criminal justice labyrinth and he... he doesn't understand, he doesn't understand the language, he's not confident in his counsel, and he believes he can withdraw his plea. Is that correct?"
+                },
+                {
+                    "start": 2539.195,
+                    "stop": 2588.71,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. But in fact, we know he never would have. We know it for sure. He's written secret letters to his relations-- [Laughter] --and whatever. Do it in any sort you want, but... but I mean, that's... that's a little bit of a technical matter here. But I did think in reading the Ninth Circuit opinion and reading the Government's brief, that that's what they're worried about, that there could be cases where he does not understand the nature of that rule 11 right, but nonetheless it makes no difference to his decision to plead guilty. So that... that's a bit of a technical point here, I agree. But as I read the Ninth Circuit, I thought, well, that's what's going on in this case. Now, you could explain to me, if you want, that I'm completely out to lunch, so to speak."
+                },
+                {
+                    "start": 2588.71,
+                    "stop": 2610.656,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Justice Breyer, if he was motivated to plead guilty and there was an error in the rule 11 colloquy and he had the opportunity to replead, he could replead to another type of plea agreement, a C plea agreement. He could ask for different provisions within that... that plea agreement, for instance, less supervised release. He could ask for a type C plea agreement."
+                },
+                {
+                    "start": 2610.656,
+                    "stop": 2624.616,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... why would they give him a better deal the second time around? I mean, they'd say, you know, okay, we forgot to tell you that you couldn't withdraw it. We now tell you you can't withdraw it. And we offer you the same deal we offered you last time. Why... why would he get a better deal?"
+                },
+                {
+                    "start": 2624.616,
+                    "stop": 2627.501,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, he would... if he's motivated to plea--"
+                },
+                {
+                    "start": 2627.501,
+                    "stop": 2636.774,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In fact, they might... they might be mad at him for having backed out and... and not give him as good a deal. But I can't imagine that he'd... he'd get a better deal the second time around."
+                },
+                {
+                    "start": 2636.774,
+                    "stop": 2644.297,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Scalia, I believe he would have an opportunity to renegotiate or he could be repleading to the... and have confidence in the process."
+                },
+                {
+                    "start": 2644.297,
+                    "stop": 2660.072,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What leverage does he have? What leverage does he have when he's face with a mandatory minimum that he can't escape from and that's what he's got? I... I can't... could you describe for this defendant what that better deal would be?"
+                },
+                {
+                    "start": 2660.072,
+                    "stop": 2681.336,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Ginsburg, it possibly could be less time on supervised release, less time... or... or actually a type C plea agreement instead of the type plea agreement. You're correct in saying they might not offer him that type, but 95 percent of criminal... Federal criminal convictions go by way of guilty pleas. So they're going to offer him something."
+                },
+                {
+                    "start": 2681.336,
+                    "stop": 2690.341,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But how could... could he escape from the mandatory minimum in any way other than what they thought might work here, this so-called safety valve?"
+                },
+                {
+                    "start": 2690.341,
+                    "stop": 2694.495,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The mandatory minimum just becomes the bottom line then."
+                },
+                {
+                    "start": 2694.495,
+                    "stop": 2703.335,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that's what he got, and that's why I can't understand any better deal that this defendant might have received."
+                },
+                {
+                    "start": 2703.335,
+                    "stop": 2711.089,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Justice Ginsburg, he could have confidence in the plea proceeding if it was... if he was given the full panoply of his--"
+                },
+                {
+                    "start": 2711.089,
+                    "stop": 2715.476,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You'd do it all over again with the same bottom line, but he's going to feel better about it the second time?"
+                },
+                {
+                    "start": 2715.476,
+                    "stop": 2719.778,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Possibly, yes. I mean, maybe that means something to this motivated pleader."
+                },
+                {
+                    "start": 2719.778,
+                    "stop": 2751.749,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'd like to ask you a question that I asked Mr. Himmelfarb and that it seemed puzzling to me that the safety valve which everyone hoped would allow a sentence below the mandatory minimum could never work from day one because he had two additional prior offenses. Now, if anyone knew about those priors, which were under a different name, which is why they weren't found immediately, certainly the defendant knew."
+                },
+                {
+                    "start": 2751.749,
+                    "stop": 2770.895,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Justice Ginsburg, the defendant knew, but it was confirmed on the record by the district court judge that he actually fully disclosed to his attorney his priors. This was brought out in the record at the sentencing hearing, and the judge confirmed this. And so to talk about--"
+                },
+                {
+                    "start": 2770.895,
+                    "stop": 2777.066,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So his... his attorney knew that he was disqualified for this plea?"
+                },
+                {
+                    "start": 2777.066,
+                    "stop": 2797.111,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--This... it was confirmed. The defendant said I completely disclosed everything to my attorney. I... I don't understand what's going on. The points weren't explained to me. The safety valve wasn't explained to me. This was brought out in the sentencing transcript that... that his priors were confirmed."
+                },
+                {
+                    "start": 2797.111,
+                    "stop": 2802.331,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That they were confirmed, but at what-- --at what point in time?"
+                },
+                {
+                    "start": 2802.331,
+                    "stop": 2813.422,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--He exposed his prior convictions to his attorney. This is what brought this... Mr. Benitez to confusion, and this was articulated in... in the sentencing transcript."
+                },
+                {
+                    "start": 2813.422,
+                    "stop": 2815.774,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which we don't have or do we have it?"
+                },
+                {
+                    "start": 2815.774,
+                    "stop": 2820.659,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, you do. The sentencing transcript is at joint appendix 104."
+                },
+                {
+                    "start": 2820.659,
+                    "stop": 2839.739,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And could... could you point to that place where it says that before he made this deal, which invoked the safety valve, he had told his counsel that I have three--"
+                },
+                {
+                    "start": 2839.739,
+                    "stop": 2845.126,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's at... Justice Ginsburg, it's at page 109. If I may read for the Court."
+                },
+                {
+                    "start": 2845.126,
+                    "stop": 2845.826,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2845.826,
+                    "stop": 2894.438,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The Defendant: I never felt that I had the proper representation, the way it should have been in my case. From the beginning, I never had any knowledge about the points of responsibility, the safety valve, or anything like that. I honestly, from the beginning, I accepted through my... responsibility through my attorney, but he never paid any attention to me, what I had told him about the problem that I had. I told him from the beginning that I had a problem, that I was attending the program. And at the end, he told me that I... allegedly that I had never told him, that I had never notified him of it. I never hid anything in my case about the things that I have done. Everything I said... I have said... everything I said... I have said has always been the truth and the reasons why I did it. And I have always asked for another chance. I've always asked him for an opportunity to meet with the government and he never wanted me to do that."
+                },
+                {
+                    "start": 2894.438,
+                    "stop": 2900.156,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't see where he said, I told my lawyer that I had three prior convictions."
+                },
+                {
+                    "start": 2900.156,
+                    "stop": 2912.048,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "He's trying to say, Justice Ginsburg, that I never hid anything and then... from my attorney about this case. And then the... the judge goes on to question him."
+                },
+                {
+                    "start": 2912.048,
+                    "stop": 2920.053,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's all right. I don't want to intrude on... on your time."
+                },
+                {
+                    "start": 2920.053,
+                    "stop": 2946.954,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's... I... I think it's on page 110. So what you're... the Court: So what you're indicating you believe everyone knew about your criminal history. Is that what you're saying? The Defendant: Well, from the very beginning when he went... when he came to see me, I explained it to him. The Court: I understand. So what you're indicating to me is that you believe from the beginning you had disclosed that you had a criminal record. Is that right? The Defendant: Yes. So he--"
+                },
+                {
+                    "start": 2946.954,
+                    "stop": 2954.46,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the trial judge told him, you know, if you don't qualify, I might give you 10 years. Do you understand that? And he says, yes."
+                },
+                {
+                    "start": 2954.46,
+                    "stop": 2955.227,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2955.227,
+                    "stop": 2968.319,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And he says, knowing you have a mandatory minimum, I have to give you 10 years. Do you still want to go forward with your plea? He says, yes. So it's pretty hard to argue that... I mean... go ahead."
+                },
+                {
+                    "start": 2968.319,
+                    "stop": 2983.996,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Breyer, but this defendant... it's not clear that he did not know that he could not withdraw his plea. He was under the impression, which is common sense impression, that he... if... if he doesn't get the sentence that he... that he asked for, he could withdraw his plea."
+                },
+                {
+                    "start": 2983.996,
+                    "stop": 2993.018,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, how... how could he have had that when the thing in the plea agreement itself was explained to him in Spanish saying that he couldn't?"
+                },
+                {
+                    "start": 2993.018,
+                    "stop": 3003.39,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, our contention is that the... the fact that the plea agreement wasn't in Spanish is fatal here because his attorney couldn't speak Spanish."
+                },
+                {
+                    "start": 3003.39,
+                    "stop": 3004.659,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but there was an interpreter there."
+                },
+                {
+                    "start": 3004.659,
+                    "stop": 3010.996,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But his... his attorney didn't... if his attorney couldn't speak Spanish, he doesn't know exactly what the interpreter is saying."
+                },
+                {
+                    "start": 3010.996,
+                    "stop": 3014.431,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the interpreter can presumably speak English."
+                },
+                {
+                    "start": 3014.431,
+                    "stop": 3035.012,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The... well, there was a contention here between the defendant and his counsel in numerous instances before the court. He expressed to the court that he couldn't communicate with his attorney and the prosecution knew about this. They also characterized the case as... under paralysis, and yet they still gave this defendant--"
+                },
+                {
+                    "start": 3035.012,
+                    "stop": 3061.929,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is new to me. I... I didn't see any... any indication in your briefs or in the record that he claims he was never told by the interpreter. I thought it was... I thought it was common ground that the interpreter had correctly explained the written plea agreement to him. You're now saying that he contends that he was deceived as to the meaning of the plea agreement?"
+                },
+                {
+                    "start": 3061.929,
+                    "stop": 3071.685,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Justice Scalia, we're not contending that, but we agree with the Ninth Circuit that the plea agreement in and of itself in... in this case is not conclusive of understanding."
+                },
+                {
+                    "start": 3071.685,
+                    "stop": 3075.838,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because? Because the plea agreement was read to him in Spanish. Is that right?"
+                },
+                {
+                    "start": 3075.838,
+                    "stop": 3077.788,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's part of it, Justice Breyer, yes."
+                },
+                {
+                    "start": 3077.788,
+                    "stop": 3119.7,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That is right. All right. The plea... so he hears in Spanish someone read to him the words, you cannot withdraw your plea agreement... cannot withdraw if they don't accept it. And that's conceded in this case. Is that right? Okay. Then afterwards the judge tells him, in addition, if... has anyone explained to you that... do you understand that if you... that if you don't qualify for the safety valve, you go for 10 years. Yes. Has anyone promised you you will qualify for the safety valve? No. So you realize you could get 10 years. All right? Knowing that, you still want to go ahead with your guilty plea?"
+                },
+                {
+                    "start": 3119.7,
+                    "stop": 3141.881,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Our... Justice Breyer, our position is consistent with the Ninth Circuit that he was under an expectation, a highly... a highly... high expectation that he would... would get the safety valve, and like the Ninth Circuit said, he had no incentive to read or double check the provisions within the plea agreement himself. And this... this--"
+                },
+                {
+                    "start": 3141.881,
+                    "stop": 3147.701,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought one... one of your points was that this was a rather long agreement and this was paragraph 19."
+                },
+                {
+                    "start": 3147.701,
+                    "stop": 3163.896,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Justice Ginsburg, that was going to be my next point. This provision was buried in the plea agreement and one doesn't know, because his counsel couldn't... doesn't speak Spanish. If he... if the... if the interpreter inadvertently misstated that provision--"
+                },
+                {
+                    "start": 3163.896,
+                    "stop": 3179.006,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I... I didn't know that you were claiming that this hadn't been an accurate translation. I thought your... your point was that it was a lot to absorb without having a written copy to follow."
+                },
+                {
+                    "start": 3179.006,
+                    "stop": 3192.314,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In our... Justice Ginsburg, in our opposition to the petition for writ of certiorari, we... we claimed that that point, that... that we have no certainty because there was not a transcript of the Spanish interpretation."
+                },
+                {
+                    "start": 3192.314,
+                    "stop": 3194.332,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you claim that before the Ninth Circuit?"
+                },
+                {
+                    "start": 3194.332,
+                    "stop": 3196.533,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Mr. Chief Justice."
+                },
+                {
+                    "start": 3196.533,
+                    "stop": 3206.323,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the Ninth... did the opinion reflect that at all in the Ninth Circuit? That... that you said that it was a not a correct translation? Did it or did it not?"
+                },
+                {
+                    "start": 3206.323,
+                    "stop": 3207.556,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 3207.556,
+                    "stop": 3208.758,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Whereabouts?"
+                },
+                {
+                    "start": 3208.758,
+                    "stop": 3214.245,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I can read... excuse me, if I may correct myself, Mr. Chief Justice."
+                },
+                {
+                    "start": 3214.245,
+                    "stop": 3214.695,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, please do."
+                },
+                {
+                    "start": 3214.695,
+                    "stop": 3227.053,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They didn't say that it was not a correct translation, but they did hold it as not conclusive. And they state that in their decision when they say that Mr.--"
+                },
+                {
+                    "start": 3227.053,
+                    "stop": 3231.139,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, finish. Go ahead. Finish the rest of your argument."
+                },
+                {
+                    "start": 3231.139,
+                    "stop": 3233.224,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Just move on?"
+                },
+                {
+                    "start": 3233.224,
+                    "stop": 3233.64,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, please."
+                },
+                {
+                    "start": 3233.64,
+                    "stop": 3337.791,
+                    "speaker": {
+                        "name": "Myra D Mossman",
+                        "ID": 36379,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Okay. I'd just like to say that the Government's burden is... the Government's test, the prejudice test, the but-for test, is asking this defendant to go back in time and to prove a counter-factual. It's not in this record, that if not for the error, he would not have pled guilty. That's a very heavy burden here. And we believe it emasculates the knowing requirements and makes awareness of the consequences of the plea irrelevant. And the... a defendant, if he does not understand the scope of the prosecution's promise, he cannot evaluate the risks inherent in the type of plea agreement that he's signing. We think that's critical. The Ninth Circuit agreed that... that the rule 11(e)(2) warning and the type of plea agreement that this particular defendant entered into is highly critical and affords a higher risk to this defendant because it couldn't withdraw. And it's counterintuitive to enter into an agreement when you understand that one party could withdraw, to think that you can't. That's why the Congress has asked... has asked that this warning be expressly made in the rule 11 colloquy, that if we... if I... I... I'm not bound by the recommendation. The judge has said I'm not bound by the recommendations, but you cannot withdraw if I do not give you the sentence that you bargained for because that's a counterintuitive understanding. I believe Justice Scalia was getting at this when he talked to Mr. Himmelfarb. And in closing, I'd just like to say this Court should adhere to the Olano prejudice test and reject the Government's invitation to adopt a but-for, highly prejudiced, highly burden... excuse me... strict bright line ruling test. And this Court should affirm the Ninth Circuit's result, but if they do not--"
+                },
+                {
+                    "start": 3337.791,
+                    "stop": 3342.445,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Ms. Mossman. Mr. Himmelfarb, you have 5 minutes remaining."
+                }
+            ],
+            "start": 3342.445,
+            "stop": 3345.98
+        }
+    ]
+}

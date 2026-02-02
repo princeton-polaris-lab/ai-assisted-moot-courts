@@ -1,0 +1,3617 @@
+{
+    "title": "Verizon Communications, Inc. v. Federal Communications Commission",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 42.11,
+                    "stop": 113.578,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, may it please the Court. I'd like to start with a brief illustration that I think will help crystallize the legal issues, both the so-called forward-looking issues and the historical cost issues. The illustration itself self starts with a forward-looking perspective. Now, any firm that operates and builds a network incurs three costs going forward. Let's say I, the hypothetical new entrant capable of coming in today and instantaneously deploying the most efficient network possible today, I would have to expend my baseline facility costs. And let's say the FCC is right. Let's say that costs about a hundred and eighty billion dollars to reproduce the system today from scratch. Then I would face my operating costs that are dictated by the network that I just built. Let's say those are seventy-five billion dollars a year. And then I would face the incremental capital investment that I would make each year to upgrade and expand the network. Let's say that's thirty billion dollars a year. Now, let me show why under TELRIC no firm that actually makes expenditures can recover them."
+                },
+                {
+                    "start": 113.578,
+                    "stop": 116.522,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What what w- what was your second cost, the seventy-five?"
+                },
+                {
+                    "start": 116.522,
+                    "stop": 121.016,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The seventy-five is operating costs... dictated by the network... Per year? Per y- that I've deployed."
+                },
+                {
+                    "start": 121.016,
+                    "stop": 121.74,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Per year?"
+                },
+                {
+                    "start": 121.74,
+                    "stop": 125.653,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Per year, which is how much our operating costs are per year."
+                },
+                {
+                    "start": 125.653,
+                    "stop": 127.694,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the first was was the..."
+                },
+                {
+                    "start": 127.694,
+                    "stop": 129.622,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Building the network from scratch."
+                },
+                {
+                    "start": 129.622,
+                    "stop": 136.945,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "not the not the not the debt debt service on building it? But the building it. That's a o- that's a one-time cost."
+                },
+                {
+                    "start": 137.64,
+                    "stop": 138.746,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's the sunk capital..."
+                },
+                {
+                    "start": 138.746,
+                    "stop": 139.767,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "cost."
+                },
+                {
+                    "start": 139.767,
+                    "stop": 141.624,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "depreciated figure, the one hundred and eighty..."
+                },
+                {
+                    "start": 141.624,
+                    "stop": 149.104,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No. I'm starting I'm starting, today."
+                },
+                {
+                    "start": 149.104,
+                    "stop": 158.543,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "W- You you've presented three questions."
+                },
+                {
+                    "start": 158.543,
+                    "stop": 159.989,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "We-"
+                },
+                {
+                    "start": 159.989,
+                    "stop": 216.742,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I'm going to show it's devoted to all three, and I'm going to show how TELRIC does not, going forward, permit the recovery because it bases compensation, for someone who has already expended money on the network, on the imaginary cost structure of a hypothetical entrant who can be unconstrained and who's capable, at any given time, of instantaneously deploying and ubiquitously deploying a brand new network that's the most efficient at that point."
+                },
+                {
+                    "start": 216.742,
+                    "stop": 218.358,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But we we've said in in..."
+                },
+                {
+                    "start": 218.358,
+                    "stop": 242.113,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "in a number of cases, going back fifty years, that if you're talking about an a unreasonable rate of return or a taking or something that has constitutional implications, you you can't attack the method because different methods can work out differently."
+                },
+                {
+                    "start": 242.113,
+                    "stop": 281.37,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well well, Your Honor, I think that what the Court has done is made distinctions between ends and means."
+                },
+                {
+                    "start": 281.37,
+                    "stop": 284.771,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They're probably going to be set by by State commissions, are they not?"
+                },
+                {
+                    "start": 284.771,
+                    "stop": 285.437,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Excuse me, Your Honor?"
+                },
+                {
+                    "start": 285.437,
+                    "stop": 291.787,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Aren't aren't these costs and fees going to be ultimately set by State commissions applying the FCC rules?"
+                },
+                {
+                    "start": 291.787,
+                    "stop": 297.999,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The rates themselves will be set by by the State commissions, implementing a methodology, and we are complaining about..."
+                },
+                {
+                    "start": 297.999,
+                    "stop": 299.473,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the methodology because..."
+                },
+                {
+                    "start": 299.473,
+                    "stop": 317.16,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "what the cases say you can't do, it seems to me, going back to the J- Stone's opinion fifty years ago, the opinion of the Court in Duquesne, that you can't attack the methodology unless you can point to some something wrong in the actual fee that you're allowed or the rate that you're allowed."
+                },
+                {
+                    "start": 317.16,
+                    "stop": 347.806,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I think that the Court has always reviewed methodologies."
+                },
+                {
+                    "start": 347.806,
+                    "stop": 348.352,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Excuse me, ju-"
+                },
+                {
+                    "start": 348.352,
+                    "stop": 375.47,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just a risk? It's I mean, but there's always a risk, I suppose, until you get the final determination by whoever the ratemaker is."
+                },
+                {
+                    "start": 375.47,
+                    "stop": 470.588,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, if if the if if we are correct that we are entitled to a fair opportunity to recover our costs, and the Government decides that they're going to spin a roulette wheel, I can't come in and say that's a problem? That exposes me to risk? The reason we have why do we have methodologies set in the first place instead of later r- instead of later proceedings that, We have them to set up front a promise to pay that sets investor expectations and ensures that the users, not the Government, is going to end up footing the bill."
+                },
+                {
+                    "start": 470.588,
+                    "stop": 471.935,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But n- nu-"
+                },
+                {
+                    "start": 471.935,
+                    "stop": 483.682,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "numerous cases have said that m- he- his, th- the ratemaking agency is not required to follow histor- to adopt historical costs as the method of fixing rat-"
+                },
+                {
+                    "start": 483.682,
+                    "stop": 525.81,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's the method, but the objective has to be an opportunity of getting me back my costs."
+                },
+                {
+                    "start": 525.81,
+                    "stop": 528.093,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Duquesne said, but the..."
+                },
+                {
+                    "start": 528.093,
+                    "stop": 546.751,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "different from previous rate cases in that previous rate cases, the expenditure has been made and the question is d- fair compensation, just compensation."
+                },
+                {
+                    "start": 546.751,
+                    "stop": 548.665,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No. I'm saying that all the..."
+                },
+                {
+                    "start": 548.665,
+                    "stop": 562.534,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 562.534,
+                    "stop": 572.431,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But but that's true in any ratemaking case. Chief Justice and Justice Scalia are saying our our cases say we have to wait to see what the rate is."
+                },
+                {
+                    "start": 572.431,
+                    "stop": 573.282,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "N- No."
+                },
+                {
+                    "start": 573.282,
+                    "stop": 580.286,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "position was, well, this is different because we have an initial outlay that we're required to make now."
+                },
+                {
+                    "start": 580.286,
+                    "stop": 581.973,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "may maybe I misunderstand your argument."
+                },
+                {
+                    "start": 581.973,
+                    "stop": 593.24,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The reason we have methodologies and the reason I'm entitled to know that I have a fair opportunity to recover it is that I shouldn't be forced to spend money, to lay out money unless I have a fair opportunity to get it..."
+                },
+                {
+                    "start": 593.24,
+                    "stop": 593.756,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "back."
+                },
+                {
+                    "start": 593.756,
+                    "stop": 615.163,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "whole argument is assuming that by adopting this particular methodology, it is some kind of a necessary conclusion that at the end of the day, you're going to be getting less of a return than you would have gotten if an historic cost methodology had had been employed."
+                },
+                {
+                    "start": 615.163,
+                    "stop": 620.36,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, actually, y- you know, we do know whether it's so."
+                },
+                {
+                    "start": 620.36,
+                    "stop": 621.196,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But but..."
+                },
+                {
+                    "start": 621.196,
+                    "stop": 628.965,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "then why haven't you come in telling us a- a- about rates that you were getting that in fact are are bleeding you dry."
+                },
+                {
+                    "start": 628.965,
+                    "stop": 630.787,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, because we're not com-, well,"
+                },
+                {
+                    "start": 630.787,
+                    "stop": 642.706,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "there are two reasons."
+                },
+                {
+                    "start": 642.706,
+                    "stop": 643.911,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "in the methodology."
+                },
+                {
+                    "start": 643.911,
+                    "stop": 664.99,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "could understand your argument if that systemic defect had a , by by some logical necessity, the conclusion of compensating you for what, on traditional standards of review, would be a confiscatory rate. But there is no such necessity that I can find in your argument."
+                },
+                {
+                    "start": 664.99,
+                    "stop": 665.274,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There are..."
+                },
+                {
+                    "start": 665.274,
+                    "stop": 667.5,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You you don't concede that necessity, do you?"
+                },
+                {
+                    "start": 667.5,
+                    "stop": 668.79,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, I don't. But there are..."
+                },
+                {
+                    "start": 668.79,
+                    "stop": 674.358,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Otherwise, you would think that a that s- that spinning a, spinning a wheel of fortune would be an adequate methodology."
+                },
+                {
+                    "start": 674.358,
+                    "stop": 674.737,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 674.737,
+                    "stop": 677.175,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Rates, No. You wouldn't. You wouldn't concede that."
+                },
+                {
+                    "start": 677.175,
+                    "stop": 688.589,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that that we would not accept a spinning wheel as a- a- as being adequate, a- although spinning a wheel might give you compensation, it might not give you compensation."
+                },
+                {
+                    "start": 688.589,
+                    "stop": 689.099,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "In in..."
+                },
+                {
+                    "start": 689.099,
+                    "stop": 705.048,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "in in the Duquesne case, the Court said even a small shift in methodology warrants a p- an increase in the risk of premium because you are always entitled to get pay for wh- to whatever risk you're exposed to."
+                },
+                {
+                    "start": 705.048,
+                    "stop": 706.975,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There are two things on the face of this order..."
+                },
+                {
+                    "start": 706.975,
+                    "stop": 712.858,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "and where does the increase in the premium take place? It takes place in State ratemaking, doesn't it?"
+                },
+                {
+                    "start": 712.858,
+                    "stop": 715.921,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Th- The problem here i- i- the problem here in this order..."
+                },
+                {
+                    "start": 715.921,
+                    "stop": 716.644,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "there are two..."
+                },
+                {
+                    "start": 716.644,
+                    "stop": 718.172,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "correct, isn't it? That's that's that's..."
+                },
+                {
+                    "start": 718.172,
+                    "stop": 719.363,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No. The di- the f-"
+                },
+                {
+                    "start": 719.363,
+                    "stop": 729.951,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Th- The the decision took place in the Federal proceeding, and it took place in paragraph six eighty-eight and seven oh two of the order."
+                },
+                {
+                    "start": 729.951,
+                    "stop": 731.099,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "we pointed out..."
+                },
+                {
+                    "start": 731.099,
+                    "stop": 732.474,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where do we find them?"
+                },
+                {
+                    "start": 732.474,
+                    "stop": 840.414,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Joint appendix three eighty-five three eighty-six and joint appendix three ninety-five."
+                },
+                {
+                    "start": 840.414,
+                    "stop": 861.162,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "B- If if all of that is true and you're exposed to so much greater risk, I assume that your costs of capital will be much higher."
+                },
+                {
+                    "start": 861.162,
+                    "stop": 861.963,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The States are..."
+                },
+                {
+                    "start": 861.963,
+                    "stop": 896.644,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "the s- the the issue here is the cost of capital in the UNE business, our wholesale business."
+                },
+                {
+                    "start": 896.644,
+                    "stop": 898.774,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "compensation other than historical..."
+                },
+                {
+                    "start": 898.774,
+                    "stop": 903.382,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "seven oh two as saying what you say it says, Mr. Barr."
+                },
+                {
+                    "start": 903.382,
+                    "stop": 928.344,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, it it it it does say that y- you use you start with the the current rate of return and the current depreciation. It says that we bear the burden in the State proceedings of showing a business risk, and then it goes on to say that the business risk relates to actual competition."
+                },
+                {
+                    "start": 928.344,
+                    "stop": 929.535,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "four and five..."
+                },
+                {
+                    "start": 929.535,
+                    "stop": 943.109,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "point Justice Scalia made, that we recognize the incumbent LEC's are likely to face increased risks o-, no we may also some, we- u- by reason of the increased cost of capital."
+                },
+                {
+                    "start": 943.109,
+                    "stop": 1117.296,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 1117.296,
+                    "stop": 1121.521,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's true of any utility in those cases that we've we've decided over the..."
+                },
+                {
+                    "start": 1121.521,
+                    "stop": 1122.229,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "years."
+                },
+                {
+                    "start": 1122.229,
+                    "stop": 1128.502,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They don't."
+                },
+                {
+                    "start": 1128.502,
+                    "stop": 1130.813,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "they apply their hypoth-"
+                },
+                {
+                    "start": 1130.813,
+                    "stop": 1131.791,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "who who is they?"
+                },
+                {
+                    "start": 1131.791,
+                    "stop": 1132.443,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The FCC..."
+                },
+                {
+                    "start": 1199.152,
+                    "stop": 1206.336,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is the Government going to tell us that there are other ways you can recover that cost through depreciation or..."
+                },
+                {
+                    "start": 1206.336,
+                    "stop": 1218.752,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, because the thing they're depreci- the thing they're depreciating is the TELRIC price."
+                },
+                {
+                    "start": 1218.752,
+                    "stop": 1223.558,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are they going to tell us you get it back on t- the cost of capital? the same because it's just the capital based on the..."
+                },
+                {
+                    "start": 1223.558,
+                    "stop": 1224.48,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "TELRIC..."
+                },
+                {
+                    "start": 1224.48,
+                    "stop": 1264.003,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Their briefs talk about cost of capital."
+                },
+                {
+                    "start": 1264.003,
+                    "stop": 1266.314,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "they take, excuse me?"
+                },
+                {
+                    "start": 1266.314,
+                    "stop": 1271.304,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you get it back in costs of capital? What costs of capital do they allow you?"
+                },
+                {
+                    "start": 1271.304,
+                    "stop": 1337.622,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They allow the cost of capital that exists in a closed market."
+                },
+                {
+                    "start": 1337.622,
+                    "stop": 1345.35,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your your point there the answer Justice Scalia's question, I take it, was forgetting your first problem that's your first problem."
+                },
+                {
+                    "start": 1345.35,
+                    "stop": 1345.711,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right?"
+                },
+                {
+                    "start": 1345.711,
+                    "stop": 1380.4,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The one you brought up at the beginning. that they're pretending actual competition is what makes the difference, but what the problem arises out of is the fact that they're pricing on a hypothetically perfectly competitive... that point were wrong, then the answer to Justice Scalia, I take it, would be, there's no other problem."
+                },
+                {
+                    "start": 1380.4,
+                    "stop": 1381.742,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The rule says no."
+                },
+                {
+                    "start": 1381.742,
+                    "stop": 1382.13,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The r-"
+                },
+                {
+                    "start": 1382.13,
+                    "stop": 1387.349,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But but if you change the rule, you theoretically could do a high enough rate of return."
+                },
+                {
+                    "start": 1387.349,
+                    "stop": 1388.215,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "problem."
+                },
+                {
+                    "start": 1388.215,
+                    "stop": 1401.201,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "say no? Gi- Gi- Give us the the exact text where the rule says no. This is yours..."
+                },
+                {
+                    "start": 1401.201,
+                    "stop": 1402.573,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I had also..."
+                },
+                {
+                    "start": 1402.573,
+                    "stop": 1406.628,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "asked i- I, it's not in the record."
+                },
+                {
+                    "start": 1406.628,
+                    "stop": 1407.379,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "paragraph..."
+                },
+                {
+                    "start": 1407.379,
+                    "stop": 1411.001,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "this is on this is at three ninety-five of the joint appendix?"
+                },
+                {
+                    "start": 1415.105,
+                    "stop": 1416.14,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "by the FCC..."
+                },
+                {
+                    "start": 1416.14,
+                    "stop": 1417.089,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "t- show us the language..."
+                },
+                {
+                    "start": 1417.089,
+                    "stop": 1418.691,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "there? Where? What's the language?"
+                },
+                {
+                    "start": 1418.691,
+                    "stop": 1430.455,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That the s- that the existing rate of return and existing depreciation are reasonable starting points."
+                },
+                {
+                    "start": 1430.455,
+                    "stop": 1430.896,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Starting..."
+                },
+                {
+                    "start": 1430.896,
+                    "stop": 1431.076,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "point?"
+                },
+                {
+                    "start": 1431.076,
+                    "stop": 1433.204,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah, starting points. seven?"
+                },
+                {
+                    "start": 1433.204,
+                    "stop": 1433.714,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Seven oh t-"
+                },
+                {
+                    "start": 1433.714,
+                    "stop": 1436.975,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Seven oh two. Seven oh two. Page three ninety-"
+                },
+                {
+                    "start": 1436.975,
+                    "stop": 1444.831,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "starting point."
+                },
+                {
+                    "start": 1444.831,
+                    "stop": 1445.087,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Gee."
+                },
+                {
+                    "start": 1445.087,
+                    "stop": 1455.293,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "actual competition."
+                },
+                {
+                    "start": 1455.293,
+                    "stop": 1465.625,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, but you're you're saying rule seven oh two prevents you from ge- getting back what you otherwise should have through capital costs?"
+                },
+                {
+                    "start": 1465.625,
+                    "stop": 1468.87,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. In fact, they've admitted it in their brief."
+                },
+                {
+                    "start": 1468.87,
+                    "stop": 1471.945,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "w- what language in rule seven oh two are you relying on?"
+                },
+                {
+                    "start": 1489.131,
+                    "stop": 1490.194,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's not in the record,"
+                },
+                {
+                    "start": 1490.194,
+                    "stop": 1546.575,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "but it is a separate order. We recognize that incumbent LECs are likely to face increased risks given the overall increases in competition in the industry, which might warrant an increased cost of capital."
+                },
+                {
+                    "start": 1546.575,
+                    "stop": 1549.382,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "as if there's instantaneous entry."
+                },
+                {
+                    "start": 1549.382,
+                    "stop": 1572.633,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "page eighty-three A, toward the end of seven, r- rule seven oh two, it says, State States may adjust the cost of capital if a party demonstrates to a State commission that either a higher or lower level of cost of capital is warranted without the commission conducting a rate of return or other rate-based proceeding."
+                },
+                {
+                    "start": 1572.633,
+                    "stop": 1577.37,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That paragraph I think a fair reading of that paragraph and the way it is read and applied..."
+                },
+                {
+                    "start": 1577.37,
+                    "stop": 1578.389,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "including..."
+                },
+                {
+                    "start": 1578.389,
+                    "stop": 1584.032,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the language I just quoted to you? How do you distinguish that if you don't if you don't agree with me?"
+                },
+                {
+                    "start": 1584.032,
+                    "stop": 1631.375,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would distinguish it by then looking at the rule, which is rule five oh five, and that's on joint appendix fifty-one and fifty-two."
+                },
+                {
+                    "start": 1631.375,
+                    "stop": 1633.969,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But isn't isn't..."
+                },
+                {
+                    "start": 1633.969,
+                    "stop": 1662.413,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "excuse me, Your Honor. That's right, and that's a... That's a directive to the State."
+                },
+                {
+                    "start": 1662.413,
+                    "stop": 1663.561,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But that is not..."
+                },
+                {
+                    "start": 1663.561,
+                    "stop": 1673.426,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "i- if if if if you understand by the distinction what I understand by the distinction, it is not a directive to the State which binds them in the ultimate rate that they can set."
+                },
+                {
+                    "start": 1673.426,
+                    "stop": 1675.957,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It binds yes, it does bind them. The rate..."
+                },
+                {
+                    "start": 1675.957,
+                    "stop": 1677.038,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the rate cannot..."
+                },
+                {
+                    "start": 1677.038,
+                    "stop": 1682.185,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The the the they cannot consider in se- in setting the cost of capital historical costs."
+                },
+                {
+                    "start": 1682.185,
+                    "stop": 1682.674,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well,"
+                },
+                {
+                    "start": 1682.674,
+                    "stop": 1683.554,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "but they don't have to..."
+                },
+                {
+                    "start": 1683.554,
+                    "stop": 1690.677,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "consider it if they give you a high enough rate on your TELRIC costs."
+                },
+                {
+                    "start": 1690.677,
+                    "stop": 1692.563,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "How do they determine what's high enough, Your Honor?"
+                },
+                {
+                    "start": 1692.563,
+                    "stop": 1703.565,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "past costs were, indeed, ten million, and they're saying, well, it's just five because somebody else could do it for five if they came in right now."
+                },
+                {
+                    "start": 1703.565,
+                    "stop": 1704.357,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "you're going to be..."
+                },
+                {
+                    "start": 1704.357,
+                    "stop": 1708.552,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "in just as good shape a- as if they were giving you your fifteen percent on the ten."
+                },
+                {
+                    "start": 1708.552,
+                    "stop": 1710.676,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And how do they determine h- what's high enough..."
+                },
+                {
+                    "start": 1710.676,
+                    "stop": 1711.898,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "unless you have a standard?"
+                },
+                {
+                    "start": 1711.898,
+                    "stop": 1713.727,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "basis of what your risk is."
+                },
+                {
+                    "start": 1713.727,
+                    "stop": 1714.89,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "and it's very..."
+                },
+                {
+                    "start": 1714.89,
+                    "stop": 1725.473,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "it's a v-, your risk of continuing to put in capital which will which will not b- which you will not be able to have taken into account in setting the rate."
+                },
+                {
+                    "start": 1725.473,
+                    "stop": 1739.865,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think, you know, y- your concurrence in in in Duquesne, Justice Scalia, made a v- very fundamental point, which is you can't talk about return on risk without implying a standard."
+                },
+                {
+                    "start": 1739.865,
+                    "stop": 1740.951,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's the risk I'm not going to..."
+                },
+                {
+                    "start": 1740.951,
+                    "stop": 1742.482,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "be able to recover my capital."
+                },
+                {
+                    "start": 1742.482,
+                    "stop": 1743.063,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1743.063,
+                    "stop": 1745.091,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But now, I'm sorry. In..."
+                },
+                {
+                    "start": 1745.091,
+                    "stop": 1748.007,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "looking at what my capital is in relation to what you're allowing..."
+                },
+                {
+                    "start": 1748.007,
+                    "stop": 1748.292,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1748.292,
+                    "stop": 1831.002,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That may all be true, and I have only one question to ask, and it be and I'm asking it."
+                },
+                {
+                    "start": 1831.002,
+                    "stop": 1874.73,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That was mixing the apples and oranges."
+                },
+                {
+                    "start": 1874.73,
+                    "stop": 1875.836,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So,"
+                },
+                {
+                    "start": 1875.836,
+                    "stop": 1903.761,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "what you're saying is in response to what I said, that I am wrong in saying that the TELRIC set depreciation, capital return, and other numbers, I am wrong in saying that they will earn you a fair rate of return on a hundred and forty billion. And I can find that in the..."
+                },
+                {
+                    "start": 1903.761,
+                    "stop": 1906.355,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "is there anything on that in the record?"
+                },
+                {
+                    "start": 1906.355,
+                    "stop": 1906.88,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 1906.88,
+                    "stop": 1909.844,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "T- Well, by using the same depreciation schedule..."
+                },
+                {
+                    "start": 1909.844,
+                    "stop": 1911.588,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mhm."
+                },
+                {
+                    "start": 1911.588,
+                    "stop": 1914.168,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "and hypothesizing a new network,"
+                },
+                {
+                    "start": 1914.168,
+                    "stop": 1915.614,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mhm..."
+                },
+                {
+                    "start": 1915.614,
+                    "stop": 1920.675,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "that reduces my e- my, that reduces my capital charge."
+                },
+                {
+                    "start": 1920.675,
+                    "stop": 1940.593,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The capital charge will fall from a hundred and forty billion."
+                },
+                {
+                    "start": 1940.593,
+                    "stop": 1954.398,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 1954.398,
+                    "stop": 1954.925,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "because in..."
+                },
+                {
+                    "start": 1954.925,
+                    "stop": 1959.122,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "five years I have to buy a new switch, and I strand what I haven't yet recovered."
+                },
+                {
+                    "start": 1959.122,
+                    "stop": 1964.254,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're saying the commission sets the depreciation period and binds the State commissions..."
+                },
+                {
+                    "start": 1964.254,
+                    "stop": 1965.218,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "by that?"
+                },
+                {
+                    "start": 1965.218,
+                    "stop": 1970.538,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "the, well, yes."
+                },
+                {
+                    "start": 1970.538,
+                    "stop": 1979.978,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the commission says, five year depreciation a ten year depreciation, not five, or five not ten the That's the commission fo- i- forces that on the States?"
+                },
+                {
+                    "start": 1979.978,
+                    "stop": 1981.382,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The, Yes."
+                },
+                {
+                    "start": 1981.382,
+                    "stop": 1982.672,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Can can..."
+                },
+                {
+                    "start": 1982.672,
+                    "stop": 1983.681,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "depreciation..."
+                },
+                {
+                    "start": 1988.637,
+                    "stop": 1989.885,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "If,  This is..."
+                },
+                {
+                    "start": 1989.885,
+                    "stop": 1991.142,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "this is a separate proceeding,"
+                },
+                {
+                    "start": 1991.142,
+                    "stop": 1991.496,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "but it's..."
+                },
+                {
+                    "start": 1991.496,
+                    "stop": 1996.274,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "their application of TELRIC. In the universal service."
+                },
+                {
+                    "start": 1996.274,
+                    "stop": 1998.542,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the rate of return must either be..."
+                },
+                {
+                    "start": 1998.542,
+                    "stop": 1999.514,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What what are you reading from?"
+                },
+                {
+                    "start": 1999.514,
+                    "stop": 2002.233,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Paragr- Paragraph two fifty of that order."
+                },
+                {
+                    "start": 2002.233,
+                    "stop": 2006.104,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "it's published opinion, but it's not part of the record. It's not in the record?"
+                },
+                {
+                    "start": 2006.104,
+                    "stop": 2028.14,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "joint appendix, but it's a pub- i- it's the parallel proceeding to this where they were setting TELRIC for our universal service prices."
+                },
+                {
+                    "start": 2028.14,
+                    "stop": 2034.491,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "w- o- Or or the or the State prescr- was this last part, or the State prescribed rate?"
+                },
+                {
+                    "start": 2034.491,
+                    "stop": 2038.376,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Retail rate. The retail rate.  Yes."
+                },
+                {
+                    "start": 2038.376,
+                    "stop": 2044.526,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I- It has to be either the Federal interstate, that's a retail rate."
+                },
+                {
+                    "start": 2044.526,
+                    "stop": 2047.046,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "there..."
+                },
+                {
+                    "start": 2047.046,
+                    "stop": 2054.291,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "State's prescribed rate of return for intrastate intrastate services."
+                },
+                {
+                    "start": 2054.291,
+                    "stop": 2055.056,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "on the..."
+                },
+                {
+                    "start": 2055.056,
+                    "stop": 2063.481,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "these are rates of return."
+                },
+                {
+                    "start": 2063.481,
+                    "stop": 2143.978,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the next paragraph, paragraph five, says that we agree with those commentators that argue that currently authorized lives should be used because the high cost areas are unlikely to face a serious competitive threat."
+                },
+                {
+                    "start": 2143.978,
+                    "stop": 2149.025,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well but, What part of footnote eight are you relying on?"
+                },
+                {
+                    "start": 2149.025,
+                    "stop": 2320.149,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That second consideration is notwithstanding the incumbent's contrary suggestion implicit in any determination of the true economic cost of capital."
+                },
+                {
+                    "start": 2320.149,
+                    "stop": 2320.915,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "costs. You can't just..."
+                },
+                {
+                    "start": 2320.915,
+                    "stop": 2322.011,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "make up a value..."
+                },
+                {
+                    "start": 2322.011,
+                    "stop": 2322.715,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "for it."
+                },
+                {
+                    "start": 2322.715,
+                    "stop": 2335.14,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "here no property is taken in the condemnation sense of the word."
+                },
+                {
+                    "start": 2335.14,
+                    "stop": 2335.793,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "is it?"
+                },
+                {
+                    "start": 2335.793,
+                    "stop": 2343.255,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, that's wrong in two respects."
+                },
+                {
+                    "start": 2343.255,
+                    "stop": 2345.847,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, have they done so? W- is..."
+                },
+                {
+                    "start": 2345.847,
+                    "stop": 2361.379,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "percent of our lines have been taken in this respect."
+                },
+                {
+                    "start": 2361.379,
+                    "stop": 2362.599,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, but i- i-"
+                },
+                {
+                    "start": 2362.599,
+                    "stop": 2377.869,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "i- I don't think it comes under the Just Compensation Clause."
+                },
+                {
+                    "start": 2377.869,
+                    "stop": 2378.904,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Compensation Clau-"
+                },
+                {
+                    "start": 2378.904,
+                    "stop": 2404.46,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I respectfully disagree because I think that the reason wh- w- when you dedicate property and there's a taking, the reason the Government has to come up with a methodology to pay is precisely because it has to promise to pay at the point of the dedication."
+                },
+                {
+                    "start": 2404.46,
+                    "stop": 2405.75,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "and this takes us..."
+                },
+                {
+                    "start": 2405.75,
+                    "stop": 2411.648,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "every breach of contract by the Government is a taking."
+                },
+                {
+                    "start": 2411.648,
+                    "stop": 2413.292,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I mean, every time..."
+                },
+                {
+                    "start": 2413.292,
+                    "stop": 2419.555,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Every time the Government enters a contract, it creates an expectation, and whenever the Government breaks a contract, it's a it's a..."
+                },
+                {
+                    "start": 2419.555,
+                    "stop": 2420.595,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "taking."
+                },
+                {
+                    "start": 2420.595,
+                    "stop": 2437.863,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor."
+                },
+                {
+                    "start": 2437.863,
+                    "stop": 2446.089,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Compelled because you agreed to it."
+                },
+                {
+                    "start": 2446.089,
+                    "stop": 2447.252,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "return. That was the deal."
+                },
+                {
+                    "start": 2447.252,
+                    "stop": 2485.345,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right, a- a return in order to give us a fair opportunity to get our money back."
+                },
+                {
+                    "start": 2485.345,
+                    "stop": 2514.877,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Barr, may I ask, o- one piece of this case is you made this investment for your local telephone business."
+                },
+                {
+                    "start": 2514.877,
+                    "stop": 2515.075,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "this."
+                },
+                {
+                    "start": 2515.075,
+                    "stop": 2520.562,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "These use the same facilities."
+                },
+                {
+                    "start": 2520.562,
+                    "stop": 2520.916,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But you're..."
+                },
+                {
+                    "start": 2520.916,
+                    "stop": 2523.281,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "getting back the lion's share."
+                },
+                {
+                    "start": 2523.281,
+                    "stop": 2525.862,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, yes, but it's, that's like going to GM and saying give away your..."
+                },
+                {
+                    "start": 2525.862,
+                    "stop": 2527.946,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Chevys because you're still making money."
+                },
+                {
+                    "start": 2527.946,
+                    "stop": 2542.099,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "piece of it that I'd like you to tell me how it fits in, and that is the quid pro quo of you can get into for the first time a new business, that you can get into the long distance business."
+                },
+                {
+                    "start": 2542.099,
+                    "stop": 2602.366,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "N- No."
+                },
+                {
+                    "start": 2602.366,
+                    "stop": 2603.613,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "reasonably..."
+                },
+                {
+                    "start": 2603.613,
+                    "stop": 2606.038,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "argues that the word cost is ambiguous."
+                },
+                {
+                    "start": 2606.038,
+                    "stop": 2628.198,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not in the context, i- y- you have cost and you have value methodologies."
+                },
+                {
+                    "start": 2628.198,
+                    "stop": 2632.04,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Mr. Barr."
+                }
+            ],
+            "start": 42.11,
+            "stop": 2655.84
+        },
+        {
+            "turns": [
+                {
+                    "start": 2632.04,
+                    "stop": 2655.84,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court. techniques."
+                },
+                {
+                    "start": 2655.84,
+                    "stop": 2666.703,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "think that really means that you could come up here with a with with a with an FCC scheme that says we're going to spin a wheel, and if it lands in the right place, you're going to get a good rate, if it lands in another place you're going to get a..."
+                },
+                {
+                    "start": 2666.703,
+                    "stop": 2668.266,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well there might be, there..."
+                },
+                {
+                    "start": 2668.266,
+                    "stop": 2682.117,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that is irrational and and does d- i- is not designed to provide a fair rate of return? Don't you have the burden of showing that this is at least designed to to provide a fair rate of return?"
+                },
+                {
+                    "start": 2682.117,
+                    "stop": 2710.602,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The C-, This Court has said that the challenger of a rate has a heavy burden to make a convincing case that the outcome is confiscatory."
+                },
+                {
+                    "start": 2710.602,
+                    "stop": 2714.123,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You you can't meet that burden with with with a wheel."
+                },
+                {
+                    "start": 2714.123,
+                    "stop": 2716.808,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You can't meet that burden with a wheel. You're really saying that..."
+                },
+                {
+                    "start": 2716.808,
+                    "stop": 2720.862,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you can come up with a wheel and just say, well, you know, you can't prove that you're not going to get a fair return."
+                },
+                {
+                    "start": 2720.862,
+                    "stop": 2721.228,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "that..."
+                },
+                {
+                    "start": 2721.228,
+                    "stop": 2722.043,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "can't be right."
+                },
+                {
+                    "start": 2722.043,
+                    "stop": 2768.292,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, the the the person who challenges the way the commission is setting rates has to deter- has to present to this Court a- an explanation for why that the system that's developed, wheth- whether it's spinning a wheel or whatever and I I I won't engage in that c- hypothetical because we've got a several hundred page record that looked into various different arguments with respect to various different methods of recovery. be based upon the statute."
+                },
+                {
+                    "start": 2768.292,
+                    "stop": 2782.34,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "it seems to me that necessarily a hypothetically most efficient market will invariably, necessarily result in a rate that is less than their actual cost."
+                },
+                {
+                    "start": 2782.34,
+                    "stop": 2783.772,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, no, I don't... agree."
+                },
+                {
+                    "start": 2783.772,
+                    "stop": 2785.379,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "just that just has to be."
+                },
+                {
+                    "start": 2785.379,
+                    "stop": 2892.157,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, it it does not have to be."
+                },
+                {
+                    "start": 2892.157,
+                    "stop": 2895.626,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Warr- Warranted by what standard?"
+                },
+                {
+                    "start": 2895.626,
+                    "stop": 2913.58,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "By the circumstances and and the constitutional obligation to set a reasonable rate under the statute considering this methodology and limited by the constitutional standard that this Court has articulated as the lowest reasonable rate, a rate that is not confiscatory. Are actual are actual..."
+                },
+                {
+                    "start": 2913.58,
+                    "stop": 2916.381,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "costs re- relevant in determining..."
+                },
+                {
+                    "start": 2916.381,
+                    "stop": 2929.918,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "what's ultimately reasonable? Well, this Court has repeatedly said that it would, it has refused to constitutionalize the embedded cost or historical cost formulation. Duquesne case."
+                },
+                {
+                    "start": 2929.918,
+                    "stop": 2950.157,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "must have some specific standard."
+                },
+                {
+                    "start": 2950.157,
+                    "stop": 2964.244,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I t-, That argument is made, but it's not substantiated by anything in the record in in this this long, elaborate TELRIC articulation of of numerous standards, both with respect to cost of capital and depreciation because the very next... paragraph..."
+                },
+                {
+                    "start": 2964.244,
+                    "stop": 2970.368,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Never mind the next paragraph."
+                },
+                {
+                    "start": 2970.368,
+                    "stop": 2971.45,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, but that says..."
+                },
+                {
+                    "start": 2971.45,
+                    "stop": 3003.694,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "higher or lower level of cost of capital is warranted without that commission conducting a rate-of-return or other rate-based proceeding."
+                },
+                {
+                    "start": 3003.694,
+                    "stop": 3044.776,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "utility has. that because that's precisely what it said in the statute. I don't care if it's required by the s-"
+                },
+                {
+                    "start": 3044.776,
+                    "stop": 3049.706,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "statute or not."
+                },
+                {
+                    "start": 3049.706,
+                    "stop": 3051.408,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "capital that they've invested,"
+                },
+                {
+                    "start": 3051.408,
+                    "stop": 3057.825,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "w- with a promise by the Government, that they'd be able to get a fair return on it."
+                },
+                {
+                    "start": 3057.825,
+                    "stop": 3085.99,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, i- u- you may not, Justice Scalia, but the but the the case has been presented on alternative bases the heavy burden that the local exchange carriers must carry here is proving that the embedded cost, historic cost requirement is either in the statute or in the Constitution. because..."
+                },
+                {
+                    "start": 3085.99,
+                    "stop": 3095.076,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "doesn't matter if they if they end up not getting a fair return on billions of dollars that have been invested with the Government's insu- assurance that they..."
+                },
+                {
+                    "start": 3095.076,
+                    "stop": 3097.575,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "that they get a fair return. Is that what you're saying? It..."
+                },
+                {
+                    "start": 3097.575,
+                    "stop": 3098.832,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "doesn't matter."
+                },
+                {
+                    "start": 3098.832,
+                    "stop": 3205.673,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm not saying that."
+                },
+                {
+                    "start": 3205.673,
+                    "stop": 3212.435,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And and not compensate investors."
+                },
+                {
+                    "start": 3212.435,
+                    "stop": 3426.541,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "taken into account. its, it that's correct. In footnote..."
+                },
+                {
+                    "start": 3426.541,
+                    "stop": 3464.868,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "depending on on how it's applied. assume assume and and I'm I'm sure you you d- you don't agree with it, but but assume that I that that I think this system has to not just be the spinning of a wheel, but it has to contain in it some some assurance that they'll get a fair rate of return on money that they have invested, with the Government's assurance that that they get a fair rate of return."
+                },
+                {
+                    "start": 3464.868,
+                    "stop": 3467.164,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm, The problem, Justice..."
+                },
+                {
+                    "start": 3467.164,
+                    "stop": 3468.179,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just just point to me the..."
+                },
+                {
+                    "start": 3468.179,
+                    "stop": 3473.223,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "provision that shows where that will be taken into account a fair at all. Is it..."
+                },
+                {
+                    "start": 3473.223,
+                    "stop": 3475.001,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "ever anywhere taken into account?"
+                },
+                {
+                    "start": 3475.001,
+                    "stop": 3507.051,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It is not taken into account what their embedded costs are with respect to portions of their network that may or may not have anything to do with the provision of the service or the network element involved here. written."
+                },
+                {
+                    "start": 3507.051,
+                    "stop": 3508.974,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "saying some of the costs shouldn't be counted."
+                },
+                {
+                    "start": 3508.974,
+                    "stop": 3509.607,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Let's just take..."
+                },
+                {
+                    "start": 3509.607,
+                    "stop": 3511.545,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the costs that you agree should be counted."
+                },
+                {
+                    "start": 3511.545,
+                    "stop": 3512.181,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Let's just take..."
+                },
+                {
+                    "start": 3512.181,
+                    "stop": 3515.269,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the embedded costs that do relate that do relate..."
+                },
+                {
+                    "start": 3515.269,
+                    "stop": 3531.242,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "to these services. can't determine what those are."
+                },
+                {
+                    "start": 3531.242,
+                    "stop": 3532.062,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's always been the..."
+                },
+                {
+                    "start": 3532.062,
+                    "stop": 3534.119,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "case."
+                },
+                {
+                    "start": 3534.119,
+                    "stop": 3536.013,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "case with rate ratemaking methodology."
+                },
+                {
+                    "start": 3536.013,
+                    "stop": 3536.472,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So, you..."
+                },
+                {
+                    "start": 3536.472,
+                    "stop": 3543.892,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you can come up now and say, it's always been so difficult."
+                },
+                {
+                    "start": 3543.892,
+                    "stop": 3565.907,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "giving co- Justice Scalia. the local exchange..."
+                },
+                {
+                    "start": 3565.907,
+                    "stop": 3572.409,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you've departed from my from my hypothesis, I'm saying assuming that I don't believe that spinning a wheel is okay."
+                },
+                {
+                    "start": 3572.409,
+                    "stop": 3572.84,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What..."
+                },
+                {
+                    "start": 3572.84,
+                    "stop": 3574.438,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "telling me is spinning a wheel is okay."
+                },
+                {
+                    "start": 3574.438,
+                    "stop": 3590.834,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, I'm not saying that spinning a wheel is okay. But we refused..."
+                },
+                {
+                    "start": 3590.834,
+                    "stop": 3593.009,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "to adopt that in Duquesne."
+                },
+                {
+                    "start": 3593.009,
+                    "stop": 3677.22,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Precisely."
+                },
+                {
+                    "start": 3677.22,
+                    "stop": 3699.786,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "To say that you don't constitutionalize the prudent investment rule is not to say that any methodology will go, even one that does not enable somebody who has made investments under a commitment from the Government to allow a fair return, to recover that fair return."
+                },
+                {
+                    "start": 3699.786,
+                    "stop": 3769.359,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "exclusive. that's one of the things that I was, that Mr. Barr said that I think the Court would take issue with. no."
+                },
+                {
+                    "start": 3769.359,
+                    "stop": 3773.555,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "the baseline standard that the utilities are entitled to rely upon?"
+                },
+                {
+                    "start": 3773.555,
+                    "stop": 3774.069,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "They're..."
+                },
+                {
+                    "start": 3774.069,
+                    "stop": 3787.625,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "not like telling GM to give away Chevrolets."
+                },
+                {
+                    "start": 3787.625,
+                    "stop": 3818.017,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The the baseline constitutional standard, at the end of the day, once you can look at the results, is this a non f- confiscatory result. also..."
+                },
+                {
+                    "start": 3818.017,
+                    "stop": 3832.024,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "confiscatory to say that we're going to make you use your capital plant, which costs a hundred and forty billion, and we're going to allow you to depreciate it as though it were only seventy billion?"
+                },
+                {
+                    "start": 3832.024,
+                    "stop": 3888.015,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why isn't that confiscatory? Court, the t- Congress might have said, with respect to a transportation company, you've had it au- that t- you've had the taxi service all to yourself for all these many years and now we're going to allow other some competition in there, and you and you've got some monopolistic facility, and we're going to let s- your competitors use some piece of it. to allow someone else to use it."
+                },
+                {
+                    "start": 3888.015,
+                    "stop": 3911.885,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I want to be sure I have a chance to ask you a different question."
+                },
+                {
+                    "start": 3911.885,
+                    "stop": 3924.701,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What they wanted to do with the st-, the they wanted to accomplish a number of goals, which are set forth in the preface of the statute to which I alluded to before, which is to reduce prices, to inspire... competition..."
+                },
+                {
+                    "start": 3924.701,
+                    "stop": 3941.201,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would like a little bit less generality than that, i- if if i- w- i- i- if you can give it to me."
+                },
+                {
+                    "start": 3941.201,
+                    "stop": 3963.847,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, they... one of the important considerations, and it's hard to not... deal in some generality, this area does. But one of... the important objectives that they hoped to achieve was to develop a pricing methodology that would encourage new entrants to come into the market and pay fees that would allow them to enter the market at competitive rates and, encourage them to develop new... Right,"
+                },
+                {
+                    "start": 3963.847,
+                    "stop": 3975.77,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that's basically the objective, to get them to enter when they should enter, is that fair? To get them to enter when economically they should enter, not when economically it'd be wasteful for them to enter."
+                },
+                {
+                    "start": 3975.77,
+                    "stop": 4063.545,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah, I s-, I think that's a fair premise. question? seems to me that they did try to... Fine. Okay. Now, that's what- all right, then you're right where I think you... pointed out in your e- in your dissent, your... partial dissent... in the other other time this case was before the Court, there are a variety of different... methodologies... that various different economists look at and think that they can accomplish those kind of objectives. then we can adjudicate that. All right. Now,"
+                },
+                {
+                    "start": 4063.545,
+                    "stop": 4118.053,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that's what they're trying to do, then how could it possibly do that, to write an order that says the depreciation rate and the rate of return that you are going to charge is going to be based upon not what it will cost you, but rather, what it will cost some hypothetical firm that isn't there, let alone saying the same thing in respect to telephone poles, in respect to wires, in respect to efficiency of administration, in respect to a twenty-two percent discount for a competition that doesn't exist? In other words, how does it even come close to answering that question to look not at the cost of this firm, but at the cost of some hypothetical firm that by definition doesn't..."
+                },
+                {
+                    "start": 4118.053,
+                    "stop": 4370.031,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "exist? in the first place, we're not talking about replicating an entire firm."
+                },
+                {
+                    "start": 4370.031,
+                    "stop": 4373.516,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, General Olson."
+                }
+            ],
+            "start": 2632.04,
+            "stop": 4464.08
+        },
+        {
+            "turns": [
+                {
+                    "start": 4373.516,
+                    "stop": 4464.08,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court."
+                },
+                {
+                    "start": 4464.08,
+                    "stop": 4466.656,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "we could never compete using irrelevance..."
+                },
+                {
+                    "start": 4466.656,
+                    "stop": 4500.484,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "blank slate."
+                },
+                {
+                    "start": 4500.484,
+                    "stop": 4501.595,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "to uphold them. I mean, that's..."
+                },
+                {
+                    "start": 4501.595,
+                    "stop": 4502.647,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "basically the argument."
+                },
+                {
+                    "start": 4502.647,
+                    "stop": 4503.874,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And if you're going to..."
+                },
+                {
+                    "start": 4503.874,
+                    "stop": 4563.003,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, thank you."
+                },
+                {
+                    "start": 4563.003,
+                    "stop": 4586.312,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "U- My question, I don't want to distract you because others had a different question had nothing to do with confiscation."
+                },
+                {
+                    "start": 4586.312,
+                    "stop": 4623.253,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "But it it, be if depreciation and cost of capital are set right, it won't do that, Justice Breyer, and I believe that is what Professor Kahn conceded, their expert."
+                },
+                {
+                    "start": 4623.253,
+                    "stop": 4624.398,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "capital are set."
+                },
+                {
+                    "start": 4624.398,
+                    "stop": 4640.901,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "you're not asserting that the States can can kick up the cost of capital rate on the basis of u- of the fact that the utility is not is not getting depreciation on its sunk costs."
+                },
+                {
+                    "start": 4640.901,
+                    "stop": 4654.85,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It the the s- separate two questions out."
+                },
+                {
+                    "start": 4654.85,
+                    "stop": 4657.059,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "the risks of operating in the system. So, I think it..."
+                },
+                {
+                    "start": 4657.059,
+                    "stop": 4778.634,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "does do what Mr. Barr claims it doesn't do."
+                },
+                {
+                    "start": 4778.634,
+                    "stop": 4779.648,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "If if that that..."
+                },
+                {
+                    "start": 4779.648,
+                    "stop": 4821.435,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "assuming that, w- his ar- Mr. Barr's argument, I take it, was that paragraph seven oh two put read in any disclaimers you want, and they have loads of them."
+                },
+                {
+                    "start": 4821.435,
+                    "stop": 4822.047,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I mean, I take it..."
+                },
+                {
+                    "start": 4822.047,
+                    "stop": 4824.353,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I may not have paraphrased it correctly, but I think that's..."
+                },
+                {
+                    "start": 4824.353,
+                    "stop": 4825.27,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "basically his point."
+                },
+                {
+                    "start": 4825.27,
+                    "stop": 4927.532,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is his argument."
+                },
+                {
+                    "start": 4927.532,
+                    "stop": 4928.543,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "to..."
+                },
+                {
+                    "start": 4928.543,
+                    "stop": 4929.297,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "to the local..."
+                },
+                {
+                    "start": 4929.297,
+                    "stop": 4930.159,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "telephone service."
+                },
+                {
+                    "start": 4930.159,
+                    "stop": 4932.753,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "that used to be done all the time, of course,"
+                },
+                {
+                    "start": 4932.753,
+                    "stop": 4933.795,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, what..."
+                },
+                {
+                    "start": 4933.795,
+                    "stop": 4937.019,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "between local and and long distance phone rates."
+                },
+                {
+                    "start": 4937.019,
+                    "stop": 4939.605,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, no, but there's a significant, I I'm sorry, Justice Scalia."
+                },
+                {
+                    "start": 4939.605,
+                    "stop": 4941.115,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "haven't been pretending to do that..."
+                },
+                {
+                    "start": 4941.115,
+                    "stop": 4942.175,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "for years and years."
+                },
+                {
+                    "start": 4942.175,
+                    "stop": 5078.543,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "but, Justice Scalia, a significant amount of that goes to retail which can't be allocated here."
+                },
+                {
+                    "start": 5078.543,
+                    "stop": 5079.254,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "it,"
+                },
+                {
+                    "start": 5079.254,
+                    "stop": 5121.284,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "it would be a very different place in fact than it is."
+                },
+                {
+                    "start": 5121.284,
+                    "stop": 5124.452,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Verrilli."
+                },
+                {
+                    "start": 5124.452,
+                    "stop": 5220.292,
+                    "speaker": {
+                        "name": "William P. Barr",
+                        "ID": 44087,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Constitution doesn't dictate a methodology, but what t- it does say is that whatever methodology is selected, it ultimately has to be judged by this Court as to whether it provides us a fair opportunity to recover our costs."
+                },
+                {
+                    "start": 5221.296,
+                    "stop": 5223.886,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The case is submitted."
+                }
+            ],
+            "start": 5223.886,
+            "stop": 5229.833
+        }
+    ]
+}

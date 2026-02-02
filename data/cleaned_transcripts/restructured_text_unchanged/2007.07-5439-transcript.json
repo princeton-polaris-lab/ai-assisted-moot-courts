@@ -1,0 +1,2899 @@
+{
+    "title": "Baze v. Rees",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 11.617,
+                    "stop": 43.76,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: Kentucky's lethal injection procedures pose a danger of cruelly inhumane executions. If the first drug in the three-drug sequence, the anesthetic thiopental, is not effectively administered to the executed inmate, then the second drug, pancuronium, will induce a terrifying conscious paralysis and suffocation and the third drug, potassium chloride, will inflict an excruciating burning pain as it courses through the veins."
+                },
+                {
+                    "start": 43.76,
+                    "stop": 54.008,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Verrilli, your argument is based on improper administration of the protocol. You agree that if the protocol is properly followed there is no risk of pain?"
+                },
+                {
+                    "start": 54.008,
+                    "stop": 78.654,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I disagree with that respectfully, Mr. Chief Justice. The protocol simply does not address several key steps where risks can arise and, beyond that, the protocol's... and I think this is critically important... the protocol's procedures for monitoring to assure that the inmate is adequately anesthetized are practically nonexistent."
+                },
+                {
+                    "start": 78.654,
+                    "stop": 94.556,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought your expert... I'm looking at page 493 to 494 of the joint appendix... agreed that if the two grams of sodium pentothal is properly administered, the way he put it, in virtually every case there would be a humane death."
+                },
+                {
+                    "start": 94.556,
+                    "stop": 111.405,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is true, but there can be no guarantee that it will be properly administered and that is because even in clinical settings there are always... there is always the potential for difficulty which manifests itself in actual problems, for example in the setting of an IV."
+                },
+                {
+                    "start": 111.405,
+                    "stop": 118.779,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if it were properly administered, would you have a case here? Let's assume 100 percent of cases are properly administered."
+                },
+                {
+                    "start": 118.779,
+                    "stop": 126.415,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If there were a way to guarantee that the procedure worked every time, then we wouldn't have substantial risk."
+                },
+                {
+                    "start": 126.415,
+                    "stop": 126.821,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, my question--"
+                },
+                {
+                    "start": 126.821,
+                    "stop": 127.214,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "But--"
+                },
+                {
+                    "start": 127.214,
+                    "stop": 133.895,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Let's assume hypothetically, and we know this isn't true, that 100 percent of the time it's properly administered. Then do you have an argument to present to the Court?"
+                },
+                {
+                    "start": 133.895,
+                    "stop": 170.472,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, if the 100 percent of the time the dose of anesthetic is properly administered into the condemned inmate, then we don't have a significant risk. Of course that is not what the record in this case establishes. The record establishes the contrary. There is... you cannot assure that there is going to be a guarantee of... of successful administration of the anesthetic. And that is why the monitoring part of the process is so critical."
+                },
+                {
+                    "start": 170.472,
+                    "stop": 195.99,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But would you... would the monitoring suffice? In other words, you started out by saying there is no way that it could be administered and assure 100 percent against risk, so it would be helpful if you clarified: Yes, there is a way of monitoring adequately and tell us what that would be, or no, there is no way."
+                },
+                {
+                    "start": 195.99,
+                    "stop": 215.949,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, Justice Ginsburg. I think we have tried to suggest in our brief that there is a way to monitor effectively even with the three-drug protocol. It's challenging. The key component of that is that one needs a person trained in monitoring anesthetic death to participate in the process."
+                },
+                {
+                    "start": 215.949,
+                    "stop": 225.914,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Who would be a medical doctor... and medical doctors, according to the Code of Ethics of the American Medical Association, can't participate."
+                },
+                {
+                    "start": 225.914,
+                    "stop": 237.645,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, Your Honor, of course, that's why there is another practical alternative here, which solves that problem, which is the single dose of barbituate, which does not require the participation of a medically trained professional."
+                },
+                {
+                    "start": 237.645,
+                    "stop": 262.383,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that seems to be a big part your argument, but it doesn't appear that that argument was raised at all in the Kentucky courts, and it seems that there is virtually nothing in the record of this case that shows that that's practical or that it's preferable to the three-drug protocol. It may well be, but without anything in the record of this case, how could we hold that the three drug protocol is unconstitutional?"
+                },
+                {
+                    "start": 262.383,
+                    "stop": 272.237,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, if I may Justice Alito, I do think and I'd like to provide the references where it is raised and then the evidentiary references that support the argument--"
+                },
+                {
+                    "start": 272.237,
+                    "stop": 279.362,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where was it raised? The citations in the brief that was submitted by your co-counsel are inaccurate to show that it was raised in the Kentucky courts."
+                },
+                {
+                    "start": 279.362,
+                    "stop": 302.93,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, at page 684 of the joint appendix, the... this is the trial brief, the brief raised in the trial court... one assertion made there is that an alternative chemical or combination of chemicals that poses less risk of unnecessary pain and suffering during an execution is--"
+                },
+                {
+                    "start": 302.93,
+                    "stop": 322.841,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, that's... that's the trial court, and you think that just the word an \"alternative chemical poses less risk\" is sufficient to raise the argument that the three-drug protocol is unconstitutional, because a single drug protocol involving thiopental is preferable. That one word?"
+                },
+                {
+                    "start": 322.841,
+                    "stop": 330.731,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--And then... and then, no. And then later, on page 701, the brief argues that there are nonpainful ways of stopping the heart."
+                },
+                {
+                    "start": 330.731,
+                    "stop": 380.054,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What are they? That is, I was... I can't find... what should I read? Because I've read the studies. I've read that Lancet study, which seemed to me the only referee for it said it wasn't any good. And I've read the Zimmer study and I found in there an amazing sentence to me which says that The Netherlands Information Task Force concluded it is not possible to administer so much of it that a lethal effect is guaranteed. They're talking about thiopental. So I'm left at sea. I understand your contention. You claim that this is somehow more painful than some other method. But which? And what's the evidence for that? What do I read to find it?"
+                },
+                {
+                    "start": 380.054,
+                    "stop": 399.467,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The thiopental is a barbiturate and by definition will inflict death painlessly. The record in this case establishes... each expert, the Petitioner s expert and Respondents' expert, testified that it is guaranteed at the three gram dose to cause death."
+                },
+                {
+                    "start": 399.467,
+                    "stop": 448.48,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's what they're... they're giving a three gram dose, I take it, and if... or two grams or three grams; I thought it was three grams here. And I ended up thinking of course there is a risk of human error. There is a risk of human error generally where you're talking about the death penalty, and this may be one extra problem, one serious additional problem. But the question here is can we say that there is a more serious problem here than with other execution methods? I've read the studies. What else should I read?"
+                },
+                {
+                    "start": 448.48,
+                    "stop": 463.114,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think the record references, which I think the record pretty clearly establishes, Your Honor, that death is certain to occur through the use of thiopental at the three gram dose."
+                },
+                {
+                    "start": 463.114,
+                    "stop": 482.405,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do we do with the euthanasia... instead of talking... I looked; I found it more important to look at what they do with euthanasia than to look at what they do with animals, frankly, and I was therefore taken aback with the sentence I just read to you. What am I supposed to do about that?"
+                },
+                {
+                    "start": 482.405,
+                    "stop": 499.677,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think to refer instead to the expert testimony in this case which says that death is certain to occur, and in addition, that medical testimony in this case that it is certain to occur in a very few minutes. Those are the transcript references that we provided at page 18 of the reply brief."
+                },
+                {
+                    "start": 499.677,
+                    "stop": 502.316,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That method has never been tried, correct."
+                },
+                {
+                    "start": 502.316,
+                    "stop": 507.611,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it has never been tried on humans. That is correct. It is--"
+                },
+                {
+                    "start": 507.611,
+                    "stop": 512.044,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we know whether there are risks of pain accompanying that method?"
+                },
+                {
+                    "start": 512.044,
+                    "stop": 518.794,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I think you do, Mr. Chief Justice, because by definition, barbituates cannot inflict pain and do not inflict pain."
+                },
+                {
+                    "start": 518.794,
+                    "stop": 531.102,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The record establishes that the second drug that's used here is used to prevent involuntary muscle contractions. That would not be... there wouldn't be a safeguard against that under one drug protocol, I take it."
+                },
+                {
+                    "start": 531.102,
+                    "stop": 543.05,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, yes there would, Mr. Chief Justice, because the reality is that thiopental and other barbituates are anti-convulsives. Their point is to... among other things to suppress any involuntary muscle--"
+                },
+                {
+                    "start": 543.05,
+                    "stop": 555.544,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you... do you agree that that is an appropriate problem to be addressed by the execution protocol, that they should try to reduce the likelihood of involuntary muscle contractions?"
+                },
+                {
+                    "start": 555.544,
+                    "stop": 566.509,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, because to the extent that the reason that they are offering to do it, is because of the potential for discomfort that it may cause the audience given the risk that the--"
+                },
+                {
+                    "start": 566.509,
+                    "stop": 575.912,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think that their... one of their reasons was that it would enhance the dignity, not only of the procedure as a whole, but also to the condemned."
+                },
+                {
+                    "start": 575.912,
+                    "stop": 601.574,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I understand that, Mr. Chief Justice, but given the extent to which it increases the risk that there can be ineffective anesthesia, and it can go undetected, it doesn't seem to us to be an argument of sufficient force to justify using it despite that risk particularly when it seems to us that the issue of dignity can be addressed by communication with the audience."
+                },
+                {
+                    "start": 601.574,
+                    "stop": 629.985,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do we do with the... if you prevail here, and the next case is brought by someone subject to the single drug protocol and their claim is: Look this has never been tried. We do know that there's a chance that it would cause muscle contractions that would make my death undignified. It will certainly extend how long it takes to die, so I'm subject to a lingering death and the more humane protocol would be the three drug protocol?"
+                },
+                {
+                    "start": 629.985,
+                    "stop": 664.236,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think with respect to the lingering death point, I think it would, this Court's cases are talking about is the consciousness of lingering death and the torture that that imposes, which you wouldn't have of course in this situation. I don't think there is a credible argument that the use of a barbituate alone could inflict pain. They do not inflict any pain. Now, of course there are possibilities of maladministration, but not maladministration of a one drug protocol that results in any pain, and therefore there is just not a credible Eight Amendment argument. It seems to me that it couldn't be cruel and unusual punishment, because there is no pain."
+                },
+                {
+                    "start": 664.236,
+                    "stop": 698.208,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Verrilli, I think that your main argument in this case, I mean, there's... barbituate only seems to have come up rather late in the day, as Justice Alito pointed out, but your main arguments seem to be that the controls were inadequate. So you were beginning to say what controls would be necessary to render this procedure constitutional, and one that you said... trained personnel to monitor the flow."
+                },
+                {
+                    "start": 698.208,
+                    "stop": 700.221,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The monitor for anesthetic."
+                },
+                {
+                    "start": 700.221,
+                    "stop": 701.219,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 701.219,
+                    "stop": 703.156,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "To ensure that anesthetic depth has been achieved and maintained."
+                },
+                {
+                    "start": 703.156,
+                    "stop": 703.89,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And what is--"
+                },
+                {
+                    "start": 703.89,
+                    "stop": 704.518,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That is correct."
+                },
+                {
+                    "start": 704.518,
+                    "stop": 713.077,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Two questions: Who would the trained personnel be? And, the second question, what would be the measures that they would employ?"
+                },
+                {
+                    "start": 713.077,
+                    "stop": 721.773,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The trained personnel could be a physician, a nurse or anyone trained by them adequately in this process."
+                },
+                {
+                    "start": 721.773,
+                    "stop": 748.609,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what do we do about the point... the point that the doctors or the nurses say it's unethical to help with an execution? I mean, if we are going to talk about the constitutionality of the death penalty per se, that isn't raised in this case. And what the other side says is, well, you're just trying to do this by the back door, insist upon a procedure that can't be used."
+                },
+                {
+                    "start": 748.609,
+                    "stop": 788.774,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think the one point of the one-drug protocol, of course, is to demonstrate that we are not doing that. Beyond that, it seems to me that the State can't have it both ways with respect to the... the issue of the participation of medically trained personnel. On the one hand, they cannot say that we have qualified medically able personnel participating in this process and that's our guarantee of its efficacy, and on the other hand say a requirement of having trained qualified personnel participate is impossible. And they do say that. For example the EMTs that participate in Kentucky are under the same ethical set of issues as doctors are."
+                },
+                {
+                    "start": 788.774,
+                    "stop": 798.648,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you use those EMTs? Would they be qualified? Would the team that inserts the IV, would that team be qualified?"
+                },
+                {
+                    "start": 798.648,
+                    "stop": 805.534,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "With additional training they could be qualified. They aren't qualified by virtue of their training to become EMTs. They would have to be additionally trained."
+                },
+                {
+                    "start": 805.534,
+                    "stop": 840.63,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Verrilli, are we in the difficult position in hearing your answers that, in effect, we're being asked to make findings of fact about the availability of medical personnel and the feasibility of training and so on that the trial court never made because it didn't think it had to make a comparative analysis here, so that if, in fact, the comparative analysis is crucial to the case, we should send the thing back for factfinding by a trial judge rather than trying to do it here. Should we remand if we accept your argument?"
+                },
+                {
+                    "start": 840.63,
+                    "stop": 886.001,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It is true Justice Souter that the trial court did not make factual findings on a whole range of issues with respect to the difficulties of constituting the proper dose, the risk of catheter placement, the risk of blowouts, the risk of mixing up syringes, and the adequacy of the monitoring. And I agree, Your Honor, that it did so because it didn't believe that that was particularly relevant to the issue before it. And that's the... the basis of our disagreement with respect to the legal test. Now, it is... it is our position that the record is sufficiently clear and sufficiently uncontradicted on the key points with particular respect to monitoring that the Court would not have to remand but it certainly would be a reasonable thing to do in view of the deficiencies in the actual findings."
+                },
+                {
+                    "start": 886.001,
+                    "stop": 895.547,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You were interrupted, and you gave Justice Ginsburg... you said you have two problems for monitoring. She asked you who would do this and what measures would they use."
+                },
+                {
+                    "start": 895.547,
+                    "stop": 896.031,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 896.031,
+                    "stop": 897.185,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you were never able to get to the second."
+                },
+                {
+                    "start": 897.185,
+                    "stop": 919.287,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "With respect to the second, it's a combination. They would use the available equipment, EKG and blood pressure cuff which is the standard practice used for monitoring for unconsciousness, but in addition, as the expert testimony in the case established, you have to have close... close visual observation by the trained person."
+                },
+                {
+                    "start": 919.287,
+                    "stop": 927.313,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, as to the cuff, I thought the record was rather clear that it is just not used at these low blood pressure levels."
+                },
+                {
+                    "start": 927.313,
+                    "stop": 942.057,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, I don't think so, Justice Kennedy. There was some question about whether the third device that this monitor is used but the blood... the tracking of blood pressure is a critical way of monitoring for unconsciousness as is the EKG and--"
+                },
+                {
+                    "start": 942.057,
+                    "stop": 969.029,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Verrilli, this is an execution, not surgery. The other side contends that you need to monitor the depth of the unconsciousness. When you expect to bring the person back and do not want harm to occur to the person. But they assert that to know whether the person is unconscious or not all it takes is a slap in the face and shaking the person."
+                },
+                {
+                    "start": 969.029,
+                    "stop": 970.187,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 970.187,
+                    "stop": 973.109,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's their contention."
+                },
+                {
+                    "start": 973.109,
+                    "stop": 996.395,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--There is no slap in the face. There is no shaking the person. There's no testing of that kind whatsoever under the Kentucky protocol. So even under that understanding, which we don't think is correct, that... we don't have that here and that's one of the problems. All there is, is visual observation by an untrained warden and an untrained deputy warden who had testified in this case that they don't know what to look for to determine whether somebody is conscious or unconscious."
+                },
+                {
+                    "start": 996.395,
+                    "stop": 1017.715,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "With regard to the trial court's failure to make findings about the availability of people to do this and about the possibility of... practical possibility of more effective and less painful drugs, was that a failure to ignore evidence that you produced?"
+                },
+                {
+                    "start": 1017.715,
+                    "stop": 1018.839,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. It--"
+                },
+                {
+                    "start": 1018.839,
+                    "stop": 1026.381,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you introduce evidence to show that indeed medically trained personnel were readily available to do the things you say?"
+                },
+                {
+                    "start": 1026.381,
+                    "stop": 1045.998,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I don't think we introduced evidence that medically trained personnel were ready available, but we did introduce evidence about what needed to be done and, of course, as I said, Kentucky like the other states had their ability to bring medically qualified personnel to bear to run this process. And so I do think--"
+                },
+                {
+                    "start": 1045.998,
+                    "stop": 1061.304,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm very reluctant to send it back to the trial court so we can have a nationwide cessation of all executions while the trial court finishes its work and then it goes to another appeal to the State supreme court and ultimately, well, it could take years."
+                },
+                {
+                    "start": 1061.304,
+                    "stop": 1063.601,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I understand that, Your Honor, and that's why I suggest--"
+                },
+                {
+                    "start": 1063.601,
+                    "stop": 1064.397,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You wouldn't want that to happen."
+                },
+                {
+                    "start": 1064.397,
+                    "stop": 1075.268,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That's why I suggested that there is... that this case can be decided on the basis of the record here because the undisputed expert testimony on these key issues shows the deficiencies in the protocol."
+                },
+                {
+                    "start": 1075.268,
+                    "stop": 1076.922,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you another question?"
+                },
+                {
+                    "start": 1076.922,
+                    "stop": 1077.718,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1077.718,
+                    "stop": 1108.784,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask another question about the state of the evidence. It really goes to an understanding of your position that was discussed a little bit earlier about the preferability of simply barbiturate dose as opposed to the three-drug combination. You said a moment ago that the evidence was... and I think it was undisputed evidence... that three grams of the barbiturate actually used would be sufficient to cause death; is that correct."
+                },
+                {
+                    "start": 1108.784,
+                    "stop": 1109.408,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 1109.408,
+                    "stop": 1110.656,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that was undisputed?"
+                },
+                {
+                    "start": 1110.656,
+                    "stop": 1114.641,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Each side's expert testified to precisely the same thing."
+                },
+                {
+                    "start": 1114.641,
+                    "stop": 1115.25,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1115.25,
+                    "stop": 1117,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Three grams was certain to cause death."
+                },
+                {
+                    "start": 1117,
+                    "stop": 1128.887,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that if the current three-gram dosage were used and the second and third drugs were not administered, death would occur based on the undisputed evidence in this case."
+                },
+                {
+                    "start": 1128.887,
+                    "stop": 1130.291,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The record establishes that death is certain."
+                },
+                {
+                    "start": 1130.291,
+                    "stop": 1149.3,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Secondly, my understanding, my recollection, is that in a couple of places in your brief, one at least, you referred to the preferability of administering a, and I think the term was, massive dose of barbiturate, which I took to mean more than the three grams. Is that what you meant?"
+                },
+                {
+                    "start": 1149.3,
+                    "stop": 1151.906,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No. Three grams is a massive dose."
+                },
+                {
+                    "start": 1151.906,
+                    "stop": 1153.048,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That is the massive dose."
+                },
+                {
+                    "start": 1153.048,
+                    "stop": 1161.588,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "But if one had any doubt about the certainty of the effect of causing death, one could always just increase the dose. But the record here is that three grams--"
+                },
+                {
+                    "start": 1161.588,
+                    "stop": 1186.081,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any evidence in the record about what the enhanced dose would appropriately be if you decided or if a protocol author decided that there would be no chance whatsoever that death would not occur, and the amount should be greater than three grams? Was there any evidence in the record about how much there ought to be if you were going to go above three grams?"
+                },
+                {
+                    "start": 1186.081,
+                    "stop": 1193.794,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I'm not sure there's anything in the record, Your Honor. There is discussion in the amicus briefs about some other jurisdictions that have gone as high as five grams."
+                },
+                {
+                    "start": 1193.794,
+                    "stop": 1196.294,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the government has told us they do."
+                },
+                {
+                    "start": 1196.294,
+                    "stop": 1196.949,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1196.949,
+                    "stop": 1197.841,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the Federal response."
+                },
+                {
+                    "start": 1197.841,
+                    "stop": 1216.895,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have objections that would apply even to your single drug protocol. You tell us that one reason this challenged protocol doesn't work is because people will mix the drugs in the wrong way, including the sodium pentathol. That objection would still be there if we adopted your alternative, wouldn't it?"
+                },
+                {
+                    "start": 1216.895,
+                    "stop": 1222.627,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Mr. Chief Justice, because, as I've tried to say earlier, even if there is maladministration--"
+                },
+                {
+                    "start": 1222.627,
+                    "stop": 1233.686,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm focusing specifically on the mixing of the drugs. The mixing of the sodium pentathol would be undertaken under the Kentucky procedure and under your proposed alternative, correct?"
+                },
+                {
+                    "start": 1233.686,
+                    "stop": 1251.803,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That's correct. But the difference is if there's an error at that stage in the process and the execution proceeds, there may be a problem that needs to be fixed, but it will not be a problem that causes any pain, and that's the critical difference because if it doesn't cause pain it can't be a cruel and unusual punishment."
+                },
+                {
+                    "start": 1251.803,
+                    "stop": 1295.786,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We have been discussing this as though that is a constitutional requirement. Where does that come from, that you must find the method of execution that causes the least pain? We have approved electrocution, we have approved death by firing squad. I expect both of those have more possibilities of painful death than the protocol here. Where does this come from that in the, in the execution of a person who has been convicted of killing people we must choose the least painful method possible? Is that somewhere in our Constitution."
+                },
+                {
+                    "start": 1295.786,
+                    "stop": 1320.633,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We don't make the argument that States are required to choose the least painful method possible. Our standard is grounded on three, I think, extremely solid, well-established points of Eighth Amendment doctrine. The first one is this: The core concern of the Eighth Amendment at the time of its founding, of course, was precisely the question of whether the carrying out of death sentences would inflict torturous deaths. So we're at the core of the historical concern."
+                },
+                {
+                    "start": 1320.633,
+                    "stop": 1345.391,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I don't agree with that. The concern was with torture, which is the intentional infliction of pain. Now, these States, the three-quarters of the States that have the death penalty, all except one of whom use this method of execution, they haven't set out to inflict pain. To the contrary, they have introduced it presumably because they, indeed, think it's a more humane way, although not one that is free of all risk."
+                },
+                {
+                    "start": 1345.391,
+                    "stop": 1358.681,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's the second principle, Your Honor, is that this Court's cases, including the ones that Your Honor averted to, have said that the standard is whether the means of execution inflicts unnecessary pain."
+                },
+                {
+                    "start": 1358.681,
+                    "stop": 1359.321,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No--"
+                },
+                {
+                    "start": 1359.321,
+                    "stop": 1359.867,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And--"
+                },
+                {
+                    "start": 1359.867,
+                    "stop": 1365.333,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Unnecessary and wanton, unnecessary and wanton infliction of pain."
+                },
+                {
+                    "start": 1365.333,
+                    "stop": 1373.816,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, the... with all due respect, Wilkerson and Kemmler say \"unnecessary pain\". Resweber says \"unnecessary pain and\"--"
+                },
+                {
+                    "start": 1373.816,
+                    "stop": 1379.142,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then, you're changing your position. You said... you just said earlier that we didn't have to find the least painful way."
+                },
+                {
+                    "start": 1379.142,
+                    "stop": 1380.877,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, that's correct, because--"
+                },
+                {
+                    "start": 1380.877,
+                    "stop": 1384.702,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if you're not using the least painful way, you are inflicting unnecessary pain, aren't you?"
+                },
+                {
+                    "start": 1384.702,
+                    "stop": 1386.34,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 1386.34,
+                    "stop": 1387.638,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you rectify that?"
+                },
+                {
+                    "start": 1387.638,
+                    "stop": 1402.351,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, because, Justice Scalia, our position is that the pain that is inflicted here when this goes wrong is torturous, excruciating pain under any definition. We're not talking about a slight increment different. We're talking about the infliction of torturous pain."
+                },
+                {
+                    "start": 1402.351,
+                    "stop": 1411.348,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't your position that every form of execution that has ever been used in the United States, if it were to be used today, would violate the Eighth Amendment?"
+                },
+                {
+                    "start": 1411.348,
+                    "stop": 1412.066,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 1412.066,
+                    "stop": 1417.935,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, which form that's been used at some time in an execution would not violate?"
+                },
+                {
+                    "start": 1417.935,
+                    "stop": 1425.028,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We would have to suggest it to the test that we are advocating, which it would... whether there is a risk of torturous pain."
+                },
+                {
+                    "start": 1425.028,
+                    "stop": 1426.857,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Hanging certainly would, right?"
+                },
+                {
+                    "start": 1426.857,
+                    "stop": 1429.431,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it would have to be subjected to the test."
+                },
+                {
+                    "start": 1429.431,
+                    "stop": 1439.756,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that a hard question? Is that a hard question, whether hanging would, whether you had experts who understood the dropweight, you know, that was enough that it would break the neck?"
+                },
+                {
+                    "start": 1439.756,
+                    "stop": 1447.879,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If there is a risk of torturous pain and if there are readily available alternatives that could obviate the risk, then any significant risk--"
+                },
+                {
+                    "start": 1447.879,
+                    "stop": 1449.471,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Hanging's no good. What about electrocution?"
+                },
+                {
+                    "start": 1449.471,
+                    "stop": 1460.108,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, it would depend. The argument about electrocution, Justice Scalia, is whether or not it is painless, and that was its point when it was enacted, that it would be a painless form of death."
+                },
+                {
+                    "start": 1460.108,
+                    "stop": 1461.778,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It has to be, it has to be painless?"
+                },
+                {
+                    "start": 1461.778,
+                    "stop": 1474.259,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "It does not, but that was its point, and I think one would have to subject it to the test to see whether it inflicts severe pain that is readily avoidable by an alternative."
+                },
+                {
+                    "start": 1474.259,
+                    "stop": 1486.036,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have no doubt that the three judge protocol that Kentucky is using violates the Eighth Amendment, but you really cannot express a judgment about any of the other methods that has ever been used?"
+                },
+                {
+                    "start": 1486.036,
+                    "stop": 1509.336,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, electrocution may well. But it would depend again, Your Honor. If it could be established that it was painless, that there wasn't a risk that it could go wrong in a way that inflicts excruciating pain then it would be upheld. If it couldn't, it wouldn't. That does seem a serious question. Obviously, the Court granted certiorari to consider it a few terms ago. But that would be the test, the mode of analysis here, and I--"
+                },
+                {
+                    "start": 1509.336,
+                    "stop": 1518.772,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I would think you'd have to show it's unusual, not painless. I mean, cruel and unusual is what we're talking about. There's no painless requirement in there."
+                },
+                {
+                    "start": 1518.772,
+                    "stop": 1522.566,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--There is an unnecessary pain requirement. There is also, Justice Scalia--"
+                },
+                {
+                    "start": 1522.566,
+                    "stop": 1525.534,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where does this unnecessary pain requirement come from?"
+                },
+                {
+                    "start": 1525.534,
+                    "stop": 1526.392,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--From this Court's cases."
+                },
+                {
+                    "start": 1526.392,
+                    "stop": 1528.111,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Dictum in our cases, right?"
+                },
+                {
+                    "start": 1528.111,
+                    "stop": 1530.28,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, it comes from this Court's cases."
+                },
+                {
+                    "start": 1530.28,
+                    "stop": 1531.828,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Dictum in our cases."
+                },
+                {
+                    "start": 1531.828,
+                    "stop": 1598.942,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it seems to me it's more than that. And Pinetti is one case that shows it, because there's a case in which the Eighth Amendment forbid the execution of a person who was insane at the time of execution. In that situation there is no intent on the part of the people carrying out the execution to inflict cruel and unusual punishment. This Court didn't require intent in Pinetti. In fact, it said something quite different, really the polar opposite. It said that the States have to have in place procedures to ensure that there wasn't an arbitrary infliction of the death penalty in that circumstance, without any requirement of intent. The Gregg-Woodson-Lockett cases don't have a requirement of intent, and the Kemmler and Wilkinson cases don't have a requirement of intent in them either. With respect to the \"unusual\" character of it, just drawing from the dictionary definitions that Your Honor posed in the Harmline case, this is unusual in precisely that way in that it is, if Your Honor will just bear me, it is such that does not occur in ordinary practice. So I do think it's unusual in that sense. And I'd like to reserve the balance of my time if I may."
+                },
+                {
+                    "start": 1598.942,
+                    "stop": 1608.577,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Verrilli. Mr. Englert?"
+                }
+            ],
+            "start": 11.617,
+            "stop": 1624.149
+        },
+        {
+            "turns": [
+                {
+                    "start": 1608.577,
+                    "stop": 1624.149,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: Mr. Verrilli and I agree that if the first drug is properly administered there will be a painless death. It is only if the first drug is not properly administered that there is any possible constitutional argument in this, in this case."
+                },
+                {
+                    "start": 1624.149,
+                    "stop": 1631.694,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But do you also agree with the counter-proposition that if it is not properly administered there is some risk of excruciating pain?"
+                },
+                {
+                    "start": 1631.694,
+                    "stop": 1632.272,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1632.272,
+                    "stop": 1640.502,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And do you agree that if that risk, say, occurred in every case, that it would violate the Eighth Amendment?"
+                },
+                {
+                    "start": 1640.502,
+                    "stop": 1675.724,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. Because the administration of the first drug is so important, it is important to focus on the safeguards Kentucky has in place to make sure that the first drug is properly administered. Contrary to what Mr. Verrilli has suggested, Kentucky has excellent safeguards in place. Let me start with who, who puts in the IV line, which is the most critical step of the process. Kentucky uses what is probably literally the best qualified human being in the Commonwealth of Kentucky to place the IV line. It uses a phlebotomist who in her daily job works with the prison population. The problems the prison population--"
+                },
+                {
+                    "start": 1675.724,
+                    "stop": 1682.205,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I take it this is obvious, but I wondered when I went through the brief. I assume this phlebotomist is not an MD?"
+                },
+                {
+                    "start": 1682.205,
+                    "stop": 1684.47,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Correct."
+                },
+                {
+                    "start": 1684.47,
+                    "stop": 1690.093,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the training? I mean, \"phlebotomist\" is somebody who works with veins, I take it."
+                },
+                {
+                    "start": 1690.093,
+                    "stop": 1715.051,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The training is a certain amount of learning followed by on-the-job experience. This person places 30 needles a day in the prison population and at page 273 of the joint appendix it points out that she works in her daily job with the prison population. So what she is used to from many years of working with the prison population is the kind of problems of compromised veins we have in the inmate population specifically."
+                },
+                {
+                    "start": 1715.051,
+                    "stop": 1721.5,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it's somebody like the Red Cross worker who puts in the needle when somebody donates blood."
+                },
+                {
+                    "start": 1721.5,
+                    "stop": 1744.289,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor. It's someone like the person who inserts an IV in a hospital. The experts in this case all agreed that in a hospital setting IVs are not inserted by medical doctors, they are inserted by phlebotomists. That's what they do. They teach medical residents how to insert IVs because doctors in training don't know how to do this. And it's what's somewhat derisively referred to as scut work in the hospital setting."
+                },
+                {
+                    "start": 1744.289,
+                    "stop": 1773.652,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Englert, I thought that there wasn't a serious question about who inserts the IV, that those are trained people, but the point that was highlighted was that the people who control the flow into the IV connection, that those people have no training, the ones that are called executioners, the ones who operate the, what is it, the syringe."
+                },
+                {
+                    "start": 1773.652,
+                    "stop": 1824.443,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Your Honor, Kentucky has safeguards in place to make sure that the inmate is asleep before the second and third drugs are given. Now, with respect to those people's training, it's not accurate that they have no training. Kentucky has had one execution since 1998, since it adopted lethal injection, one execution altogether by lethal injection. It's had 100 practice sessions. Kentucky requires monthly practice sessions every month by the execution team because it is very concerned to get it right. Now, with respect to pushing the IV, those are people whose training is participation in the practice sessions, but to make sure that the first drug has had its intended effect, the warden and the deputy warden are in the execution chamber. They are literally right on top of the inmate. It's suggested in the briefs that they're feet away. That's not accurate. The record reflects they are inches away."
+                },
+                {
+                    "start": 1824.443,
+                    "stop": 1851.602,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they also are not trained people. I think what seems puzzling to me is the State has made an effort to make sure that the people on the team that inserts the IV, that those are well-trained professional people, but then apparently they leave the room, so that once the IV is inserted there is no professional person that has any further part."
+                },
+                {
+                    "start": 1851.602,
+                    "stop": 1958.856,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's... to say they leave the room is accurate, but the suggestion that they have no further part is misleading. They go into the next room. They watch through a one-way mirror, carefully watching to make sure nothing has gone wrong. They're in close proximity to the inmate and they are watching now with respect to the warden and deputy warden it's been suggested they don't know what to look for. That's false. The record shows otherwise. The main problem in the executions that have gone wrong the main problem is an IV goes into tissue instead of the vein. If that happens, Dr. Dershowitz testified, pages 600 to 601 of the joint appendix the inmate would be awake and screaming. The warden and the deputy warden know how to tell the difference between someone whose eye haves closed and who seems to have gone to sleep and someone who is awake and screaming. It's not just Dr. Dershowitz, it's Dr. Haas and Dr. Highland, pages 353 and 386 of the joint appendix also testified that this would be clear. Now, Mr. Verrilli says use a blood pressure monitor as a safeguard. Justice Kennedy said doesn't the record show that that's not of any use at very low blood pressures, and Justice Kennedy is exactly correct, at page 578 of the joint appendix. Dr. Dershowitz testified that the blood pressure cuff simply would have no usefulness in monitoring at this level of introduction of the barbituate. Mr. Verrilli has mentioned the one drug protocol at some length this morning and has said it is certain to cause death if three grams of sodium thiopental are administered. His expert, Dr. Heath, page 499 of the joint appendix, was asked let's assume that you don't take any other measures and gave a three-gram dose of sodium thiopental, what would you expect to happen? I would expect the blood pressure to drop. Would that kill them? No, I wouldn't expect it to cause death."
+                },
+                {
+                    "start": 1958.856,
+                    "stop": 1964.901,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but isn't it clear that a five gram administration of that drug would be fatal?"
+                },
+                {
+                    "start": 1964.901,
+                    "stop": 1967.179,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, Your Honor. There is nothing in this record--"
+                },
+                {
+                    "start": 1967.179,
+                    "stop": 1975.114,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not in the record, but it's in this document that we received the last few days, this long deposition of Dr. Dershowitz."
+                },
+                {
+                    "start": 1975.114,
+                    "stop": 1989.982,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Justice Stevens, let me be very precise in this answer, if I can. What is clear is that a rapidly administered three or five gram dose of a barbituate would cause death in normal circumstances."
+                },
+                {
+                    "start": 1989.982,
+                    "stop": 1993.589,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if it doesn't, if you just administered more of the drug, then what?"
+                },
+                {
+                    "start": 1993.589,
+                    "stop": 1997.68,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's problematic actually. This is all way outside the record."
+                },
+                {
+                    "start": 1997.68,
+                    "stop": 1998.475,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand."
+                },
+                {
+                    "start": 1998.475,
+                    "stop": 2007.846,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "My understanding is that the human body can't take more than a certain amount of the barbituates, so it actually becomes problematic to go past five grams, which is why nobody comes goes higher than five grams."
+                },
+                {
+                    "start": 2007.846,
+                    "stop": 2014.393,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you contend that the second drug in the three-drug protocol is necessary in order to make the execution effective?"
+                },
+                {
+                    "start": 2014.393,
+                    "stop": 2015.922,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, not effective."
+                },
+                {
+                    "start": 2015.922,
+                    "stop": 2018.718,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Particularly the one that the Chief Justice described."
+                },
+                {
+                    "start": 2018.718,
+                    "stop": 2019.389,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 2019.389,
+                    "stop": 2024.106,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't want to have unpleasant appearance of death at the time."
+                },
+                {
+                    "start": 2024.106,
+                    "stop": 2026.747,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, it's more than unpleasant appearance of death, Your Honor."
+                },
+                {
+                    "start": 2026.747,
+                    "stop": 2035.322,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What is the justification for the second drug when it does, that is the drug that creates the risk of excruciating pain?"
+                },
+                {
+                    "start": 2035.322,
+                    "stop": 2041.054,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's the drug that creates the risk of excruciating if and only if the first drug is improperly administered."
+                },
+                {
+                    "start": 2041.054,
+                    "stop": 2041.85,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. I understand that."
+                },
+                {
+                    "start": 2041.85,
+                    "stop": 2055.543,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And the justification is many safeguards are in place to make sure the first drug is properly administered so it doesn't create any real risk. And second, it does bring about a more dignified death, dignified for the inmate, dignified for the witnesses. It's not just--"
+                },
+                {
+                    "start": 2055.543,
+                    "stop": 2059.308,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The dignity of the process outweighs the risk of excruciating pain?"
+                },
+                {
+                    "start": 2059.308,
+                    "stop": 2061.105,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, Your Honor. No."
+                },
+                {
+                    "start": 2061.105,
+                    "stop": 2067.071,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But then the risk of excruciating pain outweigh the risk of an undignified death?"
+                },
+                {
+                    "start": 2067.071,
+                    "stop": 2073.927,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "A substantial risk of excruciating pain, a substantial risk of excruciating pain--"
+                },
+                {
+                    "start": 2073.927,
+                    "stop": 2085.11,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even a minimal risk. Everyone who goes through the process knows there is some risk of excruciating pain that could be avoided by a single-drug protocol. Would he prefer to say, I want to die in a dignified way?"
+                },
+                {
+                    "start": 2085.11,
+                    "stop": 2100.573,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Your Honor, if I may answer your question a little bit indirectly. That risk cannot be... the risk of pain can be avoided by single drug protocol, but there's not a certain death with one drug protocol. It's also a very... it takes a very long time to die with one drug protocol."
+                },
+                {
+                    "start": 2100.573,
+                    "stop": 2102.928,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what's \"very long? \" \"10 minutes? \""
+                },
+                {
+                    "start": 2102.928,
+                    "stop": 2107.818,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Again, your Honor, this is way outside the record. What Dr. Dershowitz--"
+                },
+                {
+                    "start": 2107.818,
+                    "stop": 2113.036,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They use a single drug protocol for animals because it's more humane than the three drug protocol."
+                },
+                {
+                    "start": 2113.036,
+                    "stop": 2128.058,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--No, no. They use a single drug with animals because that is the tradition the American Veterinary Medical Association has come up with, using somewhat different considerations. That's what they've come up with--"
+                },
+                {
+                    "start": 2128.058,
+                    "stop": 2128.948,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't it required by Kentucky law?"
+                },
+                {
+                    "start": 2128.948,
+                    "stop": 2136.664,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The use of pancuronium bromide or any neuromuscular blocking agent, any paralytic, is barred by Kentucky law--"
+                },
+                {
+                    "start": 2136.664,
+                    "stop": 2141.865,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, so something more is involved than merely veterinary practice."
+                },
+                {
+                    "start": 2141.865,
+                    "stop": 2155.998,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--In the veterinary setting someone, some appropriate policymaker has made the decision that what they perceive as risks outweigh the benefits."
+                },
+                {
+                    "start": 2155.998,
+                    "stop": 2165.807,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right. But in the setting of Kentucky law the legislature of Kentucky has said we are going to make this a legal requirement and I assume they had some reason for it other than the fact that vets do it that way."
+                },
+                {
+                    "start": 2165.807,
+                    "stop": 2166.509,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2166.509,
+                    "stop": 2173.1,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Does the Kentucky law do anything other than adopt the AVMA guidelines."
+                },
+                {
+                    "start": 2173.1,
+                    "stop": 2185.204,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--All the Kentucky law does is forbid the use of a neuro muscular blocking agent euthanizing animals and that's there is no record of this but presumably that's because veterinarians told the state legislature that was a good idea."
+                },
+                {
+                    "start": 2185.204,
+                    "stop": 2225.782,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why was that necessary to pass a law if the standard veterinary practice was not to use T I'm obviously trying to get to what evidence we have here for a finding somewhere that we can take into consideration that there is a comparative benefit under the, under the veterinary practice as distinct from the protocol which has been devised so isn't it reasonable to suppose that the Kentucky legislature needs some kind of a finding came to some kind of a conclusion that in fact there was/SEUG deleterious about using the second drug."
+                },
+                {
+                    "start": 2225.782,
+                    "stop": 2226.796,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That much is reasonable."
+                },
+                {
+                    "start": 2226.796,
+                    "stop": 2227.654,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 2227.654,
+                    "stop": 2251.395,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "What's deleterious about using the second drug we all agree is if the first drug is maladministered it can cause pain. If the first drug is not maladministered no pain, no pain in humans, no pain in animals, the judgment was made weighing the costs and benefits in the veterinary context not to use the second drug, the judgment has been made by everyone who has looked at this in the death penalty context to use the second drug."
+                },
+                {
+                    "start": 2251.395,
+                    "stop": 2283.398,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The only cost correct me if I'm wrong but the only cost that you have identified in using the one drug only are number one, the appearance cost which you equated with dignity in your response to Justice Stevens and number two, the possibility and I don't know how strong a possibility but the possibility that the one drug would not work. Is there any other cost? In using one drug."
+                },
+                {
+                    "start": 2283.398,
+                    "stop": 2285.254,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes. The length of time it takes to die."
+                },
+                {
+                    "start": 2285.254,
+                    "stop": 2294.675,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I take it you don't have a figure for that, Justice Stevens said 10 minutes and I don't think you had a clear answer one way or the other as to whether there was likely to be more."
+                },
+                {
+                    "start": 2294.675,
+                    "stop": 2304.607,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "If you go outside the record of this case in which the record wasn't allowed go into the Harbison record the logic I believe Dr. Dershowitz testified he would expect it to take 30 minutes."
+                },
+                {
+                    "start": 2304.607,
+                    "stop": 2315.853,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And 30 minutes is against some risk of excruciating pain is, that in effect is it reasonable to say 30 minutes is too long."
+                },
+                {
+                    "start": 2315.853,
+                    "stop": 2322.147,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Depends on how large the risk of excruciating pain is here there is very little evidence risk of excruciating pain."
+                },
+                {
+                    "start": 2322.147,
+                    "stop": 2325.739,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is your point that there is simply no quantification of what that risk is."
+                },
+                {
+                    "start": 2325.739,
+                    "stop": 2329.033,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No. That is one of my points but that's not my whole point Justice Souter."
+                },
+                {
+                    "start": 2329.033,
+                    "stop": 2329.782,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay what's your."
+                },
+                {
+                    "start": 2329.782,
+                    "stop": 2389.703,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Take a look at speaking rhetorically, one can take a look at the list of so-called botched executions in this country, the appendix to Professor xxxx law review article, the death penalty information center website. The so-called botched executions aren't executions in which there was pain. They are executions in which in the overwhelming majority one of three things happened. It took a long time to find a vein and that's the only reason they say it was botched or the inmate showed muscle movements the exact same thing the pancuronium bromide prevents and with no evidence whatsoever that there was any pain accompanying those muscle movements the advocates on the other side suggest those are botched executions or somebody made a human error and didn't get the vein properly. Those are the cases like the Clark execution in Ohio where the man said \"It's not working\". You don't need medical training to tell when the guy says it's not working that it hasn't gone into the vein."
+                },
+                {
+                    "start": 2389.703,
+                    "stop": 2400.743,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the nub of your argument really is they have not made a case or they do not have a record case for any significant likelihood of excruciating pain."
+                },
+                {
+                    "start": 2400.743,
+                    "stop": 2441.13,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct. Beyond the absolute bare minimum likelihood that is inherent in any process that involves human beings. They argue the mixing of the drugs is a problem. There is a finding of fact to the contrary by the district court well supported by evidence. They argue that the placing of the IVs is a problem Kentucky really doesn't have the best qualified person in the state to place the IVs, they argue that there is a risk because the people watching don't know what to look for. All they need to look for is swelling, whether the person is awake, that's noticeable to a lay observer. They argue that the personnel monitoring the execution are not sufficiently close which is false. The warden is inches away. That's the testimony--"
+                },
+                {
+                    "start": 2441.13,
+                    "stop": 2465.716,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's still unclear why they should make such an effort to get trained personnel in the first instance and then even if they are in the next room, why isn't, why did they deliberately pick nonprofessional people to both administer the drugs and to check the inmate for consciousness."
+                },
+                {
+                    "start": 2465.716,
+                    "stop": 2467.416,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--There are reasons for that Justice Ginsburg."
+                },
+                {
+                    "start": 2467.416,
+                    "stop": 2468.559,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What are the reasons."
+                },
+                {
+                    "start": 2468.559,
+                    "stop": 2483.583,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Okay. To administer the drugs the only trained personnel, the only so-called trained personnel are the people who are barred by the AMA ethics requirements and by Kentucky law from administering the drugs. Doctors and nurses. As to--"
+                },
+                {
+                    "start": 2483.583,
+                    "stop": 2492.767,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But have you that expert team and it seems that they would be preferable to executioners who have no professional qualifications."
+                },
+                {
+                    "start": 2492.767,
+                    "stop": 2499.108,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--The expert team the people who have had 100 practice sessions since the last execution are the people who administer the drugs."
+                },
+                {
+                    "start": 2499.108,
+                    "stop": 2504.727,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean the people who administer the... who place the IV lines."
+                },
+                {
+                    "start": 2504.727,
+                    "stop": 2513.163,
+                    "speaker": {
+                        "name": "Donald B. Verrilli, Jr.",
+                        "ID": 21656,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "They have... they have zero expertise in pushing drugs. They have expertise in placing the line. They have expertise in finding a vein. They have no more experience pushing drugs than the person who pushes the drugs."
+                },
+                {
+                    "start": 2513.163,
+                    "stop": 2527.125,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Englert, can I ask you a rather basic question? Do you think the constitutionality of the three-drug protocol itself is at issue in this case or merely the question whether Kentucky has done an adequate job of using that protocol?"
+                },
+                {
+                    "start": 2527.125,
+                    "stop": 2532.421,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, I think what's properly before the Court is only the latter question. But obviously--"
+                },
+                {
+                    "start": 2532.421,
+                    "stop": 2552.664,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if we just decide this on the ground... and the record is very persuasive in your favor, I have to acknowledge... but if we decide the fact that Kentucky is doing an adequate job of administering this protocol, that would leave open the question whether the basic use of this second drug, which does nothing but avoid unpleasantness of the visitors, is itself constitutional?"
+                },
+                {
+                    "start": 2552.664,
+                    "stop": 2553.382,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 2553.382,
+                    "stop": 2555.974,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we have to wait for another case to decide that rule?"
+                },
+                {
+                    "start": 2555.974,
+                    "stop": 2563.141,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--I... the Court could write an opinion either way, obviously. There is a good reason to hold that the use of the second drug is permissible."
+                },
+                {
+                    "start": 2563.141,
+                    "stop": 2585.104,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because I... to be very honest with you, I think that you're... you make a very strong case on the administration in Kentucky on the record in this case, but I'm terribly troubled by the fact that the second drug is what seems to cause all the risk of excruciating pain, and seems to be almost totally unnecessary in terms of any rational basis for a requirement."
+                },
+                {
+                    "start": 2585.104,
+                    "stop": 2585.603,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, Your Honor--"
+                },
+                {
+                    "start": 2585.603,
+                    "stop": 2587.432,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that we're not going to be able to decide today."
+                },
+                {
+                    "start": 2587.432,
+                    "stop": 2594.365,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Petitioner's own brief acknowledges that the three-drug protocol can be applied constitutionally. Judge Fogel in the Morales case... California--"
+                },
+                {
+                    "start": 2594.365,
+                    "stop": 2602.656,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It may have been in this very case, it may be. But that leaves often a whole other area of litigation, is what troubles me."
+                },
+                {
+                    "start": 2602.656,
+                    "stop": 2610.529,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Every State that has publicly said what it uses, uses the three-drug protocol. It would be very strange to hold that that is cruel and unusual punishment."
+                },
+                {
+                    "start": 2610.529,
+                    "stop": 2613.571,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But no legislature has ever required it, as I understand it."
+                },
+                {
+                    "start": 2613.571,
+                    "stop": 2615.29,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "No, no. 14 legislatures have required it."
+                },
+                {
+                    "start": 2615.29,
+                    "stop": 2616.604,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The three-drug protocol?"
+                },
+                {
+                    "start": 2616.604,
+                    "stop": 2671.251,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "The three-drug protocol. Justice Ginsburg, back to your question. There is a reason why the IV team members leave the room. The curtains are opened after the IVs are placed, and the people in the room can be seen by the victim's families, by the inmate's families and by the media. Protecting the anonymity of members of the execution team is extremely important. They are subject to all kinds of pressures if their anonymity is not protected. So instead of staying in the room, they go again behind a one-way mirror in an adjacent room where they have an extremely good line of sight to the IVs. This is actually covered in the trial record in this case, that they do have a good line of sight. And it's not... nothing really changes because they go into another room. Pages 210 and 286 to 287 of the joint appendix is where there is testimony that the people in the adjacent room do have a good view of the IV line."
+                },
+                {
+                    "start": 2671.251,
+                    "stop": 2674.905,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And the executioners are also not visible to the public?"
+                },
+                {
+                    "start": 2674.905,
+                    "stop": 2675.591,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 2675.591,
+                    "stop": 2684.884,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There was a finding that the second drug serves no therapeutic purpose."
+                },
+                {
+                    "start": 2684.884,
+                    "stop": 2685.855,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 2685.855,
+                    "stop": 2686.526,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's--"
+                },
+                {
+                    "start": 2686.526,
+                    "stop": 2735.318,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We don't quarrel with that. The purpose it serves is the purpose of dignifying the process for the benefit of the inmate and for the benefit of the witnesses. The Chief Justice said, isn't there going to be litigation against another protocol as soon as it's adopted, and yes, Mr. Verrilli will say that's silly, to protect the dignity of the inmate, that argument will fail. But the history of death penalty litigation suggests that the next advocate who comes along representing an inmate will say, the one drug protocol is no good because it doesn't do enough to protect the dignity, or the two drug protocol is no good because it doesn't do enough to protect dignity. With respect to the time it takes to carry out an execution and whether that's a legitimate consideration, I actually invite the Court's attention to one of the briefs, amicus briefs, filed in support of Petitioners, the Human Rights Watch brief, which in turn cites the decision of the UN Human Rights Committee in the NG case."
+                },
+                {
+                    "start": 2735.318,
+                    "stop": 2745.424,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if we held that that justification was insufficient to justify this protocol, it's hardly likely we would hold that it's so serious and make the whole procedure unconstitutional."
+                },
+                {
+                    "start": 2745.424,
+                    "stop": 2747.97,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I'm not sure I follow the question."
+                },
+                {
+                    "start": 2747.97,
+                    "stop": 2755.824,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The interest in protecting the dignity of the inmate and of the observers is the justification for the second drug."
+                },
+                {
+                    "start": 2755.824,
+                    "stop": 2756.479,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2756.479,
+                    "stop": 2768.381,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we held that that... that that justification is insufficient to justify the protocol, how could we ever hold that that justification is so serious as to make the whole procedure unconstitutional."
+                },
+                {
+                    "start": 2768.381,
+                    "stop": 2783.203,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I'll tell you frankly how you could hold that. What will happen in the next case is they will say: This issue wasn't raised in the trial court in Kentucky, therefore the Supreme Court decided this case on an inadequate factual record, and therefore the Court should take a new look at it because life and death are at stake."
+                },
+                {
+                    "start": 2783.203,
+                    "stop": 2789.079,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And presumably it would depend upon whatever new alternative the plaintiff in that case proposed."
+                },
+                {
+                    "start": 2789.079,
+                    "stop": 2810.554,
+                    "speaker": {
+                        "name": "Roy T. Englert, Jr.",
+                        "ID": 39134,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Correct. If the standard is truly eliminating all unnecessary risk of pain than anything that is not the single optimal standard is unconstitutional, and the States cannot do what they have done for the last 220 years, which is to use different protocols at different times and work to improve their protocols. Thank you."
+                },
+                {
+                    "start": 2810.554,
+                    "stop": 2819.097,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Englert. Mr. Garre?"
+                }
+            ],
+            "start": 1608.577,
+            "stop": 2889.85
+        },
+        {
+            "turns": [
+                {
+                    "start": 2819.097,
+                    "stop": 2889.85,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: Petitioners ask this Court to invalidate a method of execution that everyone agrees is entirely pain free when followed and to order the State of Kentucky to adopt a method that has never been used in any execution and is out of step with the laws and practice in every death penalty jurisdiction in the United States. The proposed constitutional standard that Petitioners say requires this extraordinary result has several fundamental flaws. First, it is at odds with this Court's precedence establishing a substantial risk threshold for claims of future injury in the Eighth Amendment context and this Court's cases holding that the added anguish caused by the negligent, accidental or inadvertent infliction of pain is not the unnecessary infliction of pain prescribed by the Eighth Amendment. Justice Marshall wrote that for the Court in the Estelle v. Gamble opinion on page 105, and this Court has reiterated the principle that negligent, accidental or inadvertent infliction of pain, however strong or anguishing, is not proscribed by the Eighth Amendment."
+                },
+                {
+                    "start": 2889.85,
+                    "stop": 2912.495,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What do you say to the response which I think was in the briefs that the substantiality requirement has been derived in the course of conditions of confinement... sort of litigation... and we really should regard execution as sort of a... a separate subject for purposes of coming up with a standard. What do you say to that?"
+                },
+                {
+                    "start": 2912.495,
+                    "stop": 2940.578,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "A few things. We are here today in this Section 1983 action, because this Court and the Hill case and the Nelson case analogized methods of execution claims to conditions of confinement claims insofar as these claims are not directed to the punishment itself, but to the manner in which punishment is implemented or carried out. So this Court itself under the Hill and Nelson case put these types of cases into the conditions of confinement."
+                },
+                {
+                    "start": 2940.578,
+                    "stop": 2957.838,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we did for purposes of making a habeas 1983 distinction, but I... is the distinction supportable when we come down to the question whether there should be a standard specific to execution as opposed to other conditions?"
+                },
+                {
+                    "start": 2957.838,
+                    "stop": 3000.787,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "I don't think it is, Justice Souter. The substantial risk standard that the Court has applied in the Farmer v. Brennan case and the Hiland v. McKinney case... applied to conditions of confinement claims... where inmates faced the risk of an excruciating pain or even death. If the risk... if the standard that the Court applies to someone who is forced to spend... to live with a five pack a day smoker is substantial risk, even though that person faces the risk of developing lung cancer, which everybody would agree is excruciatingingly painful death they're not sure why the Constitution would place any different standard with respect to the types of claims at issue in this case."
+                },
+                {
+                    "start": 3000.787,
+                    "stop": 3018.952,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any comparative element in the substantial risk standard, if it were clearly established, undisputed that there was an alternative method that was much less risky, would there be an Eighth Amendment problem with the State or the Federal government nevertheless persisted in using a method that was inferior?"
+                },
+                {
+                    "start": 3018.952,
+                    "stop": 3026.309,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We think that that could be part of the analysis... that you would look to other feasible available alternatives. Although I would say that--"
+                },
+                {
+                    "start": 3026.309,
+                    "stop": 3028.684,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that's part of the analysis, this never ends."
+                },
+                {
+                    "start": 3028.684,
+                    "stop": 3029.51,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, Justice--"
+                },
+                {
+                    "start": 3029.51,
+                    "stop": 3038.273,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If that's part of the analysis, there will always be some claim that there is some new method that's been devised, and once again executions are stayed throughout the country."
+                },
+                {
+                    "start": 3038.273,
+                    "stop": 3067.32,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--And we agree with that, and that's why we think that Petitioner's standard is wrong. It's going to lead to endless litigation and a regime in which there is no finality. The other point I wanted to make, in response to Justice Alito, is that as a threshold matter, this court case is establishing that you have to show with respect to the method you're challenging, a risk that is more than the risk of negligence or accident in the method that is being carried out. And again, Estelle v. Gamble establishes that, Farmer v. Brennan reiterates that--"
+                },
+                {
+                    "start": 3067.32,
+                    "stop": 3076.66,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're standard is that there has... well, don't let me misphrase it for you, but there have to be other obvious available alternatives."
+                },
+                {
+                    "start": 3076.66,
+                    "stop": 3107.006,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, the way that we've described it, Justice Kennedy, is you that have to show a substantial risk that the method you're challenging would impose a considerably greater degree of pain than other available feasible alternatives. But to get into that kind of comparative inquiry, we do think that you have to get over the first threshold established by this Court's cases... that you're arguing about something other than the accidental or negligent infliction of pain, and we don't think Petitioners in this case have even gotten over that hurdle."
+                },
+                {
+                    "start": 3107.006,
+                    "stop": 3116.517,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So your threshold one is the only safeguard you have against Justice Scalia's concern against endless litigation, or does your threshold two do the same thing."
+                },
+                {
+                    "start": 3116.517,
+                    "stop": 3133.383,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Well, threshold two would as well because once you're into that kind of comparative inquiry you would still have to take a careful look at the feasible other alternative and no one has ever tried the one drug alternative. Justice Breyer you're right we don't know whether it's going to work in practice."
+                },
+                {
+                    "start": 3133.383,
+                    "stop": 3166.103,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Those who oppose capital punishment entirely across the board are quite willing to take a careful look at everything. They are quite willing to take a look at other alternatives. That's the problem we come up with a decision that requires a careful look in every case whenever there is a newly developed method of execution the problem will always be before us and executions will always be impermissible. We agree with those concerns, Justice Scalia, I want to be clear. Our standard is not a least risk--"
+                },
+                {
+                    "start": 3166.103,
+                    "stop": 3226.545,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have to, I mean, I can't, I don't know if \"substantial\" is the right word to capture it. Perhaps the right word is is there a significant risk that can be easily averted and what I'm worried about here is do we or do we not send it back, I'm quite honestly disturbed by the fact that in this Netherlands euthanasia report they both recommend pancuronium and say that the thiopental alone doesn't work not even in grams of three doses in all cases but they think the contrary and if there is uncertainty here should we send it back for consideration of all these things in a more full hearing under a standard that does allow comparisons with other methods not to find a comparison not too fine a comparison but at least a practical comparison."
+                },
+                {
+                    "start": 3226.545,
+                    "stop": 3243.411,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "And the answer is no. First and foremost they had an opportunity to develop the one drug alternative below. They made no effort to present any evidence on that. The record is completely undeveloped and typically this court doesn't allow people to go back and relitigate a case again."
+                },
+                {
+                    "start": 3243.411,
+                    "stop": 3265.872,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes but if we don't do something like that in this case Mr. Garre another case is going to come along and we are going to be right back here a year from now or 18 months from now and wouldn't it be better to get one case litigated thoroughly and get the issue decided rather than simply wait here for another one to wind its way."
+                },
+                {
+                    "start": 3265.872,
+                    "stop": 3274.603,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "We think that this court should decide the issue. We think it should decide it by saying Petitioners have not established a constitutionally significant."
+                },
+                {
+                    "start": 3274.603,
+                    "stop": 3315.586,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sure but if we decide it on this basis the next Petitioner is going to say I'm coming into court with evidence these people did not present and therefore we are going to have a new case and new round of litigation and I think what's disturbing Justice Breyer what's disturbing me and others is we want some kind of a definitive decision here, and it seems to me that the most expeditious way of getting it if comparison analysis is appropriate and I will be candid to say I think it is is to send this case back and say okay do a comparative analysis, make the findings and we will then have a case that will in effect resolve the issue as much as one case can ever do."
+                },
+                {
+                    "start": 3315.586,
+                    "stop": 3353.13,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Let me make two responses to that if I could again we don't think Petitioners have shown anything close to a substantially of risk that would get you into that comparative analysis here and second a virtue in allowing there is a virtue in not going further in this case and allowing the states themselves to continue to assess this matter. The states have continuously reassessed and repeated modifications to their lethal injection protocols three states within the last years have taken major internal reviews of the three drug protocol California Tennessee and Florida they have all concluded that additional safeguards were warranted but that--"
+                },
+                {
+                    "start": 3353.13,
+                    "stop": 3371.985,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You say that substantial, that comparison with other possibilities is not necessary so long as the only risk that is coming is a risk of negligence or improper execution of what, of what the protocol requires right?"
+                },
+                {
+                    "start": 3371.985,
+                    "stop": 3373.451,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--That would be--"
+                },
+                {
+                    "start": 3373.451,
+                    "stop": 3383.511,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You would say that so long, so long as the only risk comes from negligent application of the protocol, no comparison is required?"
+                },
+                {
+                    "start": 3383.511,
+                    "stop": 3384.089,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 3384.089,
+                    "stop": 3397.222,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if we decided that, if we decided that if this protocol is properly executed, it does not create a substantial risk that would be the end of the matter wouldn't it."
+                },
+                {
+                    "start": 3397.222,
+                    "stop": 3398.236,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That would be the end of the matter."
+                },
+                {
+                    "start": 3398.236,
+                    "stop": 3400.018,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And we would not have another case in front of us next year."
+                },
+                {
+                    "start": 3400.018,
+                    "stop": 3413.655,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "That's probably true. There is no shortage of imagination on the death penalty advocates that have brought those kinds of claims but a decision along those lines would go a great way to providing greater clarity and certainly in this area."
+                },
+                {
+                    "start": 3413.655,
+                    "stop": 3420.838,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Garre would you explain to me why the Federal Government has picked five grams instead of three."
+                },
+                {
+                    "start": 3420.838,
+                    "stop": 3422.527,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "May I answer the question."
+                },
+                {
+                    "start": 3422.527,
+                    "stop": 3422.885,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 3422.885,
+                    "stop": 3442.391,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "Yes Your Honor. The Federal Government concluded that that was an appropriate dosage to ensure a deep consciousness among the condemned inmate. Other jurisdictions have picked three grams and I would say that the Federal Government is currently considering whether five or three is the correct dosage. But the Federal Government--"
+                },
+                {
+                    "start": 3442.391,
+                    "stop": 3443.813,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you mean to say unconsciousness."
+                },
+                {
+                    "start": 3443.813,
+                    "stop": 3451.028,
+                    "speaker": {
+                        "name": "Gregory G. Garre",
+                        "ID": 25346,
+                        "role": "advocate",
+                        "side": "inferred"
+                    },
+                    "text": "--Unconsciousness, yes to render the inmate deeply unconscious for a number of hours that's established by the record thank you very much."
+                },
+                {
+                    "start": 3451.028,
+                    "stop": 3455.041,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you Mr. Garre. Mr. Verrilli, you have three minutes remaining."
+                }
+            ],
+            "start": 3455.041,
+            "stop": 3490.604
+        }
+    ]
+}

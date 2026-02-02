@@ -1,0 +1,1771 @@
+{
+    "title": "Woodford v. Garceau",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 11.596,
+                    "stop": 108.855,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: In Lindh versus Murphy, this Court held that chapter 153 was non-retroactive to cases pending at the time of AEDPA's enactment. In the general run of habeas cases, this is determined by the filing date of the application for habeas relief. This case will resolve a split between the five circuits that apply this rule to capital cases and the Ninth Circuit which, instead, looks to the date the pre-application motion for counsel was filed in a capital case. We believe that the five circuits are correct. Neither chapter 153 nor Lindh versus Murphy identifies the commencement event that triggers the application of chapter 153. In light of this, we must determine Congress' intent, and the first place to look is to the express terms of chapter 153 and, of course, AEDPA's purposes to expedite habeas cases and to provide greater deferential review to State... State criminal convictions. Chapter 153 by its terms can only apply to a merits petition. It repeatedly contains express language, such as that contained in 2244(d), which is found at petitioner's appendix 185, which concerns the statute of limitations provisions and provides that the statute of limitations applies to the application for habeas relief. Similarly, the standard of review in 2254(d) at petitioner's appendix 191--"
+                },
+                {
+                    "start": 108.855,
+                    "stop": 112.559,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what do we do about McFarland's approach?"
+                },
+                {
+                    "start": 112.559,
+                    "stop": 157.06,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I believe that... that these are easily reconciled. I believe that it... that there's a... I think the habeas proceedings can be... are unique and can be extended. They can also be divided into... into segments. The first phase is the pre-application phase, which is what McFarland was concerned about. In that case, this Court was concerned about providing, pursuant to 21 U.S.C. 848... concerned about the pre-application grant of counsel to habeas petitioners. But that is entirely separable from the merits proceeding that occurs after the filing of the... of the petition itself which brings the merits before the court."
+                },
+                {
+                    "start": 157.06,
+                    "stop": 162.422,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's the difference between a case and a proceeding. How... how do you get us here under the words of the statute?"
+                },
+                {
+                    "start": 162.422,
+                    "stop": 216.855,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The... actually, the provisions of chapter 153 themselves do not contain the word case. That... we only come to that term at all because in this Court's opinion in Lindh, the Court looked to... created a... viewed the... as being a negative inference from the absence of the pending cases language that appears in the 154 provisions. The 153 provisions do not have that... those... that term in them. Instead, they use the specific express words of an application. They clearly apply to an application. And the case... that's reconcilable because the portion of the case that we're talking about is the merits portion of the... of the case. This Court recognized that there can be multiple cases in a habeas proceeding. In Slack versus McDaniel, the Court recognized that there could be a separate appellate case that--"
+                },
+                {
+                    "start": 216.855,
+                    "stop": 229.372,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How was it treated on the court's docket? I mean, the... something was going on. There was a request for a stay. There was a request for the appointment of counsel. So something was initiated, and what was that something called?"
+                },
+                {
+                    "start": 229.372,
+                    "stop": 236.03,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That would... it could be characterized as... you could use the word case. You could use the word habeas corpus proceeding."
+                },
+                {
+                    "start": 236.03,
+                    "stop": 240.083,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you know how it was in fact? How was it treated on the court's docket?"
+                },
+                {
+                    "start": 240.083,
+                    "stop": 240.627,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It--"
+                },
+                {
+                    "start": 240.627,
+                    "stop": 242.468,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was it given a case name and a file?"
+                },
+                {
+                    "start": 242.468,
+                    "stop": 246.463,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It was... it was certainly given a case name and assigned a case number, undoubtedly, but I do not--"
+                },
+                {
+                    "start": 246.463,
+                    "stop": 249.265,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And would that number indicate that it was a habeas petition?"
+                },
+                {
+                    "start": 249.265,
+                    "stop": 257.815,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm sure it did because our courts in California, the... the district courts have numbers that specify that it's a habeas proceeding."
+                },
+                {
+                    "start": 257.815,
+                    "stop": 261.212,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it was on the docket as a habeas case."
+                },
+                {
+                    "start": 261.212,
+                    "stop": 262.093,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 262.093,
+                    "stop": 262.931,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that's not good enough."
+                },
+                {
+                    "start": 262.931,
+                    "stop": 291.532,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's not determinative. What I'm... my position is, or our position is, is that these... that the habeas proceeding is unique and extended. It includes three phases; includes the pre-application phase, which is the... what McFarland was concerned about. It... it then has the merits application phase that begins with the filing of the application for habeas relief. It then also has the appellate phase."
+                },
+                {
+                    "start": 291.532,
+                    "stop": 298.823,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, McFarland was a totally different statute from AEDPA, was it not? It... it was... it's a totally separate statute."
+                },
+                {
+                    "start": 298.823,
+                    "stop": 299.992,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 299.992,
+                    "stop": 310.609,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And really, what we're trying to interpret here, I take it, is the meaning of some of the language in Lindh. We're... we're not talking about any specific language in... even in AEDPA."
+                },
+                {
+                    "start": 310.609,
+                    "stop": 340.451,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, we're concerned about... Lindh used the phrase that... that there was non-retroactivity of chapter 153 to cases... to cases pending under 153. So the question is, what is the commencement event that we talked about, that... that we're referring to? What... what creates the pending case for purposes of chapter 153? For that, we have to look back to the express terms of the statute. Since 153 can... doesn't apply to the... the pre-application phase--"
+                },
+                {
+                    "start": 340.451,
+                    "stop": 352.519,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... why would we look to the express terms of the statute when Lindh itself didn't rely on any express terms of this statute? Why wouldn't we look to... to what makes sense with respect to the rule that we have created?"
+                },
+                {
+                    "start": 352.519,
+                    "stop": 423.832,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I would agree with that, that the... what I'm saying is that in the absence of... in the absence of language... there's clearly an absence of language in 153 that addresses this commencement event. So that puts us into a position of looking to see what Congress intended based on what the express words of chapter 153 are. Is... is there anything in chapter 153 that tells us that, no, we didn't mean the... the... a commencement of a habeas proceeding based on the filing of an application? We meant something earlier, i.e., the motion for... for a request for appointment of counsel. And the answer to that is no. Simply no. There is nothing in chapter 153 that has anything to do with the pre-application proceeding. Those provisions, as is demonstrated by their terms and also the habeas corpus rules concerning chapter 2254 cases... those only can apply... expressly apply to applications for habeas relief. They do not apply to any earlier event, and it doesn't... it thwarts the purposes of AEDPA by... by unduly confining the number of cases covered by it, capital cases covered by it. It--"
+                },
+                {
+                    "start": 423.832,
+                    "stop": 438.775,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's the part I wonder. I was thinking that if it's open to... pend... the... the case... what is it called? Is it... McFarland... suggests that it's at least open to calling this pending. It's a possible construction."
+                },
+                {
+                    "start": 438.775,
+                    "stop": 440.01,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, it's a possible construction."
+                },
+                {
+                    "start": 440.01,
+                    "stop": 464.799,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And then... and then it being a possible construction, I wonder, well, there was an awful lot of proceeding that went on here. There was a stay. It was opposed. And all of this took place before the... the petition was filed. So if the purpose of AEDPA, at least as we've interpreted it, is to stay away from proceedings that were already underway, this would seem to have been well underway."
+                },
+                {
+                    "start": 464.799,
+                    "stop": 477.148,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It was... the... the proceeding was well underway, but that doesn't... is not determinative in... in the sense that counsel had been appointed and a petition was in the works. But that--"
+                },
+                {
+                    "start": 477.148,
+                    "stop": 486.12,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's... that's what I want you to address precisely. That's where I'm uncertain. It seems as if the language... you could... you could... you could... the language is open to either interpretation--"
+                },
+                {
+                    "start": 486.12,
+                    "stop": 486.915,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't--"
+                },
+                {
+                    "start": 486.915,
+                    "stop": 510.754,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And yet... well, you... you think it's more strong in your direction. I... I understand that. But if... say, if it's open to either interpretation, then why doesn't the purpose of the application provisions, as we've interpreted them, suggest don't apply it where proceedings are well underway, which would mean the other side would win here. That's why I'm asking you. I want to see what your response is."
+                },
+                {
+                    "start": 510.754,
+                    "stop": 566.455,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In order to deviate from... from the normal... also, there is no question that in... in the general run of habeas cases, it's triggered by the filing of the application. So the question is whether there's some justification, some harm that would be caused by not... by treating them... them being the capital cases... under the Ninth Circuit's ruling differently than we do the normal run of habeas cases. And there's nothing about the fact that a counsel had been appointed or that... that a application was in the works, but not yet filed, that would prevent us or harm in any way those petitioners from ultimately being subject to the greater standards of deferential review that... that AEDPA ultimately imposed. There's no harm whatsoever. And it doesn't further... it thwarts the purposes of AEDPA to do that. It... it also creates a subclass of capital defendants who are treated differently--"
+                },
+                {
+                    "start": 566.455,
+                    "stop": 607.263,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if everyone had focused on AEDPA, which they didn't because it wasn't enacted at the time all this started, then maybe the district judge would have made the time lines different. And the district court had a proceeding before it with a number. It was classified a habeas case. And the district court set a rather relaxed schedule. He gave the counsel, appointed counsel, many months to file the actual petition. And if everybody had known that the... that the time the district judge gave would mean that AEDPA would apply, then I assume counsel, being diligent, would have said, don't give me that much time. I have to get this in quickly."
+                },
+                {
+                    "start": 607.263,
+                    "stop": 616.457,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--This case that's before the Court does not involve the statute of limitations, however. The concerns that you're expressing would be valid--"
+                },
+                {
+                    "start": 616.457,
+                    "stop": 621.442,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you don't want AEDPA to apply, if you're diligent counsel, because the standards are much tighter."
+                },
+                {
+                    "start": 621.442,
+                    "stop": 624.708,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It does affect the standards of review, but they don't--"
+                },
+                {
+                    "start": 624.708,
+                    "stop": 628.332,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, counsel didn't have to take all the time that the district court allowed, did he?"
+                },
+                {
+                    "start": 628.332,
+                    "stop": 689.083,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--He did not need to, but he... he was fully compliant. To the extent that the Court's concern here appears to this counsel to be concerned about the statute of limitations, there was no issue here. This case came in timely. And in fact, in the Ninth Circuit, they followed the same rule that all the other five circuits followed all the way up until 1998. So really the statute of limitations is virtually a non-issue in this situation. This case did... the... the... any delays or long periods of times that were granted or anything didn't have anything to do with this case. There is no harm in this case. The only issue is that now, once this case was in the district court and in the Ninth Circuit, should it be subject to the deferential standards of review that AEDPA imposed, and the answer to that is yes. There was no... there is absolutely no harm in now saying that because the filing of the application came in after the enactment of AEDPA, that it should be subject, just as all other habeas cases are, to--"
+                },
+                {
+                    "start": 689.083,
+                    "stop": 699.34,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we know how many cases fall in this category? This is a transition case caught in between. No AEDPA when it all started; AEDPA in the middle before the petition is filed."
+                },
+                {
+                    "start": 699.34,
+                    "stop": 700.296,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 700.296,
+                    "stop": 702.243,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How many cases are in that category?"
+                },
+                {
+                    "start": 702.243,
+                    "stop": 708.837,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We believe... we believe that it affects approximately... in the Ninth Circuit, particularly in California, it affects approximately 45 capital cases."
+                },
+                {
+                    "start": 708.837,
+                    "stop": 709.809,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "45 cases."
+                },
+                {
+                    "start": 709.809,
+                    "stop": 757.983,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It also... it also, of course, affects the other... those cases, those capital cases, that are covered by the other circuits which currently use... all of which, other than the Ninth Circuit, as to those 45 cases, use the filing date of the application. So if the Court, obviously, was to choose the position advocated by respondent, it would change the standard of review from AEDPA to non-AEDPA in those States covered by those circuits. In the Ninth Circuit, what will... would happen if you adopted the position that I'm advocating is that you... that those 45 cases in California, approximately 45 cases in California, will now become AEDPA cases. And that will primarily affect the standard of review that is applied to them. Garceau--"
+                },
+                {
+                    "start": 757.983,
+                    "stop": 764.082,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you happen to know... that was a very good answer. Do you happen to know the number of cases in the other circuits if we ruled the other--"
+                },
+                {
+                    "start": 764.082,
+                    "stop": 765.19,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I'm... I'm sorry, Your Honor, I do not."
+                },
+                {
+                    "start": 765.19,
+                    "stop": 768.4,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It's a vanishing problem in any event."
+                },
+                {
+                    "start": 768.4,
+                    "stop": 846.82,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's certainly true, but it's very important. Garceau is the perfect example of why this is an important issue for this Court, the... in Garceau, the... the State... the State supreme court issued a very well-reasoned opinion issuing... saying that it had decided that error was harmless, upholding the conviction that occurred in this case. It went through the district court. The district court agreed. It went to the Ninth Circuit in 2001... this was a 1984 killing. In... in 2001, it was reversed by the Ninth Circuit, which did... because it did not believe it was an AEDPA case, refused to apply the deferential standard of review, refused to apply the precedents of this Court, instead looked at its own... its own cases, and reversed it. And this is... you know, this is the most important... a capital conviction in California is the most important cases... some of the most important cases that that State issues. And... and to have that reversed for the failure to apply this... the standards that Congress imposed in 1996 is a very, very serious matter. And that's just one case. It's happened in other cases. And... and so, we believe that it's very important to have this issue straightened out."
+                },
+                {
+                    "start": 846.82,
+                    "stop": 849.491,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you wish to reserve the remainder of your time?"
+                },
+                {
+                    "start": 849.491,
+                    "stop": 860.849,
+                    "speaker": {
+                        "name": "Janis S. McLean",
+                        "ID": 31901,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I do. At this point, I would like to reserve my remaining time. Thank you."
+                },
+                {
+                    "start": 860.849,
+                    "stop": 863.597,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Very well, Ms. McLean. Ms. Coffin, we'll hear from you."
+                }
+            ],
+            "start": 11.596,
+            "stop": 932.389
+        },
+        {
+            "turns": [
+                {
+                    "start": 863.597,
+                    "stop": 932.389,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The issue is not whether this harms Mr. Garceau, but whether it is appropriate under this Court's precedent to rule the way the State asked this Court to rule. For two independent reasons, the amendments to chapter 153 do not apply to Mr. Garceau. First, it simply cannot be, as the State suggests, that after this Court found in McFarland that a capital case is commenced by the filing of a motion for counsel, that Congress then passed a new statute, intending it to be interpreted consistent with the dissent in this case. Congress must be presumed to have been informed by this Court's majority ruling in McFarland. The McFarland Court ruled that... that Congress had permitted a capital proceeding to be initiated by the filing of a motion for counsel. That ruling was only 2 years before Congress made major revisions to the habeas corpus law in AEDPA. Under statutory construction principles, Congress must be found to have been aware of and followed this Court's precedent set in McFarland."
+                },
+                {
+                    "start": 932.389,
+                    "stop": 949.279,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, are you... are you saying, Ms. Coffin, that McFarland is controlling in the very strict sense of the word here, that if... we must rule in your favor without looking anywhere else just because of the decision in McFarland?"
+                },
+                {
+                    "start": 949.279,
+                    "stop": 999.83,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. What I'm... what I am saying is that I believe that this Court should look to what informed Congress when they wrote AEDPA. And I think once that is done, this Court will conclude that if you interpret the ruling in Lindh, where... where 107(c) applies to 153 and 154... where did Congress get the word case when they were determining who would be subject to this law? And I agree with Justice Ginsburg that when a case is begun, you get a number, you're put on a docket. That is your case, and that is consistent with what this Court decided in McFarland. What is not consistent is to believe that Congress used the word case rather than petition when they quite clearly used petition in many other parts of the statute."
+                },
+                {
+                    "start": 999.83,
+                    "stop": 1008.08,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When... when did Congress pass the law that... that overturned the result in McFarland? You say they passed a law that overturned the result?"
+                },
+                {
+                    "start": 1008.08,
+                    "stop": 1018.332,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, no. What I said was that they passed AEDPA, and when they did that, they were informed in how they wrote that statute by McFarland. That was in '96."
+                },
+                {
+                    "start": 1018.332,
+                    "stop": 1022.333,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And they... they haven't dealt with the issue of McFarland."
+                },
+                {
+                    "start": 1022.333,
+                    "stop": 1032.162,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, in... yes and no. I mean, I think that they... they had an opportunity to change 848(q) and looked at 848(q)--"
+                },
+                {
+                    "start": 1032.162,
+                    "stop": 1032.608,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1032.608,
+                    "stop": 1036.45,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--when they wrote AEDPA, and they chose to leave 848(q) in place."
+                },
+                {
+                    "start": 1036.45,
+                    "stop": 1043.711,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, now, is that supported by something in, say, the legislative history, or is that just your... your own view of what must have happened?"
+                },
+                {
+                    "start": 1043.711,
+                    "stop": 1099.69,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There is nothing in the legislative history that supports one side or the other. However, if one looks at McFarland... the majority decision, as well as Justice O'Connor's concurrence and dissent... one sees that this Court made it very clear to Congress that if they meant something like petition or application, which are pretty much used synonymously, that they better put those words in because, in fact, the majority in this... in... of this Court refused to read that kind of language into McFarland, and that's part of how McFarland got decided. So very shortly thereafter, Congress wrote a law completely revising or, you know, substantially revising habeas corpus. And it's simply difficult to believe that at that point, they decided not to look at the majority opinion in McFarland which uses the word case."
+                },
+                {
+                    "start": 1099.69,
+                    "stop": 1191.208,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's... it's not at all an unusual phenomenon that... that a word in... in statutes has different application in different contexts where you-- We had a case the other day. When is something final? Congress says, you know, when... when it's final. It depends on what the context is, and nothing... nothing says that just because you... you think that the case for one purpose, for the McFarland purpose, begins with the... with the initial filings, for... for all purposes it has to begin there. And what impresses me about this case is that I don't see what is gained by extending the inapplicability of AEDPA earlier than the filing of the habeas petition because the purpose of... of the non-retroactivity provision is certainly not to cause somebody to be frustrated in actions that he took in reliance upon the prior law. And... and a... a habeas applicant could be frustrated in events that occur after the filing of his habeas petition. But all of the events prior to that filing that were covered by McFarland, they aren't covered by AEDPA anyway. AEDPA could not possibly affect those earlier events. So... so nothing... nothing is served by making the retroactivity go back further."
+                },
+                {
+                    "start": 1191.208,
+                    "stop": 1254.746,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I... I think there are actually two answers to that question. The first one is it isn't really an issue of whether or not... in my opinion, it's not an issue of whether or not some harm is going to come to... to Mr. Garceau by interpreting this one way or the other. That's not the issue. The issue is what did Congress mean when they did this. They had one purpose, I agree with you, which was to reform habeas corpus and make things move in a... in a more orderly fashion. Right. But they had another... there... there is also another part to that, and that is, they determined that certain cases would not be covered by AEDPA. And so-- --Well, those cases... those cases, in which they did not want to frustrate legitimate expectations. But my point is, there is no possible legitimate expectation that would be frustrated by AEDPA in the pre-application stage. AEDPA simply doesn't have anything to do with that. Well, the language of the statute says case, and... and I think there... I think--"
+                },
+                {
+                    "start": 1254.746,
+                    "stop": 1260.095,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. You're back to that argument, but on that argument, you know, what's a case depends on the context."
+                },
+                {
+                    "start": 1260.095,
+                    "stop": 1267.255,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I also think that there is a... a reason that can be discerned from their retroactivity provisions which was--"
+                },
+                {
+                    "start": 1267.255,
+                    "stop": 1302.975,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in your... in your answer to Justice Scalia, you said, well, you're not sure about the harm, but the harm exists, it... it seems to me, in not giving full effect to the congressional scheme. The... the Congress obviously thought that this was a... that AEDPA was a preferred regime, and you are delaying what Congress has found a preferred regime. So it's a harm in that sense, maybe not the harm in a particular case that would come out one way or the other, but you are delaying the effectiveness of... of a congressional scheme."
+                },
+                {
+                    "start": 1302.975,
+                    "stop": 1311.868,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But Congress chose to determine that not everyone would be immediately affected... immediately affected by AEDPA, and they--"
+                },
+                {
+                    "start": 1311.868,
+                    "stop": 1325.567,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, of course, for... for the reasons given. We... we want... we want cases that have... where the merits have been addressed to be decided under the... the law before it was changed by AEDPA."
+                },
+                {
+                    "start": 1325.567,
+                    "stop": 1373.011,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Kennedy, I believe that, in fact, the... the cases that were in the pipeline, this finite number of cases, were exactly the cases... not the 154 cases, but the 153 capital cases that were in the pipeline that Congress was aware that they were pre-petition cases, petition cases, various kinds of cases. And if they wanted to make sure that it... this statute would be interpreted in a way so that anyone that was in Federal court and that had vast proceedings take place, but that had not filed a petition yet, all they had to do was put the word petition in. And I believe that we are bound by what Congress did. I understand that they want--"
+                },
+                {
+                    "start": 1373.011,
+                    "stop": 1407.693,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But... but that... but that's just not true that... that we give a word the same meaning in all contexts. We... we evidently don't. There are so many instances of that, that your argument cannot... cannot rely just upon that. And it seems to me all of the other courts that have come out the other way from the Ninth Circuit have done so for a very sensible reason, and that is that there is nothing to be gained, nothing whatever to be gained, by refusing... or by... by refusing to apply AEDPA to these pre-petition activities inasmuch as AEDPA cannot affect them at all."
+                },
+                {
+                    "start": 1407.693,
+                    "stop": 1489.578,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, if... to give you a brief answer, on the other... on the other circuits, the fact of the matter is none of them analyzed this in terms of Congress' intent at the time that they wrote AEDPA and how they were informed by McFarland. However, even if this Court is not convinced that Congress' awareness of McFarland is dispositive as to the meaning of case pending, Garceau had a case pending pre-AEDPA under this Court's definitions of what constitutes a case. Prior to AEDPA, Garceau had begun the process of challenging a State conviction and death sentence in part by filing in the district court a pleading detailing two fully exhausted claims of Federal constitutional violations. Garceau sought and received counsel in order to raise claims and challenge a State conviction and death sentence. He filed a document detailing the two claims I just mentioned with their factual and legal foundation which were ripe for adjudication. The district court made a determination, after hearings, that these claims presented viable grounds for habeas corpus relief. Under Hohn, we believe Garceau had a case pending. The determination in Garceau's case is very analogous to the judicial determination in Hohn concerning the COA application."
+                },
+                {
+                    "start": 1489.578,
+                    "stop": 1508.703,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, is it true, by the way... is... is that the case or not that... I'm interested in the question... that... that if in fact AEDPA applies to a... AEDPA does... there's a difference whether AEDPA does... does it make a difference if AEDPA applies or not to the--"
+                },
+                {
+                    "start": 1508.703,
+                    "stop": 1509.091,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1509.091,
+                    "stop": 1509.593,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--How?"
+                },
+                {
+                    "start": 1509.593,
+                    "stop": 1514.595,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there's more deferential standard to the State... to the State court's decision."
+                },
+                {
+                    "start": 1514.595,
+                    "stop": 1518.182,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it does make just as much difference."
+                },
+                {
+                    "start": 1518.182,
+                    "stop": 1523.535,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but not... not to any decision that is taken before the filing of the... of the formal habeas application."
+                },
+                {
+                    "start": 1523.535,
+                    "stop": 1529.52,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh. If you're asking whether this particular thing that I was just talking about would have made a difference, no."
+                },
+                {
+                    "start": 1529.52,
+                    "stop": 1538.506,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your case. In your case. A person files a petition asking for a lawyer, and then we have a lot of litigation."
+                },
+                {
+                    "start": 1538.506,
+                    "stop": 1538.919,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1538.919,
+                    "stop": 1541.486,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Should there be a stay? Should there not be a stay?"
+                },
+                {
+                    "start": 1541.486,
+                    "stop": 1541.709,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1541.709,
+                    "stop": 1548.228,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I guess the answer to that could affect a later determination in the case. I don't know."
+                },
+                {
+                    "start": 1548.228,
+                    "stop": 1566.605,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would concede that, in fact, in this case and I think all the pipeline cases, that even if AEDPA had applied at the time that the case originated, there would not have been a different determination in terms of those early proceedings."
+                },
+                {
+                    "start": 1566.605,
+                    "stop": 1566.836,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1566.836,
+                    "stop": 1598.193,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "However, the... the point I'm trying to make now is that even if this Court doesn't believe that... that case pending can be determined by looking at McFarland and Lindh, I think that the... what Hohn has identified as what is needed for a case is, in fact, found in the Garceau case and that's because of the proceeding that Garceau followed where he actually filed what could have been a petition had that name been put on it."
+                },
+                {
+                    "start": 1598.193,
+                    "stop": 1632.6,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you specify what were the pre-petition... I thought that there was... there was also something submitted by counsel, a kind of skeletal statement of issues, and... and because there was an adversary proceeding, was there not? The... the State moved to dismiss the stay. And something what... was something different submitted by Garceau himself earlier, and then something by counsel later? What was the sequence?"
+                },
+                {
+                    "start": 1632.6,
+                    "stop": 1685.12,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. What... what happened is there was an application for counsel. Counsel was appointed. Counsel then... there was a stay before counsel was appointed so that counsel could be found. Then counsel was appointed, and an additional 120-day stay went into effect before counsel filed the document I'm now talking about. And this document is the Specification of Non-frivolous Issues, which includes two claims that were... and were in the petition ultimately that put... set forth the factual and legal basis for those two claims. And then the judge had to determine whether or not one or both of those claims were non-frivolous. Otherwise, the stay would have been dissolved, and Garceau... actually I would imagine that the counsel may have been pulled, but that's not what happened."
+                },
+                {
+                    "start": 1685.12,
+                    "stop": 1687.609,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that statement of issues was filed pre-AEDPA."
+                },
+                {
+                    "start": 1687.609,
+                    "stop": 1691.617,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. Yes, and as in Hohn--"
+                },
+                {
+                    "start": 1691.617,
+                    "stop": 1695.859,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, excuse me. There was... but that was also after the application for habeas corpus had been filed. No? No."
+                },
+                {
+                    "start": 1695.859,
+                    "stop": 1706.643,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, no. This is before. What I'm... what I'm saying is this document, the Specification of Non-frivolous Issues, which is required under the rules of all of the district courts in California--"
+                },
+                {
+                    "start": 1706.643,
+                    "stop": 1707.584,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In order to get counsel appointed."
+                },
+                {
+                    "start": 1707.584,
+                    "stop": 1715.516,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. Actually, you get it after counsel is appointed. In order to get an additional stay in which to file the petition, you--"
+                },
+                {
+                    "start": 1715.516,
+                    "stop": 1716.358,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't this--"
+                },
+                {
+                    "start": 1716.358,
+                    "stop": 1725.25,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--you get counsel and then counsel must file something that a district court determines is, in fact... has at least one non-frivolous issue--"
+                },
+                {
+                    "start": 1725.25,
+                    "stop": 1726.299,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Is that ex parte?"
+                },
+                {
+                    "start": 1726.299,
+                    "stop": 1730.103,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. It's served... it's served on the other side."
+                },
+                {
+                    "start": 1730.103,
+                    "stop": 1730.103,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And it... so is it generally argued whether or not these are non-frivolous issues?"
+                },
+                {
+                    "start": 1730.103,
+                    "stop": 1748.179,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It wasn't argued in this particular case whether they were non-frivolous issues. It's a... it's a determination made by the district court. However, the other parties are served and certainly could make an argument--"
+                },
+                {
+                    "start": 1748.179,
+                    "stop": 1769.199,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "See, that... that's why I thought there-- --Could any... could any of those... of those events that you've just described, pre-filing of the habeas, conceivably be affected by AEDPA? Is there any way that AEDPA could have disappointed expectations with regard to that pre-application activity?"
+                },
+                {
+                    "start": 1769.199,
+                    "stop": 1769.619,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 1769.619,
+                    "stop": 1800.529,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why? I mean, that's... what I don't... I'm a petitioner. I ask for a lawyer. The judge says, do you have any non-frivolous claim? He says, sure, this is it, and you list them. Now, if, in fact, AEDPA's in effect, we're going to apply a pretty lenient standard in reviewing the State court determinations on those issues, but if AEDPA isn't in effect, we're--"
+                },
+                {
+                    "start": 1800.529,
+                    "stop": 1802.164,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Are the State court's determinations reviewable?"
+                },
+                {
+                    "start": 1802.164,
+                    "stop": 1806.146,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I... I certainly--"
+                },
+                {
+                    "start": 1806.146,
+                    "stop": 1807.574,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, if the State court appoints--"
+                },
+                {
+                    "start": 1807.574,
+                    "stop": 1826.081,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I'm sorry. What I was thinking is that if the standard for reviewing the State court determinations is different, depending on whether you apply AEDPA or not, I don't see why, in principle, that couldn't affect the outcome of a judge's decision as to whether the issue in the petition in front of me is or is not a frivolous issue."
+                },
+                {
+                    "start": 1826.081,
+                    "stop": 1826.901,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I agree."
+                },
+                {
+                    "start": 1826.901,
+                    "stop": 1837.166,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I think in principle it could affect the outcome. In fact, probably... I don't know if it did or not, but I... I don't see the difference between that affecting the outcome there--"
+                },
+                {
+                    "start": 1837.166,
+                    "stop": 1837.483,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1837.483,
+                    "stop": 1840.114,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and the outcome of an early stage where you file the petition."
+                },
+                {
+                    "start": 1840.114,
+                    "stop": 1854.185,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, in fact... in fact, in this case there probably would have been a different determination at least as to one of the two issues that... that Garceau put forward."
+                },
+                {
+                    "start": 1854.185,
+                    "stop": 1871.356,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I wasn't even aware that these things were reviewable. You... you mean to say that you get judicial review of whether, when counsel is appointed, the... the trial court allows counsel to proceed with a habeas? You... you can take that up on judicial review?"
+                },
+                {
+                    "start": 1871.356,
+                    "stop": 1873.197,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I... I--"
+                },
+                {
+                    "start": 1873.197,
+                    "stop": 1878.819,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Don't you just go ahead and what ultimately is reviewed is the... is the substantive disposition of the habeas application?"
+                },
+                {
+                    "start": 1878.819,
+                    "stop": 1898.046,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. I... I don't believe so. In fact, had the district court determined that there were no non-frivolous issues, the stay would have been dissolved, and unless Garceau appealed that judgment of... of the district court or filed something else, he would have been out of court."
+                },
+                {
+                    "start": 1898.046,
+                    "stop": 1908.076,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what... but what if the district court determined that these were non-frivolous issues? Does the State have any right to appeal that determination? Has it ever happened?"
+                },
+                {
+                    "start": 1908.076,
+                    "stop": 1909.988,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't believe it's ever happened."
+                },
+                {
+                    "start": 1909.988,
+                    "stop": 1922.985,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But does the State have a right to be heard? The... the question is whether the stay will be continued. The Specification of Non-frivolous Issues is filed. If the State says these are frivolous issues, can the State be heard?"
+                },
+                {
+                    "start": 1922.985,
+                    "stop": 1923.416,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1923.416,
+                    "stop": 1924.886,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can the State file a responsive pleading?"
+                },
+                {
+                    "start": 1924.886,
+                    "stop": 1925.111,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1925.111,
+                    "stop": 1927.57,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do the... do such hearings occur?"
+                },
+                {
+                    "start": 1927.57,
+                    "stop": 1929.875,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It didn't occur in this case."
+                },
+                {
+                    "start": 1929.875,
+                    "stop": 1930.094,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1930.094,
+                    "stop": 1931.464,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But there was some proceeding."
+                },
+                {
+                    "start": 1931.464,
+                    "stop": 1967.183,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There was a proceeding. Before the statement of non-frivolous... Specification of Non-frivolous Issues was filed, the State objected to the stay that the district court had put into place to... so that a petition could be filed because under the local rules, you can't get an additional stay to file the petition unless you file this document that shows that you have at least one viable issue. And so prior to the filing of that specification by counsel, the State objected when the district court extended the stay."
+                },
+                {
+                    "start": 1967.183,
+                    "stop": 1972.724,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And once the issue... the statement of issues... once that was filed, then there was no response?"
+                },
+                {
+                    "start": 1972.724,
+                    "stop": 1975.448,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. There was no response from the State at that point."
+                },
+                {
+                    "start": 1975.448,
+                    "stop": 1980.827,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If there had been a response, the State had lost, and the State wanted to contest it, could the State take that up?"
+                },
+                {
+                    "start": 1980.827,
+                    "stop": 1985.338,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe... I... I believe that they could, but it didn't happen in this case."
+                },
+                {
+                    "start": 1985.338,
+                    "stop": 1985.734,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It... it would be interlocutory."
+                },
+                {
+                    "start": 1985.734,
+                    "stop": 1988.329,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You just answered a minute ago to my question that they couldn't."
+                },
+                {
+                    "start": 1988.329,
+                    "stop": 1999.349,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That they couldn't... no. I said... no. My answer... I'm sorry if I gave a confusing answer. My answer was they didn't in this case and I'm not aware of it happening in other cases."
+                },
+                {
+                    "start": 1999.349,
+                    "stop": 2000.689,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Has... you... you don't know that it's ever been done."
+                },
+                {
+                    "start": 2000.689,
+                    "stop": 2001.725,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. That's correct. That was my answer."
+                },
+                {
+                    "start": 2001.725,
+                    "stop": 2021.605,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if... if the district judge said, all right, I accept these, you've got a non-frivolous issue, at that point, the State couldn't go up to the appellate court because it would be very... it would be interlocutory."
+                },
+                {
+                    "start": 2021.605,
+                    "stop": 2023.961,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I believe that's correct."
+                },
+                {
+                    "start": 2023.961,
+                    "stop": 2032.093,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Help me out and... and tell me what... what portion of... of AEDPA would apply to this pre-application event."
+                },
+                {
+                    "start": 2032.093,
+                    "stop": 2033.291,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well if--"
+                },
+                {
+                    "start": 2033.291,
+                    "stop": 2058.657,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "(d) says, an application for a writ of habeas corpus on behalf of a person in custody pursuant to the judgment of State court shall not be granted with respect to any claim that was adjudicated on the merits in State court proceedings. Well, that... that provision certainly wouldn't apply to any... there... nothing has been... been adjudicated on the merits. Right?"
+                },
+                {
+                    "start": 2058.657,
+                    "stop": 2078.755,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If the district court determined that... if AEDPA applied and the district court looked at the issues that you wanted to go forward on, and applied the deferential standard of AEDPA and, therefore, determined that, in fact, it was a frivolous issue because under AEDPA you would not be able to win--"
+                },
+                {
+                    "start": 2078.755,
+                    "stop": 2112.141,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you call that an adjudication on the merits? Just the preliminary determination that there is or is not a frivolous issue here? I... I wouldn't call that a... a determination on the merits. So I don't think (d) would apply. What about (e)? (e) says, in... in a proceeding instituted by an application for a writ of habeas corpus by a person in custody pursuant to the judgment of a State court, a determination of a factual issue made by a State court shall be presumed to be correct. Are there factual issues decided in these... in... in these--"
+                },
+                {
+                    "start": 2112.141,
+                    "stop": 2112.536,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, there are--"
+                },
+                {
+                    "start": 2112.536,
+                    "stop": 2114.031,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--pre-applications?"
+                },
+                {
+                    "start": 2114.031,
+                    "stop": 2137.934,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--There are factual issues put forth. The factual and legal foundation of the claims that... that are in the Specification of Non-frivolous Issues are put forth. But I think that there's an additional question that... that needs to be examined, which is, is what Garceau filed, under this Court's precedent in Hohn, a case? And I believe that it is."
+                },
+                {
+                    "start": 2137.934,
+                    "stop": 2140.044,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that the view of the Ninth Circuit?"
+                },
+                {
+                    "start": 2140.044,
+                    "stop": 2143.037,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Excuse me?"
+                },
+                {
+                    "start": 2143.037,
+                    "stop": 2146.68,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that the view of the Ninth Circuit when it decided this case?"
+                },
+                {
+                    "start": 2146.68,
+                    "stop": 2150.035,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The Ninth Circuit didn't apply AEDPA to this case."
+                },
+                {
+                    "start": 2150.035,
+                    "stop": 2158.609,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're saying even if AEDPA had been... had been applicable, your client still should have prevailed."
+                },
+                {
+                    "start": 2158.609,
+                    "stop": 2208.516,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. What... what I'm suggesting is that AEDPA should not be applied to Garceau either because of the first argument that I made about McFarland, or if this Court is not satisfied that, in fact, Garceau had a case pending, which is the language from Lindh that determines whether or not AEDPA should be retroactive. And I'd like to make one other point, which is that there are... it is a finite number of cases that were in the pipeline. It's a very unusual situation. In fact, you had to be post-State court determination and in Federal court and somewhere along in... in the process in Federal court in order to be in this sort of bubble area. And I think--"
+                },
+                {
+                    "start": 2208.516,
+                    "stop": 2209.965,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Lindh was a similar case, was it not?"
+                },
+                {
+                    "start": 2209.965,
+                    "stop": 2209.965,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, but it was non-capital."
+                },
+                {
+                    "start": 2209.965,
+                    "stop": 2228.8,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I have a question about this... the proceeding. AEDPA was pending when this was going on, and the counsel that represented this petitioner was the same counsel who represented him in the State court. Isn't that so?"
+                },
+                {
+                    "start": 2228.8,
+                    "stop": 2256.883,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Actually not. What happened was lead counsel in State court was unavailable to go forward and neither counsel that... there were two counsel that participated at one point or another in State court, but neither participated in the whole case and neither was lead counsel. And so lead counsel was unavailable and the court appointed two new counsel who had some familiarity with the case."
+                },
+                {
+                    "start": 2256.883,
+                    "stop": 2277.849,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Knowing that AEDPA was on the front burner, counsel having some familiarity with the case, why did they use all the time that the district court gave them instead of filing before AEDPA went into effect?"
+                },
+                {
+                    "start": 2277.849,
+                    "stop": 2347.896,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there were a number of reasons for that. The first is that in State court, they... there was neither discovery nor any evidentiary hearing. There was no mechanism... there was very little money and there was no mechanism by which counsel could pull together an entire petition. And the district court agreed with that by giving counsel funds in Federal court. However, the district court set forth a schedule by which funds would be... would be given, and those funds... you did some investigation, you got... you satisfied the district court, you got more funds. The last funds were not... were not given to counsel until, I believe, the end of May, which was only about 4 weeks before the petition was filed. So that's one reason. The other reason is that counsel had to make a determination, under this Court's precedent, whether or not it would be a mistake not to file a full petition, the best petition that could possibly be made and because it would be possible that it might not have been able to be amended. And so--"
+                },
+                {
+                    "start": 2347.896,
+                    "stop": 2422.397,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Ms.... Ms. Coffin, you... you have to make the best argument for your client here, and... and you're doing that. But it strikes me that... that there... this is sort of a mixed bag, that actually, in agreeing with you, we would probably be... be harming most capital defendants, that is to say, your client will win on this retroactivity point which will eventually vanish. It's a... it's a temporary problem. But the effect of our holding that... that the habeas action for purposes of AEDPA commences with the... the initial request for counsel is that all... all of the transactions... I mean, if... if that provision that all factual determinations by the State court must be deemed to be correct, that means that AEDPA would, in the future, apply to those... to those determinations. Whereas, if we came out the other way, until the habeas application is... is applied, the strictures of AEDPA don't... are... are not applicable. So, you know, it's a... it's... it's not a... not a win-win game, but it is for your client, I suppose."
+                },
+                {
+                    "start": 2422.397,
+                    "stop": 2440.99,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, actually, Your Honor, since I have clients in many different positions here, I actually don't believe that it would be a problem for other capital defendants, and I do believe that it's the correct result on either basis that I have put forth for Garceau."
+                },
+                {
+                    "start": 2440.99,
+                    "stop": 2475.94,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Because even under AEDPA, if you just come in at the threshold, the court... the Federal court, in general, is quite liberal about letting you develop the facts necessary to present your claim. It may be a problem with amending a petition in habeas, but your point, I take it, is that you can't envision any real harm to any of your clients if the starting date of AEDPA would be considered the filing of the stay application and the request for counsel."
+                },
+                {
+                    "start": 2475.94,
+                    "stop": 2476.495,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 2476.495,
+                    "stop": 2507.497,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just ask one question? The... the proceedings that took place between the appointment of counsel, which involved the... whether the... the statement as to the kind of issues and so forth and the State's motion to vacate the stay and so forth... were they all given the same number that Justice Ginsburg referred to earlier? And then after the habeas application itself was filed, was the case given a different number, or was the same number continued?"
+                },
+                {
+                    "start": 2507.497,
+                    "stop": 2537.447,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This case has only had one number in district court, and it is one of the kind of ironies of all of this. I would have thought that the word case is very obvious. You go to district court. They stamp your papers. You have a number. That's your district court case and that's your case number. And that's the number that Garceau had all the way through his district court proceedings. He then got a different number stamped on his case by the Ninth Circuit when he was on appeal--"
+                },
+                {
+                    "start": 2537.447,
+                    "stop": 2538.055,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, yes--"
+                },
+                {
+                    "start": 2538.055,
+                    "stop": 2548.079,
+                    "speaker": {
+                        "name": "Lynne S. Coffin",
+                        "ID": 34269,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--but there's been one... one number all the way through and you don't get a get a different number when you file a habeas petition. If there are no further questions."
+                },
+                {
+                    "start": 2548.079,
+                    "stop": 2552.327,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Thank you, Ms. Coffin. Ms. McLean, you have 16 minutes left."
+                }
+            ],
+            "start": 2552.327,
+            "stop": 2581.464
+        }
+    ]
+}

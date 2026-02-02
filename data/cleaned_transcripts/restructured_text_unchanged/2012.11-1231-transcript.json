@@ -1,0 +1,2017 @@
+{
+    "title": "Sebelius v. Auburn Regional Medical Center",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 9.839,
+                    "stop": 64.224,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Under Part A of the Medicare program, the Federal Government pays out more than $230 billion annually to more than 30,000 institutional providers, including more than 6,000 hospitals. The total amount to which each of these providers is entitled is determined by a fiscal intermediary on the basis of a cost report. The statute provides that a provider may obtain a hearing before the Provider Reimbursement Review Board only if he appeals the intermediary's determination with -- within 180 days. For the almost 40 years of the existence of the Provider Reimbursement Review Board, the Secretary, pursuant to her broad rulemaking authority, has prohibited the board from extending that period, and instead required dismissal of the appeal except as specifically provided in the Secretary's own regulations."
+                },
+                {
+                    "start": 64.224,
+                    "stop": 85.82,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, there's a little bit of at least facial incongruity in your position. Congress sets in place the 180-day limit. Then, you say, oh, well, that, we can go beyond that. The Secretary puts in the 3-year limit, and you say that's it; you know, that's the dead drop-off. I would have thought what Congress says is entitled to greater weight than what the Secretary says."
+                },
+                {
+                    "start": 85.82,
+                    "stop": 130.099,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the 180-day limitation here is not a limitation applied to suits filed in court in which the court is the relevant tribunal, and the court has itself construed the statute's regulating access to the courts or the appellate courts as a matter of internal judicial administration. This deadline governs an appeal within the Department of Health and Human Services, and that is something that Congress has delegated the responsibility to the Secretary to construe the relevant statutes and to adopt the relevant regulations pursuant to her broad rulemaking authority. So in -- in this setting, it is the board that is the relevant tribunal, and the rules governing the board's jurisdiction are established--"
+                },
+                {
+                    "start": 130.099,
+                    "stop": 130.749,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me."
+                },
+                {
+                    "start": 130.749,
+                    "stop": 131.418,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Excuse me."
+                },
+                {
+                    "start": 131.418,
+                    "stop": 145.628,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You don't mention Union Pacific in your brief. How can you be calling what you're doing setting your jurisdictional limits? Didn't we say in Union Pacific that agencies can't do that? You can't define your own jurisdiction."
+                },
+                {
+                    "start": 145.628,
+                    "stop": 146.611,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I--"
+                },
+                {
+                    "start": 146.611,
+                    "stop": 157.685,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You may or may not be able to establish claim processing rules. That, I think, is a totally different question. But why do you continue to use it as jurisdictional language?"
+                },
+                {
+                    "start": 157.685,
+                    "stop": 174.461,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I was responding to -- first of all, the -- the Secretary's regulations have from the outset referred to these limitations as limitations on the board's jurisdiction. This is -- this is set forth in the regulations promulgated--"
+                },
+                {
+                    "start": 174.461,
+                    "stop": 183.317,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in that respect, I think the amici is right. You can't -- if they're jurisdictional, we've clearly said that equitable tolling doesn't apply under any circumstances."
+                },
+                {
+                    "start": 183.317,
+                    "stop": 189.005,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. And we -- and we clearly believe that equitable tolling does not apply. That would be fundamentally inconsistent."
+                },
+                {
+                    "start": 189.005,
+                    "stop": 192.007,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what is good cause if not some form of equitable tolling?"
+                },
+                {
+                    "start": 192.007,
+                    "stop": 247.743,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There is nothing incompatible between a good cause -- a limited good cause extension and a jurisdictional rule. For example, in the several cases that this Court has considered finding provisions to be jurisdictional, the time for taking an appeal and the time for petitioning for certiorari are both jurisdictional, but both allow extensions for good cause. In fact, this Court's decision in Bowles involved the extension for good cause. So the question here for the Secretary -- and, again, this is just a narrow question of good cause. It in no way suggests that equitable tolling would be -- would be permitted. The narrow question is whether the Secretary permissibly construed the statute to allow a comparable good cause exception, where something akin to an act of God would prevent the provider from actually appealing within the requisite period of time, just like the district court can extend the appeal period."
+                },
+                {
+                    "start": 247.743,
+                    "stop": 262.836,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The -- the Court's decision in Henderson v. Shinseki, that also involved an intra-agency appeal, and yet we said that equitable tolling was permissible."
+                },
+                {
+                    "start": 262.836,
+                    "stop": 307.715,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I mean, there are a number of differences there. I think, technically, it was not intra-agency. It was an appeal from the Board of Veterans Appeals to the Court of Veterans Appeals, which is a separate body. It is not something under the jurisdiction of the VA. The VA was not given rulemaking authority over that, unlike here, where the board is under the Secretary's jurisdiction, and, in fact, she has adopted regulations that have been in place for 40 years which have expressly barred any extensions, and treated that limitation as jurisdictional. Also, very much unlike Henderson, this statute is not one comparable to a statute regulating benefits for veterans, to which there has always been a solicitude by Congress and the courts--"
+                },
+                {
+                    "start": 307.715,
+                    "stop": 346.525,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, Mr. Kneedler, do you think you could do the same thing in the veterans' benefits context? Because in Henderson, of course, we dropped a footnote saying that we weren't deciding whether equitable tolling was available. All we were saying was that this was a claims processing rule and not a jurisdictional rule. Could the Secretary of Veterans Affairs then go on and say, okay, it's a claims processing rule, but, still, we get to decide how much equitable tolling we want, and we're going to adopt a regulation, much like the one in this case, saying you can't come in after 3 years? Could you do that in Henderson?"
+                },
+                {
+                    "start": 346.525,
+                    "stop": 375.009,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think in Henderson there would have been the problem that the rule, as I understand it, was a rule to -- for appealing to the Court, which was outside the Secretary's rulemaking authority; whereas, here, this is a body within HHS over which the Secretary has rulemaking authority. But yes, we -- we think that the Secretary clearly had -- and she has very broad legislative rulemaking authority under this statute -- has the authority to adopt strict limitations, as she has done on that--"
+                },
+                {
+                    "start": 375.009,
+                    "stop": 376.878,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could she have adopted equitable tolling?"
+                },
+                {
+                    "start": 376.878,
+                    "stop": 400.243,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I -- we don't think that she could have. We think that, as we say in our brief, quite aside from the Secretary's regulation, we believe the sort of open-ended equitable tolling that the court of appeals has imposed on this program for the first time in 40 years is fundamentally inconsistent with a need for repose, especially given the sophisticated nature of these providers, as this Court noted in the Your Home nursing home case--"
+                },
+                {
+                    "start": 400.243,
+                    "stop": 420.157,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess the question I was trying to ask, Mr. Kneedler, was do you think it's a general principle of administrative law that when there is a claims processing rule that relates only to internal agency process, that the agency gets to decide how much, if any, equitable tolling to allow?"
+                },
+                {
+                    "start": 420.157,
+                    "stop": 452.176,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes. We certainly do believe that. For -- for -- in the first place, most agency time limits are established by the agency itself pursuant to regulation. So, if there had been no statutory 180-day limitation period here, and the Secretary had adopted a regulation imposing that, then whether and the extent to which that provision would be open to extensions for good cause, for some degree of equitable tolling, whatever the factors, would be up to the Secretary in construing her own regulation--"
+                },
+                {
+                    "start": 452.176,
+                    "stop": 475.375,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You refer to these -- to the providers as sophisticated, and that certainly is true, but are they really in a position to double-check the calculation when -- if it were true, and I know you don't agree with this -- if it were true that information needed to make the calculation was intentionally withheld, concealed?"
+                },
+                {
+                    "start": 475.375,
+                    "stop": 488.015,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, as you say, we do not -- we do not agree with that. And the findings by the district court in this case, which was the same district judge who sat in the Baystate case, disagreed with that -- with that conclusion."
+                },
+                {
+                    "start": 488.015,
+                    "stop": 498.573,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I understand that. But if that were the case, would their sophistication allow them to double-check this, or is this just something that is dependent on data that they cannot access?"
+                },
+                {
+                    "start": 498.573,
+                    "stop": 522.855,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it -- it may be more difficult. This was a situation which required the matching of data between CMS and the Social Security administrative -- massive data files of 11 million Medicare claims, I think 6 million SSI claims. And when you have two agencies matching something, there will be errors. And the -- the providers did not know--"
+                },
+                {
+                    "start": 522.855,
+                    "stop": 532.746,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Assume for the sake of your answer that the error was intentional. Don't try to go to the facts, but assume the error was intentional. Now answer Justice Alito's question."
+                },
+                {
+                    "start": 532.746,
+                    "stop": 533.096,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There -- it--"
+                },
+                {
+                    "start": 533.096,
+                    "stop": 538.132,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There -- that might be a contradiction in terms."
+                },
+                {
+                    "start": 538.132,
+                    "stop": 554.327,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--There may be -- there may be situations in which the provider would not know that, but the need -- but the need for finality under this program we think requires an across-the-board rule. Otherwise, a provider could come in -- as this Court suggested in the Your Home case, circumstances--"
+                },
+                {
+                    "start": 554.327,
+                    "stop": 574.24,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If this is a claim processing rule, under what theory could you shield yourself against fraudulent conduct, fraudulent concealment? Under what theory of law would an agency's rule be fair and -- and non-arbitrary--"
+                },
+                {
+                    "start": 574.24,
+                    "stop": 574.857,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 574.857,
+                    "stop": 579.459,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that shielded it from fraudulent acts."
+                },
+                {
+                    "start": 579.459,
+                    "stop": 592.052,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--First of all, we do not believe this is an ordinary claims processing rule. We believe that this is a jurisdictional limitation imposed by the -- by Congress, interpreted by the Court to allow this narrow exception. So we do not believe that--"
+                },
+                {
+                    "start": 592.052,
+                    "stop": 593.685,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why do you keep fighting the question?"
+                },
+                {
+                    "start": 593.685,
+                    "stop": 608.111,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, we do believe that the Secretary, in the interest of -- of finality, can impose that sort of limitation. There's a presumption of regularity in the -- in the operation of -- administration of Federal programs. There are criminal sanctions."
+                },
+                {
+                    "start": 608.111,
+                    "stop": 638.414,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You keep fighting the hypotheticals. There is an intent to save money and an intent not to use the figures that are specified by statute, and that is concealed. In that set of circumstances, if this were a claim processing rule, would you be authorized to treat -- not to -- not to permit the action?"
+                },
+                {
+                    "start": 638.414,
+                    "stop": 669.385,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. We believe the Secretary would be -- would be required to, and we think may well be compelled to. But let me point out, if there was that sort of extraordinary circumstance, then either Congress or the Secretary could provide a special remedy in that situation. If there was an inspector general's report that showed widespread fraud in something, I think Congress or the Secretary could be expected to respond to that in an appropriate way. The question is whether the hard and fast rules that have been adopted should be -- should be open to general equitable tolling principles."
+                },
+                {
+                    "start": 669.385,
+                    "stop": 680.843,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Kneedler, you -- what I find incompatible in your argument is you assert that this is a jurisdictional limitation."
+                },
+                {
+                    "start": 680.843,
+                    "stop": 689.465,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Insofar as the board is concerned. The board has said and the Secretary has said that the board -- this is jurisdictional, and the board has no equitable powers to--"
+                },
+                {
+                    "start": 689.465,
+                    "stop": 708.427,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you think of any other instance in which we have found something to be a jurisdictional limitation and allowed the person or agency subject to that limitation to extend it? I had always thought that once you say it's jurisdictional, it means you have to abide by it."
+                },
+                {
+                    "start": 708.427,
+                    "stop": 725.788,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--As I said, in Bowles the Court was dealing with the jurisdictional time limit for an appeal, but there was a comparable -- there is a comparable statutory provision for the Court to extend that period for good cause. It remains jurisdictional. That was the point in Bowles. It was -- there was a question of whether the--"
+                },
+                {
+                    "start": 725.788,
+                    "stop": 743.683,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if there is another statutory provision, then that -- then that statutory extension is part of the jurisdictional limitation. That's fine. But when you just have a jurisdictional 180 days, without any statutory provision for extension, if it's jurisdictional, I thought that's the end of the game."
+                },
+                {
+                    "start": 743.683,
+                    "stop": 757.927,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. The question is -- some time limitations have been understood to contain explicit -- excuse me, explicit or implicit authorizations for the tribunal concerned. And this--"
+                },
+                {
+                    "start": 757.927,
+                    "stop": 760.61,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Undoubtedly, but have any jurisdictional time limitations?"
+                },
+                {
+                    "start": 760.61,
+                    "stop": 781.875,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, you don't need that label, do you, Mr. Kneedler? You could do just as well with a claims processing label. Maybe you could do better, as Justice Scalia is suggesting, with a claims processing label, as long as with that label comes the general rule that the agency gets to determine the extent of discretion as to late filings."
+                },
+                {
+                    "start": 781.875,
+                    "stop": 804.556,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right. This is a mandatory -- this is a mandatory -- even if nonjurisdictional, it is a mandatory limitation. And the question is whether the statute contains an implicit authorization, whether the Secretary could permissibly construe it to allow for this narrow good cause exception comparable to the one for extending the time--"
+                },
+                {
+                    "start": 804.556,
+                    "stop": 815.93,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The problem with taking that approach, of course, and I assume why you assert that it's jurisdictional, is that there is a long history of both the board and the Secretary regarding this as jurisdictional."
+                },
+                {
+                    "start": 815.93,
+                    "stop": 816.647,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, that is--"
+                },
+                {
+                    "start": 816.647,
+                    "stop": 817.716,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They have said it."
+                },
+                {
+                    "start": 817.716,
+                    "stop": 848.751,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--that is -- that is correct. But I think it's also important to recognize that the -- that this statute was enacted, the regulations were adopted before this Court's recent jurisprudence identifying some things as jurisdictional, some things as claim processing, primarily focusing on the judicial situation. Here, we have a statute governing procedures in an administrative agency and regulations adopted at a time before that bifurcated way of looking at things arose."
+                },
+                {
+                    "start": 848.751,
+                    "stop": 909.141,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. But that's why I wonder what the basic underlying principle is. I mean, I would have thought, but I'm not sure what you think, that -- that the way to look at these cases is, using ordinary principles of statutory interpretation, would a reasonable legislator, having enacted these words, intend to give the agency a degree of leeway in interpreting the statute? Now, if that's the basic question, it helps but isn't determinative whether you classify this as a claims processing rule or a jurisdictional rule. Those are conclusions. But, really, it's the question of leeway that the Congress intended to -- to delegate to the agency that is determinative. If the answer to that question is yes, your rule stands regardless of label, and if the answer to the question is no, it fails regardless of label."
+                },
+                {
+                    "start": 909.141,
+                    "stop": 933.774,
+                    "speaker": {
+                        "name": "Edwin S. Kneedler",
+                        "ID": 22617,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct. And I want to make clear that under whatever the answer to that precise question, the Respondents in this case lose, because whether -- if it's an absolute rule to which there can be no exception or the Secretary's regulation allowing a limited exception is valid, in no case would the sort of open-ended tolling regime that the court of appeals imposed be permissible. If I may, I'd like to reserve the balance of my time."
+                },
+                {
+                    "start": 933.774,
+                    "stop": 948.016,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Manning."
+                }
+            ],
+            "start": 9.839,
+            "stop": 974.001
+        },
+        {
+            "turns": [
+                {
+                    "start": 948.016,
+                    "stop": 974.001,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Congress in two ways signaled its intention to treat the time limitation prescribed by subsection (a)(3) as absolute, that is as not subject to waiver and not subject to equitable tolling. First, Congress chose to locate that provision in the very part of the statute that defines the board's jurisdiction, that is to say, in the part that determines the class--"
+                },
+                {
+                    "start": 974.001,
+                    "stop": 979.322,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It didn't talk about the board. It talks about what a party can do, not what the board can or cannot do."
+                },
+                {
+                    "start": 979.322,
+                    "stop": 993.329,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--You're entirely, entirely right, Justice Sotomayor. It talks about the right of the provider to get a hearing in the provision of the statute that determines the class of cases that the provider may hear."
+                },
+                {
+                    "start": 993.329,
+                    "stop": 1000.485,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's not the prototypical limitation that Congress uses when it intends a jurisdictional limit on a court."
+                },
+                {
+                    "start": 1000.485,
+                    "stop": 1021.815,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "No, it's not, Your Honor. But in several cases this Court has held that similar statutes that are framed in terms of the party's right to invoke the power of the tribunal, that those are jurisdictional statutes. The Court has never addressed the question whether they can be -- they must be framed in terms of the power of the board or in terms of the right of the party to invoke the power of the board."
+                },
+                {
+                    "start": 1021.815,
+                    "stop": 1068.545,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We have talked about what the -- the fact that there almost is a presumption of a claims processing rule, rather than jurisdictional, unless Congress is clear about that. What policy supports an argument that we should be reading limitations of this kind as jurisdictional, particularly when on the same day the statute was passed the agency, invoking its regulatory powers, treated it like a claim processing? Whatever your colleague argues, a good cause exception, the 3-year exception, everything else is really treating it like a claim processing rule, not as jurisdictional."
+                },
+                {
+                    "start": 1068.545,
+                    "stop": 1151.316,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Justice Sotomayor, you're entirely right that the test that this Court has prescribed in this area of law is focused on congressional intent. In Arbaugh, this Court said that the touchstone is congressional intent, that the design of this Court's rules is to put the ball in Congress' court. This Court has put a thumb on the scale against jurisdiction because of the hard consequences that follow from deeming a procedure jurisdictional. In this case, the agency's regulation, no matter how old it is, is invalid because Congress signaled a clear intention to treat this as jurisdictional in two ways: One, by putting it in the provision of the statute that defines the board's jurisdiction. But, secondly, Congress in this statute created two different kinds of deadlines, one for providers and one for beneficiaries. Both set almost identical deadlines for administrative appeals. It's 6 months for beneficiaries, 180 days for providers. But there is a fundamental difference in the way Congress treated these two sets of deadlines, and the fundamental difference is that Congress explicitly gave the Secretary authority, discretion, to extend the deadline for beneficiaries. It gave no such discretion to extend the deadline for providers. And the same story plays out in the 60-day limits that govern judicial review. Discretion--"
+                },
+                {
+                    "start": 1151.316,
+                    "stop": 1185.52,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This -- this agency not more than 3 years extension, that was adopted after notice and comment, and Congress amended this statute several times thereafter, but it left this -- this 3-year outside limit intact. So if Congress really wanted there to be no leeway at all, then it should have done something about that regulation."
+                },
+                {
+                    "start": 1185.52,
+                    "stop": 1248.011,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Justice Ginsburg, you're entirely right. Congress has amended the statute, in fact, eight times since the Secretary promulgated her regulation establishing a good cause requirement. But this Court has in recent years been more careful about finding acquiescence than it did at one time. In the Solid Waste Authority of Northern Cook County, what this Court said is that before it will find that Congress has acquiesced, there must be evidence that Congress was aware of the regulation and a clear signal that Congress meant to embrace or put in place this regulation. And this is a sound policy because Congress leaves regulations in place for all sorts of reasons, because somebody is using a parliamentary tactic, because Congress doesn't have one opinion or the other about whether the regulation is right, because Congress didn't think of the problem. So, in recent years, this Court has insisted upon a high degree of proof before it will find acquiescence, and that degree is not present here. There is no evidence that Congress was aware of this regulation, much less that it approved of it."
+                },
+                {
+                    "start": 1248.011,
+                    "stop": 1300.379,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but you have three -- the point that you make is right, that -- that you have specific language in the beneficiary part and not here; but, you have the other way, the point that Justice Ginsburg made, the fact that the language here is -- is -- doesn't say file within 180 days. It says you may have a hearing if you file within 180 days. It doesn't say what happens if you don't. It's open, the language. And the subject matter is not a court. The subject matter is a rather technical agency review board. And normally, I would think, you would think, and members of Congress would think that the agency knows best as to how to run its own operation and don't interfere too much in details, and this is a sort of detail. So those are the things against you, it seems to me, though the thing you cite is certainly for you."
+                },
+                {
+                    "start": 1300.379,
+                    "stop": 1333.982,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Quite -- quite right, Your Honor. And typically an agency has discretion to set its own procedures, as the Government argues. And the Government is quite right to cite Vermont Yankee. And I would add Chevron, that -- that the Government promulgated its regulation in a Chevron-eligible format. But Chevron only applies if the statute is not clear, and here we say that Congress addressed the precise question in issue. It's very difficult when one reads the beneficiary provisions and provider provisions, which are quite different. One provides discretion, and one doesn't. And what Respondents would have--"
+                },
+                {
+                    "start": 1333.982,
+                    "stop": 1348.506,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "One was passed long, long ago, and was part of the Social Security Act or something, the one you're talking about, and passed many years before the second one was passed. And when they're sitting in Congress writing, you know, they don't know everything that was passed in history."
+                },
+                {
+                    "start": 1348.506,
+                    "stop": 1416.734,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--You're exactly right, Justice Breyer. But Congress, in Section 2990 of the 1972 Act, that enacted -- that created the PRRB, amended and reenacted the provision from the 1965 legislation that prescribed the beneficiary review provisions. It incorporated by reference provisions that gave the Secretary express discretion to extend those deadlines. So in the same statute, what Congress did was it set up two systems, one for beneficiaries and one for providers. One prescribed discretion, one didn't. What the Respondents are asking this Court to do is to read these two sets of provisions, which are worded very differently, to mean the same thing, to mean that the Secretary has discretion whether Congress gives it or doesn't. And I submit that that's a good reason to treat this as a step one case. The Secretary does not merit deference in this case because the statute is clear. And to return to Justice Sotomayor's question about the phrase -- and your question about the phraseology of subsection (a), this Court held in Bowles v. Russell that Section 2107 is jurisdiction notwithstanding that it--"
+                },
+                {
+                    "start": 1416.734,
+                    "stop": 1436.998,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That was in part the point I raised earlier, which is we look at what the history is to help inform our use of labels. The history here -- you can't ignore it -- is that from its inception, whether it's trying to disclaim it now or not, the agency has not treated it as jurisdictional. It's used the word--"
+                },
+                {
+                    "start": 1436.998,
+                    "stop": 1437.731,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1437.731,
+                    "stop": 1441.718,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but it's treated it as a claim processing rule by creating these exceptions."
+                },
+                {
+                    "start": 1441.718,
+                    "stop": 1485.664,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, you're right, Justice Sotomayor. But my question -- the question that that raises is this: From the very beginning, this agency has -- all three of the agencies -- the Secretary, CMS and the board -- have all described this provision as jurisdictional and non-waivable. At the same time, they have tried to create this exception. In the -- in the 2008 regulations that narrowed the good cause exception, the Secretary acknowledged that there was a question about whether the good cause exception was consistent with the characterization of the time limitation as jurisdictional, acknowledged that there was a split of authority on that, and suggested that the courts would have to resolve it. This is not--"
+                },
+                {
+                    "start": 1485.664,
+                    "stop": 1533.46,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There is -- there is a lot of discussion and confusion between jurisdiction, mandatory claim processing rules, nonmandatory claim processing rules. I could go on and on about the labels. But let's go back to the point Justice Kagan made earlier, which is, assuming we were to treat this as a mandatory claim processing rule, where does that get you? Now, the agency says that means no equitable tolling. Assuming I'm willing to accept that, is equitable tolling the same as fraudulent concealment, which has been treated in the law not as a necessary part of equitable tolling, which has to do with what the plaintiff could have done or not done, but with what a defendant has done or not done?"
+                },
+                {
+                    "start": 1533.46,
+                    "stop": 1552.106,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Justice Sotomayor, this Court has said that if a time limitation is jurisdictional, that limitation is absolute. That includes no equitable tolling. In Irwin, this Court included among the grounds for equitable tolling the intentional concealment of information that was necessary to--"
+                },
+                {
+                    "start": 1552.106,
+                    "stop": 1555.058,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why don't you -- why don't you take another minute to finish your answer."
+                },
+                {
+                    "start": 1555.058,
+                    "stop": 1586.494,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Certainly. So if it's jurisdictional, Justice Sotomayor, then even if the -- even if the CMS intentionally withheld this information, the time limit would be absolute and would not be extendable. On the other hand, I believe that if the statute is not jurisdictional, it's subject to equitable tolling; under Irwin, the presumption of equitable tolling applies; and, it's very difficult to see how the Secretary is warranted in narrowing equitable tolling beyond the traditional grounds on which equitable tolling would be available."
+                },
+                {
+                    "start": 1586.494,
+                    "stop": 1587.529,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel."
+                },
+                {
+                    "start": 1587.529,
+                    "stop": 1587.929,
+                    "speaker": {
+                        "name": "John F. Manning",
+                        "ID": 31702,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Thank you."
+                },
+                {
+                    "start": 1587.929,
+                    "stop": 1596.885,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Roth."
+                }
+            ],
+            "start": 948.016,
+            "stop": 1599.254
+        },
+        {
+            "turns": [
+                {
+                    "start": 1596.885,
+                    "stop": 1599.254,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court--"
+                },
+                {
+                    "start": 1599.254,
+                    "stop": 1602.539,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you agree with that last statement?"
+                },
+                {
+                    "start": 1602.539,
+                    "stop": 1603.256,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I--"
+                },
+                {
+                    "start": 1603.256,
+                    "stop": 1607.341,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think an agency is not permitted to have mandatory claim processing rules?"
+                },
+                {
+                    "start": 1607.341,
+                    "stop": 1609.376,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Excuse me, Your Honor?"
+                },
+                {
+                    "start": 1609.376,
+                    "stop": 1620.417,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you believe an agency is not capable of having mandatory claim processing rules, that it limits the application of equitable principles?"
+                },
+                {
+                    "start": 1620.417,
+                    "stop": 1662.16,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The agency could have mandatory claims processing rules to the extent -- with the leeway that was provided by Congress. Here, the leeway ends when you have -- when you have issues, like Your Honor was talking about, with intentional concealment, when you have actions by the Secretary, misconduct by the Secretary, that caused the statute of limitations time to be missed. One would have to assume that the -- that the Congress has delegated to the fox to determine who is in charge of the henhouse. So there is a limitation, Your Honor, on how far the agency can go, and it cannot go as far as to shield itself from judicial review of its own misconduct."
+                },
+                {
+                    "start": 1662.16,
+                    "stop": 1672.266,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would our review be an APA review, whether the rule is arbitrary or capricious?"
+                },
+                {
+                    "start": 1672.266,
+                    "stop": 1707.939,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I think that -- that the APA review would start under step one. And we believe that the statute is clear on this point, that under step one of Chevron, that this has not been delegated to the agency to determine what the judicial review should be available in the context of agency misconduct, Your Honor. And in fact, Your Honor, there is -- 1395oo provides no support for the Government's proposition that Congress intends undetectable and undisclosed agency misconduct to deprive hospitals of the payments Congress promised."
+                },
+                {
+                    "start": 1707.939,
+                    "stop": 1731.389,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, nobody -- nobody intends that when they -- when they adopt an absolute rule. I mean, you can create a horrible with respect to any absolute jurisdictional rule. That's easy to do. So the mere fact that a horrible could occur does -- does not at all persuade me that -- that a rule is not absolute."
+                },
+                {
+                    "start": 1731.389,
+                    "stop": 1741.41,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the horrible that we're talking about here, Your Honor, is agency misconduct. And it's been a longstanding principle of law that defendants should not benefit from their own misconduct."
+                },
+                {
+                    "start": 1741.41,
+                    "stop": 1753.402,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And why do you say that? I mean, the record that we have says that the CMS failed to use the best available data. It doesn't say anything about deliberate concealment."
+                },
+                {
+                    "start": 1753.402,
+                    "stop": 1788.575,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, the -- this case arises on -- comes to this Court after a motion to dismiss was granted, and so that the -- that the Court would have to take as true the allegations in the complaint. And the allegations in our complaint in paragraph -- in paragraph 30 -- 38, Your Honor, raise this question. And that can be found -- let's see -- do you have -- in the joint appendix--"
+                },
+                {
+                    "start": 1788.575,
+                    "stop": 1806.37,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, in any event, the Baystate case, which is what revealed all of this, in that case the district judge there didn't say -- he said they didn't use the best available data. He didn't find any deliberate concealment."
+                },
+                {
+                    "start": 1806.37,
+                    "stop": 1916.257,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct, Your Honor, and because that issue was not before the court and it was not necessary for the court to make that finding for purposes of addressing that case. I'm at the joint appendix at 2829, which is paragraph 38 of our complaint. And paragraph 38 in our complaint presented one aspect of this concealment, which was a misleading aspect of the agency's actions here, where the agency said that matching on the basis of Social Security numbers was the best way to deal with this -- this matching of the data that my colleague from the Government was discussing. And it ends up that the -- that it turns out years later that in fact the Secretary didn't match on the basis of Social Security numbers, and that made an enormous difference with respect to how that -- how the disproportionate share hospital benefit would be calculated. So -- so the reason the district court and the Baystate case didn't have to make findings about fraud or similar fault or delve that much into the agency action was because that case came to the Court through the traditional appeals process without having -- and so a finding as to the actions of the Secretary and characterizing those actions as whether they're misconduct or not was not necessary to addressing the case as it was before the district court in that -- at that time. The -- but we are talking -- while we are talking about the disproportionate share hospital payment, Your Honor, let me simply -- let me simply mention that what we are talking about here are safety net hospitals. We are talking about those hospitals that provide services to -- to a high percentage of poor people, and Congress had found that those patients are more expensive to treat."
+                },
+                {
+                    "start": 1916.257,
+                    "stop": 1973.511,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But, Mr. Roth, on the legal question here, I think Justice Breyer is right that this all comes down to congressional intent, how we read this statute. One response to reading the briefs in this case is that you and Mr. Manning present opposite views of the statute and both of you say the statute is clear as to your opposite view. In other words, Mr. Manning says the statute clearly prohibits equitable tolling and you say the statute clearly requires equitable tolling. And both of you have kind of decent arguments, and one response to that might be to say Mr. Kneedler is right that the statute is just ambiguous and that it can be read a bunch of different ways, and both of you have presented good arguments, but in the end it really all goes to show that there is a lack of clarity here and then it's up to the agency to decide."
+                },
+                {
+                    "start": 1973.511,
+                    "stop": 1981.034,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, of course, Your Honor, the statute is clear and equitable tolling is permitted."
+                },
+                {
+                    "start": 1981.034,
+                    "stop": 1993.091,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course -- of course one can always make an argument on the other side and the mere fact that an argument is made on the other side does not prove that it's not clear. That's what lawyers do. They make arguments on the other side."
+                },
+                {
+                    "start": 1993.091,
+                    "stop": 2021.175,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But here, Your Honor, the -- when you look at the factors that underpin the Government's position here that somehow the Government can decide that it can preclude this Court from reviewing agency misconduct -- you heard the Government talk about the need for finality. Well, the need for finality is not something that's articulated in the -- in the Medicare Act except to the extent in a statute that's protective of providers. There is not a--"
+                },
+                {
+                    "start": 2021.175,
+                    "stop": 2077.611,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are there examples? I mean, it seems to me that even if you lose this -- I mean, I mentioned the three arguments against you, the other -- the ambiguity of the language and so forth. So if it ends up, even though it's not just a lawyer's argument, it isn't really that clear and they do have some authority, you then have the second string, which is you say their rule is unreasonable because it has an absolute 3-year cutoff instead of a little flexibility there for fraudulent concealment. So do you have statutes, are there statutes that say 3, or are there cases that say 3 years is not enough, that you have to have more than 3 years? I thought 3 years a pretty long time. I mean, I guess they can't go back to fraudulent concealment pre-Civil War, you know. I mean there's some period that must be reasonable to cut everything off and what is that period? What do the cases say? If it isn't 3 years, what is it?"
+                },
+                {
+                    "start": 2077.611,
+                    "stop": 2086.517,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, the Secretary has addressed this question in the context of fraud or similar fault by providers, and they said there should be no time limit at all."
+                },
+                {
+                    "start": 2086.517,
+                    "stop": 2096.242,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's their view there, and their view here, which is a different kind of thing, is that 3 years is enough. The question is, is that reasonable and do you have any authority that says it's unreasonable?"
+                },
+                {
+                    "start": 2096.242,
+                    "stop": 2108.55,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought the 3 years provision applied only to the secretary, that she gives herself 3 years to go back and sort things out, but only gives you 180 days; is that right?"
+                },
+                {
+                    "start": 2108.55,
+                    "stop": 2187.067,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The Secretary -- well, depends what sort. If the \u201c sort it out \u201d means recovering overpayments, the Secretary has an unlimited amount of time to recover overpayments that are the fault or similar -- fraud or similar fault on a provider. If it is not fraud or similar fault on a provider, the reason the Secretary can't go back more than 3-plus years is because the statute permits it. 42 U.S. Code 1395gg, which is not cited in the Government's brief, that says that at the end of the third year after payment that the payment becomes final as long as the provider and the beneficiary was without fault with respect to the payment. So that 3-year limitation that the Government touts in 1885 was not a subject of an administrative determination that they made. That was simply they were, they were following a statute. And when you look in the Medicare Act for evidence of a statute that should limit, impose finality in some way, that statute is the only one and it's protective of providers. And what the Secretary has done here is it enacted -- it promulgated a regulation and the regulation provides for an unlimited time period to recover in the face of--"
+                },
+                {
+                    "start": 2187.067,
+                    "stop": 2200.042,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Justice Scalia was not correct in what he just said. The 3 years is for the provider. The 3 -- under the Secretary's regulations, the provider gets an additional 3 years but no more. Isn't that right?"
+                },
+                {
+                    "start": 2200.042,
+                    "stop": 2215.419,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the 3-year is both -- it -- it goes both ways, Your Honor, that under the reopening rule that providers have up to 3 years to come in to ask for relief."
+                },
+                {
+                    "start": 2215.419,
+                    "stop": 2223.342,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. But it's not 180 days for them. It's 180 days plus an extension up to 3 years."
+                },
+                {
+                    "start": 2223.342,
+                    "stop": 2252.444,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's -- well, but after the 180-day period there is no right to judicial review. With the reopening -- if there would be a denial of the reopening request, that denial of the reopening request, as this Court said in Your Home, would not be subject to judicial review. So the extension of time there, Your Honor, would be available, but would not have recourse; and without recourse to judicial review, when you have an issue here like secretarial misconduct, that means there will be no review at all, Because--"
+                },
+                {
+                    "start": 2252.444,
+                    "stop": 2276.892,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you challenging -- I mean, there is a rule that says that -- there is a regulation that for fraud it's -- the time is unlimited. But that regulation the Government says applies only to the provider, not to the Government. Are you challenging the agency's reading of the word \u201c party \u201d in that regulation?"
+                },
+                {
+                    "start": 2276.892,
+                    "stop": 2306.412,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, we -- again, this came to the Court on a motion to dismiss, but we think that the Secretary's interpretation of that ruling has changed from when it was -- when it was promulgated in 1974, when during the rulemaking process they specifically changed that rule to get -- to eliminate the reference only to a provider and it's to any party. And so that rule ought to be applied in a way that provides equilibrium, that it would apply both against secretarial misconduct--"
+                },
+                {
+                    "start": 2306.412,
+                    "stop": 2313.566,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did you make that argument in this case? I wasn't aware that you had challenged the interpretation of the fraud regulation."
+                },
+                {
+                    "start": 2313.566,
+                    "stop": 2338.633,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We -- we speak at some length in the brief under this rubric of the one-way ratchet. This is the one-way ratchet that we were talking about, Your Honor, in that, with respect to the reopening rule, the Secretary has provided an unlimited amount of time. So finality is not an issue with respect to correcting -- correcting these payments that arise from the fraud or similar fault of the provider."
+                },
+                {
+                    "start": 2338.633,
+                    "stop": 2349.608,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, I'm about 5 minutes behind. The gg provision that you said the Government didn't cite, you mentioned a provision that ended anyway with gg."
+                },
+                {
+                    "start": 2349.608,
+                    "stop": 2350.441,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2350.441,
+                    "stop": 2351.775,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that in your brief?"
+                },
+                {
+                    "start": 2351.775,
+                    "stop": 2353.427,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. No, that is--"
+                },
+                {
+                    "start": 2353.427,
+                    "stop": 2354.877,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that in the amici's brief?"
+                },
+                {
+                    "start": 2354.877,
+                    "stop": 2357.178,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It is not cited in any of the briefs, Your Honor."
+                },
+                {
+                    "start": 2357.178,
+                    "stop": 2360.98,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is it anywhere that I can find, other than -- I mean, is it in the appendix to any brief?"
+                },
+                {
+                    "start": 2360.98,
+                    "stop": 2364.634,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. Sorry, Your Honor. We do not have -- this is not before the Court."
+                },
+                {
+                    "start": 2364.634,
+                    "stop": 2368.736,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's a little bit much to chide the Solicitor General for not citing it when nobody cited it."
+                },
+                {
+                    "start": 2368.736,
+                    "stop": 2445.669,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That is true, Your Honor, and that -- that is correct. But in citing 405.1885 and the reason that we're bringing it up, Your Honor, for the first time on rebuttal is that in the -- in the Government's reply brief, they went out of their way to try to characterize the reasonableness of the Secretary: You can trust the Secretary here because the Secretary has said, look, after 3 years we consider there to be finality and we don't go back after the -- after the -- after the providers, you know, except for fraud or similar fault, as if this had been a gift, an interpretation from the Secretary. It wasn't, Your Honor. That's why we are raising it here, Your Honor, because under the 1395gg provision they can't go back and that's why they have their reopening regulation. And that reopening regulation is an order from Congress. And what we have here, Your Honor, is that you have this concept at least arising from Congress; when you look at the 1395gg, you look at the appeals statute in 1395oo, is that you have an expectation from Congress that the providers within their 180 days will be able to know exactly what happened and why they were underpaid. And here of course that underpayment was concealed."
+                },
+                {
+                    "start": 2445.669,
+                    "stop": 2454.675,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that reopening -- is that reopening provision, the mysterious gg, is -- is that subject to equitable tolling, too?"
+                },
+                {
+                    "start": 2454.675,
+                    "stop": 2456.877,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The -- well, the--"
+                },
+                {
+                    "start": 2456.877,
+                    "stop": 2458.51,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And if not, why not?"
+                },
+                {
+                    "start": 2458.51,
+                    "stop": 2524.188,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, 1395gg simply says that a -- that a -- that a provider and a beneficiary will not be subject to overpayment recoveries if they were without fault. And what we -- and whether it would be susceptible for equitable tolling is not before the Court at this point, but that rule at least is applied equally on both sides. In other words, if -- if the -- if a provider was underpaid because of its own fault, this case isn't about any -- any relaxation of that rule. Providers are on the hook for that. On the other hand, where a provider is underpaid because of the secretive conduct, the undisclosed and undetectable conduct of the Secretary, that is the -- that's an area where we would find that the very concept of equitable tolling is inherent in 1395oo. Remember, the trigger point in 1395oo is notice. That is -- and, again, that goes against this concept that it is jurisdictional. It's a claims processing statute. And here, Your Honor, the notice was defective. When they issued--"
+                },
+                {
+                    "start": 2524.188,
+                    "stop": 2552.439,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Roth, I'm not certain about the extent of your argument, so let me -- let me try something. Are you saying that any time Congress passes a statute saying, you know, there is 30 days to do this, there is 60 days to do this, in the agency context now as to administrative process, that Congress necessarily means that equitable tolling applies and that the agency cannot limit that equitable tolling?"
+                },
+                {
+                    "start": 2552.439,
+                    "stop": 2605.89,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Your Honor, that if the issue is the -- is the agency's own misconduct, that Congress would -- to -- to read that Congress intended in a situation under the -- like this under the Medicare Act, where we're talking about a procedural right to that -- to enforce a substantive right. In other words, we have here providers who have provided services. And under their agreement with the Secretary, they provide services, and they get paid for those services. If there were an attempt to limit that payment, to cut off that payment because of some agency misconduct, because of the expiration of a -- of a -- of a statute of limitations, we don't believe Congress ever intended that its payments would be cut off because of agency misconduct that caused a provider to miss -- to miss a deadline that caused the expiration of a statute of limitations."
+                },
+                {
+                    "start": 2605.89,
+                    "stop": 2619.633,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not sure how we can limit this to agency misconduct. Suppose there is a computer glitch in a program, completely good faith, and the computer just spits out the -- the wrong information and nobody knows about it. That's not misconduct."
+                },
+                {
+                    "start": 2619.633,
+                    "stop": 2620.75,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's not misconduct."
+                },
+                {
+                    "start": 2620.75,
+                    "stop": 2621.185,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And -- but--"
+                },
+                {
+                    "start": 2621.185,
+                    "stop": 2621.735,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We would agree, Your Honor."
+                },
+                {
+                    "start": 2621.735,
+                    "stop": 2623.635,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But you would say no equitable tolling in that case?"
+                },
+                {
+                    "start": 2623.635,
+                    "stop": 2628.755,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's not -- that -- this case -- that -- that is a mistake. That's an error."
+                },
+                {
+                    "start": 2628.755,
+                    "stop": 2633.874,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, that would be good cause. It seems to me that would be good cause under the -- under the Secretary's rules."
+                },
+                {
+                    "start": 2633.874,
+                    "stop": 2646.551,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That has never been good cause under Secretary's ruling. But potentially. But that is not what -- that would be the level -- that would not be misconduct. That would not trigger equitable tolling, as opposed to the facts of this case."
+                },
+                {
+                    "start": 2646.551,
+                    "stop": 2648.001,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I don't know -- I don't know why it wouldn't."
+                },
+                {
+                    "start": 2648.001,
+                    "stop": 2648.351,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "What's that?"
+                },
+                {
+                    "start": 2648.351,
+                    "stop": 2655.489,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean to say that if that happened, under the Secretary's rule, the Secretary would abuse its discretion in extending the time for 3 years?"
+                },
+                {
+                    "start": 2655.489,
+                    "stop": 2658.858,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "For -- excuse me? For recovering -- for the--"
+                },
+                {
+                    "start": 2658.858,
+                    "stop": 2659.774,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2659.774,
+                    "stop": 2660.758,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--for a provider to make an appeal?"
+                },
+                {
+                    "start": 2660.758,
+                    "stop": 2661.31,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2661.31,
+                    "stop": 2677.836,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, they don't have to extend the time, Your Honor. They can simply provide by administrative payment to -- to fix the problem. They don't have to circle it through -- through an appeals process if the government found out. And, in fact, Your Honor, there is another regulation. It's unfortunately--"
+                },
+                {
+                    "start": 2677.836,
+                    "stop": 2686.442,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I just find it hard -- hard to see why this is -- you're saying that the equitable tolling rule, the agency does have the 3-year rule."
+                },
+                {
+                    "start": 2686.442,
+                    "stop": 2686.975,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 2686.975,
+                    "stop": 2690.827,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It is limited to misconduct?"
+                },
+                {
+                    "start": 2690.827,
+                    "stop": 2694.028,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor. But the facts that you're talking about--"
+                },
+                {
+                    "start": 2694.028,
+                    "stop": 2697.516,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you're arguing for -- in a way, for a narrower rule than what the government--"
+                },
+                {
+                    "start": 2697.516,
+                    "stop": 2721.448,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, let me say that the facts that you're talking about are addressed explicitly in 42 CFR 405.980. And what the government has said in that regulation is that when there has been clerical error, claims can be reopened indefinitely. That's another indefinite time period."
+                },
+                {
+                    "start": 2721.448,
+                    "stop": 2744.73,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, suppose it's just what the Baystate court said it is. It isn't deliberate concealment, but it is failure to use the best available data. And I think the argument you just presented is equitable tolling is tied to misconduct. So just failure to use the best available data, not deliberate concealment, wouldn't make it."
+                },
+                {
+                    "start": 2744.73,
+                    "stop": 2766.911,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, in this case, Your Honor -- well, simply, if it was knowing use of bad data, in other words if the government, as in this case, was aware that there was better data to be had, that would rise to the level of the kind of conduct that could be subject to equitable tolling; whereas, simple mistakes are already addressed with the Secretary's regulations--"
+                },
+                {
+                    "start": 2766.911,
+                    "stop": 2771.714,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what -- what circumstances trigger equitable tolling in your view?"
+                },
+                {
+                    "start": 2771.714,
+                    "stop": 2776.766,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, equitable tolling is certainly triggered under the circumstances of this case, Your Honor, because--"
+                },
+                {
+                    "start": 2776.766,
+                    "stop": 2790.776,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but suppose that the fact finding turns out that the -- that there is no deliberate concealment, but there is merely a failure to use the best available data."
+                },
+                {
+                    "start": 2790.776,
+                    "stop": 2807.054,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, if we don't -- if we don't have that extra level of -- of that -- of that level of concealment, Your Honor, I don't think that we would have the misconduct that this Court has cited in the -- in the Bowen case, and before that in -- in Irwin and footnote 4 in the Gluss case that would rise to the level of which -- at which equitable tolling would apply."
+                },
+                {
+                    "start": 2807.054,
+                    "stop": 2811.84,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you would have to prove that before we know whether there is equitable tolling."
+                },
+                {
+                    "start": 2811.84,
+                    "stop": 2822.813,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We -- we -- well, we've made that allegation in our complaint, Your Honor. And we believe that -- that assuming those allegations to be true for purposes of this hearing, which--"
+                },
+                {
+                    "start": 2822.813,
+                    "stop": 2833.455,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but I'm asking you, if you get past that hurdle, then we never -- we won't know that there is equitable tolling until we have tried out the question of the character of--"
+                },
+                {
+                    "start": 2833.455,
+                    "stop": 2855.884,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Absolutely, Your Honor. If we -- if we get past this -- this -- this -- and there would be a remand, it would -- the burden then would be on the hospitals at that time to, in fact, show that equitable tolling could apply. The issue in this Court is whether it should foreclose permanently the availability of equitable tolling, even in the face of allegations of agency misconduct -- excuse me--"
+                },
+                {
+                    "start": 2855.884,
+                    "stop": 2881.619,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess I'm not sure I understand this, Mr. Roth. Are you saying that in all of our cases about the presumption in favor of equitable tolling, when we talk about equitable tolling we are only talking about misconduct or fraud cases? You know, as opposed to the case where it's just a person cannot possibly know the -- the information that would back up a claim, and that we regard that as a good excuse."
+                },
+                {
+                    "start": 2881.619,
+                    "stop": 2898.147,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Your Honor. Whether it was Henderson or -- or other cases, those cases recognize, those cases have focused on what happened to the claimant, and the claimant missed a deadline. Holland, it was a deadline that was missed. There wasn't misconduct on the other side."
+                },
+                {
+                    "start": 2898.147,
+                    "stop": 2898.513,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2898.513,
+                    "stop": 2900.147,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And those were subject to equitable tolling."
+                },
+                {
+                    "start": 2900.147,
+                    "stop": 2908.169,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that most of your argument was built on the presumption in favor of equitable tolling that we've recognized in those cases--"
+                },
+                {
+                    "start": 2908.169,
+                    "stop": 2908.519,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 2908.519,
+                    "stop": 2918.644,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and whether it applied to the agency context. But now you're saying that in the agency context, it's -- it's a different kind of equitable tolling that we are talking about, a more limited kind?"
+                },
+                {
+                    "start": 2918.644,
+                    "stop": 2936.772,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the -- what -- the equitable tolling rule that the Court has found in those other cases would certainly come into play. This case goes farther. This case even goes farther than Bowen v. City of New York because it has affirmative misconduct by the Secretary."
+                },
+                {
+                    "start": 2936.772,
+                    "stop": 2951.032,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what about -- then let's get back to the question I really meant to ask before. You know, assuming they have some authority here to write a rule, you want to say a 3-year absolute rule is not reasonable in this situation. So what is?"
+                },
+                {
+                    "start": 2951.032,
+                    "stop": 2952.265,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2952.265,
+                    "stop": 2977.047,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, you want to go back to the Civil War? I mean, let's imagine you really have the strongest possible case. All the records burned up, and it took 5 years for scientists to reproduce the records by putting charred pieces of paper together. Okay? So you couldn't possibly bring your claim until they finished. That's a pretty equitable claim. 5 years okay? 10? What is the -- 100? I mean, what?"
+                },
+                {
+                    "start": 2977.047,
+                    "stop": 3001.879,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, in this instance, the -- the question of how to limit a circumstance where a provider is not getting paid, gotten paid the amount promised by Congress, one way to -- to limit that is by time. But recall here, Your Honor, that the Secretary could eliminate this issue entirely by simply being more transparent. This issue arises--"
+                },
+                {
+                    "start": 3001.879,
+                    "stop": 3021.692,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What I hear you saying is go back to the Revolutionary War. If it took 100 years to put the papers together, you're saying no time limit at all is -- is the only reasonable solution, because there are too many weird cases or unusual cases or misconduct cases. You've got to have some exception in there forever."
+                },
+                {
+                    "start": 3021.692,
+                    "stop": 3022.175,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, if--"
+                },
+                {
+                    "start": 3022.175,
+                    "stop": 3024.977,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that right? If that is your position, I just want to know."
+                },
+                {
+                    "start": 3024.977,
+                    "stop": 3035.433,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That is -- that is the position because in order to -- to prevail in equitable tolling, we would have to show that the providers here were diligent, and that's a self-limiting factor."
+                },
+                {
+                    "start": 3035.433,
+                    "stop": 3040.404,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. And by the way, do we -- are you supposed to, in such circumstances, give the agency's own determination some weight?"
+                },
+                {
+                    "start": 3040.404,
+                    "stop": 3042.523,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The agency's own determination?"
+                },
+                {
+                    "start": 3042.523,
+                    "stop": 3052.462,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. They'll come in and say, I don't care what the cause is, there isn't cause here because we weren't that awful. And now, does the judge give them some weight?"
+                },
+                {
+                    "start": 3052.462,
+                    "stop": 3082.231,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If the Secretary here decided to attack head-on this concept of equitable tolling and deal with this question of finality straight up and say, you know, here -- here is how we think that -- that finality should be -- should be handled even in the -- even in the context of secretarial misconduct, by for example saying within the 3-year period any provider who feels that we've misrepresented data, come in, you can come in and look at our data, but after 3 years the time limit is over, I think that's a rule that could exist, Your Honor."
+                },
+                {
+                    "start": 3082.231,
+                    "stop": 3088.468,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, subject to arbitrary and capricious review under Chevron."
+                },
+                {
+                    "start": 3088.468,
+                    "stop": 3092.672,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Subject, of course, to arbitrary and capricious review on that. But the point--"
+                },
+                {
+                    "start": 3092.672,
+                    "stop": 3132.497,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Why in your case, even assuming that there might be equitable tolling, here is it -- is it 10 years later? And there was this Baystate case going on. You -- you didn't file immediately after that litigation was instituted. You waited until those plaintiffs won their case. You waited till there was a decision of the lower court. So it seems to me you -- you said there's a requirement of diligence. Why -- why didn't you have to file when you were first on notice, which you would have been from the complaint filed in the Baystate case?"
+                },
+                {
+                    "start": 3132.497,
+                    "stop": 3352.725,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the complaint was filed, Your Honor, in Baystate after we brought our administrative appeal. We brought our administrative appeal soon after the board, the administrative board, rendered its decision. That was the first public pronouncement that there were flaws with the data. There were some providers who had an inkling that some days might have been missed here or there, but there was no sense in the provider community that that arose from a systematic effort by the Government to miscount and then fail to disclose that it in fact miscounted and had misrepresented how it had counted the days. So, Your Honor, diligence of course will be an issue if we -- on remand if we get -- if we get that opportunity. But this -- but the -- but the case here arose after the board issued its decision in the Baystate -- in the Baystate case. And there was a -- and there was a discussion earlier about whether the board has viewed its own jurisdiction as limited in some way. And the fact of the matter is that -- that the board here -- and I focus on the Bradford case in particular. In the Bradford case, the board itself made a determination that equitable tolling should apply in another time limit within the -- within the Medicare Act. That case then goes up to appeal in the Western District of Pennsylvania, and the -- and the court says: You know what, we think equitable tolling should apply, reversing the Secretary, who had reversed the board's finding that equitable tolling should apply. And in that case, the -- the Secretary didn't leave it there. They petitioned for -- for the court to revisit its determination, which the court did and affirmed its decision with respect to the application of equitable tolling. At that point, the Secretary abandoned -- it didn't seek an appeal. It allowed the case to go back to the board and it -- and it -- and it allowed the case to go forward with that deadline having been equitable tolled. So when the Government portrays this as somehow some kind of consistent view, it's not. This board has engaged in equitable determinations going back for those 37 years that the good cause regulation has been in place, because it is that good cause regulation that -- that forced the -- the board to have to deal with these equitable questions about whether -- whether or not the -- whether or not the -- the claim should be considered timely even though the deadline had to be -- had to be extended. The facts that we have here, Your Honor, is that this is really an unprecedented case. This is unprecedented case in Medicare, that we have the agency that says it was doing one thing in a Federal Register document and actually did something different, that then spent years trying to avoid, as was laid out in the Southwest Consulting amicus brief, avoid having those facts come to -- come to -- come to the attention of the providers. There will not be floodgates that result from this either at the board or at the Federal court level, because there are -- there will always be in Medicare a lead case. This is what we saw in the Cape Cod case. There you had a case that resulted in what looked to be billions of dollars of payments to every single hospital in the country as a result of one district court decision and one court of appeals decision. So allowing equitable tolling to address the misconduct of the Secretary in this kind of case will not -- will not -- will not flood the judiciary or the agency and it will not, it will not require an expenditure of money--"
+                },
+                {
+                    "start": 3352.725,
+                    "stop": 3358.712,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How many -- how many cases are there like this pending either at the agency level or in court now?"
+                },
+                {
+                    "start": 3358.712,
+                    "stop": 3379.293,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think that when the Government says there are 80 cases that are pending involving 4,000 cost years and 450 hospitals, those probably mostly, if not entirely, or for the most part relate to -- to this case. And depending on how this case unfolds, those cases will all presumably fall into line, just as in the Cape Cod case."
+                },
+                {
+                    "start": 3379.293,
+                    "stop": 3384.511,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me. Is the miscalculation still going on? I mean, this involved--"
+                },
+                {
+                    "start": 3384.511,
+                    "stop": 3384.83,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there was a change--"
+                },
+                {
+                    "start": 3384.83,
+                    "stop": 3386.897,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--claims 12 years ago."
+                },
+                {
+                    "start": 3386.897,
+                    "stop": 3387.497,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 3387.497,
+                    "stop": 3390.767,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But did they continue from that time forward to the present?"
+                },
+                {
+                    "start": 3390.767,
+                    "stop": 3404.424,
+                    "speaker": {
+                        "name": "Robert L. Roth",
+                        "ID": 40372,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, there was a change in the law in 2004 that now give providers access to the data, so they can look at the underlying access to the data instead of -- instead of the Government presenting -- preventing them from being able to get access. Thank you, Your Honor."
+                },
+                {
+                    "start": 3404.424,
+                    "stop": 3407.21,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Kneedler, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3407.21,
+            "stop": 3409.145
+        }
+    ]
+}

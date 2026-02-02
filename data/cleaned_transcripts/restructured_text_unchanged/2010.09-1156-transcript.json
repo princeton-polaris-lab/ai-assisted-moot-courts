@@ -1,0 +1,2195 @@
+{
+    "title": "Matrixx Initiatives, Inc. v. Siracusano",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.189,
+                    "stop": 40.975,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: All drug companies receive on an almost daily basis anecdotal hearsay reports about alleged adverse health events following the use of their products. Those incident reports do not themselves establish any reliable facts about the drug's performance or its safety, especially where, as here, there are only a handful of reports out of millions of products sold over a 4-year period, and--"
+                },
+                {
+                    "start": 40.975,
+                    "stop": 68.875,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Hacker, do we know that from this record? I mean, we know that the plaintiffs were able to identify -- there's some dispute whether it's 12 or 23, but do you represent that there were no other complaints made? So that, let's say, there has been discovery; now we're just at the pleading stage. The company would have said: That's it, we didn't have any more?"
+                },
+                {
+                    "start": 68.875,
+                    "stop": 77.564,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--All I can speak for is what's alleged in the complaint, and the complaint, no matter how read, doesn't allege any more than 23 adverse event reports."
+                },
+                {
+                    "start": 77.564,
+                    "stop": 80.166,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they might have been able through discovery to find that there were many more."
+                },
+                {
+                    "start": 80.166,
+                    "stop": 93.343,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's true, but there's no allegation that what they -- what they know about or what they could find would have been a statistically significant difference between the rate of reported events and the background of--"
+                },
+                {
+                    "start": 93.343,
+                    "stop": 101.58,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But why shouldn't that determination be deferred until there's discovery, and then we can know how many reports there really were?"
+                },
+                {
+                    "start": 101.58,
+                    "stop": 148.394,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Because it's incumbent on a plaintiff to come to court with a case, to plead the facts necessary to establish all of the elements of a claim. And a securities fraud claim, of course, requires both materiality and scienter, and neither of those is established unless the company has knowledge of facts establishing a reliable basis for inferring that the drug itself is the cause of the reported event. Absent information like that, there is neither materiality nor scienter under the securities laws, because neither the company nor an investor -- until there's reliable evidence of a causal link between the two products, neither a company -- excuse me, a link between the product and the event -- neither the company nor investor would have any reason to think that an adverse event report is -- actually indicates a problem with the product, as opposed to a coincidence."
+                },
+                {
+                    "start": 148.394,
+                    "stop": 169.223,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can there be some situations in which statistically significant evidence would not be necessary? For example, suppose some very distinguished physicians concluded based on clinical trials that there was a connection between a drug and a very serious side effect. Could that establish materiality?"
+                },
+                {
+                    "start": 169.223,
+                    "stop": 206.597,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think a distinguished physician would not conclude that there's a connection unless the clinical trials reveal a statistically significant difference between what they've seen and what they would expect to see were there no association. So there's that point, Your Honor. But the second point I would make is, we acknowledge there are a very narrow, limited number of circumstances under which a claim can be pled absent statistically significant evidence, but that's -- that's because doctors and researchers will conclude that there may be causation under narrow circumstances. For example, I think the most common set of criteria are the Bradford-Hill criteria. But nothing like that is pled here, Your Honor."
+                },
+                {
+                    "start": 206.597,
+                    "stop": 225.727,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Hacker, the complaint did not rely exclusively upon these adverse incidents but also referred to a study, a report by researchers at the American Rhinologic Society--"
+                },
+                {
+                    "start": 225.727,
+                    "stop": 226.227,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 226.227,
+                    "stop": 246.558,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--which -- which asserted that there was a connection. So the -- is the question before us simply whether in isolation the adverse incidents would be enough, or is not the question whether those adverse incidents placed next to this study would be enough?"
+                },
+                {
+                    "start": 246.558,
+                    "stop": 267.852,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, two points, Your Honor. First, the plaintiffs have throughout this litigation framed their case as one based on the failure to disclose adverse event reports. It's the number of adverse event reports that they say is the problem, and they're not saying that there was a study out there and that we failed to disclose the study. But they say it's the fact of the adverse event reports."
+                },
+                {
+                    "start": 267.852,
+                    "stop": 268.554,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why didn't they say that?"
+                },
+                {
+                    "start": 268.554,
+                    "stop": 278.493,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I think if you look at the -- to be clear, the study is not attached to the complaint, so there wasn't a basis in the complaint for saying the company was aware of a reliable study and here are the details of the study and they failed to disclose it."
+                },
+                {
+                    "start": 278.493,
+                    "stop": 282.212,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I thought the -- you're saying the complaint did not refer to the study?"
+                },
+                {
+                    "start": 282.212,
+                    "stop": 318.868,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It did refer to it. That's true. And if you look at the study, there's really nothing there. It's based on, primarily on a case study of one -- and again, this isn't in the complaint. It is attached to the red brief, Your Honor. There's one case study of one man who is 55 year old -- 55 years old, which is the population most likely to experience anosmia. You're more likely to get it when you're -- he's suffering from signs of lupus. Which causes anosmia, and he is taking Flonase, which also causes anosmia. And so the idea that you can infer from that one incident out of millions over years of product sales that -- that Zicam causes anosmia under the--"
+                },
+                {
+                    "start": 318.868,
+                    "stop": 342.031,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're talking about -- you're talking about who is right or wrong about the connection between Matrixx and anosmia. But that's not the question. I'm an investor in Matrixx; I worry whether my stock price is going to go down. You can have some psychic come out and say \"Zicam is going to cause a disease. \" with no support whatsoever, but if it causes the stock to go down 20 percent, it seems to me that's material."
+                },
+                {
+                    "start": 342.031,
+                    "stop": 354.105,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's precisely the point, Your Honor. If a psychic came out or a lunatic on the street corner is barking, you know, through a megaphone that there's a problem with the product, that's not the kind of information to rely -- a real investor would rely on."
+                },
+                {
+                    "start": 354.105,
+                    "stop": 377.386,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But wait a minute. These weren't psychics. These were 3 clinical doctors in this area, one of them you knew poised to go to a society meeting to make this allegation. Doesn't it make a difference who the reports are coming from and what the substance of those reports may do to your product?"
+                },
+                {
+                    "start": 377.386,
+                    "stop": 393.73,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It may make a difference, Your Honor, and I didn't mean to suggest that, you know, these are psychics. The point simply is, following up on the Chief Justice's question, that it does matter what the basis of the allegation, and is the evidence, the facts available to the company, reliable? Does it create a reliable inference that a reasonable investor would be concerned about?"
+                },
+                {
+                    "start": 393.73,
+                    "stop": 410.025,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, suppose you stipulate in response to the Chief Justice's question that it is irrational, that it is probably baseless, but that the market will react adversely. Is there a duty then to address the claim?"
+                },
+                {
+                    "start": 410.025,
+                    "stop": 437.275,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Under the case law, it's not clear that that's true. In this case, looking at this case specifically, Your Honor, when the market reacted, what the market was reacting to was a Good Morning America report. It's very important to be clear about what that report said. On Good Morning America, a leading morning news program, the allegation was made by Dr. Jafek that Zicam causes anosmia. That's a very different allegation that what the company was -- than what it was the company was aware of, which was simply the adverse event reports."
+                },
+                {
+                    "start": 437.275,
+                    "stop": 452.369,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if there's a baseless report and we stipulate that, although it's baseless, it's going to affect the market, could that be the basis for an allegation, assuming the requisite scienter, that there's liability?"
+                },
+                {
+                    "start": 452.369,
+                    "stop": 466.11,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Two answers I would say, Your Honor. First of all, we have to be very careful about creating a rule through our interpretation of materiality that would require companies in advance to disclose the fact that a baseless, false allegation about the company is going to come out because it requires the company to ring the bell--"
+                },
+                {
+                    "start": 466.11,
+                    "stop": 469.209,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it's not the allegation. It's the fact that the market may be affected."
+                },
+                {
+                    "start": 469.209,
+                    "stop": 491.372,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I understand, but the problem is it's the underlying -- what the rule would say is, because the company is aware the market may be affected, the company in advance has to say: A false report about us is about to come out. It requires the company to first ring the bell and then un-ring it in the same statement, and that's not a good rule for companies. Shareholders wouldn't want that rule, to require companies to denigrate their product and then do their best to explain why the allegation is untrue."
+                }
+            ],
+            "start": 10.189,
+            "stop": 534.115
+        },
+        {
+            "turns": [
+                {
+                    "start": 491.372,
+                    "stop": 534.115,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Hacker -- Mr. Hacker, you just said, if I understood you correctly, that when the -- when the news came out on Good Morning America, accurate or not, there was an obligation to do something about it, but among the -- the charges, it's not simply that there was these reports, but it's the way the company responded to them: Two press releases that said allegations of any link of these drugs to anosmia are completely unfounded. That statement was made even after the -- what was it, Dr. Jafek?"
+                },
+                {
+                    "start": 534.115,
+                    "stop": 534.882,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 534.882,
+                    "stop": 553.927,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--had this presentation, and he was going to put Zicam's name on it and the company said, you don't have any permission to do that. So the company prevented Good Morning America from happening earlier, and it made these affirmative statements that there's no linkage."
+                },
+                {
+                    "start": 553.927,
+                    "stop": 568.436,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, what they said was, and this was true, that it was completely unfounded and misleading. The very scientific panel that plaintiffs themselves rely on, which convened and issued its report 2 weeks later, confirms that. There was no -- it's absolutely unfounded at the time to--"
+                },
+                {
+                    "start": 568.436,
+                    "stop": 582.863,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought that the scientific report that came out later said, we can't say one way or the other, as opposed to the company saying that any suggestion of linkage is completely unfounded."
+                },
+                {
+                    "start": 582.863,
+                    "stop": 590.117,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--And that's correct, there isn't. When -- when the scientific panel said you can't make that claim, it's unfounded, there's no basis in the available science."
+                },
+                {
+                    "start": 590.117,
+                    "stop": 597.354,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They didn't say \"unfounded\". They said the evidence is not -- we can't say yes and we can't say no. That's different from completely unfounded."
+                },
+                {
+                    "start": 597.354,
+                    "stop": 613.463,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I'm -- with respect, Your Honor, I'm not entirely sure it is. When you're talking about science, you make a claim that's either supported in the science or it's without support, and the point the scientific panel was making is there was no support in the available science, and what Jafek was relying on was unreliable. As I just described, the one--"
+                },
+                {
+                    "start": 613.463,
+                    "stop": 651.421,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Hacker, you were saying that the question of whether there is support is reducible to the question of whether there are statistically significant findings. Now, as I understand it, the FDA takes action all the time as to drugs -- they force the withdrawal of a drug from the market, they force relabeling of a drug -- on the basis of findings that are not statistically significant. Now, clearly in those cases the market has a right to know the very things that are going to make the FDA take action against a product and that are going to severely affect the product's value to the company. Not statistical significance there."
+                },
+                {
+                    "start": 651.421,
+                    "stop": 660.36,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's true, but the problem with that sort of standard -- well, first of all, to emphasize, to look at the facts of this case, the FDA didn't take any action until 5 years later, but -- which shows--"
+                },
+                {
+                    "start": 660.36,
+                    "stop": 662.26,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it could and eventually it did."
+                },
+                {
+                    "start": 662.26,
+                    "stop": 662.646,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But that's--"
+                },
+                {
+                    "start": 662.646,
+                    "stop": 675.119,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you are suggesting a test for what -- what counts as material, which is statistically significant, a test that the FDA itself doesn't use when it thinks about what it should what it should regulate."
+                },
+                {
+                    "start": 675.119,
+                    "stop": 711.456,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The problem is ex ante. You have to -- you can't look at this through hindsight. You have to look at it ex ante. When a company has a handful of reports, it's absolutely true, nobody would dispute, that some day in the future, with the accumulation of more data, the FDA may take action based on its own prophylactic public health regulatory discretion. But at the time, ex ante, no company when it gets an adverse event report can possibly know whether that's enough information for the FDA to act. So the prospect that the FDA may some day act on the basis of additionally accumulated information would require disclosure of all reports all the time, and that we submit cannot be the standard."
+                }
+            ],
+            "start": 491.372,
+            "stop": 751.097
+        },
+        {
+            "turns": [
+                {
+                    "start": 711.456,
+                    "stop": 751.097,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Hacker, suppose Good Morning America made the same claim, categorically saying that this drug caused this condition, but did so simply on the basis of these adverse incidents, and they didn't have Dr. Jafek's, or whatever his name is, reports, but nonetheless Good Morning America comes out on the basis of those incidents saying Zicam causes whatever the condition is. Would that have to be reported? And if not, why not?"
+                }
+            ],
+            "start": 711.456,
+            "stop": 799.911
+        },
+        {
+            "turns": [
+                {
+                    "start": 751.097,
+                    "stop": 799.911,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think what you would have to be hypothesizing is evidence that the company, say a week in advance, knew that Good Morning America was going to come out and say that. Because once Good Morning America says it, it's said it and the effect is what it is. But even in the hypothetical, you'd have to sort of unpack what you said. If Good Morning America came out and said just what Matrixx knew at the time, there are a handful of adverse event reports, it's over millions of product uses over a 4-year period, and no indication that that's at all in any way different from the incident rate in the general population, especially among cold users, who of course are most likely to experience anosmia, we don't know what would have happened. But then you add the element that Good Morning America then declares that Zicam causes anosmia -- again, the hypothetical would have to be in advance Matrixx is aware that the false claim is going to be made."
+                },
+                {
+                    "start": 799.911,
+                    "stop": 800.428,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Fine."
+                },
+                {
+                    "start": 800.428,
+                    "stop": 814.502,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right, and I would say, first of all, we have to be very careful, as I said before, about a rule that requires a company to disclose false facts. I would say, second, that a reasonable investor doesn't want false information; a reasonable investor wants accurate information. And a reasonable investor would actually--"
+                }
+            ],
+            "start": 751.097,
+            "stop": 823.758
+        },
+        {
+            "turns": [
+                {
+                    "start": 814.502,
+                    "stop": 823.758,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "These are unreasonable investors who are relying on some talking head on Good Morning America who says that this is true, even though it isn't true."
+                },
+                {
+                    "start": 823.758,
+                    "stop": 828.145,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's the third point I would make, Your Honor, is it's a different case, a fundamentally different case, if you're talking about a media--"
+                },
+                {
+                    "start": 828.145,
+                    "stop": 838.751,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You've neither answered yes or no. There's no basis for its being said on Good Morning America, but unreasonable investors by the thousands rely upon it."
+                },
+                {
+                    "start": 838.751,
+                    "stop": 843.786,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--And I think the answer is no. I think the reason it's no, a qualified no, is because--"
+                },
+                {
+                    "start": 843.786,
+                    "stop": 844.136,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No--"
+                },
+                {
+                    "start": 844.136,
+                    "stop": 850.457,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--the law doesn't respond to irrational, unpredictable, or unreasonable investors. It responds to a reasonable investor who wants accurate -- a reasonable investor is going to hold the stock."
+                },
+                {
+                    "start": 850.457,
+                    "stop": 857.646,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A reasonable investor is going to worry about the fact that thousands of unreasonable investors are going to dump their Matrixx stock."
+                },
+                {
+                    "start": 857.646,
+                    "stop": 859.313,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I absolutely understand that."
+                }
+            ],
+            "start": 814.502,
+            "stop": 870.953
+        },
+        {
+            "turns": [
+                {
+                    "start": 859.313,
+                    "stop": 870.953,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, there's nothing unreasonable about that. If it looks -- if you're looking at Good Morning America, you say, my gosh, everybody else is going to sell this; I'm going to sell, too. And if it turns out you knew about it you should have told me about it before."
+                },
+                {
+                    "start": 870.953,
+                    "stop": 878.457,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The point I would make is, first of all, a company ex ante can't know when that's going to happen. So all the hypotheticals are suggesting some way of knowing the company--"
+                },
+                {
+                    "start": 878.457,
+                    "stop": 888.831,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It may not know, but it certainly can know. If you know this is a very false report, but we know that, I don't know, the surgeon general, somebody, is going to come out and announce it and that will cause an effect--"
+                },
+                {
+                    "start": 888.831,
+                    "stop": 922.033,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's why it's a meaningfully different case. If the plaintiffs had plead in their complaint that there's a memo inside the company, for example, so this false fact is going to come out, and we know it's going to cause a stock drop, that would be a case involving the materiality of a media splash, a big media event. It can't be that there's a false claim out there somewhere and the company becomes aware of the false claim and then purely hypothetically it's possible that somebody will make the false claim. It becomes also possible that the media will pick up and not be persuaded to ignore the false claim. That's the kind of case we're talking about here."
+                },
+                {
+                    "start": 922.033,
+                    "stop": 970.098,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In most cases we don't know whether the claim is false or not. So let me give you a hypothetical. There's a pharmaceutical company and it comes out with its first and only product, it's 100 percent of the sales, and it's a new contact lens solution. And it sells this product to many, many, many hundreds of thousands of people. And most of them use this product with no adverse effect whatsoever, but there are ten cases where somebody uses this product and they go blind. Three of those ten cases, the person had to borrow a contact lens from a friend, only used it in one eye, they go blind only in that one eye. This is not statistically significant. There is no way that anybody would tell that you these ten cases are statistically significant. Would you stop using that product and would a reasonable investor want to know about those ten cases?"
+                },
+                {
+                    "start": 970.098,
+                    "stop": 979.202,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would want to know more about the number of uses and all that, but, no, there wouldn't be a basis. A reasonable investor would want to know all the facts and details that would establish a reason to draw a--"
+                },
+                {
+                    "start": 979.202,
+                    "stop": 993.545,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There are a lot of contact lens solutions in the world. So if I heard that, ten people went blind, three used it in one eye, three went blind in that eye, I'd stop using the product; and if I were holding stock in that company, I would sell the stock."
+                },
+                {
+                    "start": 993.545,
+                    "stop": 1010.204,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The problem is, there has to be some reliable basis. You may be describing facts that would satisfy the Bradford Hill criteria, for example, where you can draw a reliable inference that the product is the cause. That's the key here. There has to be a reliable basis for inferring causation."
+                },
+                {
+                    "start": 1010.204,
+                    "stop": 1034.003,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is the same kind of question, but suppose I don't really know how drug companies operate. I suspect, but I don't know, that where you have a serious drug, people are hurt all the time and they blame the drug. So probably drug companies operate in an environment where they get all kinds of complaints and some are valid, some are not; who knows? People are frightened."
+                },
+                {
+                    "start": 1034.003,
+                    "stop": 1035.186,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Very much so."
+                },
+                {
+                    "start": 1035.186,
+                    "stop": 1082.833,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Now, I don't know that. But you say at the beginning your client says: Look, we get complaints all the time; you know, just put up with it if you buy our stock. Now, I don't know to what extent that's true. I don't know how that fits in. I don't know whether their complaint is unusual or not unusual or general. Who is supposed to decide that? The judge at the complaint stage? Or the judge after you get some evidence on it? Or the jury? And the same is true of scienter, after all, because the scienter -- and you have to plead that with particularity. What's your answer? What's -- I mean, Justice Kagan had an interesting view of this, and it could be that she's putting forward and others might have a different view. Who is to decide this?"
+                },
+                {
+                    "start": 1082.833,
+                    "stop": 1088.72,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, ultimately it's a question -- it would go all the way to the jury if the plaintiffs were able to plead facts in the complaint that entitled them to--"
+                },
+                {
+                    "start": 1088.72,
+                    "stop": 1136.351,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we don't know. You see, what they're saying is we have one respectable doctor, studier, at, you know, in Colorado. He, by the way has an abstract, which isn't in the complaint, which says that they do allege that it's zinc that's the problem, a free zinc ion. And they say we also have 25 people who were hurt and some burning sensations in people that didn't rise to that level. You know, I don't know. I don't know if that's within the range of expectation of drug companies as part of the normal course of business which investors should know about, and I suspect a district judge doesn't know, either. So how does it work where we in fact just don't know whether this does or not arise above the background noise of a drug company?"
+                },
+                {
+                    "start": 1136.351,
+                    "stop": 1140.755,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We think the answer is statistical significance, just like the Second Circuit said in Carter-Wallace--"
+                },
+                {
+                    "start": 1140.755,
+                    "stop": 1177.345,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, no, it can't be. I'm sorry, I don't mean to take a position yet. But, look, Albert Einstein had the theory of relativity without any empirical evidence, okay? So we could get the greatest doctor in the world and he has dozens of theories, and the theories are very sound and all that fits in here is an allegation he now has learned that it's the free zinc ion that counts. And that could be devastating to a drug even though there isn't one person yet who has been hurt. So I can't see how we can say this statistical evidence always works or always doesn't work."
+                },
+                {
+                    "start": 1177.345,
+                    "stop": 1184.534,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But, Your Honor, out of millions of uses, if there was that problem, it wouldn't be hard to plead a case that says there is a significant problem--"
+                },
+                {
+                    "start": 1184.534,
+                    "stop": 1216.687,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They did. They said -- they said the free zinc ion was -- that word on this was told to your client by a person who knows a lot about it, is apparently reputable, and was told to a person who also knows a lot about it. I think they're saying you ought to have been very nervous at that point. That isn't just the usual background noise, okay? So I'm back to my question, which is -- you can answer the other one too if you like. But my question is: Who is supposed to decide, how?"
+                },
+                {
+                    "start": 1216.687,
+                    "stop": 1223.776,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I think a plaintiff -- I mean, I may just be repeating myself, but a plaintiff has to plead the facts that would entitle them to relief at the end of the day. So, I'm not saying a judge--"
+                },
+                {
+                    "start": 1223.776,
+                    "stop": 1226.109,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know, and we are back to my question--"
+                },
+                {
+                    "start": 1226.109,
+                    "stop": 1226.545,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--And--"
+                },
+                {
+                    "start": 1226.545,
+                    "stop": 1250.843,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--The question is, the facts that are pleaded is -- I think it's assumed that this is above the normal background noise; they certainly argue that at length -- that there was this free zinc ion conversation, that there are 25 people who were hurt, and there is a lot of burning sensation going on, even though it doesn't rise to the level of people being hurt, and that's supported by some of the zinc sulfate studies in the fish--"
+                },
+                {
+                    "start": 1250.843,
+                    "stop": 1251.543,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think you need to--"
+                },
+                {
+                    "start": 1251.543,
+                    "stop": 1260.249,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--okay? Now, they're saying that's above the background noise and you say, no, it isn't. Now, who decides and how do we decide? Don't we have to go to a trial?"
+                },
+                {
+                    "start": 1260.249,
+                    "stop": 1268.138,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The answer is no, Your Honor, because there is no basis on those pleaded facts for inferring that there's actually a problem with the zinc ion--"
+                },
+                {
+                    "start": 1268.138,
+                    "stop": 1269.172,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know. I know, but over--"
+                },
+                {
+                    "start": 1269.172,
+                    "stop": 1269.938,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--but look at the allegations--"
+                },
+                {
+                    "start": 1269.938,
+                    "stop": 1275.626,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--We're not saying -- you're saying if you are a scientist -- now we're back to Justice Scalia's questions and the--"
+                },
+                {
+                    "start": 1275.626,
+                    "stop": 1281.463,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But it matters what a scientist would think because it's only then that anybody ex ante, again, remember--"
+                },
+                {
+                    "start": 1281.463,
+                    "stop": 1282.096,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, then what--"
+                },
+                {
+                    "start": 1282.096,
+                    "stop": 1296.788,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--has a basis for inferring that there is a causal link which would be the problem, and the zinc -- to be very clear, to be very clear about the zinc studies, the claim made on the telephone wasn't even a claim of causation. It said, are you aware of the zinc sulfate studies, which of course is a fundamentally different compound than--"
+                },
+                {
+                    "start": 1296.788,
+                    "stop": 1306.244,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--No, because the sulfate -- you see in the abstract, which they didn't put in the complaint, that the problem that they saw arising out of the zinc sulfate studies was the free zinc ion."
+                },
+                {
+                    "start": 1306.244,
+                    "stop": 1322.754,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, the zinc sulfate studies were -- totally irrelevant. What they cited for the free zinc ions were studies of catfish and turtles. And nobody thinks, nobody thinks, that you can infer anything from a study of catfish and turtles about their smell sensation and human beings."
+                },
+                {
+                    "start": 1322.754,
+                    "stop": 1327.073,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The trouble is, you know, the truth is I don't know, and so I'm back to my question."
+                },
+                {
+                    "start": 1327.073,
+                    "stop": 1330.859,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in terms of scienter, under the securities law there has to be a plausible basis--"
+                },
+                {
+                    "start": 1330.859,
+                    "stop": 1430.289,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, you got cert granted on a limited question, and the limited question was whether in a complaint that alleges only adverse reports can you prove materiality and scienter without proving statistical importance. That's the question presented. Justice Kagan started with the point that the FDA doesn't require that. It requires just reasonable evidence of a connection, not statistical. Many of the amici here have done a wonderful job of explaining why statistical importance can't be a measure because it depends on the nature of the study at issue. So given all of that -- and even in your brief, in a footnote, you answered the question by saying, no, we can't establish that rule as an absolute, because there are additional factors that could prove materiality and scienter. So you've already answered the question presented. Are we down to what Justice Scalia asked you, which is: We got a no to the question: Are the facts in this case enough? I don't know why we would have granted cert on that, but you presented a different question presented. Given the question presented, is the answer no? And if not, why not?"
+                },
+                {
+                    "start": 1430.289,
+                    "stop": 1449.501,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Let me -- let me start with the premise of the question presented. It's presented on the facts as the case has been litigated today, trying to rely on adverse event reports, which is understandable. The plaintiffs don't want to have to prove all of the other -- you wouldn't think they would want to prove all the other facts."
+                },
+                {
+                    "start": 1449.501,
+                    "stop": 1450.318,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I just interrupt a second?"
+                },
+                {
+                    "start": 1450.318,
+                    "stop": 1450.869,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Sure."
+                },
+                {
+                    "start": 1450.869,
+                    "stop": 1453.102,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This wasn't an FDA-approved drug."
+                },
+                {
+                    "start": 1453.102,
+                    "stop": 1453.654,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1453.654,
+                    "stop": 1459.725,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there weren't any adverse reports in the legal sense of that word."
+                },
+                {
+                    "start": 1459.725,
+                    "stop": 1461.341,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In the FDA sense, that's true."
+                },
+                {
+                    "start": 1461.341,
+                    "stop": 1464.924,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the FDA sense. So we're using a misnomer here to start with."
+                },
+                {
+                    "start": 1464.924,
+                    "stop": 1466.69,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1466.69,
+                    "stop": 1467.274,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Continue."
+                },
+                {
+                    "start": 1467.274,
+                    "stop": 1473.678,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I would just say that adverse event reports are not limited to what qualifies for the FDA, certainly not by the way the case is--"
+                },
+                {
+                    "start": 1473.678,
+                    "stop": 1475.613,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Of course, if I may interject--"
+                },
+                {
+                    "start": 1475.613,
+                    "stop": 1476.146,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--litigated."
+                },
+                {
+                    "start": 1476.146,
+                    "stop": 1478.398,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--the FDA acts in the public interest, doesn't it?"
+                },
+                {
+                    "start": 1478.398,
+                    "stop": 1478.748,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1478.748,
+                    "stop": 1482.367,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it doesn't make money by withdrawing a drug from the market?"
+                },
+                {
+                    "start": 1482.367,
+                    "stop": 1482.969,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1482.969,
+                    "stop": 1488.02,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "As opposed to somebody who sues, who makes money on the lawsuit?"
+                },
+                {
+                    "start": 1488.02,
+                    "stop": 1545.251,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's true. But there's a broader point about the FDA, which I think is underlying your question and Justice Kagan's question, which is I don't even think it's true that the FDA really requires reasonable evidence. They have broad discretion and should have broad discretion. Nobody is contesting that. But the question is, again ex ante, before you know what the FDA might do, before there's sufficient evidence to justify the FDA to act. Remember, the FDA didn't act for 5 years. The FDA didn't act on the basis of what Matrixx was aware of at the time, and so, that can't be the standard, the idea that the FDA may some day act. Statistical significance -- the question of statistical significance is presented in this case to the extent the courts below were arguing about and the plaintiffs were arguing about whether or not the small number of raw adverse event reports tell you anything meaningful. The real standard -- the -- the case got developed in the briefing here when the plaintiffs came back and said, well, there's more to it and there can be more to it, and that, of course, is true, but the standard has to be reliability."
+                },
+                {
+                    "start": 1545.251,
+                    "stop": 1563.23,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have said raw adverse event reports. Am I not right that all of these reports came from medical doctors, and in response to the very first one, the company representative said, yeah, we've been getting reports since 1999?"
+                },
+                {
+                    "start": 1563.23,
+                    "stop": 1576.389,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, there's a reference -- I mean, there's a -- 1999 was the first call from Dr. Hirsch, who reported one patient. There is a discussion with Dr. Linschoten about one other patient. And there were some reports -- nobody is disputing that there were some reports out there."
+                },
+                {
+                    "start": 1576.389,
+                    "stop": 1582.393,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My question is, does it make a difference if these reports come from medical experts in this particular field?"
+                },
+                {
+                    "start": 1582.393,
+                    "stop": 1599.736,
+                    "speaker": {
+                        "name": "Jonathan Hacker",
+                        "ID": 30716,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, because a doctor doesn't have unique expertise in diagnosing causation. A doctor -- if you have a sore knee, a doctor is qualified to tell you -- to diagnose the fact that your sore knee is the product of bone cancer. A doctor is not qualified to tell you why you got bone cancer, and that's the problem that we have here. I would like to reserve the balance of my time."
+                },
+                {
+                    "start": 1599.736,
+                    "stop": 1612.961,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Thank you, Mr. Hacker. Mr. Frederick."
+                }
+            ],
+            "start": 859.313,
+            "stop": 1667.259
+        },
+        {
+            "turns": [
+                {
+                    "start": 1612.961,
+                    "stop": 1667.259,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: In TSC and Basic, this Court reaffirmed the longstanding rule that materiality is judged based on the total mix of information available to investors. Matrixx initially sought a major change to this Court's contextual approach to materiality by offering a bright line standard of statistical significance. In its reply brief, Matrixx offer -- offers a rule that would apply only in the hypothetical scenario where investors rely solely on numbers of adverse event reports in pleading securities fraud. This Court should reject both arguments in this case. The broad theory has numerous legal and policy flaws. First, the longstanding totality of the circumstances test best comports with the varied reasons why investors make investment decisions."
+                },
+                {
+                    "start": 1667.259,
+                    "stop": 1692.124,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose the allegations of materiality are based solely on adverse event reports? Suppose that it's alleged that ten million people during -- during -- during 1 year have taken a particular drug and five people shortly after taking the drug have developed certain -- have had an adverse -- have had -- experienced an adverse event. Is that sufficient to go to a jury?"
+                },
+                {
+                    "start": 1692.124,
+                    "stop": 1717.922,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, probably not sufficient to go a jury absent a drop in the stock price, absent evidence that there was a scientifically plausible link, absent evidence that the product was highly important to the company's long-term financial prospects. All of these things go into the contextual mix that investors would regard as important in making an investment decision, and they all happen to be present here. We--"
+                },
+                {
+                    "start": 1717.922,
+                    "stop": 1728.98,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If it was the only product, they sold that might be enough, five adverse reports out of ten million? If -- if that's the only product they make, you say, totality of the circumstances, that may be enough?"
+                },
+                {
+                    "start": 1728.98,
+                    "stop": 1748.791,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Under the Basic test, Your Honor, that very well might if the probability and the magnitude of the harm -- if those five incidents were deaths from a product that was easily substitutable, that might be a relevant decision and information that investors might want to take into account."
+                },
+                {
+                    "start": 1748.791,
+                    "stop": 1754.261,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In response to Justice Alito, I heard you say something about a scientifically plausible link?"
+                },
+                {
+                    "start": 1754.261,
+                    "stop": 1755.178,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct."
+                },
+                {
+                    "start": 1755.178,
+                    "stop": 1774.509,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That seems to me to be a rather significant concession. In other words, you're saying it's not simply the fact that some psychic would say something, that that is not sufficient, even if that has an impact on the market price, that there has to be some scientifically plausible link to the report?"
+                },
+                {
+                    "start": 1774.509,
+                    "stop": 1802.342,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think this goes back to Justice Kennedy's question as well, Mr. Chief Justice, because there could very well be materiality. The information might be important for investors, but it could very well be that the people making the disclosures don't have the requisite scienter because there is an absence of any plausible relationship. The stock price might drop on news that would not be regarded as news that the most highly scientifically rational people would take into account."
+                },
+                {
+                    "start": 1802.342,
+                    "stop": 1835.749,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I thought this might come up. At some point do we look at scienter and then go back from that to whether or not it's material, i.e., the argument would be the company knew that this would affect the price, and that's why they didn't disclose it and therefore that shows it's material? Or do we do this with two isolated boxes: one, materiality, two, scienter, and we don't mix the analyses."
+                },
+                {
+                    "start": 1835.749,
+                    "stop": 1916.247,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They're both analytically distinct and related, Justice Kennedy, and I don't have a simple answer for you because many of the recorded cases raise issues of both materiality and scienter. What the Court has said in Basic is that the test is the total mix of information and whether that -- under that total mix the investor would find that information important. In Tellabs the Court said that whether or not the inferences of scienter could be deemed as plausible as other inferences based on the mental state of the people making the information. So the Court has announced separate tests. In a case like this there is a natural overlap, and in fact the other side has litigated this case on the basis that no one would have thought within the company, based on the adverse event reports, that there was a basis for thinking there was information. We plead the other way by saying that when you have three medical specialists in three distinct periods where the last wants to bring findings to the leading ear, nose and throat medical society suggesting that, based on studies that go back as far back as the 1930s, there is a scientifically plausible link based on the zinc ions, that's something that the company should have taken seriously and disclosed to investors."
+                },
+                {
+                    "start": 1916.247,
+                    "stop": 1932.525,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But Mr. Frederick, suppose you are the CEO of a pharmaceutical company with a new drug, you've just put it back on the market, and you get a report back, this drug has caused a death, right? This is your first adverse effect report. Do you have to disclose it?"
+                },
+                {
+                    "start": 1932.525,
+                    "stop": 1969.9,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I guess the first thing I would say is if the drug has not been FDA approved, that would be material information that investors might want to know. If the drug had been FDA approved and that report was then submitted to the FDA, I think that there's a closer call depending on the, you know, effect of the report that might be on the stock price, because that's the only company product and the other factors that we've mentioned in our brief. I think the question of one event is obviously much more difficult than where there are multiple events submitted by doctors with a scientifically plausible basis on a product that's 70 percent of the company's revenues."
+                },
+                {
+                    "start": 1969.9,
+                    "stop": 1982.625,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now we're told that there are hundreds of thousands of these; for a -- for a typical drug there may be thousands of these adverse event reports in -- in a year, and you're -- basically you're saying all of those have to be disclosed?"
+                },
+                {
+                    "start": 1982.625,
+                    "stop": 1985.677,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Alito, they already are all disclosed."
+                },
+                {
+                    "start": 1985.677,
+                    "stop": 1989.06,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well they -- already. So then why does the company have to make additional disclosure?"
+                },
+                {
+                    "start": 1989.06,
+                    "stop": 1989.495,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The--"
+                },
+                {
+                    "start": 1989.495,
+                    "stop": 1997.581,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Analysts who follow the stock price can easily look at the FDA web site and see the adverse event reports that have been reported--"
+                },
+                {
+                    "start": 1997.581,
+                    "stop": 1998.114,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 1998.114,
+                    "stop": 2001.718,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--and draw whatever conclusions seem to be warranted based on that."
+                },
+                {
+                    "start": 2001.718,
+                    "stop": 2022.864,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's why I think this presents the issue in a rather artificial way, because the reports here were not the classic FDA-regulated adverse event reports. This was a homeopathic drug that was put on the market without FDA approval, and there were no requirements of reports until 2006 which was after the -- at issue here."
+                },
+                {
+                    "start": 2022.864,
+                    "stop": 2082.068,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How would you write -- look, I'm asking how do you write this, because what -- where I think where the other side has a point, is if -- with these -- this is a big class of these kinds of things, you know, vitamins, all kinds of things like that -- and if we say that they have to disclose too much, what will happen is people won't pay attention to it, you know. And if -- if you have, you know, 4,000 pages of small print saying everything that was ever reported, what really happens in -- in such instances is the public pays no attention, and they think -- and it will hide things that are actually important. So how would you write some words -- assuming that you're right, that their test is wrong -- but how would you write some words that will put a disclosure obligation such that it's not going to be overkill and it is going to get incidents that rise above the background noise, and those are the incidents that are -- that would be significant for a reasonable investor?"
+                },
+                {
+                    "start": 2082.068,
+                    "stop": 2108.134,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I would start with the language in Basic which says the total mix of information is what has long standing been the test for materiality under this Court's cases. I would say that where there is credible medical professionals describing the harms based on credible scientific theories to back up the link, a very serious health effect risk for products with many substitutes, and the effect is on a predominant product line, then the company ought to disclose that information. I will not--"
+                },
+                {
+                    "start": 2108.134,
+                    "stop": 2120.091,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay, I'll go back and read what you've just said, and -- I will, because it will be in the transcript, and -- and the -- I -- this case, you are very good, your clients, and the lawyers at writing complaints."
+                },
+                {
+                    "start": 2120.091,
+                    "stop": 2121.026,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 2121.026,
+                    "stop": 2152.563,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right? So they've alleged in this complaint everything they can show, and I -- I suspect -- and during the class period. And what it doesn't say is that very helpful chart that you put in the brief, in the pocket. It doesn't say they ever showed that to the company. All it says is there was a phone call and this individual from -- from Colorado said something, which it doesn't specify, about zinc and the -- and the number of deaths."
+                },
+                {
+                    "start": 2152.563,
+                    "stop": 2181.415,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, in 1999, though, Justice Breyer, Dr. Hirsch, and this is outlined at paragraph 25 of the complaint, also said that intranasal application of zinc could be problematic, and he specifically asked about how much zinc is put in Zicam precisely because of his awareness of prior studies going all the way back to the polio period in which zinc had created a problem of persistent anosmia. But our submission here is that--"
+                },
+                {
+                    "start": 2181.415,
+                    "stop": 2218.023,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How was your -- that long litany of factors you mentioned a few moments ago about how a company will go about determining whether an adverse event report is material or not or should be disclosed or not, are you saying that companies don't have to respond to irrational securities holders? Are you accepting your adversary's proposition that on some level -- you said credible evidence -- that they don't have to respond to things they judge are not credible?"
+                },
+                {
+                    "start": 2218.023,
+                    "stop": 2249.708,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It really depends, Justice Sotomayor, and I don't mean to be evasive, but if there is a product, say, that has some link to satanic influences, and there is some reason to think that a large body of followers in an irrational way might regard there to be satanic influences on the basis of a particular product, a cautious, reasonably prudent investor might want to know that on the basis of that information that most of us would regard as irrational, might affect the stock price."
+                },
+                {
+                    "start": 2249.708,
+                    "stop": 2280.744,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what protection is there at the summary judgment stage in response to allegations? Because it doesn't have to be scientifically valid; it can be completely irrational. All you have to do is allege that, you know, if you had told this the price would have gone down. If you had disclosed this the price would have gone down, and the response from the company is, well, but this is just ridiculous. This is some guy in his garage who writes this out on -- on a -- you know, a piece of paper in -- in handwriting; and the response is going to be, well let's let the jury sort it out."
+                },
+                {
+                    "start": 2280.744,
+                    "stop": 2299.641,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "There are two answers, Mr. Chief Justice. One is in Basic itself, the Court talked about the actions of a reasonable investor, and this Court and many courts have always looked at a reasonable person's standard in making all sorts of these fine judgments about the importance of particular information. But the second answer is--"
+                },
+                {
+                    "start": 2299.641,
+                    "stop": 2311.449,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you just told me that it would be enough if somebody says that there's a satanic, you know, impact on this, because a reasonable investor would say there are enough crazy people out there that this is going to affect the price."
+                },
+                {
+                    "start": 2311.449,
+                    "stop": 2326.391,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What I said was if the product was one that might be, you know, attractive in some way to people who had that particular following. I think you have to link up the product with the nature of the complaint and the effect of the importance of the information--"
+                },
+                {
+                    "start": 2326.391,
+                    "stop": 2338.849,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it matters whether -- I don't know what kind of product has particular satanic susceptibility-- [Laughter] --but I mean, are you saying it matters if it's something that -- that Satan's not going to be interested in? I don't understand."
+                },
+                {
+                    "start": 2338.849,
+                    "stop": 2339.383,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--You're--"
+                },
+                {
+                    "start": 2339.383,
+                    "stop": 2348.855,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't mean to be facetious, but your way of distinguishing the satanic product is that it depends on whether people who follow satanic cults are going to be interested or not. I mean--"
+                },
+                {
+                    "start": 2348.855,
+                    "stop": 2360.747,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, there are people who follow those things, and they spend money and they buy stocks, but my second point is that scienter -- scienter is the other way around this problem. Because even though information--"
+                },
+                {
+                    "start": 2360.747,
+                    "stop": 2384.545,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know if scienter is -- it seems to me ridiculous to -- to hold companies to -- to irrational standards; and we did -- and we did say in -- in Basic that it's viewed -- whether it would be viewed by the reasonable investor. And -- and you are saying well, the reasonable investor takes account of the irrationality. I don't think that's what we meant in -- in Basic."
+                },
+                {
+                    "start": 2384.545,
+                    "stop": 2402.708,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Justice Scalia, you can certainly write as a prophylactic here that that isn't part of -- the test. We certainly have here all of the indicia of credible medical professionals on a credible scientific theory on a product that was important to the company's finances, and a very serious side effect for a drug that had ready--"
+                },
+                {
+                    "start": 2402.708,
+                    "stop": 2431.024,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--So that -- I'm just trying to get your response to that. You just talked again about credible scientists and all that, and you're putting those other things to one side. So even if you have your satanic problem, that is not enough. And you can sit there and allege it would cause a drop of 30 percent in the stock price, and you should have let this know. Your answer is no, they don't have to let -- they don't have to disclose this because there is no scientific credible basis for the link that's alleged?"
+                },
+                {
+                    "start": 2431.024,
+                    "stop": 2455.456,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Now, I'm saying two things. One is that there is a difference between scienter and materiality. There is importance of information and an intent to deceive, and the questions are analytically distinct. In your hypothetical, Mr. Chief Justice, I think you merged them, and I would like to keep them separate because as we -- as this case comes to the Court, the issue is what is the standard for materiality and whether or not statistical significance is the only way to--"
+                },
+                {
+                    "start": 2455.456,
+                    "stop": 2507.838,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I give you -- because I'm having a little difficulty understanding the boundaries of the argument you're making. Let me give 2 hypotheticals, and they both involve companies that have one product, and this is their one product. The first one was what I mentioned before, and I wasn't -- I wasn't clear about your answer. All that's alleged is that a very large number of people took the drug and that three people, after taking the drug, within a week developed a certain syndrome. That's the first one. Is that enough for materiality? The second one is that a company receives a telephone call: Hello, I'm a general practitioner from wherever, and I treated a patient and the patient took your medication and shortly after that developed this syndrome, and I think there might be a connection."
+                },
+                {
+                    "start": 2507.838,
+                    "stop": 2534.77,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--On the second one, I would say probably not. And I would say on the first one, there's not enough information about the side effect and what the drug is intended to solve. I mean, the probability magnitude test as articulated by this Court goes to the probability of the effect versus the magnitude that would be perceived by investors, and those are important factors they go into. So your hypothetical is very difficult to answer as you have framed it."
+                },
+                {
+                    "start": 2534.77,
+                    "stop": 2550.879,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. This drug, let's say it's a drug to relieve the common cold and the effect is loss of the sense of smell. Five million people take it. Three people, after taking it, lose their sense of smell. Is that enough for materiality by itself?"
+                },
+                {
+                    "start": 2550.879,
+                    "stop": 2566.657,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It -- by itself, that could be enough, and the reason we know that could be enough, Justice Alito, is that when, you know, some score additional were released and this information was disclosed, the stock price went down by 23.8 percent."
+                },
+                {
+                    "start": 2566.657,
+                    "stop": 2601.026,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Frederick your time is running out, and there is one thing you emphasize in your brief, and I haven't heard you say one word about it here. And that is: You're saying this is not a case of a company that remains silent. The company, in response to this, issued press releases in which it said any suggestion of a linkage is completely unfounded. Now, that's something different from, there are X number of reports. To what extent are you relying on the affirmative statements that the company made?"
+                },
+                {
+                    "start": 2601.026,
+                    "stop": 2638.068,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We're relying on those to establish scienter, both at the beginning of the class period when they forced Dr. Jafek, through their legal threats, to take Zicam off his poster presentation, and then later when they said that the reports of anosmia were completely unfounded. And \"misleading\" was the word that they used. \"And misleading\". And they repeated that after the Good Morning America program came on, only to say three weeks later, after empaneling a scientific expert panel, that the information was insufficient to make that determination. Our submission is that that is enough."
+                },
+                {
+                    "start": 2638.068,
+                    "stop": 2692.369,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Frederick, I'm -- I'm not clear on why you can draw a distinction between materiality and scienter for purposes of the issue before us here. If, indeed, satanic effect is enough for materiality, you say, well, it may not be enough for scienter. Why? I mean, if the company knows that satanic effect is material, then the company has -- knowingly withholds it because it thinks satanic effect is irrational, why doesn't that company have scienter, if it's material? The scienter is withholding something that is material that is known to be material, and once you say that -- you know, that Satan is material, if the company thinks Satan is involved here, it has to put it in its report, no?"
+                },
+                {
+                    "start": 2692.369,
+                    "stop": 2694.988,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And it would depend on what kind of stock effect occurred."
+                },
+                {
+                    "start": 2694.988,
+                    "stop": 2698.09,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there's no difference between the materiality issue and the scienter issue."
+                },
+                {
+                    "start": 2698.09,
+                    "stop": 2698.407,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2698.407,
+                    "stop": 2704.011,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You can't push this problem off onto the scienter side of the equation."
+                },
+                {
+                    "start": 2704.011,
+                    "stop": 2716.836,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It depends -- it depends on this Court's application of its known precedent, which my colleague here has not even referenced in his opening argument, Basic, which says you look at the total mix of the information. And all of these things go into play."
+                },
+                {
+                    "start": 2716.836,
+                    "stop": 2740.952,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. I get that. Can I just ask you one question in response to -- just picking up on the last, what about the need for a, quote, \"strong inference of scienter\", end quote, and does this complaint show more than a borderline situation where it doesn't strongly infer that the person intended to mislead the defendant? What about that argument?"
+                },
+                {
+                    "start": 2740.952,
+                    "stop": 2758.747,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, we believe, and they haven't argued that this complaint is not sufficient under the PSLRA, which set the heightened pleading standard for scienter that this Court articulated and construed in the Tellabs decision, so we believe that scienter is adequately pleaded here based on--"
+                },
+                {
+                    "start": 2758.747,
+                    "stop": 2765.334,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, page 49 of their brief -- they have two pages on it -- it does not give rise to a strong inference of scienter."
+                },
+                {
+                    "start": 2765.334,
+                    "stop": 2776.125,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--What I'm saying is that there is already a heightened pleading standard, Justice Breyer. I was not -- I misunderstood your question to say, is there some other heightened pleading standard other than the one--"
+                },
+                {
+                    "start": 2776.125,
+                    "stop": 2794.353,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no, I mean -- I just want to know why, if their inference on materiality is enough to survive the background noise reply, is it enough to show a strong inference that they did do this intending to mislead, a strong inference of scienter?"
+                },
+                {
+                    "start": 2794.353,
+                    "stop": 2818.719,
+                    "speaker": {
+                        "name": "David C. Frederick",
+                        "ID": 20869,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The key aspects here are their treatment of Jafek when Jafek was going to go public with his scientifically linked claim of anosmia from the Zicam, and then subsequently when they issued press releases saying it would be completely unfounded and misleading to assert any causal link. That is sufficient to establish a strong inference of scienter."
+                },
+                {
+                    "start": 2818.719,
+                    "stop": 2830.109,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Frederick. Mr. Shah."
+                }
+            ],
+            "start": 1612.961,
+            "stop": 2863.264
+        },
+        {
+            "turns": [
+                {
+                    "start": 2830.109,
+                    "stop": 2863.264,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: For 35 years, this Court's precedents have instructed that information is material for securities fraud purposes if a reasonable investor would have viewed it as having meaningfully altered the total mix of information. Under the terms of their question presented, petitioners propose to depart from that contextual inquiry in favor of a categorical rule that deems information about an adverse drug effect immaterial absent statistical significance."
+                },
+                {
+                    "start": 2863.264,
+                    "stop": 2865.616,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Shah, what do you think about Satan?"
+                },
+                {
+                    "start": 2865.616,
+                    "stop": 2928.44,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Let me try to unpack the satanic connection hypotheticals a little bit. Now, to be sure, if someone just called a company and said, hey, I think you guys are affiliated with satanic practices, surely a company would not have to go and disclose that to all the investors. But this is going to depend on what the actual reality is and what the company's statements have been. Now, if the company has made a statement that, look, consumer confidence in our products is at an all-time high and we expect sales to double in the next quarter, and yet they are aware that there -- a consumer boycott is being planned by, let's say, 10 percent of their consumer base premised on the irrational notion that their company is tied to Satan, then certainly to correct their affirmative representation that consumer confidence is at an all-time high and that they expect their sales to double, a reasonable investor would want to know--"
+                },
+                {
+                    "start": 2928.44,
+                    "stop": 2934.277,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They haven't said that. They haven't said that our sales are going to double. They're just walking along at normal sales."
+                },
+                {
+                    "start": 2934.277,
+                    "stop": 2935.327,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 2935.327,
+                    "stop": 2944.031,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And they find out that 10 percent of nutty-nuttys out there are not going to buy their stuff because of Satan. What about that?"
+                },
+                {
+                    "start": 2944.031,
+                    "stop": 2996.73,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, in that hypothetical, it depends on what affirmative statements the companies have made. Under the securities law -- and this is an important point that I don't think has come through yet. Under the securities laws, there is no baseline duty to disclose for a manufacturer or a company. A company creates a duty to disclose once they have spoken. So it's going to depend on what the company has said. Now, in your scenario, if a company has made statements projecting their company's success into the next quarter, for example, and they have a concrete basis to know that, as your hypothetical submits, 10 percent of their computer -- consumer base is going to leave the company's products, that is almost certainly going to be material to an investor, and so yes, they would have to disclose that we have reason to believe, however ridiculous it is and untrue it is, that 10 percent of our consumer base has decided to boycott our products. That's certainly reasonable."
+                },
+                {
+                    "start": 2996.73,
+                    "stop": 2999.663,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You would have -- you just said they would have a duty to disclose?"
+                },
+                {
+                    "start": 2999.663,
+                    "stop": 3000.282,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, your honor."
+                },
+                {
+                    "start": 3000.282,
+                    "stop": 3005.484,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought you earlier just said there's no affirmative duty to disclose; it only is based on what they say?"
+                },
+                {
+                    "start": 3005.484,
+                    "stop": 3038.621,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's based on what they said. So, for example, if the company had simply remained silent and not said anything about its future sales, its prospects, then under the securities laws there is no duty to disclose. Basic and other cases have long made clear that there has to be something to trigger a duty to disclose. That is, under Rule 10b-5 it's only statements that are rendered misleading by the omission of a material fact that can trigger liability. If there is no projection about the company's future success, then it wouldn't have to disclose in that situation."
+                },
+                {
+                    "start": 3038.621,
+                    "stop": 3053.798,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if the company makes the kind of relatively common statements that were made here, poised for growth in the upcoming season, very strong momentum going into the season, extremely well positioned for successful season?"
+                },
+                {
+                    "start": 3053.798,
+                    "stop": 3054.798,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure, Your Honor--"
+                },
+                {
+                    "start": 3054.798,
+                    "stop": 3059.035,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That -- that triggers the duty to disclose the satanic rumors?"
+                },
+                {
+                    "start": 3059.035,
+                    "stop": 3116.988,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In certain cases where there are very generalized statements, for example, we think our product will do well, that may close -- come close to the line of puffery that is a nonactionable statement that no reasonable investor would rely on. Petitioners have never pressed that argument before this Court. There is no dispute about whether the statements that Matrixx made in this case are actionable, even though I agree with you that some of them probably come close to that puffery line. Here, though, we don't just have those statements about the company being well positioned for future growth. There are additional statements, and these were made to stock analysts that they expected a 50 percent increase in annual revenues, and, of course, there are the much more affirmative statements that the drug's safety had been well-established and that the reports of anosmia were completely unfounded and misleading. Those statements certainly crossed the line. And as I said before, there hasn't been an argument in this case as to whether those less specific and arguably puffery type statements--"
+                },
+                {
+                    "start": 3116.988,
+                    "stop": 3140.687,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So the government's position is that reports of adverse effects that have no scientific basis, so long as they would affect irrationally consumers, have to be disclosed, assuming the company has said we're doing well, right?"
+                },
+                {
+                    "start": 3140.687,
+                    "stop": 3144.989,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, yes, I think it would depend, again, on the statements the company makes. If -- if--"
+                },
+                {
+                    "start": 3144.989,
+                    "stop": 3149.091,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I mean, if Satan comes in, surely lousy science comes in as well, no?"
+                },
+                {
+                    "start": 3149.091,
+                    "stop": 3219.187,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Okay. So -- so, for example, if -- if a company had been faced with potential adverse effect and it had assembled its blue ribbon panel of scientists, conclusively determined that there is no causal connection between this purported adverse effect and their drug, the question is, would they have to disclose in that circumstance? I think if the company had simply made statements relating to the drug safety, we think our drug is safe, there is no reason to believe that it causes any adverse effects, then the answer is no, because the reported adverse effect would not call into question the accuracy of the company's statements relating to the safety of the drug. If, however, the company had made specific statements relating to consumer demand for its products and it knew, notwithstanding the fact that there was no causal connection, it knew or had good reason to believe that a significant portion of its consumer base would avoid the product, then, yes, a reasonable investor would want to know that information, and under Basic the company would have a duty to disclose that, even though unfounded, these reports may lead a significant percentage of our consumer base to leave the product. I think that falls squarely within the definition of materiality, which is would a reasonable investor want to have known that information?"
+                },
+                {
+                    "start": 3219.187,
+                    "stop": 3225.607,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Shah, what deference do you think that the SEC's understanding of materiality it's entitled to and why?"
+                },
+                {
+                    "start": 3225.607,
+                    "stop": 3311.445,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, this Court in both TSC and Basic accorded what it called due deference to the SEC's views on the application of the materiality standard. I think it's certainly true -- and -- and those, by the way, were both -- the -- the Court was deferring to the views of the SEC as expressed in amicus briefs to the Court just like in this case. I think the SEC is due a significant deference based on, one, its long-standing historical practice in applying the materiality standard, which is part of its own rule, Rule 10b-5, and its special expertise in knowing what a reasonable investor would want to know based upon its experience in this area. So, I do think that to the extent there is any ambiguity remaining in this case, the Court should defer to the SEC's views. And back to Justice Breyer's questions about what should the Court write simply beyond reiterating the Basic standard, I think what the Court did in Basic was it not only articulated the general standard, but it laid out some factors. And in laying out those factors, that's where the Court deferred to the SEC's brief. And it laid out factors that a reasonable investor might find relevant in that case it was the merger context. In here on page 28 of our brief, we lay out several factors that we think bear on the materiality question in this particular context; that is, involving adverse drug information."
+                },
+                {
+                    "start": 3311.445,
+                    "stop": 3327.138,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is there any way that consideration of those factors would support a -- a summary judgment in favor of the pharmaceutical manufacturer, other than the fact of having an extremely poor lawyer drafting a complaint? Anytime you have a variety of factors like that--"
+                },
+                {
+                    "start": 3327.138,
+                    "stop": 3327.64,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure."
+                },
+                {
+                    "start": 3327.64,
+                    "stop": 3331.758,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I think it's very difficult for the judge to say anything other than that's for the jury."
+                },
+                {
+                    "start": 3331.758,
+                    "stop": 3335.976,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If you mean at the motion to dismiss phase, Chief Justice?"
+                },
+                {
+                    "start": 3335.976,
+                    "stop": 3336.328,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah."
+                },
+                {
+                    "start": 3336.328,
+                    "stop": 3357.409,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think there would be some cases. And in fact, we know there are dozens of 12(b)(6) motions granted in securities fraud cases, and let me lay out a few scenarios for you. One would be in the -- in the -- in the scenario where the company has not made any actionable statements. It has either -- statements predicated to duty to disclose. It either has been made--"
+                },
+                {
+                    "start": 3357.409,
+                    "stop": 3366.098,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no, I'm talking about the -- I'm talking about materiality. In other words, based solely on -- in other words, you're saying if they say anything related, it's going to be enough--"
+                },
+                {
+                    "start": 3366.098,
+                    "stop": 3366.482,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Sure."
+                },
+                {
+                    "start": 3366.482,
+                    "stop": 3367.782,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--whether it's a scientific basis or not."
+                },
+                {
+                    "start": 3367.782,
+                    "stop": 3411.043,
+                    "speaker": {
+                        "name": "Pratik A. Shah",
+                        "ID": 38316,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Sure. Two responses to that. One, the PSLRA does have a safe harbor for companies once they make forward-looking statements, that if they add in meaningful cautionary language -- and this is in the PSLRA itself, section 5(c)(1)(A), that if they add in meaningful cautionary statements, then they cannot be subject to liability. And I think there are a couple other scenarios that would -- would trigger, for example, if the product at issue is such a small percentage of the company's income or expected growth that no reasonable investor would care if it tanked, then that might be a circumstance where a motion to dismiss would be appropriate. Thank you, Your Honor."
+                },
+                {
+                    "start": 3411.043,
+                    "stop": 3416.447,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Hacker, you have three minutes remaining."
+                }
+            ],
+            "start": 3416.447,
+            "stop": 3493.412
+        }
+    ]
+}

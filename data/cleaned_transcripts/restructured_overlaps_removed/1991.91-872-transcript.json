@@ -1,0 +1,1497 @@
+{
+    "title": "United States v. Salerno",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.137,
+                    "stop": 46.482,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: This case raises an issue concerning the proper interpretation of Federal Rule of Evidence 804(b)(1). Under Rule 804(b)(1) former testimony is admissible if the party against whom the testimony is offered had an opportunity and similar motive to cross-examine the declarant at the time the testimony was given. The court of appeals in this case held that that express similar motive requirement was irrelevant, and that the former testimony at issue here... which was grand jury testimony... was admissible under Rule 804(b)(1)."
+                },
+                {
+                    "start": 46.482,
+                    "stop": 51.007,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the court of appeals question whether or not there was a similar motive?"
+                },
+                {
+                    "start": 51.007,
+                    "stop": 79.616,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, they did not. The court of appeals... the only thing they said about whether there was a similar motive was that they agreed... I think this is almost a quote... they agreed with the district court that the Government may well not have had a similar motive to cross-examine the declarants. They didn't say... I don't think there's a word in the court of appeals opinion, or in their later opinion in the case of United States v. Bahadar where they attempted to clarify their opinion in this case. I don't think there's a word in either opinion that suggests that they thought the Government did have a similar motive."
+                },
+                {
+                    "start": 79.616,
+                    "stop": 86.143,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feldman, the district court found the Government did not have a similar motive. Is that correct?"
+                },
+                {
+                    "start": 86.143,
+                    "stop": 86.754,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 86.754,
+                    "stop": 93.92,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was that a determination that there was no similar motive as a matter of law, or as a matter of fact?"
+                },
+                {
+                    "start": 93.92,
+                    "stop": 98.945,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe that was largely a determination of fact. The district court made--"
+                },
+                {
+                    "start": 98.945,
+                    "stop": 110.242,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It reads as though the district court decided as a matter of law that there never would be a similar motive at the grand jury proceeding. What do you think they decided?"
+                },
+                {
+                    "start": 110.242,
+                    "stop": 133.039,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think the factors that influenced the district court... a lot of those factors would probably be present in other cases. And therefore, I think district courts would frequently... and should... reach the same conclusion that the district court did here. But the district court, when it made that decision, had before it the particular grand jury transcripts at issue here. The court had sealed materials that it referred to in its opinion, actually."
+                },
+                {
+                    "start": 133.039,
+                    "stop": 134.929,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, do you think it's an issue of fact?"
+                },
+                {
+                    "start": 134.929,
+                    "stop": 136.852,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I do think it's an issue of fact."
+                },
+                {
+                    "start": 136.852,
+                    "stop": 143.477,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so on a case-by-case basis the court would have to determine whether there is similar motive."
+                },
+                {
+                    "start": 143.477,
+                    "stop": 197.542,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that... I think that as a general matter that's certainly... that's certainly true under Rule 804(b)(1), as the rule would be applied to a variety of different former proceedings. I think in particular, with respect to grand jury proceedings, the answer should almost always or always be, because of the structure of the proceeding, and because of the nature of the inquiry that the proceeding is undertaking, that the answer should almost always be that the Government did not have a similar motive. Insofar as... in fact, I think generally the considerations as to whether hearsay grand jury testimony should be admitted against the Government or against a defendant, I think that it's more profitably considered as a general matter under Rule 804(b)(5), where a court can look at the particular circumstantial guarantees of trustworthiness and look at the whole situation and decide whether there is some basis to think that the testimony is reliable enough to be introduced at trial."
+                },
+                {
+                    "start": 197.542,
+                    "stop": 206.499,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Have the circuit courts discussed the question of the test for and the definition of similar motive, or is this still a very newly emergent doctrine?"
+                },
+                {
+                    "start": 206.499,
+                    "stop": 233.155,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think... I guess... I think it would be fair to say that it's been seen as largely a case-by-case factual determination. There hasn't been a lot of detailed legal discussion about what would and would not constitute similar motive. The factual... the issue is whether the party against whom it's offered had the... had a motive to cross-examine in the prior case so that that party fairly can be held to what it did with the witness in the prior case or the prior proceeding."
+                },
+                {
+                    "start": 233.155,
+                    "stop": 251.858,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If the Government decided that it wanted to question a witness extensively in order to lay the background for a perjury prosecution, but the objectives were... and the course of questioning was the same as would be pursued in the trial, is that a similar motive or a different motive?"
+                },
+                {
+                    "start": 251.858,
+                    "stop": 296.368,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think, if I understand the hypothetical right, it would be a similar motive... at least... if what... if you have a particular piece of testimony that someone has given, the question is what is the Government's motive to discredit that testimony, and what is the Government's motive to discredit it by confronting that witness with a full cross-examination, as opposed to by just introducing contrary evidence when the witness leaves the grand jury. And I think regardless of whether the Government would want a perjury prosecution... in your hypothetical... or for some other reason, if the Government has a reason to fully... to discredit the witness' testimony and to fully confront that witness with full-scale cross-examination, with full-scale confrontation with the evidence against that witness, as it would do at trial, then I think it would have a similar motive."
+                },
+                {
+                    "start": 296.368,
+                    "stop": 317.643,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feldman, can I ask you a question there? It seems to me there are two different ways to phrase the question: one, does the Government have any motive at all to show that the witness is a liar. It seems to me they clearly had a motive, but maybe that motive is overcome by other considerations. Is the fact that other considerations make it unwise to do what you have a good motive to do destroy the existence of the motive?"
+                },
+                {
+                    "start": 317.643,
+                    "stop": 326.159,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would quibble with the question just insofar as I'm not sure that the Government did have much of a motive to discredit these witnesses."
+                },
+                {
+                    "start": 326.159,
+                    "stop": 341.312,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if they thought they were lying, and that there really was this conspiracy, they surely had a motive. Maybe they didn't want to go ahead and do it. And I... it's pretty clear from the... what I understand the facts to be, they did think these people were lying. And they didn't have any motive to show that perjurers on the grand jury were liars."
+                },
+                {
+                    "start": 341.312,
+                    "stop": 360.615,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I... the Government may have some... maybe I... the Government may have some motive to show that. But it... I think it's important to keep in mind that a grand jury... in a grand jury investigation the issues are not... they are not focused on particular charges as they might be at trial, and there may be testimony that's given in a grand jury that turns out not to be very relevant or important to the Government at that time."
+                },
+                {
+                    "start": 360.615,
+                    "stop": 370.242,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that may be true. There may be reasons not to go forward and prove they're liars. But to say there's a total absence of motive, or that it's not similar to the motive at trial, I find very difficult to understand."
+                },
+                {
+                    "start": 370.242,
+                    "stop": 403.56,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I... well, the rule requires similarity of motive, not total absence of motive. But in any event, let me proceed to the other part of your question. I think where the Government did not cross-examine witnesses, in order to preserve the integrity of the proceeding, it was not a tactical decision that the Government made in order to improve the strength of its case, if you can talk about that in the grand jury. It was a decision that the Government made in order to... in part, in order to preserve the secrecy of the grand jury, to protect informants, to protect methods of investigations... for all of those sorts of reasons."
+                },
+                {
+                    "start": 403.56,
+                    "stop": 409.263,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Those are all good reasons. But do... are they inconsistent with the fact that the motive was, nevertheless, there?"
+                },
+                {
+                    "start": 409.263,
+                    "stop": 448.715,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe they are. The motive... if you look at the rule, the rule is not... is motive to develop the testimony by direct, re-direct, or cross-examination. It's not motive to discredit the witnesses. And I think it's important to make a distinction between those things. It may be that the Government had a motive to discredit the witnesses... although as I said, it may be quite different from its motive at trial. But it doesn't have the same motive in the grand jury to develop... to discredit them by developing their testimony, as opposed to, by, for instance, simply introducing surveillance tapes, by introducing the evidence of other informants. And, in fact, it has a positive motive not to do some of those things in order to protect the integrity of the investigation itself."
+                },
+                {
+                    "start": 448.715,
+                    "stop": 462.205,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Could you also just... while I've interrupted you... comment on the similarity of the situation for a defense... a witness at a preliminary hearing where the defendant decides, for tactical reasons, not to cross-examine? Is there a similar motive there?"
+                },
+                {
+                    "start": 462.205,
+                    "stop": 524.736,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I... again, I don't really want to make broad rules for all of these things. I guess my... I would... I think at a preliminary hearing the situation is sufficiently different from a grand jury that at least frequently the defendant will have the same motive. Where a defendant chooses, for tactical reasons, not to examine the witness, it's not to preserve the integrity of the preliminary hearing, and it's not to advance the purposes of the preliminary hearing, which is to determine whether there's probable cause to hold the defendant. It's for really some other reason that I think more appropriately is labelled tactical. I think the situation in the grand jury is rather different. In the grand jury the charges have not clearly been articulated, or even perhaps focused on or made at the time that a witness testifies. And the positive reasons the Government has not to develop the declarant's testimony relate directly to maintaining... not to advancing its position in that hearing, but maintaining the ability of the grand jury to investigate... continue to investigate the crimes and bring an indictment in that--"
+                },
+                {
+                    "start": 524.736,
+                    "stop": 545.33,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Feldman, don't you think a similar motive means similar in degree? Do you think it's enough that you have some very slight, remote motive of the same... why would it make any sense to write a rule like that if you have some vestige of a motive of the same type... although it is not remotely the same in degree? Why would that assure reliability?"
+                },
+                {
+                    "start": 545.33,
+                    "stop": 563.635,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, I... Your Honor, I don't think it does. I think the rule requires similar motive. If you look at the notes of the advisory committee that drafted the rule, they considered identity of motive, I believe, as a possibility, and decided that similar or... then they considered substantially... substantial identity, I think... actually, that... I may not be right about that. But in any event--"
+                },
+                {
+                    "start": 563.635,
+                    "stop": 566.068,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean similar in degree, as well as in time."
+                },
+                {
+                    "start": 566.068,
+                    "stop": 567.449,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think it should be similar both in type and degree. That's right."
+                },
+                {
+                    "start": 567.449,
+                    "stop": 594.817,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I don't understand your argument that you think this whole thing should be considered under (b)(5) instead of under (b)(1)? How could you consider under (b)(5)... (b)(5) requires that the statement not be specifically covered by any of the foregoing exceptions. Do you think that one that does not qualify for one of the foregoing exceptions because it doesn't come within the exception... although it is prior testimony... could nonetheless qualify under (5)?"
+                },
+                {
+                    "start": 594.817,
+                    "stop": 615.656,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I tend to think that it can. If you look... at least let me say this. It's not an issue that has to be reached in this case. But if you look at the way the lower courts have dealt with, for instance, grand jury testimony and so on, they have felt... they have dealt with it as if it doesn't come in under one of the (1) through (4) exceptions, that it still could come under (5), if it has the proper circumstances."
+                },
+                {
+                    "start": 615.656,
+                    "stop": 627.796,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean the district court can say, well, this is really not a similar motive. It's not similar in kind, it's not similar in degree, but what the heck, we're going to bring it in under (5) because we think it's reliable anyway... even though the rule says it's not reliable unless it's similar?"
+                },
+                {
+                    "start": 627.796,
+                    "stop": 648.022,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe... well, I think a district court could say we're going to look at this testimony and look at all of its characteristics, including the relationship of the declarant to the defendants, to the Government, the circumstances under which the declarant testified. There may be a number of other factors that are worthwhile in looking at to determine whether or not there's a circumstantial guarantee of trustworthiness."
+                },
+                {
+                    "start": 648.022,
+                    "stop": 671.697,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Feldman, is it still the law as it was when I went to law school and when I practiced that the district court... the trial court is given a considerable amount of discretion in deciding whether or not a particular piece of evidence is relevant or not? That a district court could decide some of these questions either way, and should not be reversed by a court of appeals?"
+                },
+                {
+                    "start": 671.697,
+                    "stop": 842.492,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that's right. Generally. In fact, if you look at the decisions under the Federal rules, the courts of appeals articulate the standard differently. But generally, it's abuse of discretion standard or something like that, as to the degree of discretion that a district court has to rule on evidentiary issues. In this case, I might add, the district court had before it 9 months of trial. It was quite familiar with what the issues at trial were and the contentions of the parties. It had the grand jury transcripts. It had the sealed submissions of the Government. It had arguments of counsel. Based on all those things, and looking at the direct text of the rule, the district court held that the evidence was... was not admissible because there was no similar motive. The court of appeals kind of... by holding that it had to be admitted under Rule 804(b)(1), it put the district... it puts district courts in a kind of odd situations since they have to decide... notwithstanding the fact that the text of the rule says similar motive, they now have to decide when a court of appeals is going to feel that fairness or something like that requires that the text of the rule be ignored or disregarded... or, as the court of appeals said in one place, evaporates. I think the linchpin of our argument, and I think the key point to make in this case is that the rule... the text of Rule 804(b)(1) is entirely unambiguous. It requires opportunity and similar motive. The opponent of the testimony have to... has to have opportunity and similar motive to develop the testimony. The Federal Rules of Evidence were enacted into law by Congress. And absent a holding that Rule 804(b)(1) is unconstitutional as applied to this case... and there was no such holding by either of the courts below, nor do we believe any such holding is possible on the facts of this case... the rules must simply be applied according to their terms. The court of appeals said that the similar motive requirement... and, in fact, in one place they said the opportunity requirement, as well... is irrelevant, or evaporates. And we believe that since rule... since the Federal Rules of Evidence were enacted by Congress, the specific terms of those rules have to govern in criminal cases, and the district court was correct in relying on the specific terms of that rule. What the court of appeals did was make up exception... a new hearsay exception, Rule 804(b)(6), which is where testimony has been... where a defendant has hearsay testimony... hearsay evidence that the defendant believes is exculpatory, and where the declarant takes the Fifth Amendment and the Government doesn't immunize the declarant, that hearsay testimony is admissible at trial, period. I don't find any principle of that nature in the Federal Rules. I think there would be a lot of reasons why a rule of that sort would be a mistake to adopt. But in any event it's not there, and I don't think the court of appeals had authority, in essence, to adopt it for purposes of this case. I would add that the error that--"
+                },
+                {
+                    "start": 842.492,
+                    "stop": 846.857,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I just raise one question? Of course, the availability issue has to be satisfied, though, doesn't it?"
+                },
+                {
+                    "start": 846.857,
+                    "stop": 847.656,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right."
+                },
+                {
+                    "start": 847.656,
+                    "stop": 851.719,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And, of course, their theory was that the witness was unavailable. And you disagree with that."
+                },
+                {
+                    "start": 851.719,
+                    "stop": 868.99,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, we agree, actually. In fact, the predicate for getting evidence in under any of the Rule 804(b) exceptions is that the witness is unavailable. And the... therefore, in order for the defendants to get the... the evidence in in this case, there had to be a finding that the witness is unavailable."
+                },
+                {
+                    "start": 868.99,
+                    "stop": 871.504,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Actually, they were unavailable to the defendant, but not to the Government, was their theory."
+                },
+                {
+                    "start": 871.504,
+                    "stop": 982.562,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right. The availability to the Government, I think is of no consequence here. I think the court of appeals was mistaken about that. But even if they were right, if the... the declarants were... if the declarants were, in some sense, available, the consequence of that would simply be that the evidence is not admissible under Rule 804(b)(1), because 804(b)(1) requires, initially, that the declarants be unavailable. So I just didn't... don't follow that line of reasoning at all. The court of appeals' error was not merely a technical one. The point of the hearsay rules is that hearsay evidence is not admissible unless there's some specific reason to believe that it's reliable... either it falls within one of the general categories which have their kind of categorical guarantees of reliability, or within the residual exception. In the case of Rule 804(b)(1) that purpose is served by requiring that the party against whom the testimony is offered have the opportunity and motive to cross-examine or to develop the testimony thoroughly. And where a party has had that kind of opportunity and motive, it provides some reason to think that the testimony is trustworthy, since it's been subject to cross-examination. And moreover, the party has already done... where it had the opportunity and motive... it's already done what it would have done at trial, and it's not considered to be that unfair to then introduce the hearsay testimony. I think the court of appeals' holding eliminates the motive requirement and substitutes nothing else in its place. So that instead of the standard pattern of the hearsay rules, where there'd be some reason to think that a... hearsay evidence is reliable before it's admitted in evidence... instead of that, you have evidence that's never subject to any guarantee of reliability or any reason to think it's reliable at all. And, indeed, in this case, the district court held that the... there was no circumstantial guarantee of reliability in considering Rule 804(b)(5), and held that they didn't think... the district court held in another... I think in its opinion that's in the appendix to the petition, that there was just no reason to think it's reliable."
+                },
+                {
+                    "start": 982.562,
+                    "stop": 997.244,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but as I understand the court of appeals, the court of appeals saying, well, that may be, but the Government has no basis to complain about that because the Government has the remedy right in its pocket. If you don't think it's reliable enough, then give them immunity."
+                },
+                {
+                    "start": 997.244,
+                    "stop": 1031.539,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's what the court of appeals said. I think that trenches seriously on the executive branch's prerogative to grant immunity. But more importantly, there's nothing in the rule that says well, where a party... I mean, assertion of a valid privilege is specifically defined as a basis for a finding of unavailability in the rules. The rules don't anywhere provide that if a party somehow could make a... a declarant available, that then the hearsay rules just vanish, and if the party chooses not to use that power the evidence comes in. Um--"
+                },
+                {
+                    "start": 1031.539,
+                    "stop": 1047.16,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if you... I suppose... I suppose the Government would have to tell a defendant where a particular witness is, if the defendant didn't know."
+                },
+                {
+                    "start": 1047.16,
+                    "stop": 1058.38,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think it would depend on the circumstances. But sure if... the Government has Brady obligations. It complied with those Brady obligations in this case. It... in fact, the Government informed the defendant--"
+                },
+                {
+                    "start": 1058.38,
+                    "stop": 1065.405,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if the witness is hiding somewhere, and the defendant can't find him, and the Government knows where he is, you would have to tell, I suppose?"
+                },
+                {
+                    "start": 1065.405,
+                    "stop": 1073.379,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think... I would think that that would come something under... if there's a Brady obligation to do so, I think... yeah, under those circumstances."
+                },
+                {
+                    "start": 1073.379,
+                    "stop": 1073.95,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is it a Brady obligation or not?"
+                },
+                {
+                    "start": 1073.95,
+                    "stop": 1076.674,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think under the right circumstances, yeah, there would be."
+                },
+                {
+                    "start": 1076.674,
+                    "stop": 1081.636,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You mean not always. You wouldn't have to always tell them where the witness is."
+                },
+                {
+                    "start": 1081.636,
+                    "stop": 1086.512,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't... the only reason I don't want to answer that categorically is because it might depend on the--"
+                },
+                {
+                    "start": 1086.512,
+                    "stop": 1094.719,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you don't think that's somewhat similar to this situation? The Government just doesn't want to immunize this person."
+                },
+                {
+                    "start": 1094.719,
+                    "stop": 1154.45,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right. I think it's rather different from a situation where the Government doesn't tell the defendants where the witness is. The general rule is that the executive branch has the authority, it has the discretion whether to immunize witnesses. It's the executive branch that has to, in a sense, pay the cost by foregoing prosecution when someone gets immunized. And defendant has no motive to avoid immunizing witnesses so they can later be prosecuted for, perhaps, very serious crimes they might have committed. In this case... the general rule is that the defendant has to bear... has to bear the cost of not having access to witnesses who assert the Fifth Amendment privilege, just as the Government does in cases where the Government finds it not worthwhile to immunize them because the Government wants to prosecute them. And it would make it too difficult. The Government did what it was required to do, and in essence, disclose the identity and the whereabouts of the defendant... of the declarants were never an issue... disclose that to the defendants. And that's all that the Government's obligation... that the Government had to do in this case."
+                },
+                {
+                    "start": 1154.45,
+                    "stop": 1163.266,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You certainly were not agreeing with Justice White that you always have a duty to tell the whereabouts of witnesses, are you? I mean you've got a Witness Protection Program out there, I suppose."
+                },
+                {
+                    "start": 1163.266,
+                    "stop": 1175.294,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Right, so that's what I was saying. And I wouldn't... I don't want to answer categorically, because I think it depends on lots of things, such as the defendant's real motive to find the witness, and the importance of the testimony. I don't think you can give a categorical answer to that."
+                },
+                {
+                    "start": 1175.294,
+                    "stop": 1181.36,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did the defendant have the precise transcript of the grand jury testimony available to them?"
+                },
+                {
+                    "start": 1181.36,
+                    "stop": 1185.304,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, the defendant didn't... they didn't have that, actually, until after the court of appeals' decision."
+                },
+                {
+                    "start": 1185.304,
+                    "stop": 1192.149,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They just had information... did they have formal communication from you that there was exculpatory testimony?"
+                },
+                {
+                    "start": 1192.149,
+                    "stop": 1210.566,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, that's what they had. And I think if you look at their... they were familiar with the industry; they were familiar with these two declarants and what their role in the industry was. And actually, if you look at their papers below, I think they had a reasonably good idea of what the nature of the testimony was, the exculpatory testimony."
+                },
+                {
+                    "start": 1210.566,
+                    "stop": 1229.418,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If this is a factual question to be decided by the district court, they're at something of a disadvantage in arguing about the motive, aren't they? Because they... I mean, the Government knows what the transcript says, and they don't know. Or do you propose that in these factual inquiries the defendant be given the grand jury--"
+                },
+                {
+                    "start": 1229.418,
+                    "stop": 1298.239,
+                    "speaker": {
+                        "name": "James A. Feldman",
+                        "ID": 30335,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, I think as a general matter, that also... that, itself, is a decision the district court has to make in light of Rule 6(e). There's well-developed law about under what circumstances a defendant has a right to get grand jury transcripts. And lots of evidentiary decisions might be made in a district court where one party or another submits something under seal, because the other party doesn't yet have the right to know what that material was. In this case, the district court made a decision on the particular facts of this case that the defendants didn't need the text of the grand jury transcripts. And that ruling was not reversed on appeal... or not even on... well, the court of appeals didn't even comment on that ruling. In short, I think the text of Rule 804(b)(1) is clear and unambiguous. Former testimony... the party against whom former testimony is offered must have an opportunity and similar motive to cross-examine the declarant, or to develop the testimony fully at the time the testimony is given. The court of appeals held that that similar motive requirement is irrelevant, or evaporates in some circumstances. We think that that's a clear misreading of the rules, and that the decision of the court of appeals should be reversed. I'd like to reserve the balance of my time, if I may."
+                },
+                {
+                    "start": 1298.239,
+                    "stop": 1301.25,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Very well, Mr. Feldman. Mr. Tigar, we'll hear from you."
+                }
+            ],
+            "start": 10.137,
+            "stop": 1379.122
+        },
+        {
+            "turns": [
+                {
+                    "start": 1301.25,
+                    "stop": 1379.122,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice Rehnquist, and may it please the Court: I hold in my hand nearly 400 pages of grand jury transcript, first released to us after certiorari was granted: 280 pages of Mr. DeMatteis, including 10 separate document requests, with which he complied; and 75 pages of Mr. Bruno, under a subpoena duces tecum. This is the testimony of which the Government said we didn't have a similar motive and, in fact, we didn't develop it. These witnesses were confronted in the grand jury with every, single, key witness that was to testify at trial. An indictment had already been issued in this very case. It was a superseding one that came out afterward. They were confronted with a key wiretap of Skopol, who was the central declarant in the alleged conspiracy. The court of appeals found that with this testimony, if it was believed by the jury, there was no conspiracy. Because these witnesses were key oligopsonist players in the receipt of concrete from the trucks, and key oligopolistic players in the alleged bid-rigging. And without them, of course, there couldn't be a conspiracy."
+                },
+                {
+                    "start": 1379.122,
+                    "stop": 1404.469,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Tigar, do I have the question presented wrong? I thought that under the question presented, we are assuming that the Government lacked motive to cross-examine. As I read the question presented, it's whether Federal Rule of Evidence authorizes admissions against the Government of the former testimony of a declarant who has been rendered unavailable by his assertion of his Fifth Amendment privilege, even though the Government lacked any motive to cross-examine, when--"
+                },
+                {
+                    "start": 1404.469,
+                    "stop": 1412.916,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Under the question presented, Justice Scalia, the answer is clearly yes, because the question presented misstates the rule. The rule--"
+                },
+                {
+                    "start": 1412.916,
+                    "stop": 1417.01,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, it's an easy case, then. I mean we took the case to decide the question presented."
+                },
+                {
+                    "start": 1417.01,
+                    "stop": 1417.17,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1417.17,
+                    "stop": 1419.263,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You're telling us it's an easy case."
+                },
+                {
+                    "start": 1419.263,
+                    "stop": 1448.052,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Justice Scalia, it's an easy case on the question presented because the rule doesn't require a motive to cross-examine, it requires a motive to develop the testimony. Your question to Mr. Feldman illustrates this. This rule jettisons the common law requirement of identity of parties, and substitutes the much more supple concept of similar motive. Second, Justice Scalia, as cited in our brief, we're entitled to defend our judgment on any ground... whether raised in the court of appeals or not. And the Government brought this case here telling--"
+                },
+                {
+                    "start": 1448.052,
+                    "stop": 1455.649,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but we don't have to decide the case. You may present that reason, but we're not required to even recognize it."
+                },
+                {
+                    "start": 1455.649,
+                    "stop": 1458.952,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The Court has the power, Justice White--"
+                },
+                {
+                    "start": 1458.952,
+                    "stop": 1459.57,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, I agree."
+                },
+                {
+                    "start": 1459.57,
+                    "stop": 1459.941,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--to do that."
+                },
+                {
+                    "start": 1459.941,
+                    "stop": 1462.965,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I agree with you. We don't ordinarily indulge in it. [Laughter]"
+                },
+                {
+                    "start": 1462.965,
+                    "stop": 1491.963,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Chief Justice Rehnquist, I am comfortable with the merits. But I wish to make clear that the Government, in its certiorari petition, filed at a time when we didn't have this material, described the case as though it had had no motive before the grand jury to talk about these wiretaps and to reveal its investigation. After certiorari was granted and we got the facts for the first time, we learned that these things did, indeed, happen before the grand jury."
+                },
+                {
+                    "start": 1491.963,
+                    "stop": 1497.098,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this wasn't the ground that the court of appeals relied on. Well, are you defending that or not?"
+                },
+                {
+                    "start": 1497.098,
+                    "stop": 1498.8,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I do defend that, Justice White."
+                },
+                {
+                    "start": 1498.8,
+                    "stop": 1500.19,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I think you better get with that for a while."
+                },
+                {
+                    "start": 1500.19,
+                    "stop": 1609.611,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Sir. I defend the court of appeals' decision on its own terms as follows: For 25 years at the bar, the most uncomfortable thing a judge has ever said to me, and it's happened a lot of times, is leaning over the bench, in a tone of voice used by cats to explain to canaries the meaning of dinner, the judge says, Mr. Tigar, you have opened the door. That is to say, Mr. Tiger, evidence that you might be able to block the admission of is not going to come in because you have done things, or said things, or suffered things to be done at or said that make... mean that you can't rely on it. Now you could go, for these purposes, to Rule 104(a), which requires a preliminary fact-kind-of determination and say that that's the Rules of Evidence equivalent to 37(a), and use the same analysis you did in Insurance Company of Ireland v. Companie de Boxie de Guinea, saying essentially that the personal jurisdiction issue is pretermitted, we don't have to get to it. Here the Second Circuit said... and it explained it clearly and narrowly. It's at page 15 of our brief, quoting from their opinion in Bahadar, that we concluded in Salerno that it... i.e., similar motive... could not be invoked by the Government under the specific circumstances of this case. And when the Second Circuit so spoke, it did so having in its hands something that we did not... that is, these nearly 400 pages. When we look at them we see that the Second Circuit was right, that the adversarial fairness goal is met here. The Court in Jones against Illinois... Justice White, Justice Scalia, Justice... Chief Justice Rehnquist, excuse me... also addressed this question. Nothing is more sacred, I suppose, then defending the Constitution. The Exclusionary Rule is a means to do that. But if the accused opens the door, then it comes in."
+                },
+                {
+                    "start": 1609.611,
+                    "stop": 1627.453,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I take it your bottom line is if we... the Government's position really requires a decision on whether the rule is constitutional. And it isn't, you would say?"
+                },
+                {
+                    "start": 1627.453,
+                    "stop": 1638.732,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--If the Government's position is accepted, Justice White;-- --if this adversarial fairness doctrine, which is routinely used is not invoked, it is unconstitutional. Let me turn to that. In Chambers against Mississippi--"
+                },
+                {
+                    "start": 1638.732,
+                    "stop": 1644.585,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But no, that was never suggested, even in the court of appeals, was it, that it was unconstitutional?"
+                },
+                {
+                    "start": 1644.585,
+                    "stop": 1786.059,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, it was, Chief Justice Rehnquist. The court of appeals said that it didn't want to reach the constitutional issued posed by this very issue unless it had to, and so it resolved the issue based on the concept of adversarial fairness. We briefed it in the court of appeals. The court of appeals responded to it in its opinion. And it is fairly presented by this record, sir. In Chambers against Mississippi, the Court held that the ordinary rules of hearsay give way under certain circumstances. Then in Ohio v. Roberts, the Court explained what it meant. And then this term, in White v. Illinois it took the analysis a step further. You remember, in Ohio v. Roberts, defense counsel, the hapless, poor fellow, went outside and he got Anita Isaacs in, and he put her on direct examination to try to wheedle exculpatory testimony out of her but it didn't work. That happens to defense lawyers in preliminary examinations. That derisory encounter on direct examination was held to be such a similar motive, that the confrontation clause was not violated. Again, I contrast it with these 400 pages. The Court then said some interesting things. First, cross-examination/direct-examination doesn't matter. I think that answers Justice Scalia's question. The motive doesn't have to be very much, and it can be direct as well as cross. And that's what the drafters of the rule thought. Second, the district judge's opinion... Justice O'Connor, you had asked whether it was a decision of law or fact. If you look at her opinion, she said a prosecutor doesn't have a motive. She spoke in general. And then in two paragraphs further on, she did something that gives it away. She said I got some letters from the Government that say these people aren't reliable. Well, in White against Illinois, and in Ohio v. Roberts, this Court said for Government hearsay, that doesn't matter. We don't take letters over the transom or under the door that the hearsay declarant's not a nice person. If the requirements of the rule are met... here, cross-examination and the development of the testimony... the most reliable, according to Wigmore and all of the commentators, or, if in White v. Illinois the excited utterance standard is met, that's the end of it. We don't take a letter under the transom that says that the excited utterer declarant, you know, robbed a grocery store last week. That can be shown under Rule 806 so that the Government has a fair opportunity to do, even without granting immunity, that which it says it didn't have the opportunity to do. That's--"
+                },
+                {
+                    "start": 1786.059,
+                    "stop": 1793.365,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your position, Mr. Tigar, is that the Government opens the door when it begins cross-examination in the grand jury?"
+                },
+                {
+                    "start": 1793.365,
+                    "stop": 1797.258,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, Justice Kennedy, we do not take that position."
+                },
+                {
+                    "start": 1797.258,
+                    "stop": 1799.099,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When does this door get opened?"
+                },
+                {
+                    "start": 1799.099,
+                    "stop": 1840.231,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The door is opened, one... and the court of appeals went through this in Bahadar, so I'm not making it up as I go along. It's in the record. First, they went to Washington, D.C. and got an Assistant Attorney General to certify that this testimony was necessary in the public interest... not their private interest, the public interest. They put the witnesses before the grand jury. It very quickly turned out that the witnesses weren't going to tell the Government's story. Ten document requests later, they let them go. So the door opening, Justice Kennedy, was the grant of immunity, and the extensive cross-examination and document requests and the rest of it--"
+                },
+                {
+                    "start": 1840.231,
+                    "stop": 1847.816,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the doctrine about opening the door so that you don't take an inconsistent position before the same trier of the fact. The jury never heard this testimony."
+                },
+                {
+                    "start": 1847.816,
+                    "stop": 1850.687,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The inconsistent position, Justice Kennedy--"
+                },
+                {
+                    "start": 1850.687,
+                    "stop": 1850.847,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The trial jury."
+                },
+                {
+                    "start": 1850.847,
+                    "stop": 1880.249,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--is that the Government indicted these defendants and said, members of the trial jury, there is a conspiracy here to rig bids. Now, at the same time they're telling the jury that, in the back room, they have lit a candle... the candle of the exculpatory testimony of these witnesses. And now they want from this Court the authority to put a basket over that candle, so the light doesn't shine in the dark corners. That is--"
+                },
+                {
+                    "start": 1880.249,
+                    "stop": 1883.461,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm still having trouble opening the door. I haven't gotten to the candle yet. [Laughter]"
+                },
+                {
+                    "start": 1883.461,
+                    "stop": 1887.715,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I apologize for the... I apologize to the... for the metaphor, sir."
+                },
+                {
+                    "start": 1887.715,
+                    "stop": 1902.845,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I just... I'm aware of no doctrine of opening the door other than to avoid taking an inconsistent position before a trier of fact, which confuses the trier of fact. That did not happen here."
+                },
+                {
+                    "start": 1902.845,
+                    "stop": 2002.046,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The door-opening concept... for example, in cases like Walder and Jones, the accused's statements are suppressed. They're kept away. The accused then says something which is inconsistent with the position. Here the inconsistency is that the Government claims in its case that a crime occurred, and it's holding in the background, and keeping out of evidence the testimony or statements of others that it didn't occur. That was the situation in Chambers v. Mississippi. The constitutional concept there... and that rose to the level of a constitutional violation... was that McDonald's confession, which directly, as the Court found negated the theory on which they were prosecuting, was such that was required to come in. In Andolschek, cited with approval by this Court; in Dennis v. United States, there were Treasury regulations that barred certain evidence, that kept it from being used. And the Second Circuit, cited with approval, said look. We... the Government's right to be let alone and to keep its secrets is fine. But once you prosecute, there are certain prices that you have to pay. And one of those prices is that you open the door to evidence that meets certain levels of reliability... just like the exclusionary rule. The exclusionary rule is mine. I can use it to bar the introduction of relevant evidence... the most... perhaps the most relevant. But the bar comes down when I abuse that procedural right... not abuse it... when I press it to a certain distance."
+                },
+                {
+                    "start": 2002.046,
+                    "stop": 2007.381,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, your argument really boils down to the fact that the Government was obligated to immunize these people, doesn't it?"
+                },
+                {
+                    "start": 2007.381,
+                    "stop": 2054.333,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Chief Justice Rehnquist, it does not. As we point out in our brief, that's not the choice. Chief Justice Rehnquist, the grant of immunity to DeMatteis, which is the only one that we have in the record... the other one's sealed... says that he was immunized for the grand jury and for any subsequent trial. The Government didn't tell us that in the district court. But they had already given him immunity. So that on the specific facts of this case, they'd already crossed the immunity bridge. But I will answer the Court's question straight out. Are there circumstances in which the Government is compelled to set aside this executive prerogative... not a circumstance presented by this case? Yes, there are. In Lefkowitz v.--"
+                },
+                {
+                    "start": 2054.333,
+                    "stop": 2057.786,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you're not saying it was involved in this case, then?"
+                },
+                {
+                    "start": 2057.786,
+                    "stop": 2064.674,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's right. It's not necessary to the decision, but I want to make clear that I'm not running from it, Chief Justice Rehnquist. In Lefkowitz v. Cunningham--"
+                },
+                {
+                    "start": 2064.674,
+                    "stop": 2078.692,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'm trying to figure out... you're saying, then... if you're not saying that in this case the Government has to immunize the witness, you're saying then that you simply agree with the court of appeals' interpretation of the rule that we're talking about?"
+                },
+                {
+                    "start": 2078.692,
+                    "stop": 2079.774,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's correct."
+                },
+                {
+                    "start": 2079.774,
+                    "stop": 2083.257,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That the similar motive requirement evaporates under certain circumstances?"
+                },
+                {
+                    "start": 2083.257,
+                    "stop": 2193.39,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm saying three things: First, I made my constitutional argument... that is to say that... Justice White, as usual, said it better than I did, formulating the issue, that the rule is unconstitutional as applied the way the Government wants. Second, we support the Second Circuit's position. In this case, given these transcripts, it's kind of hard to see how the Government could ask anything they didn't already get to ask. So the question is hypothetical. But there's a third point here. And that is, the Government in its brief tells the Court... and it stands up here and tells the Court... that even looking at 804(b)(1), we don't think that grand jury testimony should come in hardly ever. We won't say never, but hardly ever. Sorry to mix the metaphor again. Maybe Gilbert and Sullivan don't belong here. But that is their position. And I want to spend a couple of minutes talking about that. This hearsay, this prior testimony is the strongest hearsay. That is, Wigmore, and all the commentators have said it. The rule drafters considered making it not hearsay at all. Again, to return to Justice Scalia's question, the similar motive requirement does perhaps invoke a question of degree. But there are so many cases about similar motive out there in the wake of the rules... many, many, many... that show that the motive can be relatively derisory. And I'll tell you if I... I think after 25 years, if I showed up at a preliminary hearing and had a witness on the stand for 3 days and made 10 document requests to the witness, and then put another one on for a day with a subpoena duces tecum, I'd pretty well expect to see that testimony coming back against my client, if the witness turned up unavailable later on."
+                },
+                {
+                    "start": 2193.39,
+                    "stop": 2195.904,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know what you mean by derisory, Mr. Tigar. I--"
+                },
+                {
+                    "start": 2195.904,
+                    "stop": 2258.128,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh, derisory... I am thinking of the Anita Isaacs episode in Ohio v. Roberts, Justice Scalia. There is a witness out in the hall who lived with the defendant, Herschel Roberts. Defense counsel... because I read the Court's opinion... gets a bright idea that maybe Ms. Isaacs will say that Mr. Roberts could have thought he had authority to use her parents' credit cards during the time they were living together. So he... with no preparation, apparently... drags her in, puts her on the stand, and starts questioning her on direct. She turns on him, and bites his hand. She won't give him what he thinks he's going to get, and he doesn't even ask to have her declared a hostile witness. He just quits. She turns up missing. This Court says, well, she's unavailable, the hearsay comes in. We don't need to worry whether she's a nice person, not a nice person. She was under oath and you had your chance, and that's it. That's the derisory kind of encounter... I hope I'm using the right word... it's a relatively insignificant encounter that nonetheless satisfies the similar motive requirement."
+                },
+                {
+                    "start": 2258.128,
+                    "stop": 2262.91,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I don't want to use derisory, but I think you're not using the right word. [Laughter]"
+                },
+                {
+                    "start": 2264.442,
+                    "stop": 2265.552,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Cursory, I think."
+                },
+                {
+                    "start": 2265.552,
+                    "stop": 2466.741,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'm sorry. I apologize to the Court. I... and I accept that change. The unremarkable nature of this opinion, considered as a question of 804(b)(1) is illustrated by the court of appeals' decision we cite in our brief. The D.C. Circuit, in United States v. Miller, Judge Silberman for the Court, then Judge Thomas on the panel, said that the notion of letting in grand jury testimony under these circumstances is well accepted, well established in our jurisprudence, was the words that they used. And I think that follows. It follows. The grand jury, as the Court has repeatedly held, is the Government's playground in the sense that the Court has been hesitant to impose restrictions on Government conduct that are going to interfere with the grand jury's ongoing function. But once they have summoned a witness and elicited the testimony at such length, the purposes of Rule 804(b)(1) are met. And again, this is the transcript. This shows that the abstract concerns the Government raised in its petition for certiorari simply don't exist here. And there is a final point about this. As Saltzburg and Martin in their treatise on the law of evidence tell us what prosecutors do, and this Court has seen it in other cases, as Justice Frankfurter said in Watt v. Indiana, ought not as Justices to forget that's what you knew as men... and he would say as women, today. That is that the prosecutor, knowing that there is a witness out there, doesn't know which way they're going to go. Are they going to give testimony that inculpates the defendants... who they've already indicted, by the way... or they going to deny the existence of the conspiracy? If the former, fine. They'll get their testimony. But if the latter, the prosecutor keeps him before the grand jury because you can develop impeachment material. That way, when the defendant calls on the trial as witnesses, you've got this rucksack full of things that you developed in secret in the grand jury context. To take the matter a step further... and in conclusion, if there are no more questions... Mr. Juliani was the United States attorney. Would he believe for a minute, hypothetically, a prosecutor who said, oh, I had some of the major players in the New York concrete industry in the grand jury today. I had them there in secret. I had them there without their lawyers. I had them there under grants of immunity that I got from the Assistant Attorney General of the United States, but I just decided that I wasn't going to ask them any questions. I really didn't have a motive that day to ask them anything about the most significant bid-rigging conspiracy in the history of the City of New York. Just as I could not... and no lawyer in this Court could argue with a straight face... the testimony developed under these circumstances now before the Court would come in at some subsequent proceeding. I respectfully submit that doesn't pass the straight-face test. If the Court has no--"
+                },
+                {
+                    "start": 2466.741,
+                    "stop": 2468.691,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I have one other question, Mr. Tigar."
+                },
+                {
+                    "start": 2468.691,
+                    "stop": 2468.961,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Justice Stevens."
+                },
+                {
+                    "start": 2468.961,
+                    "stop": 2486.755,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know if you've responded to it or not, but the Government argues that the... their motive in maintaining the security of the grand jury proceeding is of sufficient importance to negate the similar-motive requirement. I don't think you've commented on their emphasis on the importance of maintaining the integrity of the grand jury proceeding."
+                },
+                {
+                    "start": 2486.755,
+                    "stop": 2653.842,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Their... we would not say that in every case grand jury testimony comes in. We would say that this hearsay, which is the most reliable kind of hearsay... developed before the grand jury, which is the public's body and not the prosecution's playground, ought presumptively to come in. And that if the Government has a special reason, in terms of grand jury secrecy, to prevent it coming in... I think the flaw here, as suggested by some of the questions is that the defendants were forced to put a blindfold on to argue about it. That is, they were necessarily dealing in hypotheticals because they didn't have the testimony. So that to answer the question to begin with, procedurally, as you do under the Jencks Act, in what's called a Campbell hearing, there ought to be some disclosure. As the Court said in Alderman v. United States, you could even put it under protective order. And there the matters were the most sensitive wiretaps, bearing upon national security and espionage case, co-petitioner Ivanof. So that adversary inquiry might illuminate the matter and show that under particular circumstances there was no motive. But it's difficult to argue about in this case because there had already been one indictment in a related case; one indictment in this case; and in fact, looking here, they did disclose the name of every single major witness in the case, and the name of the most significant declarant, through one of these wiretaps. Coming back to... this is not the case that was represented in the certiorari petition. But generally speaking, I think the Court should be skeptical of the Government's assertions, just as it has been skeptical of the defense counsel who stands up here in the well of the Court and says well, it was just a preliminary hearing, I didn't really have the motive to do anything. And all of us that had done preliminary hearings know that you don't have a motive to do anything. Except that the Court has said, I'm sorry, your tactical considerations here are really not our concern, counsel. You'd better understand that when you start asking questions you may see this coming back. So that... that is my answer. But at bottom, the question is, what is the grand jury. It's not just their playground. It is a body that gives them the power to investigate... the sole inquisitorial element in our accusatorial system of jurisprudence. And as in Andolschek, when they then decide to indict somebody... as the Court has often recognized... these considerations evaporate. The very case that they cite discussing grand jury secrecy shows why that's so. All of the Court's decisions on grand jury secrecy... the list of factors that we cite in our brief are satisfied here in terms of there not being any reason for nondisclosure."
+                },
+                {
+                    "start": 2653.842,
+                    "stop": 2666.52,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Tigar, did the court of appeals reach the question of whether the district court was clearly erroneous in finding no similar motive? It didn't reach that question, did it?"
+                },
+                {
+                    "start": 2666.52,
+                    "stop": 2704.028,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "What it said was it assumed, arguendo, that the... there was no similar motive to, quote, cross-examine, close quote. So the district court... which, of course, is not the rule standard. Moreover, the district judge... excuse me, I'm corrected by co-counsel... he says there may have been no motive... may have been. Which is either a conditional or assuming arguendo. But in any case, doesn't meet the requirement. The decision they were reviewing, as I had said earlier, is not a factual finding by the district court. It's a conclusion of law."
+                },
+                {
+                    "start": 2704.028,
+                    "stop": 2719.54,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it doesn't meet the de novo requirement, but it meets enough of the requirement to say that the court of appeals did not find enough basis on the facts to reverse the district court. They said-- --there may have been no motive, as the rule requires."
+                },
+                {
+                    "start": 2719.54,
+                    "stop": 2760.488,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice Scalia, if the Court believes... now that the record has seen the light of day... that the court of appeals... if this Court believes the court of appeals' utterance is as delphic as is suggested by your question, then the proper course would be to remand, to ask the court of appeals what it would have done were all of this testimony now in the light of day so that it could really be argued about. But given the fact that you don't have a fact-finding by the district judge, whose opinion is bereft of factual finding and entirely based on the law, and given the court of appeals' refusal to endorse the district judge... given its opinion as a whole, sharply critical of--"
+                },
+                {
+                    "start": 2760.488,
+                    "stop": 2800.705,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I take it you... you weren't... you don't think we're entitled to judge this case on the basis that there was no similar motive? And I would think the court of appeals' reasoning would... would obtain, and they would have reached the same result if they came right out and says... there was no... we find there was no similar motive on the part of the Government. But nevertheless, they've got the choice. They're either immunizing or letting the testimony in. That's what they eventually said. You either immunize or let the evidence in and ignore the rule."
+                },
+                {
+                    "start": 2800.705,
+                    "stop": 2812.724,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Justice White, it is our position that they did not say ignore the rule, that they said that the bar of the rule cannot be relied on by the Government under these circumstances, as often happens."
+                },
+                {
+                    "start": 2812.724,
+                    "stop": 2818.878,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Anyway, we are entitled, then, to judge this case on the basis that the Government had no similar motive."
+                },
+                {
+                    "start": 2818.878,
+                    "stop": 2821.028,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, indeed, Justice White."
+                },
+                {
+                    "start": 2821.028,
+                    "stop": 2821.439,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why?"
+                },
+                {
+                    "start": 2821.439,
+                    "stop": 2828.614,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Because the record of this case contains the indisputable evidence of the way in which they developed the testimony."
+                },
+                {
+                    "start": 2828.614,
+                    "stop": 2842.854,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I know but we're reviewing a court of appeals' decision. We don't spend our time correcting errors, here. I mean Chief Justice Taft said two courts is enough for correcting errors. We granted certiorari to consider an important question of law, not to revise the judgment in this particular case."
+                },
+                {
+                    "start": 2842.854,
+                    "stop": 2879.659,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And I respectfully suggest, Chief Justice Rehnquist, as I said in my brief, that the theoretical statements in the petition for certiorari about the interests of the Government turn out to evaporate when you look at this testimony. And that the most appropriate disposition is to dismiss this case as improvidently granted because the facts brought to this Court by the Government fall so far short of what it has said they were, or suggested that they were... excuse me, let me be precise... suggested that they were in bringing the case here. Yes, that is also our position."
+                },
+                {
+                    "start": 2879.659,
+                    "stop": 2888.936,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But to do that, we have to read that entire bundle of papers you've just thrown on your desk there. Right? Yes."
+                },
+                {
+                    "start": 2888.936,
+                    "stop": 2890.878,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I invite the Court to do so."
+                },
+                {
+                    "start": 2890.878,
+                    "stop": 2892.04,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, I know you do."
+                },
+                {
+                    "start": 2892.04,
+                    "stop": 2912.774,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But the Government has not challenged my summary of it in my brief, and therefore I think that the Court can rely on what was said there. After all, they also admitted, at page 11 of their reply brief that they did cross-examine enough to bring a perjury prosecution. And I heard them say in oral argument that that would have been enough of a similar motive. If there are no further questions--"
+                },
+                {
+                    "start": 2912.774,
+                    "stop": 2920.328,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I have one more... you mentioned that one of the two witnesses was given immunity for future testimony as well. Is that right?"
+                },
+                {
+                    "start": 2920.328,
+                    "stop": 2922.659,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The other... yes. The other--"
+                },
+                {
+                    "start": 2922.659,
+                    "stop": 2925.06,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, then why was... why was he unavailable?"
+                },
+                {
+                    "start": 2925.06,
+                    "stop": 2984.723,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the Government admitted in oral argument in the Second Circuit that neither witness was unavailable. That transcript has just been released, too. I don't know why he is unavailable, Justice Scalia. I didn't have the transcript of the grand jury testimony that contained the text of the immunity order at the time I argued in the Second Circuit. I was compelled to feel around and make hypothetical arguments. That's one of the problems with this case is that the more that gets revealed, the less there appears to be the cosmic legal issue that was tendered by the petitioner. I don't know the answer to that. I do know that that form of grant of immunity in the D.C. Circuit, given the express holding of the Miller case, would have been enough to carry through to trial. That, the D.C. Circuit made clear in that case. Whether it would be sufficient in other circuits is a question on which I don't think the circuits themselves have a consistent view. But at any rate it shows why the Government's legal theory keeps getting tangled up with the facts."
+                },
+                {
+                    "start": 2984.723,
+                    "stop": 2988.684,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I take it... were both witnesses called at the trial court and declined to testify?"
+                },
+                {
+                    "start": 2988.684,
+                    "stop": 3006.208,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, both witnesses were called an invoked their privilege against self-incrimination. And at that time the Government didn't say a word about the terms of the earlier grants of immunity. Now, maybe they put them under seal and gave them to the district judge. But so far as the public record that was in the trial court, they weren't there."
+                },
+                {
+                    "start": 3006.208,
+                    "stop": 3009.758,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, was the immunity use immunity?"
+                },
+                {
+                    "start": 3009.758,
+                    "stop": 3019.756,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, it was for statutory immunity, approved by an Assistant Attorney General of the United States, as required by the statute. And that's made clear in all these transcripts, Justice Kennedy."
+                },
+                {
+                    "start": 3019.756,
+                    "stop": 3028.163,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But was the use... do we know whether the use immunity was confined to the immunity... to the testimony that was developed before the grand jury?"
+                },
+                {
+                    "start": 3028.163,
+                    "stop": 3056.965,
+                    "speaker": {
+                        "name": "Michael E. Tigar",
+                        "ID": 36803,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The terms of the immunity grant, as read to the witness, DeMatteis, include all proceedings resulting therefrom or ancillary thereto. I don't have in the transcript of Bruno the text of the order. In supplemental record number 1, in the court of appeals, there are three, handwritten notations of envelopes that were sealed. That same record index is in this Court, and contains, I believe, the same material. At page 117 of the Government's brief in the Second Circuit, that representation was made to that court. So those are available."
+                },
+                {
+                    "start": 3056.965,
+                    "stop": 3077.793,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Tiger. Mr. Feldman, you have 8 minutes remaining. Mr. Feldman, I want to be sure I get a chance to ask one question of you. The first section... you have three parts of your brief. And the first one you discuss is the Government did not have a similar motive to develop the grand jury testimony before the grand jury. My question is why did you include that argument in your brief."
+                }
+            ],
+            "start": 3077.793,
+            "stop": 3082.657
+        }
+    ]
+}

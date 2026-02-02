@@ -1,0 +1,2360 @@
+{
+    "title": "Setser v. United States",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 8.737,
+                    "stop": 50.447,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This case concerns whether, in passing the Sentencing Reform Act of 1984, Congress granted to the Federal district court the authority to order its Federal sentence to run consecutively to a -- a sentence which has yet to be imposed and may never come to fruition. The text of 3584, its structure and its history all point to the conclusion that the court lacks this power. We believe the question should start and end with the statute's text. When a defendant receives multiple terms of imprisonment, they must bear one of three relationships to each other. Either one is imposed before the other, the other is imposed before the one, or they are imposed at the same time. In--"
+                },
+                {
+                    "start": 50.447,
+                    "stop": 59.42,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, in the third sentence of this provision, on its face, does Mr. Setser fit into it?"
+                },
+                {
+                    "start": 59.42,
+                    "stop": 61.889,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor. He does not."
+                },
+                {
+                    "start": 61.889,
+                    "stop": 71.227,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "\"Multiple terms of imprisonment imposed at different times run consecutively. \" What is unclear about those words?"
+                },
+                {
+                    "start": 71.227,
+                    "stop": 74.179,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, that term can only--"
+                },
+                {
+                    "start": 74.179,
+                    "stop": 78.648,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The words are not unclear. We have to do the statutory interpretation that you want?"
+                },
+                {
+                    "start": 78.648,
+                    "stop": 93.141,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your -- Your Honor, the words can only be read in the context of the first -- of the first sentence. We believe that the third sentence only applies where the Court had the authority to actually order this but remained silent."
+                },
+                {
+                    "start": 93.141,
+                    "stop": 112.887,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Some fairly respected jurists below, Judge Easterbrook and Judge Fletcher, two different circuits, have read it as taking care of all those situations that the other two sentences don't cover. Why is that an irrational reading?"
+                },
+                {
+                    "start": 112.887,
+                    "stop": 134.468,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I -- I think it has to be read -- the third sentence has to be read in its place within the statute, and I think that the third sentence refers exclusively to circumstances where the defendant was already serving another term of imprisonment at the time of the Federal sentencing. I think we know this because of the parallel structure of 3584(a). It--"
+                },
+                {
+                    "start": 134.468,
+                    "stop": 152.012,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that assumes the answer, is what I'm saying to you. If you give each sentence its plain meaning, why is -- why is Mr. Setser not within the plain meaning of the third? He -- he had multiple terms of imprisonment, imposed at different times."
+                },
+                {
+                    "start": 152.012,
+                    "stop": 173.426,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, but those terms of imprisonment weren't -- there was no term of imprisonment imposed at the time of his Federal sentencing. He was not serving an undischarged term of imprisonment. And we believe that the natural flow of the statute, the default rule only comes in place if the court had the power to sentence under the first sentence."
+                },
+                {
+                    "start": 173.426,
+                    "stop": 179.161,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You would say that at the time of sentencing, there were no multiple terms of imprisonment. Is that your point?"
+                },
+                {
+                    "start": 179.161,
+                    "stop": 187.15,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is correct, Your Honor. At the time of the Federal sentencing, Mr. -- Mr. Setser was not subject to an undischarged term of imprisonment."
+                },
+                {
+                    "start": 187.15,
+                    "stop": 211.801,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What difference does it make for him? He served his State time. He came over to serve his Federal sentence. He didn't get credit for the 2-1/2 years he spent in -- in State. But what is the consequence? How much -- what is the difference to the defendant in this case?"
+                },
+                {
+                    "start": 211.801,
+                    "stop": 238.868,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, we -- we believe that the order, what the order did was bind the court. I'm sorry, the -- the order bound the Bureau of Prisons. And so what it does -- what happens is, Mr. Setser is not able to petition the Bureau of Prisons to allow that sentence to begin running from the time of the Federal sentencing. So the difference, Your Honor, is 1 year, 6 months, and 23 days that we believe that he is entitled to credit for."
+                },
+                {
+                    "start": 238.868,
+                    "stop": 239.551,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And this is--"
+                },
+                {
+                    "start": 239.551,
+                    "stop": 253.259,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Entitled to credit or you could seek it? I mean, what would it -- he has the State time and he -- 2-1/2 years, and then he has his Federal sentence. Why would you be entitled to any credit?"
+                },
+                {
+                    "start": 253.259,
+                    "stop": 270.221,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Because -- because, Your Honor, the court ordered that the -- the Federal sentence to run concurrently to that 10-year sentence that he received in State court. And so we believe he is entitled to credit for that -- for that sentence."
+                },
+                {
+                    "start": 270.221,
+                    "stop": 295.336,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In situations like this, somebody is going to have to make the decision whether the Federal sentence and the subsequently imposed State sentence run concurrently or consecutively. And now you're arguing that that should be done by the Bureau of Prisons. Do you think in general that is better for defendants than a rule that would allow the sentencing judge in Federal court to make that determination?"
+                },
+                {
+                    "start": 295.336,
+                    "stop": 331.092,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, in our estimation the question is not the who, but the when. And at the time, at the Federal sentencing, the Federal judge did not have the complete information to make the proper judgment in this case. He had no idea what that State term of imprisonment was going to be. So in our estimation, it is better that -- that the Bureau of Prisons has all the information to make this decision. It will actually know what the State term of imprisonment is. I'm not here to advocate that the system that the Bureau of Prisons uses -- uses is perfect--"
+                },
+                {
+                    "start": 331.092,
+                    "stop": 382.442,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why would the -- why would the exact length of the sentence imposed by the State court be relevant to the determination made by the sentencing judge? I thought the sentencing judge's reasoning was that the -- the undischarged term of imprisonment that was going to be imposed on the offense for which probation had previously been granted and there had been a violation of the probation, that that had nothing to do with his subsequent Federal drug charges, and therefore the Federal drug charges should run consecutively to that, but should be concurrent to any sentence imposed by the State court on the State drug charges. What -- you know, what's wrong with that reasoning, and what additional insight relevant to that reasoning would be obtained by waiting until after the sentence was imposed?"
+                },
+                {
+                    "start": 382.442,
+                    "stop": 429.355,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, at the time that the Federal judge passed this sentence, he had no idea what was going to happen in either case. But more importantly, with regard to the term of probation, the Federal judge had no idea whether that term was going to be revoked, whether it would be modified, or whether he would receive any sentence of -- of imprisonment at all. And in making the judgment on whether those terms should run concurrently or consecutively, Your Honor, 3584(b) directs the Court to look at the factors of 3553(a) in making that determination. And it would be impossible to make that determination under 3553(a) whether the sentence is adequate to deter, whether that sentence protects the public, without knowing what that State term of--"
+                },
+                {
+                    "start": 429.355,
+                    "stop": 429.872,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's interesting."
+                },
+                {
+                    "start": 429.872,
+                    "stop": 430.122,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--imprisonment actually is."
+                },
+                {
+                    "start": 430.122,
+                    "stop": 435.49,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think that the Bureau of Prisons is bound by those factors when they make the decision later?"
+                },
+                {
+                    "start": 435.49,
+                    "stop": 463.594,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, the -- the Bureau of -- of Prisons is bound by the factors of 3621(b), and several of those factors match up with the factors in 3553(a). It has to look at the nature and circumstance of the crime, the characteristics of the defendant. It has to look to the United States Sentencing Guidelines, and it also has to take in the view of what the Federal judge believes should have happened."
+                },
+                {
+                    "start": 463.594,
+                    "stop": 464.094,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Where is--"
+                },
+                {
+                    "start": 464.094,
+                    "stop": 464.477,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And to the extent--"
+                },
+                {
+                    "start": 464.477,
+                    "stop": 481.888,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where is all that that you just read, that they're bound by all these things? Where do I find that? 3621(b), is it cited in any of your briefs? Or pardon me. Is 3621(b) set forth in any of the materials? I have it in front of me, but I -- is it in the government's brief or--"
+                },
+                {
+                    "start": 481.888,
+                    "stop": 490.244,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I believe it is in -- in the Solicitor General's -- in the appendix to the Solicitor General's brief, Your Honor."
+                },
+                {
+                    "start": 490.244,
+                    "stop": 512.942,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, I'm looking at -- I guess I got this off -- somebody got this off-line for me. I am looking at the program statement of the Bureau of Prisons. And it says what the regional directors are supposed to look at is the intent of the Federal sentencing court or the goals of the criminal justice system. So you've got some guy deciding whether the goals of the criminal justice system require this person to serve an extra 10 years or not?"
+                },
+                {
+                    "start": 512.942,
+                    "stop": 528.636,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I think that what the -- the law requires is that the Bureau of Prisons has to look at these factors under 3621(b), and those program statements are trying to define what those exact factors are."
+                },
+                {
+                    "start": 528.636,
+                    "stop": 545.498,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, doesn't it seem strange to you that a Federal bureaucrat sitting, a regional director -- I guess there are about a half dozen of them -- sits somewhere and decides whether a defendant -- say there's a 10-year Federal sentence, 10-year State sentence, and that person says, well, I think he ought to serve another 10 years or I think he's done."
+                },
+                {
+                    "start": 545.498,
+                    "stop": 564.757,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, to -- to be clear, I mean, Mr. Setser is going to have to serve a 151-month term of imprisonment no matter what. But the bureaucrat that -- that you are talking about, the bureaucrat will be -- only be making that determination after having the complete information which the Federal judge--"
+                },
+                {
+                    "start": 564.757,
+                    "stop": 573.196,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I know, but -- but it's a big deal to be sentenced to, in my hypothetical, another 10 years in prison. I don't care how much information the bureaucrat has."
+                },
+                {
+                    "start": 573.196,
+                    "stop": 591.526,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, but still, that -- that person has the -- has the information before it, and it's also subject to judicial review under 2241. I -- I would point out that there is a process where the Petitioner can -- or the prisoner can ask for this--"
+                },
+                {
+                    "start": 591.526,
+                    "stop": 606.786,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But judicial review of what? Not of the -- not of whether that was the desire of the State court or not. Judicial review as to whether they abused their discretion?"
+                },
+                {
+                    "start": 606.786,
+                    "stop": 616.49,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. And I believe that's -- that's the same discretion that the Court has when its deciding a sentence on direct appeal."
+                },
+                {
+                    "start": 616.49,
+                    "stop": 642.223,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you are going to make a bureaucrat equal to a judge in making the most important decision that a defendant faces: How much time he should spend in jail. So a bureaucrat rather than a judge decides whether he's going to tack on a year and a half, 5 or 10, or whether he's going to let the defendant serve it concurrently?"
+                },
+                {
+                    "start": 642.223,
+                    "stop": 647.877,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, again, it -- it's not the who for us, but the when."
+                },
+                {
+                    "start": 647.877,
+                    "stop": 658.602,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not -- it's not a who or when, because the State court judge's recommendation is not binding on BOP. It has said repeatedly, hasn't it?"
+                },
+                {
+                    "start": 658.602,
+                    "stop": 660.435,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Your Honor, I'm aware of no--"
+                },
+                {
+                    "start": 660.435,
+                    "stop": 667.875,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Just answer that question. Hasn't BOP said that a State court recommendation is not binding on it?"
+                },
+                {
+                    "start": 667.875,
+                    "stop": 678.23,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That -- that is correct, Your Honor. But I -- I would point to the fact that -- what that -- I mean--"
+                },
+                {
+                    "start": 678.23,
+                    "stop": 683.05,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So it can't be just who -- it can't be just when. It's who's going to make the decision."
+                },
+                {
+                    "start": 683.05,
+                    "stop": 689.821,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, yes, Your Honor. But the bureaucrat at least has all the information before it. And if we go to--"
+                },
+                {
+                    "start": 689.821,
+                    "stop": 693.74,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Well, isn't it true that the bureaucrat used to make that decision not too long ago?"
+                },
+                {
+                    "start": 693.74,
+                    "stop": 694.692,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor."
+                },
+                {
+                    "start": 694.692,
+                    "stop": 701.846,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "When we had the parole system. Before we had the sentencing guidelines, it was up to the Bureau of Prisons whether to give parole or not, right?"
+                },
+                {
+                    "start": 701.846,
+                    "stop": 702.964,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 702.964,
+                    "stop": 705.281,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Some bureaucrat in the Bureau of Prisons, I guess."
+                },
+                {
+                    "start": 705.281,
+                    "stop": 707.916,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor, along with good time credits--"
+                },
+                {
+                    "start": 707.916,
+                    "stop": 708.702,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not unthinkable."
+                },
+                {
+                    "start": 708.702,
+                    "stop": 711.385,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No, Your Honor, prior to the passage of the SRA, the--"
+                },
+                {
+                    "start": 711.385,
+                    "stop": 719.64,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But wasn't the SRA passed and this provision passed in part to take that decision away from the bureaucrat?"
+                },
+                {
+                    "start": 719.64,
+                    "stop": 734.083,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, it was a -- it was passed to take the decision away from the bureaucrat, that the courts could not order a Federal sentence to run concurrently with an undischarged State term of imprisonment. That gave that power back to the court."
+                },
+                {
+                    "start": 734.083,
+                    "stop": 749.243,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's answer Justice Scalia's point. Wasn't the SRA passed in part because of the dissatisfaction with the fact that the parole board used to make this decision, and they wanted to put it back in the hands of judges?"
+                },
+                {
+                    "start": 749.243,
+                    "stop": 764.669,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's part of the reason, Your Honor. But in passage of 3621 it also highlighted the fact that it was not seeking to take away the bureaucratic authority that the Bureau of Prisons has for designation. And back to the--"
+                },
+                {
+                    "start": 764.669,
+                    "stop": 776.846,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't know why it takes away from them on that score. They can choose whatever facility they want within the constraints imposed by a judge in terms of the length of the sentence."
+                },
+                {
+                    "start": 776.846,
+                    "stop": 814.102,
+                    "speaker": {
+                        "name": "Jason D. Hawkins",
+                        "ID": 30801,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, I mean -- I guess, yes, Your Honor, that is part of it, but that only comes into play when the first sentence does not apply and when the court does not have the requisite information. In our estimation it is better for the latter sentencing entity, that with the most sentencing information, to be able to make this -- this ultimate determination in -- in looking at the Federal court's views, versus allowing a Federal judge who's prognosticating about what the sentence might be and issue a binding order. And if there are no further questions, I will reserve the remainder of my rebuttal time."
+                },
+                {
+                    "start": 814.102,
+                    "stop": 835.717,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Jay."
+                }
+            ],
+            "start": 8.737,
+            "stop": 852.994
+        },
+        {
+            "turns": [
+                {
+                    "start": 835.717,
+                    "stop": 852.994,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Federal district courts do decide how long a defendant should be in prison for his Federal crime, but for many years, both before and after the Sentencing Reform Act, the Attorney General through the Bureau of Prisons has decided where the sentence will be served and when it shall commence."
+                },
+                {
+                    "start": 852.994,
+                    "stop": 878.044,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm not clear on what the -- what the government's view of whatever you want to call it, inherent judicial sentencing power is. You -- you -- before section 3584 was passed, there -- there was the power on the part of the Federal courts to decide whether sentences should run concurrently or sequentially, right?"
+                },
+                {
+                    "start": 878.044,
+                    "stop": 891.435,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Not with a State sentence, Your Honor. Before section 3584(a) was passed, a Federal district court had no authority to specify that its Federal sentence should run concurrently with a State sentence that the defendant was already serving."
+                },
+                {
+                    "start": 891.435,
+                    "stop": 891.804,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you know?"
+                },
+                {
+                    "start": 891.804,
+                    "stop": 893.054,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, that's--"
+                },
+                {
+                    "start": 893.054,
+                    "stop": 898.291,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, it did not -- what authority it did have did not come from a statute, right?"
+                },
+                {
+                    "start": 898.291,
+                    "stop": 905.495,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, if it had had such authority, Justice Scalia, it would have overridden the Attorney General's authority. That's why we know it didn't have it. That's why--"
+                },
+                {
+                    "start": 905.495,
+                    "stop": 909.064,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Where is the Attorney General's authority prescribed?"
+                },
+                {
+                    "start": 909.064,
+                    "stop": 910.016,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The Attorney General's authority--"
+                },
+                {
+                    "start": 910.016,
+                    "stop": 912.385,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "His authority to say where the sentence will be served?"
+                },
+                {
+                    "start": 912.385,
+                    "stop": 913.585,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Precisely, Justice Scalia."
+                },
+                {
+                    "start": 913.585,
+                    "stop": 916.086,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, that -- that seems to be quite--"
+                },
+                {
+                    "start": 916.086,
+                    "stop": 916.686,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If you look up--"
+                },
+                {
+                    "start": 916.686,
+                    "stop": 917.019,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--quite fanciful."
+                },
+                {
+                    "start": 917.019,
+                    "stop": 968.185,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--really interesting, because I did go back and look at the '79 Senate report on the S. 1, which was the whole reform, from beginning to end, and my reading of that section suggests to me that they thought past practice was exactly what they wrote in this statute. Now in the -- at least that's how I read it. Maybe I didn't read it carefully enough. But I thought they were thinking that the Federal judge does have the power to sentence concurrently or consecutively with a term that a Federal court or a State court has imposed in the past, but -- but you can't do this monkey business that they're -- I agree with you on that. There was nothing about trying to make something concurrent or consecutive with a -- a State term that hasn't yet been imposed. You couldn't do it; you can't do it; it just gets into a -- at least not with a consecutive."
+                },
+                {
+                    "start": 968.185,
+                    "stop": 1017.968,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Let me see if I can answer both Justice Scalia and Justice Breyer. There are cases that we cite at page 16 of our reply brief. Those same cases, Justice Breyer, you may want to look at the Senate report on -- on what actually became section 3584, page 126 -- sorry, page 127 and note 314, which says that it changes the law. It recognized that the law -- specifically citing a Ninth Circuit decision, which we also cite in our brief, because the Attorney General has the power to designate any facility, Federal or State, and that's -- that is carried forward today in section 3621(b). Because the Attorney General has the authority to designate any such facility, a Federal court before the passage of section 3584(a) had no authority to order that the Federal sentence commence right away and that the defendant be allowed to serve it while also serving--"
+                },
+                {
+                    "start": 1017.968,
+                    "stop": 1021.07,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He could recommend it. He could recommend it, could he not?"
+                },
+                {
+                    "start": 1021.07,
+                    "stop": 1024.724,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Absolutely, Justice Ginsburg. He could recommend it, just as he can today."
+                },
+                {
+                    "start": 1024.724,
+                    "stop": 1028.693,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You said Federal or State. Where does it say that in 3621?"
+                },
+                {
+                    "start": 1028.693,
+                    "stop": 1032.712,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Section 3621(b), Your Honor. If you look at subsection (b)--"
+                },
+                {
+                    "start": 1032.712,
+                    "stop": 1033.112,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1033.112,
+                    "stop": 1041.567,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--the second sentence, \"the Bureau may designate any available penal or correctional facility. \" --skip forward a little bit -- \"whether maintained by the Federal Government or otherwise-- \""
+                },
+                {
+                    "start": 1041.567,
+                    "stop": 1082.644,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In other words, what the statute does is it's phrased in terms of place, but it really has consequences as to time. Einstein would have loved it: You can't define space without time. [Laughter] But -- but -- I take it that it can also be retroactive. If you have a prisoner who has served -- has been sentenced in the Federal system, then goes to the State and is serving in a State facility, he then comes back to the BOP, the BOP can retroactively say we designate the place of imprisonment for the last 3 years as that State prison where you have been serving and we credit you with time served; is that the way it works?"
+                },
+                {
+                    "start": 1082.644,
+                    "stop": 1083.762,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That is how it works."
+                },
+                {
+                    "start": 1083.762,
+                    "stop": 1085.662,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Nunc pro tunc, right?"
+                },
+                {
+                    "start": 1085.662,
+                    "stop": 1087.048,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That -- that's an amazing interpretation."
+                },
+                {
+                    "start": 1087.048,
+                    "stop": 1088.664,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You get that out of this -- this lean language here?"
+                },
+                {
+                    "start": 1088.664,
+                    "stop": 1092.535,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand that's your interpretation of the statute, but I -- I understand that -- that's the way it's being done."
+                },
+                {
+                    "start": 1092.535,
+                    "stop": 1104.593,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That is the way it's being done, Justice Kennedy. Indeed, every time the bureau designates a Federal prison or a State prison, it's after the person comes into Federal custody, except in cases where the person voluntarily surrenders."
+                },
+                {
+                    "start": 1104.593,
+                    "stop": 1120.519,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or -- or what if it's a situation where he goes into one of these prisons that are run by a private entity, right, whether the Federal Government or otherwise, right? And so maybe the Federal Government -- I don't know how often it might do it -- they -- you use facilities that are privately run, right?"
+                },
+                {
+                    "start": 1120.519,
+                    "stop": 1122.602,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Privately run, State facilities, Federal facilities."
+                },
+                {
+                    "start": 1122.602,
+                    "stop": 1130.125,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. So why isn't that what they meant when they said \"whether maintained by the Federal Government or otherwise? \" I think if they want -- wanted to say State or Federal, that's what they would have said."
+                },
+                {
+                    "start": 1130.125,
+                    "stop": 1147.502,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, Federal inmates since the passage of the first Federal crime in 1790 have served their time in State prisons. There were no Federal penitentiaries for more than 100 years. The attorney -- service of a Federal sentence in State prison was the norm, even after the construction of -- of Federal penitentiaries."
+                },
+                {
+                    "start": 1147.502,
+                    "stop": 1176.07,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems to me that the question of how long someone should spend in prison, which is what's involved in determining whether -- deciding whether a sentence is going to be served consecutively or concurrently, is very different from determining where the sentence is going to be -- where a sentence is going to be served. Isn't this a very strange reading of -- of 3621, to say that that grants the BOP the authority to make this concurrent/consecutive determination?"
+                },
+                {
+                    "start": 1176.07,
+                    "stop": 1222.468,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think so at all, Justice Alito. Let me give two reasons why. The first is that before section 3584 was enacted, this -- the predecessor of this statute, which was section 4082, was the reason that Federal courts recognized that they didn't have the power to prescribe concurrent treatment of a Federal sentence with a previously existing State sentence. That's one point. The second point is, as Mr. Hawkins mentioned, the quantum of Federal punishment, the punishment for the Federal offense, that's up to the Federal district judge to prescribe; but where -- where that time will be served, and whether the time has to commence before, after or during the defendant's service of another sentence, that's a where and when question. And where and when questions have always been up to the Attorney General."
+                },
+                {
+                    "start": 1222.468,
+                    "stop": 1222.801,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Jay?"
+                },
+                {
+                    "start": 1222.801,
+                    "stop": 1223.235,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1223.235,
+                    "stop": 1273.483,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can I -- can I take you back to 3584? So 3584 talks about these two situations, simultaneously imposed terms and undischarged terms, and let's assume that all three sentences talk about only those two situations. The premise of your argument is that in talking about those two situations Congress rejected judicial authority when it came to a third situation. And I guess I want to find out from you why that is. I mean, I want to stipulate, I guess, that nobody had this third situation in mind. The third situation is a very uncommon situation, and so just assume with me that Congress simply just wasn't thinking about this third situation. That's an assumption of the question. What should we do, then? Why would we treat this as exclusive?"
+                },
+                {
+                    "start": 1273.483,
+                    "stop": 1296.349,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, I will -- I will assume with you, Justice Kagan, although you know that I disagree, that the -- that this is conscious. But two points: first, there was no inherent authority beforehand, so Congress couldn't have been carrying forward existing practice, because, as I've said, there was no inherent authority for district courts to make this decision before."
+                },
+                {
+                    "start": 1296.349,
+                    "stop": 1302.836,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let's just say Congress just didn't know. It was not on Congress's radar screen. Why would we treat this as exclusive as to this third situation?"
+                },
+                {
+                    "start": 1302.836,
+                    "stop": 1335.224,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "You would do it this way because -- because the limitations are so clear and because, as Mr. Hawkins said, there is a universe with sort of three possible relationships. Either the Federal term comes before the State term, after the State term, or two Federal sentences can come at the same time. So Congress prescribed very carefully that if one of those or if the second of those is met, then the terms may run concurrently or consecutively. But by allowing the third, the only other possibility--"
+                },
+                {
+                    "start": 1335.224,
+                    "stop": 1344.797,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, now you are back with my assumption. You are suggesting that Congress musthave had this third situation in mind. And I'm saying no; the third situation is peculiar, and Congress didn't have it in mind. Then what?"
+                },
+                {
+                    "start": 1344.797,
+                    "stop": 1352.867,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, its peculiarity, Justice Hagan, doesn't take away from the fact that if you let this situation in then the limitations have no meaning."
+                },
+                {
+                    "start": 1352.867,
+                    "stop": 1458.282,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You are talking linguistically that I thought one Congress probably did have it in mind. I agree with you about that. But leave that out. How do you do it? You are a Federal judge. The point of the Federal guideline is to create a sentence with qualifications that reflects the real conduct in the world that the defendant engaged in. All right, so we work that out. That's now 3 years. Now, our problem is that the State judge may eat up some of that 3 years or may make the sentence concurrent when it should be consecutive, because the conduct's different. So I the Federal judge say: You are convicted of a drug crime; you get 3 years. I know there is a question here about whether there is a separate gun crime. That's State. Now, I want these 3 years to run consecutive with the State conviction for a separate behavior. Okay? Now, that's what I want. Now, are it's in the past, the State sentence, I can do it. But where it hasn't been happening yet, how do I do it? I say I want it consecutive, but the State court judge who later will have control of the case can say: I put my extra 2 years and make it concurrent with the State sentence. \"You see? \" \"It's a problem. \" \"It's a practical problem. \" \"Now, maybe I'm wrong in what I've just said, which is why I said it, because I'm prepared to have you tell me I'm wrong, there is no practical problem. \" \"But I want to hear it. \""
+                },
+                {
+                    "start": 1458.282,
+                    "stop": 1462.169,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's not a practical problem, Justice Breyer, for a couple of reasons."
+                },
+                {
+                    "start": 1462.169,
+                    "stop": 1464.704,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. Good. That's why I asked."
+                },
+                {
+                    "start": 1464.704,
+                    "stop": 1472.275,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Number one -- number one, the judge doesn't know -- you asked us to assume there has been a conviction in the State, maybe just not--"
+                },
+                {
+                    "start": 1472.275,
+                    "stop": 1472.592,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No--"
+                },
+                {
+                    "start": 1472.592,
+                    "stop": 1473.394,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Maybe just not--"
+                },
+                {
+                    "start": 1473.394,
+                    "stop": 1475.127,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--There has not been a conviction."
+                },
+                {
+                    "start": 1475.127,
+                    "stop": 1489.32,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That just highlights my point. There hasn't been a conviction yet, let alone a sentence. There may never be a conviction, and -- but if the judge wants to guard against that eventuality, the judge can make a recommendation. And there are two salutary things about making a recommendation--"
+                },
+                {
+                    "start": 1489.32,
+                    "stop": 1506.947,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How does the judge stop the State court judge later from making his conviction for a separate form of behavior run concurrently with the Federal sentence? How does he stop that? What power does he have over State court."
+                },
+                {
+                    "start": 1506.947,
+                    "stop": 1518.522,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think I or either of my friends who are going to argue today are suggesting that the Federal judge has power to order the State court not to do something."
+                },
+                {
+                    "start": 1518.522,
+                    "stop": 1519.672,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Correct. Then how can he stop it?"
+                },
+                {
+                    "start": 1519.672,
+                    "stop": 1526.343,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the way that sovereigns work out who gets to punish, if they both want to punish--"
+                },
+                {
+                    "start": 1526.343,
+                    "stop": 1533.931,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You may have missed my point. My point is because he can't stop it is why you're right in this case."
+                },
+                {
+                    "start": 1533.931,
+                    "stop": 1559.166,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I am delighted to hear that you think we are right, Justice Breyer. [Laughter] But I want to -- I do want to give you an answer to your question about why this is not a practical problem. The Federal judge can give -- can make a recommendation that says: If he's convicted and if he's sentenced to a particular term in the State court, I recommend that the Bureau of Prisons not let him serve them -- concurrently."
+                },
+                {
+                    "start": 1559.166,
+                    "stop": 1572.223,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that -- so that 20 years later after the defendant has served his mandatory minimum sentence, your friend in the Bureau of Prisons regional office is supposed to go look back and see what the judge said 20 years ago?"
+                },
+                {
+                    "start": 1572.223,
+                    "stop": 1576.475,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Judges make recommendations all the time, Mr. Chief Justice. They--"
+                },
+                {
+                    "start": 1576.475,
+                    "stop": 1584.947,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't think that is responsive to the point I just made, that they make recommendations all the time. I'm talking about the effectiveness of the recommendation 20 years later."
+                },
+                {
+                    "start": 1584.947,
+                    "stop": 1599.557,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--As the Court is aware, the Administrative Office's standard form for the judgment in a criminal case allows the judge to make recommendations to the Bureau of Prisons. So this will be in the judgment, the very judgment that the Bureau of Prisons will be looking at, whether it's a week later or 20 years later. And if the--"
+                },
+                {
+                    "start": 1599.557,
+                    "stop": 1614.4,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Jay, what does the \"or\" mean. Maybe the judge -- it was 20 years ago and maybe the judge said nothing. It's -- what was the intent of the sentencing court or the goals of the criminal justice system."
+                },
+                {
+                    "start": 1614.4,
+                    "stop": 1617.954,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor is reading from the Bureau of Prisons policy statement."
+                },
+                {
+                    "start": 1617.954,
+                    "stop": 1618.42,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Uh-huh."
+                },
+                {
+                    "start": 1618.42,
+                    "stop": 1649.307,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If you go on in that policy statement, it alludes to other considerations that the Bureau looks at. And what that maps onto is the factors in section 3621(b). And I can represent to the Court that when -- when the -- when an inmate asks for concurrent treatment in this fashion, the Bureau's central facility for designation and sentence computation goes through those factors in an individualized way and makes -- makes a decision. That then is reviewable."
+                },
+                {
+                    "start": 1649.307,
+                    "stop": 1649.924,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Jay--"
+                },
+                {
+                    "start": 1649.924,
+                    "stop": 1661.364,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do they take -- do they take account of the -- the defendant's behavior in the State facility? Is that a factor?"
+                },
+                {
+                    "start": 1661.364,
+                    "stop": 1666.268,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "In Federal or State custody, Justice Ginsburg, it may be a factor, yes."
+                },
+                {
+                    "start": 1666.268,
+                    "stop": 1668.051,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which is something that the judge couldn't know."
+                },
+                {
+                    "start": 1668.051,
+                    "stop": 1681.195,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "That's certainly correct. And on the flip side is if the defendant has behaved in an exemplary way, then either the judge -- the judge may indeed change his recommendation. We have cited a case in our brief where a judge--"
+                },
+                {
+                    "start": 1681.195,
+                    "stop": 1695.537,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought we tried to get rid of all of that when we abolished the parole system. I thought we tried to take away from the bureaucrats the decision to let somebody out earlier because he's been a good boy and hold him longer because he hasn't."
+                },
+                {
+                    "start": 1695.537,
+                    "stop": 1708.345,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Mr. Setser has been sentenced to 151 months for his Federal crime. Nothing the Attorney General does is going to shorten that in a way not authorized by statute. It doesn't make the sentence an indeterminant one. It's about where he is going to serve it."
+                },
+                {
+                    "start": 1708.345,
+                    "stop": 1762.397,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Mr. Jay, there is some force to your, to Petitioner's argument that federalism should be respected, that Federal courts -- the State judges and their individual wishes should be respected and followed by BOP actually. The system you're proposing actually takes away from both Federal judges control over the sentencing decision. If Federal judges recommend a consecutive sentence, then the State judge can take that into account in setting how much time they think is warranted for their crime in addition or different from, and the judge if he wants it to run concurrently the way Justice Breyer said, he could just give a zero. He knows what the Federal judge wants."
+                },
+                {
+                    "start": 1762.397,
+                    "stop": 1763.949,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You may answer briefly."
+                },
+                {
+                    "start": 1763.949,
+                    "stop": 1764.532,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The bottom line--"
+                },
+                {
+                    "start": 1764.532,
+                    "stop": 1791.682,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice. The -- the State judge can still know what the Federal judge recommends. If it's not -- it just And in won't be binding under our view of the statute. any event, having the second decisionmaker make the decision armed with all the information is still preferable to having a premature determination locked in in a judgment."
+                },
+                {
+                    "start": 1791.682,
+                    "stop": 1792.118,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel."
+                },
+                {
+                    "start": 1792.118,
+                    "stop": 1793.234,
+                    "speaker": {
+                        "name": "William M. Jay",
+                        "ID": 45148,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice."
+                },
+                {
+                    "start": 1793.234,
+                    "stop": 1797.686,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Young."
+                }
+            ],
+            "start": 835.717,
+            "stop": 1835.727
+        },
+        {
+            "turns": [
+                {
+                    "start": 1797.686,
+                    "stop": 1835.727,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Mr. Chief Justice and may it please the Court: As this Court stated nearly a century ago in Ex parte United States, under our constitutional system the right to impose the punishment provided by law is judicial. Congress does not transfer such core authority from one branch to another without clearly and expressly saying so. Neither section 3584 nor any other provision of the Sentencing Reform Act even remotely approaches the clarity that Congress would use if it intended to restrict judicial sentencing in cases like Setser's."
+                },
+                {
+                    "start": 1835.727,
+                    "stop": 1866.163,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The government says that the Federal courts never had that power anyway, so that nothing is being restricted. And they contest the cases that you have cited as demonstrating the existence of that power in the situation involved here to -- to determine whether a future -- a sentence to be imposed in the future by State courts will be concurrent or consecutive with the Federal one."
+                },
+                {
+                    "start": 1866.163,
+                    "stop": 1882.458,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Against -- that is wrong, because against a number of cases that we cite -- and I would commend them to the Court -- in which Federal judges previous to the Sentencing Reform Act anticipatorily sentenced. The government and Mr. Setser have provided zero cases."
+                },
+                {
+                    "start": 1882.458,
+                    "stop": 1970.914,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But nobody found that out in 1980, in 1980 or '79. If you look through the Senate Report on that, they don't refer to any of those cases. They write it as if it was just as Justice Scalia and the government said. And honestly, my question really is the same one -- maybe I didn't put it clearly, but I think you understood it -- that the reason they want the Federal judge to be able to shape his sentence in light of other sentences that either the Federal courts or the State courts have given in the past is because you can do it so that a single behavior gets a single sentence and a different behavior is going to be sentenced consecutively, presumptively. But you just can't do that where the State court hasn't yet acted, because -- at least you can't do it in the consecutive case, because the State court judge sees what you did and he may decide: I don't want it to be conservative. So here I am; I'm writing my sentence to be served concurrently with the Federal court sentence. Now, you can have every agency you want in the Federal Government. But there's no way to get around that. You can't force that State judge to do something different and you can't muck around with your Federal sentence in a way that will make it consecutive to a State court sentence that says it's going to run concurrent. So there is a practical problem and that's why it's left out. It's quite -- I mean, when I finished reading it I thought this is very logical. Can you tell me what the answer to that is?"
+                },
+                {
+                    "start": 1970.914,
+                    "stop": 1983.739,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think the answer is that it turns much more on the order of imprisonment than the order of sentencing, because the Federal court in Mr. Setser's case, for instance, is imposing no obligation whatsoever on the State. The State--"
+                },
+                {
+                    "start": 1983.739,
+                    "stop": 2023.514,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't deny that there are many instances where you could get it to work, particularly where you are going concurrent. I do deny that there is -- it's all smooth sailing. There are a lot of cases you can't get it to work. I don't want to repeat myself again. I've given you the example, I gave him the example, and I want to know how you would overcome that could be quite common situation where the State judge hasn't done it yet, so there's no way to require the Federal court sentence to be served consecutively, if the State judge decides it shouldn't be."
+                },
+                {
+                    "start": 2023.514,
+                    "stop": 2042.824,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, let's take this very case, for instance. Mr. Setser was sentenced in Federal court first and the Federal court said: I see that there is coming a State probation revocation. I want this Federal sentence, which will be served last, to have no credit for whatever happens in State court."
+                },
+                {
+                    "start": 2042.824,
+                    "stop": 2043.374,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He can do that."
+                },
+                {
+                    "start": 2043.374,
+                    "stop": 2044.776,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "And that's all he did do."
+                },
+                {
+                    "start": 2044.776,
+                    "stop": 2069.142,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I know. I don't deny there can be some. I say there is a concern that if he were to say in a different case, I want the gun thing which is going to State court to be consecutive, that you can't control that. Because the State court judge could say: I want my gun sentence, State, to run concurrently with Federal."
+                },
+                {
+                    "start": 2069.142,
+                    "stop": 2081.532,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "What the State judge could not do is to say: I want this State sentence, which is going to be served first, to run concurrent to the later-served Federal sentence because that would require the Federal sovereign to let someone go."
+                },
+                {
+                    "start": 2081.532,
+                    "stop": 2083.799,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, well, now we are getting awfully complicated."
+                },
+                {
+                    "start": 2083.799,
+                    "stop": 2084.084,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Actually--"
+                },
+                {
+                    "start": 2084.084,
+                    "stop": 2093.09,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Young -- it becomes easier than that. The State court can't force the Federal Bureau of Prisons to take the prisoner back, correct?"
+                },
+                {
+                    "start": 2093.09,
+                    "stop": 2095.457,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Can't force the Federal Bureau of Prisons to do anything."
+                },
+                {
+                    "start": 2095.457,
+                    "stop": 2108.45,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Exactly. And so all it can do is sentence the defendant to whatever time it's going to sentence the defendant. The defendant serves that time. Then the Federal sovereign takes over and does whatever the Federal judge said."
+                },
+                {
+                    "start": 2108.45,
+                    "stop": 2109.133,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Precisely."
+                },
+                {
+                    "start": 2109.133,
+                    "stop": 2115.421,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Runs it consecutively or concurrently. Whatever the Federal judge said controls in every situation."
+                },
+                {
+                    "start": 2115.421,
+                    "stop": 2119.056,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "The Bureau of Prisons can effectuate that order very easily once that's happened."
+                },
+                {
+                    "start": 2119.056,
+                    "stop": 2140.821,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Young, the government says that there are three situations in which this consecutive-concurrent problem comes up. This statute deals with two of them. And the government wants to -- argues that in dealing with two of them it impliedly stated a rule on the third. What's the best argument -- what's your best argument against that?"
+                },
+                {
+                    "start": 2140.821,
+                    "stop": 2151.51,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think the best argument is that the statute plainly does not withdraw any authority. It doesn't describe it at all. What the statute does -- in--"
+                },
+                {
+                    "start": 2151.51,
+                    "stop": 2179.029,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think that that's not right. It seems to me that the first sentence of this statute grants authority to the courts in these two situations. And the second and third say what happens when that authority isn't exercised. The question I'm struggling with -- and it's the same question I put to Mr. Jay -- is why we should think that the grant of authority over situation A and situation B is a denial of authority over situation C. So what's your best argument?"
+                },
+                {
+                    "start": 2179.029,
+                    "stop": 2194.706,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, my best argument, assuming the premise that it's a grant, which I think is not the best way to read it, but if it's a grant of authority, still the correct answer is it says nothing at all about the anticipatory context. And Congress must speak clearly if it will withdraw power from the courts."
+                },
+                {
+                    "start": 2194.706,
+                    "stop": 2222.808,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it does to this extent. If the two -- it's the second sentence that hasn't yet been imposed, but there is an indictment in another Federal court. If there's two consecutive prosecutions, the first judge can't say, I want my sentence to run consecutive to the one that may or may not be imposed by another Federal judge. That would not be possible, right?"
+                },
+                {
+                    "start": 2222.808,
+                    "stop": 2224.742,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I think it would not be possible."
+                },
+                {
+                    "start": 2224.742,
+                    "stop": 2235.783,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So why should -- if the order is one way for successive Federal prosecutions, why should it be different when the second prosecution, instead of being Federal, is State?"
+                },
+                {
+                    "start": 2235.783,
+                    "stop": 2293.052,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "For several reasons, one of which is -- I think it ties into Justice Breyer's question. If the Federal judge sentences first and imprisons first, it could not impose a consecutive or concurrent term as to the later-served State sentence either. The first imposed Federal sentence will presumably be served first in the same Bureau of Prisons. And so there is nothing for it yet to be consecutive or concurrent to. A second answer is that all Federal sentences are served under the jailer of the same sovereign, the Federal, whereas in the anticipatory context we have two different systems. And so the first sentencing federal judge is the only judge that can compel the jailer of the Federal sovereign to either credit or not to credit. Whereas in the Federal -- Federal system, under the statute, the second judge is explicitly given the power to alter the default rule. So in all Federal cases either a default rule or a judge will determine whether or not a credit should be given to the defendant."
+                },
+                {
+                    "start": 2293.052,
+                    "stop": 2293.988,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it would be the second judge."
+                },
+                {
+                    "start": 2293.988,
+                    "stop": 2300.225,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "The second Federal judge can do it but a second State judge cannot, because this statute can neither empower the State judge--"
+                },
+                {
+                    "start": 2300.225,
+                    "stop": 2303.594,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The State judge can decide what's going to happen with the second sentence."
+                },
+                {
+                    "start": 2303.594,
+                    "stop": 2325.007,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--If the second sentence is served second. But as in this case and many others, the second sentence is served first. And consequently the second sentencing judge, the State judge in Mr. Setser's case, has no power to determine whether or not that sentence, which will be served first, will be consecutive or concurrent. Now, I know there is a lot of firsts and seconds going on here, but the point is--"
+                },
+                {
+                    "start": 2325.007,
+                    "stop": 2352.991,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But what do you do with the -- the argument about the judge who anticipates a second sentence may be wrong. He doesn't know what that will be. And when I asked, how does the bureau make these judgments, does it take into account the conduct of the prisoner in the State facility? That's something that the judge who sentences first can't possibly know."
+                },
+                {
+                    "start": 2352.991,
+                    "stop": 2496.968,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--It's true. But the same prisoner -- if the State sentence had happened 10 minutes before the Federal sentence, the Federal judge would have plenary authority to impose a consecutive sentence, even though it would be served last. And all of that conduct that will happen in the State system would be irrelevant. The sentence happens at the time of sentencing. Now, there is a statutory provision that does describe exactly how the Bureau of Prisons should interact with the courts in the context of a sentence that needs to be changed and that's section 3582(c). And in that statute the judge will remain the decider, because the Bureau of Prisons goes as a petitioner and says to the court: There are compelling and extraordinary reasons to modify this sentence. And then the court, always in the position of the decider and using the section 3553(a) factors, will decide whether or not the Bureau of Prisons' petition should be granted. But never in any statute is the Bureau of Prisons given the authority to use the sentencing factors under section 3553. And in fact the sentencing factors that the government contends would allow it to make a sentencing determination under 3621, page 2a of the government's merits brief, starts off with the very preliminary requirement, and I will read from the second sentence of 3621(b)b: \"The bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the bureau. \" Which means that if this is the power that the Bureau of Prisons has to make a sentence concurrent, a State prisoner in a true hellhole would not be able to get a concurrent sentence. The person most in need of that judicial mercy would be precluded by statute if we subject this statute to anything like the textual rigor that the government wants to subject 3584 to. Plainly what 3621(b) does is articulate a set of principles that allows the Bureau of Prisons to decide to which prisons defendants should go, not how long they must stay there. That is an element of punishment, which is quintessential judicial. This Court said in Ex parte United States -- it's been quoted and cited by courts across this country for 100 years, and in fact in that case it was said to be so historically established that it hardly merited comment, and now--"
+                },
+                {
+                    "start": 2496.968,
+                    "stop": 2538.879,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I'd be a little worried in this case at deciding whether section, what is that section, the place of imprisonment, section 3621(b) whether that does or does not give the power to the Bureau of Prisons, the power that they've assumed for many, many years. Do we have to decide that question here? I didn't realize I was deciding that. I thought I was just deciding whether -- whether the judge, the sentencing judge, has the power to impose say a consecutive sentence, say my sentence will run consecutively to a State court sentence that has not yet been imposed. I thought that was all I had to decide."
+                },
+                {
+                    "start": 2538.879,
+                    "stop": 2549.603,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--That is all you have to decide. But in so deciding you are confronting the argument that the government makes which is: No, no; Congress has exclusively vested this sentencing function in us."
+                },
+                {
+                    "start": 2549.603,
+                    "stop": 2552.722,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't think you have to. I mean, maybe we do have to get to that."
+                },
+                {
+                    "start": 2552.722,
+                    "stop": 2555.591,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, somebody has to make that call."
+                },
+                {
+                    "start": 2555.591,
+                    "stop": 2557.524,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Should it be the judge or the jailer?"
+                },
+                {
+                    "start": 2557.524,
+                    "stop": 2560.743,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If you say -- it's either the judge or the jailer. There's nobody who else is going to make it."
+                },
+                {
+                    "start": 2560.743,
+                    "stop": 2563.278,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "That's precisely the point. And the argument--"
+                },
+                {
+                    "start": 2563.278,
+                    "stop": 2565.363,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if you say the judge can't, it's going to be the Bureau of Prisons."
+                },
+                {
+                    "start": 2565.363,
+                    "stop": 2571.433,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Precisely. And to say that Congress has never given it to the Bureau of Prisons necessarily means that it is the judge."
+                },
+                {
+                    "start": 2571.433,
+                    "stop": 2644.697,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, let me ask you this then: Is it -- is it -- if we want the judge to be able to say this particular prisoner will serve his Federal sentence after the State gun sentence is served or alternatively with the State gun sentence, the 3621 says that -- that the judge can, if that sentence, State sentence has not yet been imposed, we don't know what it is, we don't know if it will be imposed, we don't know what they are going to say, we don't know whether they are going to sentence him to be -- count his time, time served in the Federal judge. I mean, I don't know what they are going to say in Federal prison. But he can write down what he wants as far as any statement by the court that imposed the sentence, a statement concerning the purposes for which the sentence of imprisonment has been imposed. He would say: I'm trying to get a single behavior punished once for 4 years and then that separate behavior I would like punished by 2 years more. Okay? So you write it down and the Bureau of Prisons follows it. And if they don't follow it, they could get reversed by a district court, abuse of discretion. Now, will that solve the problem?"
+                },
+                {
+                    "start": 2644.697,
+                    "stop": 2680.001,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "It doesn't, Your Honor, because what that factor allows the Bureau of Prisons to do is to decide, based upon the judgment here, is this someone who needs to be in the super-max or is it someone that can be in a much more minimum security type prison? None of this has anything to do with the determination of how long someone should spend in prison, 10 years, 20 years. The government says: It's all the same; you will serve your Federal prison term. It doesn't seem that from the perspective of an identically situated person who will spend 20 years rather than 10 years of his life in prison."
+                },
+                {
+                    "start": 2680.001,
+                    "stop": 2703.783,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Am -- am I correct, Mr. Young, that if -- if the Federal sentencing judge is erroneous in his prediction of what the State court later sentencing will do, that his order, based upon that erroneous prediction, can be altered upon appeal by the Bureau of Prisons?"
+                },
+                {
+                    "start": 2703.783,
+                    "stop": 2729.115,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "That's correct. And the only situation in which a prisoner would be harmed is if the Federal judge says, I want it to be consecutive, and then the Bureau of Prisons comes in later, 20 years later after he is done with the State term, let's say, and says: Boy, we would have made this concurrent, and here are all reasons why. Congress has provided a means to do that, section 3582(c). Go to the Federal court as the petitioner, not the decider. Congress did not unilaterally give the Bureau of Prisons the power it is now claiming. And so, for that reason--"
+                },
+                {
+                    "start": 2729.115,
+                    "stop": 2748.993,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I am interested in pursuing the point Justice Breyer raised. I am troubled by the idea that someone in the Bureau of Prisons makes this determination, but I -- I wonder how that -- how that helps you. You said it's either the jailer or the judge, and therefore, you do have to decide it. But maybe it's either the first judge or the second judge."
+                },
+                {
+                    "start": 2748.993,
+                    "stop": 2750.778,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--In -- in--"
+                },
+                {
+                    "start": 2750.778,
+                    "stop": 2764.622,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why isn't -- doesn't it make sense to say that the Federal court doesn't -- whoever is second can always tailor their sentence to what they want. Whoever is first just has to give the sentence that he or she thinks is appropriate."
+                },
+                {
+                    "start": 2764.622,
+                    "stop": 2770.692,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Because in the dual sovereignty context that second sentencing judge cannot compel the Federal sovereign to either reduce--"
+                },
+                {
+                    "start": 2770.692,
+                    "stop": 2775.494,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Doesn't compel -- no, doesn't compel the Federal sovereign. He would say: Look, I want to give 10 years."
+                },
+                {
+                    "start": 2775.494,
+                    "stop": 2775.811,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 2775.811,
+                    "stop": 2788.987,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I see you have already got, you know, a -- a 15-year sentence under the Federal, but I don't want it to be 25 years; so I'm going to, in fact, just give you a 5-year sentence. Do understand what I'm making?"
+                },
+                {
+                    "start": 2788.987,
+                    "stop": 2789.37,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 2789.37,
+                    "stop": 2795.974,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Whoever the second judge is can figure out exactly how long he thinks the sentence should run, and give the sentence accordingly."
+                },
+                {
+                    "start": 2795.974,
+                    "stop": 2807.115,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "That cannot be the case if it's a State court and the State court does not know, with respect to a later-served Federal sentence, whether or not the time will be credited. So in other words, in your example--"
+                },
+                {
+                    "start": 2807.115,
+                    "stop": 2832.349,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but I suppose in the Chief's example a super cautious State court judge would say: I see you've got a 15-year sentence here, I don't know if it's going to be concurrent or consecutive; so I will sentence you to nothing at all. I mean, I suppose -- which shows that there -- if -- if you follow your rule, you may be infringing on the Federal balance, but then you would say the BOP can do the same thing."
+                },
+                {
+                    "start": 2832.349,
+                    "stop": 2882.913,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--In the case in which the -- the State judge says, I want it to be zero, then we know that the State relinquishes its custody. And whatever happens later in Federal prison, a pardon, let's say, or a reversal, that's -- that's gone and done. The State no longer has claim on him. They have sentenced him to zero. If the State judge knows, however, that the Federal court has sentenced someone to 5 years and it will be conservative because it's served last to whatever the State judge imposes, the State judge now is in a position, and only in that situation, is in a position to say, okay, if I give you 2 years, you will spend 7, because I know that the Federal sentence will be consecutive. On the other hand, if the curtain is only pulled up by the Bureau of Prisons at the end and the State judge says I want you to have 10 years, I will sentence you to 5, and the Bureau of Prisons pulls up the curtain, it's concurrent. Then only 5 years has been sentenced."
+                },
+                {
+                    "start": 2882.913,
+                    "stop": 2889.417,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you're saying that your position is really more consistent with the Federal balance because it allows the State to know what it's deal with?"
+                },
+                {
+                    "start": 2889.417,
+                    "stop": 2971.117,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Precisely. The only way to really respect the second sentencing State judge is to provide clarity, rather than to force that State judge to guess the sentence in the dark about what will actually happen to this defendant later on when he eventually, after State confinement, is transported to the Federal prisons. This case is only about that situation in which the first sentence is imposed by the Federal court, but before the Federal sentence is enforced, all of the State -- that's why the Federal book ends, I describe it. We start with the Federal sentence, and we end with the imposition, the service of the Federal service. And in between those two things, the State sentencing and imprisonment occurs. And, so, the State judge cannot make his sentence be concurrent or consecutive to the Federal sentence, because the Federal sentence hasn't been imposed yet. Consequently, hasn't been served yet. Consequently, providing that State judge with knowledge about what will happen is the only way to give that State judge the respect the State judge needs and requires to be able to implement State goals in a meaningful way. Otherwise, it's a guess. As you heard, the Bureau of Prisons does not follow, as a matter of course, a second sentencing State judge's preference that it be concurrent or consecutive. That is something that the Bureau of Prisons, as responsive to the Federal courts, Federal sovereign, will decide based upon what happens in the Federal court."
+                },
+                {
+                    "start": 2971.117,
+                    "stop": 2979.123,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is perhaps something that I should have asked the Solicitor General, but do you have any idea how often this situation comes up?"
+                },
+                {
+                    "start": 2979.123,
+                    "stop": 3019.948,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I don't have specific numbers. It's difficult to find them, but I think it's increasing. And the reason for that is the explosion of Federal criminal law. There is still far more State and local law enforcement officers in this country. And the doctrine why these -- why these sentences can be imposed first and served last is because of the primary custody rule. Because a local or State law enforcement officer will most likely arrest someone whose act will violate the laws of both sovereigns, that person will be in State custody. We now have so many more offenses under the Federal Criminal Code than we did even back when Congress passed the Sentencing Reform Act, which goes, perhaps, to Justice Kagan's point, Congress may not really have been thinking about this at all."
+                },
+                {
+                    "start": 3019.948,
+                    "stop": 3027.185,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So is there evidence one way or the other on that question, whether this situation was in any meaningful sense before the Congress?"
+                },
+                {
+                    "start": 3027.185,
+                    "stop": 3100.233,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Everything is silent. I think it was not. As to the question about whether courts could impose concurrent consecutive sentences, what the report says, footnotes 310, 314, 318, pages 126, 127, and 129 of the sentencing report, there were some courts that thought that a prior statute stopped them from imposing only concurrent sentences in the dual sovereignty context. Congress made very clear -- in fact, it cited by name United States v. Segal, one of the cases the government cites for this proposition as being incorrect. We want to make it clear Congress says in a report, you can impose concurrent sentences, but all along conservative sentences were imposed anticipatorily. And, so, this is sort of like, you know, the rule that if someone cannot have M&M's at all, being held to mean that you cannot have candy after dinner, if you had Snickers after dinner every night. Once you remove the obstacle to having M&M's, then presumably you can have them after dinner as well. There was no rule that you couldn't have any candy after dinner. There was no rule that Federal courts could not sentence anticipatorily. There was simply a statutory bar that some courts thought stopped them from imposing concurrent sentences in the dual sovereignty context."
+                },
+                {
+                    "start": 3100.233,
+                    "stop": 3109.505,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In order for you to prevail, I think we -- is it correct, we would have to determine that there was this authority inherent in the judiciary prior to the enactment of this statute?"
+                },
+                {
+                    "start": 3109.505,
+                    "stop": 3122.812,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "I don't think that that is necessarily true. I think it makes it much easier. And there can be no question that concurrent and consecutive sentencing is inherently and quintessentially judicial. This court in Oregon v. Ice only two terms ago regarded it that way."
+                },
+                {
+                    "start": 3122.812,
+                    "stop": 3148.13,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, with respect to Federal sentences, certainly that is true. But with respect to Federal and State sentences it may be, as you suggested it, this just did not come up very often until the enactment probably of the Federal drug laws and -- and a few other statutes that created offenses where you have -- where the same conduct would constitute a violation of both Federal and State law, and so you have this situation coming up with greater frequency."
+                },
+                {
+                    "start": 3148.13,
+                    "stop": 3155.383,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "That's true with greater frequency. It did happen. And the courts recognize this, and without any concern, sentence anticipatorily."
+                },
+                {
+                    "start": 3155.383,
+                    "stop": 3183.637,
+                    "speaker": {
+                        "name": "Elena Kagan",
+                        "ID": 15094,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But -- but if one had -- you know, what I take as the view of Justice Alito's question is that there was no -- no practice supporting courts sentencing in this way. It -- it just wasn't done. Mostly, it wasn't on anybody's radar screen that this was a significant issue. What would we do then, if we thought Congress didn't speak to it, but we also didn't see a past practice inconsistent with what the government is suggesting?"
+                },
+                {
+                    "start": 3183.637,
+                    "stop": 3213.085,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "In that case, if the choice is between the judge and the jailer, I think the choice is clear. If Congress did not specifically say that something as quintessentially judicial as deciding how long someone would spend in prison must be decided by the executive branch. Questionable whether it could. But unless it explicitly said \"this is how we want it to happen. \" there could be no doubt that imposing extra punishment or withdrawing punishment is so judicial in nature that even if Congress didn't think about it or specifically address the problem, the tie certainly has to go--"
+                },
+                {
+                    "start": 3213.085,
+                    "stop": 3287.716,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, it isn't a tie. I mean, there is one thing on each side. On your side is the fact that the sentencing judge, Federal, is trying to figure out his own sentence and he does -- either he does want or he doesn't want that particular individual to serve additional time, should a State court judge later decide on some related or unrelated matter, all right? And if that were all that was at issue, and the choice is between his saying just doing it, writing it in the sentence, or he's writing down his reasons what he'd like to have happen in letting the Bureau implement that as best they can under the section we are talking about. That's on the one side. And that says let the judge do it, don't give the implementation. On the other side is to let the judge do it risks complex interference with the second to sentence, who is the State court judge. It may be you're right, that there's some way of working it out, but it sounds complicated to me, particularly in -- in the consecutive case. So we have federalism principles on one hand, versus the judge, versus the bureaucracy on the other. And so it isn't so easy. That's -- that's why I think this is not such an easy case."
+                },
+                {
+                    "start": 3287.716,
+                    "stop": 3297.489,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--Well, let me address what the anticipatory sentencing, the Federal judge, how he could possibly interfere with the State. I don't think that he can if the State is sentencing second and imprisoning first."
+                },
+                {
+                    "start": 3297.489,
+                    "stop": 3305.195,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. It's the State court judge that wants to sentence a person to an unrelated offense--"
+                },
+                {
+                    "start": 3305.195,
+                    "stop": 3305.578,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 3305.578,
+                    "stop": 3313.451,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--but he wants -- he decides he wants it to run consecutive -- concurrently with the Federal -- ongoing Federal sentence. There is no way to stop it."
+                },
+                {
+                    "start": 3313.451,
+                    "stop": 3318.485,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "Well, the question is -- that's the key point. If it's an ongoing Federal sentence, I certainly agree. But the point here is--"
+                },
+                {
+                    "start": 3318.485,
+                    "stop": 3319.018,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 3319.018,
+                    "stop": 3321.454,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--his Federal sentence hasn't begun. Setser doesn't begin--"
+                },
+                {
+                    "start": 3321.454,
+                    "stop": 3346.922,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--All right. Then you -- but you can't break this thing down. Either they have the power in the Federal district court under this particular provision, with all its presumptions, to run this mechanism, the one that's in the statute, in respect to State court sentences that have not yet been imposed or they do not have that power. We can't break it down and say sometimes you have it, and sometimes you don't."
+                },
+                {
+                    "start": 3346.922,
+                    "stop": 3394.569,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "--If the State court sentence has not been imposed and will run second, a Federal court can say consecutive or concurrent, but it wouldn't have any meaning. Just as the State court, if it had tried to bar the Federal Bureau of Prisons from keeping someone would have no meaning. There's nothing for it to be consecutive or concurrent to, if it's the first sentence being served. So in -- in that regard, I think the key point is, a Federal court cannot say, I'm the first judge to sentence and my sentence will immediately begin. I want it to be consecutive to another State -- future State sentence. It wouldn't mean anything, because the State would get that prisoner after he satisfied his Federal term, and the State can do what it wants. Let him go, keep him longer. That's the dual sovereignty principle."
+                },
+                {
+                    "start": 3394.569,
+                    "stop": 3404.691,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He can't -- he can't -- if, for example, they are dealing with a mandatory minimum. If the State court judge has to sentence the person to 10 years, then your explanation falls apart."
+                },
+                {
+                    "start": 3404.691,
+                    "stop": 3603.405,
+                    "speaker": {
+                        "name": "Evan A. Young",
+                        "ID": 23461,
+                        "role": "advocate",
+                        "side": null
+                    },
+                    "text": "If State law has a particular requirement as Federal law in some cases -- 924(c) does -- then that's the way dual sovereignty works as well. But there is never a situation in which a State judge is worse off by having the knowledge of what the Federal court will sentence -- has sentenced and how that sentence will be imposed. Again, if there is a problem with it, the Bureau of Prisons has a way to solve it, and it's through section 3582(c). It's not through a unilateral determination, 20 years later perhaps, seeking the advice of a judge. Maybe the advice of the judge is provided at the time of sentencing. And if it can do that, there's no reason why it couldn't be an order that can be enforced rather than a piece of advice that is given at the time of sentencing. Judges decide how much punishment someone should receive. In Federal court, Federal judges decide how long someone should spend in the Federal Bureau of Prisons. State courts can't do it, but they can adjust sentences within the strictures of State law to account for what they know is coming if Federal courts are able to provide that advice. If they cannot decide that issue and advise the State court judge of what will happen, then there are situations that will occur when the Bureau of Prisons administers these sentences -- and there is no question about that either. But the point is, there is never a situation in which a judge, able and willing -- able to follow the section 3553(a) factors and willing to impose that sentence, is doing something that will be worse for the defendant or worse for the States than if he does not do it. You contrast the two situations that two equally situated people would be in. On the one hand, sentencing in open court by an Article III judge subject to the 3553(a) factors with direct review in the courts for reasonableness. On the other hand, sentencing by an administrator without any of those salutary procedural protections, without direct review in the courts, and based on factors that determine to which prison someone should go, not how long they must stay there for purposes of punishment. And for that reason alone, if for none other, the Court should affirm the judgment because it allows district judges, subject to their wise exercise and sound exercise of discretion, to make these sentences to clarify things upfront for everyone: the defendant, the State courts and the Bureau of Prisons. 20 years, this country has had half of the circuits following this practice, and there is not one case cited on the other side showing that any mal-administration of justice has resulted, any lack of clarity, any problems with respect to how these sentences are enforced. And that's because it does the opposite. Allowing judges who are able, in cases like Setser's, no matter how much time the State gives for probation revocation, no Federal credit should be given to it. He knows enough. He knows everything he needs to know to make that sentence. He made it. It's effectuated by the Bureau of Prisons. The government has not said once that it cannot enforce that sentence. And to the extent that Setser wishes to challenge how the Bureau of Prisons credits the State order, the mechanism to do that is to exhaust his administration -- administrative remedies in the BOP, and then seek judicial review to determine whether that calculation was done rationally and fairly. This appeal is not the place for that. This appeal is to determine whether district courts never have such authority. I thank the Court."
+                },
+                {
+                    "start": 3603.405,
+                    "stop": 3607.107,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Hawkins, you have 2 minutes remaining."
+                }
+            ],
+            "start": 3607.107,
+            "stop": 3642.864
+        }
+    ]
+}

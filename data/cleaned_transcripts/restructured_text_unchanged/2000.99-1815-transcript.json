@@ -1,0 +1,2667 @@
+{
+    "title": "National Labor Relations Board v. Kentucky River Community Care, Inc.",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 34.57,
+                    "stop": 219.424,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: The National Labor Relations Act confers organizational, representational, and bargaining rights on employees, broadly defined, including professional employees, but it expressly excludes supervisors from that protected class. The term, supervisors, is defined in section 211 of the Act, which is set forth on page 2 of our brief, or also on page 2 of our petition, and to be a supervisor under this provision an employee must have authority in the interest of the employer to perform one of 12 specified supervisory functions, or effectively to recommend that such action be taken, and the employee's exercise of that authority must not be of a merely routine or clerical nature, but must require the use of independent judgment. In 1994, in NLRB v. Health Care and Retirement Corporation, this Court held that the board had mistakenly applied a special test of supervisory status for the health care industry based on an incorrect interpretation of the phrase, in the interest of the employer. The Court held that the board had set up a false dichotomy between action taken in connection with patient care and action taken in the interest of the employer, which is in the business of patient care, and in so doing, the Court did not at all suggest that the problem of reconciling the coverage of professional employees with the exclusion of supervisors was an insuperable one for the board. It suggested some possible approaches that might result in a defensible solution. It specifically agreed with the proposition that phrases in section 211 such as independent judgment and responsibly to direct, are ambiguous, and the board needs to be given ample room to apply them to different categories of employees."
+                },
+                {
+                    "start": 219.424,
+                    "stop": 252.745,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So there were those three phrases that could possibly justify the exclusion of registered nurses generally, and one of them was disposed of in the earlier case. There are two left, independent judgment, and responsibly to direct, but the Government has chosen not to put both in play in the present case, right? Only independent judgment is at issue here, so that if you lose on this one, you still have the third swing, right?"
+                },
+                {
+                    "start": 252.745,
+                    "stop": 261.184,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, this was a determination made by the board in going back to the drawingboard, so to speak."
+                },
+                {
+                    "start": 261.184,
+                    "stop": 262.267,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that's the Government, right. I understand."
+                },
+                {
+                    "start": 262.267,
+                    "stop": 304.844,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, of course, but the board made a determination that responsibly to direct in the abstract need not be defined because it is always qualified by the exercise of independent judgment not of a routine nature in order for these determinations to be made, and early on, after Taft-Hartley was passed, the board got burned by courts of appeals in trying to interpret responsibly to direct, particularly in a case called Ohio Power."
+                },
+                {
+                    "start": 304.844,
+                    "stop": 342.052,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The trouble is that hanging it all on independent judgment is... that's much the broader way to go. I think that suggests that no professional exercises independent judgment if he is acting on the basis of knowledge that is peculiar to his profession, or her profession, in the case of nurses, for the most part. What... you really think you can sustain that position?"
+                },
+                {
+                    "start": 342.052,
+                    "stop": 378.725,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the board I think quite properly on the basis of textual analysis of this provision holds that there must be a nexus between the exercise of independent judgment and the exercise of one of the 12 categories of authority that define who is a supervisor, because that is what is qualified by the phrase, requiring the exercise of independent judgment."
+                },
+                {
+                    "start": 378.725,
+                    "stop": 393.802,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your basic position is that professional judgment is not independent judgment, that if something is required to be done, and any qualified professional would do it that way, this is not independent judgment. It comes closer to routine."
+                },
+                {
+                    "start": 393.802,
+                    "stop": 413.998,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the... if we're talking about when an employee is performing his own functions, his trade or his profession, carrying out his own tasks, that is not one of the functions that makes one a supervisor."
+                },
+                {
+                    "start": 413.998,
+                    "stop": 492.6,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but let me give you a hypothetical, one that concerns me. Let's say that you have a registered nurse in charge of a health care facility, and one of her tasks is to assign the other health care personnel to one or another patient. She says, we need more help here. This patient is in more need of help. The other patient is in less need of help. That seems to me to be supervisory activity, even though it is based upon her medical expertise. That's opposed to the situation in which the registered nurse is merely supervising one of the practical nurses in the care of a particular patient, and she says, you know, put a bandage here, you know, or give him two aspirins. There, you're not directing the employee to one task or another. You're telling that employee how to do the task that employee is doing. Well, if the registered nurse is really assigning all of the people, and saying, we need three more over here, we need two more down there, I don't know why that is not supervisory work."
+                },
+                {
+                    "start": 492.6,
+                    "stop": 569.851,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, assignment is a separate category in this, but let me respond more directly to your question. If the nurse did not have anyone assisting her and had to decide which patient was in more acute need of care, the nurse would be making a professional judgment and carrying it out. If the nurse has an extra pair of hands available with which the nurse has to communicate by more than brain waves in order to exercise the same professional responsibility, and this is a less-skilled employee, and the direction to that employee once that professional determination has been made falls into the category of routine, in giving the directions to the assistant, so that it would be in... for purposes of dividing labor and management, which is what this is about, in the category that also would include the journeyman directing his apprentice--"
+                },
+                {
+                    "start": 569.851,
+                    "stop": 588.412,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sure, I understand. I'm not sure where you came out on the hypothetical I gave you. Is that nurse who is assigning other health care personnel to one patient or another, on the basis of her expert medical judgment of which patients need help more, is she in a supervisory position, or not?"
+                },
+                {
+                    "start": 588.412,
+                    "stop": 602.655,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That would depend on further inquiry about whether she is making determinations about how the staff is to be deployed beyond direction that she got from her--"
+                },
+                {
+                    "start": 602.655,
+                    "stop": 619.867,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes. No, no. It's her independent judgment. The owner of the home tells her, you know, we have 30 personnel here, and you know, some of them are in this ward, some in that ward. We don't know which ones are... should be where. It's up to you to assign them where they should be."
+                },
+                {
+                    "start": 619.867,
+                    "stop": 628.822,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That would be much further along what I think of as a spectrum between the journeyman apprentice and the managerial employees."
+                },
+                {
+                    "start": 628.822,
+                    "stop": 659.342,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Wallace, maybe you can tell us when an RN, under the board's current definition, when would an RN not... would be an uncovered employee and would be ranked a supervisor, so that she would not come under the Act's protection. Maybe that would be better. Give us examples of RN's under this test who would not qualify as employees, but would be excluded as supervisors."
+                },
+                {
+                    "start": 659.342,
+                    "stop": 678.072,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it was stipulated that the nursing coordinator here, who had authority to hire and fire, and made staffing decisions about who would be working in the wings of this facility was a supervisor."
+                },
+                {
+                    "start": 678.072,
+                    "stop": 684.393,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't that just the question that Justice Scalia asked about staffing, making staffing decisions, who goes to which ward?"
+                },
+                {
+                    "start": 684.393,
+                    "stop": 689.145,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If it became comparable to that, yes. I mean--"
+                },
+                {
+                    "start": 689.145,
+                    "stop": 749.7,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I thought in this very case, and maybe I'm wrong, but there is a mechanism whereby there's a registered nurse who's the building supervisor when the other folks aren't there, and that that amounts to about 72 percent of the time, in terms of total hours that the building is open, 24 hours a day, and there is an internal memo which states that these registered nurses, as building supervisors, are in charge of the facility, and all rehabilitation staff, and are ultimately responsible for quality patient care. Now, why isn't that using independent judgment? I have a hard time understanding why a person under those instructions, who is in charge, and the only person there at the building, isn't exercising independent judgment under your proposal."
+                },
+                {
+                    "start": 749.7,
+                    "stop": 830.386,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, there's also a finding that these registered nurses usually work on their own, without any assistance in performing their duties, and the other employees who may be present... we're talking about the evening hours when less is going on, are... do not report to the nurse, whether she's the building supervisor or not, and are performing tasks that are laid out for them by management in the facility, so of course she would be using judgment in performing her own nursing services, to the extent they're called for. But what the board found in this case, the regional director found in the representation hearing, was that all that the building supervisor designation meant in practice was that she was to try to see to it that prescribed numbers of staff, and we're talking about rather small numbers, were met, previously prescribed staffing--"
+                },
+                {
+                    "start": 830.386,
+                    "stop": 913.056,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Wallace, I am less concerned about, you know, the outcome of this case, whether these particular nurses were, indeed, supervisory, as I am with the rationale that the board used, and the rationale that it used... I'll quote it from your brief. It is that an employee's exercise of ordinary, professional or technical judgment in directing less-skilled employees to deliver services in accordance with employer's specified standards is not the exercise of independent judgment. Now, if that's the principle on which the board is proceeding, it seems to me that would say that in the hypothetical I gave you before, that nurse, who is using her expert judgment to direct the less-skilled employees, you go here, you go there, she would not be a supervisory personnel, because she's using her professional judgment to know, you know, which medical services are needed where, and it seems to me she is a supervisor, on any reasonable analysis. In other words, I think maybe you have to take the third swing, and go back and, you know, try to resolve this case under the remaining test, which is, what is it, authority to direct."
+                },
+                {
+                    "start": 913.056,
+                    "stop": 965.19,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, what... that standard that we've articulated was based on longstanding board experience with other employment situations involving skilled crafts, team leaders, lead men, group members, who they on their experience, or their superior technical knowledge, direct discrete tasks to be performed by other members of the group that management has assigned to be members of that team. They're not deciding for themselves who should be members of the team to perform the function. This has come up in a wide variety of--"
+                },
+                {
+                    "start": 965.19,
+                    "stop": 975.998,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But most supervisors don't necessarily decide who shall compose the people that they're going to supervise. That's usually a given by management."
+                },
+                {
+                    "start": 975.998,
+                    "stop": 986.438,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's precisely my point, Mr. Chief Justice, that management is deciding who the team shall be and who shall be in the position of the leader."
+                },
+                {
+                    "start": 986.438,
+                    "stop": 996.928,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why should the fact that management gives you a team of, say, 30, be fatal to your position as a supervisor, the fact that you don't pick them yourself? That can't be right."
+                },
+                {
+                    "start": 996.928,
+                    "stop": 1016.975,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, if you're exercising one of the 12 kinds of supervisory authority, of course you would be a supervisor, regardless of whether management prescribed the team, but that's one indication of the limited role that the team leader is playing."
+                },
+                {
+                    "start": 1016.975,
+                    "stop": 1062.838,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, doesn't this turn on what the authority to direct consists of? If all the supervisor has... the purported supervisor has authority to do is to tell the mechanic, no, turn the screw clockwise, not counterclockwise, okay, if that's all he has authority to do, you're turning the screw the wrong way, that's not supervision. But if, on the basis of his expert knowledge, he says, listen, I want you to go over to this other job which needs immediate assistance, I want to take three fellows off of this job, put them over there, that's supervision, and... but that's not the basis on which the board decided this case. It decided it on the basis that there's no independent judgment when you're using your professional standards, and that seems to me to be much too broad."
+                },
+                {
+                    "start": 1062.838,
+                    "stop": 1095.825,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it is qualified by the degree of discretion that the particular skilled employee or professional is given, and the degree to which the exercise of any direction to others or assignment of people who had been put on the shift to discrete tasks is cabined by standards both express and implicit in the--"
+                },
+                {
+                    "start": 1095.825,
+                    "stop": 1193.073,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is-- --Well-- --I thought that what Justice Scalia is talking about is not really involved in this case, so I must not understand it, because I thought there were three separate things. One is a situation where you have a carpenter, and he has an assistant carpenter. Now, the assistant carpenter may tell the carpenter a lot of things, all about carpentry, and if that's what's going on, that isn't supervision, because they're experts, they're carpenters, and as long as they're talking about carpentry, that falls within the rule we're talking about. Am I right? And that describes the relationship between the registered nurse and the licensed practical nurse. The licensed practical nurse does things, gives shots or whatever, so that's the expertise point, but I thought this case primarily involved two other things. One is, what does the woman do who is the nurse, let's say, during the night hours? Now, if she's ordering building people around, like maintenance people or others, maybe she's a supervisor, but there was a finding she did nothing. She's just there, doing her nurse's job. And then there was a second thing. It isn't quite true she does nothing. In fact, she can call in substitutes, but when she calls in the substitutes, they don't have to come, or she has little discretion there. Now, that I thought was the key question. When she deals with those substitutes who are coming in when there's a shortage, that if I'm right, that doesn't have much to do with that aspect of the case that Justice Scalia's talking about. That's a little long, but that's how I was seeing it, and I'd like you to correct me if I'm wrong."
+                },
+                {
+                    "start": 1193.073,
+                    "stop": 1201.578,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think what you have said reflects the facts at issue in this case very accurately, Justice Breyer."
+                },
+                {
+                    "start": 1201.578,
+                    "stop": 1203.53,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Then maybe your opponent will correct me."
+                },
+                {
+                    "start": 1203.53,
+                    "stop": 1235.252,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "And the findings and the record are quite clear that her responsibility as the building supervisor is just to see that the prescribed head count that management has prescribed is there, so to speak, and in doing that she first asks for a volunteer that's falling short."
+                },
+                {
+                    "start": 1235.252,
+                    "stop": 1296.556,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Wallace. We'll resume at 1:00. You may continue, Mr. Wallace."
+                },
+                {
+                    "start": 1296.556,
+                    "stop": 1427.793,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, and may it please the Court: If I may briefly mention a couple of other hypotheticals along the spectrum which may shed some light on what the board has to decide here, supposing a nurse either has a broken arm, or has her hands tied up with another patient, and another... and a different patient needs something administered that requires two hands, and she directs someone to do that, even selecting from among the staff assigned to her someone that she knows knows how to do that, that would be very similar to the team leader, the skilled electrician or carpenter who is doing one thing and asks another man of his team to do the other thing that's required. Moving much more toward management on the spectrum, if the nurse is anticipating a difficult night, and can authorize someone to stay overtime in addition to the regular staff, and therefore commit the employer's resources to decide how the business should be run, rather than what happens here, just seeing to it that the preordained head count is met, that would move the judgment much more toward the managerial side along the spectrum. Perhaps it would move back a bit if this discretion were cabined by rather specific criteria from the employer. The task of the board is to place these various fact-intensive situations, and we've shown them in many other areas of the workforce, to place them accurately along this spectrum and to decide where the line is to be drawn, and if there is to be coherence in the administration of the Act in this respect, it is important that when the board reasonably does so the court defer rather than second-guess those judgments."
+                },
+                {
+                    "start": 1427.793,
+                    "stop": 1462.281,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Wallace, I agree with that, but my... again, my problem is, why is it that the phrase, independent judgment, is the key to distinguishing among those various hypotheticals? Why is that the key? Independent of what? I gather the Government's position is, independent of the professional expertise of the individual, and I don't see how that distinguishes among the various hypotheticals along the spectrum that you've described."
+                },
+                {
+                    "start": 1462.281,
+                    "stop": 1484.879,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Independent of managerial directives, or the implicit understanding of the way that particular supervisory functions should be utilized, because the same question arises with respect to the function of assigning, with respect to the function, other functions that appear in section 211."
+                },
+                {
+                    "start": 1484.879,
+                    "stop": 1523.089,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, but with respect, it's not independent of managerial judgment, because even in the case where, in the first hypothetical, where she clearly is not supervisory, she's just telling another nurse to do this or that, that's independent of the managerial judgment. It's her judgment as to whether this nurse should do this or that, so it isn't independent of managerial judgment. The position of the Government has been that it has to be independent of her professional expertise, and for the life of me I can't understand how that has anything to do with distinguishing among these various hypotheticals."
+                },
+                {
+                    "start": 1523.089,
+                    "stop": 1555.826,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, because the exercise of her own professional expertise in carrying out her professional tasks is not one of the 12 functions of a supervisor, and the judgment that she's exercising in selecting the helping hands, if it's merely of a routine nature within the meaning of the other part of the independent judgment clause, would not make her a supervisor. If I may, I'd like to reserve the balance of my time."
+                },
+                {
+                    "start": 1555.826,
+                    "stop": 1558.878,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Very well, Mr. Wallace. Mr. Hawkins, we'll hear from you."
+                }
+            ],
+            "start": 34.57,
+            "stop": 1604.675
+        },
+        {
+            "turns": [
+                {
+                    "start": 1558.878,
+                    "stop": 1604.675,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: This Court must reject the board's interpretation of independent judgment and the definition of supervisory status in this case in order to assure Americans throughout this country that when they put their loved ones in nursing homes, health care facilities, and home care facilities such as our client, that they are assured of an environment which will be supervised and well-managed. No one in this room, or this country, would put themselves or their family or loved ones into a nursing home or health care facility where, unknowing to them, there was no one in supervision for 72 to 75 percent of the time."
+                },
+                {
+                    "start": 1604.675,
+                    "stop": 1617.55,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But that's the description that the regional director gave. I looked back at it, and he said that the only thing that the building manager, or... what was the term that was used?"
+                },
+                {
+                    "start": 1617.55,
+                    "stop": 1620.768,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Building supervisor, Your Honor."
+                },
+                {
+                    "start": 1620.768,
+                    "stop": 1647.335,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Building super... the only thing that she did was to make sure that the count was met, that she had no discretion to order anybody to show up, that she just counted how many people were there. She was to assure that the shifts were fully staffed, period, and that she had no further authority than that, so those are the fact-findings that were made."
+                },
+                {
+                    "start": 1647.335,
+                    "stop": 1654.139,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, all I can say is that the regional director must have read some different record, because he didn't read the record in this particular case."
+                },
+                {
+                    "start": 1654.139,
+                    "stop": 1665.697,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Are you saying that finding is clearly erroneous? The only additional duty assumed by a building supervisor is to obtain needed help if for some reason a shift is not fully-staffed."
+                },
+                {
+                    "start": 1665.697,
+                    "stop": 1668.666,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor, I would say that that is completely erroneous."
+                },
+                {
+                    "start": 1668.666,
+                    "stop": 1670.268,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Did you raise that before the board?"
+                },
+                {
+                    "start": 1670.268,
+                    "stop": 1671.668,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "We raised it in--"
+                },
+                {
+                    "start": 1671.668,
+                    "stop": 1677.655,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And then the board has said what, in response to your statement that that statement's clearly erroneous? What did the board say?"
+                },
+                {
+                    "start": 1677.655,
+                    "stop": 1679.874,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They take the position that they take, and that they're right."
+                },
+                {
+                    "start": 1679.874,
+                    "stop": 1687.979,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You raised, as a matter of objection, there's a finding, the only additional, et cetera, which Justice Ginsburg raised."
+                },
+                {
+                    "start": 1687.979,
+                    "stop": 1688.479,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1688.479,
+                    "stop": 1699.537,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. You say, you raised to the board that that finding was clearly erroneous. My question to you is, in response to that statement to the board, what did the board say?"
+                },
+                {
+                    "start": 1699.537,
+                    "stop": 1701.989,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The board gave the rhetoric that it gave in this case."
+                },
+                {
+                    "start": 1701.989,
+                    "stop": 1704.858,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Did it say, it is clearly erroneous, or it isn't?"
+                },
+                {
+                    "start": 1704.858,
+                    "stop": 1708.476,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, they did not find... the board did not find it erroneous, but the Sixth Circuit did."
+                },
+                {
+                    "start": 1708.476,
+                    "stop": 1709.376,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Did the board address it specifically?"
+                },
+                {
+                    "start": 1709.376,
+                    "stop": 1711.095,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The Sixth Circuit did. The board did not address it."
+                },
+                {
+                    "start": 1711.095,
+                    "stop": 1719.951,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The board did not address your statement, so when I read the record I'll find, objection, it was clearly erroneous, and the board just didn't address it."
+                },
+                {
+                    "start": 1719.951,
+                    "stop": 1738.762,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, the way this process works, this was our case hearing, and what ends up taking place is, it goes to the board, and then they issue a complaint for summary judgment for the employer's refusal to bargain, so you don't have a full, adjudicative burden of proof, burden of evidence hearing before the NLRB itself."
+                },
+                {
+                    "start": 1738.762,
+                    "stop": 1745.583,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "They don't have a system where you raise an... you object to an ALJ's finding, and... they don't? This is the first time I've heard--"
+                },
+                {
+                    "start": 1745.583,
+                    "stop": 1754.439,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the employer in this case raised an objection to the regional director's decision. That was just rubberstamped by the NLRB. We appealed to the--"
+                },
+                {
+                    "start": 1754.439,
+                    "stop": 1764.647,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--I'm not used to words like, rubberstamped. I'm used to words like, there's a statement, somebody objects to that, and then there's a finding by the higher administrative body."
+                },
+                {
+                    "start": 1764.647,
+                    "stop": 1781.608,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, what I'm getting at, Your Honor, is that there is not a formal determination by the board. It is a, we reviewed it, we agree with the regional director, the employer technically refuses to bargain to get this issue before the Sixth Circuit, and that's what this employer did in that situation."
+                },
+                {
+                    "start": 1781.608,
+                    "stop": 1782.224,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's an enforcement action."
+                },
+                {
+                    "start": 1782.224,
+                    "stop": 1783.458,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "So... it's an... yes, sir."
+                },
+                {
+                    "start": 1783.458,
+                    "stop": 1793.749,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So there was no... I take it... implicit in what you're saying is, there was no way for you to raise a specific objection to that finding before the board itself, is that correct?"
+                },
+                {
+                    "start": 1793.749,
+                    "stop": 1801.403,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Other than raising the issue about the board's regional director's determination. You raise it with the board, the NLRB--"
+                },
+                {
+                    "start": 1801.403,
+                    "stop": 1813.893,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You say, okay, I object to the regional director's determination. Do you have an opportunity to say, and, in particular, the finding that Justice Ginsburg just read was clearly erroneous?"
+                },
+                {
+                    "start": 1813.893,
+                    "stop": 1814.578,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In the--"
+                },
+                {
+                    "start": 1814.578,
+                    "stop": 1816.078,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You have the opportunity to say that?"
+                },
+                {
+                    "start": 1816.078,
+                    "stop": 1824.818,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--In odd case situation, which this arises out of, the employer's ability to challenge it is by refusing to bargain. The NLRB--"
+                },
+                {
+                    "start": 1824.818,
+                    "stop": 1826.636,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is the answer to my question, then, no?"
+                },
+                {
+                    "start": 1826.636,
+                    "stop": 1828.32,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The answer to your question is no."
+                },
+                {
+                    "start": 1828.32,
+                    "stop": 1828.77,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1828.77,
+                    "stop": 1831.272,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "You do not have a formal process to resolve it before the board."
+                },
+                {
+                    "start": 1831.272,
+                    "stop": 1838.694,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So the first opportunity you had to make a specific claim that this was clearly erroneous was before the Circuit?"
+                },
+                {
+                    "start": 1838.694,
+                    "stop": 1846.265,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor. You have the ability to raise the erroneous nature of it before the board, but you do not get a hearing before the board."
+                },
+                {
+                    "start": 1846.265,
+                    "stop": 1853.703,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Do you have an opportunity to make a specific objection with respect to the specific finding that it is clearly erroneous?"
+                },
+                {
+                    "start": 1853.703,
+                    "stop": 1854.587,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, you do, Your Honor."
+                },
+                {
+                    "start": 1854.587,
+                    "stop": 1856.072,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay, and you did not do that?"
+                },
+                {
+                    "start": 1856.072,
+                    "stop": 1860.107,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, that was done, to my understanding. I did not handle the case at the board level."
+                },
+                {
+                    "start": 1860.107,
+                    "stop": 1863.226,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, regardless of who did it, was it done before--"
+                },
+                {
+                    "start": 1863.226,
+                    "stop": 1864.928,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "To my knowledge, it was, Your Honor."
+                },
+                {
+                    "start": 1864.928,
+                    "stop": 1873.617,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, let's get into how this practice works. The evidentiary hearing is before the regional director, or before an ALJ?"
+                },
+                {
+                    "start": 1873.617,
+                    "stop": 1875.951,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's... no, it's not before an AL... it's before a hearing officer--"
+                },
+                {
+                    "start": 1875.951,
+                    "stop": 1877.236,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Before a hearing officer."
+                },
+                {
+                    "start": 1877.236,
+                    "stop": 1877.869,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--of that particular region."
+                },
+                {
+                    "start": 1877.869,
+                    "stop": 1879.355,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And he makes findings."
+                },
+                {
+                    "start": 1879.355,
+                    "stop": 1880.071,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1880.071,
+                    "stop": 1881.471,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And then what happens?"
+                },
+                {
+                    "start": 1881.471,
+                    "stop": 1891.162,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And then the... well, he doesn't make findings. He apparently makes some recommendations to the regional director, and the regional director writes up a report based on those recommendations."
+                },
+                {
+                    "start": 1891.162,
+                    "stop": 1898.499,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And then, if that is unsatisfactory to a party, the party has a right to appeal it to the NLRB?"
+                },
+                {
+                    "start": 1898.499,
+                    "stop": 1914.942,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's not really an appeal. You raise your objections about that determination, i.e., in this case that these individuals were supervisors, as opposed to were not supervisors. That process then ends up forcing an election. You don't have a choice about it. They hold--"
+                },
+                {
+                    "start": 1914.942,
+                    "stop": 1923.931,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay, but... so you're dissatisfied with the regional director's finding. Does that go automatically to the board, without any submission on your part?"
+                },
+                {
+                    "start": 1923.931,
+                    "stop": 1929.168,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. You... they order an election and schedule an election. You're stuck with that process."
+                },
+                {
+                    "start": 1929.168,
+                    "stop": 1935.005,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "So there's no way that you can ask the NLRB to change the finding of the regional director?"
+                },
+                {
+                    "start": 1935.005,
+                    "stop": 1959.723,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Not in that process, no. They direct an election, the regional director directs an election, and... he has an election. The way you challenge that issue is by refusing to bargain and they end up filing a technical 8(a)(5) charge against the employer, the employer refuses to bargain, and then if your way of... they file a motion for summary judgment. On a motion for summary judgment--"
+                },
+                {
+                    "start": 1959.723,
+                    "stop": 1961.623,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "A motion for summary judgment where?"
+                },
+                {
+                    "start": 1961.623,
+                    "stop": 1974.046,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The NLRB general counsel files a motion for summary judgment with the NLRB, and the NLRB... I mean, every case, our case I've had, they end up granting the motion for summary judgment."
+                },
+                {
+                    "start": 1974.046,
+                    "stop": 1977.767,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But you opposed the motion for summary judgment, I take it?"
+                },
+                {
+                    "start": 1977.767,
+                    "stop": 1980.886,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, I did, in the lower level."
+                },
+                {
+                    "start": 1980.886,
+                    "stop": 1994.36,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "May I ask, in the unfair labor practice proceeding against you for refusal to bargain, are you limited to the evidence that was adduced originally?"
+                },
+                {
+                    "start": 1994.36,
+                    "stop": 1994.977,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor."
+                },
+                {
+                    "start": 1994.977,
+                    "stop": 1997.712,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "It's a de novo proceeding. You can bring in new evidence about--"
+                },
+                {
+                    "start": 1997.712,
+                    "stop": 2000.364,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, you don't have a new hearing. You're stuck with the record."
+                },
+                {
+                    "start": 2000.364,
+                    "stop": 2002.1,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Oh, you are stuck with that. That's what I was asking."
+                },
+                {
+                    "start": 2002.1,
+                    "stop": 2003.35,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, you are stuck with the record."
+                },
+                {
+                    "start": 2003.35,
+                    "stop": 2004.002,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You are stuck with that record?"
+                },
+                {
+                    "start": 2004.002,
+                    "stop": 2013.19,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, and... so the way in which you get review of it by a court is with the refusal to bargain, and then you end up with--"
+                },
+                {
+                    "start": 2013.19,
+                    "stop": 2020.111,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yes, but in answer to the board's complaint you can assert as a defense one of the findings of fact was clearly erroneous, can't you?"
+                },
+                {
+                    "start": 2020.111,
+                    "stop": 2023.813,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, and the Sixth Circuit so agreed that they were clearly erroneous."
+                },
+                {
+                    "start": 2023.813,
+                    "stop": 2025.165,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And you did do that before the board?"
+                },
+                {
+                    "start": 2025.165,
+                    "stop": 2025.965,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Pardon, Your Honor?"
+                },
+                {
+                    "start": 2025.965,
+                    "stop": 2033.152,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "You did, in your answer to the complaint before the board, on the refusal to bargain, you did make the point that this finding of fact was clearly erroneous."
+                },
+                {
+                    "start": 2033.152,
+                    "stop": 2033.937,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's my understanding."
+                },
+                {
+                    "start": 2033.937,
+                    "stop": 2035.437,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "On what did you base-- --And did they rule on that?"
+                },
+                {
+                    "start": 2035.437,
+                    "stop": 2037.473,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They grant summary judgment."
+                },
+                {
+                    "start": 2037.473,
+                    "stop": 2039.758,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But they did not make a ruling specifically--"
+                },
+                {
+                    "start": 2039.758,
+                    "stop": 2043.227,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They don't issue you a formal decision and write-up, and we find this, and we find that."
+                },
+                {
+                    "start": 2043.227,
+                    "stop": 2083.252,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Mr. Hawkins, could you please tell me on what basis you urged it was clearly erroneous, because I went back to read Mr. Eichol's testimony, and it corroborates what the regional director reported exactly. He said that the only authority that they had as building supervisor was to call employees, and they could use a list of employees who live nearby, the building supervisor had no authority to compel... Mr. Eichol's testimony is perfectly consistent with what the regional director found."
+                },
+                {
+                    "start": 2083.252,
+                    "stop": 2091.541,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, I believe this Court's standard is the record as a whole, and it's not on one particular page of a transcript. If you look at the record as a whole--"
+                },
+                {
+                    "start": 2091.541,
+                    "stop": 2094.242,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, isn't that... that's not in the... where is it in the joint appendix?"
+                },
+                {
+                    "start": 2094.242,
+                    "stop": 2095.511,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Where's what in the joint appendix?"
+                },
+                {
+                    "start": 2095.511,
+                    "stop": 2097.294,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is there anything in the joint appendix?"
+                },
+                {
+                    "start": 2097.294,
+                    "stop": 2097.794,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes--"
+                },
+                {
+                    "start": 2097.794,
+                    "stop": 2103.831,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Everything that I read in the joint appendix is consistent with what the regional director reported."
+                },
+                {
+                    "start": 2103.831,
+                    "stop": 2120.81,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, if I may I'll be glad to point out some things to you. Some 11 times in the transcript, in the administrator's testimony from transcript 138 to 221 he references responsible or responsibility 11 different times. He talks about judgment, or judgment calls--"
+                },
+                {
+                    "start": 2120.81,
+                    "stop": 2122.829,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I would like to know specifically, what--"
+                },
+                {
+                    "start": 2122.829,
+                    "stop": 2124.079,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Okay. Pages 140--"
+                },
+                {
+                    "start": 2124.079,
+                    "stop": 2162.204,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Mr. Hawkins, a statement was made that she has no authority to order anyone to stay, that yes, she can write somebody up, but anybody else can write anybody up. Is there any... anything that contradicts the statement that... what was the expression that was used, that it was just to count, to make sure that the count was met, and that she could ask people to stay, if they said no, she had no authority to compel them to stay, she got not one penny extra for that building supervision--"
+                },
+                {
+                    "start": 2162.204,
+                    "stop": 2196.377,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Your Honor, there's nothing in section 211 that talks about pay being an issue. I would submit to you at J.A.... joint appendix 62, 63, and 64, which are the three memos in question, and if you take all of Mr. Eichol's testimony in total, you will find that these individuals clearly had supervisory authority, and clearly had authority under 211 that surpassed and was not routine, and much more significant than anybody else in that building during the time that they supervised. They had the ability to call in people for overtime, and even the hearing officer--"
+                },
+                {
+                    "start": 2196.377,
+                    "stop": 2198.427,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--If a person said no, then what happened?"
+                },
+                {
+                    "start": 2198.427,
+                    "stop": 2212.07,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--According to the memo, they have the authority to write them up, and I know the regional director made a to-do, well, they didn't write anybody up, but that assumes that all your employees must totally disrespect you as a supervisor, and that you have to be writing everybody up."
+                },
+                {
+                    "start": 2212.07,
+                    "stop": 2220.508,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But where is it that says that somebody is obliged to say yes to the request for overtime? I didn't find that."
+                },
+                {
+                    "start": 2220.508,
+                    "stop": 2229.098,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it says in the J.A. 63, please write up anyone who does not comply with the request immediately. There was also testimony--"
+                },
+                {
+                    "start": 2229.098,
+                    "stop": 2229.481,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "With what request?"
+                },
+                {
+                    "start": 2229.481,
+                    "stop": 2262.319,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The request to work, or to cover the unit, or to pull someone from one unit to another, and so therefore, if... it was also testified that... and it's in the record, that every employee in the facility had to sign all three of these memoranda, read them, to acknowledge... I mean, a company and an employer cannot do anything more significant and more strongly to communicate to every one of their employees, this person is the supervisor, they are in charge of the building and you will follow their lead, to the point that--"
+                },
+                {
+                    "start": 2262.319,
+                    "stop": 2305.848,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "We're talking about a legal definition. We're not talking about who you can call a supervisor or not. Call anyone you want. And I didn't know until you started, which is why I was asking, that there were any facts in dispute in this case. I thought, when I read the Sixth Circuit, that it was perfectly consistent with what the ALJ had found, and I thought the key facts are that KRCC directs that the registered nurses, 1) may direct the LPN in dispensing medicine. I didn't think that was in dispute. I thought that, 2) they regularly serve as the highest ranking employees in the building."
+                },
+                {
+                    "start": 2305.848,
+                    "stop": 2306.614,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Correct, Your Honor."
+                },
+                {
+                    "start": 2306.614,
+                    "stop": 2313.185,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I thought 3) they seek additional employees in the event of a staffing shortage, all right."
+                },
+                {
+                    "start": 2313.185,
+                    "stop": 2314.37,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2314.37,
+                    "stop": 2324.31,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And I thought that they move employees between units as needed. That I better put a question mark on, but I suppose if I read that carefully in the ALJ I'll find they have some authority to do that."
+                },
+                {
+                    "start": 2324.31,
+                    "stop": 2325.16,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Correct, Your Honor."
+                },
+                {
+                    "start": 2325.16,
+                    "stop": 2330.38,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And they have the authority to write up employees who do not cooperate with staffing assignments."
+                },
+                {
+                    "start": 2330.38,
+                    "stop": 2331.114,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct, Your Honor."
+                },
+                {
+                    "start": 2331.114,
+                    "stop": 2334.149,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "All right. Now, I didn't know that there is a factual dispute."
+                },
+                {
+                    "start": 2334.149,
+                    "stop": 2340.002,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not disputing those facts. I guess really more what the issue, then, is, is the substantial evidence issue, and that's--"
+                },
+                {
+                    "start": 2340.002,
+                    "stop": 2363.535,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Why is it substantial evidence? I thought that the issue is whether the legal label called supervising can fit on those facts, as the record will support them, I imagine to some extent, and so we're dealing with a question of law, and normally you'd say it's... on that kind of a question we'd give a lot of deference to the board."
+                },
+                {
+                    "start": 2363.535,
+                    "stop": 2364.22,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Unless there--"
+                },
+                {
+                    "start": 2364.22,
+                    "stop": 2387.65,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "But here, you wanted... the Sixth Circuit said, the board does not have the legal power to say that the other side has the burden of proof, namely you. They didn't have that legal power, and the other thing they said was that they have been saying certain things in the past, mouthing a standard but doing something the opposite, so we're not going to give them as much attention as normal."
+                },
+                {
+                    "start": 2387.65,
+                    "stop": 2390.268,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, if we look at these--"
+                },
+                {
+                    "start": 2390.268,
+                    "stop": 2391.787,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is that... am I right? What are we--"
+                },
+                {
+                    "start": 2391.787,
+                    "stop": 2392.87,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, you certainly--"
+                },
+                {
+                    "start": 2392.87,
+                    "stop": 2393.906,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--I'm trying to get what our issue is here."
+                },
+                {
+                    "start": 2393.906,
+                    "stop": 2401.993,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--This Court in Chevron and a number of the other cases said you certainly do not give the board deference when their interpretation of the Act and application of it is irrational--"
+                },
+                {
+                    "start": 2401.993,
+                    "stop": 2404.178,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Obviously not--"
+                },
+                {
+                    "start": 2404.178,
+                    "stop": 2404.695,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--and is not consistent with the law."
+                },
+                {
+                    "start": 2404.695,
+                    "stop": 2422.489,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--but the classic case was the case of the newsboys, wasn't it... they were called newsboys at that time... are they employees, or are they supervisors, and I believe that this Court in that first case said that the board gets a lot of deference because they know about these things, and we don't."
+                },
+                {
+                    "start": 2422.489,
+                    "stop": 2426.71,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "This Court in HCR and Yeshiva, and Bell--"
+                },
+                {
+                    "start": 2426.71,
+                    "stop": 2427.543,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah, a lot of them--"
+                },
+                {
+                    "start": 2427.543,
+                    "stop": 2430.679,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--all these cases, is not giving deference to the board."
+                },
+                {
+                    "start": 2430.679,
+                    "stop": 2434.714,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--You mean you're saying we shouldn't give deference to the board on such a question?"
+                },
+                {
+                    "start": 2434.714,
+                    "stop": 2495.937,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, you should not give deference to the board in this case because their interpretation of this particular statute is so irrational and so inconsistent with the Act. In fact, addressing Justice Scalia's point earlier, you raised the question, Justice, about this issue of responsibly direction, the board go back, and come back, is that going to be the next one we're going to have. If you read the definition that they have of independent judgment, and I would really address this and tell the... suggest to the Court that you pay attention to this... the board continues with employers to not be proactive. They just keep telling employers what it's not. It's a shell game. What it's... they never say... if I read through the enter carpenter's brief you can't find where they say what independent judgment is. They keep saying what it's not. But in looking at their definition of it, and if you stack that up against Senator Flanders' comparison of what responsibly direct is, they have literally written out of the Act, responsibly direct."
+                },
+                {
+                    "start": 2495.937,
+                    "stop": 2497.989,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What is the board's definition?"
+                },
+                {
+                    "start": 2497.989,
+                    "stop": 2499.122,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The board's definition--"
+                },
+                {
+                    "start": 2499.122,
+                    "stop": 2500.924,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is that found in the briefs somewhere?"
+                },
+                {
+                    "start": 2500.924,
+                    "stop": 2552.024,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. They set it forth in the petition for cert, item number 1 and index 1, which is the reverse of, it's not independent judgment if an RN exercises ordinary professional technical judgment in directing less-skilled employees to deliver services in accordance with employer's specified standards. Well, what did Senator Flanders say in the... at pages 14 and 15 of our brief, what did Senator Flanders say was responsibly direct? Guess what? He said, it's exercise personal judgment based on personal experience, training, and abilities. He says, it's the direction of a department and the men under him, the less-skilled people. He says he determines under general orders what to do, and he gives instructions for its proper performance."
+                },
+                {
+                    "start": 2552.024,
+                    "stop": 2561.63,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Hawkins, then every professional employee would be excluded, because everything that you've read to me is what professional employees do."
+                },
+                {
+                    "start": 2561.63,
+                    "stop": 2592.767,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, I disagree, Your Honor, and let me explain why. If you look at what Senator Flanders was talking about as to the definition of responsibly direct, he's hit all of these points. He has hit the fact that you exercise personal judgment based on your skill and training, i.e., a professional. He has hit... this is not what all professionals do, direct their men under them, do it pursuant to general orders of the employer, and gives instructions for its proper adoption."
+                },
+                {
+                    "start": 2592.767,
+                    "stop": 2613.947,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The typical thing, I thought, that the RN who says to the LPN, do this injection, and supervises that process. I thought that that would fall within the definition of professional employee, but not supervisor."
+                },
+                {
+                    "start": 2613.947,
+                    "stop": 2621.434,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Your Honor, I'm aware of the concern and the dissent that you wrote in HCR about this issue concerning when is someone--"
+                },
+                {
+                    "start": 2621.434,
+                    "stop": 2643.784,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "There, the board was trying to have some special definition just for nurses and health care people. Now, as I understand it, they're saying, we're not creating any different definition for nurses than any other professional employee. We're trying to distinguish between professional employees on the one hand, and supervisors on the other."
+                },
+                {
+                    "start": 2643.784,
+                    "stop": 2672.053,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And I would submit, Your Honor, they have not done that. In fact, all they've done is, in different terms, defined professional. If you look at their definition of independent judgment, and if you took it and put it up on a board next to definition of supervisor and definition of professional, and said, which one does this fit, you'd say, it fits professional. Their definition of independent judgment is a professional. That's why it's wrong, and that's why it's inconsistent with the Act."
+                },
+                {
+                    "start": 2672.053,
+                    "stop": 2675.171,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Can I come back to the facts in this case?"
+                },
+                {
+                    "start": 2675.171,
+                    "stop": 2675.688,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 2675.688,
+                    "stop": 2691.681,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Is it really uncontested that the building supervisor had the ability to, as one of these memos say, if necessary, pull from one unit to another."
+                },
+                {
+                    "start": 2691.681,
+                    "stop": 2693.899,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They had the ability to do that."
+                },
+                {
+                    "start": 2693.899,
+                    "stop": 2714.48,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, you say they had. Is that conceded? I thought that the accuracy of these memoranda as a description of what their genuine authority was, was contested by the board. They said these memoranda is just words on paper, and that's in fact not how it worked."
+                },
+                {
+                    "start": 2714.48,
+                    "stop": 2720.717,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, those memoranda were introduced without objection. In fact, it was... when they were introduced--"
+                },
+                {
+                    "start": 2720.717,
+                    "stop": 2738.228,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, that's okay. I mean, you can introduce... basis for... so on, right. The point still remains, did they reflect the actual duties of the, responsibilities of the building supervisor, and the board said that in fact they didn't. Isn't that what the board said?"
+                },
+                {
+                    "start": 2738.228,
+                    "stop": 2740.697,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, they may... yes, they did say that they didn't."
+                },
+                {
+                    "start": 2740.697,
+                    "stop": 2744.749,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay. Now, how can we say that that was wrong?"
+                },
+                {
+                    "start": 2744.749,
+                    "stop": 2747.934,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "On the substantial evidence standard. This Court--"
+                },
+                {
+                    "start": 2747.934,
+                    "stop": 2752.088,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, what evidence do you have that it did represent--"
+                },
+                {
+                    "start": 2752.088,
+                    "stop": 2754.471,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I'll give you a few examples, Your Honor."
+                },
+                {
+                    "start": 2754.471,
+                    "stop": 2760.777,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, maybe the burden's on them, I guess. It is a memoranda that goes to all nurses. They don't deny that it went to all nurses."
+                },
+                {
+                    "start": 2760.777,
+                    "stop": 2762.694,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And they don't deny that all the board signed for it."
+                },
+                {
+                    "start": 2762.694,
+                    "stop": 2765.913,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And they... but they're just saying, it never happened?"
+                },
+                {
+                    "start": 2765.913,
+                    "stop": 2820.899,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, Your Honor, they're not saying those different things did not happen. Let me go through a few of these points in the record, and these are some questions that were posed by the hearing officer herself in this case. In the record, it's very clear that there typically was oftentimes one individual on duty. There was one question at J.A. 36 where the administrator was asked, even if you're on duty, say, beyond 3:00 and this building supervisor is there, what ends up happening, and would you handle it? He says, no. In other words, if I'm in the building, I would, you know, be surprised if they came to me and said, looks like we're going to be a little short on night shift, what do you think we should do? In other words, the question is going to be asked of the building supervisor, not me, the administrator. She's in charge of that issue. That's as strong a granting of the right to independent judgment and section 211 duties as any."
+                },
+                {
+                    "start": 2820.899,
+                    "stop": 2839.777,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, that just concerns being short on night shift, and that is really just a mathematical call. That doesn't take any independent judgment there. You're supposed to have 30 people there, we have only 29, pick up the phone and see if you can get a thirtieth in. That's just not independent judgment."
+                },
+                {
+                    "start": 2839.777,
+                    "stop": 2874.717,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, if you apply that principle, then the vast array of supervisors throughout the United States are not going to be supervisors, because I believe, as Mr. Chief Justice indicated, it's very frequently the exact situation, where management tells you, these are how many people are allocated to your department, you're going to get the job done, if enough people don't show up, call people in, hold people over for overtime... that is an inherent part of supervision, making those judgments. We can get the production out today with less people, so I won't call anybody in. No, we can't get the production out today, we need to call someone in."
+                },
+                {
+                    "start": 2874.717,
+                    "stop": 2879.854,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "She wasn't given that discretion. As I understood it, she had to make the call when they were understaffed."
+                },
+                {
+                    "start": 2879.854,
+                    "stop": 2897.415,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, at page, transcript 206, concerning overtime without restriction, the question by the hearing officer again was, so is there no restriction on that concerning overtime assignment and calling people in, and the answer was no. Even a question at transcript--"
+                },
+                {
+                    "start": 2897.415,
+                    "stop": 2907.088,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What is the that, no restriction on... yeah, she was supposed to try to get them up to the full count, and to call people, but where is there--"
+                },
+                {
+                    "start": 2907.088,
+                    "stop": 2927.252,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But there's no... the point there is no restriction on overtime, and then at 208 she's got the ability to call in to increase the unit above five, and at transcript 334 one of the residence assistants says, yeah, I've been asked to stay over and called in a lot, so she clearly had those responsibilities."
+                },
+                {
+                    "start": 2927.252,
+                    "stop": 2965.727,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--I don't see how to deal with the case unless we're like a super-NLRB, unless... I could go this far, we take the facts as stated in the Sixth Circuit, you know, and we say that insofar as those are conclusory, what they actually mean, as long as it allows it, is what the board said. I mean, we'd go back to the opinions of the board, which I agree is just a summary affirmance, so you'd go back to the opinions of the district director and say that's what the words mean, so when they talk about it, you know, when they talk about her super... how... unless you want us to go... you're saying we should go read through the whole record and decide whether all these--"
+                },
+                {
+                    "start": 2965.727,
+                    "stop": 3035.554,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, I'm not saying that you have to go read through the whole record. I'm saying that, absent showing that the Sixth Circuit was in some way arbitrary and capricious about the way in which they handled this matter, they should be affirmed. The other point I would make, and I would like to propose, and I've been doing this work for some 25 years, and not unlike what this Court did in Ellerith & Ferriger, it provided good determinative standards for employers to follow to be able to comply with the law, to define in this situation what is a supervisor, and I'd like to propose six points for this Court that I think address these issues. One is that the individual in question should have the authority from their employer to engage in one of the twelve activities. In our case, they had the authority to assign, transfer, and responsibly direct the employees by those definitions. Two, the individual should be responsible for other employees, a shift, a department, a unit, a facility. In our case, the RN was in charge of the building and the shift, and of the residents, and the facility in general. Senator Flanders talks about that in terms of direction of department, men under him."
+                },
+                {
+                    "start": 3035.554,
+                    "stop": 3052.066,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Well, and you say it was her judgment as to how many of the extant employees would be in each of the various units. She said, you know, we need eight here, rather than just five, so I'm going to pull three from the next-door units. She could do that."
+                },
+                {
+                    "start": 3052.066,
+                    "stop": 3057.57,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If the census was down in a particular period of time, if it was up she had those sorts of abilities."
+                },
+                {
+                    "start": 3057.57,
+                    "stop": 3068.276,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "No, no. Everybody's there, the full complement of the staff is there, and you say she had authority to say, we need more in this unit than they need in the other unit."
+                },
+                {
+                    "start": 3068.276,
+                    "stop": 3068.776,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, she did."
+                },
+                {
+                    "start": 3068.776,
+                    "stop": 3070.46,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm going to transfer three people to this unit."
+                },
+                {
+                    "start": 3070.46,
+                    "stop": 3071.194,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, she did, Your Honor."
+                },
+                {
+                    "start": 3071.194,
+                    "stop": 3076.798,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And that, and the evidence for that is the memorandum which says, if necessary, pull from one unit to another."
+                },
+                {
+                    "start": 3076.798,
+                    "stop": 3091.624,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's more than that, Your Honor. It's also at transcript 155. It's also at transcript 140, 142, 43, 45, 146, 150, 206, 220 to 221, 227--"
+                },
+                {
+                    "start": 3091.624,
+                    "stop": 3097.878,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, could you give us an example of what those citations... is that the testimony of a witness that you're referring to?"
+                },
+                {
+                    "start": 3097.878,
+                    "stop": 3102.099,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--These are testimony of various witnesses about being assigned, calling people in, keeping them over--"
+                },
+                {
+                    "start": 3102.099,
+                    "stop": 3125.029,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I'm not talking about calling people in. I'm not talking about that. I'm talking about assigning the employees that are there and saying, I am going to make the independent judgment that we should have more people in this unit than the employer originally put there, because this unit has special needs today, and I am making that judgment, three people come from this unit and go here."
+                },
+                {
+                    "start": 3125.029,
+                    "stop": 3125.664,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--At--"
+                },
+                {
+                    "start": 3125.664,
+                    "stop": 3130.099,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Now, what evidence is there for that, beyond the statement in the memorandum?"
+                },
+                {
+                    "start": 3130.099,
+                    "stop": 3144.026,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--At joint appendix 24, for situational issues building supervisors can decide if staffing is inadequate and that additional employees are needed. Building supervisors can situationally ask for an increase."
+                },
+                {
+                    "start": 3144.026,
+                    "stop": 3144.859,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 3144.859,
+                    "stop": 3148.145,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'd also like to address--"
+                },
+                {
+                    "start": 3148.145,
+                    "stop": 3166.624,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--Let me ask one question. You've given us so much detail it's really kind of hard to follow the argument. Am I correct in assuming that the factual basis for your position is entirely found on page 18a and 19a of the appendix to the cert petition? That's what the Sixth Circuit relied on, as I understood it."
+                },
+                {
+                    "start": 3166.624,
+                    "stop": 3169.174,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, Your Honor, we rely on what the Sixth Circuit--"
+                },
+                {
+                    "start": 3169.174,
+                    "stop": 3175.647,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And so you don't think it's necessary to call our attention to any other facts than those that the Sixth Circuit relied on?"
+                },
+                {
+                    "start": 3175.647,
+                    "stop": 3181.717,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I do to the extent the board's wanting to say these people aren't engaged in independent judgment, because I think these--"
+                },
+                {
+                    "start": 3181.717,
+                    "stop": 3186.686,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "They have said, though, that these facts are sufficient to establish their status as supervisors."
+                },
+                {
+                    "start": 3186.686,
+                    "stop": 3187.455,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 3187.455,
+                    "stop": 3191.423,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "And so either... it seems to me you either agree or disagree with what they say on that page."
+                },
+                {
+                    "start": 3191.423,
+                    "stop": 3192.24,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "With the Sixth Circuit, correct, Your Honor."
+                },
+                {
+                    "start": 3192.24,
+                    "stop": 3196.125,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Your six points on what's the correct... are they in your brief, because I'd like to--"
+                },
+                {
+                    "start": 3196.125,
+                    "stop": 3249.445,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No, they're not, Your Honor, and I'd like to finish those quickly. The fourth one is the authority they have in exercise under section 211 is different from those they supervise and thus not routine, and I think that addresses the routine issue. It also addresses Yeshiva at 690 about it not being routine, and when you look at the totality of the activities that these RN's are engaged in, they're not routine as compared to the others they supervise. Fifth, that the authority to exercise does not consist only of record-keeping or filing, and thus not clerical, and sixth, in exercising their authority they are not subordinate to those that they supervise, and use their personal judgment based upon experience, training, and ability, thus they use independent judgment, and these standards are rational, they're reasonable, they alleviate any concern that we're trying to suggest that all professionals are supervisors, or that somehow or another--"
+                },
+                {
+                    "start": 3249.445,
+                    "stop": 3257.765,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "--What RN under those standards... what RN would ever be professional and not supervisory?"
+                },
+                {
+                    "start": 3257.765,
+                    "stop": 3275.561,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, certainly in large health care facilities you'll have a floor in a hospital, as an example, where everybody's an RN, and you'll have one unit supervisor. You wouldn't say all of those RN's, just because they simply periodically tell another nurse aide or LPN, oh, adjust this--"
+                },
+                {
+                    "start": 3275.561,
+                    "stop": 3299.176,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, typically isn't it so in hospitals nowadays that you have a lot of subpeople under... who are not RN's but are LPN's, and then other categories, and that the nurse on the shift would be telling those people... she wouldn't be the nurse in charge of assigning anybody any place, but she certainly would be directing the nurse's aides and the LPN's."
+                },
+                {
+                    "start": 3299.176,
+                    "stop": 3307.965,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, Your Honor, if the RN is directing the facility, as this one was in this situation, they would be a supervisor."
+                },
+                {
+                    "start": 3307.965,
+                    "stop": 3325.593,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "I asked you to tell me who, under your definition, what nurse, assuming that the nurse is going to give instructions to an LPN, to a nurse's aide, and to other people who work in the hospital, what nurse would not fit the standards that you just read?"
+                },
+                {
+                    "start": 3325.593,
+                    "stop": 3332.849,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "A nurse that doesn't have the authority from the employer to direct those employees. A nurse that's not been told you're in charge of the unit."
+                },
+                {
+                    "start": 3332.849,
+                    "stop": 3346.09,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What nurse in any hospital setup would not have the authority to direct the LPN, supervise the LPN in the way a treatment is administered, a treatment ordered by a doctor?"
+                },
+                {
+                    "start": 3346.09,
+                    "stop": 3369.022,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Your Honor, as an example, in some of the other cases that this Court has dealt with you talked about whether the individual is aligned with management or not. That is a key component. Is a nurse just performing her duties in a project sort of the straw-boss lead person, or are they actually aligned with management and charged with the responsibility of directing the facility or the unit or the group of individuals."
+                },
+                {
+                    "start": 3369.022,
+                    "stop": 3370.138,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Thank you, Mr. Hawkins."
+                },
+                {
+                    "start": 3370.138,
+                    "stop": 3370.89,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Thank you, Your Honor."
+                },
+                {
+                    "start": 3370.89,
+                    "stop": 3394.756,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Mr. Wallace, you have 6 minutes remaining. Mr. Wallace, I hope at some point in your 6 minutes you'll tell us on what basis the board disregarded and apparently didn't accept the truth of the memorandum which said that these nurses had authority, if necessary, to pull from one unit to another."
+                },
+                {
+                    "start": 3394.756,
+                    "stop": 3414.651,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, the only nurse who testified said she had not read two of the three memoranda that had been introduced and had never been shown it. The... on page 16 of our reply brief we respond--"
+                },
+                {
+                    "start": 3414.651,
+                    "stop": 3415.536,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "What does that prove?"
+                },
+                {
+                    "start": 3415.536,
+                    "stop": 3444.688,
+                    "speaker": {
+                        "name": "Lawrence G. Wallace",
+                        "ID": 35240,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--with record citations to some of these factual claims. I do think, to put this in context, it's important that the Sixth Circuit did not set aside any of the board's findings in this case as erroneous. It just reached different legal conclusions based on its view of what constitutes supervision, based on the board's--"
+                },
+                {
+                    "start": 3444.688,
+                    "stop": 3451.859,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "The Sixth Circuit did say that, in its opinion, that they have the authority to move employees between units as needed, and I don't think the board said that."
+                },
+                {
+                    "start": 3451.859,
+                    "stop": 3498.94,
+                    "speaker": {
+                        "name": "Michael W. Hawkins",
+                        "ID": 35965,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The board did not say that, and that is not my understanding of the findings. I will say, I'm holding in my hand here the response to the general counsel's motion for summary judgment in the unfair labor practice proceeding before the board, and there was no effort to introduce any further evidence on any of the matters that we're talking about. The only request to introduce further evidence was on the question of whether the employer was exempt from coverage because it was an arm of the State government, or because its board was controlled by public officials. They--"
+                },
+                {
+                    "start": 3498.94,
+                    "stop": 3509.079,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, do you... Mr. Wallace, do you challenge the Sixth Circuit's... you say the Sixth... you agree the Sixth Circuit said there was the authority to move. Now, do you challenge that finding?"
+                }
+            ],
+            "start": 3509.079,
+            "stop": 3511.815
+        }
+    ]
+}

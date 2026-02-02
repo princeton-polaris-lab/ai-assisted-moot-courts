@@ -1,0 +1,1747 @@
+{
+    "title": "Withrow v. Williams",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 985.479,
+                    "stop": 1025.722,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Thank you, Mr. Chief Justice, may it please the Court: The United States believes that the rule of Stone v. Powell should apply to bar the assertion of Miranda claims on habeas corpus if the habeas petitioner has had a full and fair opportunity to raise the claim in State court for the same reasons that the rule bars the assertion of exclusionary rule claims on habeas corpus. Like the exclusionary rule, the requirement of Miranda warnings is an extraconstitutional, judicially-created rule. Just as the exclusionary rule bars the admission of probative evidence to deter Fourth Amendment violations, Miranda bars the admission of probative statements to deter Fifth Amendment violations, and just--"
+                },
+                {
+                    "start": 1025.722,
+                    "stop": 1033.393,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think the court had the power to adopt the Miranda rule, Mr. Roberts?"
+                },
+                {
+                    "start": 1033.393,
+                    "stop": 1052.54,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The court in Miranda explained its adoption of the extraconstitutional rule as a means of vindicating Fifth Amendment interests. We're not here challenging the application of Miranda at trial or on direct review. We just think that the purposes of the rule have to be assessed in the habeas context, just as--"
+                },
+                {
+                    "start": 1052.54,
+                    "stop": 1056.092,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if asked, what is your position?"
+                },
+                {
+                    "start": 1056.092,
+                    "stop": 1059.111,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't have a position on that, Your Honor."
+                },
+                {
+                    "start": 1059.111,
+                    "stop": 1059.211,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Okay."
+                },
+                {
+                    "start": 1059.211,
+                    "stop": 1064.996,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We don't challenge its application in trial or on direct review."
+                },
+                {
+                    "start": 1064.996,
+                    "stop": 1070.666,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But just a Miranda rule is the law of the United States within the meaning of the habeas corpus statute."
+                },
+                {
+                    "start": 1070.666,
+                    "stop": 1079.272,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I do think the phrase, Constitution laws and treaties, laws can include both statutes and judicially-created constitutional common law, as it were."
+                },
+                {
+                    "start": 1079.272,
+                    "stop": 1080.857,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I understand. Is your answer yes?"
+                },
+                {
+                    "start": 1080.857,
+                    "stop": 1095.598,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. Yes, and as the Court explained in Stone that there's little additional deterrent effect from applying the exclusionary rule on habeas corpus, so, too, there is little, if any, additional deterring effect from applying Miranda."
+                },
+                {
+                    "start": 1095.598,
+                    "stop": 1100.818,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You have no disagreement with the proposition that voluntariness can be tested on habeas."
+                },
+                {
+                    "start": 1100.818,
+                    "stop": 1103.187,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. We agree with that. We don't--"
+                },
+                {
+                    "start": 1103.187,
+                    "stop": 1109.108,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is an element of voluntariness whether or not a Miranda warning has been given? Yes."
+                },
+                {
+                    "start": 1109.108,
+                    "stop": 1112.709,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is a factor to be considered in the totality of the circumstances, yes."
+                },
+                {
+                    "start": 1112.709,
+                    "stop": 1122.065,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if we adopted your rule, we would be inquiring into whether or not the Miranda warning had been given and its effect in any event in all those voluntariness cases."
+                },
+                {
+                    "start": 1122.065,
+                    "stop": 1164.177,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it would be one of the factors to be considered. This goes to Justice Souter's question. We think there's a very significant gain from excluding Miranda from habeas corpus. This Court knows from its own Miranda jurisprudence that cases under Miranda can present very difficult technical issues... the content of the warnings, when they're triggered, how they apply to subsequent arrests. In cases that the Court knows seldom present serious issues of voluntariness under the Fifth Amendment, extending Stone to Miranda would keep those technical and difficult issues out of habeas corpus, issues that have nothing to do with guilt or innocence, while leaving only voluntariness claims under the Fifth Amendment. That's a significant gain."
+                },
+                {
+                    "start": 1164.177,
+                    "stop": 1168.046,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But which do you think are more difficult, the Miranda claims or voluntariness claims?"
+                },
+                {
+                    "start": 1168.046,
+                    "stop": 1189.209,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, as this Court knows from cases like Duckworth and some of the other cases like Prysock, I don't think there's any great distinction. How they apply in subsequent interviews, when they can be reinitiated, what's the exact content, as was the issue in this case, when are the requirements or the warnings triggered, they're very difficult."
+                },
+                {
+                    "start": 1189.209,
+                    "stop": 1196.477,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought bright line rules generally made decisions easier. We're supposed to have a bright line rule there which we don't have in the voluntariness issue. Maybe that is a bright--"
+                },
+                {
+                    "start": 1196.477,
+                    "stop": 1201.179,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Miranda has been... I guess could be described as a bright line rule, but I think the Court has found that it's not so bright on application."
+                },
+                {
+                    "start": 1201.179,
+                    "stop": 1214.789,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--What do you think the rule is, Mr. Roberts, when on habeas corpus there is a... you are dealing with a claim of involuntariness? What does a habeas court do?"
+                },
+                {
+                    "start": 1214.789,
+                    "stop": 1218.573,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it looks to the totality of the circumstances to determine--"
+                },
+                {
+                    "start": 1218.573,
+                    "stop": 1222.025,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And it reviews it de novo."
+                },
+                {
+                    "start": 1222.025,
+                    "stop": 1224.56,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, under Miller v. Fenton it is a--"
+                },
+                {
+                    "start": 1224.56,
+                    "stop": 1224.877,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1224.877,
+                    "stop": 1226.293,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--De novo review."
+                },
+                {
+                    "start": 1226.293,
+                    "stop": 1229.445,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that's a considerable undertaking, isn't it?"
+                },
+                {
+                    "start": 1229.445,
+                    "stop": 1240.736,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, in particular cases it may be, but I suppose that, when you mentioned, Justice Souter, the practical effect, I think what the assumption is that a prisoner is going to sort of raise a claim even if it's frivolous, and--"
+                },
+                {
+                    "start": 1240.736,
+                    "stop": 1247.74,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's a considerably tougher operation than applying the Miranda rules, I would think."
+                },
+                {
+                    "start": 1247.74,
+                    "stop": 1252.86,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, but it's an operation that the courts have to undertake now in any event. This isn't going to be an additional--"
+                },
+                {
+                    "start": 1252.86,
+                    "stop": 1260.631,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Well, we don't have to take them in any event. I mean, in a case in which the Miranda claim succeeds, that's the end of it."
+                },
+                {
+                    "start": 1260.631,
+                    "stop": 1269.118,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, that is the end of it, yes, on direct review, and the question is what happens on habeas corpus. We're suggesting that's going to be the end of it if our rule's accepted."
+                },
+                {
+                    "start": 1269.118,
+                    "stop": 1276.974,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What percentage of cases does the Miranda claim succeed? I mean, I guess that's a crucial fact, isn't it?"
+                },
+                {
+                    "start": 1276.974,
+                    "stop": 1277.807,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "When does a... on the record--"
+                },
+                {
+                    "start": 1277.807,
+                    "stop": 1287.995,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, because we're going to have to go through the involuntariness anyway every time a Miranda claim is made unless we find that we throw the whole thing out because of the Miranda claim, right?"
+                },
+                {
+                    "start": 1287.995,
+                    "stop": 1288.462,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Right."
+                },
+                {
+                    "start": 1288.462,
+                    "stop": 1293.333,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what percentage of Miranda claims succeed, do you think, on habeas?"
+                },
+                {
+                    "start": 1293.333,
+                    "stop": 1295.518,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't have any statistics on that."
+                },
+                {
+                    "start": 1295.518,
+                    "stop": 1298.22,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do we have any reason to think it's like, 90 percent--"
+                },
+                {
+                    "start": 1298.22,
+                    "stop": 1298.587,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 1298.587,
+                    "stop": 1299.253,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Are successful?"
+                },
+                {
+                    "start": 1299.253,
+                    "stop": 1300.755,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it's a much smaller--"
+                },
+                {
+                    "start": 1300.755,
+                    "stop": 1302.522,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Probably more don't succeed than succeed."
+                },
+                {
+                    "start": 1302.522,
+                    "stop": 1303.791,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Most don't because--"
+                },
+                {
+                    "start": 1303.791,
+                    "stop": 1305.057,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's certainly my impression."
+                },
+                {
+                    "start": 1305.057,
+                    "stop": 1306.39,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1306.39,
+                    "stop": 1312.544,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think that the exclusionary rule is a law of the United States that was involved in Stone?"
+                },
+                {
+                    "start": 1312.544,
+                    "stop": 1316.512,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think it is what's been described as constitutional common law."
+                },
+                {
+                    "start": 1316.512,
+                    "stop": 1332.688,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Yeah, I think so, too. Do you have any... and I assume you don't, but I don't want to overlook it. Do you have any facts, any statistics on the percentage or the number of cases on which the Miranda claim fails and voluntariness is then litigated?"
+                },
+                {
+                    "start": 1332.688,
+                    "stop": 1481.884,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. No, I don't. I think the key distinction that the respondent has suggested between the exclusionary rule under the Fourth Amendment and Miranda's exclusionary rule is that the exclusionary rule doesn't prevent a constitutional violation from occurring. That's complete upon the illegal search and seizure. Miranda, on the other hand, respondent argues, prevents a constitutional violation from even occurring, and is therefore worth pursuing even on habeas corpus. That, I think, begs the question. It assumes there's a Fifth Amendment violation to be deterred, to be prevented. As this Court has explained, a violation of Miranda is not the same as a violation of the Fifth Amendment, and once that's understood, the distinction cuts the other way. The exclusionary rule, after all, prevents the State from taking advantage of a constitutional violation in every case in which it applies. Miranda sweeps more broadly than the Constitution, so we think the rule of Stone v. Powell should apply a fortiori, and with respect to the significance, the practical impact, it's noteworthy I think that 36 State Attorneys General have filed an amicus brief in this case suggesting that they regard the impact as significant in terms of the respect accorded by the Federal system to the finality of State court judgments. Now, turning to the voluntariness question in this case, the statements that were made after the Miranda warnings were given and waived, the totality of the circumstances shows this: we had a lucid individual not under the influence of drugs or alcohol, not too young to be susceptible to police influence, a veteran of police procedures... he knew the jargon. He testified that he had six prior B&E's. Police taped the interview, not something they're likely to do if they're embarked on a campaign to overbear his will, and of course, as noted, Miranda warnings had been given. Now, in that circumstance, what is it that makes respondent's statements involuntary in response to this promise of leniency? Not that... it was but-for cause. Brady tells us that that's not enough. Not that it was a promise of leniency. Fulminante made clear that statements in Bram suggesting that was enough were no longer good law. Not that there was any possibility that this would generate a false admission of guilt. This isn't a case, you know, confess and we'll release your spouse or your child. In fact, the only condition he had to meet was to tell the truth. Nor is there anything improper about the inducement that was offered in this case. It wasn't, as in Fulminante, talk and we'll save you from a beating."
+                },
+                {
+                    "start": 1481.884,
+                    "stop": 1484.653,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think the voluntariness issue is before us?"
+                },
+                {
+                    "start": 1484.653,
+                    "stop": 1499.225,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, I do. Well, assuming the Court disagrees with the exhaustion point... we haven't briefed the exhaustion point. WE have looked at the record. It does seem to us that voluntariness, the promise of leniency as opposed to Miranda--"
+                },
+                {
+                    "start": 1499.225,
+                    "stop": 1499.525,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 1499.525,
+                    "stop": 1507.414,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Was not raised in the State system on appeal, and therefore could be considered not to be exhausted, but if it is exhausted I do think--"
+                },
+                {
+                    "start": 1507.414,
+                    "stop": 1511.615,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, and isn't it also possible the State waived the exhaustion argument? I don't know, but--"
+                },
+                {
+                    "start": 1511.615,
+                    "stop": 1516.317,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The record's very ambiguous in the Sixth Circuit about whether there was a concession to that effect or not."
+                },
+                {
+                    "start": 1516.317,
+                    "stop": 1518.702,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Was it raised in the Federal district court?"
+                },
+                {
+                    "start": 1518.702,
+                    "stop": 1520.802,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The promise of leniency point was not."
+                },
+                {
+                    "start": 1520.802,
+                    "stop": 1524.606,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was the involuntariness point raised in the habeas court?"
+                },
+                {
+                    "start": 1524.606,
+                    "stop": 1530.374,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No. The habeas petition mentioned solely the failure to give Miranda warnings. The promise--"
+                },
+                {
+                    "start": 1530.374,
+                    "stop": 1534.212,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't that a possible obstacle to whether it's properly before us."
+                },
+                {
+                    "start": 1534.212,
+                    "stop": 1537.08,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the district court went on to reach it and decide it."
+                },
+                {
+                    "start": 1537.08,
+                    "stop": 1542.9,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the absence of anybody knowing that it was before it and having any opportunity to speak to it?"
+                },
+                {
+                    "start": 1542.9,
+                    "stop": 1560.112,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Exactly. There was no trial proceeding. The... it was mentioned at the suppression hearing in State court, and then I think not mentioned any further, and then it reemerged in the district court's opinion and that was the first point at which it resurfaced."
+                },
+                {
+                    "start": 1560.112,
+                    "stop": 1562.981,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that places it properly before us."
+                },
+                {
+                    "start": 1562.981,
+                    "stop": 1563.831,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, to--"
+                },
+                {
+                    "start": 1563.831,
+                    "stop": 1568.549,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, I think there's properly before us the question of whether it was validly reached, but--"
+                },
+                {
+                    "start": 1568.549,
+                    "stop": 1570.735,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, yes, but I think the Court can reach it--"
+                },
+                {
+                    "start": 1570.735,
+                    "stop": 1572.601,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--By being before it."
+                },
+                {
+                    "start": 1572.601,
+                    "stop": 1581.44,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--But the Court can reach it, since it was decided by the district court and by the court of appeals. Now, whether it was proper for the district court to reach it is a different question, and I think it--"
+                },
+                {
+                    "start": 1581.44,
+                    "stop": 1582.876,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Don't you think it's a question we have to consider?"
+                },
+                {
+                    "start": 1582.876,
+                    "stop": 1583.692,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, as well as--"
+                },
+                {
+                    "start": 1583.692,
+                    "stop": 1589.863,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, as well as then to judge the record that was made by a prosecution that had no notice that this issue was even going to be decided?"
+                },
+                {
+                    "start": 1589.863,
+                    "stop": 1594.35,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The issue did come in as a surprise in the district court opinion, yes. Thank you, Your Honor."
+                },
+                {
+                    "start": 1594.35,
+                    "stop": 1600.92,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Roberts. Mr. Waxman, we'll hear from you."
+                }
+            ],
+            "start": 985.479,
+            "stop": 1661.626
+        },
+        {
+            "turns": [
+                {
+                    "start": 1600.92,
+                    "stop": 1661.626,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Chief Justice Rehnquist, and may it please the Court: All four Federal judges who have considered this case have concluded that a writ of habeas corpus must issue in Mr. Williams' favor for two independent reasons. First, because the prosecution introduced at his trial as evidence of guilt statements Mr. Williams made in response to custodial police interrogation prior to receiving any Miranda warnings, and second, independently, because the prosecution also introduced at trial statements Mr. Williams made in response to custodial interrogation by... which were elicited by means which rendered them involuntary under the totality of the circumstances. Unless this Court overturns both of those rulings, a writ of habeas corpus must issue and Mr. Williams must be given a new trial. The Miranda issue in this case is simply whether the rule announced by this Court in Stone v. Powell should be extended to claims that a petitioner's rights under Miranda v. Arizona were violated."
+                },
+                {
+                    "start": 1661.626,
+                    "stop": 1666.962,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or whether we should adopt such a rule even if Stone v. Powell had never been decided."
+                },
+                {
+                    "start": 1666.962,
+                    "stop": 1676.151,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That... of course, you could adopt such a rule. That's not how the question is phrased. In... there... the first point I want to make is that there is no challenge in this Court--"
+                },
+                {
+                    "start": 1676.151,
+                    "stop": 1692.161,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I know, but I take it that if... say we thought that Stone v. Powell was completely different from this case, it would still be open to us to say but nevertheless we should say that the Miranda claims aren't open on habeas."
+                },
+                {
+                    "start": 1692.161,
+                    "stop": 1929.38,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Certainly, Your Honor, if this Court were to conclude that Federal courts had no jurisdiction to hear Miranda claims, it could and must reach such a conclusion. My first point is that there was no challenge, though... there is no challenge in this Court to any aspects of the merits of the Miranda rulings below, and in our view the rule announced in Stone v. Powell should not and cannot be applied to violations of Miranda's constitutional rules. The rights protected by the Fifth Amendment privilege against self-incrimination are so unlike those under the Fourth Amendment, and the relationship of Miranda to the privilege is so different than the relationship between Mapp and the Fourth Amendment, that the concerns that inform this Court's decision in Stone and, we submit, no other concerns counsel favoring extension of that rule to Miranda claims. Indeed, those factors counsel against extending the rule in Stone to Miranda. I'd like to briefly give the reasons why, and then explain in more detail why I say this. First, because in complete contrast to the Fourth Amendment exclusionary rule, Miranda is specifically designed to and does both prevent the constitutional violation from occurring and, if a violation does occur, it redresses the constitutional injury. Second, unlike Stone, which reduce the burden on Federal courts and friction with State courts by taking Federal courts completely out of the business of adjudicating the constitutionality of the admission of physical evidence, depriving Federal habeas courts of the power to adjudicate Miranda claims will produce no such result, and third, unlike the Fourth Amendment exclusionary rule, Miranda is not unrelated to fairness and reliability at trial. Before I elaborate on those three points, I would like to stress two points which I think are very fundamental in this case, one about Stone and one about Miranda. Stone v. Powell is not a decision about the scope of the habeas corpus statute, it is a decision about the scope of the judge-made exclusionary rule designed to reinforce the Fourth Amendment. Stone itself makes this very clear, and this important distinction is apparent and reiterated in all of this Court's subsequent decisions that have declined to extend Stone beyond the strict confines of the Fourth Amendment and with good reason, because Stone is bound up in the unique status of the Fourth Amendment exclusionary rule. With respect to Miranda, the contention that Miranda v. Arizona announced nothing more than nonconstitutional rules is wrong, and it critically obscures the issue in this case. We readily agree that one thing that Miranda v. Arizona did was to announce rules that are not required by the Constitution. The warnings themselves, for example, are not constitutionally required. Miranda says this, and that's what cases like California v. Prysock and Duckworth v. Eagan are about. Similarly, the mere occurrence of unwarned custodial interrogation absent a use of the statements as evidenced at chief... at trial, while decried by Miranda, does not amount to a constitutional violation because the statements haven't been used against the defendant as testimony. This is the precise teaching of this Court's decisions in Michigan v. Tucker and Oregon v. Elstad. These types of Miranda violations are not at issue in this case. They're not currently enforced on habeas corpus. They're not enforced against the States at all. What is at issue in this case--"
+                },
+                {
+                    "start": 1929.38,
+                    "stop": 1934.267,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me, how are they ever enforced outside of habeas corpus?"
+                },
+                {
+                    "start": 1934.267,
+                    "stop": 1942.104,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--They... excuse me, I... they could... they are not enforced, for example, on direct appeal to this Court from a State conviction."
+                },
+                {
+                    "start": 1942.104,
+                    "stop": 1955.864,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yeah, I mean, I don't understand how they are ever enforced unless a non-Mirandized confession is sought to be admitted. The fact that you get a confession without Mirandizing is cost-free, right?"
+                },
+                {
+                    "start": 1955.864,
+                    "stop": 1956.147,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1956.147,
+                    "stop": 1959.066,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's not enforced in any forum, neither habeas or elsewhere."
+                },
+                {
+                    "start": 1959.066,
+                    "stop": 1971.374,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's not enforced because under Miranda and under this Court's decisions interpreting Miranda it doesn't announce a constitutional rule. It announces rules that there are good reasons for police to follow."
+                },
+                {
+                    "start": 1971.374,
+                    "stop": 1975.344,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, but my point is that habeas is not distinctive in that regard."
+                },
+                {
+                    "start": 1975.344,
+                    "stop": 2057.879,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "And that's precisely my point, too, Justice Scalia. Those kinds of Miranda violations, like the violations at issue in Eagan and Tucker and Elstad are not at issue in any court. What is at issue here is something fundamentally different, because in addition to these nonconstitutional prophylactic rules, Miranda v. Arizona announced both a fundamental constitutional principle under the self-incrimination clause and a prophylactic rule that this Court said was necessary to protect that right, and if I could just go through both of those briefly, I think it would at least point up my understanding of what's at issue in this case when you are asked to apply Stone v. Powell to Miranda claims. Whatever nonconstitutional rules Miranda announced, it also unambiguously holds that a suspect in custodial interrogation has a fundamental self-executing right to remain silent. That is, to say nothing that the prosecution can use against him as evidence of guilt at trial. Now, that right, Miranda says, under the self-incrimination clause, can be waived, but only if the suspect understands the right and understands the consequences of waiving it. That fundamental right was--"
+                },
+                {
+                    "start": 2057.879,
+                    "stop": 2062.347,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think it violates the Fifth Amendment to make him speak?"
+                },
+                {
+                    "start": 2062.347,
+                    "stop": 2069.937,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It violates the Fifth Amendment to make him speak in custodial interrogation if he doesn't understand that--"
+                },
+                {
+                    "start": 2069.937,
+                    "stop": 2075.304,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I thought the Fifth Amendment was violated only by the introduction of the evidence."
+                },
+                {
+                    "start": 2075.304,
+                    "stop": 2095.068,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that's the... the holding I... this Court's jurisprudence is that the amendment itself is only violated once the statement is used. Your Honor is absolutely correct, and I misspoke. In Michigan v. Tucker, that's the reason why there wasn't a constitutional violation, but it does say that in the station house--"
+                },
+                {
+                    "start": 2095.068,
+                    "stop": 2102.322,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, he has a right not... you say he has an unqualified right to remain silent under the Constitution, does he?"
+                },
+                {
+                    "start": 2102.322,
+                    "stop": 2113.946,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's not accurate. I mean, this Court frequently says it. What it means is, you have an unqualified right not to make statements that the prosecution can use against you as evidence of guilt at trial."
+                },
+                {
+                    "start": 2113.946,
+                    "stop": 2114.28,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 2114.28,
+                    "stop": 2177.722,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Now, that can be waived, but it can only be waived, this Court has held many times, if you know you have that right and you understand the consequences of it, and that right, interestingly, was violated in this case, because there is no evidence in this record whatsoever that prior to his receipt of the warnings Mr. Williams understood and intelligently waived his right not to make statements that could be used against him. Now, the district... the lower courts, of course, did not base their ruling on that finding, because they didn't need to, because to protect that constitutional right under the self-incrimination clause, Miranda holds that because warnings or their equivalents are necessary to ensure that a suspect understands his rights and the consequences of waiving it, and to overcome the compulsion that's inherent in custodial interrogation, therefore the prosecution cannot, consistent with the privilege, use any unwarned statements it made in response to custodial interrogation as evidence in chief at trial. That's--"
+                },
+                {
+                    "start": 2177.722,
+                    "stop": 2183.507,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "He had been Mirandized before in other... after other arrests, is that right?"
+                },
+                {
+                    "start": 2183.507,
+                    "stop": 2184.742,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, the record--"
+                },
+                {
+                    "start": 2184.742,
+                    "stop": 2193.248,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I mean, I don't find it very persuasive that he'd been tricked into confessing when he's been Mirandized on other occasions."
+                },
+                {
+                    "start": 2193.248,
+                    "stop": 2230.857,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The record on that issue is very, very sparse. There is a very short colloquy that's reported in the Joint Appendix where he's asked by the prosecutor in the suppression hearing, you've been arrested before, and he says yes, and the prosecutor says you understood these rights, and he said well, I've heard some of them, and the prosecutor says, in fact you know what they are, and he says no, I don't. But remember that as this Court reiterated in Colorado v. Connolly, this is a burden that the prosecution has. I submit that there is no way... if the Court below had to reach this issue, there's no way that any court could find that the State carried its burden, but what's at issue in this case is--"
+                },
+                {
+                    "start": 2230.857,
+                    "stop": 2235.892,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, the State courts must have found that the State carried the burden--"
+                },
+                {
+                    "start": 2235.892,
+                    "stop": 2236.844,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I--"
+                },
+                {
+                    "start": 2236.844,
+                    "stop": 2238.944,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Because they affirmed the conviction."
+                },
+                {
+                    "start": 2238.944,
+                    "stop": 2245.617,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The State court did affirm the conviction. The trial court found that there was no Fifth Amendment violation."
+                },
+                {
+                    "start": 2245.617,
+                    "stop": 2250.235,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, they... that's a finding that the State carried its burden, surely."
+                },
+                {
+                    "start": 2250.235,
+                    "stop": 2282.872,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, it's a conclusion of law, I suppose. My point, Mr. Chief Justice, is that the fundamental... the core constitutional right was not litigated in this case at all, I admit that. He didn't come in and say look, I didn't knowingly voluntarily and intelligently waive, because he didn't have to. All he said is, I was interrogated for 45 minutes without receiving any Miranda warnings, and the question in this case is, are Federal courts going to hear that kind of claim? That's the only thing that was ruled."
+                },
+                {
+                    "start": 2282.872,
+                    "stop": 2284.106,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "A straight Miranda claim, so to speak."
+                },
+                {
+                    "start": 2284.106,
+                    "stop": 2341.726,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "A straight Miranda claim, but nonetheless the kind of Miranda claim that this Court has held over and over and over again is one that is required by the Constitution. It's require... in Estelle v. Smith, Chief Justice Burger, speaking for the Court, stated the Fifth Amendment privilege is directly involved here because the State used as evidence of guilt the substance of the defendant's disclosures during the pre-trial psychiatric examination. In Edwards v. Arizona, Justice White, speaking for the Court, said the use of Edward's confession against him violated his rights under the Fifth and Fourteenth Amendments as construed in Miranda. In Orozco v. Texas, this Court held that use of custodial admissions obtained in the absence of the required warnings is a flat violation of the self-incrimination clause of the Fifth Amendment as construed in Miranda."
+                },
+                {
+                    "start": 2341.726,
+                    "stop": 2348.646,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Orozco has been limited by later cases, hasn't it?"
+                },
+                {
+                    "start": 2348.646,
+                    "stop": 2578.896,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I'm not sure, Mr. Chief Justice. If it were, I suppose Orozco stands... to the extent that it stands for anything novel, it stands for the proposition that one can be in custody outside the station house. It was the first case that so applied it. One might question whether on the facts Mr. Orozco was in fact in custody, although I certainly would argue that he was. He was awakened by a number of police officers at 4:00 in the morning in his... asleep in his home, but that statement of Orozco, as I think the quotes that I've just provided to the Court from Estelle and Edwards, and there are many other cases, does remain good constitutional doctrine. In fact, in Elstad itself, this Court distinguished its prior decision in United States v. Harrison on the ground that there, quote, the prosecution had actually violated the defendant's Fifth Amendment rights by introducing the confessions at trial. In other words, what's at issue in this case, unlike Eagan and Tucker and Elstad, is the violation of a constitutional right, or at the very least, a rule that this Court has repeatedly emphasized is required by the Constitution, and the question is, can this rule be analogized to Stone? We submit that not a single one of the factors that motivated this Court's decision in Stone to restrict the scope of the Fourth Amendment exclusionary rule, counsels that result in this kind of a Miranda violation. First of all, the foundation for Stone was the recognition by this Court in many, many cases following Mapp, that the Fourth Amendment exclusionary rule was not a personal, constitutional right or a personal right of the defendant because it can neither prevent the Fourth Amendment violation from occurring, nor can it redress the Fourth Amendment injury that the defendant has suffered. Rather, as Justice O'Connor explained in her concurring opinion in Duckworth v. Eagan, the Fourth Amendment exclusionary rule is a structural device designed to promote sensitivity to constitutional values through its deterrent effect. It's a constitutional rule, but it's constitutionally required where and only to the extent empirically it serves the function of general deterrence. In instances where there is no empirical basis for the rule, for example, where the police are acting in good faith, as this Court held in Illinois v. Krull and United States v. Leon and Janis, the rule simply does not exist. It doesn't extend that far. And that's what this Court decided in Stone. In Stone, this Court concluded that since the deterrent effect, quote, if any, of applying that deterrent rule in collateral proceedings is negligible at best and the societal costs of enforcing it on Federal collateral proceedings substantial, therefore this Court held that this judicially created deterrent remedy simply doesn't include resort to Federal habeas courts. Now, Miranda is totally different from that on every score. In the first place, unlike the Fourth Amendment, which has nothing whatsoever to do with trials, the Fifth Amendment self-incrimination clause is first and foremost a trial right. The very purpose of the clause is to protect against the introduction at trial of compelled statements of the defendant. Indeed, unlike the Fourth Amendment, which is violated by an unreasonable search regardless of whether a trial ever occurs, no violation of the Fifth Amendment self-incrimination clause is ever completed."
+                },
+                {
+                    "start": 2578.896,
+                    "stop": 2617.421,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, Mr. Waxman, if what is really driving the Miranda requirement of certain warnings is a concern about voluntariness of the statement before it's offered at trial, why shouldn't the focus on habeas go to that question rather than to some technical question of whether certain magic words were articulated? Why isn't it better that we focus on habeas, on the real issue, rather than some peripheral issue?"
+                },
+                {
+                    "start": 2617.421,
+                    "stop": 2643.452,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, Justice O'Connor, I have two answers, and I hope I'll be able to remember both of them. The first one, and the less substantive one, is I don't believe it is in this Court's power to decide which constitutional claims are better to reach and which aren't. This Court could decide, as it did in Stone, that there simply is no Fourth Amendment claim that a petitioner--"
+                },
+                {
+                    "start": 2643.452,
+                    "stop": 2652.058,
+                    "speaker": {
+                        "name": "Sandra Day O'Connor",
+                        "ID": 15092,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Wait a minute. Do you take the position that the Miranda warning in all its technicality is constitutionally mandated?"
+                },
+                {
+                    "start": 2652.058,
+                    "stop": 2750.571,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, and perhaps I wasn't clear enough. The warnings themselves, and even the prohibition against unwarned interrogation, is not constitutional. What is constitutional is the rule that the introduction of an unwarned statement at trial violates the Constitution. Now, the other answer I have to Your Honor and the more substantive answer I have is that what Miranda v. Arizona stands for is the proposition that the self-incrimination clause imposes a standard different than and in addition to the voluntariness standard. Under the self-incrimination clause, it is not simply enough to show that a defendant's statement was voluntary. If that were the case, there would have been no point in ever applying the self-incrimination clause to the States in the first place, because the voluntariness test has always adhered in the Fourteenth Amendment and in the Fifth Amendment itself. Instead, the self... what Miranda holds is that the self-incrimination clause, a) applies in the station house and b) require... allows a suspect in custody the privilege not to make any statements that can be used against him as evidence of guilt at trial unless he knowingly and voluntarily waives that right, and I submit that this Court's decision in Miranda v. Arizona is replete with references to the fact that of course these cases would not have been otherwise decided if the only issue was voluntariness, and--"
+                },
+                {
+                    "start": 2750.571,
+                    "stop": 2753.273,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, we're not bound by all the dicta in Miranda, surely."
+                },
+                {
+                    "start": 2753.273,
+                    "stop": 2824.471,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, no, and I... but I don't think that that is dicta in Miranda. In fact, I think if one examines Justice Harlan's dissent in Miranda, one can see very clearly that certainly he understood that the Court was announcing a constitutional principle. If I could just quote the beginning of Justice Harlan's dissent, having decided that the Fifth Amendment privilege does apply in the police station, the Court reveals that the privilege imposes more exacting restrictions than does the Fourth Amendment's voluntariness test. It then emerges that the Fifth Amendment requires for an admissible confession that it be given by one distinctly aware of his right not to speak, and shielded from the compelling atmosphere of interrogation. From these key premises, the Court develops the safeguards of warnings counsel and so forth. Similarly, this Court in Michigan v. Tucker stated, before Miranda, the principal issue in these cases was not whether a defendant had waived his privilege against self-incrimination, but simply whether his statement was voluntary, so--"
+                },
+                {
+                    "start": 2824.471,
+                    "stop": 2831.725,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Waxman, but surely the exclusionary rule is a constitutional rule."
+                },
+                {
+                    "start": 2831.725,
+                    "stop": 2832.708,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Surely."
+                },
+                {
+                    "start": 2832.708,
+                    "stop": 2837.66,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And yet we have drawn the line on habeas with respect to that--"
+                },
+                {
+                    "start": 2837.66,
+                    "stop": 2838.093,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 2838.093,
+                    "stop": 2864.66,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--And how can you square that with your earlier assertion that we have no power or no right to make a distinction between various constitutional rules? Now, what you say is well, we did it in Stone on the basis of the purpose of the constitutional rule, and we can't do it here on the basis of the purpose. Perhaps that's so, but that does not establish that we can't do it here on some other basis."
+                },
+                {
+                    "start": 2864.66,
+                    "stop": 2994.991,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, yeah, Justice Scalia, the... when I agree with your statement that the exclusionary rule is a constitutional rule, let me make sure that you and I both agree on all... what I understand to be the premises of that statement. The Fifth Amendment self-incrimination clause itself is an exclusionary rule. In addition to that, it's quite clear, it seems to me, under the core Fifth Amendment right, that if Mr. Williams came to this Court and said, look, those statements were taken from me, I had... with no knowledge whatsoever that I had a right to remain silent or they could be used against me, and the State agreed with that. The Fifth Amendment itself, without reference to any prophylactic rule, would require, by its own operation of law, that those statements be excluded. Now, Miranda also applies an exclusionary rule which does sweep somewhat more broadly, because in some indeterminate number of cases there are people whose statements... unwarned statements are introduced, and in fact it was a law professor who teaches constitutional law and was not at all coerced and made a deliberate decision to waive his rights and try and talk his way out of it, but constitutional law is filled with prophylactic rules like that. Indeed, it would be impossible for the courts to give meaning to the core principles of the Constitution without access to prophylactic rules like this. Now, the reason that I'm saying in this particular case... let me not take on the burden yet of all prophylactic rules in the Constitution... with respect to this case, the fundamental reason why what this Court did in Stone should not and cannot be done here is that in Stone this Court was not dealing with an exclusionary rule that represented the personal right of the defendant in any way. It was a rule that was designed because over the course of years this Court threw up its hands and said, there has to be some way to make... to enforce respect for the Fourth Amendment."
+                },
+                {
+                    "start": 2994.991,
+                    "stop": 3006.648,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that may well be, but it was surely his constitutional right at trial in the State court before habeas... it was his constitutional right to have that evidence excluded."
+                },
+                {
+                    "start": 3006.648,
+                    "stop": 3007.215,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It was a--"
+                },
+                {
+                    "start": 3007.215,
+                    "stop": 3011.285,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Did he not have a constitutional right to have it excluded?"
+                },
+                {
+                    "start": 3011.285,
+                    "stop": 3021.358,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The Constitution required that it be excluded. I don't think one can read this Court's decisions in Calandra and Elkins and Linkletter as saying that it was his right. I think that--"
+                },
+                {
+                    "start": 3021.358,
+                    "stop": 3022.941,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It was not his right. Somebody else could have asserted it."
+                },
+                {
+                    "start": 3022.941,
+                    "stop": 3033.48,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--He can assert it, but those... this Court was careful to emphasize throughout, and it certainly emphasized in Stone, that it was a constitutional right, otherwise it could not have been applied--"
+                },
+                {
+                    "start": 3033.48,
+                    "stop": 3033.749,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 3033.749,
+                    "stop": 3034.165,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--To the States--"
+                },
+                {
+                    "start": 3034.165,
+                    "stop": 3034.549,
+                    "speaker": {
+                        "name": "unspecified",
+                        "ID": "xxxxxxx",
+                        "role": "inferred",
+                        "side": "inferred"
+                    },
+                    "text": "Right."
+                },
+                {
+                    "start": 3034.549,
+                    "stop": 3040.319,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But it was not one that either prevented the Fourth Amendment injury from occurring or redressed it in any way."
+                },
+                {
+                    "start": 3040.319,
+                    "stop": 3068.47,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I understand that, but all we're saying then... I think... I guess we're in agreement that you can, on habeas, enforce... decide that because of the nature of habeas some constitutional rights need not be enforced. Thereafter, the disagreement is over whether the reasons for enforcing it here are as... for not enforcing it here are as justifiable as the reasons for not enforcing it in Stone."
+                },
+                {
+                    "start": 3068.47,
+                    "stop": 3069.172,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "With all--"
+                },
+                {
+                    "start": 3069.172,
+                    "stop": 3089.066,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And Mr. Waxman, it seems to me that when you have a... before Stone, what you were doing when you had a Fourth Amendment issue before you, you were really asking in most of the cases whether or not there had been a violation of the Fourth Amendment."
+                },
+                {
+                    "start": 3089.066,
+                    "stop": 3089.699,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes, that's correct."
+                },
+                {
+                    "start": 3089.699,
+                    "stop": 3092.651,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Namely, whether there had been an unreasonable search or seizure."
+                },
+                {
+                    "start": 3092.651,
+                    "stop": 3093.301,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 3093.301,
+                    "stop": 3105.292,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that was the issue in most of the cases, and yet in Stone we said that you needn't face... decide that constitutional... and that is a personal right that they were deciding--"
+                },
+                {
+                    "start": 3105.292,
+                    "stop": 3105.809,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, I--"
+                },
+                {
+                    "start": 3105.809,
+                    "stop": 3106.592,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--In those cases."
+                },
+                {
+                    "start": 3106.592,
+                    "stop": 3112.045,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--With all due respect to both of you, and I say this with great trepidation. First of all, Justice Scalia--"
+                },
+                {
+                    "start": 3112.045,
+                    "stop": 3115.73,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Don't worry. Don't worry, we-- [Laughter]"
+                },
+                {
+                    "start": 3115.73,
+                    "stop": 3117.949,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't want you to go back and say bad things about me."
+                },
+                {
+                    "start": 3117.949,
+                    "stop": 3124.103,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No hard feelings, Mr. Waxman. Go on, let us have it. [Laughter]"
+                },
+                {
+                    "start": 3124.103,
+                    "stop": 3167.946,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Very well, Your Honor. [Laughter] Please do not let me be misunderstood on this very critical point. I do not agree with you that this Court can decide that some constitutional rules can be enforced on habeas corpus and some can't. I disagree with you on that point most... more vociferously than anything else in this case. What this Court said in Stone is not that. What this Court said in Stone is, the Fourth Amendment exclusionary rule doesn't exist in habeas corpus, just as in those direct review cases like Leon it said it doesn't exist where there's good faith reliance. As a result of Stone v. Powell, there is no right to apply."
+                },
+                {
+                    "start": 3167.946,
+                    "stop": 3174.369,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So if we're to rule against you here, we would have to say that Miranda doesn't exist on Federal habeas."
+                },
+                {
+                    "start": 3174.369,
+                    "stop": 3175.819,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's correct."
+                },
+                {
+                    "start": 3175.819,
+                    "stop": 3183.474,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I mean, you know, there are arguments pro and con, but I don't see that it turns on the particular phraseology."
+                },
+                {
+                    "start": 3183.474,
+                    "stop": 3196.665,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Oh, I agree, Your Honor, and if it turned on the particular phraseology I would have become a bunch of noodles. My mind would have disintegrated a long time ago reading all this Court's and the lower court's habeas Miranda jurisprudence."
+                },
+                {
+                    "start": 3196.665,
+                    "stop": 3201.2,
+                    "speaker": {
+                        "name": "Byron R. White",
+                        "ID": 15071,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do you think we feel? [Laughter]"
+                },
+                {
+                    "start": 3201.2,
+                    "stop": 3235.856,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If I had the opportunity to switch places with you, Justice White, I would. My-- [Laughter] My point... but this is serious. My point, Mr. Chief Justice, is that this is a case in which one cannot dismiss Miranda v. Arizona as dicta, or as merely announcing nonconstitutional rules. Miranda announces something, a sacred and fundamental self-executing right under the self-incrimination clause, and that's why this case is different."
+                },
+                {
+                    "start": 3235.856,
+                    "stop": 3241.51,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but that self-executing right can be enforced without Miranda, you will agree with that, won't you?"
+                },
+                {
+                    "start": 3241.51,
+                    "stop": 3256.619,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It could be enforced without Miranda, but this Court in Miranda held that there was every good reason not to. I mean, one can say that every fundamental right, maybe, somehow could be enforced without access to a rule of application."
+                },
+                {
+                    "start": 3256.619,
+                    "stop": 3289.175,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, this one could be enforced... for example, if you go beyond voluntariness to waiver of the privilege against self-incrimination this could be enforced simply by saying, we will examine every question of the... every issue on admissibility of a confession to try to determine whether he was aware of his Fifth Amendment right and hence his speaking could be construed as waiving it. We can do... that may be a very awkward inquiry, but we can do it without having a Miranda ruling."
+                },
+                {
+                    "start": 3289.175,
+                    "stop": 3315.225,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's so awkward that this Court explicitly held in Miranda that, because it is so impossible to determine what actually went on in the station house and because it is so impossible for courts after the fact to gauge the amount of coercion or compulsion of the atmosphere, that it heeded its own words and plea in Culombe v. Connecticut and announced this rule. Of course, one could say--"
+                },
+                {
+                    "start": 3315.225,
+                    "stop": 3323.831,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But isn't it equally impossible to enforce the Fourth Amendment without an exclusionary rule? Everybody knows that tort remedy doesn't work."
+                },
+                {
+                    "start": 3323.831,
+                    "stop": 3328.818,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I submit that is a completely different question, but because when one is, quote, enforcing--"
+                },
+                {
+                    "start": 3328.818,
+                    "stop": 3330.385,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but isn't the answer the same?"
+                },
+                {
+                    "start": 3330.385,
+                    "stop": 3330.852,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No, it's not--"
+                },
+                {
+                    "start": 3330.852,
+                    "stop": 3335.388,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sure. You can't enforce the Fourth Amendment effectively without the exclusionary rule, can you?"
+                },
+                {
+                    "start": 3335.388,
+                    "stop": 3406.382,
+                    "speaker": {
+                        "name": "Seth P. Waxman",
+                        "ID": 42213,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think that there is great cause to question whether the exclusionary rule causes it to be enforced, period, one in which this Court has held many times, but it is a fundamental of the Fifth Amendment self-incrimination clause that it includes an exclusionary rule. If I could just say one word, please, if I have time, about the exhaustion point, because I want to make sure that the Court is clear at least on what my position is. Our position is that the exhaustion claim raised in this Court should not be considered, because it is the end game of a deliberate strategy of the State to sandbag the Federal courts in violation of what this Court in Granberry v. Greer said should not be allowed to happen. The prosecutor is now stating that... at oral argument it's clear that the State invited the court of appeals to overlook the exhaustion argument without making any distinction whatsoever in its briefs or in oral argument between Miranda involuntariness, and the court of appeals explicitly found that at oral argument the exhaustion position had been effectively conceded by the State. That-- Thank you."
+                },
+                {
+                    "start": 3406.382,
+                    "stop": 3411.12,
+                    "speaker": {
+                        "name": "William H. Rehnquist",
+                        "ID": 15141,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Waxman. Mr. Caminsky, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3411.12,
+            "stop": 3514.15
+        }
+    ]
+}

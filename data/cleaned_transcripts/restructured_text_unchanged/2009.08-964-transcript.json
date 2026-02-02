@@ -1,0 +1,2231 @@
+{
+    "title": "Bilski v. Kappos",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 7.287,
+                    "stop": 89.324,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The Federal Circuit's rigid and narrow machine-or-transformation test for all patent-eligible methods should be reversed. The requirement that any and all methods must be either tied to a particular machine or transform specific subject matter doesn't find any basis in either the language of section 101 or anywhere in the patent statute. It's not required by this Court's precedence, and it's contrary to the established principle that section 101 should be read broadly to accommodate unforeseen advances in the useful arts. There are recognized exclusions from section 101, from that broad language, such as laws of nature, natural phenomenon, and abstract ideas. Those may not be patented. But these exceptions, which are drawn from the Court's precedent, including this Court's Diehr case, also find support in the statutory language, which says that any process must be new and useful. So the prohibition against patenting laws of nature or abstract principles -- it applies equally to all four categories of subject matter under 101, but, here, the Federal circuit has created a new test just for processes that are not found in the statute or required by this Court's decisions--"
+                },
+                {
+                    "start": 89.324,
+                    "stop": 136.555,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of course, the government says that the -- that the term on which it hangs its hat is the term \"useful arts\" and that that meant, originally, and still means manufacturing arts, arts dealing with workmen, with -- you know, inventors, like Lorenzo Jones, not -- not somebody who writes a book on how to win friends and influence people. What's wrong with that analysis, that that's what \"useful arts\" meant, that it always -- always was thought to deal with machines and inventions?"
+                },
+                {
+                    "start": 136.555,
+                    "stop": 166.324,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Certainly, \"useful arts\" encompasses industrial processes, manufacturing processes, but it has never been limited just to those types of processes. I'll admit that during the Industrial Revolution most of the inventions concerned machines and manufacturing processes. But we have cited counter-examples that show that business was also within the useful arts. It's also up to Congress to decide how to implement the patent system and the statutory scheme--"
+                },
+                {
+                    "start": 166.324,
+                    "stop": 191.105,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if you leave something out, Congress can put it back in, tailoring the protection to what they feel is necessary. But if it covers everything under the sun, I've never seen a case where Congress would take something out. Now, if we are relying on Congress, I guess the circuit would say, let's go narrow, and we won't have -- you know -- since you referred to Congress, I thought I would bring that up and see what you think."
+                },
+                {
+                    "start": 191.105,
+                    "stop": 214.305,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Congress has acted in certain circumstances. One of them is in section 273, to provide prior user rights for business methods. Another area is 287(c), where medical activities are also exempted from remedies under the statute. There has been a bill introduced to exempt tax avoidance methods, but that has not yet been passed."
+                },
+                {
+                    "start": 214.305,
+                    "stop": 239.086,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But just so you would say tax avoidance methods are covered, just as the process here is covered. So an estate plan, tax avoidance, how to resist a corporate takeover, how to choose a jury, all of those are patentable?"
+                },
+                {
+                    "start": 239.086,
+                    "stop": 244.757,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They are eligible for patenting as processes, assuming they meet the other statutory requirements--"
+                },
+                {
+                    "start": 244.757,
+                    "stop": 285.096,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So that would mean that every -- every businessman -- perhaps not every, but every successful businessman typically has something. His firm wouldn't be successful if he didn't have anything that others didn't have. He thinks of a new way to organize. He thinks of a new thing to say on the telephone. He thinks of something. That's how he made his money. And your view would be -- and it's new, too, and it's useful, made him a fortune -- anything that helps any businessman succeed is patentable because we reduce it to a number of steps, explain it in general terms, file our application, granted?"
+                },
+                {
+                    "start": 285.096,
+                    "stop": 286.929,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It is potentially patentable, yes."
+                },
+                {
+                    "start": 286.929,
+                    "stop": 315.246,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well then, if that were so, we go back to the original purpose of the Constitution. Do you think that the Framers would have wanted to require anyone successful in this great, vast, new continent because he thinks of something new to have had to run to Washington and to force any possible competitor to do a search and then stop the wheels of progress unless they get permission? Is that a plausible view of the patent clause?"
+                },
+                {
+                    "start": 315.246,
+                    "stop": 319.881,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. I wouldn't characterize it that way, but I do believe that--"
+                },
+                {
+                    "start": 319.881,
+                    "stop": 346.281,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So how do we limit it to something that's reasonable? Meaning, if we don't limit it to inventions or to technology, as some amici have, or to some tie or tether, borrowing the Solicitor General's phraseology, to the sciences, to the useful arts, then why not patent the method of speed dating?"
+                },
+                {
+                    "start": 346.281,
+                    "stop": 368.544,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, first of all, I think, looking at what are useful arts, it does exclude some things. It does exclude the fine arts. Speaking, literature, poems -- I think we all agree that those are not included, and there are other things as well. For example, a corporation, a human being -- these are things that are not covered by the statutory categories--"
+                },
+                {
+                    "start": 368.544,
+                    "stop": 371.496,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So why are human activities covered by useful arts?"
+                },
+                {
+                    "start": 371.496,
+                    "stop": 373.329,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Human activities are covered."
+                },
+                {
+                    "start": 373.329,
+                    "stop": 377.048,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you are saying they are covered, but why should they be?"
+                },
+                {
+                    "start": 377.048,
+                    "stop": 401.432,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe the statute provides for them to be covered by defining them as a process. I can give you a -- one good example, which would be a surgical method performed by a doctor. Those are patentable. They are patent eligible. In section 287(c), Congress has carved out and said, you can't go after the doctor for infringement, but that is an entirely human activity, and it has long been patentable."
+                },
+                {
+                    "start": 401.432,
+                    "stop": 417.857,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you think that there is some benefit to society from patenting a method to cure someone that involves just human activity, as opposed to some machine, substance, or other apparatus to help that process?"
+                },
+                {
+                    "start": 417.857,
+                    "stop": 418.857,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 418.857,
+                    "stop": 421.44,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you believe that that was the intent of the patent law?"
+                },
+                {
+                    "start": 421.44,
+                    "stop": 443.722,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I believe that falls within the useful arts, and I believe that there is an advantage to that. There are really two advantages to the patent system. One is encouraging people to come up with new things, such as a surgical method or a method of hedging consumption risk. The other is the disclosure aspect. A doctor might choose to keep it secret."
+                },
+                {
+                    "start": 443.722,
+                    "stop": 463.517,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you are going to answer this question yes. You know, I have a great, wonderful, really original method of teaching antitrust law, and it kept 80 percent of the students awake. They learned things-- [Laughter] It was fabulous. And I could probably have reduced it to a set of steps, and other teachers could have followed it. That you are going to say is patentable, too?"
+                },
+                {
+                    "start": 463.517,
+                    "stop": 464.25,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Potentially."
+                },
+                {
+                    "start": 464.25,
+                    "stop": 483.778,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Fine. Now, suppose I reject that view, hypothetically, and suppose I were to take the view that this is way too far, that that's not the purpose of the statute. Suppose for hypothetical's sake I'm still a little nervous about that -- that circuit's decision there. Have you any suggestion for me?"
+                },
+                {
+                    "start": 483.778,
+                    "stop": 498.771,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that we should go back to the first principles that were enunciated in Diehr and other cases, that abstract ideas per se are not patentable. That's my position, and what I would advocate in this case and in any case, as long as you're--"
+                },
+                {
+                    "start": 498.771,
+                    "stop": 538.877,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What -- I'm looking at your claim 1, in Joint Appendix page 19 to 20. How is that not an abstract idea? You initiate a series of transactions between commodity providers and commodity consumers. You set a fixed price at the consumer end, you set a fixed price at the other end, and that's it. I mean, I could patent a process where I do the same thing. I initiate a series of transactions with sellers. I initiate a series of transactions with buyers. I buy low and sell high. That's my patent for maximizing wealth. I don't see how that's different than your claim number 1."
+                },
+                {
+                    "start": 538.877,
+                    "stop": 547.082,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--If that was a novel and unobvious method, then it should be patentable, but it's eligible as subject matter--"
+                },
+                {
+                    "start": 547.082,
+                    "stop": 554.403,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but your claim 1 it seems to me is classic commodity hedging that has been going on for centuries."
+                },
+                {
+                    "start": 554.403,
+                    "stop": 565.294,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, if that were true, then we should run afoul of the obviousness provision under section 103. Now, the Patent Office did initially allow some of our claims over the prior art."
+                },
+                {
+                    "start": 565.294,
+                    "stop": 611.053,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But you know that the insurance industry -- the insurance business, as we know it, really began in England in 1680, when they discovered differential calculus, and they had expectancy and actuarial tables, actuarial for life expectancy for shipping, and this really created a whole new industry. In your view, I think, clearly those would be patentable, the -- the explanation of how to compile an actuarial table and -- and apply it to risk. That certainly would be patentable under your view, and it's -- it's difficult for me to think that Congress would want to -- would have wanted to give only one person the capacity to issue insurance."
+                },
+                {
+                    "start": 611.053,
+                    "stop": 635.482,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that method would be patent eligible. But, as you said, it would have to be reduced to a concrete set of steps, like our claim 1. Now, claim 1 may be written in broad terms, and it may some day run into the prior art, but it does require people to do actual things. I think even the Patent Office agreed that there are physical steps in our method here. And in the insurance method--"
+                },
+                {
+                    "start": 635.482,
+                    "stop": 645.088,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What -- I'm sorry. Just -- what are the physical steps? Initiating a series of transactions between commodity provider and market participants?"
+                },
+                {
+                    "start": 645.088,
+                    "stop": 645.671,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That would be one."
+                },
+                {
+                    "start": 645.671,
+                    "stop": 652.592,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You get on the phone and you call the baker, and you get on the phone and you call the grocer and say: I can set up a deal for both of you."
+                },
+                {
+                    "start": 652.592,
+                    "stop": 658.579,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It could be. It could be done that way because it does take a person acting to do that. It's not purely--"
+                },
+                {
+                    "start": 658.579,
+                    "stop": 669.619,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so in the insurance case, it takes a person to go over to the Bureau of Statistics and compile statistics on -- on life -- on life expectancy."
+                },
+                {
+                    "start": 669.619,
+                    "stop": 700.321,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That could be. Now, a patent on the data -- that's another category that's not included in the subject matter of those four categories. The data itself is not patentable, but if it is a series of steps, it should be eligible as long as it meets the other statutory requirements as a process. There's nothing in the useful arts -- now, we have heard the word \"technology\". That can be a difficult term, because \"technology\" in its broadest sense means the application of knowledge as opposed to general knowledge--"
+                },
+                {
+                    "start": 700.321,
+                    "stop": 732.024,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't that the basis on which the patent law rests in Europe, in other countries? They do not permit business method patents. It has to be tied to technology, to science or technology. So if other systems are able to work with the notion of technology-based, why not ours?"
+                },
+                {
+                    "start": 732.024,
+                    "stop": 741.648,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I would agree, Your Honor. There are those systems that do have a requirement like that. Ours does not. Ours speaks in very broad terms about any--"
+                },
+                {
+                    "start": 741.648,
+                    "stop": 0,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I was talking about -- you said that technology-based, that wouldn't work because there are so many definitions. I'm simply asking you the question: Does it work in these other systems? That they -- they exclude business methods, they include technology-based innovations."
+                },
+                {
+                    "start": 0,
+                    "stop": 783.206,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That's right. But they have also defined \"technology\" in such a way as to exclude business methods. And I don't think we can do that. The fields of operations research, industrial engineering, even financial engineering -- there has been an explosion in these particular fields, and to now call them non-technological because they didn't exist over 100 years ago wouldn't make--"
+                },
+                {
+                    "start": 783.206,
+                    "stop": 786.975,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Are you suggesting they didn't exist because we didn't give them patents 100 years ago?"
+                },
+                {
+                    "start": 786.975,
+                    "stop": 787.843,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No."
+                },
+                {
+                    "start": 787.843,
+                    "stop": 793.462,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or they exist because computers have increased--"
+                },
+                {
+                    "start": 793.462,
+                    "stop": 804.353,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It's very much related to our current economy and state of technology, with computers and the Internet and the free flow of information. But that's what--"
+                },
+                {
+                    "start": 804.353,
+                    "stop": 818.994,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--No, but a patent limits the free flow of information. It requires licensing fees and other steps, legal steps. So you can't argue that your definition is improving the free flow of information."
+                },
+                {
+                    "start": 818.994,
+                    "stop": 837.324,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Your Honor, I would, because of the disclosure requirement of the patent laws. It requires people to disclose their inventions rather than keeping them secret, so there is a second benefit to the patent system just other than encouraging people to invent, and that is to have that information get to the public generally. And in exchange for that--"
+                },
+                {
+                    "start": 837.324,
+                    "stop": 842.026,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Even though the public can't use it, right, until the patent expires?"
+                },
+                {
+                    "start": 842.026,
+                    "stop": 853.148,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Until the patent expires, if a valid patent issues on that, yes. But that's our system. We do give exclusive rights in exchange for that information being provided to the public."
+                },
+                {
+                    "start": 853.148,
+                    "stop": 860.354,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this question? What do you think the strongest case from our jurisprudence is that supports your position?"
+                },
+                {
+                    "start": 860.354,
+                    "stop": 862.088,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I would say it's the Diehr case."
+                },
+                {
+                    "start": 862.088,
+                    "stop": 862.754,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Which one?"
+                },
+                {
+                    "start": 862.754,
+                    "stop": 864.306,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Diehr. Diamond v. Diehr."
+                },
+                {
+                    "start": 864.306,
+                    "stop": 864.79,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Diehr?"
+                },
+                {
+                    "start": 864.79,
+                    "stop": 865.356,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 865.356,
+                    "stop": 866.991,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's, of course, nothing like this patent."
+                },
+                {
+                    "start": 866.991,
+                    "stop": 869.193,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, it's not, but I think it--"
+                },
+                {
+                    "start": 869.193,
+                    "stop": 870.426,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's language in the opinion."
+                },
+                {
+                    "start": 870.426,
+                    "stop": 872.145,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It outlines the general principles--"
+                },
+                {
+                    "start": 872.145,
+                    "stop": 872.845,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 872.845,
+                    "stop": 878.647,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--and also tells us that there are only these specific things that are not included within the subject matter."
+                },
+                {
+                    "start": 878.647,
+                    "stop": 885.717,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But is it correct that there's none -- none of our cases has ever approved a rule such as you advocate?"
+                },
+                {
+                    "start": 885.717,
+                    "stop": 903.262,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I don't think this particular subject matter has been ruled on by the Court. Now, in Dann v. Johnston in the seventies, there was a case that could have been decided on the grounds that it was a method of doing business, and instead the Court chose to decide that case based on obviousness. And really--"
+                },
+                {
+                    "start": 903.262,
+                    "stop": 929.127,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You know, you mention that there are all these -- these new areas that didn't exist in the past because of modern business and whatnot, but there are also areas that existed in the past that don't exist today. Let's take training horses. Don't you think that -- that some people, horse whisperers or others, had some, you know, some insights into the best way to train horses? And that should have been patentable on your theory."
+                },
+                {
+                    "start": 929.127,
+                    "stop": 930.746,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--They might have, yes."
+                },
+                {
+                    "start": 930.746,
+                    "stop": 933.448,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, why didn't anybody patent those things?"
+                },
+                {
+                    "start": 933.448,
+                    "stop": 937.917,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think our economy was based on industrial process."
+                },
+                {
+                    "start": 937.917,
+                    "stop": 943.553,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It was based on horses, for Pete's sake. You-- [Laughter] You would really have thought somebody would have patented that."
+                },
+                {
+                    "start": 943.553,
+                    "stop": 970.554,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There are also issues with enforcement. I can't really answer why somebody wouldn't have. There are teaching methods that were patented. There are a number of them that we've included in our brief where there were patents issued for teaching methods, and I don't think that we've had a serious enforcement problem with people being sued for using teaching methods. But there have been those people who have sought to patent them rather than keep them as secrets or just use them."
+                },
+                {
+                    "start": 970.554,
+                    "stop": 974.358,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How old -- how old were those -- those cases?"
+                },
+                {
+                    "start": 974.358,
+                    "stop": 978.191,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "They range. Some of them go back quite a ways, to the last century."
+                },
+                {
+                    "start": 978.191,
+                    "stop": 988.333,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this general question, too? I have always admired Judge Rich, who was very active in drafting the '52 amendment."
+                },
+                {
+                    "start": 988.333,
+                    "stop": 988.583,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 988.583,
+                    "stop": 991.133,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Has he written anything on this particular issue?"
+                },
+                {
+                    "start": 991.133,
+                    "stop": 1013.864,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "He has written a number of things. And I think one of the things that the Solicitor General quotes in their brief is from an article that he wrote. But he also wrote the Alappat decision and the State Street Bank case as well and those that I think stand as his views, his latest views on what was patent-eligible subject matter, looking at the State Street Bank case."
+                },
+                {
+                    "start": 1013.864,
+                    "stop": 1032.759,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "In the Diehr case, the Court said that in the end, the abstract idea must be in a process that, oh, implements a proposal that the patent laws were designed to protect, which brings you almost back to the beginning. You don't--"
+                },
+                {
+                    "start": 1032.759,
+                    "stop": 1033.259,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It does."
+                },
+                {
+                    "start": 1033.259,
+                    "stop": 1048.552,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You don't know much from that language. But that was something that you could touch, that you could see, that looked like a machine; the substance was different before the process and after the process. And -- and none of that's applicable here. It's--"
+                },
+                {
+                    "start": 1048.552,
+                    "stop": 1071.182,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "The Diehr invention was an industrial process of the conventional type, because it was a method of curing rubber. But today the raw materials are just as likely to be information or electronic signals, and to simply root us in the industrial era because that's what we knew I think would be wrong and contrary to the forward-looking aspect of the patent laws."
+                },
+                {
+                    "start": 1071.182,
+                    "stop": 1104.772,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't the manipulation of electronic signals a substance that's different in kind from just a method of how to go about doing business or a method of how to approach a particular problem? Isn't there -- isn't that what the Federal Circuit was trying to explain, which is that there has to be something more substantive than the mere exchange of information; that it has to involve -- it used the word \"transformation\". It hasn't defined the outer limits of what it means by that."
+                },
+                {
+                    "start": 1104.772,
+                    "stop": 1116.746,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think there is a difference. But by rigidly looking at that transformation test, what you do is you exclude lots of other things where the transformation is not required--"
+                },
+                {
+                    "start": 1116.746,
+                    "stop": 1187.707,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's exactly what I -- maybe I can get you to inadvertently help by -- a hypothesis you don't like. That's why I say it's inadvertent. You said there are two things. There are actually four things in the patent law which everyone accepts. There are two that are plus and two that are minus. And the two that are plus is by giving people a monopoly, you get them to produce more. As you said, you get them to disclose. The two minuses are they charge a higher price, so people use the product less; and moreover, the act of getting permissions and having to get permission can really slow things down and destroy advance. So there's a balance. In the 19th century, they made it one way in respect to machines. Now you're telling us: Make it today in respect to information. And if you ask me as a person how to make that balance in respect to information, if I am honest, I have to tell you: I don't know. And I don't know whether across the board or in this area or that area patent protection will do no harm or more harm than good. So that's the true situation in which I find myself in respect to your argument. And it's in respect to that, I'd say: All right, so what do I do?"
+                },
+                {
+                    "start": 1187.707,
+                    "stop": 1191.425,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think the answer is to follow the statute."
+                },
+                {
+                    "start": 1191.425,
+                    "stop": 1196.027,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, thank you. I thought that was the issue, not the answer. [Laughter]"
+                },
+                {
+                    "start": 1196.027,
+                    "stop": 1203.483,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Congress has spoken in broad terms and given us those four categories, and by looking at those, I think that answers the question."
+                },
+                {
+                    "start": 1203.483,
+                    "stop": 1208.635,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But it doesn't, because we don't work in a vacuum. We work in a context."
+                },
+                {
+                    "start": 1208.635,
+                    "stop": 1208.918,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1208.918,
+                    "stop": 1235.352,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And so it begs the question, because we go around in a circle: What does 1952 that had one set of manufacturing and other items that are technologically tied and this is not? So how do we discern Congress's intent, other than by the use of the word \"process\" in context?"
+                },
+                {
+                    "start": 1235.352,
+                    "stop": 1256.349,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "I think that \"process\" is not by itself. It says \"any new and useful process\". And so we have -- we can look at those words and understand that natural phenomena, laws of nature, which are not really new because they are part of the storehouse of knowledge available to everyone, and \"useful\", meaning there has to be a practical application."
+                },
+                {
+                    "start": 1256.349,
+                    "stop": 1261.503,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the word \"knowledge\" is not used in the act. So it's not just useful knowledge."
+                },
+                {
+                    "start": 1261.503,
+                    "stop": 1262.186,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No."
+                },
+                {
+                    "start": 1262.186,
+                    "stop": 1265.556,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It's useful knowledge in relationship to something."
+                },
+                {
+                    "start": 1265.556,
+                    "stop": 1297.026,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Practically applied, yes, in the real world, whether that's the exchange of information or electronic data transformation. One of the problems with the transformation test is that it would exclude some valuable inventions that I think everyone would agree are technological under any test such as data compression, such as FM radio. Even Bell's claim, the claim to transmitting sound using undulating current, wouldn't necessarily pass the transformation test. So I think we need to look at--"
+                },
+                {
+                    "start": 1297.026,
+                    "stop": 1297.276,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, if that's--"
+                },
+                {
+                    "start": 1297.276,
+                    "stop": 1330.977,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But it would be different, it seems to me, than what you are -- let's assume you can't patent an alphabet. I assume that's true. And you can take an alphabet to make beautiful words, and -- and so forth. You -- you want to say that these -- these electronic signals can be used in a way just like the alphabet can be used. And many of the scientific briefs say that their process is different, that they are taking electronic signals and turning them into some other sort of signal. But that's not what you are doing."
+                },
+                {
+                    "start": 1330.977,
+                    "stop": 1345.037,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--That may be, but those signals could also be transmitted. On -- on your question about the alphabet, you said look at the Morse claim 5, which was an alphabet to Morse Code. That's exactly what it was. It was--"
+                },
+                {
+                    "start": 1345.037,
+                    "stop": 1351.374,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you reject -- you reject the substitute. You think you can patent an alphabet because it is a process of forming words."
+                },
+                {
+                    "start": 1351.374,
+                    "stop": 1371.317,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It could be, yes. Now, I think you run into all kinds of other problems. And that's really where the focus of the patent statute should be, so that we have the fair give-and-take, the bargain that is necessary, that we -- too much overpatenting as opposed to too little. The test there is obviousness. That's where it takes place, not at this threshold."
+                },
+                {
+                    "start": 1371.317,
+                    "stop": 1372.769,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Morse's code was not obvious."
+                },
+                {
+                    "start": 1372.769,
+                    "stop": 1374.537,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "What is that?"
+                },
+                {
+                    "start": 1374.537,
+                    "stop": 1376.354,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Morse's code was not obvious, and yet--"
+                },
+                {
+                    "start": 1376.354,
+                    "stop": 1376.954,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, it wasn't."
+                },
+                {
+                    "start": 1376.954,
+                    "stop": 1400.002,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--As I understand that case, the only thing patented was the use of his code with respect to the telegraph machine that he proposed. The Patent Office rejected -- maybe I am reading the case wrong, but it rejected all of the claims except those that related to the use of the code with a particular machine."
+                },
+                {
+                    "start": 1400.002,
+                    "stop": 1403.454,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It -- it does say used in connection with telegraphy."
+                },
+                {
+                    "start": 1403.454,
+                    "stop": 1404.287,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Of his claims--"
+                },
+                {
+                    "start": 1404.287,
+                    "stop": 1404.587,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1404.587,
+                    "stop": 1407.705,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--that was the only one that was accepted, correct?"
+                },
+                {
+                    "start": 1407.705,
+                    "stop": 1407.989,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well--"
+                },
+                {
+                    "start": 1407.989,
+                    "stop": 1410.389,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The same thing with -- well, Bell's patent was--"
+                },
+                {
+                    "start": 1410.389,
+                    "stop": 1423.899,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--In Morse's claims, I believe it was claim 8 was the one that was rejected, and the rest of them were accepted. Claim 8 was the very broad claim to transmitting information over a distance, however accomplished--"
+                },
+                {
+                    "start": 1423.899,
+                    "stop": 1432.754,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Let's not skip over that, because the rest of the claim in Bell related to how to transmit over the wire, correct?"
+                },
+                {
+                    "start": 1432.754,
+                    "stop": 1444.16,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--His disclosure did, but his actual claim was interpreted as being using undulating current to transmit sound, however that was accomplished. It was very broad, and that's why--"
+                },
+                {
+                    "start": 1444.16,
+                    "stop": 1445.395,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And that was what was rejected."
+                },
+                {
+                    "start": 1445.395,
+                    "stop": 1458.602,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--No. Bell's claim was not rejected. That one was approved, yes. The Morse claim, claim 8, was the broad claim that really we would probably look at today as being -- as having inadequate disclosure because--"
+                },
+                {
+                    "start": 1458.602,
+                    "stop": 1468.208,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it was -- it was transforming sound into electrical current and then at the other end electrical current back into sound. I mean it met the transformation test, didn't it?"
+                },
+                {
+                    "start": 1468.208,
+                    "stop": 1470.826,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--It might have. It might have."
+                },
+                {
+                    "start": 1470.826,
+                    "stop": 1471.893,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It clearly did."
+                },
+                {
+                    "start": 1471.893,
+                    "stop": 1492.756,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, it's not that clear from the Federal Circuit's transformation test whether that would apply or not, because although the Federal Circuit has said transformation of data might qualify, it said it has to represent something physical, something -- a real object. And sound doesn't necessarily have to be that. Sound can be generated artificially. So--"
+                },
+                {
+                    "start": 1492.756,
+                    "stop": 1496.977,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sound -- sound is not physical, and electric current is not physical?"
+                },
+                {
+                    "start": 1496.977,
+                    "stop": 1499.26,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think electric current is physical."
+                },
+                {
+                    "start": 1499.26,
+                    "stop": 1500.095,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, I think so."
+                },
+                {
+                    "start": 1500.095,
+                    "stop": 1500.429,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1500.429,
+                    "stop": 1501.395,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sound is, too."
+                },
+                {
+                    "start": 1501.395,
+                    "stop": 1507.832,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It can be, but when it's transmitted over a wire, it's not. It's something else. It's an electrical current then."
+                },
+                {
+                    "start": 1507.832,
+                    "stop": 1520.057,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Sound is not transmitted over the wires. Sound has been transformed into current, and current is transmitted over the wire and then transformed back at the other end into sound."
+                },
+                {
+                    "start": 1520.057,
+                    "stop": 1521.507,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, and I would agree--"
+                },
+                {
+                    "start": 1521.507,
+                    "stop": 1525.46,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think it clearly -- clearly would have been covered by -- by the test the government--"
+                },
+                {
+                    "start": 1525.46,
+                    "stop": 1539.801,
+                    "speaker": {
+                        "name": "J. Michael Jakes",
+                        "ID": 31176,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I think that's more in the nature of transmission, much like our data transmission. You might transmit data in a packet without actually changing the underlying data, and that should be allowed as well. If there are no questions, I'll reserve the rest of my time. Thank you."
+                },
+                {
+                    "start": 1539.801,
+                    "stop": 1545.772,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Jakes. Mr. Stewart."
+                }
+            ],
+            "start": 7.287,
+            "stop": 1559.114
+        },
+        {
+            "turns": [
+                {
+                    "start": 1545.772,
+                    "stop": 1559.114,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Let me start by following up on the discussion of the Morse and the telephone cases, because it's certainly our view that those would come out the same way under our test as -- as they actually did in practice."
+                },
+                {
+                    "start": 1559.114,
+                    "stop": 1559.914,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I certainly hope so."
+                },
+                {
+                    "start": 1559.914,
+                    "stop": 1622.75,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes. [Laughter] And, you know, Justice Scalia, you mentioned how to win friends and influence people. I think at a certain level of generality you could describe both Dale Carnegie and Alexander Graham Bell as people who devised methods of communicating more effectively. The reason that Bell's method was patentable was that it operated in the realm of the physical. Bell had devised a process implemented through machines by which sound was transformed into electronic current. Current was then transmitted over a distance and transformed back into sound. Innovations as to new techniques of public speaking, new techniques of negotiations, techniques that go to the substance of what is said may be innovative. They may be valuable. They are not patent eligible because they don't deal in the realm of the physical. So while the industrial processes that we discussed at some length in our brief were at the time of the framing the paradigmatic patent eligible processes, they were -- they are not the only processes that can be patented. In a--"
+                },
+                {
+                    "start": 1622.75,
+                    "stop": 1642.792,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Near -- near the end of your Brief, you argue that -- that the patent here is -- is not -- is unpatentable on the independent ground that it would pre-empt the abstract idea of hedging consumption risk. If you -- if you are right about that, is this a good case for us to get into these -- into the very broad issue that Petitioner has raised?"
+                },
+                {
+                    "start": 1642.792,
+                    "stop": 1736.236,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I -- I think we would certainly prefer to win on our primary ground, and let me say a couple of things about that. First, we would fairly vigorously resist the notion that the rule that was announced by the Federal Circuit is rigid or inflexible. That is, all that the Federal Circuit has really said is that to have a patent-eligible process you have to identify some link to a machine or a transformation of matter. And the Federal Circuit has said with respect to some processes the link to the machine may be so attenuated, the machine part of the process may be such a small segment of the process as a whole, that this wouldn't be enough. But the Federal Circuit said: We leave for another day the hard questions that will arise when part of the process is machine-implemented and another part is not. And in order for the PTO and the Federal Circuit to go about the business of devising more precise rules as to when particular links to machines are sufficient to create patent eligibility, we first need to establish the -- the basic principle that some link to a machine or transformation is necessary. So I think we -- we have made the alternative argument in our brief, and I think it is a basis for affirmance. But if the Court decided the case on that basis, we would lose at least the -- the limited clarity that the Federal Circuit's opinion has provided; that is, it would still be open to people in the future to devise new contractual arrangements designed to allocate risks, new methods of teaching antitrust, and--"
+                },
+                {
+                    "start": 1736.236,
+                    "stop": 1771.04,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How about if we say something as simple as patent law doesn't cover business methods, instead of what the Federal Circuit has begun to say, which is technology is tied to a machine or a transformation of the substance? But I have no idea what the limits of that ruling will impose in the computer world or the biomedical world. All of the amici were talking about how it will destroy industries. If we're unsure about that, wouldn't the safer practice be simply to say it doesn't involve business methods?"
+                },
+                {
+                    "start": 1771.04,
+                    "stop": 1806.194,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that would be incorrect, and it would create problems of its own. That is, the -- the innovation that was held to be patent eligible in State Street Bank was not a process. The Federal Circuit was not construing the statutory term \"process\". It was construing the statutory term \"machine\". And it said, in essence, a computer that has been programmed to perform various calculations in connection with the operation of this business is a machine. It went on to say the opposing party in that case had not raised any objection under section 102 or 103, and, therefore, the Federal Circuit--"
+                },
+                {
+                    "start": 1806.194,
+                    "stop": 1808.979,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No ruling in this case is going to change State Street--"
+                },
+                {
+                    "start": 1808.979,
+                    "stop": 1809.312,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well--"
+                },
+                {
+                    "start": 1809.312,
+                    "stop": 1813.231,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--because it wasn't looking at process or the meaning of \"process\". It was looking at something else."
+                },
+                {
+                    "start": 1813.231,
+                    "stop": 1865.899,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, again, I think that the invention that was held to be patent eligible in State Street is commonly described as a business method, even though it was held to be patent eligible as a machine rather than as a process. So, to say that business methods are categorically ineligible for patent protection would eliminate new machines, including programmed computers, that are useful because of their contributions to the operation of businesses. And similarly, the court -- the Federal Circuit in other cases has held that a claim to new and innovative computer software may be held patentable as a process, as a method of accomplishing particular tasks through the use of a computer, and those might be business-related tasks. So, to say that business methods were ruled out would itself be a fairly sweeping holding."
+                },
+                {
+                    "start": 1865.899,
+                    "stop": 1872.718,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Also you could say business methods apart from machines are not patentable. How about that?"
+                },
+                {
+                    "start": 1872.718,
+                    "stop": 1882.341,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If the Court said that in the limited area of business methods, if there is no machine or transformation, there is no patent eligibility--"
+                },
+                {
+                    "start": 1882.341,
+                    "stop": 1893.129,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Suppose you say this. I'm just testing things out. Start with Diehr. I mean -- and Diehr has these words in it, similar words; it just says e.g.> [\"] -- are you following me?"
+                },
+                {
+                    "start": 1893.129,
+                    "stop": 1893.329,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 1893.329,
+                    "stop": 1948.23,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Now, you say what is it they have done in this case in the Federal Circuit? They have pulled back. That's a mood. They've pulled back insofar as they are pulling back from business methods, not machines, dah, dah, dah, dah, dah. Okay? You say we see no problem with that. Now, they have left much unresolved. One, transformation; how broad or narrow is that? We don't know. Many people's problems will be solved if it's either broad on the one hand or narrow in the other. Two, are you automatically patented -- in the patent statute, if you just sort of reduce this to a machine by adding a computer on at the end? They've flagged that as a problem. They haven't answered it. Could there ever be a situation where it doesn't meet this test but still is patentable? We're not sure."
+                },
+                {
+                    "start": 1948.23,
+                    "stop": 1951.182,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Let me take those points--"
+                },
+                {
+                    "start": 1951.182,
+                    "stop": 1951.515,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes."
+                },
+                {
+                    "start": 1951.515,
+                    "stop": 1951.898,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--in the order that you made them."
+                },
+                {
+                    "start": 1951.898,
+                    "stop": 1964.206,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do you see what I'm trying to do? I'm trying to note the things that have been raised in these 80 briefs insofar as possible, say there's a lot there for the future that we can't really decide, but say as a pull back, okay."
+                },
+                {
+                    "start": 1964.206,
+                    "stop": 2046.119,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Let me address those points in order. The first thing is that in Diehr when you had the e.g.> [\"] cite, it was \"e.g., transforming an article into a different. \" state of -- state or thing. And I think the obvious inference is e.g.> [\"] was used because the other prong of the machine-or-transformation test is use as a machine. That is, in the context of Mr. Morse's invention or Mr. Bell's invention, there is transformation of a sort, but it wouldn't naturally be characterized as transformation of matter. Those things were held to be patent eligible not because they transformed matter, but because they involved the use of a machine. And so, what the Court in Diehr said transformation of a matter or an article into a different state or thing is the clue to the patentability of a process that doesn't involve a particular machine. And the -- the type of process it had in mind was the process that was described in Corning v. Burden or the process in Cochrane v. Deener, situations in which an individual had devised a method of, in one sense -- one case, it was manufacturing flour, and in another case it was rolling puddle balls, of manufacturing items. And that person said, here is the series of steps that you have to go through, but it's not essential that you use any particular tool or machine for each of these steps. That was why the word--"
+                },
+                {
+                    "start": 2046.119,
+                    "stop": 2077.553,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Stewart, I thought I understood your argument up until the very last footnote in your brief. And you say this is not -- simply the method isn't patentable because it doesn't involve a machine. But then you say but it might be if you use a computer to identify the parties that you are setting a price between and if you used a microprocessor to calculate the price. That's like saying if you use a typewriter to type out the -- the process, then it is patentable. I -- I -- that takes away everything that you spent 53 pages establishing."
+                },
+                {
+                    "start": 2077.553,
+                    "stop": 2104.417,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I guess there -- there were two different places, I believe, at which we identified ways in which this sort of hedging scheme might be made patent eligible. The first is we described a hypothetical interactive Website in which people -- parties and counterparties could essentially find each other by the computer and could agree to terms on that basis. And in that situation, the -- the computer would be at the heart of the innovation. It would be--"
+                },
+                {
+                    "start": 2104.417,
+                    "stop": 2111.338,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, no. That's just saying instead of looking at the -- in the Yellow Pages, you look on the computer. And that makes all the difference to you?"
+                },
+                {
+                    "start": 2111.338,
+                    "stop": 2171.943,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think an -- an interactive computer technique, one in which you sign on and can find people without tracking them down specifically, can simply identify yourself on the Website as somebody who is interested in engaging in a particular transaction and a potential counterparty can find you, is different from the Yellow Pages. But I guess the fundamental point I would make is -- and this is really responsive to the second part of Justice Breyer's question -- I think it is both a virtue and a vice of the test that the Federal Circuit has announced and that we are advocating that it doesn't solve all the hard questions. That is, the Federal Circuit has said since this particular patent applicant didn't identify any machine or any transformation that would be necessary to the accomplishment of its method, that person is out of luck, and, therefore, it's inappropriate for us to go on to decide kind of the precise level of substantiality that a machine or transformation must play--"
+                },
+                {
+                    "start": 2171.943,
+                    "stop": 2183.999,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But if you look at your footnote, that involves the most tangential and insignificant use of a machine. And yet you say that might be enough to take something from patentability to not patentable?"
+                },
+                {
+                    "start": 2183.999,
+                    "stop": 2197.425,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And all we've said is that it might be enough; that is, hard questions will arise down the road as to where do you draw the line, to what extent must the machine or the transformation be central--"
+                },
+                {
+                    "start": 2197.425,
+                    "stop": 2214.453,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you think it's a hard question. If you develop a process that says look to the historical averages of oil consumption over a certain period and divide it by 2, that process would not be patentable. But if you say use a calculator, then it -- then it is?"
+                },
+                {
+                    "start": 2214.453,
+                    "stop": 2236.032,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think if it's simply using a calculator for its pre-existing functionality to crunch numbers, very likely that would not be enough. What we see in some analogous areas is that the computer will be programmed with new software. It will be given functionality it didn't have before in order to allow it to perform a series of calculations, and that gets closer to the line. And, again--"
+                },
+                {
+                    "start": 2236.032,
+                    "stop": 2258.112,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But your footnote -- I don't mean to dwell on it -- it says to identify counterparties to the transactions. So that if what you're trying to get is the -- the baker who sells bread, because you are going to hook him up with the grocer who sells, you know, in the grocery store, if you punched in, in your search station -- you know, give me all the bakers in Washington -- that would make it patentable?"
+                },
+                {
+                    "start": 2258.112,
+                    "stop": 2291.416,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Again, we are -- we are not saying it would be patent eligible. We would have to review those facts, and the PTO would have to review those facts in the context of an actual application. I guess the point I'm trying to make is simply that we don't want the court, for instance, in the area of software innovations or medical diagnostic techniques to be trying to use this case as the vehicle for identifying the circumstances in which innovations of that sort would and would not be patent eligible, because the case really doesn't present any -- any question regarding those technologies. And, therefore, we--"
+                },
+                {
+                    "start": 2291.416,
+                    "stop": 2317.983,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, if it veers the other way, which is by saying that we exclusively rely on the machine-or-transformation test, that we're precluding applications of the patent law in those fields, the things we can't imagine. Once you announce an exclusive test, you're shoe-horning technologies that might be different."
+                },
+                {
+                    "start": 2317.983,
+                    "stop": 2356.172,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I guess I would say a couple of different things. The first is that it seems unlikely, even with new and rapidly emerging technologies, that somebody would come up with a system that seems for patent purposes analogous to the inventions that have been patent eligible in the past that didn't involve any machine and that didn't involve any transformation. Having said that, I would note that in both Benson and in Flook, the Court held open the possibility that some unforeseen event could take place that would -- as to which the application would be patent eligible, even though the machine-or-transformation test--"
+                },
+                {
+                    "start": 2356.172,
+                    "stop": 2378.501,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "All right. So help us with a test that doesn't go to the extreme the Federal Circuit did, which is to preclude any other items, something we held open explicitly in two other cases, so we would have to backtrack and say now we are ruling that we were wrong, and still get at something like this?"
+                },
+                {
+                    "start": 2378.501,
+                    "stop": 2422.78,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think the Court could say -- could do essentially what was done in Benson and Flook, namely acknowledge that there had never been a case up to this point in which a process had been held patent eligible that didn't involve a machine or a transformation. It could leave open the possibility that some new and as yet unforeseen technology could necessitate the creation of an exception. But -- and the point we would also make is this seems to be a very unlikely candidate for such an exception, because the hedging method that Petitioners have -- for which they have sought a patent is in no sense different in kind from risk management techniques that have been undertaken for centuries--"
+                },
+                {
+                    "start": 2422.78,
+                    "stop": 2431.617,
+                    "speaker": {
+                        "name": "Sonia Sotomayor",
+                        "ID": 15131,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, but that -- that goes back to, not 101, but 102 and 103. That goes back to obviousness or the standard weeding mechanisms for patents."
+                },
+                {
+                    "start": 2431.617,
+                    "stop": 2455.398,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, this may or may not be a novel or nonobvious method. But even if we assume that this is nonobvious for purposes of section 103, in that it represents a sufficient advance over the prior art, that people skilled in the art would not necessarily have come up with it, it still is a different in kind from risk management techniques that have taken place in this country for -- for 200 years. It is -- it is--"
+                },
+                {
+                    "start": 2455.398,
+                    "stop": 2470.325,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Stewart, did you -- did the government put forward this machine-or-transformation test? Was that your test, or was it the Federal Circuit's on its own?"
+                },
+                {
+                    "start": 2470.325,
+                    "stop": 2490.037,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--The Federal Circuit, sua sponte, set the case for hearing en banc. I believe the case had been argued to a panel, but had not been decided, and the Federal Circuit set the case for reargument en banc, posed a number of questions to the -- the parties and the government did advocate the machine-or-transformation test."
+                },
+                {
+                    "start": 2490.037,
+                    "stop": 2490.988,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Tell me what your--"
+                },
+                {
+                    "start": 2490.988,
+                    "stop": 2491.621,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. Did or did not?"
+                },
+                {
+                    "start": 2491.621,
+                    "stop": 2493.304,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It did. It did advocate the machine-or-transformation."
+                },
+                {
+                    "start": 2493.304,
+                    "stop": 2519.771,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You did -- and if you read Judge Mayer's opinion, it has a simplicity to it. It says, if it's technology, then its within the realm of patent, and if it's not technology, it isn't. If it's based on science or technology -- and that seems to be what is used in other places."
+                },
+                {
+                    "start": 2519.771,
+                    "stop": 2598.52,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I don't know that our test -- I think our test, in a sense, has a shorthand version of that. I don't know that focusing the inquiry directly on whether technology is involved would make the inquiry easier, and that is so for two reasons. First, people could dispute whether particular advances are properly regarded as technological advances, and, second, we would still have the difficult problems that the Chief Justice has referred to, where you have a process that is described as involving technology at some step along the way, and courts will still have to make the determination, is that a sufficiently substantial step to make the process, as a whole, a technological one. So I don't think that, by adopting a technological arts test, the Court would avoid the difficulties that it has appropriately identified with the machine-or-transformation test. The other thing I would say about the machine-or-transformation test is this is not a government position of recent vintage; that is, the government's brief to this Court in Gottschalk v. Benson -- or its reply brief, which was filed around 1971 -- basically said, although this Court has never announced machine or transformation of the test, that is the principle that can be abstracted from the totality of the Court's decisions."
+                },
+                {
+                    "start": 2598.52,
+                    "stop": 2601.989,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Was the State Street case a machine-or-transformation test?"
+                },
+                {
+                    "start": 2601.989,
+                    "stop": 2603.172,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It would--"
+                },
+                {
+                    "start": 2603.172,
+                    "stop": 2620.117,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You talk about the State Street case in your brief, and it's complicated because of the Federal statute that followed it. If you had just the facts of State Street before us, and forgetting the Federal statute was enacted after it, how would you decide this case?"
+                },
+                {
+                    "start": 2620.117,
+                    "stop": 2622.834,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Oh, it would come out the same way. I mean, State Street Bank--"
+                },
+                {
+                    "start": 2622.834,
+                    "stop": 2625.217,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's what I thought. And is it -- is it machine or transformation, in your view?"
+                },
+                {
+                    "start": 2625.217,
+                    "stop": 2660.187,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, it was machine -- that is, in State Street Bank, the claim was not to a process within the meaning of section 101. The claim was not to a method of accomplishing things by means of a computer, which would be, potentially, a process. It was to the computer itself, the programmed computer, that the innovation in State Street Bank was that the devising of new computer programs that allowed the computer to perform various tasks in association with the carrying out of the hub-and-spokes investment -- investment method. And, certainly--"
+                },
+                {
+                    "start": 2660.187,
+                    "stop": 2662.389,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So what did that -- what did that transform?"
+                },
+                {
+                    "start": 2662.389,
+                    "stop": 2698.646,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It didn't transform anything, but it would fit -- the transformation part would be irrelevant because the machine-or-transformation test is, in our view, the appropriate rubric to apply in construing the statutory term process, that is, when the person doesn't say, I have invented a new machine, but, rather, says, I've identified a new process for accomplishing things. If a person claims to be -- to have invented a new machine, then that -- it is either a machine or it isn't. A computer is certainly a machine. Really, the only -- I think the only--"
+                },
+                {
+                    "start": 2698.646,
+                    "stop": 2709.704,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't understand how that can be a patent on a machine if the only thing novel is the process that the machine is using. Isn't -- isn't the question -- really, the question there was whether the new process was patentable."
+                },
+                {
+                    "start": 2709.704,
+                    "stop": 2739.889,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I think what -- the argument that the other side, the person challenging the patent in State Street could have made, but apparently didn't, was the person could have said, of course, the computer is a machine, but a computer programmed with new software to perform different functions is not a new machine. It's not a different machine from the one that has always -- not always, but that has already existed, and therefore, it doesn't satisfy section 1 or section -- 102 or section 103, but that--"
+                },
+                {
+                    "start": 2739.889,
+                    "stop": 2752.697,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, that was one of the reasons I asked you about it, I suppose. Just looking at the whole case, do you think the State Street holding -- the State Street invention was patentable?"
+                },
+                {
+                    "start": 2752.697,
+                    "stop": 2766.374,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It was -- the way I would put it is: The State Street Bank analysis of the question that was actually presented to it was correct; that is, the argued was made the programmed computer is patentable as a machine--"
+                },
+                {
+                    "start": 2766.374,
+                    "stop": 2771.341,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How would you come out in the State Street case today, if all of the arguments were made under your test?"
+                },
+                {
+                    "start": 2771.341,
+                    "stop": 2796.606,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, under our test, we would come out the same way because the computer would be a machine. The only question would be whether the programming of the computer with new software caused it to be a patentable different machine from the one that existed previously. Now -- now, we do think that software innovations can have the effect of causing the computer to be a different, special purpose computer, as the phrase--"
+                },
+                {
+                    "start": 2796.606,
+                    "stop": 2802.759,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm sorry. I must be awfully stupid. You say it would come out the same way. In the same way the court did or this way you argued?"
+                },
+                {
+                    "start": 2802.759,
+                    "stop": 2808.663,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think the same -- the Federal Circuit's decision in State Street would come out the same way under our test."
+                },
+                {
+                    "start": 2808.663,
+                    "stop": 2810.282,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And you think it should? You think it should?"
+                },
+                {
+                    "start": 2810.282,
+                    "stop": 2812.849,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Yes, but, again, the point I would emphasize--"
+                },
+                {
+                    "start": 2812.849,
+                    "stop": 2822.673,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I don't understand why that isn't just the application of a process, which -- which is not itself patentable subject matter, to a particular machine that can use the process--"
+                },
+                {
+                    "start": 2822.673,
+                    "stop": 2823.839,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's -- that's a problem I have."
+                },
+                {
+                    "start": 2823.839,
+                    "stop": 2847.221,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, I guess -- let me backtrack. If you look at the text of the statute -- it's reproduced at page 2 of the Blue Brief -- and it says -- it's right in the middle of the page. \"Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter is potentially entitled to-- \""
+                },
+                {
+                    "start": 2847.221,
+                    "stop": 2872.487,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So I thought you were saying that the correct argument for the people attacking the patent in that case was to say, this is not a machine. The machine there is a computer. This is a program that changes switches, and that is a different process for the use of the machine. Now, whether that process is or is not patentable depends upon a lot of things that we don't have to go into in this case. Is that right?"
+                },
+                {
+                    "start": 2872.487,
+                    "stop": 2873.872,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't -- no. I don't think that is what I was saying."
+                },
+                {
+                    "start": 2873.872,
+                    "stop": 2874.522,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well, then what is right?"
+                },
+                {
+                    "start": 2874.522,
+                    "stop": 2895.952,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "What I was saying is that -- and I guess the -- the first point I would make is, when somebody claims to have invented a new machine, the transformation test really has nothing to do with the inquiry because a -- a better television or a better DVD player can be patented as a machine, even though transformation of matter is no--"
+                },
+                {
+                    "start": 2895.952,
+                    "stop": 2902.541,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--It's not on a computer, which the only difference from the old computer is it's using a new program. You can't say that's a new machine."
+                },
+                {
+                    "start": 2902.541,
+                    "stop": 2911.48,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, but my -- I think -- first, I think you can because I think if you -- if you improved the hardware of the computer in order to enable it to perform--"
+                },
+                {
+                    "start": 2911.48,
+                    "stop": 2915.032,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that patent didn't require any change in the hardware, if I remember it correctly."
+                },
+                {
+                    "start": 2915.032,
+                    "stop": 2927.84,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But I -- but I think the argument that has been made with success -- and PTO agrees with this -- is that programming a computer by means of software to produce -- to perform new functions can create a novel--"
+                },
+                {
+                    "start": 2927.84,
+                    "stop": 2962.429,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But then all we do is every example that I just gave, that I thought were examples that certainly wouldn't be patented, you simply patent them. All you do is just have a set of instructions for saying how to set a computer to do it. Anyone can do that. Now, it's a machine. So all the business patents are all right back in. Now, that -- what I think we were looking for was -- or at least I was -- was why that isn't so, and how you are going to later, down the road, deal with this situation of all you do is you get somebody who knows computers, and you turn every business patent into a setting of switches on a machine because there are no businesses that don't use those machines."
+                },
+                {
+                    "start": 2962.429,
+                    "stop": 2977.772,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, first of all the only ruling that we're -- I backtrack a bit, to say, we opposed cert in this case because we recognized that there are difficult problems out there in terms of patentability of software innovations and medical diagnostic--"
+                },
+                {
+                    "start": 2977.772,
+                    "stop": 2979.655,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You thought we -- you thought we'd mess it up."
+                },
+                {
+                    "start": 2979.655,
+                    "stop": 3009.791,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I didn't think you would-- [Laughter] We didn't think the Court would mess it up. We thought that this case would provide an unsuitable vehicle for resolving the hard questions because the case doesn't involve computer software or medical diagnostic techniques, and therefore, we thought the Court would arrive at the position that I think at least some members are feeling that you have arrived at, that you will decide this case, and most of the hard questions remain unresolved. And, frankly, we think that's true."
+                },
+                {
+                    "start": 3009.791,
+                    "stop": 3014.611,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But this case could be decided without making any bold step--"
+                },
+                {
+                    "start": 3014.611,
+                    "stop": 3024.233,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Again, I don't -- I don't think it would be a bold step to say that machine or transformation is the test. That is, we have gone for more--"
+                },
+                {
+                    "start": 3024.233,
+                    "stop": 3038.974,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--But even the Federal Circuit didn't say it was the test. It said it is for now. We know that things that we haven't yet contemplated may be around the corner, and when they happen, we will deal with them."
+                },
+                {
+                    "start": 3038.974,
+                    "stop": 3197.292,
+                    "speaker": {
+                        "name": "Malcolm L. Stewart",
+                        "ID": 36722,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--And we would -- we would be entirely content with a ruling like that. And we would say that the claimed hedging method here is not the sort of Space Age innovation that might cause Justices to say: This is just different in kind from anything that the drafters of the patent statute could have imagined. The other point I would make about the programmed computer is, to follow up on my television and DVD example, that when you claim a machine or a manufacture, as the committee reports to the 1952 Act said, those words are broad. They encompass everything under the sun that is made by man. And so a television is indisputably a machine, even though its function is not to transform matter. It's only when you get to the term \"process\" that you are left with -- that the machine-or-transformation test kicks in. And really, the argument on the other side is: The term \"process\" in ordinary speech is extremely broad. It can literally be read to encompass any series of steps, whether or not linked to technology, whether or not linked to a machine or transformation. And the other side argues you should construe it that way in the patent statute. I guess the -- the three reasons we would say that's not so are, first, under the canon of noscitur a sociis, it's appropriate to construe the term \"process\" in conjunction with the other terms. Those other terms are broad, but they all refer to physical objects that don't exist in nature and are created by man. And a huge array of very productive, innovative activity doesn't culminate in the creation of any new physical substance, and the word \"process\" surely was intended to add something, but it would be quite strange to construe the word \"process\" to encompass the whole range of human endeavor when the other words are limited to the creation of new things in the physical. The second thing is that when this Court in the past has explained the term \"process\", it's always linked it to the operation of machines, as in the telephone cases and in Morse, or to the transformation of matter in ways that may not be dependent on a particular machine. And the third thing I would say is that in a sense, there's a strong \"dog that didn't bark in the night. \" quality to our argument; that is, even though the Court has never said in so many words that a method of allocating risk by contract is a patent-eligible process, the economic history of this country really would have been fundamentally different if it had been believed from the outset that innovations of this character could be patented and potential competitors could be foreclosed from engaging in the same method. If the Court has nothing further?"
+                },
+                {
+                    "start": 3197.292,
+                    "stop": 3201.16,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, counsel. Mr. Jakes, you have 4 minutes remaining."
+                }
+            ],
+            "start": 3201.16,
+            "stop": 3311.883
+        }
+    ]
+}

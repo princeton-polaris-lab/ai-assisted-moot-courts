@@ -1,0 +1,1945 @@
+{
+    "title": "Knight v. Commissioner of Internal Revenue",
+    "sections": [
+        {
+            "turns": [
+                {
+                    "start": 10.481,
+                    "stop": 91.636,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: The question in this case is the meaning of a statute that provides that, in arriving at a trust or estate's adjusted gross income, amounts are allowable in full if they are... and I quote here from 26 U.S.C. section 67(e), which you can find at the bottom of page 3a of the appendix to the blue brief... \"costs which are paid or incurred in connection with the administration of the estate or trust and which would not have been incurred if the property were not held in such trust or estate. \" I'd like to make three broad points. First, when one applies the judicial tools of statutory interpretation, the statute can mean only one thing. Second, \"would not\" does not mean \"could not\". The Commissioner's current reading of the statute and the Commissioner's previous readings of the statute are wrong. Indeed, the logic of the Commissioner's position supports us. It acknowledges the distinctive nature of trusts and fiduciary obligations. Finally, our reading makes sense. It is consistent with the treatment of trusts and estates elsewhere in the Code. It puts in place an administrable rule that draws a clear line, and by contrast the Commissioner has provided no reason at all why Congress would have wanted to subject the fees at issue here to the 2 percent floor."
+                },
+                {
+                    "start": 91.636,
+                    "stop": 110.721,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think those three points are certainly what would help me. Could I ask just two preliminary questions? They don't necessarily have to do with this case, just to get something straight. I take it that you couldn't have claimed this deduction under 162 without getting into an argument that it should be capitalized and that's why 212 is in the Code?"
+                },
+                {
+                    "start": 110.721,
+                    "stop": 154.281,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, 212 and 162 are really sort of two sides of the same coin. 162 is for costs incurred in a trade or business, and there's no... the trust isn't engaged in a trade or business any more than an individual who invests for the protection of property is in a trade or business. 212, by contrast... and the text of 212 can be found in the governor's... the government's brief appendix at 5a... 212 is about expenditures for the preservation of property and for income in that context. So that's why this is a 212, not a 162."
+                },
+                {
+                    "start": 154.281,
+                    "stop": 161.951,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "My other question is background only. Perhaps I should ask the government. Are 162 expenses subject to the 2 percent ceiling?"
+                },
+                {
+                    "start": 161.951,
+                    "stop": 170.432,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "My recollection is that 162... 162 expenses are not subject to the... they're not miscellaneous itemized deductions."
+                },
+                {
+                    "start": 170.432,
+                    "stop": 178.444,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Counsel, you agree that as a taxpayer seeking an exception to a general rule, you have the burden of proof in this case?"
+                },
+                {
+                    "start": 178.444,
+                    "stop": 218.007,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "No, Your Honor. We think that... well, there are really two things built into your question, Mr. Chief Justice. First is the question of who bears the burden of proof in tax cases specifically, and as this court has made clear, this was litigated below on a slightly different theory. The government's theory has changed during the pendency of the litigation. And below they argued that this was a common expense for individuals; yet they introduced no evidence of that. And under the United States v. Janis, this Court's decision in that case, they can't... the government is required to come forward with something before assessing tax. But in terms of exceptions and rules, we can--"
+                },
+                {
+                    "start": 218.007,
+                    "stop": 228.16,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "We can't take... I guess it's not judicial notice, but we can't assume that individual investors with several million dollars of liquid assets might hire investment advisors?"
+                },
+                {
+                    "start": 228.16,
+                    "stop": 233.157,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--They might hire investment advisors, Your Honor, but we don't think that--"
+                },
+                {
+                    "start": 233.157,
+                    "stop": 234.937,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Do they usually hire investment advisors?"
+                },
+                {
+                    "start": 234.937,
+                    "stop": 292.945,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I don't think it's clear that they usually hire investment advisors, but I think the important point here, in a way, is the premise of your question, which is that only certain trusts with certain assets, under a test that looked at what the Commissioner used to argue, which is commonality or customariness of a particular expense, only... the Commissioner herself now argues that, that this test is unmanageable because there's difficulty in figuring out what the denominator of the fraction is. Do you mean all people? Is it common among everyone, among taxpayers, among taxpayers with certain assets? Would a $100,000 trust have to be treated differently than a million dollar trust? Then there's the question of what do you mean by \"common\". You suggested \"usually\" or \"sometimes\", \"might\". That's not clear either. And then ultimately there would have to be a trial somewhere to determine whether costs like this are indeed common to whatever standard was articulated. And I think this is why--"
+                },
+                {
+                    "start": 292.945,
+                    "stop": 324.588,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I guess you'd concede, wouldn't you, that you're not entitled to all of the investment advice that you receive but perhaps only that that is related to the trust status? In other words, if your investment advisor charges you $50,000 and, you know, 10,000 of it is unique to the trust, but 40,000 is the same sort of advice he'd give an individual, you'd only be able to get the 10,000 outside of the 2 percent limit?"
+                },
+                {
+                    "start": 324.588,
+                    "stop": 361.246,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--We think, Your Honor, that all trust investment fees are distinctive, that what renders them distinctive and renders them fully deductible under the statute is that they are incurred as a result of distinctive fiduciary obligations. We think the statute draws a line between costs like that, that are incurred as a result of distinctive fiduciary obligation, which would include all investment management or advice fees, and by contrast costs that inhere in ownership of a particular piece of property and that any owner of that property would have to pay."
+                },
+                {
+                    "start": 361.246,
+                    "stop": 384.081,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I don't... I don't really see that line. I mean, let's... let's take, you know, fixing the roof on a house that's in the trust. Aren't there distinctive trustee obligations with respect to preservation of property, just as there are with respect to preservation of financial assets?"
+                },
+                {
+                    "start": 384.081,
+                    "stop": 385.565,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor."
+                },
+                {
+                    "start": 385.565,
+                    "stop": 387.236,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think that's a very hard line to draw."
+                },
+                {
+                    "start": 387.236,
+                    "stop": 449.085,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. I think the line is... is actually easier to draw than your question suggests. I think that fixing a roof on a house might be a cost that is close to the line. It may be that some... for example, if there were an ordinance in the community that required upkeep of a house, we think that it would be subject to the 2 percent floor. The archetypal example of a cost that we think Congress intended and by this language we believe Congress rendered subject to the 2 percent floor are the costs of pass-through entities that might be owned by the trust or estate. So, for example, if there's an S corporation and its management incurs an expense, that's reported back... because the S corporation has no independent existence, that's reported back to the owner, individual or trustee, and is reported as an administrative expense. It would be subject to the 2 percent floor from the individual who incurred it, and it would have been incurred, which is the language of the statute, whether or not--"
+                },
+                {
+                    "start": 450.71,
+                    "stop": 469.266,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--I'm still trying to get back to my original question. I... I would like to know what you think is not an expense that's distinctive to... to a trust, other than fixing the roof, because you haven't persuaded me on that. I think fixing a roof is fixing a roof."
+                },
+                {
+                    "start": 469.266,
+                    "stop": 476.826,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--The cost of... not distinctive costs would be the costs incurred by an S corporation owned by the trustee."
+                },
+                {
+                    "start": 476.826,
+                    "stop": 477.545,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Anything else?"
+                },
+                {
+                    "start": 477.545,
+                    "stop": 488.212,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "A condo fee, for example, that simply essentially runs with the property. Whoever owns this land is going to have to pay the condo fee. Required insurance on a vehicle."
+                },
+                {
+                    "start": 488.212,
+                    "stop": 519.653,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Isn't there a trustee obligation to pay all... all expenses which if not paid will... would cause a depletion of the assets? Can't you say that that's a trustee response... I mean, if the criterion is he paid this money only to discharge an obligation as a trustee, it seems to me all of his expenses are in that category, with the possible exception of the S corporations you're talking about."
+                },
+                {
+                    "start": 519.653,
+                    "stop": 554.216,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, the costs are distinctive in the case of... of those things that are caused by fiduciary obligation in the sense that we describe because that's how they are caused. These costs are incurred without regard to that fiduciary obligation. They're paid perhaps because of fiduciary obligation, but they are incurred through ownership of the property. And there is a hint in the text. If you look at the text, you'll note that costs that are paid or incurred are deductible. But this asks about whether they would have been incurred if the property were not held in such trust or estate."
+                },
+                {
+                    "start": 554.216,
+                    "stop": 577.972,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Mr. Rubin, you were not willing to agree with the Chief when he said: Well, maybe there are some investment expenses that are special because this is a trust. But there must be some that any investor would incur. But you say it's got to be all one way."
+                },
+                {
+                    "start": 577.972,
+                    "stop": 594.841,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Justice Ginsburg. Trustees cannot under law, and do not, invest as individuals do. To begin with, they always have to keep their eye on current, future, contingent and remainder beneficiaries and treat them with equal fairness."
+                },
+                {
+                    "start": 594.841,
+                    "stop": 614.316,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they don't have to hire investment advisors. There is a standard that they may think they can meet on their own. They may... you know, it may be an investment advisor that is the trustee. He doesn't have to hire somebody else. So it's not something that necessarily inheres in the nature of the trust."
+                },
+                {
+                    "start": 614.316,
+                    "stop": 626.906,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Whenever a trustee hires an investment advisor, it is to fulfill this fiduciary obligation. It is true that there may be a trustee who is expert in this."
+                },
+                {
+                    "start": 626.906,
+                    "stop": 655.597,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why... if I could pause you on that, why is that the case? Let's say it's a... the trustee understands perfectly his obligations under the law. Let's just say he is supposed to preserve capital and invest conservatively, but he wants advice on which is the best conservative investment. You know, is it railroads or is it utilities? And that's the investment advice he seeks... just that. He says: I know how I'm supposed to invest as a fiduciary, but there are options in there, and I just want advice on the options."
+                },
+                {
+                    "start": 655.597,
+                    "stop": 668.92,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes, Your Honor. I think that that is actually quite a typical situation. The trustee, of course, knows his or her obligations. It's his or her inability to figure out how to fulfill them that--"
+                },
+                {
+                    "start": 668.92,
+                    "stop": 688.054,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, isn't that just like an individual investor? If you have an individual investor with $10 million in liquid assets, he or she might know what he wants to do, either capital appreciation or preservation, you know, whatever the option is, but just wants some advice on how best to go about that. That sounds exactly like the trustee in our hypothetical."
+                },
+                {
+                    "start": 688.054,
+                    "stop": 715.464,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, there are unique obligations. Some of these are set out in Connecticut statutes. This is in our brief at page 7 of the blue brief. There are ten considerations that Connecticut law requires trustees to examine, including things unique to trusts: the nature of the trust, its duration. The need for liquidity or income versus capital, which is principal growth versus income, is a uniquely trustlike concern."
+                },
+                {
+                    "start": 715.464,
+                    "stop": 731.521,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No. You see, that's my difficulty with your position. It's not uniquely trust because you certainly have individuals who may want income rather than capital appreciation or, you know, preservation of capital. They may have exactly the same objectives as a trustee. It's not unique to the trust."
+                },
+                {
+                    "start": 731.521,
+                    "stop": 753.557,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "It... I guess I have two answers to that, Your Honor. It may, by happenstance, be that out of the black box of investment advice an individual, by happenstance, gets the same advice as a trust somewhere; but it would be by happenstance. The decisional process leading to obtaining the advice, incurring the cost, is distinct for trust, and indeed the advice they receive is distinct."
+                },
+                {
+                    "start": 753.557,
+                    "stop": 789.371,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it seems to me that that just simply couldn't have been Congress's purpose in passing this statute because now you have a recipe for avoidance. In most States... California has a rule that the trustee has to make prudent business investments. I assume a great number of businessmen outside the trust context think that they have their principal objective of making prudent business investments. But under your theory all expenses for that objective would fall within this exclusion. I just don't think that's what the Congress could possibly have intended."
+                },
+                {
+                    "start": 789.371,
+                    "stop": 807.364,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, to begin with, there is no risk here of tax avoidance through creation of a trust. These are non-grantor trusts. There are substantial costs involved in creating them, but, among other things, the top bracket of 35 percent--"
+                },
+                {
+                    "start": 807.364,
+                    "stop": 817.642,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, is that true just in your case? Universally, there is never a danger of tax avoidance? You want us to write the decision on the assumption that tax avoidance is never a problem in the creation of a trust?"
+                },
+                {
+                    "start": 817.642,
+                    "stop": 829.731,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the Commissioner concedes at page 37 of her brief that there is no substantial problem of income-splitting through the use of non-grantor trusts; and, indeed, throughout--"
+                },
+                {
+                    "start": 829.731,
+                    "stop": 874.072,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Is that true? And I'm looking at testimony given by J. Roger Mintz in 1986 when this measure was before Congress, and in that written testimony is the statement: \"First, the treatment of trusts as separate taxpayers with a separate, graduated rate schedule can cause income to be taxed at a rate lower than if the grantor had retained direct ownership of the trust assets or given the assets outright to the beneficiaries. \" So apparently the Treasury was telling the Congress that there is a problem."
+                },
+                {
+                    "start": 874.072,
+                    "stop": 904.154,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Justice Ginsburg. That problem was solved in Section 1 of 26 U.S. Code... and this is described at page 37 of our brief... by a compression of the tax brackets. The 35 percent bracket kicks in for non-grantor trusts at $10,500. For an individual it kicks in at $349,000. As a consequence, there is no incentive to move money into a trust in order to avoid taxation at a... at a lower rate."
+                },
+                {
+                    "start": 904.154,
+                    "stop": 910.886,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Excuse me. I am not sure what you mean by \"non-grantor trusts\". What is a \"non-grantor trust\"?"
+                },
+                {
+                    "start": 910.886,
+                    "stop": 926.551,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "A non-grantor trust is a real trust with economic substance. A grantor trust is a trust in which the grantor retains certain powers, for example it's revocable, or whatever; and it's treated as... people set them up for estate-planning purposes, but--"
+                },
+                {
+                    "start": 926.551,
+                    "stop": 928.66,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Every trust has a grantor, I assume."
+                },
+                {
+                    "start": 928.66,
+                    "stop": 932.409,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, yes, yes. But this is... I guess this is a term of art."
+                },
+                {
+                    "start": 932.409,
+                    "stop": 933.017,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--is a trust without any money."
+                },
+                {
+                    "start": 933.361,
+                    "stop": 937.203,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A grantor trust would be one of those pass-throughs."
+                },
+                {
+                    "start": 937.203,
+                    "stop": 978.812,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Yes. And, indeed, this, I think... and part of the answer to Justice Kennedy's question: The problem of tax avoidance was dealt with in section 67)(c), where entities like that were... were said to be treated as pass-through entities with no independent existence. But trusts and estates were excepted specifically from that because of this absence of risk of income-splitting. And, indeed, we think that the... the structure of the statute, not merely its text, but the structure of the statute, indicates that this is what Congress intended. It's not... it's not written the way I would have written it, Your Honor. But none of the other readings are textually even supportable, and this--"
+                },
+                {
+                    "start": 978.812,
+                    "stop": 1006.019,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask this sort of elementary question, and it may reveal my stupidity. But actually sometimes these costs are incurred by individuals, and sometimes they're not. But... so that you would normally think there's going to be a case-by-case analysis of what happened in the particular case. But do I understand correctly that both you and the government take the position that we should apply the same rule across the board regardless of the actual facts?"
+                },
+                {
+                    "start": 1006.019,
+                    "stop": 1037.132,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--I wouldn't say \"regardless of the actual facts\", Your Honor. But I would say this: We believe it's a categorical test. The first of what the Commissioner calls her textually plausible readings is literally a case-by-case examination of what would have happened with this property if it were held by whomever, the beneficiary, the grantor, it's not clear whom. And, as they described, Congress can't have meant that. And this would be an imponderable. How would you ever--"
+                },
+                {
+                    "start": 1037.132,
+                    "stop": 1044.613,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's the most normal reading of the language, it's a case-by-case test. It seems to me the... probably the most unwise reading, also."
+                },
+                {
+                    "start": 1044.613,
+                    "stop": 1084.534,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, Your Honor, I think... I see your point. And I think this is why, if you look at the structure of Section 67, which treats pass-through entities but not trusts and estates as presenting a risk of income-splitting; if you look at the Code more broadly, which permits deductions by trusts and estates in many circumstances... section 68 does; section 154 does... when they're not permitted by individuals and especially when you look at the statutory history here... Both houses of Congress... well, this was preexisting law, I should begin by saying. And then both houses of Congress passed in the '86 Act this statute without the second clause."
+                },
+                {
+                    "start": 1084.534,
+                    "stop": 1173.498,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I've read the legislative history, which shows to me, anyway, precisely no light whatsoever. It's... the only relevant sentence, which is the third sentence, simply repeats the statute. And, therefore, I thought that what Congress is trying to do is say, treat trusts like individuals, except in respect to special expenses. What are special expenses? Those that are related to the trust and that an individual wouldn't have occurred... incurred. I can't say it much clearly than that. But I have an absolutely clear idea what it means. To me it means that if this is an expense that the trust is saying is special, I would say, would a reasonable person who did not hold these assets in trust, would such a person be likely to make that kind of expenditure? And if the answer to that question is yes, well, then I would say it's not a special expense. And if the answer is no, I would say it was. And then the IRS and you will come and say that isn't precise enough. And I'd say the IRS has plenty of authority in its regs to give lists of examples which they do in such instances. Now, I'm posing that, not because I bought into it, though I'm tempted to, but I'd like to know what your response is."
+                },
+                {
+                    "start": 1173.498,
+                    "stop": 1249.797,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "Well, Your Honor, I guess my response is severalfold. To begin with, the statute doesn't ask what usually happens on the outside or commonly or customarily, and indeed the Commissioner has abandoned this reading of the statute precisely because it presents the kind of imponderables that I was discussing with the Chief Justice: What is usually done? Do trusts of different sizes have different rules? When a trust's assets come below a certain point, what about that? And most importantly, it's not in the text of the statute. Now, the Commissioner concedes the distinctive nature of trusts. And if you look at the examples that she gives on page 23 of her brief of what it is that, that is deductible in full, it's the same as this: Fiduciary income tax preparation. Well, people... many people get income tax preparation for individual income tax returns. The only difference is it's a Form 1040 or a Form 1041. Our case is much further from the line than that because the investment advice must be tailored to these, to these rules under Connecticut law."
+                },
+                {
+                    "start": 1249.797,
+                    "stop": 1276.271,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay. Well, then let's take that. Let's suppose that the trustee goes to an investment advisor, doesn't tell him that he is a trustee, just says, I need to know, I can't decide, should I invest in Union Pacific or CSX? I'm going to invest in a railroad; which one do you like better? He doesn't tell him he's a trustee, gets some advice and gets a bill. Is that subject to the 2 percent floor, because presumably the advice has got nothing to do with fiduciary responsibilities?"
+                },
+                {
+                    "start": 1276.271,
+                    "stop": 1287.549,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "If it has nothing to do with fiduciary responsibilities, Your Honor, we think it would be a breach of fiduciary obligation to get... waste the trust money paying for the advice and to act upon it."
+                },
+                {
+                    "start": 1287.549,
+                    "stop": 1295.623,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, no. It's a reasonable... let's say a railroad stock is a reasonable investment for a trust. He just wants to know which one is the best one."
+                },
+                {
+                    "start": 1295.623,
+                    "stop": 1342.994,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "We think that this is intended as a categorical rule. And we think that asking that question is in furtherance of these unique obligations and the prudent investor standard, which is not... this is a new standard that's developed in the United States over the next decade or so. It is not merely what a prudent man would do under the old Harvard College v. Amory common law test. Investments that individuals can and do invest in are not open to trustees who have a series of rules, some of which are counterintuitive, in fact, about what they can do. And these are listed at pages 7 to 10 of our brief. But that... what you're describing we think is investment advice and if it's properly obtained it is distinctive. I should say also in response--"
+                },
+                {
+                    "start": 1342.994,
+                    "stop": 1345.587,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How can it be distinctive if the advisor doesn't even know that the person's a trustee?"
+                },
+                {
+                    "start": 1345.587,
+                    "stop": 1358.425,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Well, the question is the decisional process of the trustee. When the trustee calls up anyone, the income tax preparer, and says I'd like to hire you, he doesn't have to say at the moment of hiring it's for a trust."
+                },
+                {
+                    "start": 1359.863,
+                    "stop": 1363.596,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--he knows it's on Form 1041 rather than 1040."
+                },
+                {
+                    "start": 1363.596,
+                    "stop": 1417.323,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--He will eventually come to know that the form is different, Your Honor, yes. But I don't think the subjective knowledge of the person from whom one gets the advice is the question. The question, I think, is textually directed to the incurment of the cost. And I should say also in part of response to part of Justice Breyer's question, the statutory history isn't merely the legislative history. It's the fact that, despite having just the first prong in it when it was passed by both houses of Congress, there was a floor amendment in the Senate on the day that it passed the Senate that dealt with pass-throughs. The first part of 67(c), and the changes made in the conference committee, again as the Commissioner acknowledges at page 37 of her brief, the changes made in conference, including the addition of this, were to deal precisely with how should we deal with pass-throughs and trusts, and trust ownership of pass-throughs--"
+                },
+                {
+                    "start": 1417.323,
+                    "stop": 1472.865,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "There's nothing that I could find anywhere that talked about pass-throughs in respect to the special situation of trusts and estates. In the first sentence it speaks to it in respect to individuals. It all makes sense. And what they seem to be saying is just what I said initially. We do agree trusts do have a special claim, but only in respect to special trust expenses. And which are they? They're the ones an individual wouldn't have incurred. And I'll put a gloss on it, like we do in law. I say a reasonable individual. I say wouldn't reasonably have incurred. And then I leave it up to the IRS to say which are the expenses that an individual would likely incur and which ones he wouldn't likely incur. Now, that runs throughout tax law, doesn't it, that kind of list, what's a necessary expenditure, what isn't. I mean, they do that all the time, don't they?"
+                },
+                {
+                    "start": 1472.865,
+                    "stop": 1477.753,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. Regulations, however, have to be both reasonable--"
+                },
+                {
+                    "start": 1477.753,
+                    "stop": 1481.345,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Not buying into they're thing with \"could\". I mean, that isn't my problem."
+                },
+                {
+                    "start": 1481.345,
+                    "stop": 1504.929,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Okay. If they drew a list of what are the distinct trust costs, it would have to include, if it includes fiduciary, income tax preparation or, better yet, judicial accounting, individual duties in the case of guardianships and so on. This is of the same caliber and at the same level of generality we think would have to be covered."
+                },
+                {
+                    "start": 1504.929,
+                    "stop": 1509.208,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But have they issued a regulation drawing up this list at this point?"
+                },
+                {
+                    "start": 1509.208,
+                    "stop": 1527.607,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "There's only a proposed regulation, Your Honor. And we believe that because their readings are not textually supportable, are unadministratable and aren't what Congress intended, that after applying the ordinary tools of statutory construction, there is only one meaning that this text can have. I'd like to respond to--"
+                },
+                {
+                    "start": 1527.607,
+                    "stop": 1547.989,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why is it not administerable? Whether you think it's a faithful rendition of the statute is one thing, but this is exactly what Justice Breyer was talking about. It says these are the things that are special to the trust, and then these are the things that are not. That's what the proposed reg does, right?"
+                },
+                {
+                    "start": 1547.989,
+                    "stop": 1588.894,
+                    "speaker": {
+                        "name": "Peter J. Rubin",
+                        "ID": 38271,
+                        "role": "advocate",
+                        "side": "petitioner"
+                    },
+                    "text": "--Yes, Your Honor. It is... it's a little bit of a moving target but it does say that. If those are nonexhaustive lists and the difficulty of allocating these costs of attributing them to one thing or another, putting in place systems that trustees that charge unitary fees, which is what corporate trustees do, is enormous. And some of this can be seen in the comments, the public comments to the regulation, some excerpts of which are included in the appendix to our reply brief. But this is not a simple test. And indeed, the Commissioner essentially concedes that, saying that she would need to have safe harbors or some other unprincipled line because of the difficulty. I'd like to reserve the balance of my time."
+                },
+                {
+                    "start": 1588.894,
+                    "stop": 1595.376,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Rubin. Mr. Miller."
+                }
+            ],
+            "start": 10.481,
+            "stop": 1608.934
+        },
+        {
+            "turns": [
+                {
+                    "start": 1595.376,
+                    "stop": 1608.934,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Mr. Chief Justice, and may it please the Court: Section 67(e) creates a narrow exception to the 2 percent floor for costs which would not have not have been incurred if the property were not held in trust."
+                },
+                {
+                    "start": 1608.934,
+                    "stop": 1610.323,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It wasn't narrow in the beginning, right?"
+                },
+                {
+                    "start": 1610.323,
+                    "stop": 1633.892,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, that's correct, Your Honor. The second clause was added in a floor amendment. Initially Congress had drafted just the \"which are paid\"... \"which are incurred or paid in connection with the administration of the estate or trust. \" Then the second clause was added. And that clause demands that the costs would not have been incurred if the property were not held--"
+                },
+                {
+                    "start": 1633.892,
+                    "stop": 1667.191,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "This is somewhat of a mystery, the wording of that clause. And since it came in at the very last minute, isn't it appropriate to give it a limited reading, rather than, in your suggestion, that this provision that up until the very end read just administration, \"costs paid or incurred in connection with the administration of the estate or trust. \" period? And then there was this add-on. Why should we give that an expansive meaning?"
+                },
+                {
+                    "start": 1667.191,
+                    "stop": 1713.282,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think, regardless of the timing, Your Honor, Congress chose to enact it and that choice has to be given effect. And I think when you look at the way that the section as a whole is set up, 67(e), the first introductory clause creates the general principle that for purposes of this section the adjusted gross income of an estate shall be computed in the same manner as in the case of an individual, except that, and then there is clause one. So in the context of this section, we have a general rule and then an exception. And that ought to be interpreted in light of the usual principle that exceptions, particularly ambiguous exceptions, should not be construed so as to swallow up the entirety of the rule, which is essentially what Petitioner's interpretation would do."
+                },
+                {
+                    "start": 1713.282,
+                    "stop": 1749.019,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why do you think that the only instances where the expense would not have occurred are those instances where it could not have occurred? That doesn't strike me as self-evident. I mean, I understand why you do it, so that can you have a nice clear line, which I am all for. But the line given by your colleague is just as clear. I don't know why I should accept yours when... I mean, \"would\" just does not mean \"could\". I mean, would have, could have, should have, it's... they're different words."
+                },
+                {
+                    "start": 1749.019,
+                    "stop": 1758.498,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, they are... they're certainly different words. We're not suggesting that they are synonyms. But we are suggesting that there are contexts in which the word \"would\" can carry the same meaning that is also expressed through the word \"could\"."
+                },
+                {
+                    "start": 1758.498,
+                    "stop": 1770.213,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Give me a context where... where... other than this statute, where in common parlance people use \"would\" to mean \"could\"."
+                },
+                {
+                    "start": 1770.213,
+                    "stop": 1778.569,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Another example would be if I were to say that that glass would not hold more than 8 ounces of water, that would mean that it could not hold more than 8 ounces of water."
+                },
+                {
+                    "start": 1778.569,
+                    "stop": 1779.6,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "No, I don't think it would mean that."
+                },
+                {
+                    "start": 1779.6,
+                    "stop": 1782.458,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "A glass--"
+                },
+                {
+                    "start": 1782.458,
+                    "stop": 1796.748,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Anything that could not be done of course would not be done. But that doesn't mean that the... that the two words mean the same thing. It's true that one is included within the other, but they don't mean the same thing."
+                },
+                {
+                    "start": 1796.748,
+                    "stop": 1801.341,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Would... I think that the unadorned use of the word \"would\" here--"
+                },
+                {
+                    "start": 1801.341,
+                    "stop": 1808.744,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What could not happen would not happen, of course. But it doesn't mean that... the two concepts are not the same."
+                },
+                {
+                    "start": 1808.744,
+                    "stop": 1824.004,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think, when... when you have the word \"would\", as we have in this statute, that's not qualified in any way, it's ambiguous in the sense that it can mean definitely would not have been incurred, probably would not have been incurred, customarily, ordinarily would not have been incurred, which is the meaning--"
+                },
+                {
+                    "start": 1824.004,
+                    "stop": 1828.767,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "You didn't think much of this argument before the Second Circuit adopted it, did you? You didn't argue this before the Court of Appeals? [Laughter]"
+                },
+                {
+                    "start": 1828.767,
+                    "stop": 1831.812,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--We did not argue it before--"
+                },
+                {
+                    "start": 1831.812,
+                    "stop": 1832.874,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So you have a fallback argument."
+                },
+                {
+                    "start": 1832.874,
+                    "stop": 1835.17,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, that... that's right."
+                },
+                {
+                    "start": 1835.17,
+                    "stop": 1837.919,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, now might be a good time to fall back. [Laughter]"
+                },
+                {
+                    "start": 1837.919,
+                    "stop": 1853.116,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Before... I mean, we have lots of good examples. I mean, I could have colored my room at home, painted it with light green plastic, but I wouldn't have done it. I mean, endless examples."
+                },
+                {
+                    "start": 1853.116,
+                    "stop": 1867.501,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Right. And certainly the statute also admits of the reading given to it by the Fourth and Federal Circuits, which is that \"would not have been incurred\" means customarily or ordinarily would not have been incurred by individuals."
+                },
+                {
+                    "start": 1867.501,
+                    "stop": 1882.76,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If we can rush to the fallback position, is it acceptable to have a test that says would the expense have been incurred if the nontrust business wanted to achieve an objective that the trust wanted to achieve here, fixing the roof?"
+                },
+                {
+                    "start": 1882.76,
+                    "stop": 1893.928,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I... I think that that raises the question of what is the relevant comparison group for... for individuals outside of the trust side of it."
+                },
+                {
+                    "start": 1893.928,
+                    "stop": 1897.036,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And I think the structure of the statute requires us to... to do that."
+                },
+                {
+                    "start": 1897.036,
+                    "stop": 1919.434,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right. And... and we would suggest that the relevant comparison is individuals with... with similar assets, right, because it's in the absence of a trust, not if the property did not exist. So you have to look at an individual who held those assets outright, and an individual with those assets trying to achieve those goals might well seek investment advice."
+                },
+                {
+                    "start": 1919.434,
+                    "stop": 1939.786,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Will, you give as an example of something that wouldn't fall within the 2 percent floor the cost of preparing and filing a fiduciary income tax return. What is the difference between that and getting fiduciary investment advice? Just because it's a different form that's filled out? Is it more expensive to... to fill out a 1041 than to fill out the 1040?"
+                },
+                {
+                    "start": 1939.786,
+                    "stop": 1973.976,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's more expensive because it's an additional cost. If an individual were to hold the property outright, he or she would simply put the income from that property on his own 1040. If in addition there is a trust, then the trust has to fill out a 1041, the trust also has to prepare Form K-1s and send them out both to the beneficiaries and to the IRS, showing the beneficiaries' share of the trust income, and then the individual still has to file a 1040. So the existence of the trust has created this whole additional set of filing and reporting obligations."
+                },
+                {
+                    "start": 1973.976,
+                    "stop": 2041.26,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but it's the individual who has to file the 1040. What the trustee is filing is the 1041. And... and why do you place... I was going to ask the same question that Justice Alito did, and that is why do you place so much significance either in the label, i.e., it's fiduciary return, or in the peculiar fact that it is a fiduciary who is filing that return? It's a tax return and... and I think your... the government's argument is that with respect to... to other items that may be disputed, you should regard them at a fairly general level, i.e., investment advice, not fiduciary investment advice. But when you come to the tax return, you don't regard it as a general... at a general level; you regard it at a very specific level, i.e., a fiduciary tax return. It seems to me that the government with respect to the tax return is doing exactly what it criticizes the taxpayer for doing with respect to investment advice. And I don't understand the distinction."
+                },
+                {
+                    "start": 2041.26,
+                    "stop": 2049.366,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "With respect to the tax return, it's not that it's a fiduciary tax return as opposed to an individual tax return; it's that it's an extra tax return that has to be filed."
+                },
+                {
+                    "start": 2049.366,
+                    "stop": 2064.594,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, it's the only tax return that the fiduciary has to file; isn't that correct? The fiduciary files that tax return and the beneficiary files a 1040. But the only return the fiduciary's filing is the 1041; isn't that right?"
+                },
+                {
+                    "start": 2064.594,
+                    "stop": 2072.061,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--That's the only... but in that... in the system of the beneficiary and the fiduciary there are two tax returns that have to be filed, whereas--"
+                },
+                {
+                    "start": 2072.061,
+                    "stop": 2082.291,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Okay; I understand that that is a factual difference, but I don't understand what it is that makes that a difference in principle."
+                },
+                {
+                    "start": 2082.291,
+                    "stop": 2102.954,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that... that's an extra obligation that would not have been incurred in the absence of the trust. And I think, turning to the case of investment advice, I think there is really no level of generality or particularity at which one can look at investment advice such that there is anything unique about trust investment advice."
+                },
+                {
+                    "start": 2102.954,
+                    "stop": 2162.321,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, can't you ask it... can't... can't you ask this question pointing towards something unique: If the individual investor does a very poor job of managing his investments, all he can ultimately do is cry about it. But if the trustee does a very poor job, the trustee is going to get sued. So that when the trustee asks for an investment advisor's advice, the trustee is addressing an issue that the individual does not have. The trustee wants to be covered. He also, I presume, wants to be a good trustee. But he is in fact doing something which is, to use your phrase, in addition to what the individual investor would do. He is looking out for somebody else and he is looking out for himself if the investment goes south. Why isn't that a sufficient difference that is at least comparable to the difference that you talk about in the filing of a fiduciary tax return?"
+                },
+                {
+                    "start": 2162.321,
+                    "stop": 2178.847,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's not a difference, because if the individual invests poorly he'll lose money. And if the... and he'll lose his own money. If the fiduciary invests poorly he may get sued and the measure of damages in that suit will be the amount of money he lost. So they're both facing the possibility of losing."
+                },
+                {
+                    "start": 2178.847,
+                    "stop": 2197.494,
+                    "speaker": {
+                        "name": "David H. Souter",
+                        "ID": 15042,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Yes, but whether... whether he gets socked with damages or not is going to depend in part whether he is covered by an investment advisor's bit of advice; and that is... that is a different item in the calculus of liability. He is providing for something that the individual investor does not provide for or need to provide for."
+                },
+                {
+                    "start": 2197.494,
+                    "stop": 2210.787,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, the... the standard of conduct that is supposed to govern the fiduciary is the prudent investor rule, which looks at what a reasonable prudent individual would do in managing his own money so I think that--"
+                },
+                {
+                    "start": 2210.787,
+                    "stop": 2255.534,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, I have the same problem. You know, I... it seems to me that it is entirely reasonable to say only a trustee can seek investment advice concerning what he should do to fulfill his responsibilities under the trust. Only a trustee can do that. A private individual might seek investment advice as to how he could maximize the income or... or the growth of the funds that he has, but only... only a trustee seeks advice as to how he can fulfill his responsibilities under the trust. And you could say that's distinctive. No individual would do that because he's not a trustee."
+                },
+                {
+                    "start": 2255.534,
+                    "stop": 2275.947,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--But there's no distinction in that case in the... in the fee that's charged or in the advice that's given by the investment advisor. In either case somebody goes to the advisor and says, I have the following goals that I want to achieve with this money. It may be my money; it may be a trust's money. And the advisor thinks about those goals and comes up with... with investment advice. And those goals--"
+                },
+                {
+                    "start": 2275.947,
+                    "stop": 2303.358,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It may... it may well be the same advice, but in... but in one case it is... it is advice sought by and given to a trustee, a unique kind of advice. In... in substance, it may turn out to be the same; but it's not the same advice you're giving to a private individual. You're saying here's the trust instrument and here are the objects to be achieved by the trust instrument and this is the... the advice that will best do that. That doesn't happen with an individual."
+                },
+                {
+                    "start": 2303.358,
+                    "stop": 2312.542,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I mean, but for the fact that the word \"trust\" is in there, I think the substance of the interaction with the investment advisor is exactly the same."
+                },
+                {
+                    "start": 2312.542,
+                    "stop": 2327.177,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But doesn't your proposed regulation concede that there is investment advisory advice that is unique to... to estates and trusts? Isn't that what subparagraph C says?"
+                },
+                {
+                    "start": 2327.177,
+                    "stop": 2348.309,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. Subparagraph C has two lists, both of which are nonexclusive: a list of items that are unique to trusts and a list of items that are not unique to trusts. In the list of items that are not unique to trusts is investing for total return. There is no type of investment advice--"
+                },
+                {
+                    "start": 2348.309,
+                    "stop": 2358.383,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Why that limitation? Why wouldn't it say just \"investment advice\", but it's... investing for total return is more limited?"
+                },
+                {
+                    "start": 2358.383,
+                    "stop": 2372.768,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think perhaps because that's most obviously the type of advice that is not unique to trusts. But the... the proposed regulation does not identify any kind of advice that is unique to trusts."
+                },
+                {
+                    "start": 2372.768,
+                    "stop": 2398.68,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It doesn't say it's one or the other. So it's not so sure, right? It's sure about advice on investing for total return. In other words, the regulation, the proposed regulation, doesn't answer this case of investment advice in general as opposed to advice on investing for total return."
+                },
+                {
+                    "start": 2398.68,
+                    "stop": 2405.317,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--You're right that the regulation in terms of the enumeration in subsection (b) is silent on the question of other types of--"
+                },
+                {
+                    "start": 2405.317,
+                    "stop": 2430.091,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Can you really spice up advice that way? You ask the advisor, say, which... what percentage of your advice was the advice that went to maximizing total return and what percentage went to this other thing? I mean, gee, I don't want to get courts into trying to figure that out, or private individuals or financial advisors in trying to figure that out. That's just a crazy way to run a tax system, it seems to me."
+                },
+                {
+                    "start": 2430.091,
+                    "stop": 2443.271,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that's right, and that's why I think that the... despite the fact that investing for total return is the only example given in the list, which, again, is described as not exclusive. I think the best reading of the proposed regulation is--"
+                },
+                {
+                    "start": 2443.271,
+                    "stop": 2446.629,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But that's not all advice. That's just some of the advice, right?"
+                },
+                {
+                    "start": 2446.629,
+                    "stop": 2447.504,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes."
+                },
+                {
+                    "start": 2447.504,
+                    "stop": 2459.859,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Now, what about the rest of it? How do you slice up, you know... now, investment advisor, tell me what percentage of your advice went to the total return and what percentage went to other things. I don't think the investment advisor is going to be able to tell you."
+                },
+                {
+                    "start": 2459.859,
+                    "stop": 2475.227,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think the best reading of the proposed regulation, and perhaps the Service may well clarify this during the rule-making process, is that all advice is not unique to trusts because there's no type of advice that a trustee could seek that an individual could not--"
+                },
+                {
+                    "start": 2475.227,
+                    "stop": 2479.241,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "They certainly weren't sure about it when they drafted this regulation, proposed regulation."
+                },
+                {
+                    "start": 2479.241,
+                    "stop": 2485.442,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, it is... it's just a proposal, again, and I think they picked what's perhaps the most obvious."
+                },
+                {
+                    "start": 2485.442,
+                    "stop": 2505.622,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But in other categories, they express no such limitation. Custody or management of property, not qualified. And they... but when you get to investing, it has that total return. Everything else has got maintenance, repair, insurance."
+                },
+                {
+                    "start": 2505.622,
+                    "stop": 2535.297,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right. And there's also a fairly extensive list of nonexclusive... of nonunique products or services, and that does not include any other type of investment advice. So I think what one can draw the opposite inference from that list, but in any event, that's something that could be clarified in the rule-making process. Returning to--"
+                },
+                {
+                    "start": 2535.297,
+                    "stop": 2558.147,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "So how does your customary or commonly incurred test work? Let's say you have two trusts, one $10 million, the other 10,000. I think an individual with $10 million might well seek investment advice, but an individual with only 10,000 might decide it's not worth it. Would you have a different application of the 2 percent rule for those two trusts?"
+                },
+                {
+                    "start": 2558.147,
+                    "stop": 2575.639,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think if the test is whether... whether the individuals would have... would commonly ordinarily incur that cost, I think one might well look at that because the comparison would be individuals with similar assets, and, as Your Honor knows, there might be a difference depending on the size."
+                },
+                {
+                    "start": 2575.639,
+                    "stop": 2591.977,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How many... how many individuals do you need? Let's say it's $3 million in the trust, and we think maybe 60 percent of people would hire an investment advisor; 40 percent would think they can do just as well on their own. Is that customarily incurred by individuals?"
+                },
+                {
+                    "start": 2591.977,
+                    "stop": 2598.1,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think it might well be enough that... for something that the Service could clarify through--"
+                },
+                {
+                    "start": 2598.1,
+                    "stop": 2603.503,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Your answer to both questions is \"might well be\", and that's a fairly vague line when it comes to taxes."
+                },
+                {
+                    "start": 2605.22,
+                    "stop": 2618.264,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And whatever line you... you pick, I guarantee you, trusts are going to break themselves up into mini-trusts that fall under the line. I mean people aren't stupid. [Laughter]"
+                },
+                {
+                    "start": 2618.264,
+                    "stop": 2629.12,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Or, even worse, advisors are going to break themselves up into different advisors. There's going to be somebody who says I'm a fiduciary advisor whenever a trustee calls, but, I'm a normal advisor, when it's an individual."
+                },
+                {
+                    "start": 2629.12,
+                    "stop": 2666.652,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think the difficulty in applying that test is one of the reasons why we suggest that the categorical... the more categorical approach, which we think is also a permissible reading of the statute, is the preferable one. But, in either event, if the test is customarily or ordinarily incurred, it was Petitioner's obligation in the tax court to show that they qualified for the exemption from the 2 percent floor. And so it would be Petitioner's burden to show that this is a cost not that's customarily or ordinarily incurred by individuals."
+                },
+                {
+                    "start": 2666.652,
+                    "stop": 2673.383,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What's your best case for that proposition? Your colleague resisted the notion that he had the burden and what's your best case for that?"
+                },
+                {
+                    "start": 2673.383,
+                    "stop": 2684.034,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's not a case, but it's the rule. Tax Court Rule 142 places the burden of proof on the taxpayer. Petitioner sites--"
+                },
+                {
+                    "start": 2684.034,
+                    "stop": 2702.636,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But I thought that rule applied to the applicability of individual exemptions. Here we have a different question. It's how to read an exception to the general rule. Do you have a case for a proposition that the taxpayer has the burden in those cases? You said that in your brief, but it didn't have a case cite with it."
+                },
+                {
+                    "start": 2702.636,
+                    "stop": 2720.207,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. We don't have a case, but the rule is unqualified in terms of its applicability. It doesn't say only on particular issues. And the case that Petitioner cites is United States against Janis, which is about a \"naked\" assessment, which is far removed from what we have here."
+                },
+                {
+                    "start": 2721.692,
+                    "stop": 2729.143,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--Are we saying, as a question of law, the taxpayer has the burden of proof? If it isn't a question of proof, it isn't a question of evidence?"
+                },
+                {
+                    "start": 2729.143,
+                    "stop": 2745.308,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--No. I was referring to questions of fact. I understood the question to be if the legal test turns on the factual question of what is it, what is customary or ordinary for individuals to incur, then on that fact, that would be a factual issue."
+                },
+                {
+                    "start": 2745.308,
+                    "stop": 2805.128,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, what would... that's why I made the suggestion I had earlier. I was doubtful about the wisdom of trying to turn this matter into a purely factual one. And so suppose you said, which would come to about the same thing, that expenditure would be incurred in this instance by someone who didn't hold these assets in trust. What that means is would a... an investor not in the trust, not holding it in trust, reasonably have been, or a reasonable investor have been likely to make this expenditure? That turns it into a more quasi-legal question where people... and then it's a matter of judgment, which these things do come down to. That's what judges are there for, to judge. And thereby we avoid the burden-of-proof problem. It comes to about the same thing. Is there any objection to it? What's the reason not to do it?"
+                },
+                {
+                    "start": 2805.128,
+                    "stop": 2823.682,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "If that is the test, then it's very easy to apply to the case of investment advice, because we know that the trustee's obligation is to act as a reasonable and prudent individual would. And so we know that if... to the extent that the trustee seeks investment advice in pursuance of that obligation--"
+                },
+                {
+                    "start": 2825.01,
+                    "stop": 2871.21,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "--You would be, of course, exactly right, that there could be trusts, very big trusts. Children get into fights trying to split up the assets. Millions is paid on lawyers and investment advisors to see if each share, figured 14 different ways, is going to earn this money or that money. And that kind of thing exists. And there the investment advisors are likely to be special. So you can't say investment advice is always special or never special. Now, again, this seems to me not unknown, this kind of problem, to the Internal Revenue law, and therefore there tend to be methods of allowing exceptions, of putting burdens. I mean, is this case somehow... am I wrong about that?"
+                },
+                {
+                    "start": 2871.21,
+                    "stop": 2885.69,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think that to the extent that you're suggesting that the Service could be... could clarify the statute through the use of regulations, we certainly agree with that. The service has the ability to resolve some of the ambiguities."
+                },
+                {
+                    "start": 2885.69,
+                    "stop": 2910.726,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I'm looking really for a form of words to write that does not use the word \"could\" but which gets at what I think the statute was after, which is: Let them have this no floor for their special stuff but not for ordinary stuff that others would have incurred regardless. I want to know what form of words. I find it difficult to go beyond the statute, frankly."
+                },
+                {
+                    "start": 2910.726,
+                    "stop": 2915.021,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "I think \"would not have occurred\" is pretty good-- --actually."
+                },
+                {
+                    "start": 2915.021,
+                    "stop": 2917.036,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "That's right. [Laughter]"
+                },
+                {
+                    "start": 2917.036,
+                    "stop": 2923.94,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "The... the formulation that the Service has proposed of course is to look at costs that are unique to--"
+                },
+                {
+                    "start": 2923.94,
+                    "stop": 2930.655,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If I reject this word \"could\" and \"uniqueness\", now what form of word should I write?"
+                },
+                {
+                    "start": 2930.655,
+                    "stop": 2940.244,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think \"ordinarily\" or \"customarily\" is also a permissible interpretation of--"
+                },
+                {
+                    "start": 2940.244,
+                    "stop": 2948.445,
+                    "speaker": {
+                        "name": "Stephen G. Breyer",
+                        "ID": 15139,
+                        "role": "scotus_justice"
+                    },
+                    "text": "If had you to choose between that and getting the idea of the reasonable taxpayer who didn't hold this in trust, which would you choose?"
+                },
+                {
+                    "start": 2948.445,
+                    "stop": 2961.065,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think they are actually very similar inquiries, because we expect that the reasonable person is the ordinary person. So I think in practice, those formulations get you to the--"
+                },
+                {
+                    "start": 2961.065,
+                    "stop": 2963.626,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It almost sounds like ordinary and necessary under 162?"
+                },
+                {
+                    "start": 2963.626,
+                    "stop": 2971.998,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Well, ordinary and necessary under... I mean here we are talking about... as Mr. Rubin said, it's under 212."
+                },
+                {
+                    "start": 2971.998,
+                    "stop": 2972.982,
+                    "speaker": {
+                        "name": "Anthony M. Kennedy",
+                        "ID": 15113,
+                        "role": "scotus_justice"
+                    },
+                    "text": "212. I understand that."
+                },
+                {
+                    "start": 2972.982,
+                    "stop": 2985.367,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "It's not in connection with a trade or business. Ordinary and necessary in that context means simply that it's a legitimately connected to the production of income. That's a requirement for it to be deductible at all."
+                },
+                {
+                    "start": 2985.367,
+                    "stop": 3011.545,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "It seems to me the difficulty is in characterizing the level of generality at which you describe the cost, not whether it's ordinary or customary or unique. You run into the same problem no matter how you do that, but you have to decide whether you're talking about investment advice or fiduciary investment advice, tax preparation costs or fiduciary tax preparation costs. And what is the formula for making that distinction?"
+                },
+                {
+                    "start": 3011.545,
+                    "stop": 3026.96,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "I think what the Service is trying to do in the proposed regulation and what we have suggested is appropriate is simply a common sense practical approach to that. And there may be some difficult cases at the margin. And that's one of the things that the service will try to--"
+                },
+                {
+                    "start": 3026.96,
+                    "stop": 3053.762,
+                    "speaker": {
+                        "name": "Ruth Bader Ginsburg",
+                        "ID": 15084,
+                        "role": "scotus_justice"
+                    },
+                    "text": "And this must be one. The Service must think this is one because it was certain about the tax return. It says tax return that doesn't get the subject to the 2 percent but only this kind of investment advice for total return. So that the Service didn't see this as a clear and certain category."
+                },
+                {
+                    "start": 3053.762,
+                    "stop": 3065.789,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Again, I think what the Service was doing there was picking out just the most obvious example. But there simply is no such thing as fiduciary investment advice that is distinct from--"
+                },
+                {
+                    "start": 3065.789,
+                    "stop": 3078.877,
+                    "speaker": {
+                        "name": "Samuel A. Alito, Jr.",
+                        "ID": 15068,
+                        "role": "scotus_justice"
+                    },
+                    "text": "How do we deal with this problem until there is a regulation? It may be that if the Service issues a regulation and says that these fall into one category and these fall into the other, that would be entitled to a deference. But right now we don't have a regulation, right? So what do we do?"
+                },
+                {
+                    "start": 3078.877,
+                    "stop": 3109.411,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I think what we have suggested is there are two... there are a couple of possible readings of the statute based on the ambiguity in the word \"would\". And in the absence of a regulation, we are not suggesting that the Service's position is entitled to deference under Chevron. But I think some deference to the consistent position of the Service since the statute was enacted that the investment advice be subject to the 2 percent floor."
+                },
+                {
+                    "start": 3109.411,
+                    "stop": 3123.359,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "May I ask you the same question I asked your adversary? Whether you use the term \"could\" or \"customarily\" or whatever you're formulating, the bottom line, as I understand your position, is that these costs will never be deductible?"
+                },
+                {
+                    "start": 3123.359,
+                    "stop": 3128.045,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "They will... they will be deductible but they will be subject to the floor."
+                },
+                {
+                    "start": 3128.045,
+                    "stop": 3133.855,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But they will never... you would not say some trusts yes, and some trusts no?"
+                },
+                {
+                    "start": 3133.855,
+                    "stop": 3147.286,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, under... I mean, if the test were customarily or ordinarily, it might be the case that a trust could show that given the nature of the assets in it, if it were--"
+                },
+                {
+                    "start": 3147.286,
+                    "stop": 3158.219,
+                    "speaker": {
+                        "name": "John Paul Stevens",
+                        "ID": 15060,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Would you have to have a case-by-case analysis of the facts as to whether the particular advice would have been sought, whether the advice was by a trustee or by an individual?"
+                },
+                {
+                    "start": 3158.219,
+                    "stop": 3164.607,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--It's not... we are not suggesting that it's at the level of that particular advice. The question would be--"
+                },
+                {
+                    "start": 3164.607,
+                    "stop": 3191.643,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The cost of the advice? What percentage of the costs incurred by a trust do you think the investment advice consists of? I mean, it seems to me the main thing a trustee ordinarily does, at least if he is a trustee of just cash, is to invest it. It seems to me his major expense must be getting financial advice, isn't that right?"
+                },
+                {
+                    "start": 3191.643,
+                    "stop": 3194.767,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--I don't know the answer to that. The Service--"
+                },
+                {
+                    "start": 3194.767,
+                    "stop": 3227.66,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, imagine something else. Guess. What other, what other expense could even approximate that? And then my follow-up is, is there any... I don't care about legislative history but some of my colleagues do. Is there any... is there any indication that Congress thought it was, it was whacking trusts with this immense new tax with respect to their major expenditure? I expect it must be their major expenditure."
+                },
+                {
+                    "start": 3227.66,
+                    "stop": 3237.968,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--To take your second question first, the legislative history is silent on specifically what Congress's objective was in section 67(e)."
+                },
+                {
+                    "start": 3237.968,
+                    "stop": 3238.531,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "The dog didn't bark."
+                },
+                {
+                    "start": 3238.531,
+                    "stop": 3272.876,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "But I think... but I think what one can infer from legislative history of the '86 Act and more broadly and from the text of the statute is that Congress wanted property to be treated the same, regardless of whether it was held by an individual outright or held by a trust. So if an individual would incur certain costs if he held the property outright, those costs shouldn't be able to escape the 2 percent floor simply because the property is placed into a trust. But if the trust... the existence of the trust relationship creates some new or additional costs that would not have existed otherwise, then those are not subjected to the 2 percent clause."
+                },
+                {
+                    "start": 3272.876,
+                    "stop": 3313.813,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Well, you know a trust is sort of like a business. And deductions that an individual could not take if he were not in a business are perfectly okay for a business. And I don't know why trusts wouldn't be treated the same way. A trust has to get investment advice. True? When it's... when it's an individual getting it, you wouldn't allow a deduction, but a trust is different. And unless Congress is clearer than this statute, I... it seems to me that no individual would get trust investment advice. Only a trust can get trust investment advice."
+                },
+                {
+                    "start": 3313.813,
+                    "stop": 3331.681,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "Well, individuals could get... could and do get investment advice that is no different in substance from the advice the trust might get. And a trustee might decide that he didn't need investment advice if the trustee is financially sophisticated and doesn't need an advisor. To go--"
+                },
+                {
+                    "start": 3331.681,
+                    "stop": 3358.076,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "What if you get a bill from the investor advisor, and it's $50,000 and it's broken up, 30,000 is general stock picking advice, and 20 percent is specialized fiduciary advice? In other words, they figure out what good stocks are they pushing these days and they go down and say, well, you're a trustee, you can't buy this you can't buy that. You would... would you agree that the $20,000 is not subject to the 2 percent floor but the 30,000 is?"
+                },
+                {
+                    "start": 3358.076,
+                    "stop": 3371.398,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "--Yes. As we acknowledged in our brief, if the advisor... or another example would be if the advisor imposed some extra charge on the fiduciary accounts for whatever reason, that would be an expense that an individual going to that same advisor could not incur or ordinarily would not incur."
+                },
+                {
+                    "start": 3371.398,
+                    "stop": 3387.877,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "But the individual who wanted to maximize income, for example, if the trustee has to maximize income for some of the life beneficiaries or something, an individual could seek that same advice if he wanted that particular result from the investment, couldn't he?"
+                },
+                {
+                    "start": 3387.877,
+                    "stop": 3397.654,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "That's right. I understood the question to refer to the case where the advisor charges some extra fee because the client is a trust."
+                },
+                {
+                    "start": 3397.654,
+                    "stop": 3412.102,
+                    "speaker": {
+                        "name": "Antonin Scalia",
+                        "ID": 15049,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Oh, I didn't understand it to be that. I thought it was going to be, you know, the advisor had to figure out we need so much for the, for the remainder man and so much for the life beneficiaries and so forth. You don't think that would be enough?"
+                },
+                {
+                    "start": 3412.102,
+                    "stop": 3414.287,
+                    "speaker": {
+                        "name": "Eric D. Miller",
+                        "ID": 22857,
+                        "role": "advocate",
+                        "side": "respondent"
+                    },
+                    "text": "No. It wouldn't be. Thank you."
+                },
+                {
+                    "start": 3414.287,
+                    "stop": 3417.083,
+                    "speaker": {
+                        "name": "John G. Roberts, Jr.",
+                        "ID": 15086,
+                        "role": "scotus_justice"
+                    },
+                    "text": "Thank you, Mr. Miller. Mr. Rubin, you have four minutes remaining."
+                }
+            ],
+            "start": 3417.083,
+            "stop": 3444.087
+        }
+    ]
+}
