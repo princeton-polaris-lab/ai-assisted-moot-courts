@@ -1,0 +1,43 @@
+##### CLASSIFY METRICS CONFIG -- SBATCH OR HYDRA RUN #####
+# 'vllm' or 'openai' or 'sglang' or 'gemini'
+model_type: sglang
+# local path to 'Llama-3.3-70B-Instruct' or 'Qwen3-32B'
+model_path: ??
+# api-key=<key> on your command line
+api_key:
+# possible metrics also include RUBRIC_SIMILARITY
+metrics_to_classify: 
+  - ISSUE_COVERAGE_SPECIFIC
+
+# run metrics only on remarks with log_ids below: allows for targeted classifications
+model_ids: 
+  # - Llama-3.3-70B-Instruct
+  # - Qwen3-32B
+  # - gemini-2.5-pro
+  # - gemini-2.5-pro_AGENT
+  # - gpt-oss-120b_AGENT
+  # - gpt4o
+  # - gpt4o_AGENT
+  # - gpt-oss-120b
+
+idx_to_start_run: 0
+
+##### HYDRA SLURM SUBMISSION #####
+#### COMMENT OUT IF RUNNING GPT4o WITH OPENAI or submitting a batch job through slurm ####
+defaults:
+  - override hydra/launcher: submitit_slurm
+
+# Make sure this number matches the gres value in the hydra-launcher! 
+# The normal yaml override won't work
+num_gpus: 2
+
+hydra:
+  launcher:
+    timeout_min: 240
+    mem_gb: 120
+    gres: gpu:2
+    setup:
+      - export HYDRA_FULL_ERROR=1
+      - module purge
+      - module load anaconda3/2024.6
+      - conda activate gptoss
